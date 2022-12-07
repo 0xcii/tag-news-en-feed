@@ -1,4 +1,4 @@
-# x-web3cave-template
+# tag-news-en-feed
 
 
 1. Get data from `flat-data-template`
@@ -7,7 +7,7 @@
 
 3. Open `Github Page` on Settings
 
-4. Visit data on [https://web3cave.github.io/x-web3cave-template](https://web3cave.github.io/x-web3cave-template)
+4. Visit data on [https://0xcii.github.io/tag-news-en-feed/feed.atom](https://0xcii.github.io/tag-news-en-feed/feed.atom)
 
 
 

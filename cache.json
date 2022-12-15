@@ -711,21 +711,6 @@
           "imageUrl": "https://cdn.jwplayer.com/v2/media/c4lrMB0e/poster.jpg"
         },
         {
-          "id": "https://decrypt.co/videos/live-events/z6m8NyuF/the-crypties-awards-2022-people-of-crypto-wins-metaverse-event-of-the-year",
-          "author": null,
-          "description": "Simone Berry and Akbar Hamid accepted the Cryptie for People of Crypto's Metaverse Pride Parade from presenter Toni Thai Sterrett of Bad Grrls Creative Club at the inaugural Crypties Awards from Decrypt Studios in Miami on November 30. The other nominees in the category were Decentraland's Metaverse Fashion Week and Heal from The Sandbox and Code Green.",
-          "link": "https://decrypt.co/videos/live-events/z6m8NyuF/the-crypties-awards-2022-people-of-crypto-wins-metaverse-event-of-the-year",
-          "publishedOn": "2022-12-06T17:34:44.000Z",
-          "wordCount": 5835,
-          "title": "The Crypties Awards 2022: People of Crypto Wins Metaverse Event of the Year",
-          "enclosure": {
-            "url": "https://cdn.jwplayer.com/v2/media/z6m8NyuF/poster.jpg",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.jwplayer.com/v2/media/z6m8NyuF/poster.jpg"
-        },
-        {
           "id": "https://decrypt.co/videos/live-events/dLlerLlT/the-crypties-2022-doodles-collab-with-shopify-wins-mainstream-award",
           "author": null,
           "description": "Shirley Cedeno and Akbar Hamid accepted the Cryptie on behalf of Doodles from presenters Igor Lilic and Gabriela Ramos Lilic of Breakout at the inaugural Crypties Awards from Decrypt Studios in Miami on November 30. The other nominees in the category were RTFKT and Nike, Gmoney and Adidas, Tiffany and CryptoPunks, and TIMEpieces.",
@@ -739,6 +724,21 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.jwplayer.com/v2/media/dLlerLlT/poster.jpg"
+        },
+        {
+          "id": "https://decrypt.co/videos/live-events/z6m8NyuF/the-crypties-awards-2022-people-of-crypto-wins-metaverse-event-of-the-year",
+          "author": null,
+          "description": "Simone Berry and Akbar Hamid accepted the Cryptie for People of Crypto's Metaverse Pride Parade from presenter Toni Thai Sterrett of Bad Grrls Creative Club at the inaugural Crypties Awards from Decrypt Studios in Miami on November 30. The other nominees in the category were Decentraland's Metaverse Fashion Week and Heal from The Sandbox and Code Green.",
+          "link": "https://decrypt.co/videos/live-events/z6m8NyuF/the-crypties-awards-2022-people-of-crypto-wins-metaverse-event-of-the-year",
+          "publishedOn": "2022-12-06T17:34:44.000Z",
+          "wordCount": 5835,
+          "title": "The Crypties Awards 2022: People of Crypto Wins Metaverse Event of the Year",
+          "enclosure": {
+            "url": "https://cdn.jwplayer.com/v2/media/z6m8NyuF/poster.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.jwplayer.com/v2/media/z6m8NyuF/poster.jpg"
         },
         {
           "id": "https://decrypt.co/videos/live-events/nQuIgj4l/the-crypties-awards-2022-lens-protocol-wins-defi-project-of-the-year",
@@ -898,6 +898,16 @@
       "siteUrl": "https://cryptopanic.com/",
       "articles": [
         {
+          "id": "https://cryptopanic.com/news/17153319/Could-NFTs-have-prevented-Taylor-Swifts-concert-tickets-debacle",
+          "author": null,
+          "description": "The trillion-dollar concert ticketing sector is plagued by scalping and other Web2-era problems, writes Ryan Kenny of SeatlabNFT. Here's how blockchain can help fans and artists.",
+          "link": "https://cryptopanic.com/news/17153319/Could-NFTs-have-prevented-Taylor-Swifts-concert-tickets-debacle",
+          "publishedOn": "2022-12-15T03:04:00.000Z",
+          "wordCount": 526,
+          "title": "Could NFTs have prevented Taylor Swift’s concert tickets debacle?",
+          "imageUrl": "https://forkast.news/wp-content/uploads/2022/12/Forkast-Opinion-Images-3.png"
+        },
+        {
           "id": "https://cryptopanic.com/news/17153251/Solana-SOL-Investment-Products-Keep-Attracting-Institutional-Investors",
           "author": null,
           "description": "Institutional investors have kept on betting on the smart contract platform Solana ($SOL) through investment products focusing on the cryptocurrency. Their bets come weeks after the collapse of FTX and after SOL’s price crashed. According to CoinShares’ latest Digital Asset Fund Flows report,...",
@@ -920,12 +930,12 @@
         {
           "id": "https://cryptopanic.com/news/17153238/The-Digital-Asset-Anti-Money-Laundering-Act-An-Unconstitutional-Bill-For-An-Unconstitutional-World",
           "author": null,
-          "description": "The Digital Asset Anti-Money Laundering Act Of 2022 from Elizabeth Warren proposes unconstitutional privacy restrictions for bitcoin users.",
+          "description": "",
           "link": "https://cryptopanic.com/news/17153238/The-Digital-Asset-Anti-Money-Laundering-Act-An-Unconstitutional-Bill-For-An-Unconstitutional-World",
           "publishedOn": "2022-12-15T02:13:29.000Z",
-          "wordCount": 530,
+          "wordCount": null,
           "title": "The Digital Asset Anti-Money Laundering Act: An Unconstitutional Bill For An Unconstitutional World",
-          "imageUrl": "https://bitcoinmagazine.com/.image/t_share/MTk0MzI5NzY4OTU4MTc0ODk3/bitcoin-legal-regulation.png"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/17153243/US-Senator-Elizabeth-Warren-submits-crypto-know-your-customer-bill-in-wake-of-FTX-collapse",
@@ -990,32 +1000,32 @@
         {
           "id": "https://cryptopanic.com/news/17153152/Bankman-Fried-lieutenant-alerted-regulators-to-misuse-of-customer-funds",
           "author": null,
-          "description": "The transfer of customer assets was, \"contrary to normal corporate governance and operations\" a top executive told Bahamian regulators.",
+          "description": "",
           "link": "https://cryptopanic.com/news/17153152/Bankman-Fried-lieutenant-alerted-regulators-to-misuse-of-customer-funds",
           "publishedOn": "2022-12-15T01:18:46.000Z",
-          "wordCount": 526,
+          "wordCount": null,
           "title": "Bankman-Fried lieutenant alerted regulators to misuse of customer funds",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2022/11/20221109_FTX2-1200x675.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/17153134/Next-UK-financial-regulator-calls-for-tougher-crypto-rules-FT",
           "author": null,
-          "description": "Ashley Alder, the UK's next Financial Conduct Authority chair, said crypto companies are evasive and allow for money laundering.",
+          "description": "",
           "link": "https://cryptopanic.com/news/17153134/Next-UK-financial-regulator-calls-for-tougher-crypto-rules-FT",
           "publishedOn": "2022-12-15T01:02:55.000Z",
-          "wordCount": 527,
+          "wordCount": null,
           "title": "Next UK financial regulator calls for tougher crypto rules: FT",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2019/07/fca-financial-conduct-authority-getty-1200x675.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/17153154/Joe-Rogan-Reacts-to-Sam-Bankman-Fried-FTX-CEO",
           "author": null,
-          "description": "Joe Rogan reacts live to Sam Bankman-Fried, FTX CEO, fraudulent crypto exchange. His reaction is hilarious discussing Alameda, Sam's hedge fund, stealing billions, ponzi scheme, and he was able to figure it out watching the interview live.Watch:NEW EVIDENCE PROVES FTX CEO SAM BANKMAN-FRIED FRAUD...",
+          "description": "",
           "link": "https://cryptopanic.com/news/17153154/Joe-Rogan-Reacts-to-Sam-Bankman-Fried-FTX-CEO",
           "publishedOn": "2022-12-15T00:54:53.000Z",
-          "wordCount": 526,
+          "wordCount": null,
           "title": "Joe Rogan Reacts to Sam Bankman Fried FTX CEO",
-          "imageUrl": "https://i2.ytimg.com/vi/Qsu5smK6qok/hqdefault.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/17153070/ADA-Trust-Wallet-Binances-Official-User-Controlled-Wallet-Adds-Cardano-Staking-Support",
@@ -1030,41 +1040,41 @@
         {
           "id": "https://cryptopanic.com/news/17153067/WHY-ARE-WE-BULLISH-Christmas-Special-2022",
           "author": null,
-          "description": "Join a ridiculous number of Bitcoiners for a marathon Christmas Special - with rotating 30 minute panels on various topics of interest.Guests include: Rodolfo Novak, Stephan Livera, Max Keidun (HodlHodl), Matt Hill (Start9), John Stefanopoulos (Futurebit), Seedsigner, Adam O, Nico Moran (Simply...",
+          "description": "",
           "link": "https://cryptopanic.com/news/17153067/WHY-ARE-WE-BULLISH-Christmas-Special-2022",
           "publishedOn": "2022-12-15T00:08:59.000Z",
-          "wordCount": 524,
+          "wordCount": null,
           "title": "WHY ARE WE BULLISH? Christmas Special 2022",
-          "imageUrl": "https://i3.ytimg.com/vi/20TXe2SGHRg/hqdefault.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/17153038/What-May-Make-Polygon-Outperform-Solana-in-2023",
           "author": null,
-          "description": "Polygon may be another altcoin that will hinder Solana's growth next year",
+          "description": "",
           "link": "https://cryptopanic.com/news/17153038/What-May-Make-Polygon-Outperform-Solana-in-2023",
           "publishedOn": "2022-12-15T00:00:00.000Z",
-          "wordCount": 525,
+          "wordCount": null,
           "title": "What May Make Polygon Outperform Solana in 2023?",
-          "imageUrl": "https://u.today/sites/default/files/styles/twitter/public/2022-12/What%20May%20Make%20Polygon%20Outperform%20Solana%20in%202023%3F.jpeg"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/17153017/Bitcoin-miner-CleanSpark-slashes-2023-hashrate-guidance-on-build-out-delays",
           "author": null,
-          "description": "Bitcoin miner CleanSpark pushed back its hashrate guidance for end of 2023 due to delays from partner Lancium.",
+          "description": "",
           "link": "https://cryptopanic.com/news/17153017/Bitcoin-miner-CleanSpark-slashes-2023-hashrate-guidance-on-build-out-delays",
           "publishedOn": "2022-12-14T23:51:23.000Z",
-          "wordCount": 527,
+          "wordCount": null,
           "title": "Bitcoin miner CleanSpark slashes 2023 hashrate guidance on build-out delays",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2020/10/20201028_Shutterstock-Bitcoin-Miner-Mining-1200x675.jpg"
+          "imageUrl": null
         },
         {
-          "id": "https://cryptopanic.com/news/17152996/Maple-Finance-20-overhaul-aimed-at-speeding-up-the-defaulting-process",
+          "id": "https://cryptopanic.com/news/17152996/Maple-Finance-20-overhaul-aims-to-speed-the-process-for-loan-defaults",
           "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/17152996/Maple-Finance-20-overhaul-aimed-at-speeding-up-the-defaulting-process",
+          "description": "The overhaul of the protocol, dubbed \"Maple 2.0,\" comes only weeks after the decentralized lending platform saw two major defaults on the back of FTX's collapse.",
+          "link": "https://cryptopanic.com/news/17152996/Maple-Finance-20-overhaul-aims-to-speed-the-process-for-loan-defaults",
           "publishedOn": "2022-12-14T23:43:47.000Z",
-          "wordCount": null,
-          "title": "Maple Finance 2.0 overhaul aimed at speeding up the defaulting process",
+          "wordCount": 529,
+          "title": "Maple Finance 2.0 overhaul aims to speed the process for loan defaults",
           "imageUrl": null
         },
         {
@@ -1086,16 +1096,6 @@
           "wordCount": 526,
           "title": "Dogecoin ($DOGE) Whale Transactions Soar on Key Price Level",
           "imageUrl": "https://cryptoglobe.s3.eu-west-2.amazonaws.com/2021/06/executium-E6GkoIzkmnc-unsplash-768x511.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/17152936/BitGo-refused-to-unwind-50-million-in-wrapped-bitcoin-for-Alameda",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/17152936/BitGo-refused-to-unwind-50-million-in-wrapped-bitcoin-for-Alameda",
-          "publishedOn": "2022-12-14T23:14:11.000Z",
-          "wordCount": null,
-          "title": "BitGo refused to unwind $50 million in wrapped bitcoin for Alameda",
-          "imageUrl": null
         }
       ]
     },
@@ -1120,7 +1120,7 @@
           "description": "Sens. Warren and Marshall introduce new money-laundering legislation for crypto",
           "link": "https://cointelegraph.com/news/sens-warren-and-marshall-introduce-new-money-laundering-legislation-for-crypto",
           "publishedOn": "2022-12-15T01:30:05.000Z",
-          "wordCount": 16227,
+          "wordCount": 16215,
           "title": "Sens. Warren and Marshall introduce new money-laundering legislation for crypto",
           "imageUrl": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2022-12/4cf1edc3-27e4-45c3-abd4-958d0e689d32.jpg"
         },
@@ -1175,16 +1175,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://axie.substack.com/p/axie-infinity-x-cloud9",
-          "author": null,
-          "description": "Axie Infinity x Cloud9!",
-          "link": "https://axie.substack.com/p/axie-infinity-x-cloud9",
-          "publishedOn": "2022-12-14T23:00:03.000Z",
-          "wordCount": 1523,
-          "title": "Axie Infinity x Cloud9!",
-          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe3c2d96f-dbce-42f5-98de-2454fb1d6a9c_2401x1351.jpeg"
-        },
-        {
           "id": "https://www.buttrfly.app/",
           "author": null,
           "description": "Buttrfly",
@@ -1192,7 +1182,7 @@
           "publishedOn": "2022-12-14T22:00:05.000Z",
           "wordCount": 2668,
           "title": "Buttrfly",
-          "imageUrl": "https://lh6.googleusercontent.com/3HoGdA0hM011r3cR1pHImt0jLDxq7KKHyUsZ-DFTZtSSLBeskjrFZm_-ziUOWw-RC4o7lnoHvyzRVflkjooHq_NcAFC8dHL9hV4OK22-RnPSzjA526Uk2o33aPEwDDbkwp49BE5Mxw=w1280"
+          "imageUrl": "https://lh6.googleusercontent.com/wQ0C9Oo3zHa6Baq2MQ3Eqts4inJ8NVP3syXFpF4elqDnGweo7Nd-F8wMerwGf5aKaTdrfvHN2e9lib4pl8V9aA=w1280"
         },
         {
           "id": "https://cointelegraph.com/news/gemini-allegedly-suffers-data-breach-5-7-million-emails-leaked",
@@ -1200,9 +1190,19 @@
           "description": "Gemini allegedly suffered data breach; 5.7 million emails leaked",
           "link": "https://cointelegraph.com/news/gemini-allegedly-suffers-data-breach-5-7-million-emails-leaked",
           "publishedOn": "2022-12-14T21:00:02.000Z",
-          "wordCount": 15751,
+          "wordCount": 15710,
           "title": "Gemini allegedly suffered data breach; 5.7 million emails leaked",
           "imageUrl": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2022-12/04ad0c14-1a25-42e4-8d91-77c6f0650386.jpg"
+        },
+        {
+          "id": "https://www.prnewswire.com/news-releases/chainlink-automation-is-now-live-on-arbitrum-one-301703078.html",
+          "author": null,
+          "description": "Chainlink Automation is Now Live on Arbitrum One",
+          "link": "https://www.prnewswire.com/news-releases/chainlink-automation-is-now-live-on-arbitrum-one-301703078.html",
+          "publishedOn": "2022-12-14T19:30:05.000Z",
+          "wordCount": 1920,
+          "title": "Chainlink Automation is Now Live on Arbitrum One",
+          "imageUrl": "https://mma.prnewswire.com/media/1968090/unnamed.jpg?p=facebook"
         },
         {
           "id": "https://www.nobsbitcoin.com/the-digital-asset-anti-money-laundering-act-is-an-opportunistic-unconstitutional-assault-on-cryptocurrency-self-custody-developers-and-node-operators/",
@@ -1240,7 +1240,7 @@
           "description": "Tribute Brand wants to be digital fashion’s go-to platform",
           "link": "https://www.voguebusiness.com/technology/tribute-brand-wants-to-be-digital-fashions-go-to-platform",
           "publishedOn": "2022-12-14T17:00:03.000Z",
-          "wordCount": 20740,
+          "wordCount": 20754,
           "title": "Tribute Brand wants to be digital fashion’s go-to platform",
           "imageUrl": "https://media.voguebusiness.com/photos/639727871b2909ad7f3aa25f/16:9/w_1280,c_limit/tribute-brand-voguebus-photographer-month-22-social-newsletter.jpg"
         },
@@ -1270,7 +1270,7 @@
           "description": "The rise and fall of peer review",
           "link": "https://experimentalhistory.substack.com/p/the-rise-and-fall-of-peer-review",
           "publishedOn": "2022-12-14T15:00:03.000Z",
-          "wordCount": 8852,
+          "wordCount": 8856,
           "title": "The rise and fall of peer review",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F24ab2184-c024-44c5-81cc-4bc14851b965_1762x1173.jpeg"
         },
@@ -1292,7 +1292,7 @@
           "publishedOn": "2022-12-14T10:00:07.000Z",
           "wordCount": 2518,
           "title": "GitHub - nostr-protocol/nostr: a truly censorship-resistant alternative to Twitter that has a chance of working",
-          "imageUrl": "https://opengraph.githubassets.com/20cbf6c3ec1bbefe57b9e38548d4194700f2df521f6f7de513bea21a6c1699d5/nostr-protocol/nostr"
+          "imageUrl": "https://opengraph.githubassets.com/0b88d2bb63d4469f035692a37f41a582013c4775f590d32a182ed287d53762ba/nostr-protocol/nostr"
         },
         {
           "id": "https://crypto-wanderer.medium.com/transparency-among-fud-80f7612fff78",
@@ -1300,7 +1300,7 @@
           "description": "Transparency Among FUD",
           "link": "https://crypto-wanderer.medium.com/transparency-among-fud-80f7612fff78",
           "publishedOn": "2022-12-14T07:00:03.000Z",
-          "wordCount": 3673,
+          "wordCount": 3962,
           "title": "Transparency Among FUD",
           "imageUrl": "https://miro.medium.com/max/1200/0*w0294U_3lCjowk4t"
         }
@@ -1332,7 +1332,7 @@
           "description": "At the end of November, an unknown person signed a signature tied to an extremely old block reward mined on Jan. 19, 2009, and the user published a message and verified signature linked to the reward on the forum bitcointalk.org. The message was tied to a bitcoin address associated with block 1,018, a block reward that was minted 16 days after Satoshi Nakamoto launched the network. Upon further investigation, onchain data shows that block 1,018 is linked to a great number of block rewards ostensibly mined by Hal Finney, and the signed block is also connected to the very first bitcoin transaction that derived from block 9.\n \nBlock 1,018 Signed by ‘Onesignature’ on Nov. 26, 2022, Is Associated With Hal Finney’s Mined Bitcoins and the Very First Bitcoin Transaction\n \nOn Nov. 26, 2022, a newly…",
           "link": "https://news.bitcoin.com/recently-signed-2009-bitcoin-block-reward-linked-to-hal-finneys-set-of-btc-transactions/",
           "publishedOn": "2022-12-15T02:02:17.000Z",
-          "wordCount": 4167,
+          "wordCount": 4165,
           "title": "Recently Signed 2009 Bitcoin Block Reward Linked to Hal Finney’s Set of BTC Transactions",
           "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2022/12/finney.jpg"
         },
@@ -1342,7 +1342,7 @@
           "description": "Over the past week, the correlation between the red metal and cryptocurrency has grown tighter, which bodes well for investors. But a strengthening U.S. dollar may suggest a less rosy future.",
           "link": "https://www.coindesk.com/markets/2022/12/15/first-mover-asia-bitcoins-strong-correlation-to-dr-copper-grows-healthier-bitcoin-seesaws-back-to-178k/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2022-12-15T00:12:27.000Z",
-          "wordCount": 23739,
+          "wordCount": 23714,
           "title": "First Mover Asia: Bitcoin’s Strong Correlation to 'Dr. Copper' Grows Healthier; Bitcoin Seesaws Back to $17.8K",
           "enclosure": {
             "length": "1337",
@@ -1357,7 +1357,7 @@
           "description": "Binance founder Changpeng Zhao (CZ) has reportedly told staff to expect some difficult months as the leading cryptocurrency exchange is seeing customer withdrawals. The warning comes while the crypto industry is facing challenges after high-profile bankruptcies and amid tightening regulations.\n \n$3 Billion Pulled Out From Binance at Peak, Nansen Data Shows\n \nBinance, the world’s largest crypto exchange by trading volume, saw net outflows reaching $3 billion on Tuesday, Nov. 13, blockchain analytics firm Nansen revealed. The news comes as Changpeng Zhao, founder and chief executive of Binance, sought to assure his team that the company is strong enough financially to survive the crypto winter.\n \n \nBinance Netflow 7D ($) -3,660,311,347\n \n8,783,380,428 – Outflow\n \n5,123,069,081 – Inflow\n \nExc…",
           "link": "https://news.bitcoin.com/amid-withdrawals-binance-ceo-warns-of-bumpy-months-ahead/",
           "publishedOn": "2022-12-14T23:06:34.000Z",
-          "wordCount": 3425,
+          "wordCount": 3411,
           "title": "Amid Withdrawals, Binance CEO Warns of Bumpy Months Ahead",
           "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2022/12/shutterstock_1443669242.jpg"
         },
@@ -1382,7 +1382,7 @@
           "description": "Top cryptocurrencies lost earlier gains after the Federal Reserve signals interest rates to keep rising well into 2023. Crypto Markets Today is CoinDesk’s daily newsletter diving into what happened in today's crypto markets.",
           "link": "https://www.coindesk.com/markets/2022/12/14/crypto-markets-today-us-regulation-heats-up-bitcoin-rises-then-falls/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2022-12-14T22:21:51.000Z",
-          "wordCount": 22689,
+          "wordCount": 22661,
           "title": "Crypto Markets Today: US Regulation Heats Up;  Bitcoin Rises, Then Falls",
           "enclosure": {
             "length": "1337",
@@ -1397,7 +1397,7 @@
           "description": "The miner cited delays in building out a mining facility by one of its partners, Lancium.",
           "link": "https://www.coindesk.com/business/2022/12/14/bitcoin-miner-cleanspark-cuts-2023-hashrate-outlook-by-nearly-30/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2022-12-14T22:21:51.000Z",
-          "wordCount": 21113,
+          "wordCount": 21082,
           "title": "Bitcoin Miner CleanSpark Cuts 2023 Hashrate Outlook by Nearly 30%",
           "enclosure": {
             "length": "1337",
@@ -1412,7 +1412,7 @@
           "description": "Did FTX fall because of a  “liquidity crisis” or a “run on the bank,” or was it insolvency? The language matters, says Frances Coppola.",
           "link": "https://www.coindesk.com/consensus-magazine/2022/12/14/after-ftx-explaining-the-difference-between-liquidity-and-insolvency/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2022-12-14T22:11:49.000Z",
-          "wordCount": 24118,
+          "wordCount": 24085,
           "title": "After FTX: Explaining the Difference Between Liquidity and Insolvency",
           "enclosure": {
             "length": "1337",
@@ -1427,7 +1427,7 @@
           "description": "Strap in folks: It’s a big week. Former FTX CEO Sam Bankman-Fried and current FTX CEO John J. Ray III were supposed to speak to the House Financial Services Committee. Obviously, things didn’t quite work out that way.",
           "link": "https://www.coindesk.com/policy/2022/12/14/after-sbfs-arrest-the-ftx-show-goes-on/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2022-12-14T22:11:49.000Z",
-          "wordCount": 23087,
+          "wordCount": 23056,
           "title": "After Sam Bankman-Fried's Arrest, the FTX Show Goes On",
           "enclosure": {
             "length": "1337",
@@ -1457,7 +1457,7 @@
           "description": "Rep. Ritchie Torres (D-N.Y.) discusses how the disgraced CEO “misled the public” and what he did with Bankman-Fried’s $2,900 political donation.",
           "link": "https://www.coindesk.com/policy/2022/12/14/sam-bankman-fried-was-a-pathological-liar-congressman/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2022-12-14T21:21:43.000Z",
-          "wordCount": 21783,
+          "wordCount": 21748,
           "title": "Sam Bankman-Fried Was a ‘Pathological Liar’: Congressman",
           "enclosure": {
             "length": "1337",
@@ -1472,7 +1472,7 @@
           "description": "After re-enforcing royalties earlier this month, the marketplace will reward users for their trading volumes on the marketplace.",
           "link": "https://www.coindesk.com/web3/2022/12/14/nft-marketplace-magic-eden-rolls-out-rewards-program/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2022-12-14T21:11:13.000Z",
-          "wordCount": 20599,
+          "wordCount": 20572,
           "title": "NFT Marketplace Magic Eden Rolls Out Rewards Program",
           "enclosure": {
             "length": "1337",
@@ -1487,7 +1487,7 @@
           "description": "The U.S. central bank’s Federal Open Market Committee (FOMC) convened on Wednesday and raised the federal funds rate by 50 basis points (bps). The 0.5 percentage point rise follows the four consecutive three-quarters of a point increases codified during the last few months. The FOMC’s rate hike follows the recent U.S. inflation report which indicated that consumer prices fell to 7.1%, which was lower than expectations.\n \nFed Raises Federal Funds Rate by 50bps, Central Bank Expects More Increases Going Forward\n \nFollowing the consumer price index (CPI) report published on Tuesday, members of the U.S. Federal Reserve met on Wednesday and announced a 50bps rate hike. The December increase is smaller than the last four three-quarters of a point (75bps) rate increases.\n \n“The committee seeks to…",
           "link": "https://news.bitcoin.com/federal-reserve-hikes-rate-by-50bps-fomc-signals-rate-to-rise-to-5-1-next-year/",
           "publishedOn": "2022-12-14T21:03:02.000Z",
-          "wordCount": 3569,
+          "wordCount": 3566,
           "title": "Federal Reserve Hikes Rate by 50bps, FOMC Signals Rate to Rise to 5.1% Next Year",
           "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2022/12/fed.jpg"
         },
@@ -1497,7 +1497,7 @@
           "description": "Investment bank B Riley said most of the struggling miner's issues are \"self-imposed and can be corrected.\"",
           "link": "https://www.coindesk.com/business/2022/12/14/bitcoin-miner-core-scientifics-lender-wants-to-give-miner-72m-to-avoid-bankruptcy/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2022-12-14T20:41:22.000Z",
-          "wordCount": 21365,
+          "wordCount": 21334,
           "title": "Bitcoin Miner Core Scientific's Lender Wants to Give Miner $72M to Avoid Bankruptcy",
           "enclosure": {
             "length": "1337",
@@ -1512,7 +1512,7 @@
           "description": "Rather than centralizing the digital dollar, lawmakers should focus on exploring a decentralized identification program and develop financial literacy programs for the general public.",
           "link": "https://www.coindesk.com/consensus-magazine/2022/12/14/forget-cbdcs-heres-where-the-biden-administration-needs-to-focus-in-2023/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2022-12-14T20:41:22.000Z",
-          "wordCount": 23771,
+          "wordCount": 23740,
           "title": "Forget CBDCs, Here’s Where the Biden Administration Needs to Focus in 2023",
           "enclosure": {
             "length": "1337",
@@ -1527,7 +1527,7 @@
           "description": "The crypto industry is calling for U.S. regulations as the epic failures of FTX drag at the sector and most regulators say they can’t do the job without more powers from Congress. So far, a sound-and-fury campaign from lawmakers hasn’t yet signified a path forward.",
           "link": "https://www.coindesk.com/policy/2022/12/14/ftx-hearing-in-us-senate-reveals-congress-doesnt-have-immediate-answers/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2022-12-14T20:12:31.000Z",
-          "wordCount": 22043,
+          "wordCount": 22008,
           "title": "FTX Hearing in US Senate Reveals Congress Doesn’t Have Immediate Answers",
           "enclosure": {
             "length": "1337",
@@ -1542,7 +1542,7 @@
           "description": "The improvements attempt to solve Maple’s design shortcomings highlighted during a recent debt crisis, but they may reduce incentives for holding the protocol’s native MPL token in its new form, an analyst said.",
           "link": "https://www.coindesk.com/markets/2022/12/14/crypto-lending-platform-maple-finance-unveils-major-overhaul-stops-lending-on-solana/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2022-12-14T19:24:06.000Z",
-          "wordCount": 21814,
+          "wordCount": 21783,
           "title": "Crypto Lending Platform Maple Finance Unveils Major Overhaul, Stops Lending on Solana",
           "enclosure": {
             "length": "1337",
@@ -1557,7 +1557,7 @@
           "description": "The U.S. central bank raised its benchmark interest rate to a range of 4.25%-4.5% on Wednesday. Officials now expect the current rate-hiking cycle to peak next year at a \"terminal rate\" above 5%.",
           "link": "https://www.coindesk.com/markets/2022/12/14/federal-reserve-slows-pace-of-rate-hikes-to-50-basis-points-in-december/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2022-12-14T19:13:20.000Z",
-          "wordCount": 21503,
+          "wordCount": 21475,
           "title": "Federal Reserve Hikes US Rate 50 Basis Points, Slowing Pace but Keeping Hawkish Outlook",
           "enclosure": {
             "length": "1337",

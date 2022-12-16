@@ -711,21 +711,6 @@
           "imageUrl": "https://cdn.jwplayer.com/v2/media/c4lrMB0e/poster.jpg"
         },
         {
-          "id": "https://decrypt.co/videos/live-events/z6m8NyuF/the-crypties-awards-2022-people-of-crypto-wins-metaverse-event-of-the-year",
-          "author": null,
-          "description": "Simone Berry and Akbar Hamid accepted the Cryptie for People of Crypto's Metaverse Pride Parade from presenter Toni Thai Sterrett of Bad Grrls Creative Club at the inaugural Crypties Awards from Decrypt Studios in Miami on November 30. The other nominees in the category were Decentraland's Metaverse Fashion Week and Heal from The Sandbox and Code Green.",
-          "link": "https://decrypt.co/videos/live-events/z6m8NyuF/the-crypties-awards-2022-people-of-crypto-wins-metaverse-event-of-the-year",
-          "publishedOn": "2022-12-06T17:34:44.000Z",
-          "wordCount": 5835,
-          "title": "The Crypties Awards 2022: People of Crypto Wins Metaverse Event of the Year",
-          "enclosure": {
-            "url": "https://cdn.jwplayer.com/v2/media/z6m8NyuF/poster.jpg",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.jwplayer.com/v2/media/z6m8NyuF/poster.jpg"
-        },
-        {
           "id": "https://decrypt.co/videos/live-events/dLlerLlT/the-crypties-2022-doodles-collab-with-shopify-wins-mainstream-award",
           "author": null,
           "description": "Shirley Cedeno and Akbar Hamid accepted the Cryptie on behalf of Doodles from presenters Igor Lilic and Gabriela Ramos Lilic of Breakout at the inaugural Crypties Awards from Decrypt Studios in Miami on November 30. The other nominees in the category were RTFKT and Nike, Gmoney and Adidas, Tiffany and CryptoPunks, and TIMEpieces.",
@@ -739,6 +724,21 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.jwplayer.com/v2/media/dLlerLlT/poster.jpg"
+        },
+        {
+          "id": "https://decrypt.co/videos/live-events/z6m8NyuF/the-crypties-awards-2022-people-of-crypto-wins-metaverse-event-of-the-year",
+          "author": null,
+          "description": "Simone Berry and Akbar Hamid accepted the Cryptie for People of Crypto's Metaverse Pride Parade from presenter Toni Thai Sterrett of Bad Grrls Creative Club at the inaugural Crypties Awards from Decrypt Studios in Miami on November 30. The other nominees in the category were Decentraland's Metaverse Fashion Week and Heal from The Sandbox and Code Green.",
+          "link": "https://decrypt.co/videos/live-events/z6m8NyuF/the-crypties-awards-2022-people-of-crypto-wins-metaverse-event-of-the-year",
+          "publishedOn": "2022-12-06T17:34:44.000Z",
+          "wordCount": 5835,
+          "title": "The Crypties Awards 2022: People of Crypto Wins Metaverse Event of the Year",
+          "enclosure": {
+            "url": "https://cdn.jwplayer.com/v2/media/z6m8NyuF/poster.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.jwplayer.com/v2/media/z6m8NyuF/poster.jpg"
         },
         {
           "id": "https://decrypt.co/videos/live-events/nQuIgj4l/the-crypties-awards-2022-lens-protocol-wins-defi-project-of-the-year",
@@ -883,14 +883,74 @@
       "siteUrl": "https://cryptopanic.com/",
       "articles": [
         {
+          "id": "https://cryptopanic.com/news/17163248/Community-baffled-by-Trumps-bizarre-SimpDAO-NFT-collection",
+          "author": null,
+          "description": "Even conservatives and MAGA supporters are not pleased with Trump, as they were hanging on for a more serious announcement from the former president.",
+          "link": "https://cryptopanic.com/news/17163248/Community-baffled-by-Trumps-bizarre-SimpDAO-NFT-collection",
+          "publishedOn": "2022-12-16T03:52:24.000Z",
+          "wordCount": 525,
+          "title": "Community baffled by Trump's bizarre ‘SimpDAO’ NFT collection",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/17163240/Hong-Kong-Stock-Exchange-debuts-Asias-first-crypto-futures-ETFs",
+          "author": null,
+          "description": "Hong Kong launched two exchange-traded funds (ETFs) tracking cryptocurrency futures on Friday, the first of their kind in Asia, the local exchange said.",
+          "link": "https://cryptopanic.com/news/17163240/Hong-Kong-Stock-Exchange-debuts-Asias-first-crypto-futures-ETFs",
+          "publishedOn": "2022-12-16T03:43:47.000Z",
+          "wordCount": 527,
+          "title": "Hong Kong Stock Exchange debuts ‘Asia’s first’ crypto futures ETFs",
+          "imageUrl": "https://forkast.news/wp-content/uploads/2022/12/hong-kong.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/17163239/SBF-reportedly-files-new-bail-application-in-the-Bahamas-Supreme-Court",
+          "author": null,
+          "description": "Bahamas media reports that Sam Bankman-Fried lodged a new bid for bail just two days after a judge denied his previous application and called the FTX founder a flight risk.",
+          "link": "https://cryptopanic.com/news/17163239/SBF-reportedly-files-new-bail-application-in-the-Bahamas-Supreme-Court",
+          "publishedOn": "2022-12-16T03:43:15.000Z",
+          "wordCount": 528,
+          "title": "SBF reportedly files new bail application in the Bahamas Supreme Court",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/17163198/Japan-plans-to-ease-corporate-tax-rates-for-cryptocurrency-issuers",
+          "author": null,
+          "description": "Japan’s ruling party approved a proposal that exempts companies issuing crypto from taxes on unrealized gains on retained tokens.",
+          "link": "https://cryptopanic.com/news/17163198/Japan-plans-to-ease-corporate-tax-rates-for-cryptocurrency-issuers",
+          "publishedOn": "2022-12-16T03:26:09.000Z",
+          "wordCount": 527,
+          "title": "Japan plans to ease corporate tax rates for cryptocurrency issuers",
+          "imageUrl": "https://forkast.news/wp-content/uploads/2022/12/japan-ldp.png"
+        },
+        {
+          "id": "https://cryptopanic.com/news/17163193/Shiba-Inu-SHIB-Burn-Rate-Jump-Over-150-as-SHIBArmy-Grows",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/17163193/Shiba-Inu-SHIB-Burn-Rate-Jump-Over-150-as-SHIBArmy-Grows",
+          "publishedOn": "2022-12-16T03:20:00.000Z",
+          "wordCount": null,
+          "title": "Shiba Inu ($SHIB) Burn Rate Jump Over 150% as SHIBArmy Grows",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/17163184/Bitcoin-Price-Prediction-Why-BTC-Could-Still-Tumble-Below-16K",
+          "author": null,
+          "description": "Bitcoin price failed to clear $18,000 and corrected lower. BTC is signaling bearish signs and might even start a fresh decline in the coming sessions. Bitcoin started a downward move and traded below the $17,600 support. The price is trading below $17,500 and the 100 hourly simple moving...",
+          "link": "https://cryptopanic.com/news/17163184/Bitcoin-Price-Prediction-Why-BTC-Could-Still-Tumble-Below-16K",
+          "publishedOn": "2022-12-16T03:12:19.000Z",
+          "wordCount": 527,
+          "title": "Bitcoin Price Prediction: Why BTC Could Still Tumble Below $16K",
+          "imageUrl": "https://newsbtc.com/wp-content/uploads/2021/05/Depositphotos_179456522_l-2015.jpg"
+        },
+        {
           "id": "https://cryptopanic.com/news/17163168/Aussie-Watchdog-Sues-Another-Crypto-Provider-Amid-Regulatory-Overhaul",
           "author": null,
-          "description": "The Australian finance watchdog has filed a lawsuit against Finder Wallet for violating consumer protection regulations.",
+          "description": "",
           "link": "https://cryptopanic.com/news/17163168/Aussie-Watchdog-Sues-Another-Crypto-Provider-Amid-Regulatory-Overhaul",
           "publishedOn": "2022-12-16T03:08:15.000Z",
-          "wordCount": 526,
+          "wordCount": null,
           "title": "Aussie Watchdog Sues Another Crypto Provider Amid Regulatory Overhaul",
-          "imageUrl": "https://s32659.pcdn.co/wp-content/uploads/2022/12/The_Coincub_Crypto_Business_Ranking_Map-1-850x443.jpg.optimal.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/17163143/Bitcoin-BTC-Price-to-Rise-to-30000-in-Second-Half-of-2023-VanEck-Says",
@@ -925,10 +985,10 @@
         {
           "id": "https://cryptopanic.com/news/17163093/Findercom-sued-by-Australian-regulator-over-its-crypto-yield-product",
           "author": null,
-          "description": "ASIC claimed a crypto yield-bearing product from Finder’s registered exchange was unlicensed, the firm disagreed but refused to say if it would fight the suit.",
+          "description": "",
           "link": "https://cryptopanic.com/news/17163093/Findercom-sued-by-Australian-regulator-over-its-crypto-yield-product",
           "publishedOn": "2022-12-16T02:20:22.000Z",
-          "wordCount": 527,
+          "wordCount": null,
           "title": "Finder.com sued by Australian regulator over its crypto yield product",
           "imageUrl": null
         },
@@ -955,12 +1015,12 @@
         {
           "id": "https://cryptopanic.com/news/17163038/Bitcoin-Miner-Core-Scientific-Receives-72M-Offer-From-Creditor-to-Avoid-Bankruptcy",
           "author": null,
-          "description": "The investment bank stated that it believes \"bankruptcy is not necessary at all.\"",
+          "description": "",
           "link": "https://cryptopanic.com/news/17163038/Bitcoin-Miner-Core-Scientific-Receives-72M-Offer-From-Creditor-to-Avoid-Bankruptcy",
           "publishedOn": "2022-12-16T01:45:32.000Z",
-          "wordCount": 529,
+          "wordCount": null,
           "title": "Bitcoin Miner Core Scientific Receives $72M Offer From Creditor to Avoid Bankruptcy",
-          "imageUrl": "https://cryptopotato.com/wp-content/uploads/2021/07/CoreScientificWallStreet.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/17163046/Crypto-Whales-Are-Massively-Accumulating-Stablecoins-and-Bitcoin-BTC-Data-Shows",
@@ -975,27 +1035,27 @@
         {
           "id": "https://cryptopanic.com/news/17163015/Markets-Bitcoin-Ether-fall-with-equities-as-concerns-about-recession-knock-Wall-Street-lower",
           "author": null,
-          "description": "Bitcoin and Ether prices fell Friday morning in Asia, along with most of the top 10 non-stablecoin crypto, as U.S. stocks had their biggest declines in weeks.",
+          "description": "",
           "link": "https://cryptopanic.com/news/17163015/Markets-Bitcoin-Ether-fall-with-equities-as-concerns-about-recession-knock-Wall-Street-lower",
           "publishedOn": "2022-12-16T01:28:37.000Z",
-          "wordCount": 531,
+          "wordCount": null,
           "title": "Markets: Bitcoin, Ether fall with equities as concerns about recession knock Wall Street lower",
-          "imageUrl": "https://forkast.news/wp-content/uploads/2022/12/bitcoin-crypto-currency-diagram-2022-07-07-16-02-20-utc-1260x840.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/17163004/Why-Bitcoin-Is-The-Ultimate-Wealth-Preservation-Technology",
           "author": null,
-          "description": "Bitcoin provides the ultimate form of transferable value because it preserves the encapsulated wealth.",
+          "description": "",
           "link": "https://cryptopanic.com/news/17163004/Why-Bitcoin-Is-The-Ultimate-Wealth-Preservation-Technology",
           "publishedOn": "2022-12-16T01:12:00.000Z",
-          "wordCount": 525,
+          "wordCount": null,
           "title": "Why Bitcoin Is The Ultimate Wealth Preservation Technology",
-          "imageUrl": "https://bitcoinmagazine.com/.image/t_share/MTkxNDAxMTQ0NTc1MDc1ODcz/border-wallets-seed-phrase-recovery-top-photo.png"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/17163013/Stock-price-for-troubled-Bitcoin-miner-Core-Scientific-surges-200",
           "author": null,
-          "description": "After a flurry of bad news throughout 2022, the miner has been offered a lifeline which could enable it to see out the current Crypto Winter.",
+          "description": "After a flurry of bad news throughout 2022, the miner has been offered a lifeline that could enable it to see out the current crypto winter.",
           "link": "https://cryptopanic.com/news/17163013/Stock-price-for-troubled-Bitcoin-miner-Core-Scientific-surges-200",
           "publishedOn": "2022-12-16T01:11:17.000Z",
           "wordCount": 527,
@@ -1015,72 +1075,12 @@
         {
           "id": "https://cryptopanic.com/news/17162942/FTX-asks-court-permission-to-sell-off-four-businesses-including-LedgerX",
           "author": null,
-          "description": "",
+          "description": "The company's new leadership wants to get as much as it can for the businesses as part of its effort to maximize recovery for those who lost money in the company's failure.",
           "link": "https://cryptopanic.com/news/17162942/FTX-asks-court-permission-to-sell-off-four-businesses-including-LedgerX",
           "publishedOn": "2022-12-16T00:30:48.000Z",
-          "wordCount": null,
+          "wordCount": 528,
           "title": "FTX asks court permission to sell off four businesses, including LedgerX",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/17162232/NEWS-ROUNDUP-Elizabeth-Warren-Wants-To-Cripple-Bitcoin",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/17162232/NEWS-ROUNDUP-Elizabeth-Warren-Wants-To-Cripple-Bitcoin",
-          "publishedOn": "2022-12-15T23:56:38.000Z",
-          "wordCount": null,
-          "title": "NEWS ROUNDUP: Elizabeth Warren Wants To Cripple Bitcoin",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/17162882/XRP-Ripple-CTO-Explains-How-XRP-Ledger-Can-Help-Carbon-Markets-and-the-Gaming-Space",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/17162882/XRP-Ripple-CTO-Explains-How-XRP-Ledger-Can-Help-Carbon-Markets-and-the-Gaming-Space",
-          "publishedOn": "2022-12-15T23:55:00.000Z",
-          "wordCount": null,
-          "title": "$XRP: Ripple CTO Explains How XRP Ledger Can Help Carbon Markets and the Gaming Space",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/17162886/Cardano-ADA-Becoming-Long-Term-Investment-After-This-Addition-Crypto-Market-Review-Dec-15",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/17162886/Cardano-ADA-Becoming-Long-Term-Investment-After-This-Addition-Crypto-Market-Review-Dec-15",
-          "publishedOn": "2022-12-15T23:50:00.000Z",
-          "wordCount": null,
-          "title": "Cardano (ADA) Becoming Long-Term Investment After This Addition: Crypto Market Review, Dec. 15",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/17162793/Heres-How-Binances-Bitcoin-and-Stablecoin-Reserves-Compare-to-FTXs-Before-the-Collapse-Quant-Analyst",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/17162793/Heres-How-Binances-Bitcoin-and-Stablecoin-Reserves-Compare-to-FTXs-Before-the-Collapse-Quant-Analyst",
-          "publishedOn": "2022-12-15T23:05:11.000Z",
-          "wordCount": null,
-          "title": "Here’s How Binance’s Bitcoin and Stablecoin Reserves Compare to FTX’s Before the Collapse: Quant Analyst",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/17162794/Crypto-Analyst-Says-Bitcoin-To-Undergo-One-Final-Capitulation-Before-Bottoming-Out-But-Theres-a-Catch",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/17162794/Crypto-Analyst-Says-Bitcoin-To-Undergo-One-Final-Capitulation-Before-Bottoming-Out-But-Theres-a-Catch",
-          "publishedOn": "2022-12-15T23:01:56.000Z",
-          "wordCount": null,
-          "title": "Crypto Analyst Says Bitcoin To Undergo One Final Capitulation Before Bottoming Out – But There’s a Catch",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/17162789/Bitcoin-Maximalist-Michael-Saylor-Says-Ethereum-Could-Collapse-Like-LUNA",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/17162789/Bitcoin-Maximalist-Michael-Saylor-Says-Ethereum-Could-Collapse-Like-LUNA",
-          "publishedOn": "2022-12-15T23:00:58.000Z",
-          "wordCount": null,
-          "title": "Bitcoin Maximalist Michael Saylor Says Ethereum Could Collapse Like LUNA",
-          "imageUrl": null
+          "imageUrl": "https://www.tbstat.com/wp/uploads/2022/11/20221109_FTX-1200x675.jpg"
         }
       ]
     },
@@ -1175,7 +1175,7 @@
           "description": "Aztec Network takes on encrypted blockchains with $100M round led by a16z",
           "link": "https://techcrunch.com/2022/12/15/aztec-network-takes-on-encrypted-blockchains-with-100m-round-led-by-a16z/",
           "publishedOn": "2022-12-15T21:00:03.000Z",
-          "wordCount": 8505,
+          "wordCount": 8687,
           "title": "Aztec Network takes on encrypted blockchains with $100M round led by a16z",
           "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/12/Aztec_16_9_Encrypted_Ethereum.jpg"
         },
@@ -1225,7 +1225,7 @@
           "description": "Blocknative raises $15 million to provide global infrastructure to Ethereum",
           "link": "https://fortune.com/crypto/2022/12/15/blocknative-raises-15-million-to-provide-global-infrastructure-ethereum/?xid=soc_socialflow_twitter_FORTUNE&utm_medium=social&utm_source=twitter.com&utm_campaign=fortunemagazine",
           "publishedOn": "2022-12-15T21:00:02.000Z",
-          "wordCount": 3515,
+          "wordCount": 3503,
           "title": "Blocknative raises $15 million to provide global infrastructure to Ethereum",
           "imageUrl": "https://content.fortune.com/wp-content/uploads/2022/12/Coins-Ethereum-10.jpg?resize=1200,600"
         },
@@ -1235,7 +1235,7 @@
           "description": "UN to send displaced Ukrainians USDC to convert into local currencies",
           "link": "https://fortune.com/crypto/2022/12/15/un-crypto-aid-ukrainian-refugees-stablecoin-usdc-stellar/",
           "publishedOn": "2022-12-15T15:00:03.000Z",
-          "wordCount": 3603,
+          "wordCount": 3591,
           "title": "UN to send displaced Ukrainians USDC to convert into local currencies",
           "imageUrl": "https://content.fortune.com/wp-content/uploads/2022/12/united-nations-crypto-donations-ukraine-refugees-e1671051861934.jpg?resize=1200,600"
         },
@@ -1275,7 +1275,7 @@
           "description": "69 Theses for 2023",
           "link": "https://redphone.substack.com/p/69-theses-for-2023",
           "publishedOn": "2022-12-15T07:30:06.000Z",
-          "wordCount": 1778,
+          "wordCount": 1571,
           "title": "69 Theses for 2023",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F93400d3f-1fa7-4d8c-958e-1eb00a0188e6_1664x1157.png"
         },
@@ -1302,7 +1302,7 @@
           "description": "The Central Bank of Russia has introduced measures to protect entities working with digital assets from sanctions pressures. These businesses will be exempted from some reporting requirements as part of a regulatory relief intended to minimize the burden on financial organizations.\n \nRussia’s Central Bank Eases Supervision of Digital Asset Platforms Amid Sanctions\n \nThe Central Bank of the Russian Federation (CBR) has allowed issuers of digital financial assets (DFAs) not to disclose information sensitive in the light of sanctions risks. The exemption, valid until July 1, 2023, concerns data revealing the beneficial owners of such entities.\n \nAccording to an announcement quoted by Russian crypto media, the temporary reporting relief is part of a package of measures meant to help persons an…",
           "link": "https://news.bitcoin.com/bank-of-russia-moves-to-safeguard-crypto-companies-against-sanctions/",
           "publishedOn": "2022-12-16T02:40:14.000Z",
-          "wordCount": 3328,
+          "wordCount": 3336,
           "title": "Bank of Russia Moves to Safeguard Crypto Companies Against Sanctions",
           "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2022/12/shutterstock_1217085889.jpg"
         },
@@ -1327,7 +1327,7 @@
           "description": "Crypto exchange FTX petitioned a federal court for permission to sell several subsidiaries on Thursday, including U.S.-based derivatives wing LedgerX.",
           "link": "https://www.coindesk.com/policy/2022/12/16/embattled-crypto-firm-ftx-wants-to-sell-its-functioning-units-including-ledgerx/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2022-12-16T00:57:51.000Z",
-          "wordCount": 21982,
+          "wordCount": 21951,
           "title": "Embattled Crypto Firm FTX Wants to Sell Its Functioning Units, Including LedgerX",
           "enclosure": {
             "length": "1337",
@@ -1342,7 +1342,7 @@
           "description": "Two U.S. senators, including Elizabeth Warren, have introduced a bipartisan bill for the regulation of cryptocurrency. The bill, titled “Digital Asset Anti-Money Laundering Act,” is “the most direct attack on the personal freedom and privacy of cryptocurrency users and developers we’ve yet seen,” according to crypto advocates.\n \nDigital Asset Anti-Money Laundering Act of 2022 Launched\n \nU.S. Senators Elizabeth Warren (D-MA) and Roger Marshall (R-KS) introduced new legislation to regulate the cryptocurrency sector Wednesday. Their bill, titled “Digital Asset Anti-Money Laundering Act of 2022,” seeks to crack down on money laundering in the crypto industry.\n \nSenator Warren tweeted Wednesday:\n \n\nBy closing some loopholes and applying some common-sense rules, we can crack down on the ways rog…",
           "link": "https://news.bitcoin.com/us-senators-unveil-new-crypto-bill-experts-call-it-the-most-direct-attack-on-personal-freedom-and-privacy-of-crypto-users/",
           "publishedOn": "2022-12-16T00:38:03.000Z",
-          "wordCount": 3524,
+          "wordCount": 3507,
           "title": "US Senators Unveil New Crypto Bill — Experts Call It the ‘Most Direct Attack’ on Personal Freedom and Privacy of Crypto Users",
           "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2022/12/warren-bill.jpg"
         },
@@ -1352,7 +1352,7 @@
           "description": "Despite the decline over the past year, about 1,600 developers are still active in building the top blockchains and decentralized applications during this bear market.",
           "link": "https://www.coindesk.com/markets/2022/12/15/first-mover-asia-active-crypto-developers-decreased-nearly-60-in-2022/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2022-12-15T23:15:40.000Z",
-          "wordCount": 23918,
+          "wordCount": 23907,
           "title": "First Mover Asia: Active Crypto Developers Decreased Nearly 60% in 2022",
           "enclosure": {
             "length": "1337",
@@ -1382,7 +1382,7 @@
           "description": "The former 45th president of the United States, Donald Trump, announced the launch of his new non-fungible token (NFT) trading cards on Dec. 15, 2022. Trump revealed the NFT collection via his Truth Social account and the former president told his fans that the NFTs would “make a great Christmas gift.”\n \nFormer President Drops the Trump Trading Card NFT Collection Minted on the Polygon Network — Collection Offers Entry Into a Sweepstakes With Unique Trump-Related Prizes\n \nDonald Trump hopes to make America great again as the businessman and media personality announced his very own NFT collection on Thursday. The NFTs can be viewed at collecttrumpcards.com and according to the web portal, Trump’s NFT trading cards are minted using the Polygon blockchain. The reason Trump leveraged Polygon i…",
           "link": "https://news.bitcoin.com/trump-launches-nft-card-collection-sweepstake-winners-could-dine-or-golf-with-the-45th-president/",
           "publishedOn": "2022-12-15T22:38:51.000Z",
-          "wordCount": 3691,
+          "wordCount": 3681,
           "title": "Trump Launches NFT Card Collection — Sweepstake Winners Could Dine or Golf With the 45th President",
           "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2022/12/trumpppsd.jpg"
         },
@@ -1392,7 +1392,7 @@
           "description": "The former Twitter CEO has donated roughly 14 BTC worth $245,000 to fund Nostr's development, after recently publishing his views on a native internet protocol for social media.",
           "link": "https://www.coindesk.com/tech/2022/12/15/jack-dorsey-gives-decentralized-social-network-nostr-14-btc-in-funding/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2022-12-15T22:15:25.000Z",
-          "wordCount": 21354,
+          "wordCount": 21346,
           "title": "Jack Dorsey Gives Decentralized Social Network Nostr 14 BTC in Funding",
           "enclosure": {
             "length": "1337",
@@ -1407,7 +1407,7 @@
           "description": "Crypto Markets Today is CoinDesk’s daily newsletter diving into what happened in today's crypto markets.",
           "link": "https://www.coindesk.com/markets/2022/12/15/crypto-markets-today-archblock-attempting-to-bring-us-banks-to-defi-bitcoin-and-ether-stall/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2022-12-15T22:05:43.000Z",
-          "wordCount": 22932,
+          "wordCount": 22924,
           "title": "Crypto Markets Today: Archblock Attempting to Bring US Banks to DeFi; Bitcoin and Ether Stall",
           "enclosure": {
             "length": "1337",
@@ -1422,7 +1422,7 @@
           "description": "Rep. Patrick McHenry, the soon-to-be chair of the House Financial Services Committee, wrote a public letter to Treasury Secretary Janet Yellen asking her to delay the implementation of the tax provision in last year's infrastructure law.",
           "link": "https://www.coindesk.com/policy/2022/12/15/incoming-house-financial-services-committee-chair-asks-secretary-yellen-to-delay-crypto-tax-provision/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2022-12-15T22:05:43.000Z",
-          "wordCount": 21945,
+          "wordCount": 21933,
           "title": "Incoming House Financial Services Committee Chair Asks Secretary Yellen to Delay Crypto Tax Provision",
           "enclosure": {
             "length": "1337",
@@ -1437,7 +1437,7 @@
           "description": "According to court documents associated with the FTX bankruptcy proceedings, on Nov. 9 — two days before the company filed for Chapter 11 bankruptcy protection — FTX co-CEO Ryan Salame told Bahamian authorities that Sam Bankman-Fried (SBF) sent customer funds to the firm Alameda Research. A letter written by Salame sent to the Bahamian commissioner of police detailed the “possible mishandling of clients’ assets” by SBF.\n \nCourt Documents Indicate FTX Co-CEO Ryan Salame Allegedly Turned on Bankman-Fried\n \nA written account from FTX co-CEO Ryan Salame details that the former FTX executive may have disclosed Sam Bankman-Fried’s (SBF) alleged fraudulent acts two days before the crypto company filed for bankruptcy protection.\n \nOstensibly, Salame contacted law enforcement officials in The Baham…",
           "link": "https://news.bitcoin.com/court-documents-say-ftx-boss-ryan-salame-snitched-on-sbf-2-days-before-the-bankruptcy-filing/",
           "publishedOn": "2022-12-15T20:33:50.000Z",
-          "wordCount": 3534,
+          "wordCount": 3554,
           "title": "Court Documents Say FTX Boss Ryan Salame Snitched on SBF 2 Days Before the Bankruptcy Filing",
           "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2022/12/slam.jpg"
         },
@@ -1447,7 +1447,7 @@
           "description": "Archblock’s and Adapt3r’s joint effort focuses on onboarding U.S.-regulated financial institutions and low-risk investments to decentralized finance protocols after a series of loan defaults.",
           "link": "https://www.coindesk.com/business/2022/12/15/defi-protocol-developer-archblock-aims-to-onboard-us-community-banks-with-new-partnership/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2022-12-15T20:24:43.000Z",
-          "wordCount": 22138,
+          "wordCount": 22130,
           "title": "DeFi Protocol Developer Archblock Aims to Onboard U.S. Community Banks With New Partnership",
           "enclosure": {
             "length": "1337",
@@ -1462,7 +1462,7 @@
           "description": "The company is the first crypto exchange to become a licensed payments institution in the South American country.",
           "link": "https://www.coindesk.com/business/2022/12/15/cryptocom-receives-license-as-a-payment-institution-in-brazil/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2022-12-15T20:14:57.000Z",
-          "wordCount": 21351,
+          "wordCount": 21343,
           "title": "Crypto.com Receives License as a Payment Institution in Brazil",
           "enclosure": {
             "length": "1337",
@@ -1477,7 +1477,7 @@
           "description": "Renato Mariotti, partner at international law firm Bryan Cave Leighton Paisner, discusses why regulators are “eager to plant a flag” on the crypto industry.",
           "link": "https://www.coindesk.com/policy/2022/12/15/us-government-wants-to-send-a-message-to-crypto-with-sbfs-arrest-says-former-us-prosecutor/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2022-12-15T19:52:33.000Z",
-          "wordCount": 22243,
+          "wordCount": 22235,
           "title": "US Government Wants to ‘Send a Message’ to Crypto With SBF’s Arrest, Says Former US Prosecutor",
           "enclosure": {
             "length": "1337",
@@ -1492,7 +1492,7 @@
           "description": "De Nederlandsche Bank said KuCoin lacks a “legal registration” with the central bank.",
           "link": "https://www.coindesk.com/business/2022/12/15/dutch-central-bank-says-crypto-exchange-kucoin-is-operating-without-license-in-netherlands/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2022-12-15T19:52:33.000Z",
-          "wordCount": 21423,
+          "wordCount": 21415,
           "title": "Dutch Central Bank Says Crypto Exchange KuCoin Is Operating Without a License in Netherlands",
           "enclosure": {
             "length": "1337",
@@ -1522,7 +1522,7 @@
           "description": "The funding round was led by Blockchain Capital, Foundry Group and several other venture capital firms.",
           "link": "https://www.coindesk.com/business/2022/12/15/web3-infrastructure-firm-blocknative-raises-15m-for-ethereum-block-building-market/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2022-12-15T19:10:46.000Z",
-          "wordCount": 21542,
+          "wordCount": 21534,
           "title": "Web3 Infrastructure Firm Blocknative Raises $15M for Ethereum Block Building Market",
           "enclosure": {
             "length": "1337",
@@ -1567,7 +1567,7 @@
           "description": "Amid a surge in withdrawals, Binance's chief executive is seemingly working to reestablish trust and keep assets on the centralized exchange. I \"recommend no more news like these.\"",
           "link": "https://www.coindesk.com/consensus-magazine/2022/12/15/changpeng-zhao-wont-rescue-binance-by-selling-out-crypto-self-custody/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2022-12-15T18:51:50.000Z",
-          "wordCount": 24007,
+          "wordCount": 24000,
           "title": "Changpeng Zhao Won't Rescue Binance by Selling out Crypto Self-Custody",
           "enclosure": {
             "length": "1337",

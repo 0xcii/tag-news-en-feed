@@ -711,21 +711,6 @@
           "imageUrl": "https://cdn.jwplayer.com/v2/media/c4lrMB0e/poster.jpg"
         },
         {
-          "id": "https://decrypt.co/videos/live-events/dLlerLlT/the-crypties-2022-doodles-collab-with-shopify-wins-mainstream-award",
-          "author": null,
-          "description": "Shirley Cedeno and Akbar Hamid accepted the Cryptie on behalf of Doodles from presenters Igor Lilic and Gabriela Ramos Lilic of Breakout at the inaugural Crypties Awards from Decrypt Studios in Miami on November 30. The other nominees in the category were RTFKT and Nike, Gmoney and Adidas, Tiffany and CryptoPunks, and TIMEpieces.",
-          "link": "https://decrypt.co/videos/live-events/dLlerLlT/the-crypties-2022-doodles-collab-with-shopify-wins-mainstream-award",
-          "publishedOn": "2022-12-06T17:34:44.000Z",
-          "wordCount": 5818,
-          "title": "The Crypties 2022: Doodles Collab With Shopify Wins Mainstream Award",
-          "enclosure": {
-            "url": "https://cdn.jwplayer.com/v2/media/dLlerLlT/poster.jpg",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.jwplayer.com/v2/media/dLlerLlT/poster.jpg"
-        },
-        {
           "id": "https://decrypt.co/videos/live-events/z6m8NyuF/the-crypties-awards-2022-people-of-crypto-wins-metaverse-event-of-the-year",
           "author": null,
           "description": "Simone Berry and Akbar Hamid accepted the Cryptie for People of Crypto's Metaverse Pride Parade from presenter Toni Thai Sterrett of Bad Grrls Creative Club at the inaugural Crypties Awards from Decrypt Studios in Miami on November 30. The other nominees in the category were Decentraland's Metaverse Fashion Week and Heal from The Sandbox and Code Green.",
@@ -739,6 +724,21 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.jwplayer.com/v2/media/z6m8NyuF/poster.jpg"
+        },
+        {
+          "id": "https://decrypt.co/videos/live-events/dLlerLlT/the-crypties-2022-doodles-collab-with-shopify-wins-mainstream-award",
+          "author": null,
+          "description": "Shirley Cedeno and Akbar Hamid accepted the Cryptie on behalf of Doodles from presenters Igor Lilic and Gabriela Ramos Lilic of Breakout at the inaugural Crypties Awards from Decrypt Studios in Miami on November 30. The other nominees in the category were RTFKT and Nike, Gmoney and Adidas, Tiffany and CryptoPunks, and TIMEpieces.",
+          "link": "https://decrypt.co/videos/live-events/dLlerLlT/the-crypties-2022-doodles-collab-with-shopify-wins-mainstream-award",
+          "publishedOn": "2022-12-06T17:34:44.000Z",
+          "wordCount": 5818,
+          "title": "The Crypties 2022: Doodles Collab With Shopify Wins Mainstream Award",
+          "enclosure": {
+            "url": "https://cdn.jwplayer.com/v2/media/dLlerLlT/poster.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.jwplayer.com/v2/media/dLlerLlT/poster.jpg"
         },
         {
           "id": "https://decrypt.co/videos/live-events/nQuIgj4l/the-crypties-awards-2022-lens-protocol-wins-defi-project-of-the-year",
@@ -883,14 +883,194 @@
       "siteUrl": "https://cryptopanic.com/",
       "articles": [
         {
+          "id": "https://cryptopanic.com/news/17171067/New-York-Regulator-Publishes-Crypto-Guidance-For-Banks",
+          "author": null,
+          "description": "The New York state financial regulator has issued its latest guidance on banks' involvement with virtual currencies.",
+          "link": "https://cryptopanic.com/news/17171067/New-York-Regulator-Publishes-Crypto-Guidance-For-Banks",
+          "publishedOn": "2022-12-16T16:15:00.000Z",
+          "wordCount": 525,
+          "title": "New York Regulator Publishes Crypto Guidance For Banks",
+          "imageUrl": "https://s32659.pcdn.co/wp-content/uploads/2022/09/bic_favic.png"
+        },
+        {
+          "id": "https://cryptopanic.com/news/17171036/Solana-based-DEX-Raydium-exploited-for-22-million",
+          "author": null,
+          "description": "Solana-based decentralized exchange Raydium has been exploited for $2.2 million. The attacker overtook the owner’s authority on the platform, according to the firm’s initial understanding.",
+          "link": "https://cryptopanic.com/news/17171036/Solana-based-DEX-Raydium-exploited-for-22-million",
+          "publishedOn": "2022-12-16T16:10:06.000Z",
+          "wordCount": 524,
+          "title": "Solana-based DEX Raydium exploited for $2.2 million",
+          "imageUrl": "https://cryptoslate.com/wp-content/uploads/2022/12/raydium-hack-.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/17171035/Bitcoin-Price-Prediction-as-BTC-Falls-Below-18000-How-Low-Can-it-Go",
+          "author": null,
+          "description": "Bitcoin price prediction has shifted bearish, as BTC has fallen below an upward channel, and a close outside of this channel is likely to lead to a price of $16,775. Despite the release of a worse-than-expected US Flash Services PMI on Friday, the US session saw more selling in BTC as the market...",
+          "link": "https://cryptopanic.com/news/17171035/Bitcoin-Price-Prediction-as-BTC-Falls-Below-18000-How-Low-Can-it-Go",
+          "publishedOn": "2022-12-16T16:04:00.000Z",
+          "wordCount": 531,
+          "title": "Bitcoin Price Prediction as BTC Falls Below $18,000 – How Low Can it Go?",
+          "imageUrl": "https://v2.cimg.co/news/98288/244348/market-roudnup-night-dec16.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/17171034/Today-in-Crypto-MoneyGram-Partners-with-Stellar-Development-Foundation-First-Two-ETFs-Launched-in-Hong-Kong-FTX-Wants-to-Sell-Four-Subsidiaries",
+          "author": null,
+          "description": "Get your daily, bite-sized digest of cryptoasset and blockchain-related news – investigating the stories flying under the radar of today’s crypto news.__________... Read More: Today in Crypto: MoneyGram Partners with Stellar Development Foundation, First Two ETFs Launched in Hong Kong, FTX Wants...",
+          "link": "https://cryptopanic.com/news/17171034/Today-in-Crypto-MoneyGram-Partners-with-Stellar-Development-Foundation-First-Two-ETFs-Launched-in-Hong-Kong-FTX-Wants-to-Sell-Four-Subsidiaries",
+          "publishedOn": "2022-12-16T16:00:00.000Z",
+          "wordCount": 539,
+          "title": "Today in Crypto: MoneyGram Partners with Stellar Development Foundation, First Two ETFs Launched in Hong Kong, FTX Wants to Sell Four Subsidiaries",
+          "imageUrl": "https://v2.cimg.co/news/98256/244291/93403d0a59.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/17170991/Machine-learning-algorithm-sets-Bitcoin-price-for-January-1-2023",
+          "author": null,
+          "description": "Bitcoin (BTC) has sustained losses across 2022 amid an extended cryptocurrency bear market that is yet to hit a bottom. … Continued",
+          "link": "https://cryptopanic.com/news/17170991/Machine-learning-algorithm-sets-Bitcoin-price-for-January-1-2023",
+          "publishedOn": "2022-12-16T15:59:04.000Z",
+          "wordCount": 527,
+          "title": "Machine learning algorithm sets Bitcoin price for January 1, 2023",
+          "imageUrl": "https://finbold.com/app/uploads/2022/12/Machine-learning-algorithm-sets-Bitcoin-price-for-January-1-2023.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/17170988/Shaq-becomes-latest-celebrity-to-distance-himself-from-FTX-crypto",
+          "author": null,
+          "description": "Former NBA player Shaquille O’Neal is the latest celebrity influencer to turn his back on disgraced crypto exchange FTX.",
+          "link": "https://cryptopanic.com/news/17170988/Shaq-becomes-latest-celebrity-to-distance-himself-from-FTX-crypto",
+          "publishedOn": "2022-12-16T15:56:05.000Z",
+          "wordCount": 527,
+          "title": "Shaq becomes latest celebrity to distance himself from FTX, crypto",
+          "imageUrl": "https://cryptoslate.com/wp-content/uploads/2022/12/shaq-ftx.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/17170989/Ethereum-Price-Prediction-Can-ETH-Flip-Bitcoin-in-2023",
+          "author": null,
+          "description": "ETH, the native cryptocurrency that powers the Ethereum blockchain, continues to suffer amid elevated post-hawkish Fed meeting sell pressure. ETH, otherwise known as Ether, was last down over 5.0% on Friday, having broken out to fresh monthly lows under its 21-Day Moving Average (DMA) earlier in...",
+          "link": "https://cryptopanic.com/news/17170989/Ethereum-Price-Prediction-Can-ETH-Flip-Bitcoin-in-2023",
+          "publishedOn": "2022-12-16T15:52:00.000Z",
+          "wordCount": 527,
+          "title": "Ethereum Price Prediction – Can ETH Flip Bitcoin in 2023?",
+          "imageUrl": "https://v2.cimg.co/news/98291/244343/responsive-images/eth-1___media_library_original_1200_530.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/17171031/Bitcoin-Not-NFTs",
+          "author": null,
+          "description": "Bitcoin Magazine LIVE #2201) News and Notes with Chris and NolanLower your time preference and lock-in your Bitcoin 2023 conference tickets today!!! Use promo code BMLIVE to save 10% off your conference tickets today!!!https://b.tc/conference/bitcoin2023Follow us on Twitter:-...",
+          "link": "https://cryptopanic.com/news/17171031/Bitcoin-Not-NFTs",
+          "publishedOn": "2022-12-16T15:51:53.000Z",
+          "wordCount": 520,
+          "title": "Bitcoin, Not NFTs",
+          "imageUrl": "https://i2.ytimg.com/vi/Agt5Wlee9FQ/hqdefault.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/17170964/This-XRP-Ledger-Coin-Is-up-25-in-Week-Whats-Known-About-onAVAX-OVX",
+          "author": null,
+          "description": "onAVAX (OVX) soars 25% in week, here's what's known about this XRP Ledger asset",
+          "link": "https://cryptopanic.com/news/17170964/This-XRP-Ledger-Coin-Is-up-25-in-Week-Whats-Known-About-onAVAX-OVX",
+          "publishedOn": "2022-12-16T15:49:00.000Z",
+          "wordCount": 531,
+          "title": "This XRP Ledger Coin Is up 25% in Week, What's Known About onAVAX (OVX)?",
+          "imageUrl": "https://u.today/sites/default/files/styles/twitter/public/2022-12/28012.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/17170815/Bitcoin-Pulls-Back-w-Stocks-Once-Again",
+          "author": null,
+          "description": "The Financial Summit Dubai Nov 5-10: https://TheFinancialSummit.comBitGet Affiliate for Demo Trading: https://partner.bitget.com/bg/financialsummitPromo Video: https://www.youtube.com/watch?v=3rATkFrSTVsTestimonial Video: https://www.youtube.com/watch?v=PHvhtJXkjNsFor Momentum Reversal Indicator...",
+          "link": "https://cryptopanic.com/news/17170815/Bitcoin-Pulls-Back-w-Stocks-Once-Again",
+          "publishedOn": "2022-12-16T15:47:38.000Z",
+          "wordCount": 524,
+          "title": "Bitcoin Pulls Back w/ Stocks Once Again!",
+          "imageUrl": "https://i3.ytimg.com/vi/BknQkzOYsmY/hqdefault.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/17170958/BULLISH-BIT-Draconian-Fiat-Laws-Are-Good-For-Bitcoin",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/17170958/BULLISH-BIT-Draconian-Fiat-Laws-Are-Good-For-Bitcoin",
+          "publishedOn": "2022-12-16T15:46:28.000Z",
+          "wordCount": null,
+          "title": "BULLISH BIT: Draconian Fiat Laws Are Good For Bitcoin",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/17170960/Raydium-is-attacked-loses-2-million",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/17170960/Raydium-is-attacked-loses-2-million",
+          "publishedOn": "2022-12-16T15:46:13.000Z",
+          "wordCount": null,
+          "title": "Raydium is attacked, loses $2 million",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/17170938/Bitcoin-slips-struggles-to-hold-17000-Binances-BNB-slumps-even-further",
+          "author": null,
+          "description": "Crypto prices remained in the red at the end of the working week after a barrage of economic data dropped since Monday.",
+          "link": "https://cryptopanic.com/news/17170938/Bitcoin-slips-struggles-to-hold-17000-Binances-BNB-slumps-even-further",
+          "publishedOn": "2022-12-16T15:34:15.000Z",
+          "wordCount": 528,
+          "title": "Bitcoin slips, struggles to hold $17,000, Binance’s BNB slumps even further",
+          "imageUrl": "https://www.tbstat.com/wp/uploads/2022/10/20221026_DailyMarketMovers3-1200x675.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/17170936/Bitcoin-Rollercoaster-on-US-Inflation-Data-SBFs-Arrest-and-MetaMasks-PayPal-Collab-This-Weeks-Recap",
+          "author": null,
+          "description": "SBF gets arrested, CZ reassures Binance is in good financial standing, MetaMask teams with PayPal, and other exciting events in the past 7 days.",
+          "link": "https://cryptopanic.com/news/17170936/Bitcoin-Rollercoaster-on-US-Inflation-Data-SBFs-Arrest-and-MetaMasks-PayPal-Collab-This-Weeks-Recap",
+          "publishedOn": "2022-12-16T15:32:56.000Z",
+          "wordCount": 532,
+          "title": "Bitcoin Rollercoaster on US Inflation Data, SBF’s Arrest, and MetaMask’s PayPal Collab: This Week’s Recap",
+          "imageUrl": "https://cryptopotato.com/wp-content/uploads/2021/11/img_rollercoaster.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/17170939/Coin-Bureau-Host-Details-Cardano-Outlook-Says-These-Catalysts-Will-Determine-ADAs-Long-Term-Performance",
+          "author": null,
+          "description": "A popular crypto analyst is providing insights into the future of the Cardano (ADA) blockchain as the bear market continues to hibernate. In a new YouTube strategy session video, pseudonymous Coin Bureau host Guy tells his 2.17 million subscribers that in the near term ADA is likely to continue...",
+          "link": "https://cryptopanic.com/news/17170939/Coin-Bureau-Host-Details-Cardano-Outlook-Says-These-Catalysts-Will-Determine-ADAs-Long-Term-Performance",
+          "publishedOn": "2022-12-16T15:30:58.000Z",
+          "wordCount": 531,
+          "title": "Coin Bureau Host Details Cardano Outlook, Says These Catalysts Will Determine ADA’s Long-Term Performance",
+          "imageUrl": "https://dailyhodl.com/wp-content/uploads/2022/12/Catalysts-Will-Determine-ADA.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/17170928/Did-Donald-make-Polygon-MATIC-triumph-over-other-cryptocurrencies",
+          "author": null,
+          "description": "Polygon outperformed other major protocols in terms of daily active users. It witnessed a spike in NFT activity as well, which could be attributed to the launch of an NFT collection by Donald Trump. New data by Token Terminal revealed that the number of daily active users on Polygon’s [MATIC]...",
+          "link": "https://cryptopanic.com/news/17170928/Did-Donald-make-Polygon-MATIC-triumph-over-other-cryptocurrencies",
+          "publishedOn": "2022-12-16T15:30:39.000Z",
+          "wordCount": 526,
+          "title": "Did Donald make Polygon [MATIC] triumph over other cryptocurrencies?",
+          "imageUrl": "https://ambcrypto.com/wp-content/uploads/2022/12/1667642544523-91ee6131-8038-485f-83a9-67aaaf075320-e1671175166278.png"
+        },
+        {
+          "id": "https://cryptopanic.com/news/17170889/Is-Ongoing-XRP-Price-Drop-a-Sign-of-Things-to-Come",
+          "author": null,
+          "description": "The long-term XRP price structure is still intact despite a short-term breakdown.",
+          "link": "https://cryptopanic.com/news/17170889/Is-Ongoing-XRP-Price-Drop-a-Sign-of-Things-to-Come",
+          "publishedOn": "2022-12-16T15:25:04.000Z",
+          "wordCount": 528,
+          "title": "Is Ongoing XRP Price Drop a Sign of Things to Come?",
+          "imageUrl": "https://s32659.pcdn.co/wp-content/uploads/2022/11/Ripple-XRP-Down.jpg.optimal.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/17170900/Alex-Connolly-CTO-of-Immutable-on-Onboarding-35-Billion-People-to-Web3-Gaming-Ep-187",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/17170900/Alex-Connolly-CTO-of-Immutable-on-Onboarding-35-Billion-People-to-Web3-Gaming-Ep-187",
+          "publishedOn": "2022-12-16T15:16:00.000Z",
+          "wordCount": null,
+          "title": "Alex Connolly, CTO of Immutable, on Onboarding 3.5 Billion People to Web3 Gaming | Ep. 187",
+          "imageUrl": null
+        },
+        {
           "id": "https://cryptopanic.com/news/17170852/Solana-based-exchange-Raydium-suffers-2-million-exploit",
           "author": null,
-          "description": "Solana-based decentralized exchange Raydium suffered an exploit that appears to have taken more than $2 million.",
+          "description": "",
           "link": "https://cryptopanic.com/news/17170852/Solana-based-exchange-Raydium-suffers-2-million-exploit",
           "publishedOn": "2022-12-16T15:07:04.000Z",
-          "wordCount": 524,
+          "wordCount": null,
           "title": "Solana-based exchange Raydium suffers $2 million exploit",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2022/11/20221129_Hack-Exploit-3-1200x675.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/17170848/Auditing-Firm-Mazars-Halts-Work-With-All-Crypto-Clients-Including-Binance-CryptoCom-KuCoin",
@@ -901,186 +1081,6 @@
           "wordCount": 530,
           "title": "Auditing Firm Mazars Halts Work With All Crypto Clients Including Binance, Crypto.Com, KuCoin",
           "imageUrl": "https://en.ethereumworldnews.com/wp-content/uploads/2022/12/Auditing-Firm-Mazars-Halts-Work-With-Crypto-Clients-Binance-Crypto.Com-KuCoin.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/17170846/BNB-Chain-announces-its-first-Asia-based-hackathon",
-          "author": null,
-          "description": "BNB Chain announced it is holding its first Hackathon in South Korea between December 17 and 19. The event is a joint effort between BNB Chain, DWF Labs, and CertiK.",
-          "link": "https://cryptopanic.com/news/17170846/BNB-Chain-announces-its-first-Asia-based-hackathon",
-          "publishedOn": "2022-12-16T15:00:32.000Z",
-          "wordCount": 524,
-          "title": "BNB Chain announces its first Asia-based hackathon",
-          "imageUrl": "https://cryptoslate.com/wp-content/uploads/2022/12/bnb-hackaton-.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/17170813/Binances-proof-of-reserves-auditor-suspends-work-for-crypto-firms",
-          "author": null,
-          "description": "Mazars, the financial auditing firm behind Binance’s proof-of-reserves (PoR) audit, has suspended all work for crypto firms.",
-          "link": "https://cryptopanic.com/news/17170813/Binances-proof-of-reserves-auditor-suspends-work-for-crypto-firms",
-          "publishedOn": "2022-12-16T14:57:28.000Z",
-          "wordCount": 525,
-          "title": "Binance’s proof-of-reserves auditor suspends work for crypto firms",
-          "imageUrl": "https://forkast.news/wp-content/uploads/2022/11/Binance-1.png"
-        },
-        {
-          "id": "https://cryptopanic.com/news/17170816/Trillions-of-Shiba-Inu-Wired-Between-Anon-Wallets-as-Top-Whales-Dump-Their-SHIB",
-          "author": null,
-          "description": "Anonymous addresses have moved nearly three trillion SHIB; still, this meme coin has fallen out of top 10 holdings list",
-          "link": "https://cryptopanic.com/news/17170816/Trillions-of-Shiba-Inu-Wired-Between-Anon-Wallets-as-Top-Whales-Dump-Their-SHIB",
-          "publishedOn": "2022-12-16T14:52:00.000Z",
-          "wordCount": 531,
-          "title": "Trillions of Shiba Inu Wired Between Anon Wallets as Top Whales Dump Their SHIB",
-          "imageUrl": "https://u.today/sites/default/files/styles/twitter/public/2022-12/28008.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/17170815/Bitcoin-Pulls-Back-w-Stocks-Once-Again",
-          "author": null,
-          "description": "The Financial Summit Dubai Nov 5-10: https://TheFinancialSummit.comBitGet Affiliate for Demo Trading: https://partner.bitget.com/bg/financialsummitPromo Video: https://www.youtube.com/watch?v=3rATkFrSTVsTestimonial Video: https://www.youtube.com/watch?v=PHvhtJXkjNsFor Momentum Reversal Indicator...",
-          "link": "https://cryptopanic.com/news/17170815/Bitcoin-Pulls-Back-w-Stocks-Once-Again",
-          "publishedOn": "2022-12-16T14:47:51.000Z",
-          "wordCount": 524,
-          "title": "Bitcoin Pulls Back w/ Stocks Once Again!",
-          "imageUrl": "https://i3.ytimg.com/vi/BknQkzOYsmY/hqdefault.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/17170818/The-Reformed-Libertarian-with-Mike-Brock",
-          "author": null,
-          "description": "SHOW NOTES:https://www.whatbitcoindid.com/podcast/the-reformed-libertarianMike Brock is the lead at TBD, the Bitcoin-focused subsidiary of Block. In this interview, we discuss being a post-libertarian, reconciling the best elements of libertarianism with support for liberal democracy, and how...",
-          "link": "https://cryptopanic.com/news/17170818/The-Reformed-Libertarian-with-Mike-Brock",
-          "publishedOn": "2022-12-16T14:44:21.000Z",
-          "wordCount": 523,
-          "title": "The Reformed Libertarian with Mike Brock",
-          "imageUrl": "https://i3.ytimg.com/vi/276N9y293_k/hqdefault.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/17170782/Heres-When-10-Billion-Terra-Classic-LUNC-Burning-Goal-Will-Be-Reached",
-          "author": null,
-          "description": "Desired number of LUNCs in circulation is 10 billion tokens, but there is a catch",
-          "link": "https://cryptopanic.com/news/17170782/Heres-When-10-Billion-Terra-Classic-LUNC-Burning-Goal-Will-Be-Reached",
-          "publishedOn": "2022-12-16T14:42:00.000Z",
-          "wordCount": 529,
-          "title": "Here's When 10 Billion Terra Classic (LUNC) Burning Goal Will Be Reached",
-          "imageUrl": "https://u.today/sites/default/files/styles/twitter/public/2022-12/28005.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/17170749/Only-for-foreign-trade-Bank-of-Russia-stands-against-free-crypto-investment",
-          "author": null,
-          "description": "The Russian government doesn’t want to enable Bitcoin for regular Russian people but exclusively for foreign trade entities.",
-          "link": "https://cryptopanic.com/news/17170749/Only-for-foreign-trade-Bank-of-Russia-stands-against-free-crypto-investment",
-          "publishedOn": "2022-12-16T14:36:04.000Z",
-          "wordCount": 529,
-          "title": "Only for foreign trade: Bank of Russia stands against free crypto investment",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/17170754/Elon-Musk-Hype-Drives-OKX-Token-Price-Up-8",
-          "author": null,
-          "description": "OKX token pumped after Elon Musk followed the crypto exchange on his social network Twitter.",
-          "link": "https://cryptopanic.com/news/17170754/Elon-Musk-Hype-Drives-OKX-Token-Price-Up-8",
-          "publishedOn": "2022-12-16T14:33:41.000Z",
-          "wordCount": 526,
-          "title": "Elon Musk Hype Drives OKX Token Price Up 8%",
-          "imageUrl": "https://en.ethereumworldnews.com/wp-content/uploads/2022/12/Elon-Musk-Hype-Drives-OKX-Token-Price-Up-8.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/17170763/Why-Andrew-Tate-Is-ALL-IN-On-Bitcoin",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/17170763/Why-Andrew-Tate-Is-ALL-IN-On-Bitcoin",
-          "publishedOn": "2022-12-16T14:30:23.000Z",
-          "wordCount": null,
-          "title": "Why Andrew Tate Is ALL IN On Bitcoin",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/17170746/A-Metaverse-Ready-Nation-Needs-These-Factors-to-Excel-in-2023-per-Report",
-          "author": null,
-          "description": "The metaverse trend has taken the crypto world by storm despite the overall bearish crypto sentiment. Customer experience and operations remain key area which has helped the concept of metaverse to reach every corner.",
-          "link": "https://cryptopanic.com/news/17170746/A-Metaverse-Ready-Nation-Needs-These-Factors-to-Excel-in-2023-per-Report",
-          "publishedOn": "2022-12-16T14:30:00.000Z",
-          "wordCount": 529,
-          "title": "A Metaverse-Ready Nation Needs These Factors to Excel in 2023, per Report",
-          "imageUrl": "https://s32659.pcdn.co/wp-content/uploads/2022/12/metaverse-companies-cover.jpg.optimal.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/17170758/Japans-LARGEST-Energy-Company-is-Mining-Bitcoin-EP-640",
-          "author": null,
-          "description": "\"JAPAN’S LARGEST POWER COMPANY, TEPCO, TO MINE BITCOIN WITH EXCESS ENERGY\" -Bitcoin Magazine✓ SUBSCRIBE - https://bit.ly/3QbgqTQ✓ LEAVE A LIKE ✓ COMMENT Join our Telegram, Give us Memes to Review!► https://t.me/SimplyBitcoinTVCheck out our Sponsors, support Bitcoin ONLY Businesses:Blockstream:...",
-          "link": "https://cryptopanic.com/news/17170758/Japans-LARGEST-Energy-Company-is-Mining-Bitcoin-EP-640",
-          "publishedOn": "2022-12-16T14:29:32.000Z",
-          "wordCount": 527,
-          "title": "Japan's LARGEST Energy Company is Mining Bitcoin | EP 640",
-          "imageUrl": "https://i1.ytimg.com/vi/di3qkwTlaQ0/hqdefault.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/17170726/Jim-Cramer-Issues-Stark-Warning-About-Binance",
-          "author": null,
-          "description": "CNBC host Jim Cramer claims that he finds DraftKings to be more trustworthy than Binance",
-          "link": "https://cryptopanic.com/news/17170726/Jim-Cramer-Issues-Stark-Warning-About-Binance",
-          "publishedOn": "2022-12-16T14:23:00.000Z",
-          "wordCount": 524,
-          "title": "Jim Cramer Issues Stark Warning About Binance",
-          "imageUrl": "https://u.today/sites/default/files/styles/twitter/public/2022-12/28006.jpeg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/17170717/Machine-learning-algorithm-sets-DOGE-price-for-January-1-2023",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/17170717/Machine-learning-algorithm-sets-DOGE-price-for-January-1-2023",
-          "publishedOn": "2022-12-16T14:21:39.000Z",
-          "wordCount": null,
-          "title": "Machine learning algorithm sets DOGE price for January 1, 2023",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/17170671/Next-Crypto-Spring-Could-Be-Unlike-Any-Other-Because-of-This-Factor",
-          "author": null,
-          "description": "A “very different picture” awaits bitcoin (BTC) and crypto holders in the next crypto spring, a senior Ukrainian politician has warned – as crypto exchanges begin to lose their grip on the sector. The warning came from Daniil Getmantsev, the Chairman of the Verkhovna Rada’s Committee on Finance,...",
-          "link": "https://cryptopanic.com/news/17170671/Next-Crypto-Spring-Could-Be-Unlike-Any-Other-Because-of-This-Factor",
-          "publishedOn": "2022-12-16T14:00:00.000Z",
-          "wordCount": 530,
-          "title": "Next ‘Crypto Spring’ Could Be ‘Unlike Any Other’ – Because of This Factor",
-          "imageUrl": "https://v2.cimg.co/news/98239/244243/responsive-images/adobestock-422982000___media_library_original_1200_676.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/17170632/New-York-regulator-orders-banks-to-apply-for-permission-before-engaging-with-crypto",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/17170632/New-York-regulator-orders-banks-to-apply-for-permission-before-engaging-with-crypto",
-          "publishedOn": "2022-12-16T13:55:38.000Z",
-          "wordCount": null,
-          "title": "New York regulator orders banks to apply for permission before engaging with crypto",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/17170626/Web3-community-shares-tips-for-a-successful-GameFi-project",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/17170626/Web3-community-shares-tips-for-a-successful-GameFi-project",
-          "publishedOn": "2022-12-16T13:50:25.000Z",
-          "wordCount": null,
-          "title": "Web3 community shares tips for a successful GameFi project",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/17170586/Bitcoin-Hashrate-Rebounds-11-Since-Nov-End-Can-It-Reach-New-ATH",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/17170586/Bitcoin-Hashrate-Rebounds-11-Since-Nov-End-Can-It-Reach-New-ATH",
-          "publishedOn": "2022-12-16T13:46:36.000Z",
-          "wordCount": null,
-          "title": "Bitcoin Hashrate Rebounds 11% Since Nov End, Can It Reach New ATH?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/17170608/SHIB-Large-Holder-Volumes-Jump-124-with-Surprising-Growth-in-User-Base",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/17170608/SHIB-Large-Holder-Volumes-Jump-124-with-Surprising-Growth-in-User-Base",
-          "publishedOn": "2022-12-16T13:46:00.000Z",
-          "wordCount": null,
-          "title": "SHIB Large Holder Volumes Jump 124% with Surprising Growth in User Base",
-          "imageUrl": null
         }
       ]
     },
@@ -1090,12 +1090,22 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=holA_O-CTb0&feature=youtu.be",
+          "author": null,
+          "description": "Erik Voorhees on Crypto & Freedom | Galaxy Brains Podcast 040",
+          "link": "https://www.youtube.com/watch?v=holA_O-CTb0&feature=youtu.be",
+          "publishedOn": "2022-12-16T15:30:05.000Z",
+          "wordCount": null,
+          "title": "Erik Voorhees on Crypto & Freedom | Galaxy Brains Podcast 040",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblock.co/post/195264/jefferies-recovery-rate-ftx-creditors?utm_source=twitter&utm_medium=social",
           "author": null,
           "description": "Jefferies sees recovery rate of up to 40% for FTX creditors: Exclusive",
           "link": "https://www.theblock.co/post/195264/jefferies-recovery-rate-ftx-creditors?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-12-16T14:00:06.000Z",
-          "wordCount": 63746,
+          "wordCount": 64338,
           "title": "Jefferies sees recovery rate of up to 40% for FTX creditors: Exclusive",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2019/04/legal-letter-law-lawyer-1200x675.jpg"
         },
@@ -1105,7 +1115,7 @@
           "description": "Play Axie DoLL: A Community-Built Game on App.axie!",
           "link": "https://axie.substack.com/p/axiedoll",
           "publishedOn": "2022-12-16T11:00:02.000Z",
-          "wordCount": 2382,
+          "wordCount": 3323,
           "title": "Play Axie DoLL: A Community-Built Game on App.axie!",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa8524cdb-2e27-4270-99f1-cb9a69cfdec8_2880x1800.png"
         },
@@ -1115,7 +1125,7 @@
           "description": "Caroline Ellison likely working with feds against Sam Bankman-Fried",
           "link": "https://nypost.com/2022/12/14/sam-bankman-frieds-ex-caroline-ellison-likely-works-with-feds/?utm_source=NYPTwitter&utm_campaign=SocialFlow&utm_medium=SocialFlow",
           "publishedOn": "2022-12-16T05:00:02.000Z",
-          "wordCount": 19229,
+          "wordCount": 19550,
           "title": "Caroline Ellison likely working with feds against Sam Bankman-Fried",
           "imageUrl": "https://nypost.com/wp-content/uploads/sites/2/2022/12/caroline-ellison-turned-against-bankman-fried-comp-1.jpg?quality=75&strip=all&w=1024"
         },
@@ -1135,19 +1145,9 @@
           "description": "Avalanche Summit II: May 3-5 in Barcelona, Spain",
           "link": "https://www.avalanchesummit.com/",
           "publishedOn": "2022-12-16T03:00:03.000Z",
-          "wordCount": 907,
+          "wordCount": 899,
           "title": "Avalanche Summit II: May 3-5 in Barcelona, Spain",
           "imageUrl": "https://assets.website-files.com/6393369d6d8df43a519d0520/639b102a4a1bd67b42ea534b_Summit-Avalanche-P1-OG%20(1)-min.png"
-        },
-        {
-          "id": "https://docs.ens.domains/v/governance/the-ens-foundation",
-          "author": null,
-          "description": "The ENS Foundation - ENS Documentation",
-          "link": "https://docs.ens.domains/v/governance/the-ens-foundation",
-          "publishedOn": "2022-12-16T03:00:03.000Z",
-          "wordCount": 1662,
-          "title": "The ENS Foundation - ENS Documentation",
-          "imageUrl": null
         },
         {
           "id": "https://www.riffusion.com/about",
@@ -1215,7 +1215,7 @@
           "description": "Aztec Network takes on encrypted blockchains with $100M round led by a16z",
           "link": "https://techcrunch.com/2022/12/15/aztec-network-takes-on-encrypted-blockchains-with-100m-round-led-by-a16z/",
           "publishedOn": "2022-12-15T21:00:03.000Z",
-          "wordCount": 8546,
+          "wordCount": 6151,
           "title": "Aztec Network takes on encrypted blockchains with $100M round led by a16z",
           "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/12/Aztec_16_9_Encrypted_Ethereum.jpg"
         },
@@ -1255,7 +1255,7 @@
           "description": "Crypto trading firm QCP Capital has at least $97 million stuck on FTX: Sources",
           "link": "https://www.theblock.co/post/194878/qcp-capital-ftx-exposure",
           "publishedOn": "2022-12-15T21:00:02.000Z",
-          "wordCount": 62993,
+          "wordCount": 63583,
           "title": "Crypto trading firm QCP Capital has at least $97 million stuck on FTX: Sources",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/03/20220321_FTX_Crypto_Takeover-1200x675.png"
         },
@@ -1265,7 +1265,7 @@
           "description": "Blocknative raises $15 million to provide global infrastructure to Ethereum",
           "link": "https://fortune.com/crypto/2022/12/15/blocknative-raises-15-million-to-provide-global-infrastructure-ethereum/?xid=soc_socialflow_twitter_FORTUNE&utm_medium=social&utm_source=twitter.com&utm_campaign=fortunemagazine",
           "publishedOn": "2022-12-15T21:00:02.000Z",
-          "wordCount": 3491,
+          "wordCount": 3487,
           "title": "Blocknative raises $15 million to provide global infrastructure to Ethereum",
           "imageUrl": "https://content.fortune.com/wp-content/uploads/2022/12/Coins-Ethereum-10.jpg?resize=1200,600"
         },
@@ -1275,7 +1275,7 @@
           "description": "UN to send displaced Ukrainians USDC to convert into local currencies",
           "link": "https://fortune.com/crypto/2022/12/15/un-crypto-aid-ukrainian-refugees-stablecoin-usdc-stellar/",
           "publishedOn": "2022-12-15T15:00:03.000Z",
-          "wordCount": 3579,
+          "wordCount": 3575,
           "title": "UN to send displaced Ukrainians USDC to convert into local currencies",
           "imageUrl": "https://content.fortune.com/wp-content/uploads/2022/12/united-nations-crypto-donations-ukraine-refugees-e1671051861934.jpg?resize=1200,600"
         },
@@ -1285,7 +1285,7 @@
           "description": "69 Theses for 2023",
           "link": "https://redphone.substack.com/p/69-theses-for-2023",
           "publishedOn": "2022-12-15T07:30:06.000Z",
-          "wordCount": 1777,
+          "wordCount": 1742,
           "title": "69 Theses for 2023",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F93400d3f-1fa7-4d8c-958e-1eb00a0188e6_1664x1157.png"
         }
@@ -1296,6 +1296,76 @@
       "feedUrl": "https://www.inoreader.com/stream/user/1005336866/tag/%E6%B5%B7%E5%A4%96%E5%8A%A0%E5%AF%86%E8%B5%84%E8%AE%AF",
       "siteUrl": "https://www.inoreader.com/stream/user/1005336866/tag/%E6%B5%B7%E5%A4%96%E5%8A%A0%E5%AF%86%E8%B5%84%E8%AE%AF/view/html",
       "articles": [
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e75f5cb1b1c",
+          "author": "Jack Schickler",
+          "description": "A final decision on whether to publish the names, which the collapsed crypto exchange says could advantage competitors and breach privacy laws, will follow in January.",
+          "link": "https://www.coindesk.com/policy/2022/12/16/media-orgs-get-right-to-argue-for-publication-of-ftxs-million-strong-creditor-list/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2022-12-16T16:18:14.000Z",
+          "wordCount": 21998,
+          "title": "Media Orgs. Get Right to Argue For Publication of FTX’s Million-strong Creditor List",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/jpeg",
+            "url": "https://www.coindesk.com/resizer/4PjM5qYfPs8PODG486A6bb_Liuo=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/MRM43K4AQFDB5EYJYX3Q7Q3BRQ.jpg"
+          },
+          "imageUrl": "https://www.coindesk.com/resizer/4PjM5qYfPs8PODG486A6bb_Liuo=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/MRM43K4AQFDB5EYJYX3Q7Q3BRQ.jpg"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e75f5cb1b11",
+          "author": "Vlad Goryachev",
+          "description": "A look at open-source and corporate point-of-sale systems from BTCPay to Confirmo, so any merchant can start accepting BTC in 2023.",
+          "link": "https://www.coindesk.com/consensus-magazine/2022/12/16/the-best-bitcoin-lightning-payment-solutions/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2022-12-16T16:18:14.000Z",
+          "wordCount": 24234,
+          "title": "The Best Bitcoin Lightning Payment Solutions",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/jpeg",
+            "url": "https://www.coindesk.com/resizer/Sg2VFhjiR97wMkInj_mXbSL10vI=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/EHVOWAARBJDHXDWKXMMCHAK7DQ.jpg"
+          },
+          "imageUrl": "https://www.coindesk.com/resizer/Sg2VFhjiR97wMkInj_mXbSL10vI=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/EHVOWAARBJDHXDWKXMMCHAK7DQ.jpg"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e75f5b46d62",
+          "author": "Ana N.",
+          "description": "The crypto industry has faced many challenges in 2022 due to macros. Recent events such as the FTX crash and its contagion have further exacerbated the situation, but amid all this, crypto continues to find more utility in Ukraine. The most recent development indicates that blockchain technology is far from over and could be an alternative resort when traditional channels fail.\n \n \nThe war between Russia and Ukraine left millions of people stranded and the United Nations has sought out means to send help. Reports have revealed that the United Nations High Commissioner for Refugees (UNHCR) has partnered with Stellar Blockchain to send money to displaced persons in Ukraine.\n \nStellar Development Foundation (SDF) shared this update via an official press release. The firm said it would work on…",
+          "link": "https://bitcoinist.com/un-to-deploy-stellar-blockchain-to-transfer-crypto-in-financial-aid-for-ukranians/",
+          "publishedOn": "2022-12-16T16:09:38.000Z",
+          "wordCount": 4851,
+          "title": "UN To Deploy Stellar Blockchain To Transfer Crypto In Financial Aid For Ukranians",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/jpeg",
+            "url": "https://bitcoinist.com/wp-content/uploads/2022/12/international-g3897b17f1_1280-560x420.jpg"
+          },
+          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2022/12/international-g3897b17f1_1280-560x420.jpg"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e75f5b31b72",
+          "author": "Jamie Redman",
+          "description": "The accounting firm Mazars Group has stopped doing proof-of-reserves (POR) audits for cryptocurrency exchanges and the recently published Binance POR has been removed from the web. Mazars was conducting a number of POR audits for crypto exchanges like Binance, Crypto.com, and Kucoin following the FTX collapse last month. \n \nMazars Group Pauses Crypto Company Audits, Binance POR Scrubbed From the Web\n \nReports detailed on Dec. 16, 2022, that the accounting firm Mazars Group has paused doing POR audits for cryptocurrency exchanges. On Friday, a Binance spokesperson told CNBC that “Mazars has indicated that they will temporarily pause their work with all of their crypto clients globally, which include Crypto.com, Kucoin, and Binance.” The spokesperson added that “this means that we will not b…",
+          "link": "https://news.bitcoin.com/accounting-firm-mazars-stops-proof-of-reserve-audits-for-crypto-firms-binance-audit-removed-from-the-web/",
+          "publishedOn": "2022-12-16T15:31:37.000Z",
+          "wordCount": 3375,
+          "title": "Accounting Firm Mazars Stops Proof-of-Reserve Audits for Crypto Firms, Binance Audit Removed From the Web",
+          "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2022/12/bincmazars.jpg"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e75f5bcf757",
+          "author": "Sam  Kessler",
+          "description": "Currently, about $2 million of different cryptocurrencies are sitting in the attacker’s account.",
+          "link": "https://www.coindesk.com/business/2022/12/16/solana-based-raydium-exchange-victim-of-9-figure-exploit/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2022-12-16T15:18:37.000Z",
+          "wordCount": 21351,
+          "title": "Solana-Based Raydium Exchange Victim of 9-figure Exploit",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/jpeg",
+            "url": "https://www.coindesk.com/resizer/od0VLNuJGDuMhbOYl380PClMflE=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/NLUFWKXJCNA65LXI4VXQMW2ETI.jpg"
+          },
+          "imageUrl": "https://www.coindesk.com/resizer/od0VLNuJGDuMhbOYl380PClMflE=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/NLUFWKXJCNA65LXI4VXQMW2ETI.jpg"
+        },
         {
           "id": "http://www.inoreader.com/article/3a9c6e75f5b84671",
           "author": "Mitchell Askew",
@@ -1314,17 +1384,17 @@
         {
           "id": "http://www.inoreader.com/article/3a9c6e75f5b9cf56",
           "author": "Cam Thompson",
-          "description": "According to data from OpenSea, the collection’s floor price is about 0.14 ETH, or about $170 – nearly double the original price.",
+          "description": "According to data from OpenSea, the collection’s floor price is about 0.19 ETH, or $230 – more than double the original mint price.",
           "link": "https://www.coindesk.com/web3/2022/12/16/trump-nft-collection-sells-out-price-surges/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2022-12-16T14:49:18.000Z",
-          "wordCount": 20862,
+          "wordCount": 21413,
           "title": "Trump NFT Collection Sells Out, Price Surges",
           "enclosure": {
             "length": "1337",
-            "type": "image/png",
-            "url": "https://www.coindesk.com/resizer/-Rk-g-hoOHsXsNwxQ2icNaIAV0U=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/BFGXJI67BRFE5ON47FRN73VULI.png"
+            "type": "image/jpeg",
+            "url": "https://www.coindesk.com/resizer/em8F1lcJx6OkvS2tLJE2RwSIooQ=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/SHMBTOGJARECZNDNAP64Q4HORQ.jpg"
           },
-          "imageUrl": "https://www.coindesk.com/resizer/-Rk-g-hoOHsXsNwxQ2icNaIAV0U=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/BFGXJI67BRFE5ON47FRN73VULI.png"
+          "imageUrl": "https://www.coindesk.com/resizer/em8F1lcJx6OkvS2tLJE2RwSIooQ=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/SHMBTOGJARECZNDNAP64Q4HORQ.jpg"
         },
         {
           "id": "http://www.inoreader.com/article/3a9c6e75f5bb8ed1",
@@ -1332,7 +1402,7 @@
           "description": "The group of central banks continues its pessimism, as crypto innovations seek to make financial markets more efficient.",
           "link": "https://www.coindesk.com/policy/2022/12/16/defi-can-exacerbate-volatility-without-even-avoiding-middlemen-bis-reports-say/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2022-12-16T14:39:07.000Z",
-          "wordCount": 22249,
+          "wordCount": 22189,
           "title": "DeFi Can Exacerbate Volatility Without Even Avoiding Middlemen, BIS Reports Say",
           "enclosure": {
             "length": "1337",
@@ -1347,7 +1417,7 @@
           "description": "Bitcoin fell below $17,000 on Dec. 16, as bearish pressure continued to intensify following yesterday’s disappointing U.S. retail sales figures. Sales in the United States were down by 0.6%, which news came less than 24 hours after the Federal Reserve moved to hike interest rates. Ethereum moved closer to the $1,200 level in today’s session.\n \nBitcoin\n \nBitcoin (BTC) fell below $17,000 in today’s session, as markets continued to react to last month’s retail sales data.\n \nAs retail sales in the United States disappointed, BTC/USD slipped to an intraday low of $16,997.54 earlier in the day.\n \nThis comes less than a day after prices were nearing a breakout of $18,000, hitting a peak of $17,725.88 in the process.\n \n \nLooking at the chart, bearish pressure intensified following a breakout of a …",
           "link": "https://news.bitcoin.com/bitcoin-ethereum-technical-analysis-btc-below-17000-as-eth-nears-1200-breakout/",
           "publishedOn": "2022-12-16T14:07:45.000Z",
-          "wordCount": 3230,
+          "wordCount": 3247,
           "title": "Bitcoin, Ethereum Technical Analysis: BTC Below $17,000, as ETH Nears $1,200 Breakout",
           "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2022/12/shutterstock_1937588410.jpg"
         },
@@ -1372,7 +1442,7 @@
           "description": "The latest price moves in bitcoin (BTC) and crypto markets in context for Dec. 16, 2022. First Mover is CoinDesk’s daily newsletter that contextualizes the latest actions in the crypto markets.",
           "link": "https://www.coindesk.com/markets/2022/12/16/first-mover-americas-crypto-auditing-hits-snag/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2022-12-16T13:39:04.000Z",
-          "wordCount": 22170,
+          "wordCount": 22093,
           "title": "First Mover Americas: Crypto Auditing Hits Snag",
           "enclosure": {
             "length": "1337",
@@ -1387,7 +1457,7 @@
           "description": "Bitcoin outperformed ether and BNB as Mazar's decision to suspend crypto audit work and Binance fears weighed over the crypto market.",
           "link": "https://www.coindesk.com/markets/2022/12/16/bitcoin-ether-wilt-as-audit-firm-mazars-pauses-audit-work-for-crypto-clients-sp-500-futures-drop/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2022-12-16T13:09:09.000Z",
-          "wordCount": 21792,
+          "wordCount": 21765,
           "title": "Bitcoin, Ether Slip as Audit Firm Mazars Pauses Work for Crypto Clients, S&P Futures Drop",
           "enclosure": {
             "length": "1337",
@@ -1402,7 +1472,7 @@
           "description": "Bankrupt crypto hedge fund Three Arrows Capital (3AC) estimated its assets to be worth around $1 billion in July, according to a report by The Block, citing a document prepared by 3AC liquidator Teneo.",
           "link": "https://www.coindesk.com/business/2022/12/16/three-arrows-capital-estimated-its-assets-at-around-1b-in-july-report/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2022-12-16T12:41:22.000Z",
-          "wordCount": 21403,
+          "wordCount": 21356,
           "title": "Three Arrows Capital Estimated Its Assets at Around $1B in July: Report",
           "enclosure": {
             "length": "1337",
@@ -1417,7 +1487,7 @@
           "description": "San Luis, a province of Argentina, has approved a bill allowing it to issue a blockchain-based, dollar-pegged stablecoin. The bill, which also approves the issuance of local artistic assets as NFTs (non-fungible tokens) seeks to enable the promotion of social development, and economic, cultural, and financial inclusion using blockchain.\nSan Luis Approves Blockchain Development Bill\nSan Luis, an Argentine province, has taken its first steps to include blockchain-based tech as part of its digitization push. The legislators of the province recently approved a bill designated with the number VIII-1085-2022, called “Financial Innovation for Investment and Social Economic Development,” that introduces blockchain as a tool to potentiate the development of several fields in the province, including…",
           "link": "https://news.bitcoin.com/argentine-province-of-san-luis-to-issue-dollar-pegged-stablecoin-and-local-art-nfts/",
           "publishedOn": "2022-12-16T12:37:16.000Z",
-          "wordCount": 3445,
+          "wordCount": 3418,
           "title": "Argentine Province of San Luis to Issue Dollar-Pegged Stablecoin and Local Art NFTs",
           "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2022/12/shutterstock_343745771.jpg"
         },
@@ -1427,7 +1497,7 @@
           "description": "In the past few weeks, regulators all around the world have been ranting against Bitcoin and cryptocurrency in general, and their outlandish denouncements are becoming increasingly outrageous.\n \nThe Financial Times disclosed on Thursday that Ashley Alder, who is slated to oversee the UK’s Financial Conduct Authority, is the latest to make one of these absurd claims.\n \nOn December 14, the incoming head of the FCA gave a scathing critique of the cryptocurrency industry, informing legislators that digital currency platforms “facilitated money laundering at scale” and were “deliberately” shielding their acts from inspection.\n \nCryptocurrency markets are back in crimson as another week draws to a close. With so much negativity emanating from the crypto space – bankruptcies, scams and illicit mo…",
           "link": "https://bitcoinist.com/fca-claims-crypto-exchanges-aid-money-laundering/",
           "publishedOn": "2022-12-16T12:35:02.000Z",
-          "wordCount": 4934,
+          "wordCount": 4935,
           "title": "British Regulator FCA Claims Crypto Exchanges Aid Money Laundering",
           "enclosure": {
             "length": "1337",
@@ -1442,7 +1512,7 @@
           "description": "PRESS RELEASE. Financie Inc. pleased to announce that the “SUPER SAPIENSS NFT” sales conducted by “SUPER SAPIENSS”, an entertainment DAO project active on FiNANCiE.\n \n\n \nSale Details\n \n\n \n\n \n\n \nPreSale of SUPER SAPIENSS NFT\n \n\n \n\n \nThe sales of SUPER SAPIENSS NFT will be conducted in order of Presale and Public Sale. The date and number of sales depend on the sales format.\n \n\n \nIn terms of presale (website to mint), only holders of Allow List (AL: the right to join the presale) can join.\n \n\n \nRegardless of the sales format, please prepare for a crypto wallet and GAS fee in advance.\n \n\n \nThe team will post the latest information about NFT on Twitter and Discord:\n \n\n \n・SUPER SAPIENSS NFT Twitter: https://twitter.com/supersapi_nft\n \n\n \n・SUPER SAPIENSS NFT Discord: https://discord.gg/Y66ngZPZ8…",
           "link": "https://news.bitcoin.com/nft-sale-starts-december-17-0000est-check-out-the-new-kv-and-sale-information-entertainment-dao-project-super-sapienss-by-three-directors-representing-japan/",
           "publishedOn": "2022-12-16T12:05:03.000Z",
-          "wordCount": 3767,
+          "wordCount": 3771,
           "title": "NFT Sale Starts December 17, 00:00(EST) | Check out the New KV and Sale Information | Entertainment DAO Project ‘SUPER SAPIENSS’ by Three Directors Representing Japan",
           "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2022/12/unnamed-4.jpg"
         },
@@ -1452,7 +1522,7 @@
           "description": "Hong Kong’s first crypto-based exchange-traded funds (ETFs) have attracted over $73 million ahead of their debut on the region’s stock exchange. The launch of the two ETFs tracking cryptocurrency futures listed in the United States comes despite the industry’s current troubles.\n \nHong Kong Debuts Bitcoin and Ether Futures ETFs Amid Crypto Winter\n \n\n \nTwo ETFs tracking crypto futures raised a total of $73.6 million ahead of their debut on the stock exchange in Hong Kong on Friday, with the larger one raising $53.9 million, according to Reuters. The news agency noted that the launch is in defiance of the ongoing turmoil in the sector.\n \n\n \nThe funds, offered by CSOP Asset Management, invest in bitcoin (BTC) and ether (ETH) futures listed on the CME exchange in the U.S., the only crypto asset…",
           "link": "https://news.bitcoin.com/crypto-futures-etfs-raise-more-than-73-million-ahead-of-hong-kong-launch/",
           "publishedOn": "2022-12-16T10:41:12.000Z",
-          "wordCount": 3377,
+          "wordCount": 3348,
           "title": "Crypto Futures ETFs Raise More Than $73 Million Ahead of Hong Kong Launch",
           "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2022/12/shutterstock_606724526.jpg"
         },
@@ -1462,7 +1532,7 @@
           "description": "Elon Musk is currently in the headlines for suspending several Twitter accounts of US journalists after Twitter implemented a no-doxxing policy. As Bitcoinist reported, an incident occurred last night in which Musk’s son’s car was stopped by a stalker.\n \nThe cause, according to the billionaire, were tweets from the account @elonjet, which was tracking the billionaire’s flight movements and had more than 526,000 followers. As a result of the incident, Musk implemented a new policy.\n \nOnce again, the billionaire has made it into the headlines. However, this time around, it is for following the official account of the OKX crypto exchange on Twitter.\n \nWhy Is Elon Musk Following Crypto Exchange OKX?\n \nIn other striking news, the former richest man in the world suddenly follows OKX’s official T…",
           "link": "https://bitcoinist.com/twitter-elon-musk-follows-crypto-exchange-okx-why/",
           "publishedOn": "2022-12-16T10:33:08.000Z",
-          "wordCount": 5012,
+          "wordCount": 5013,
           "title": "Elon Musk Suddenly Follows Crypto Exchange OKX On Twitter, Why?",
           "enclosure": {
             "length": "1337",
@@ -1477,7 +1547,7 @@
           "description": "Bitcoin has never seen a death cross on its weekly chart before and the ominous-sounding indicator has a bad reputation of trapping sellers on the wrong side in traditional markets.",
           "link": "https://www.coindesk.com/markets/2022/12/16/bitcoin-few-weeks-away-from-its-first-weekly-chart-death-cross/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2022-12-16T10:31:29.000Z",
-          "wordCount": 21831,
+          "wordCount": 21778,
           "title": "Bitcoin Few Weeks Away From Its First Weekly Chart 'Death Cross'",
           "enclosure": {
             "length": "1337",
@@ -1492,7 +1562,7 @@
           "description": "Mazars other clients included Crypto.com and KuCoin.",
           "link": "https://www.coindesk.com/business/2022/12/16/binance-proof-of-reserves-auditor-mazars-pauses-all-work-for-crypto-clients/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2022-12-16T10:21:07.000Z",
-          "wordCount": 21350,
+          "wordCount": 21263,
           "title": "Binance Proof-of-Reserves Auditor Mazars Pauses All Work for Crypto Clients",
           "enclosure": {
             "length": "1337",
@@ -1500,71 +1570,6 @@
             "url": "https://www.coindesk.com/resizer/es80w2u5jbAb6a5yC9chftfL7pw=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/4MCKDTHX75FSFMZUPIYKXEAPOY.jpg"
           },
           "imageUrl": "https://www.coindesk.com/resizer/es80w2u5jbAb6a5yC9chftfL7pw=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/4MCKDTHX75FSFMZUPIYKXEAPOY.jpg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e75f58df0d9",
-          "author": "Sarah",
-          "description": "In the aftermath of the FTX collapse, regulators across the world are looking to tighten crypto regulations. This time, a french senate member has expressed the need for crypto licensing. Senator Hervé Maurey recently proposed an amendment that crypto businesses should not be allowed to operate without full operational licenses. This is due to the current global market trend and tightening in recent times.\n \nElimination Clause From Hervé Maurey\n \nA French Senate financial commission member, Hervé Maurey, proposed an amendment to a bill that allowed digital asset providers to operate without a license until 2026. The elimination clause from Maurey proposes that all crypto platforms should be required to get full operational licenses which would allow for tighter regulations of their activit…",
-          "link": "https://bitcoinist.com/crypto-firms-in-france-to-operate-with-licenses/",
-          "publishedOn": "2022-12-16T10:12:43.000Z",
-          "wordCount": 4785,
-          "title": "Crypto Firms In France To Operate With Licenses",
-          "enclosure": {
-            "length": "1337",
-            "type": "image/jpeg",
-            "url": "https://bitcoinist.com/wp-content/uploads/2022/12/mont-saint-michel-g4235bb80d_1280-617x420.jpg"
-          },
-          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2022/12/mont-saint-michel-g4235bb80d_1280-617x420.jpg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e75f58fd766",
-          "author": "Jack Schickler",
-          "description": "Requirements to test people's knowledge of distributed technology could deter the average retail investor, some worry.",
-          "link": "https://www.coindesk.com/policy/2022/12/16/eu-rules-for-distributed-ledger-financial-trading-finalized-ahead-of-march-pilot/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-          "publishedOn": "2022-12-16T10:00:36.000Z",
-          "wordCount": 21507,
-          "title": "EU Rules for Distributed Ledger Financial Trading Finalized Ahead of March Pilot",
-          "enclosure": {
-            "length": "1337",
-            "type": "image/jpeg",
-            "url": "https://www.coindesk.com/resizer/MH-74zQDrZdfK2zdvBNqZkz7Qjk=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/IQYRLDUKYZB6VLXWQTZC4KVOOE.jpg"
-          },
-          "imageUrl": "https://www.coindesk.com/resizer/MH-74zQDrZdfK2zdvBNqZkz7Qjk=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/IQYRLDUKYZB6VLXWQTZC4KVOOE.jpg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e75f576fd3f",
-          "author": "Arnab Shome",
-          "description": "<p>The collapsed crypto exchange, <a href=\"https://www.financemagnates.com/tag/ftx/\" target=\"_blank\" rel=\"follow\">FTX</a> has filed a motion in the United States Bankruptcy Court seeking permission to sell four subsidiaries. FTX Japan, FTX Europe, derivatives exchange LedgerX, and stock-clearing platform Embed are the named businesses.</p><p>FTX Subsidiaries Facing Regulatory Scrutiny</p><p>All of these subsidiaries have been facing regulatory pressure since the misdeeds of the parent company which surfaced last month, leading to <a href=\"https://www.financemagnates.com/terms/b/bankruptcy/\" target=\"_blank\" id=\"41b3ef0d-d805-441d-8443-121890264e94_2\" class=\"terms__main-term\">bankruptcy</a> filings. The Japanese regulator issued a business improvement order to FTX Japan and <a href=\"https://…",
-          "link": "https://www.financemagnates.com//cryptocurrency/ftx-seeks-permission-to-sell-4-independent-subsidiaries/",
-          "publishedOn": "2022-12-16T09:13:13.000Z",
-          "wordCount": 6119,
-          "title": "FTX Seeks Permission to Sell 4 ‘Independent’ Subsidiaries",
-          "imageUrl": "https://images.financemagnates.com/images/FTX_id_80b574c3-4e00-4ffa-adcd-4837677567b5_size900.jpg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e75f5772465",
-          "author": "Bitcoinist",
-          "description": "Crypto casinos are transforming online gambling, allowing people worldwide to access hundreds of games and rewards. Metaspins, a casino launched in 2022, seems poised to take over market share from its competitors and grow in popularity due to its security, catalog, features, legitimacy, and user experience. If you are an online gamer, we explained why you need to try Metaspins.\n \nBonuses And Rewards \nAs a new platform looking to set a foothold in the sector, Metaspins understands the power of incentivizing its customers. Thus, they offer people opportunities and benefits for simply signing up for their platform.\n \nThis casino was designed as a crypto-only platform. This design allows users to avoid relying on banks and other financial institutions and provides them an extra layer of anony…",
-          "link": "https://bitcoinist.com/metaspins-casino-review-rewards-bonuses-and-hundreds-of-games/",
-          "publishedOn": "2022-12-16T09:12:23.000Z",
-          "wordCount": 5197,
-          "title": "Metaspins Casino Review — Rewards, Bonuses, And Hundreds Of Games",
-          "enclosure": {
-            "length": "1337",
-            "type": "image/jpeg",
-            "url": "https://bitcoinist.com/wp-content/uploads/2022/12/metaspins-640x360.png"
-          },
-          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2022/12/metaspins-640x360.png"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e75f57c6aed",
-          "author": "Jamie Redman",
-          "description": "Following the arrest of the former FTX boss Sam Bankman-Fried (SBF), spectators continue to wonder where ex-Alameda Research CEO Caroline Ellison is, and whether or not she turned on SBF. A few reports suggest Ellison is “likely working with feds” and it’s possibly the reason why Ellison was reportedly spotted at the Ground Support cafe in Soho.\n \nDid Caroline Rat on SBF? No One’s Heard a Peep From the Mysterious Ex-Alameda Executive Since FTX Collapsed\n \nA great deal of crypto supporters and the media have been wondering where Caroline Ellison, the former Alameda Research CEO, is currently located. After FTX filed for Chapter 11 bankruptcy protection, Sam Bankman-Fried (SBF), galavanted on a media tour with the likes of the New York Times’ Dealbook event and his appearance on Good Morning…",
-          "link": "https://news.bitcoin.com/reports-suggest-caroline-ellison-is-working-with-feds-and-snitching-on-ftx-co-founder-bankman-fried/",
-          "publishedOn": "2022-12-16T08:38:22.000Z",
-          "wordCount": 3843,
-          "title": "Reports Suggest Caroline Ellison Is Working With Feds and Snitching on FTX Co-Founder Bankman-Fried",
-          "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2022/12/snit.jpg"
         }
       ]
     }

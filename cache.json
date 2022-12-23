@@ -741,21 +741,6 @@
           "imageUrl": "https://cdn.jwplayer.com/v2/media/c4lrMB0e/poster.jpg"
         },
         {
-          "id": "https://decrypt.co/videos/live-events/z6m8NyuF/the-crypties-awards-2022-people-of-crypto-wins-metaverse-event-of-the-year",
-          "author": null,
-          "description": "Simone Berry and Akbar Hamid accepted the Cryptie for People of Crypto's Metaverse Pride Parade from presenter Toni Thai Sterrett of Bad Grrls Creative Club at the inaugural Crypties Awards from Decrypt Studios in Miami on November 30. The other nominees in the category were Decentraland's Metaverse Fashion Week and Heal from The Sandbox and Code Green.",
-          "link": "https://decrypt.co/videos/live-events/z6m8NyuF/the-crypties-awards-2022-people-of-crypto-wins-metaverse-event-of-the-year",
-          "publishedOn": "2022-12-06T17:34:44.000Z",
-          "wordCount": 5835,
-          "title": "The Crypties Awards 2022: People of Crypto Wins Metaverse Event of the Year",
-          "enclosure": {
-            "url": "https://cdn.jwplayer.com/v2/media/z6m8NyuF/poster.jpg",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.jwplayer.com/v2/media/z6m8NyuF/poster.jpg"
-        },
-        {
           "id": "https://decrypt.co/videos/live-events/dLlerLlT/the-crypties-2022-doodles-collab-with-shopify-wins-mainstream-award",
           "author": null,
           "description": "Shirley Cedeno and Akbar Hamid accepted the Cryptie on behalf of Doodles from presenters Igor Lilic and Gabriela Ramos Lilic of Breakout at the inaugural Crypties Awards from Decrypt Studios in Miami on November 30. The other nominees in the category were RTFKT and Nike, Gmoney and Adidas, Tiffany and CryptoPunks, and TIMEpieces.",
@@ -769,6 +754,21 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.jwplayer.com/v2/media/dLlerLlT/poster.jpg"
+        },
+        {
+          "id": "https://decrypt.co/videos/live-events/z6m8NyuF/the-crypties-awards-2022-people-of-crypto-wins-metaverse-event-of-the-year",
+          "author": null,
+          "description": "Simone Berry and Akbar Hamid accepted the Cryptie for People of Crypto's Metaverse Pride Parade from presenter Toni Thai Sterrett of Bad Grrls Creative Club at the inaugural Crypties Awards from Decrypt Studios in Miami on November 30. The other nominees in the category were Decentraland's Metaverse Fashion Week and Heal from The Sandbox and Code Green.",
+          "link": "https://decrypt.co/videos/live-events/z6m8NyuF/the-crypties-awards-2022-people-of-crypto-wins-metaverse-event-of-the-year",
+          "publishedOn": "2022-12-06T17:34:44.000Z",
+          "wordCount": 5835,
+          "title": "The Crypties Awards 2022: People of Crypto Wins Metaverse Event of the Year",
+          "enclosure": {
+            "url": "https://cdn.jwplayer.com/v2/media/z6m8NyuF/poster.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.jwplayer.com/v2/media/z6m8NyuF/poster.jpg"
         },
         {
           "id": "https://decrypt.co/videos/live-events/nQuIgj4l/the-crypties-awards-2022-lens-protocol-wins-defi-project-of-the-year",
@@ -853,6 +853,36 @@
       "siteUrl": "https://cryptopanic.com/",
       "articles": [
         {
+          "id": "https://cryptopanic.com/news/17218518/The-last-12-months-the-year-to-forget-says-Indias-WazirX-crypto-exchange",
+          "author": null,
+          "description": "A lot of the troubles for India exchanges in 2022 will run into next year as they shed staff and run down reserves to stay afloat, and not all are expected to make it.",
+          "link": "https://cryptopanic.com/news/17218518/The-last-12-months-the-year-to-forget-says-Indias-WazirX-crypto-exchange",
+          "publishedOn": "2022-12-23T03:00:00.000Z",
+          "wordCount": 530,
+          "title": "The last 12 months the year to forget, says India’s WazirX crypto exchange",
+          "imageUrl": "https://forkast.news/wp-content/uploads/2022/12/rajagopal2.png"
+        },
+        {
+          "id": "https://cryptopanic.com/news/17218512/Crypto-unicorn-Mythical-Games-alleges-former-execs-used-company-secrets-to-raise-150-million",
+          "author": null,
+          "description": "Mythical Games alleges three former high-level executives used the company's business plan and contacts to secure $150 million in funding for their own venture.",
+          "link": "https://cryptopanic.com/news/17218512/Crypto-unicorn-Mythical-Games-alleges-former-execs-used-company-secrets-to-raise-150-million",
+          "publishedOn": "2022-12-23T02:46:43.000Z",
+          "wordCount": 531,
+          "title": "Crypto unicorn Mythical Games alleges former execs used company secrets to raise $150 million",
+          "imageUrl": "https://www.tbstat.com/wp/uploads/2022/12/Screen-Shot-2022-12-22-at-6.05.45-PM-1018x675.png"
+        },
+        {
+          "id": "https://cryptopanic.com/news/17218492/BTC-miner-Core-Scientific-gets-interim-nod-for-374M-bankruptcy-loan",
+          "author": null,
+          "description": "The loan would allow Core Scientific to keep its mining and hosting operations afloat while it restructures.",
+          "link": "https://cryptopanic.com/news/17218492/BTC-miner-Core-Scientific-gets-interim-nod-for-374M-bankruptcy-loan",
+          "publishedOn": "2022-12-23T02:34:06.000Z",
+          "wordCount": 528,
+          "title": "BTC miner Core Scientific gets interim nod for $37.4M bankruptcy loan",
+          "imageUrl": null
+        },
+        {
           "id": "https://cryptopanic.com/news/17218476/Is-Craig-Wrights-Campaign-to-Convince-the-World-That-He-Invented-Bitcoin-Over",
           "author": null,
           "description": "I no longer care what you think,” he says. “I seek to see my creation used.”",
@@ -885,12 +915,12 @@
         {
           "id": "https://cryptopanic.com/news/17218438/Bitcoin-BTC-Bears-Are-Exhausted-After-75-Drawdown-From-All-Time-High-Analyst-Says",
           "author": null,
-          "description": "Popular cryptocurrency analyst Benjamin Cowen has said that Bitcoin ($BTC) bears are getting exhausted after the price of the flagship cryptocurrency dropped more than 75% from its all-time high above $69,000 seen last year. In a newly published YouTube video Cowen shared with his nearly 780,000...",
+          "description": "",
           "link": "https://cryptopanic.com/news/17218438/Bitcoin-BTC-Bears-Are-Exhausted-After-75-Drawdown-From-All-Time-High-Analyst-Says",
           "publishedOn": "2022-12-23T01:45:00.000Z",
-          "wordCount": 530,
+          "wordCount": null,
           "title": "Bitcoin ($BTC) Bears Are Exhausted After 75% Drawdown From All-Time High, Analyst Says",
-          "imageUrl": "https://cryptoglobe.s3.eu-west-2.amazonaws.com/2022/07/hot-bear-768x512.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/17218414/Is-Solana-SOL-Being-Abandoned-by-Its-Developers",
@@ -925,22 +955,22 @@
         {
           "id": "https://cryptopanic.com/news/17218331/Markets-Bitcoin-Ether-prices-edge-up-Dogecoin-rebounds-after-heavy-losses",
           "author": null,
-          "description": "",
+          "description": "Bitcoin and Ether traded higher Friday morning in Asia, along with nearly all other non-stablecoin top 10 cryptocurrencies. Dogecoin led the gains with a rise of nearly 4.5%, followed by Cardano and XRP. BNB edged lower.",
           "link": "https://cryptopanic.com/news/17218331/Markets-Bitcoin-Ether-prices-edge-up-Dogecoin-rebounds-after-heavy-losses",
           "publishedOn": "2022-12-23T00:45:45.000Z",
-          "wordCount": null,
+          "wordCount": 528,
           "title": "Markets: Bitcoin, Ether prices edge up; Dogecoin rebounds after heavy losses",
-          "imageUrl": null
+          "imageUrl": "https://forkast.news/wp-content/uploads/2022/12/doge.jpg"
         },
         {
           "id": "https://cryptopanic.com/news/17218320/WAVES-sees-increased-investor-distribution-as-USDN-troubles-persist",
           "author": null,
-          "description": "The continued decline in the value of stablecoin USDN led to a fall in the price of WAVES. With negative sentiment trailing the token, the chances of an upside are limited. Despite recent claims that Neutrino USD [USDN] is not intrinsically linked to Waves [WAVES], the recent troubles of the...",
+          "description": "",
           "link": "https://cryptopanic.com/news/17218320/WAVES-sees-increased-investor-distribution-as-USDN-troubles-persist",
           "publishedOn": "2022-12-23T00:30:41.000Z",
-          "wordCount": 526,
+          "wordCount": null,
           "title": "WAVES sees increased investor distribution as USDN troubles persist",
-          "imageUrl": "https://ambcrypto.com/wp-content/uploads/2022/12/tim-marshall-uanoYn1AmPs-unsplash-1.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/17218328/This-Oil-Barron-Mines-Bitcoin-And-Gets-People-Out-Of-Jail-Gideon-Powell",
@@ -965,12 +995,12 @@
         {
           "id": "https://cryptopanic.com/news/17218233/FTX-Asks-Judge-for-Help-in-Fight-Over-Robinhood-Shares-Worth-About-450M",
           "author": null,
-          "description": "FTX founder Sam Bankman-Fried leaves Manhattan Federal Court on Dec. 22 (David Dee Delgado/Getty Images)",
+          "description": "",
           "link": "https://cryptopanic.com/news/17218233/FTX-Asks-Judge-for-Help-in-Fight-Over-Robinhood-Shares-Worth-About-450M",
           "publishedOn": "2022-12-22T23:18:25.000Z",
-          "wordCount": 530,
+          "wordCount": null,
           "title": "FTX Asks Judge for Help in Fight Over Robinhood Shares Worth About $450M",
-          "imageUrl": "https://www.coindesk.com/resizer/OsqG0e28jlgFembgPrOJal7CBRU=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/WHGCA65X5JHKNDO3L37XQLZZFM.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/17218216/SBF-Wont-Actually-Pay-250M-for-His-Bail-Bond",
@@ -995,22 +1025,22 @@
         {
           "id": "https://cryptopanic.com/news/17218193/Former-Ripple-Executive-Defends-XRPs-Utility-Says-Smart-Contracts-Are-Coming",
           "author": null,
-          "description": "Matt Hamilton, a former Principal Developer Advocate at FinTech firm Ripple, has defended the utility of the $XRP token and said that smart contracts are coming to the cryptocurrency’s ledger. These could be used to power decentralized applications, the way they are used on other networks such...",
+          "description": "",
           "link": "https://cryptopanic.com/news/17218193/Former-Ripple-Executive-Defends-XRPs-Utility-Says-Smart-Contracts-Are-Coming",
           "publishedOn": "2022-12-22T23:01:00.000Z",
-          "wordCount": 528,
+          "wordCount": null,
           "title": "Former Ripple Executive Defends $XRP’s Utility, Says Smart Contracts Are Coming",
-          "imageUrl": "https://cryptoglobe.s3.eu-west-2.amazonaws.com/2021/05/coins-3786691_1280-768x508.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/17218196/Ethereum-Classic-Hashrate-Dumps-Almost-50-In-3-Months-What-About-ETC",
           "author": null,
-          "description": "Ethereum Classic saw its hashrate balloon when Ethereum finally moved to a proof of stake mechanism. The miners who were being kicked out of the network and could no longer use their machines had switched to others such as Ethereum Classic and Ravencoin to put their very specific machines to...",
+          "description": "",
           "link": "https://cryptopanic.com/news/17218196/Ethereum-Classic-Hashrate-Dumps-Almost-50-In-3-Months-What-About-ETC",
           "publishedOn": "2022-12-22T23:00:55.000Z",
-          "wordCount": 529,
+          "wordCount": null,
           "title": "Ethereum Classic Hashrate Dumps Almost 50% In 3 Months, What About ETC?",
-          "imageUrl": "https://newsbtc.com/wp-content/uploads/2022/12/Ethereum-Classic-hashrate.jpeg"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/17218192/Bullish-Indicator-Diamond-Hands-Dominate-Shiba-Inu-Holder-Base",
@@ -1021,36 +1051,6 @@
           "wordCount": 526,
           "title": "Bullish Indicator? Diamond Hands Dominate Shiba Inu Holder Base",
           "imageUrl": "https://bitcoinist.com/wp-content/uploads/2022/12/Shiba-Inu-SHIB-holders.jpeg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/17218191/Crypto-Auditors-Come-Under-SEC-Scrutiny",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/17218191/Crypto-Auditors-Come-Under-SEC-Scrutiny",
-          "publishedOn": "2022-12-22T23:00:00.000Z",
-          "wordCount": null,
-          "title": "Crypto Auditors Come Under SEC Scrutiny",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/17218169/The-most-eco-friendly-blockchain-networks-in-2022",
-          "author": null,
-          "description": "This year saw the realignment of the crypto industry toward greener, more energy-efficient blockchains.",
-          "link": "https://cryptopanic.com/news/17218169/The-most-eco-friendly-blockchain-networks-in-2022",
-          "publishedOn": "2022-12-22T23:00:00.000Z",
-          "wordCount": 524,
-          "title": "The most eco-friendly blockchain networks in 2022",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/17218168/Rating-agencies-not-regulators-can-rebuild-trust-in-crypto-after-FTX",
-          "author": null,
-          "description": "Private rating agencies could work better and more quickly than regulators when it comes to reviewing businesses in the cryptocurrency industry.",
-          "link": "https://cryptopanic.com/news/17218168/Rating-agencies-not-regulators-can-rebuild-trust-in-crypto-after-FTX",
-          "publishedOn": "2022-12-22T22:47:42.000Z",
-          "wordCount": 528,
-          "title": "Rating agencies, not regulators, can rebuild trust in crypto after FTX",
-          "imageUrl": null
         }
       ]
     },
@@ -1059,6 +1059,36 @@
       "feedUrl": "https://message-rss.vercel.app/rekt/news",
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
+        {
+          "id": "https://www.syncracy.io/",
+          "author": null,
+          "description": "Syncracy Capital",
+          "link": "https://www.syncracy.io/",
+          "publishedOn": "2022-12-23T03:00:03.000Z",
+          "wordCount": 794,
+          "title": "Syncracy Capital",
+          "imageUrl": "http://static1.squarespace.com/static/63857484f91d71181b02f971/t/63a4f92deaff4244ac03eec8/1671756077174/Snycracy_WebLogo.png?format=1500w"
+        },
+        {
+          "id": "https://blog.lastpass.com/2022/12/notice-of-recent-security-incident/",
+          "author": null,
+          "description": "Notice of Recent Security Incident - The LastPass Blog",
+          "link": "https://blog.lastpass.com/2022/12/notice-of-recent-security-incident/",
+          "publishedOn": "2022-12-23T03:00:02.000Z",
+          "wordCount": 3218,
+          "title": "Notice of Recent Security Incident - The LastPass Blog",
+          "imageUrl": "https://blog.lastpass.com/wp-content/uploads/sites/20/2022/08/iStock-621574390-1-scaled.jpg"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=htuY3hOgQGM&feature=youtu.be",
+          "author": null,
+          "description": "Notorious Threadooor Adam Cochran explains his Crypto Shopping and Shorting List",
+          "link": "https://www.youtube.com/watch?v=htuY3hOgQGM&feature=youtu.be",
+          "publishedOn": "2022-12-23T03:00:02.000Z",
+          "wordCount": null,
+          "title": "Notorious Threadooor Adam Cochran explains his Crypto Shopping and Shorting List",
+          "imageUrl": null
+        },
         {
           "id": "https://www.axios.com/2022/12/22/coinbase-brian-armstrong-ftx-defi-regulation",
           "author": null,
@@ -1118,16 +1148,6 @@
           "wordCount": null,
           "title": "The Death of Decentralization in SMTP  | Plan ₿ Forum 2022 | Lugano",
           "imageUrl": null
-        },
-        {
-          "id": "https://blog.curio.gg/introducing-treaty/",
-          "author": null,
-          "description": "Introducing Treaty",
-          "link": "https://blog.curio.gg/introducing-treaty/",
-          "publishedOn": "2022-12-22T19:00:02.000Z",
-          "wordCount": 1442,
-          "title": "Introducing Treaty",
-          "imageUrl": "https://blog.curio.gg/content/images/2022/12/asdf-1.png"
         },
         {
           "id": "https://open.spotify.com/episode/0FERd91KNoTPEWqXRikSL3?si=f21d895ab6e14d84",
@@ -1200,26 +1220,6 @@
           "imageUrl": "https://www.cftc.gov/sites/default/files/CFTC-OB-Photo-200113-Press-6.jpg"
         },
         {
-          "id": "https://www.theblock.co/post/197342/bankman-fried-in-fbi-custody-ellison-wang-plead-guilty-and-are-cooperating",
-          "author": null,
-          "description": "Bankman-Fried in FBI custody, Ellison, Wang plead guilty and are cooperating",
-          "link": "https://www.theblock.co/post/197342/bankman-fried-in-fbi-custody-ellison-wang-plead-guilty-and-are-cooperating",
-          "publishedOn": "2022-12-22T04:00:04.000Z",
-          "wordCount": 59848,
-          "title": "Bankman-Fried in FBI custody, Ellison, Wang plead guilty and are cooperating",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2022/11/20221109_FTX2-1200x675.jpg"
-        },
-        {
-          "id": "https://www.nytimes.com/2022/12/21/technology/ftx-fraud-guilty-pleas.html?smid=tw-share",
-          "author": null,
-          "description": "Two Executives in Sam Bankman-Fried’s Crypto Empire Plead Guilty to Fraud",
-          "link": "https://www.nytimes.com/2022/12/21/technology/ftx-fraud-guilty-pleas.html?smid=tw-share",
-          "publishedOn": "2022-12-22T03:30:04.000Z",
-          "wordCount": 6695,
-          "title": "Two Executives in Sam Bankman-Fried’s Crypto Empire Plead Guilty to Fraud",
-          "imageUrl": "https://static01.nyt.com/images/2022/12/21/multimedia/21ftx-charges-1-d02b/21ftx-charges-1-d02b-facebookJumbo.jpg"
-        },
-        {
           "id": "https://www.sec.gov/news/press-release/2022-234",
           "author": null,
           "description": "SEC.gov | SEC Charges Caroline Ellison and Gary Wang with Defrauding Investors in Crypto Asset Trading Platform FTX",
@@ -1235,9 +1235,9 @@
           "description": "MDVMM by Yuga Labs",
           "link": "https://mdvmm.xyz/",
           "publishedOn": "2022-12-22T03:00:02.000Z",
-          "wordCount": 4,
+          "wordCount": null,
           "title": "MDVMM by Yuga Labs",
-          "imageUrl": "/images/share-fb.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://www.youtube.com/watch?v=oStI7jVPkXM",
@@ -1297,7 +1297,7 @@
           "description": "After close to two years, following the U.S. federal government accusing the Crypto Six of unlicensed money transmission, the case is seemingly coming to an end. According to multiple reports, Keene resident and libertarian activist, Ian Freeman, the last member of the Crypto Six case to be tried, was found guilty on all counts which included unlicensed money transmission, money laundering, and tax evasion. Freeman faces eight years in prison but he was not taken into custody on Thursday afternoon (ET). Reports detail that he must appear for sentencing on April 14, 2023, or appeal the verdict.\n \nIan Freeman Found Guilty of Unlicensed Money Transmission, Sentencing Hearing Scheduled for April 2023\n \nDuring the first week of Dec. 2022, Bitcoin.com News reported on the Crypto Six case and how…",
           "link": "https://news.bitcoin.com/free-talk-live-co-host-ian-freeman-found-guilty-in-federal-crypto-trial/",
           "publishedOn": "2022-12-22T23:35:36.000Z",
-          "wordCount": 3498,
+          "wordCount": 3494,
           "title": "Free Talk Live Co-Host Ian Freeman Found Guilty in Federal Crypto Trial",
           "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2022/12/hlkioohhggff.jpg"
         },
@@ -1347,7 +1347,7 @@
           "description": "Victims of ransomware attacks paid hackers 4.5 times less in crypto in 2022 than in 2021, according to a new report.",
           "link": "https://www.coindesk.com/consensus-magazine/2022/12/22/ransomware-payouts-declined-in-2022-crystal-blockchain/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2022-12-22T22:49:42.000Z",
-          "wordCount": 21379,
+          "wordCount": 21377,
           "title": "Ransomware Payouts Declined in 2022: Crystal Blockchain",
           "enclosure": {
             "length": "1337",
@@ -1362,7 +1362,7 @@
           "description": "Metaverse platforms present a challenge of sorting bots from real people, and then even real people can be inactive or AFK, short for “away from keyboard” for hours, days, even weeks. One way to filter out bots is to filter users by those with NFTs, which also weeds out “tourists” who pop in for a quick look and leave without meaningful interaction. In addition, it can be argued that those users with NFTs matter the most, as in a Web3 metaverse like Decentraland, users with NFTs such as ones that denote ownership of real estate in Decentraland (LAND) or wearable items that unlock some of the more popular experiences like ICE poker are the ones who are most active in the platform, and certainly are the most valuable to the ecosystem’s success.",
           "link": "https://www.coindesk.com/web3/2022/12/22/the-final-word-on-decentralands-numbers/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2022-12-22T22:19:37.000Z",
-          "wordCount": 25959,
+          "wordCount": 25957,
           "title": "The Final Word on Decentraland’s Numbers",
           "enclosure": {
             "length": "1337",
@@ -1377,7 +1377,7 @@
           "description": "Top crypto assets hold steady as stocks get pre-holiday bounce. Crypto Markets Today is CoinDesk’s daily newsletter diving into what happened in today's crypto markets.",
           "link": "https://www.coindesk.com/markets/2022/12/22/crypto-markets-today-federal-judge-releases-bankman-fried-on-250-bail/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2022-12-22T22:19:37.000Z",
-          "wordCount": 22291,
+          "wordCount": 22288,
           "title": "Crypto Markets Today: Federal Judge Releases Bankman-Fried on $250M Bail",
           "enclosure": {
             "length": "1337",
@@ -1392,7 +1392,7 @@
           "description": "On Dec. 21, 2022, members of U.S. law enforcement detailed that FTX co-founder Gary Wang and ex-Alameda Research CEO Caroline Ellison have pleaded guilty to financial fraud charges. The recent charges against Wang and Ellison highlight some key findings and according to the U.S. Securities and Exchange Commission (SEC), FTX’s exchange token FTT is considered a security. \n \nSEC Complaint Says SBF ‘Directed’ and ‘Instructed’ High-up Execs Like Caroline Ellison to Commit Fraud\n \nU.S. attorney Damian Williams told the public on Wednesday that charges have been filed against Caroline Ellison, the former CEO of Alameda Research, and Zixiao (Gary) Wang, the former Chief Technology Officer of FTX Trading Ltd. The Southern District of New York (SDNY) also told the press that Ellison and Wang were c…",
           "link": "https://news.bitcoin.com/sec-charges-against-ftx-alameda-execs-wang-and-ellison-reveal-key-findings-us-regulator-says-ftt-is-a-security/",
           "publishedOn": "2022-12-22T22:06:22.000Z",
-          "wordCount": 3973,
+          "wordCount": 3963,
           "title": "SEC Charges Against FTX, Alameda Execs Wang and Ellison Reveal Key Findings, US Regulator Says FTT Is a Security",
           "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2022/12/sbf1.jpg"
         },
@@ -1417,7 +1417,7 @@
           "description": "Far Peak Acquisition and Bullish first agreed to a merger in July 2021.",
           "link": "https://www.coindesk.com/business/2022/12/22/peter-thiel-backed-crypto-exchange-bullish-calls-off-spac-deal/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2022-12-22T21:39:43.000Z",
-          "wordCount": 20310,
+          "wordCount": 20293,
           "title": "Peter Thiel-Backed Crypto Exchange Bullish Calls Off SPAC Deal",
           "enclosure": {
             "length": "1337",
@@ -1432,7 +1432,7 @@
           "description": "2023 is the year crypto will have to grow up and clean up its act. Here are predictions regarding the future of NFTs, the metaverse, CBDCs and institutional investments.",
           "link": "https://www.coindesk.com/consensus-magazine/2022/12/22/5-digital-economy-predictions-for-2023/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2022-12-22T21:18:33.000Z",
-          "wordCount": 23396,
+          "wordCount": 23379,
           "title": "5 Digital Economy Predictions for 2023",
           "enclosure": {
             "length": "1337",
@@ -1502,7 +1502,7 @@
           "description": "Twitter is now providing price charts with search results for major cryptocurrencies, such as bitcoin and ether. This new feature is “one of many product improvements coming to financial Twitter,” said Elon Musk, owner of the social media platform.\n \nTwitter Launches Price Chart Feature\n \nTwitter announced in a series of tweets Wednesday that it is now providing price charts for major stocks, exchange-traded funds (ETFs), and cryptocurrencies.\n \n“When you tweet the symbol of a major stock, ETF, or crypto currency with a $ in front of it (like $BTC), people on Twitter see a clickable link that takes them to search results,” the official Twitter Business account explained, adding:\n \n\nStarting today, these search results will include the pricing graphs for major symbols.\n \nThe social media gi…",
           "link": "https://news.bitcoin.com/twitter-adds-crypto-price-charts-to-search-results/",
           "publishedOn": "2022-12-22T19:32:30.000Z",
-          "wordCount": 3302,
+          "wordCount": 3321,
           "title": "Twitter Adds Crypto Price Charts to Search Results",
           "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2022/12/twitter-price-charts.jpg"
         },
@@ -1527,7 +1527,7 @@
           "description": "Although the decentralized lending protocol’s data is inherently on-chain, introducing Chainlink’s PoR would help mitigate the risk of attacks on the Aave protocol.",
           "link": "https://www.coindesk.com/tech/2022/12/22/aave-dao-votes-to-integrate-chainlink-proof-of-reserves-to-tighten-network-security/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2022-12-22T19:21:13.000Z",
-          "wordCount": 20589,
+          "wordCount": 20572,
           "title": "Aave DAO Votes to Integrate Chainlink Proof-of-Reserves to Tighten Network Security",
           "enclosure": {
             "length": "1337",

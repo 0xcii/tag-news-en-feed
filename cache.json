@@ -741,21 +741,6 @@
           "imageUrl": "https://cdn.jwplayer.com/v2/media/c4lrMB0e/poster.jpg"
         },
         {
-          "id": "https://decrypt.co/videos/live-events/dLlerLlT/the-crypties-2022-doodles-collab-with-shopify-wins-mainstream-award",
-          "author": null,
-          "description": "Shirley Cedeno and Akbar Hamid accepted the Cryptie on behalf of Doodles from presenters Igor Lilic and Gabriela Ramos Lilic of Breakout at the inaugural Crypties Awards from Decrypt Studios in Miami on November 30. The other nominees in the category were RTFKT and Nike, Gmoney and Adidas, Tiffany and CryptoPunks, and TIMEpieces.",
-          "link": "https://decrypt.co/videos/live-events/dLlerLlT/the-crypties-2022-doodles-collab-with-shopify-wins-mainstream-award",
-          "publishedOn": "2022-12-06T17:34:44.000Z",
-          "wordCount": 5818,
-          "title": "The Crypties 2022: Doodles Collab With Shopify Wins Mainstream Award",
-          "enclosure": {
-            "url": "https://cdn.jwplayer.com/v2/media/dLlerLlT/poster.jpg",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.jwplayer.com/v2/media/dLlerLlT/poster.jpg"
-        },
-        {
           "id": "https://decrypt.co/videos/live-events/z6m8NyuF/the-crypties-awards-2022-people-of-crypto-wins-metaverse-event-of-the-year",
           "author": null,
           "description": "Simone Berry and Akbar Hamid accepted the Cryptie for People of Crypto's Metaverse Pride Parade from presenter Toni Thai Sterrett of Bad Grrls Creative Club at the inaugural Crypties Awards from Decrypt Studios in Miami on November 30. The other nominees in the category were Decentraland's Metaverse Fashion Week and Heal from The Sandbox and Code Green.",
@@ -769,6 +754,21 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.jwplayer.com/v2/media/z6m8NyuF/poster.jpg"
+        },
+        {
+          "id": "https://decrypt.co/videos/live-events/dLlerLlT/the-crypties-2022-doodles-collab-with-shopify-wins-mainstream-award",
+          "author": null,
+          "description": "Shirley Cedeno and Akbar Hamid accepted the Cryptie on behalf of Doodles from presenters Igor Lilic and Gabriela Ramos Lilic of Breakout at the inaugural Crypties Awards from Decrypt Studios in Miami on November 30. The other nominees in the category were RTFKT and Nike, Gmoney and Adidas, Tiffany and CryptoPunks, and TIMEpieces.",
+          "link": "https://decrypt.co/videos/live-events/dLlerLlT/the-crypties-2022-doodles-collab-with-shopify-wins-mainstream-award",
+          "publishedOn": "2022-12-06T17:34:44.000Z",
+          "wordCount": 5818,
+          "title": "The Crypties 2022: Doodles Collab With Shopify Wins Mainstream Award",
+          "enclosure": {
+            "url": "https://cdn.jwplayer.com/v2/media/dLlerLlT/poster.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.jwplayer.com/v2/media/dLlerLlT/poster.jpg"
         },
         {
           "id": "https://decrypt.co/videos/live-events/nQuIgj4l/the-crypties-awards-2022-lens-protocol-wins-defi-project-of-the-year",
@@ -853,6 +853,36 @@
       "siteUrl": "https://cryptopanic.com/",
       "articles": [
         {
+          "id": "https://cryptopanic.com/news/17245056/Bitcoin-ASIC-miner-prices-hovering-at-lows-not-seen-in-years",
+          "author": null,
+          "description": "ASIC miners' price per terahash has fallen more than 80% from its peak in 2021 as Bitcoin mining machines continue to flood the marketplace.",
+          "link": "https://cryptopanic.com/news/17245056/Bitcoin-ASIC-miner-prices-hovering-at-lows-not-seen-in-years",
+          "publishedOn": "2022-12-27T07:00:00.000Z",
+          "wordCount": 528,
+          "title": "Bitcoin ASIC miner prices hovering at lows not seen in years",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/17245224/Cardabo-ADA-Founder-Charles-Hoskinson-on-NFTs",
+          "author": null,
+          "description": "Charles Hoskinson, Co-Founder and CEO at Input Output Global (“IOG), the blockchain technology firm responsible for the development of Cardano ($ADA), recently shared his thoughts on non-fungible tokens (NFTs). In a Twitter Space he hosted on 26 December 2022, Hoskinson had this to say about...",
+          "link": "https://cryptopanic.com/news/17245224/Cardabo-ADA-Founder-Charles-Hoskinson-on-NFTs",
+          "publishedOn": "2022-12-27T06:58:20.000Z",
+          "wordCount": 524,
+          "title": "Cardabo ($ADA) Founder Charles Hoskinson on NFTs",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/17244516/Japanese-Regulators-May-Reverse-Ban-on-Foreign-Stablecoins-Report",
+          "author": null,
+          "description": "A new stablecoin regime for Japan could be underway.",
+          "link": "https://cryptopanic.com/news/17244516/Japanese-Regulators-May-Reverse-Ban-on-Foreign-Stablecoins-Report",
+          "publishedOn": "2022-12-27T06:15:45.000Z",
+          "wordCount": 526,
+          "title": "Japanese Regulators May Reverse Ban on Foreign Stablecoins: Report",
+          "imageUrl": null
+        },
+        {
           "id": "https://cryptopanic.com/news/17244424/Indias-religious-festivals-coming-to-a-metaverse-near-your-avatar",
           "author": null,
           "description": "India loves religious festivals, but are its citizens ready to attend such celebrations in virtual reality? An Indian startup reckons they are and launched its first effort this year, saying 20,000 avatars showed up.",
@@ -865,7 +895,7 @@
         {
           "id": "https://cryptopanic.com/news/17244316/Community-slams-NYT-for-its-latest-sympathy-piece-on-FTXs-Bankman-Fried",
           "author": null,
-          "description": "The article bizarrely contrasts the alleged fraud carried out by Sam Bankman-Fried against gang violence on the Bahamian island of New Providence.",
+          "description": "The article bizarrely contrasts the alleged fraud carried out by Sam Bankman-Fried with gang violence on the Bahamian island of New Providence.",
           "link": "https://cryptopanic.com/news/17244316/Community-slams-NYT-for-its-latest-sympathy-piece-on-FTXs-Bankman-Fried",
           "publishedOn": "2022-12-27T05:57:38.000Z",
           "wordCount": 528,
@@ -885,12 +915,12 @@
         {
           "id": "https://cryptopanic.com/news/17243867/Crypto-Endorsements-From-Top-Celebrities-Ended-in-Tears-in-2022",
           "author": null,
-          "description": "Several celebrities dabbled with the crypto asset class with endorsements in 2022, but most are walking away with a sour taste.",
+          "description": "",
           "link": "https://cryptopanic.com/news/17243867/Crypto-Endorsements-From-Top-Celebrities-Ended-in-Tears-in-2022",
           "publishedOn": "2022-12-27T05:00:00.000Z",
-          "wordCount": 527,
+          "wordCount": null,
           "title": "Crypto Endorsements From Top Celebrities Ended in Tears in 2022",
-          "imageUrl": "https://s32659.pcdn.co/wp-content/uploads/2022/10/bic_artwork_hacker_bitcoin.png"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/17243841/Top-Solana-NFT-projects-find-new-homes-on-Ethereum-Polygon",
@@ -925,20 +955,20 @@
         {
           "id": "https://cryptopanic.com/news/17243798/XRP-Price-Prediction-Recovery-Could-Derail-If-This-Support-Gives-Way",
           "author": null,
-          "description": "Ripple is attempting an upside break above the $0.365 resistance zone against the US Dollar. XRP price could fail to gain pace if it stays below the $0.3720 resistance. Ripple is currently recovering above the $0.355 resistance zone against the US dollar. The price is now trading near $0.360 and...",
+          "description": "",
           "link": "https://cryptopanic.com/news/17243798/XRP-Price-Prediction-Recovery-Could-Derail-If-This-Support-Gives-Way",
           "publishedOn": "2022-12-27T03:53:39.000Z",
-          "wordCount": 528,
+          "wordCount": null,
           "title": "XRP Price Prediction: Recovery Could Derail If This Support Gives Way",
-          "imageUrl": "https://newsbtc.com/wp-content/uploads/2021/01/shutterstock_169562111.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/17243757/DeGods-and-Y00ts-NFTs-are-bridging-off-Solana-Heres-why",
           "author": null,
-          "description": "",
+          "description": "The migration of Solana's top two NFT projects to Polygon and Ethereum is set for the first quarter of 2023, on an opt-in basis.",
           "link": "https://cryptopanic.com/news/17243757/DeGods-and-Y00ts-NFTs-are-bridging-off-Solana-Heres-why",
           "publishedOn": "2022-12-27T03:22:04.000Z",
-          "wordCount": null,
+          "wordCount": 527,
           "title": "DeGods and Y00ts NFTs are bridging off Solana. Here's why",
           "imageUrl": null
         },
@@ -965,12 +995,12 @@
         {
           "id": "https://cryptopanic.com/news/17243742/Looking-back-on-the-year-with-Polygon-Increase-in-transactions-new-collaborations-and-more",
           "author": null,
-          "description": "Despite the troubles that came with 2022 for the crypto space, Polygon enjoyed steady growth in many sectors, with record numbers of transactions and new collaborations.",
+          "description": "",
           "link": "https://cryptopanic.com/news/17243742/Looking-back-on-the-year-with-Polygon-Increase-in-transactions-new-collaborations-and-more",
           "publishedOn": "2022-12-27T03:00:05.000Z",
-          "wordCount": 531,
+          "wordCount": null,
           "title": "Looking back on the year with Polygon: Increase in transactions, new collaborations, and more",
-          "imageUrl": "https://cryptoslate.com/wp-content/uploads/2022/04/polygon-dapps.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/17243714/The-real-life-dog-behind-memecoin-DOGE-is-seriously-ill",
@@ -1015,42 +1045,12 @@
         {
           "id": "https://cryptopanic.com/news/17243650/Cardano-Solana-and-Avalanche-What-to-Expect-from-Ethereums-Competitors-in-2023",
           "author": null,
-          "description": "",
+          "description": "Find out if coming year could be positive for Ethereum's competitors",
           "link": "https://cryptopanic.com/news/17243650/Cardano-Solana-and-Avalanche-What-to-Expect-from-Ethereums-Competitors-in-2023",
           "publishedOn": "2022-12-27T01:30:00.000Z",
-          "wordCount": null,
+          "wordCount": 529,
           "title": "Cardano, Solana and Avalanche: What to Expect from Ethereum's Competitors in 2023",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/17243620/Most-Popular-Cryptocurrency-in-2022-goes-to",
-          "author": null,
-          "description": "To watch the full video, tap on this link here ➡️https://www.youtube.com/watch?v=R216XHYvspA&t=5sMost people may have heard of Bitcoin and Ethereum, but there are over 900 other cryptocurrencies worldwide! In this video, let's look at the Top 20 cryptocurrencies ranked by market cap (data from...",
-          "link": "https://cryptopanic.com/news/17243620/Most-Popular-Cryptocurrency-in-2022-goes-to",
-          "publishedOn": "2022-12-27T01:00:08.000Z",
-          "wordCount": 524,
-          "title": "Most Popular Cryptocurrency in 2022 goes to...",
-          "imageUrl": "https://i1.ytimg.com/vi/Twd5sTSc3lc/hqdefault.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/17243590/Blockchain-gets-religion-Taiwan-temple-mints-NFTs-of-local-sea-goddess",
-          "author": null,
-          "description": "A centuries old Taiwan temple dedicated to a popular goddess has latched onto non-fungible tokens or NFTs as a means for worshippers to get access to pilgrimages and other events.",
-          "link": "https://cryptopanic.com/news/17243590/Blockchain-gets-religion-Taiwan-temple-mints-NFTs-of-local-sea-goddess",
-          "publishedOn": "2022-12-27T00:30:56.000Z",
-          "wordCount": 528,
-          "title": "Blockchain gets religion? Taiwan temple mints NFTs of local sea goddess",
-          "imageUrl": "https://forkast.news/wp-content/uploads/2022/12/mazuDAO-1260x839.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/17243588/Robocallers-have-upped-their-scam-game-and-theyre-after-your-crypto",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/17243588/Robocallers-have-upped-their-scam-game-and-theyre-after-your-crypto",
-          "publishedOn": "2022-12-27T00:30:00.000Z",
-          "wordCount": null,
-          "title": "Robocallers have upped their scam game and they’re after your crypto",
-          "imageUrl": null
+          "imageUrl": "https://u.today/sites/default/files/styles/twitter/public/2022-12/Cardano%2C%20Solana%20and%20Avalanche-%20What%20to%20Expect%20from%20Ethereum%27s%20Competitors%20in%202023.jpeg"
         }
       ]
     },
@@ -1060,24 +1060,24 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://franknielsen.github.io/Divergence/index.html",
+          "author": null,
+          "description": "Frank Nielsen | Divergences (dissimilarities, diversities, affinities)",
+          "link": "https://franknielsen.github.io/Divergence/index.html",
+          "publishedOn": "2022-12-27T06:30:37.000Z",
+          "wordCount": 806,
+          "title": "Frank Nielsen | Divergences (dissimilarities, diversities, affinities)",
+          "imageUrl": null
+        },
+        {
           "id": "https://community.supermodular.xyz/t/coordination-across-social-distance/124",
           "author": null,
           "description": "Coordination Across Social Distance ✨",
           "link": "https://community.supermodular.xyz/t/coordination-across-social-distance/124",
           "publishedOn": "2022-12-27T05:00:02.000Z",
-          "wordCount": 1378,
+          "wordCount": 1380,
           "title": "Coordination Across Social Distance ✨",
           "imageUrl": "https://global.discourse-cdn.com/standard11/uploads/supermodular/optimized/1X/f88c3e21c25829d11a93f04ef4fa5e4d89744ccb_2_1024x581.jpeg"
-        },
-        {
-          "id": "https://www.zerohedge.com/political/omnibus-shows-congresss-priorities-authoritarianism-war",
-          "author": null,
-          "description": "Omnibus Shows Congress's Priorities: Authoritarianism & War | ZeroHedge",
-          "link": "https://www.zerohedge.com/political/omnibus-shows-congresss-priorities-authoritarianism-war",
-          "publishedOn": "2022-12-27T05:00:02.000Z",
-          "wordCount": 1295,
-          "title": "Omnibus Shows Congress's Priorities: Authoritarianism & War | ZeroHedge",
-          "imageUrl": null
         },
         {
           "id": "https://www.zerohedge.com/political/when-fbi-attacks-critics-conspiracy-theorists-its-time-reform-bureau",
@@ -1137,7 +1137,7 @@
           "publishedOn": "2022-12-27T00:00:05.000Z",
           "wordCount": 536,
           "title": "golana/README.md at main · oxfeeefeee/golana",
-          "imageUrl": "https://opengraph.githubassets.com/148da63c6edc2f6fbd3207fd76ca4a0a900b9cbeeaa2715b6c44c7aa7e8938cd/oxfeeefeee/golana"
+          "imageUrl": "https://opengraph.githubassets.com/5c8a7395838f57c4fff56a36c9cfd9148e4f418159a6e1a300d6ec99eac17455/oxfeeefeee/golana"
         },
         {
           "id": "https://www.zerohedge.com/markets/rogan-guest-goes-viral-after-exposing-subhuman-and-appalling-cobalt-mining-conditions-congo",
@@ -1237,7 +1237,7 @@
           "publishedOn": "2022-12-26T13:00:02.000Z",
           "wordCount": 14968,
           "title": "pos-evolution/pos-evolution.md at master · ethereum/pos-evolution",
-          "imageUrl": "https://opengraph.githubassets.com/73aae280ecd3784ced9d27d5c5b5b5c3601665bacb750e2dbc034165cba3e2b0/ethereum/pos-evolution"
+          "imageUrl": "https://opengraph.githubassets.com/db95e456fcb04967a0425bd2e9a41bdbe9732f39970127237d94edc71956c39f/ethereum/pos-evolution"
         },
         {
           "id": "https://www.theblock.co/post/197892/top-solana-nft-projects-degods-y00ts-are-headed-to-ethereum-and-polygon",
@@ -1257,7 +1257,7 @@
           "publishedOn": "2022-12-26T09:00:02.000Z",
           "wordCount": 1372,
           "title": "foundry/chisel at master · foundry-rs/foundry",
-          "imageUrl": "https://opengraph.githubassets.com/b62a14d8dc5ae7a7c85740e0102fd7a8e3ae0b795fcbd582bdcf9762c5ab4337/foundry-rs/foundry"
+          "imageUrl": "https://opengraph.githubassets.com/ddf02dfbba638ca6af3f348bd92911259a29114ab0ab78bb981a309f7e58a652/foundry-rs/foundry"
         }
       ]
     },
@@ -1267,12 +1267,32 @@
       "siteUrl": "https://www.inoreader.com/stream/user/1005336866/tag/%E6%B5%B7%E5%A4%96%E5%8A%A0%E5%AF%86%E8%B5%84%E8%AE%AF/view/html",
       "articles": [
         {
+          "id": "http://www.inoreader.com/article/3a9c6e75ee7f8380",
+          "author": "Terence Zimwara",
+          "description": "Senegalese-American artist, Akon, reportedly reassured participants in his so-called token of appreciation (TOA) that they will be reimbursed for donations. To back this promise, the singer reportedly claimed he is even willing to do “a world tour just to pay them all back.” Akon, however, conceded during an interview that he should “have gotten more things in place before promoting it [Akon City].”\n \nSinger Ready to Do a World Tour for Token Holders\n \nRhythm and blues (R&B) singer and music producer, Akon, reportedly promised to reimburse disillusioned supporters who have been waiting for refunds from his token of appreciation (TOA) campaign. The Senegalese-American artist also told TOA holders that he is prepared to use his own funds to ensure this promise is honored.\n \n“I’m dead serious…",
+          "link": "https://news.bitcoin.com/report-rb-artist-akon-denies-claims-his-crypto-city-dream-is-crumbling/",
+          "publishedOn": "2022-12-27T07:06:20.000Z",
+          "wordCount": 3471,
+          "title": "Report: R&B Artist Akon Denies Claims His Crypto City Dream Is Crumbling",
+          "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2022/12/shutterstock_28294267.jpg"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e75ee78afbc",
+          "author": "Arnab Shome",
+          "description": "<p>Singapore-based troubled crypto lender, Vauld has confirmed the termination of the talks for acquisition by rival Nexo for failure in responding to due diligence requests for a <a href=\"https://www.financemagnates.com/terms/s/solvency/\" target=\"_blank\" id=\"d4466a77-4dda-4663-9fb4-a2aced6106ec_1\" class=\"terms__secondary-term\">solvency</a> assessment that would assure creditors.</p><p>\"We were previously exploring a potential <a href=\"https://www.financemagnates.com/terms/a/acquisition/\" target=\"_blank\" id=\"3180494d-8751-4a02-9476-86dc1cd4d2e2_2\" class=\"terms__main-term\">acquisition</a> by Nexo as part of the proposed restructuring plan,\" Vauld told crypto-focused publication Coindesk in a private Twitter message. \"To provide a very brief summary, our discussions with Nexo have unfortunat…",
+          "link": "https://www.financemagnates.com//cryptocurrency/troubled-crypto-lender-vauld-calls-off-acquisition-by-nexo/",
+          "publishedOn": "2022-12-27T06:55:49.000Z",
+          "wordCount": 7103,
+          "title": "Troubled Crypto Lender Vauld Calls Off Acquisition by Nexo",
+          "imageUrl": "https://images.financemagnates.com/images/Vauld%20crypto%20lending_id_4b74f424-5b63-4e8a-a67b-e1adb471be72_size900.jpg"
+        },
+        {
           "id": "http://www.inoreader.com/article/3a9c6e75ee6a134e",
           "author": "Kevin Helms",
           "description": "Crypto trading volumes in India have plunged significantly this year. The FTX meltdown has exacerbated the problem, hurting “the sentiment across crypto tokens.” Local crypto experts are not expecting a recovery in the near future “Unless something dramatic happens” in the upcoming Union Budget.\n \nIndian Crypto Market ‘Dead’ Since April, Says Expert\n \nCryptocurrency trading volumes at major exchanges in India have plunged significantly this year. Since the collapse of crypto exchange FTX, major exchanges in India lost between 34% and 50% of trading volumes, Moneycontrol reported Monday, citing data from research firm Crebaco. However, the decline began long before the FTX implosion. One of the largest crypto trading platforms in India, Wazirx, lost 97.99% of its trading volumes from the be…",
           "link": "https://news.bitcoin.com/indian-crypto-market-suffers-significantly-experts-say-trading-volumes-unlikely-to-recover-anytime-soon/",
           "publishedOn": "2022-12-27T04:04:42.000Z",
-          "wordCount": 3471,
+          "wordCount": 3473,
           "title": "Indian Crypto Market Suffers Significantly — Experts Say Trading Volumes Unlikely to Recover Anytime Soon",
           "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2022/12/india-trading-volumes.jpg"
         },
@@ -1282,7 +1302,7 @@
           "description": "Banking giant HSBC has filed trademark applications with the United States Patent and Trademark Office (USPTO) for a wide range of digital currency products and services, including those related to the metaverse and non-fungible tokens (NFTs).\n \nHSBC’s Trademark Applications for Crypto-Related Products and Services\n \nHSBC has filed two crypto-related trademark applications for its name and logo with the United States Patent and Trademark Office (USPTO). Mike Kondoudis, a USPTO-licensed trademark attorney, noted in a tweet Friday that HSBC’s trademark applications indicate the bank’s plans for a number of digital products and services, including those related to the exchange and transfer of virtual currencies.\n \n\n \nHSBC’s crypto-related trademark applications were filed on Dec. 15; their se…",
           "link": "https://news.bitcoin.com/banking-giant-hsbc-files-trademarks-for-a-wide-range-of-digital-currency-and-metaverse-products/",
           "publishedOn": "2022-12-27T01:05:14.000Z",
-          "wordCount": 3286,
+          "wordCount": 3283,
           "title": "Banking Giant HSBC Files Trademarks for a Wide Range of Digital Currency and Metaverse Products",
           "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2022/12/hsbc-trademarks.jpg"
         },
@@ -1292,7 +1312,7 @@
           "description": "Bitcoin held steady throughout the Christmas holiday weekend at about $16.9K; most other major cryptos were flat, although tinted more green than red. Also: CoinDesk columnist David Z. Morris considers an upside to this year's various crypto industry debacles.",
           "link": "https://www.coindesk.com/markets/2022/12/26/first-mover-asia-bitcoin-ho-ho-holds-near-169k/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2022-12-27T00:12:00.000Z",
-          "wordCount": 24361,
+          "wordCount": 24358,
           "title": "First Mover Asia: Bitcoin Ho Ho Holds Near $16.9K",
           "enclosure": {
             "length": "1337",
@@ -1322,7 +1342,7 @@
           "description": "Two prominent Solana projects have announced they are transitioning over to new blockchains. The non-fungible token (NFT) venture Degods detailed it will be moving to the Ethereum chain and the Y00ts NFT team detailed it is moving to Polygon. Both teams said the transitions will take place in 2023.\n \nDegods Says NFT Project Will Move to Ethereum, Y00ts Details NFT Venture Is Transitioning to Polygon\n \nThe crypto community has been discussing two crypto projects that have said the teams plan to transition their ventures from the Solana blockchain network to an alternative blockchain. Degods is one NFT project that revealed on Twitter it was moving from Solana to the Ethereum network. Launched in October 2021, Degods is an NFT venture that created 10,000 deflationary PFP (profile picture) NF…",
           "link": "https://news.bitcoin.com/2-nft-projects-plan-to-transition-from-solana-to-alternative-blockchains/",
           "publishedOn": "2022-12-26T22:01:54.000Z",
-          "wordCount": 3432,
+          "wordCount": 3442,
           "title": "2 NFT Projects Plan to Transition From Solana to Alternative Blockchains",
           "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2022/12/glitters.jpg"
         },
@@ -1347,7 +1367,7 @@
           "description": "Gold prices are ending the year a hair below the values recorded 12 months ago. Statistics on Dec. 26, 2021, show the U.S. dollar value per ounce of gold was $1,810 per unit, and today gold is $1,797 per ounce. Silver, on the other hand, managed to increase a hair in value since last year, as prices climbed from $23.04 per unit to the current USD value of around $23.72 on Dec. 26, 2022.\n \nGold Dropped a Hair During the Last Year, While Silver Rose a Touch — Precious Metal Assets Managed to Hold Value All Year Long Despite the Macroeconomic Calamity and Energy Crisis\n \nWhile precious metals like gold and silver fluctuated in U.S. dollar value during the last year, gold and silver year-to-date price statistics show prices are pretty much the same as last year. Gold is down a touch during the…",
           "link": "https://news.bitcoin.com/silver-and-gold-precious-metals-stored-value-this-year-outperforming-crypto-assets-in-2022/",
           "publishedOn": "2022-12-26T19:39:27.000Z",
-          "wordCount": 3636,
+          "wordCount": 3638,
           "title": "Silver and Gold — Precious Metals Stored Value This Year Outperforming Crypto Assets in 2022",
           "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2022/12/solvergold.jpg"
         },
@@ -1372,7 +1392,7 @@
           "description": "Litecoin raced to a ten-day high to start the week, as markets returned from the Christmas holiday weekend. The token extended recent gains to start the week, and neared a key resistance point in the process. Xrp was also higher, as it also collided with a price ceiling.\n \nLitecoin (LTC)\n \nLitecoin (LTC) was one of the notable gainers on Monday, as the token raced to a ten-day high.\n \nLTC/USD rose to a high of $70.83 to start the week, which comes less than a day after hitting a low of $65.54.\n \nToday’s surge has taken litecoin to its highest point since December 16, and closer to a key resistance level of $72.00.\n \n \nAs can be seen from the chart, Monday’s move comes as the 14-day relative strength index (RSI) rose above its own ceiling at 45.00.\n \nThe index is currently tracking at 51.79, with the next visible point of support at the 54.00 level.\n \nShould the RSI reach this point, it is highly likely that prices will also collide with a ceiling of $72.00.\n \n \nXRP\n \nXRP, formerly ripple, also moved higher to start the week, as the token collided with a key resistance point.\n \nFollowing a low of $0.3447, XRP/USD hit a high of $0.356 earlier in today’s session, which is also a recent price ceiling.\n \nMonday’s gain is the highest point that XRP has hit since December 18, and comes as traders returned from the Christmas holiday weekend.\n \n \nLooking at the chart, this move accompanied a recent move beyond a ceiling on the RSI of 42.00.\n \nAs of writing, the index is now tracking at 43.45, which is its strongest point since December 15.\n \nUltimately, should this trend continue, XRP could continue to move towards the $0.4000 mark.\n \nRegister your email here to get weekly price analysis updates sent to your inbox:\n \nDo you expect crypto markets to move higher heading into the new year? Let us know your thoughts in the comments.",
           "link": "https://news.bitcoin.com/biggest-movers-ltc-climbs-to-10-day-high-on-monday/",
           "publishedOn": "2022-12-26T17:01:45.000Z",
-          "wordCount": 3238,
+          "wordCount": 3225,
           "title": "Biggest Movers: LTC Climbs to 10-Day High on Monday",
           "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2022/12/shutterstock_772237309.jpg"
         },
@@ -1452,7 +1472,7 @@
           "description": "<p class=\"MsoNormal\">A group of French investors who were  \npreviously clients of Binance has filed a complaint against the top cryptocurrency  \nexchange for allegedly illegally promoting its digital asset services in France between December 19, 2020, and  \nMay 4, 2022. The clients alleged that this was before  \nBinance was granted permission from the country’s financial markets regulator to  \noffer digital asset services in the country. </p><p class=\"MsoNormal\">Lawyers involved in the case told  \nReuters that the plaintiffs accused Binance of having a “misleading commercial  \npractice.” According to local media Mediapart,  \nthe investors claimed that they lost over €2.4 million in the aftermath of <a href=\"https://www.financemagnates.com/cryptocurrency/was-terra-luna-death-spiral-a-result…",
           "link": "https://www.financemagnates.com//cryptocurrency/french-clients-file-complaint-against-binance-over-crypto-promotions/",
           "publishedOn": "2022-12-26T14:41:56.000Z",
-          "wordCount": 3896,
+          "wordCount": 3898,
           "title": "French Clients File Complaint against Binance over Crypto Promotions",
           "imageUrl": "https://images.financemagnates.com/images/Binance_id_059c416a-1bf4-4b09-9f9c-f43e9ad9fa24_size900.jpg"
         },
@@ -1477,7 +1497,7 @@
           "description": "Gitcoin founder Kevin Owocki writes about why 2023 is the year of \"regenerative cryptoeconomics.\"",
           "link": "https://www.coindesk.com/consensus-magazine/2022/12/26/from-degen-to-regen-how-web3-started-playing-positive-sum-games/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2022-12-26T14:33:18.000Z",
-          "wordCount": 23585,
+          "wordCount": 23587,
           "title": "From Degen to Regen: How Web3 Started Playing Positive-Sum Games",
           "enclosure": {
             "length": "1337",
@@ -1495,31 +1515,6 @@
           "wordCount": 3249,
           "title": "Bitcoin, Ethereum Technical Analysis: BTC, ETH Consolidate on Monday as Markets Remain Sluggish Following Christmas",
           "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2022/12/shutterstock_2091579400.jpg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e75ee0d31e7",
-          "author": "Sheldon Reback",
-          "description": "The two started negotiations earlier this year and signed an initial agreement in July.",
-          "link": "https://www.coindesk.com/business/2022/12/26/crypto-lender-nexos-potential-acquisition-of-rival-vauld-is-called-off/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-          "publishedOn": "2022-12-26T13:15:09.000Z",
-          "wordCount": 20911,
-          "title": "Crypto Lender Nexo's Potential Acquisition of Rival Vauld Is Called Off",
-          "enclosure": {
-            "length": "1337",
-            "type": "image/jpeg",
-            "url": "https://www.coindesk.com/resizer/IMUu0dx5nIRgM6GMTMDadXn4VL8=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/7FYIUPOQ3NBOLF2XAOEKUV6WKQ.jpg"
-          },
-          "imageUrl": "https://www.coindesk.com/resizer/IMUu0dx5nIRgM6GMTMDadXn4VL8=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/7FYIUPOQ3NBOLF2XAOEKUV6WKQ.jpg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e75ee0a724c",
-          "author": "Lubomir Tassev",
-          "description": "A Ukrainian living in the U.S. has reportedly hacked a major drug market on the Russian dark web, diverting some of its crypto proceeds. The man says he donated the digital cash stolen from the illicit website to an organization delivering humanitarian aid across his war-torn homeland.\n \nWisconsin Resident With Ukrainian Roots Hacks Russian Dark Web Market Solaris\n \nUkrainian-born cyber intelligence expert Alex Holden, who left Kyiv as a teenager in the 1980s and now lives in Mequon, Wisconsin, claims he has hacked into Solaris, one of Russia’s largest online drug markets, Forbes informs in a report.\n \nSupported by his team at Hold Security, he was able to get hold of some of the bitcoin sent to dealers and the darknet site’s owners. The cryptocurrency, worth over $25,000, was later transf…",
-          "link": "https://news.bitcoin.com/ukrainian-steals-bitcoin-from-russian-darknet-market-donates-to-charity/",
-          "publishedOn": "2022-12-26T12:35:21.000Z",
-          "wordCount": 3430,
-          "title": "Ukrainian Steals Bitcoin From Russian Darknet Market, Donates to Charity",
-          "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2022/12/shutterstock_1044059527.jpg"
         }
       ]
     }

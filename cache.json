@@ -741,21 +741,6 @@
           "imageUrl": "https://cdn.jwplayer.com/v2/media/c4lrMB0e/poster.jpg"
         },
         {
-          "id": "https://decrypt.co/videos/live-events/dLlerLlT/the-crypties-2022-doodles-collab-with-shopify-wins-mainstream-award",
-          "author": null,
-          "description": "Shirley Cedeno and Akbar Hamid accepted the Cryptie on behalf of Doodles from presenters Igor Lilic and Gabriela Ramos Lilic of Breakout at the inaugural Crypties Awards from Decrypt Studios in Miami on November 30. The other nominees in the category were RTFKT and Nike, Gmoney and Adidas, Tiffany and CryptoPunks, and TIMEpieces.",
-          "link": "https://decrypt.co/videos/live-events/dLlerLlT/the-crypties-2022-doodles-collab-with-shopify-wins-mainstream-award",
-          "publishedOn": "2022-12-06T17:34:44.000Z",
-          "wordCount": 5818,
-          "title": "The Crypties 2022: Doodles Collab With Shopify Wins Mainstream Award",
-          "enclosure": {
-            "url": "https://cdn.jwplayer.com/v2/media/dLlerLlT/poster.jpg",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.jwplayer.com/v2/media/dLlerLlT/poster.jpg"
-        },
-        {
           "id": "https://decrypt.co/videos/live-events/z6m8NyuF/the-crypties-awards-2022-people-of-crypto-wins-metaverse-event-of-the-year",
           "author": null,
           "description": "Simone Berry and Akbar Hamid accepted the Cryptie for People of Crypto's Metaverse Pride Parade from presenter Toni Thai Sterrett of Bad Grrls Creative Club at the inaugural Crypties Awards from Decrypt Studios in Miami on November 30. The other nominees in the category were Decentraland's Metaverse Fashion Week and Heal from The Sandbox and Code Green.",
@@ -769,6 +754,21 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.jwplayer.com/v2/media/z6m8NyuF/poster.jpg"
+        },
+        {
+          "id": "https://decrypt.co/videos/live-events/dLlerLlT/the-crypties-2022-doodles-collab-with-shopify-wins-mainstream-award",
+          "author": null,
+          "description": "Shirley Cedeno and Akbar Hamid accepted the Cryptie on behalf of Doodles from presenters Igor Lilic and Gabriela Ramos Lilic of Breakout at the inaugural Crypties Awards from Decrypt Studios in Miami on November 30. The other nominees in the category were RTFKT and Nike, Gmoney and Adidas, Tiffany and CryptoPunks, and TIMEpieces.",
+          "link": "https://decrypt.co/videos/live-events/dLlerLlT/the-crypties-2022-doodles-collab-with-shopify-wins-mainstream-award",
+          "publishedOn": "2022-12-06T17:34:44.000Z",
+          "wordCount": 5818,
+          "title": "The Crypties 2022: Doodles Collab With Shopify Wins Mainstream Award",
+          "enclosure": {
+            "url": "https://cdn.jwplayer.com/v2/media/dLlerLlT/poster.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.jwplayer.com/v2/media/dLlerLlT/poster.jpg"
         },
         {
           "id": "https://decrypt.co/videos/live-events/nQuIgj4l/the-crypties-awards-2022-lens-protocol-wins-defi-project-of-the-year",
@@ -853,84 +853,124 @@
       "siteUrl": "https://cryptopanic.com/",
       "articles": [
         {
+          "id": "https://cryptopanic.com/news/17250167/Biggest-blockchain-trends-for-2023-and-beyond",
+          "author": null,
+          "description": "After a year of new all-time highs for major cryptocurrencies in 2021, 2022 was a challenging year for Web3. Industry experts tell Forkast what crypto has in store for 2023 and beyond.",
+          "link": "https://cryptopanic.com/news/17250167/Biggest-blockchain-trends-for-2023-and-beyond",
+          "publishedOn": "2022-12-28T04:05:00.000Z",
+          "wordCount": 524,
+          "title": "Biggest blockchain trends for 2023 and beyond",
+          "imageUrl": "https://forkast.news/wp-content/uploads/2022/12/hand-holding-silver-ethereum-or-eth-cryptocurrency-2022-10-22-02-37-39-utc-1260x554.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/17250165/Defrost-Finance-breaks-silence-on-exit-scam-accusations-denies-rug-pull",
+          "author": null,
+          "description": "Defrost Finance had not publicly commented on the rug-pull accusations in the media, until now.",
+          "link": "https://cryptopanic.com/news/17250165/Defrost-Finance-breaks-silence-on-exit-scam-accusations-denies-rug-pull",
+          "publishedOn": "2022-12-28T04:04:47.000Z",
+          "wordCount": 528,
+          "title": "Defrost Finance breaks silence on ‘exit scam’ accusations, denies rug pull",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/17250152/Bitcoin-Price-Stuck-In-Crucial-Range-2023-Breakout-Looms",
+          "author": null,
+          "description": "Bitcoin price is still trading in a range below the $17,000 resistance. BTC could witness a major breakout as we approach the New Year 2023. Bitcoin failed to clear the $17,000 and $17,200 resistance levels. The price is trading below $16,800 and the 100 hourly simple moving average. There was a...",
+          "link": "https://cryptopanic.com/news/17250152/Bitcoin-Price-Stuck-In-Crucial-Range-2023-Breakout-Looms",
+          "publishedOn": "2022-12-28T03:52:22.000Z",
+          "wordCount": 526,
+          "title": "Bitcoin Price Stuck In Crucial Range, 2023 Breakout Looms",
+          "imageUrl": "https://newsbtc.com/wp-content/uploads/2021/03/shutterstock_142783711.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/17250108/SBF-borrowed-546M-from-Alameda-to-fund-Robinhood-share-purchase",
+          "author": null,
+          "description": "An affidavit by the FTX founder revealed Alameda funded the purchase of Robinhood shares which were later used as collateral for Alameda to secure a loan from BlockFi.",
+          "link": "https://cryptopanic.com/news/17250108/SBF-borrowed-546M-from-Alameda-to-fund-Robinhood-share-purchase",
+          "publishedOn": "2022-12-28T03:29:02.000Z",
+          "wordCount": 527,
+          "title": "SBF borrowed $546M from Alameda to fund Robinhood share purchase",
+          "imageUrl": null
+        },
+        {
           "id": "https://cryptopanic.com/news/17250090/Gold-bug-Schiff-fires-back-at-Cuban-over-dumb-as-fck-comment",
           "author": null,
-          "description": "Euro Pacific Capital CEO Peter Schiff fired back at Mark Cuban in response to the entrepreneur’s previous comments on gold, saying he does not understand precious metal investing.",
+          "description": "",
           "link": "https://cryptopanic.com/news/17250090/Gold-bug-Schiff-fires-back-at-Cuban-over-dumb-as-fck-comment",
           "publishedOn": "2022-12-28T03:00:44.000Z",
-          "wordCount": 529,
+          "wordCount": null,
           "title": "Gold bug Schiff fires back at Cuban over ‘dumb as f*ck’ comment",
-          "imageUrl": "https://cryptoslate.com/wp-content/uploads/2022/12/cuban-schiff-bitcoin-gold.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/17250067/Underdog-rises-Dogecoin-survived-carnage-in-2022-better-than-most",
           "author": null,
-          "description": "DOGE has performed much better than SHIB this year, despite the Shiba Inu community actively working on a L2 network, Metaverse and blockchain games.",
+          "description": "",
           "link": "https://cryptopanic.com/news/17250067/Underdog-rises-Dogecoin-survived-carnage-in-2022-better-than-most",
           "publishedOn": "2022-12-28T02:53:38.000Z",
-          "wordCount": 527,
+          "wordCount": null,
           "title": "Underdog rises: Dogecoin survived carnage in 2022 better than most",
           "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/17250054/100-Public-Bitcoin-miners-sold-almost-everything-they-mined-in-2022",
           "author": null,
-          "description": "Publicly listed Bitcoin miners sold off nearly everything they mined in 2022 but appear to have started accumulating reserves once again.",
+          "description": "",
           "link": "https://cryptopanic.com/news/17250054/100-Public-Bitcoin-miners-sold-almost-everything-they-mined-in-2022",
           "publishedOn": "2022-12-28T02:38:28.000Z",
-          "wordCount": 528,
+          "wordCount": null,
           "title": "100%: Public Bitcoin miners sold almost everything they mined in 2022",
           "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/17250026/AVAX-investors-can-expect-a-smooth-entry-into-2023-after-this-Avalanche-update",
           "author": null,
-          "description": "Avalanche launched its latest Avalanche Warp Messaging, which brought several new features AVAX’s RSI and Stochastic were oversold, increasing the chances of a price surge Avalanche [AVAX] recently revealed that its Avalanche Warp Messaging (AWM) went live. This was big news, as it brought...",
+          "description": "",
           "link": "https://cryptopanic.com/news/17250026/AVAX-investors-can-expect-a-smooth-entry-into-2023-after-this-Avalanche-update",
           "publishedOn": "2022-12-28T02:30:04.000Z",
-          "wordCount": 530,
+          "wordCount": null,
           "title": "AVAX investors can expect a smooth entry into 2023 after this Avalanche update",
-          "imageUrl": "https://ambcrypto.com/wp-content/uploads/2022/12/AVAX-3.png"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/17250011/Top-3-Ways-to-play-Crypto-in-2023-shorts",
           "author": null,
-          "description": "Here's 3 ways to play the crypto markets in 2023! ●▬▬▬▬▬▬▬▬Ongoing Offers▬▬▬▬▬▬▬▬▬●💵ALTCOIN BUZZ + BINANCEGet Up To $600* On Sign Up + Win a Share of $1,000 Become a Top Trader and win a share of $1,000!✅5 traders with the highest trading volume will share $750✅ 5 lucky draw winners will get $50...",
+          "description": "",
           "link": "https://cryptopanic.com/news/17250011/Top-3-Ways-to-play-Crypto-in-2023-shorts",
           "publishedOn": "2022-12-28T02:00:02.000Z",
-          "wordCount": 526,
+          "wordCount": null,
           "title": "Top 3 Ways to play Crypto in 2023! #shorts",
-          "imageUrl": "https://i4.ytimg.com/vi/CiTxUOKlYSE/hqdefault.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/17249990/Markets-Bitcoin-Ether-slide-BNB-leads-gains-across-top-10-cryptos",
           "author": null,
-          "description": "Bitcoin and Ether prices dropped on Wednesday morning in Asia while other non-stablecoin top 10 cryptocurrencies posted mixed results with BNB leading gains.",
+          "description": "",
           "link": "https://cryptopanic.com/news/17249990/Markets-Bitcoin-Ether-slide-BNB-leads-gains-across-top-10-cryptos",
           "publishedOn": "2022-12-28T01:43:24.000Z",
-          "wordCount": 528,
+          "wordCount": null,
           "title": "Markets: Bitcoin, Ether slide; BNB leads gains across top 10 cryptos",
-          "imageUrl": "https://forkast.news/wp-content/uploads/2022/12/bitcoin-crypto-currency-diagram-2022-07-07-16-02-20-utc-1260x840.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/17249976/ProtonMail-creator-unsure-whether-his-firm-will-continue-to-hold-Bitcoin",
           "author": null,
-          "description": "Proton CEO and co-founder Andy Yen said that he is unsure whether his company will continue to hold Bitcoin during a Forbes interview published on December 27.",
+          "description": "",
           "link": "https://cryptopanic.com/news/17249976/ProtonMail-creator-unsure-whether-his-firm-will-continue-to-hold-Bitcoin",
           "publishedOn": "2022-12-28T01:30:15.000Z",
-          "wordCount": 528,
+          "wordCount": null,
           "title": "ProtonMail creator unsure whether his firm will continue to hold Bitcoin",
-          "imageUrl": "https://cryptoslate.com/wp-content/uploads/2022/12/andy-yen-proton-bitcoin-.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/17249944/Former-SEC-Chair-Discusses-SBFs-Options-To-Avoid-Life-In-Prison",
           "author": null,
-          "description": "",
+          "description": "The founder and former CEO of failed crypto exchange FTX, Sam Bankman-Fried (SBF), stirred controversy one more time. Following his extradition from the Bahamas to the United States, the crypto company founder was released into the custody of his parents. Related Reading: Still Holding Your Pi...",
           "link": "https://cryptopanic.com/news/17249944/Former-SEC-Chair-Discusses-SBFs-Options-To-Avoid-Life-In-Prison",
           "publishedOn": "2022-12-28T01:00:56.000Z",
-          "wordCount": null,
+          "wordCount": 528,
           "title": "Former SEC Chair Discusses SBF’s Options To Avoid Life In Prison",
-          "imageUrl": null
+          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2022/11/SBF-ex-CEO-of-crypto-exchange-FTX.jpeg"
         },
         {
           "id": "https://cryptopanic.com/news/17249946/Dogecoin-Among-Most-Searched-Cryptos-Of-The-Year-Will-It-Keep-Its-Spot-In-2023",
@@ -945,10 +985,10 @@
         {
           "id": "https://cryptopanic.com/news/17249920/Mango-Markets-exploiter-arrested-on-fraud-charges-Maybe-it-WAS-illegal",
           "author": null,
-          "description": "The Mango Markets exploiter previously called his attack on the crypto exchange “legal open market actions.”",
+          "description": "",
           "link": "https://cryptopanic.com/news/17249920/Mango-Markets-exploiter-arrested-on-fraud-charges-Maybe-it-WAS-illegal",
           "publishedOn": "2022-12-28T00:59:55.000Z",
-          "wordCount": 529,
+          "wordCount": null,
           "title": "Mango Markets exploiter arrested on fraud charges — Maybe it WAS illegal",
           "imageUrl": null
         },
@@ -975,12 +1015,12 @@
         {
           "id": "https://cryptopanic.com/news/17249858/Running-Bitcoin-half-marathon-will-commemorate-Hal-Finney",
           "author": null,
-          "description": "Fran Finney, the widow of early Bitcoin contributor Hal Finney, announced a charity half marathon in honor of her husband via Twitter on December 27.",
+          "description": "",
           "link": "https://cryptopanic.com/news/17249858/Running-Bitcoin-half-marathon-will-commemorate-Hal-Finney",
           "publishedOn": "2022-12-28T00:00:29.000Z",
-          "wordCount": 525,
+          "wordCount": null,
           "title": "“Running Bitcoin” half marathon will commemorate Hal Finney",
-          "imageUrl": "https://cryptoslate.com/wp-content/uploads/2022/12/hal-finney.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/17249860/Bitcoin-Ethereum-and-Cardano-What-Top-Analysts-are-Expecting-for-Price-of-These-Cryptos-in-2023",
@@ -995,10 +1035,10 @@
         {
           "id": "https://cryptopanic.com/news/17249840/10-predictions-for-crypto-in-2023",
           "author": null,
-          "description": "Expect blockchain adoption to increase in the year ahead — in addition to the culture wars surrounding it.",
+          "description": "",
           "link": "https://cryptopanic.com/news/17249840/10-predictions-for-crypto-in-2023",
           "publishedOn": "2022-12-27T23:58:26.000Z",
-          "wordCount": 523,
+          "wordCount": null,
           "title": "10 predictions for crypto in 2023",
           "imageUrl": null
         },
@@ -1011,46 +1051,6 @@
           "wordCount": null,
           "title": "Mango Markets exploiter arrested in Puerto Rico for alleged market manipulation",
           "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/17249817/NFT-Collector-Sentiment-Inches-Up-in-December",
-          "author": null,
-          "description": "NFT activity slowed in 2022 but less so in the second half of the year",
-          "link": "https://cryptopanic.com/news/17249817/NFT-Collector-Sentiment-Inches-Up-in-December",
-          "publishedOn": "2022-12-27T23:29:09.000Z",
-          "wordCount": 524,
-          "title": "NFT Collector Sentiment Inches Up in December",
-          "imageUrl": "https://cms.blockworks.co/wp-content/uploads/2022/12/NFT-market-update-December.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/17249795/Mango-Markets-Exploiter-Avi-Eisenberg-Committed-Fraud-Feds-Say",
-          "author": null,
-          "description": "Although Eisenberg came to an arrangement with Mango Markets to return some $67 million, the $110 million exploit is now being treated as theft",
-          "link": "https://cryptopanic.com/news/17249795/Mango-Markets-Exploiter-Avi-Eisenberg-Committed-Fraud-Feds-Say",
-          "publishedOn": "2022-12-27T23:05:59.000Z",
-          "wordCount": 526,
-          "title": "Mango Markets Exploiter Avi Eisenberg Committed Fraud, Feds Say",
-          "imageUrl": "https://cms.blockworks.co/wp-content/uploads/2022/12/Grayscale-Fir-Tree-Lawsuit.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/17249784/Over-8000000-Worth-of-Ethereum-ETH-Binance-Coin-BNB-Tether-USDT-and-DAI-Stolen-in-Crypto-Wallet-Hack",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/17249784/Over-8000000-Worth-of-Ethereum-ETH-Binance-Coin-BNB-Tether-USDT-and-DAI-Stolen-in-Crypto-Wallet-Hack",
-          "publishedOn": "2022-12-27T23:05:17.000Z",
-          "wordCount": null,
-          "title": "Over $8,000,000 Worth of Ethereum (ETH), Binance Coin (BNB), Tether (USDT) and DAI Stolen in Crypto Wallet Hack",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/17249793/Crypto-Investment-Firm-Midas-Shutting-Down-Platform-Following-Losses",
-          "author": null,
-          "description": "The collapse of Celsius and FTX led to more than 60% of Midas’ assets under management being withdrawn.",
-          "link": "https://cryptopanic.com/news/17249793/Crypto-Investment-Firm-Midas-Shutting-Down-Platform-Following-Losses",
-          "publishedOn": "2022-12-27T23:03:58.000Z",
-          "wordCount": 526,
-          "title": "Crypto Investment Firm Midas Shutting Down Platform Following Losses",
-          "imageUrl": "https://www.coindesk.com/resizer/HigA04jOvSnBdn4QlSC7n-iSR2k=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/BOPFVZ4XOFDCTCMMXNZSYCGWOE.jpg"
         }
       ]
     },
@@ -1059,6 +1059,56 @@
       "feedUrl": "https://message-rss.vercel.app/rekt/news",
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
+        {
+          "id": "https://www.zerohedge.com/geopolitical/fighting-psyopcracy",
+          "author": null,
+          "description": "Fighting The 'Psyopcracy' | ZeroHedge",
+          "link": "https://www.zerohedge.com/geopolitical/fighting-psyopcracy",
+          "publishedOn": "2022-12-28T04:00:04.000Z",
+          "wordCount": 1492,
+          "title": "Fighting The 'Psyopcracy' | ZeroHedge",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.zerohedge.com/political/aussie-cops-ask-neighbors-rat-out-anti-government-anti-police-or-covid-vaccine-conspiracy",
+          "author": null,
+          "description": "Aussie Cops Ask Neighbors To Rat Out 'Anti-Government, Anti-Police, Or COVID-Vaccine Conspiracy Theorists' | ZeroHedge",
+          "link": "https://www.zerohedge.com/political/aussie-cops-ask-neighbors-rat-out-anti-government-anti-police-or-covid-vaccine-conspiracy",
+          "publishedOn": "2022-12-28T04:00:04.000Z",
+          "wordCount": 988,
+          "title": "Aussie Cops Ask Neighbors To Rat Out 'Anti-Government, Anti-Police, Or COVID-Vaccine Conspiracy Theorists' | ZeroHedge",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/solana-foundation/solana-improvement-documents/pull/16",
+          "author": null,
+          "description": "Application write account fees by godmodegalactus · Pull Request #16 · solana-foundation/solana-improvement-documents",
+          "link": "https://github.com/solana-foundation/solana-improvement-documents/pull/16",
+          "publishedOn": "2022-12-28T03:30:05.000Z",
+          "wordCount": 719,
+          "title": "Application write account fees by godmodegalactus · Pull Request #16 · solana-foundation/solana-improvement-documents",
+          "imageUrl": "https://opengraph.githubassets.com/081e89a557649912279441a30904731c06f7667a58c7b8ca543ba3284871c61f/solana-foundation/solana-improvement-documents/pull/16"
+        },
+        {
+          "id": "https://www.zerohedge.com/political/rachel-levine-calls-tech-companies-control-minsinformation-gender-affirming-care",
+          "author": null,
+          "description": "Rachel Levine Calls For Tech Companies To Control \"Misinformation\" On Gender Affirming Care | ZeroHedge",
+          "link": "https://www.zerohedge.com/political/rachel-levine-calls-tech-companies-control-minsinformation-gender-affirming-care",
+          "publishedOn": "2022-12-28T03:30:05.000Z",
+          "wordCount": 1419,
+          "title": "Rachel Levine Calls For Tech Companies To Control \"Misinformation\" On Gender Affirming Care | ZeroHedge",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.zerohedge.com/political/12-states-allow-home-equity-theft-over-homeowners-tax-payment-shortfalls-study-says",
+          "author": null,
+          "description": "12 States Allow Home Equity 'Theft' Over Homeowners' Tax Payment Shortfalls, Study Says | ZeroHedge",
+          "link": "https://www.zerohedge.com/political/12-states-allow-home-equity-theft-over-homeowners-tax-payment-shortfalls-study-says",
+          "publishedOn": "2022-12-28T03:30:05.000Z",
+          "wordCount": 1654,
+          "title": "12 States Allow Home Equity 'Theft' Over Homeowners' Tax Payment Shortfalls, Study Says | ZeroHedge",
+          "imageUrl": null
+        },
         {
           "id": "https://glacierprotocol.org/",
           "author": null,
@@ -1077,46 +1127,6 @@
           "publishedOn": "2022-12-28T02:00:04.000Z",
           "wordCount": 1218,
           "title": "Russia Dismisses \"Smokescreen\" Kyiv Offer Of February Peace Talks | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://speedrunethereum.com/",
-          "author": null,
-          "description": "Speed Run Ethereum",
-          "link": "https://speedrunethereum.com/",
-          "publishedOn": "2022-12-28T01:30:05.000Z",
-          "wordCount": 45,
-          "title": "Speed Run Ethereum",
-          "imageUrl": "https://speedrunethereum.com/thumbnail.png"
-        },
-        {
-          "id": "https://www.zerohedge.com/geopolitical/cia-directing-sabotage-attacks-inside-russia-report",
-          "author": null,
-          "description": "Special Forces Insider: The CIA Is Directing Sabotage Attacks In Russian Territory | ZeroHedge",
-          "link": "https://www.zerohedge.com/geopolitical/cia-directing-sabotage-attacks-inside-russia-report",
-          "publishedOn": "2022-12-28T01:30:05.000Z",
-          "wordCount": 1945,
-          "title": "Special Forces Insider: The CIA Is Directing Sabotage Attacks In Russian Territory | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/political/impoverished-canadians-seek-euthanasia-solution-while-trudeau-vacations-jamaica",
-          "author": null,
-          "description": "Impoverished Canadians Seek Euthanasia As A Solution While Trudeau Vacations In Jamaica | ZeroHedge",
-          "link": "https://www.zerohedge.com/political/impoverished-canadians-seek-euthanasia-solution-while-trudeau-vacations-jamaica",
-          "publishedOn": "2022-12-28T01:00:03.000Z",
-          "wordCount": 993,
-          "title": "Impoverished Canadians Seek Euthanasia As A Solution While Trudeau Vacations In Jamaica | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/markets/arizona-considers-55-billion-water-desalination-plant-mexico-combat-drought",
-          "author": null,
-          "description": "Arizona Considers $5.5 Billion Water Desalination Plant, 200-Mile Pipeline From Mexico To Combat Drought | ZeroHedge",
-          "link": "https://www.zerohedge.com/markets/arizona-considers-55-billion-water-desalination-plant-mexico-combat-drought",
-          "publishedOn": "2022-12-28T01:00:03.000Z",
-          "wordCount": 774,
-          "title": "Arizona Considers $5.5 Billion Water Desalination Plant, 200-Mile Pipeline From Mexico To Combat Drought | ZeroHedge",
           "imageUrl": null
         },
         {
@@ -1147,7 +1157,7 @@
           "publishedOn": "2022-12-27T23:30:04.000Z",
           "wordCount": 1309,
           "title": "GitHub - DioxusLabs/dioxus: Friendly React-like GUI library for desktop, web, mobile, and more.",
-          "imageUrl": "https://opengraph.githubassets.com/dd5c6925e91f238b84ad9037f5f415c061c675af67d83e1d4e5b2c577227fbf4/DioxusLabs/dioxus"
+          "imageUrl": "https://opengraph.githubassets.com/409c494f400f7ee0efe64e3980ceea0c74a68df47ad81394e94067d829a59753/DioxusLabs/dioxus"
         },
         {
           "id": "https://www.youtube.com/watch?v=oEKSz4A3I2Q",
@@ -1210,16 +1220,6 @@
           "imageUrl": "https://www.emailtriager.com/images/header.png"
         },
         {
-          "id": "https://zeneca33.substack.com/p/letter-32-artificial-intelligence",
-          "author": null,
-          "description": "Letter 32: Artificial Intelligence",
-          "link": "https://zeneca33.substack.com/p/letter-32-artificial-intelligence",
-          "publishedOn": "2022-12-27T17:30:04.000Z",
-          "wordCount": 9840,
-          "title": "Letter 32: Artificial Intelligence",
-          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F420e53ff-da3a-4ef8-b9b7-8cf76569978c_1200x980.jpeg"
-        },
-        {
           "id": "https://forum.manifold.xyz/t/royalties-psa-marketplace-blocker-app-and-understanding-the-openseas-operator-filter/1016",
           "author": null,
           "description": "ROYALTIES PSA: Marketplace Blocker App and understanding the Opensea's Operator Filter",
@@ -1267,12 +1267,22 @@
       "siteUrl": "https://www.inoreader.com/stream/user/1005336866/tag/%E6%B5%B7%E5%A4%96%E5%8A%A0%E5%AF%86%E8%B5%84%E8%AE%AF/view/html",
       "articles": [
         {
+          "id": "http://www.inoreader.com/article/3a9c6e75ed0c392a",
+          "author": "Kevin Helms",
+          "description": "The Philippine Securities and Exchange Commission (SEC) has advised investors against transacting with unlicensed cryptocurrency exchanges. The warning followed the collapse of crypto exchange FTX which “left hundreds of thousands, even millions of unsecured creditors with little to no recourse in recovering their money,” the regulator stressed.\n \nPhilippine SEC Warns About Unregulated Crypto Exchanges\n \nThe Philippine Securities and Exchange Commission (SEC) issued an advisory Friday warning the public against transacting with unregistered cryptocurrency exchanges. The regulator wrote:\n \n\nSEC strongly warns and advises the public against transacting with unregistered and unlicensed cryptocurrency exchanges reachable and deemed operating in the Philippines.\n \nThe advisory followed the coll…",
+          "link": "https://news.bitcoin.com/philippine-regulator-warns-against-using-unlicensed-cryptocurrency-exchanges-following-ftx-collapse/",
+          "publishedOn": "2022-12-28T03:36:47.000Z",
+          "wordCount": 3372,
+          "title": "Philippine Regulator Warns Against Using Unlicensed Cryptocurrency Exchanges Following FTX Collapse",
+          "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2022/12/philippine-sec.jpg"
+        },
+        {
           "id": "http://www.inoreader.com/article/3a9c6e75eef799b5",
           "author": "Kevin Helms",
           "description": "The famous author of the best-selling book Rich Dad Poor Dad, Robert Kiyosaki, says now may be the last chance to buy gold and silver at low prices. “Inflation moving up. Interest rates moving up. Stock market to crash sending gold and silver higher,” Kiyosaki described.\n \nRobert Kiyosaki Expects Gold and Silver to Soar When Stock Market Crashes\n \nThe author of Rich Dad Poor Dad, Robert Kiyosaki, says the prices of gold and silver are about to soar. Rich Dad Poor Dad is a 1997 book co-authored by Kiyosaki and Sharon Lechter. It has been on the New York Times Best Seller List for over six years. More than 32 million copies of the book have been sold in over 51 languages across more than 109 countries.\n \nKiyosaki tweeted Monday that the price of gold is now over $1,800 while silver is over $…",
           "link": "https://news.bitcoin.com/robert-kiyosaki-warns-last-chance-to-buy-gold-and-silver-at-low-prices-says-stock-market-crash-will-send-them-higher/",
           "publishedOn": "2022-12-28T01:38:01.000Z",
-          "wordCount": 3457,
+          "wordCount": 3465,
           "title": "Robert Kiyosaki Warns Last Chance to Buy Gold and Silver at Low Prices — Says Stock Market Crash Will Send Them Higher",
           "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2022/12/kiyosaki-gold-silver.jpg"
         },
@@ -1312,7 +1322,7 @@
           "description": "ALSO: CoinDesk Columnist David Z. Morris' early soothsaying about the seriousness of the allegations against Sam Bankman-Fried, the former CEO of embattled crypto exchange FTX; bitcoin drifts toward $16.7K.",
           "link": "https://www.coindesk.com/markets/2022/12/28/first-mover-asia-bitcoin-drifts-lower-as-crypto-winter-continues/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2022-12-28T00:29:04.000Z",
-          "wordCount": 23795,
+          "wordCount": 23792,
           "title": "First Mover Asia: Bitcoin Drifts Lower as Crypto Winter Continues",
           "enclosure": {
             "length": "1337",
@@ -1327,7 +1337,7 @@
           "description": "Bitcoin miner Argo Blockchain announced that it requested the suspension of trading its company shares on Dec. 27, as the company expects to make an announcement on Wednesday, Dec. 28, 2022. The company’s stock has lost 96.34% year-to-date and on Dec. 12, the bitcoin miner “advanced negotiations with a third party to sell certain assets” in order to “strengthen its balance sheet and improve its liquidity.”\n \nArgo Blockchain Requested a Suspension of Stock Trading Pending an Official Announcement\n \nOn Tuesday, Dec. 27, 2022, the publicly-listed bitcoin miner Argo Blockchain (Nasdaq: ARBK) announced that it has requested the suspension of trading its shares via Nasdaq and the London Stock Exchange as well.\n \nArgo detailed that it believes trading will resume after the company makes an import…",
           "link": "https://news.bitcoin.com/publicly-listed-bitcoin-miner-argo-blockchain-suspends-nasdaq-trading/",
           "publishedOn": "2022-12-27T23:37:33.000Z",
-          "wordCount": 3342,
+          "wordCount": 3354,
           "title": "Publicly-Listed Bitcoin Miner Argo Blockchain Suspends Nasdaq Trading",
           "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2022/12/78967890.jpg"
         },
@@ -1352,7 +1362,7 @@
           "description": "Avraham Eisenberg, the crypto investor whose “highly profitable trading strategy” drained DeFi trading platform Mango Markets of crypto worth $110 million, was arrested Monday in Puerto Rico, court documents said.",
           "link": "https://www.coindesk.com/policy/2022/12/27/mango-markets-exploiter-eisenberg-arrested-in-puerto-rico/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2022-12-27T23:18:34.000Z",
-          "wordCount": 20912,
+          "wordCount": 20916,
           "title": "Mango Markets Exploiter Eisenberg Arrested in Puerto Rico",
           "enclosure": {
             "length": "1337",
@@ -1397,7 +1407,7 @@
           "description": "The Nigerian security agency, the Department of State Services (DSS), has reportedly instructed its operatives to arrest the Central Bank of Nigeria governor Godwin Emefiele as soon as he is seen in public. The DSS is still seeking to apprehend Emefiele despite losing its bid to have a Nigerian court sanction the arrest. \n \nNigerian Court Refuses to Back Arrest Plot\n \nAs the controversy surrounding the failed arrest of Central Bank of Nigeria (CBN) governor Godwin Emefiele continues to hog the limelight, a new report by Sahara Reporters said operatives from Nigeria’s Department of State Services (DSS) have an order to “arrest him on sight.” In addition, the report, which relies on the testimony of unnamed sources, said operatives are also monitoring movements at the CBN headquarters as wel…",
           "link": "https://news.bitcoin.com/report-nigerian-security-agency-seeks-to-arrest-central-bank-governor-on-charges-of-funding-terrorists/",
           "publishedOn": "2022-12-27T21:33:51.000Z",
-          "wordCount": 3347,
+          "wordCount": 3341,
           "title": "Report: Nigerian Security Agency Seeks to Arrest Central Bank Governor on Charges of Funding Terrorists",
           "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2022/12/shutterstock_407008447.jpg"
         },
@@ -1447,7 +1457,7 @@
           "description": "Amid the dreary global economy, a number of market strategists and analysts believe oil will be the number one investment in 2023. While a barrel of oil is coasting along at prices between $80.12 and $85 per unit, Goldman Sachs analysts think oil will reach $110 per barrel for Brent oil, and strategists from Morgan Stanley also believe oil will reach $110 a barrel by mid-2023. The founder of Praetorian Capital recently warned a barrel of oil could jump a lot higher next year.\n \nMarket Strategists Expect Oil Prices to Jump Considerably in 2023, Some Warn That $100-a-Barrel Oil Should Be Expected Next Year, Others Say a Barrel of Crude Could Surpass $200\n \nReports show that Wall Street is bullish about oil in comparison to equities, cryptocurrencies, and precious metals. Oil jumped a great d…",
           "link": "https://news.bitcoin.com/oil-prices-north-of-200-per-barrel-investor-expects-oil-to-crush-every-investment-in-2023/",
           "publishedOn": "2022-12-27T17:32:30.000Z",
-          "wordCount": 3614,
+          "wordCount": 3629,
           "title": "‘Oil Prices North of $200’ per Barrel — Investor Expects Oil to ‘Crush’ Every Investment in 2023",
           "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2022/12/200barrel.jpg"
         },
@@ -1487,7 +1497,7 @@
           "description": "Sam Bankman-Fried said in an affidavit he bought Robinhood shares with funds borrowed from Alameda. The admission throws a wrinkle into a lawsuit from crypto lender BlockFi, which says it was promised the shares as collateral against a loan taken out by Alameda.",
           "link": "https://www.coindesk.com/policy/2022/12/27/ftxs-sam-bankman-fried-borrowed-from-alameda-to-buy-robinhood-shares/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2022-12-27T16:26:37.000Z",
-          "wordCount": 20816,
+          "wordCount": 20820,
           "title": "FTX's Sam Bankman-Fried Borrowed From Alameda to Buy Robinhood Shares",
           "enclosure": {
             "length": "1337",
@@ -1525,16 +1535,6 @@
             "url": "https://www.coindesk.com/resizer/oIbqbnQRvf7tClltBTcXYKtrN7c=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/3D37FVVEIFFXJFOXSQIXNGCBHM.jpg"
           },
           "imageUrl": "https://www.coindesk.com/resizer/oIbqbnQRvf7tClltBTcXYKtrN7c=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/3D37FVVEIFFXJFOXSQIXNGCBHM.jpg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e75eebf064a",
-          "author": "Lubomir Tassev",
-          "description": "A major cryptocurrency mining pool has been hit by hackers earlier this month, the company who owns the pool revealed in an announcement. The incident resulted in the theft of digital assets belonging to the pool and its clients worth a combined total of $3 million.\n \nChinese Authorities Launch Investigation Into Crypto Mining Pool Hack\n \nA subsidiary of the coin minting company Bit Mining has been targeted in a hacking attack, the company said in a press release. The affected entity is a leading bitcoin mining pool, Btc.com, which in the past week accounted for over 2.5% of the pool distribution and has a share exceeding 4% on annual basis.\n \nAccording to the announcement published Monday, Dec. 26, the platform was hit on Dec. 3, 2022. As a result, $2.3 million worth of digital assets own…",
-          "link": "https://news.bitcoin.com/bitcoin-mining-pool-btc-com-suffers-3-million-cyberattack/",
-          "publishedOn": "2022-12-27T15:09:40.000Z",
-          "wordCount": 3297,
-          "title": "Bitcoin Mining Pool Btc.com Suffers $3 Million Cyberattack",
-          "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2022/12/shutterstock_2165195361.jpg"
         }
       ]
     }

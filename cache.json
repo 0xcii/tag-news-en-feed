@@ -6,6 +6,21 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=120947",
+          "author": "Nathan Reiff",
+          "description": "DeFi is inextricably linked to the rise of cryptocurrencies, but it is not solely about crypto tokens.",
+          "link": "https://decrypt.co/resources/a-brief-history-of-defi-learn",
+          "publishedOn": "2023-02-09T15:30:47.000Z",
+          "wordCount": 8466,
+          "title": "A Brief History of DeFi",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/11/ID-STUFF-copy-gID_6-pID_6.png@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/11/ID-STUFF-copy-gID_6-pID_6.png@png"
+        },
+        {
           "id": "https://decrypt.co/?p=120938",
           "author": "Max Koopsen",
           "description": "Aave’s foray into stablecoins inches closer as the DeFi giant launched its dollar-pegged GHO token on Ethereum’s Goerli testnet today.",
@@ -402,7 +417,7 @@
           "link": "https://decrypt.co/120806/sbf-lobbied-congress-for-ftx-not-crypto",
           "publishedOn": "2023-02-08T01:18:26.000Z",
           "wordCount": 7428,
-          "title": "SBF Lobbied Congress to Benefit FTX, Not Crypto, Says Blockchain Exec",
+          "title": "SBF Lobbied Congress to Benefit FTX, Not Crypto: Blockchain Association Director",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/02/SBF-and-Kristin-Smith-scaled-gID_1.jpg@png",
             "length": "1000000",
@@ -591,21 +606,6 @@
           "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/01/sbf-court-ftx-new-work-manhattan-gID_4.jpeg@png"
         },
         {
-          "id": "https://decrypt.co/?p=120739",
-          "author": "Andrew Asmakov",
-          "description": "The recent class-action lawsuit has accused Signature Bank of helping the \"now-bankrupt infamous FTX fraud.\"",
-          "link": "https://decrypt.co/120739/signature-bank-lawsuit-alleges-substantially-facilitated-ftx-fraud",
-          "publishedOn": "2023-02-07T14:48:23.000Z",
-          "wordCount": 7044,
-          "title": "Signature Bank Lawsuit Alleges It 'Substantially Facilitated' FTX Fraud",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/07/lawsuit-scales-justice-court-gID_4.jpeg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/07/lawsuit-scales-justice-court-gID_4.jpeg@png"
-        },
-        {
           "id": "https://decrypt.co/videos/interviews/taYx1lPU/bill-murray-discusses-nft-project-first-members-only-event",
           "author": null,
           "description": "Comedic legend Bill Murray sits down with Decrypt at his first exclusive party for NFT holders in Oceanside, California. He describes the project’s origins and why it didn’t feel “mercenary” for him to create an NFT-based membership club.",
@@ -763,203 +763,203 @@
       "siteUrl": "https://cryptopanic.com/",
       "articles": [
         {
+          "id": "https://cryptopanic.com/news/17597228/MetaMask-Simplifies-Crypto-Purchases-for-Indian-Users-With-Instant-Transaction-Service",
+          "author": null,
+          "description": "MetaMask has partnered with Onramp.money to make crypto purchases seamless for Indian users. But what about regulatory challenges?",
+          "link": "https://cryptopanic.com/news/17597228/MetaMask-Simplifies-Crypto-Purchases-for-Indian-Users-With-Instant-Transaction-Service",
+          "publishedOn": "2023-02-09T16:00:00.000Z",
+          "wordCount": 528,
+          "title": "MetaMask Simplifies Crypto Purchases for Indian Users With Instant Transaction Service",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/17597230/Today-in-Crypto-Aave-Announces-Launch-of-GHO-Stablecoin-on-Ethereums-Goerli-Testnet-MakerDAO-Establishes-Phoenix-Labs-LocalBitcoins-Closing-down",
+          "author": null,
+          "description": "Get your daily, bite-sized digest of cryptoasset and blockchain-related news – investigating the stories flying under the radar of today’s crypto news.__________... Read More: Today in Crypto: Aave Announces Launch of GHO Stablecoin on Ethereum’s Goerli Testnet, MakerDAO Establishes Phoenix...",
+          "link": "https://cryptopanic.com/news/17597230/Today-in-Crypto-Aave-Announces-Launch-of-GHO-Stablecoin-on-Ethereums-Goerli-Testnet-MakerDAO-Establishes-Phoenix-Labs-LocalBitcoins-Closing-down",
+          "publishedOn": "2023-02-09T16:00:00.000Z",
+          "wordCount": 537,
+          "title": "Today in Crypto: Aave Announces Launch of GHO Stablecoin on Ethereum’s Goerli Testnet, MakerDAO Establishes Phoenix Labs, LocalBitcoins Closing down",
+          "imageUrl": "https://v2.cimg.co/news/104470/256174/adobestock-s-1.jpeg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/17597186/Harmony-ONE-Activates-Major-Hardfork-What-Changes",
+          "author": null,
+          "description": "Now it is possible to seamlessly move value from one shard to another without leaving ONE wallet",
+          "link": "https://cryptopanic.com/news/17597186/Harmony-ONE-Activates-Major-Hardfork-What-Changes",
+          "publishedOn": "2023-02-09T15:50:00.000Z",
+          "wordCount": 524,
+          "title": "Harmony (ONE) Activates Major Hardfork: What Changes?",
+          "imageUrl": "https://u.today/sites/default/files/styles/twitter/public/2023-02/30789.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/17597117/Hong-Kong-investment-manager-loses-15M-inheritance-in-crypto-scam",
+          "author": null,
+          "description": "A Hong Kong investment manager turned to the police after losing $1.5 million of his father's inheritance in a pig butchering crypto scam.",
+          "link": "https://cryptopanic.com/news/17597117/Hong-Kong-investment-manager-loses-15M-inheritance-in-crypto-scam",
+          "publishedOn": "2023-02-09T15:38:40.000Z",
+          "wordCount": 527,
+          "title": "Hong Kong investment manager loses $1.5M inheritance in crypto scam",
+          "imageUrl": "https://protos.com/wp-content/uploads/2023/02/Protos-Artwork-HongKongCryptoScam-SIMG.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/17597114/These-10-gaming-tokens-reap-huge-gains-in-2023-as-crypto-winter-thaws",
+          "author": null,
+          "description": "2023 started with optimism for the larger part of the cryptocurrency industry, and crypto gaming tokens have been no exception. … Continued",
+          "link": "https://cryptopanic.com/news/17597114/These-10-gaming-tokens-reap-huge-gains-in-2023-as-crypto-winter-thaws",
+          "publishedOn": "2023-02-09T15:34:36.000Z",
+          "wordCount": 530,
+          "title": "These 10 gaming tokens reap huge gains in 2023 as crypto winter thaws",
+          "imageUrl": "https://finbold.com/app/uploads/2023/02/These-10-gaming-tokens-reap-huge-gains-in-2023-as-crypto-winter-thaws.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/17597116/Trust-Wallet-Comes-Clean-On-Rumors-Regarding-4-Million-Hack",
+          "author": null,
+          "description": "Multichain cryptocurrency wallet provider, Trust Wallet, has cleared the air around a mysterious $4 million theft from its user’s account. Rumors about the theft started circulating on Monday, January 6.  According to the rumors, a scammer carted $4 million in crypto assets away from the Trust...",
+          "link": "https://cryptopanic.com/news/17597116/Trust-Wallet-Comes-Clean-On-Rumors-Regarding-4-Million-Hack",
+          "publishedOn": "2023-02-09T15:30:54.000Z",
+          "wordCount": 527,
+          "title": "Trust Wallet Comes Clean On Rumors Regarding $4 Million ‘Hack’",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/17597113/A-Brief-History-of-DeFi",
+          "author": null,
+          "description": "DeFi is inextricably linked to the rise of cryptocurrencies, but it is not solely about crypto tokens.",
+          "link": "https://cryptopanic.com/news/17597113/A-Brief-History-of-DeFi",
+          "publishedOn": "2023-02-09T15:30:47.000Z",
+          "wordCount": 522,
+          "title": "A Brief History of DeFi",
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/11/ID-STUFF-copy-gID_6-pID_6.png@png"
+        },
+        {
+          "id": "https://cryptopanic.com/news/17597081/BitMEX-Founder-Arthur-Hayes-Says-Altcoins-Could-Go-Vertical-in-Next-Bull-Frenzy-Heres-His-Outlook",
+          "author": null,
+          "description": "BitMEX founder Arthur Hayes is predicting a parabolic rally for altcoins, depending on the top two crypto assets by market cap. Hayes says in a new blog post that if Bitcoin (BTC) and Ethereum (ETH) continue on an upward trend, altcoins will surge aggressively. “If Bitcoin and Ethereum continue...",
+          "link": "https://cryptopanic.com/news/17597081/BitMEX-Founder-Arthur-Hayes-Says-Altcoins-Could-Go-Vertical-in-Next-Bull-Frenzy-Heres-His-Outlook",
+          "publishedOn": "2023-02-09T15:30:03.000Z",
+          "wordCount": 534,
+          "title": "BitMEX Founder Arthur Hayes Says Altcoins Could Go ‘Vertical’ in Next Bull Frenzy – Here’s His Outlook",
+          "imageUrl": "https://dailyhodl.com/wp-content/uploads/2023/02/Altcoins-Could-Go-Vertical.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/17597107/What-Led-to-the-Recent-115-Oasis-Network-ROSE-Price-Hike",
+          "author": null,
+          "description": "If the Oasis Network (ROSE) price breaks out from $0.072, it could accelerate its rate of increase",
+          "link": "https://cryptopanic.com/news/17597107/What-Led-to-the-Recent-115-Oasis-Network-ROSE-Price-Hike",
+          "publishedOn": "2023-02-09T15:30:00.000Z",
+          "wordCount": 528,
+          "title": "What Led to the Recent 115% Oasis Network (ROSE) Price Hike?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/17597109/Binance-Recruits-Brussels-Lobbyist-as-EU-Develops-Crypto-Rules",
+          "author": null,
+          "description": "The leading crypto exchange is seeking to extend influence as the company extends its push into the increasingly regulated bloc",
+          "link": "https://cryptopanic.com/news/17597109/Binance-Recruits-Brussels-Lobbyist-as-EU-Develops-Crypto-Rules",
+          "publishedOn": "2023-02-09T15:26:22.000Z",
+          "wordCount": 526,
+          "title": "Binance Recruits Brussels Lobbyist as EU Develops Crypto Rules",
+          "imageUrl": "https://www.coindesk.com/resizer/2qndqMNckxCHN0k0UHsoAfKpCL8=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/BILCEQYBJBHZPOKY2W4EYLZHTE.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/17597110/Crypto-Payments-Firm-MoonPay-and-NFT-Marketplace-LooksRare-Ink-New-Partnership",
+          "author": null,
+          "description": "LooksRare users can now buy and sell cryptocurrencies through MoonPay, which will allow users to purchase NFTs with a credit card.",
+          "link": "https://cryptopanic.com/news/17597110/Crypto-Payments-Firm-MoonPay-and-NFT-Marketplace-LooksRare-Ink-New-Partnership",
+          "publishedOn": "2023-02-09T15:23:16.000Z",
+          "wordCount": 528,
+          "title": "Crypto Payments Firm MoonPay and NFT Marketplace LooksRare Ink New Partnership",
+          "imageUrl": "https://www.coindesk.com/resizer/nkMb4eLwt8M6LamgU9jd1_isH9c=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/MBFWO4GGM5AIZCN555OOPPQVSY.jpeg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/17597056/LidoDAO-Price-Prediction-as-LDO-Pumps-Up-14-in-7-Days-Here-are-Key-Levels-to-Watch",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/17597056/LidoDAO-Price-Prediction-as-LDO-Pumps-Up-14-in-7-Days-Here-are-Key-Levels-to-Watch",
+          "publishedOn": "2023-02-09T15:23:00.000Z",
+          "wordCount": null,
+          "title": "LidoDAO Price Prediction as LDO Pumps Up 14% in 7 Days – Here are Key Levels to Watch",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/17597052/Coinkite-Launches-Its-New-Flagship-Bitcoin-Hardware-Wallet-Coldcard-Q1",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/17597052/Coinkite-Launches-Its-New-Flagship-Bitcoin-Hardware-Wallet-Coldcard-Q1",
+          "publishedOn": "2023-02-09T15:20:39.000Z",
+          "wordCount": null,
+          "title": "Coinkite Launches Its New Flagship Bitcoin Hardware Wallet Coldcard Q1",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/17597023/AI-to-feature-prominently-in-the-crypto-user-experience-Nansen-CEO",
+          "author": null,
+          "description": "Nansen CEO Alex Svanevik tells Hashing It Out that he is bullish that artificial intelligence will play a major role in the future of the crypto industry.",
+          "link": "https://cryptopanic.com/news/17597023/AI-to-feature-prominently-in-the-crypto-user-experience-Nansen-CEO",
+          "publishedOn": "2023-02-09T15:18:47.000Z",
+          "wordCount": 529,
+          "title": "AI to feature prominently in the crypto user experience — Nansen CEO",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/17597024/Bitcoin-price-hits-2-week-low-amid-warning-225K-loss-means-fresh-dip",
+          "author": null,
+          "description": "Bitcoin may go “hard lower” if it fails to preserve the area around $22,500, market participants say.",
+          "link": "https://cryptopanic.com/news/17597024/Bitcoin-price-hits-2-week-low-amid-warning-225K-loss-means-fresh-dip",
+          "publishedOn": "2023-02-09T15:17:12.000Z",
+          "wordCount": 529,
+          "title": "Bitcoin price hits 2-week low amid warning $22.5K loss means fresh dip",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/17597025/Is-it-Too-Late-to-Buy-Ethereum-Crypto-Experts-Give-Their-ETH-Price-Predictions",
+          "author": null,
+          "description": "Ethereum (ETH) remains poised as bulls struggle to break hard resistance at $1,700. Currently trading at $1,640 - ETH continues to consolidate around the local support level at $1,650. Tightening Bollinger bands in late December set the stage for an impressive rally into 2023. As ETH continues...",
+          "link": "https://cryptopanic.com/news/17597025/Is-it-Too-Late-to-Buy-Ethereum-Crypto-Experts-Give-Their-ETH-Price-Predictions",
+          "publishedOn": "2023-02-09T15:15:00.000Z",
+          "wordCount": 531,
+          "title": "Is it Too Late to Buy Ethereum? Crypto Experts Give Their ETH Price Predictions",
+          "imageUrl": "https://v2.cimg.co/news/104493/256166/ethusd-overlay.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/17597026/Best-Crypto-to-Buy-Today-9-February-MEMAG-SAND-FGHT-NEAR-CCHG",
+          "author": null,
+          "description": "The cryptocurrency market is facing a dip so far Thursday, with many top coins experiencing losses as regulatory authorities increase their focus on the industry. Bitcoin, the leading cryptocurrency, faced a dip and briefly reached a four-week low of $22,408 before recovering to prices around...",
+          "link": "https://cryptopanic.com/news/17597026/Best-Crypto-to-Buy-Today-9-February-MEMAG-SAND-FGHT-NEAR-CCHG",
+          "publishedOn": "2023-02-09T15:15:00.000Z",
+          "wordCount": 530,
+          "title": "Best Crypto to Buy Today 9 February – MEMAG, SAND, FGHT, NEAR, CCHG",
+          "imageUrl": "https://v2.cimg.co/news/104511/256167/best-crypto-9feb.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/17597028/Ripple-Settlement-Rumors-Back-in-Spotlight-as-Fox-Business-Correspondent-Shares-Scoop",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/17597028/Ripple-Settlement-Rumors-Back-in-Spotlight-as-Fox-Business-Correspondent-Shares-Scoop",
+          "publishedOn": "2023-02-09T15:13:00.000Z",
+          "wordCount": null,
+          "title": "Ripple Settlement Rumors Back in Spotlight as Fox Business Correspondent Shares Scoop",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/17597083/Markets-Drop-Hard-How-Concerned-Should-You-Be",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/17597083/Markets-Drop-Hard-How-Concerned-Should-You-Be",
+          "publishedOn": "2023-02-09T15:12:42.000Z",
+          "wordCount": null,
+          "title": "Markets Drop Hard!!! How Concerned Should You Be?",
+          "imageUrl": null
+        },
+        {
           "id": "https://cryptopanic.com/news/17596988/Solidityio-CEO-Slams-SHIB-and-DOGE-Elon-Musk-and-SHIB-Lead-Dev-Post-Same-Symbol-on-Twitter-BONE-Gets-Listed-by-Huobi-Crypto-News-Digest-by-UToday",
           "author": null,
-          "description": "What happened in the world of crypto over the past day? Read U.Today’s news digest to find out!",
+          "description": "",
           "link": "https://cryptopanic.com/news/17596988/Solidityio-CEO-Slams-SHIB-and-DOGE-Elon-Musk-and-SHIB-Lead-Dev-Post-Same-Symbol-on-Twitter-BONE-Gets-Listed-by-Huobi-Crypto-News-Digest-by-UToday",
           "publishedOn": "2023-02-09T15:09:00.000Z",
-          "wordCount": 544,
+          "wordCount": null,
           "title": "Solidity.io CEO Slams SHIB and DOGE, Elon Musk and SHIB Lead Dev Post Same Symbol on Twitter, BONE Gets Listed by Huobi: Crypto News Digest by U.Today",
-          "imageUrl": "https://u.today/sites/default/files/styles/twitter/public/2023-02/30806.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/17596986/Bitcoin-slips-as-memecoins-lead-loses-GBTC-discount-to-NAV-widens",
-          "author": null,
-          "description": "Crypto prices slipped over the past 24 hours, with GBTC's discount reaching its lowest point since early January.",
-          "link": "https://cryptopanic.com/news/17596986/Bitcoin-slips-as-memecoins-lead-loses-GBTC-discount-to-NAV-widens",
-          "publishedOn": "2023-02-09T15:01:50.000Z",
-          "wordCount": 528,
-          "title": "Bitcoin slips as memecoins lead loses; GBTC discount to NAV widens",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2023/01/20221201_DailyAfternoonMarket-1200x675.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/17596987/Bitkraft-Fabric-Ventures-lead-65-million-round-into-web3-loyalty-platform",
-          "author": null,
-          "description": "The web3 platform enables brands to create loyalty programs that reward users in tokens for completing certain actions.",
-          "link": "https://cryptopanic.com/news/17596987/Bitkraft-Fabric-Ventures-lead-65-million-round-into-web3-loyalty-platform",
-          "publishedOn": "2023-02-09T15:00:17.000Z",
-          "wordCount": 528,
-          "title": "Bitkraft, Fabric Ventures lead $6.5 million round into web3 loyalty platform",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2023/01/20230131_Web3Accelerator-1200x675.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/17596976/Bitcoin-Explained-72-Inscriptions",
-          "author": null,
-          "description": "In this episode of Bitcoin, Explained, Aaron and Sjors explain Inscriptions, a new method to upload arbitrary data onto the Bitcoin blockchain.Episode Sponsor: https://voltage.cloud/Sjors New Book: https://www.amazon.com/Bitcoin-Technical-innovations-Sjors-Provoost/dp/9090360425Don't miss out on...",
-          "link": "https://cryptopanic.com/news/17596976/Bitcoin-Explained-72-Inscriptions",
-          "publishedOn": "2023-02-09T15:00:11.000Z",
-          "wordCount": 521,
-          "title": "Bitcoin, Explained 72: Inscriptions",
-          "imageUrl": "https://i3.ytimg.com/vi/Js-5PZi6Uow/hqdefault.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/17596949/CleanSparks-kicks-off-bitcoin-miner-earnings-with-revenue-expected-to-rise-13-Preview",
-          "author": null,
-          "description": "Revenue and net income for CleanSpark's quarter ending in December 2022 are estimated to improve over the previous period, but be below last year's numbers.",
-          "link": "https://cryptopanic.com/news/17596949/CleanSparks-kicks-off-bitcoin-miner-earnings-with-revenue-expected-to-rise-13-Preview",
-          "publishedOn": "2023-02-09T14:59:33.000Z",
-          "wordCount": 530,
-          "title": "CleanSparks kicks off bitcoin miner earnings with revenue expected to rise 13%: Preview",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2023/02/20220621_Bitcoin_Status_Report_News-1200x675-1.png"
-        },
-        {
-          "id": "https://cryptopanic.com/news/17596950/Polkadot-Parachain-Astar-Network-Jumps-24-After-Scoring-Major-Exchange-Listing-Details",
-          "author": null,
-          "description": "Astar Network is now listed on Upbit, gateway to onboard Korean users",
-          "link": "https://cryptopanic.com/news/17596950/Polkadot-Parachain-Astar-Network-Jumps-24-After-Scoring-Major-Exchange-Listing-Details",
-          "publishedOn": "2023-02-09T14:54:00.000Z",
-          "wordCount": 529,
-          "title": "Polkadot Parachain Astar Network Jumps 24% After Scoring Major Exchange Listing: Details",
-          "imageUrl": "https://u.today/sites/default/files/styles/twitter/public/2023-02/30802.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/17596945/AI-sets-Cardano-price-for-Valentines-Day-2023",
-          "author": null,
-          "description": "The Cardano (ADA) network’s latest upgrade is set to go live on the mainnet on February 14, Valentine’s Day; fittingly … Continued",
-          "link": "https://cryptopanic.com/news/17596945/AI-sets-Cardano-price-for-Valentines-Day-2023",
-          "publishedOn": "2023-02-09T14:51:43.000Z",
-          "wordCount": 525,
-          "title": "AI sets Cardano price for Valentine’s Day 2023",
-          "imageUrl": "https://finbold.com/app/uploads/2023/02/AI-sets-Cardano-price-for-Valentines-Day-2023-1.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/17596924/Ethereums-Shanghai-Upgrade-To-Raise-ETH-Staking-Average-And-Balloon-PoS-Validator-Count-Report",
-          "author": null,
-          "description": "Summary: JP Morgan analysts expect the ratio of staked Ether to move towards the 60% average on other Proof-of-Stake blockchains. The bank added that yield returns could dip while the number of validators on Ethereum should increase to over 2 million. JP Morgan also sees liquid staking protocols...",
-          "link": "https://cryptopanic.com/news/17596924/Ethereums-Shanghai-Upgrade-To-Raise-ETH-Staking-Average-And-Balloon-PoS-Validator-Count-Report",
-          "publishedOn": "2023-02-09T14:48:05.000Z",
-          "wordCount": 531,
-          "title": "Ethereum’s Shanghai Upgrade To Raise ETH Staking Average And Balloon PoS Validator Count: Report",
-          "imageUrl": "https://en.ethereumworldnews.com/wp-content/uploads/2022/09/The-Merge-Week-Less-Than-24-Hours-Till-Ethereums-PoS-Upgrade-How-Are-Crypto-Exchanges-Prepared.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/17596898/Bitfarms-pays-down-21-million-BlockFi-loan-with-775-million-in-cash",
-          "author": null,
-          "description": "Bitfarms extiguished $21 million in a loan from BlockFi by paying the lender $7.75 million in cash.",
-          "link": "https://cryptopanic.com/news/17596898/Bitfarms-pays-down-21-million-BlockFi-loan-with-775-million-in-cash",
-          "publishedOn": "2023-02-09T14:37:03.000Z",
-          "wordCount": 529,
-          "title": "Bitfarms pays down $21 million BlockFi loan with $7.75 million in cash",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2021/10/210930_Bitcoin_Funding_General-1200x675.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/17596891/Bitcoin-Activity-Hits-Highest-Since-May-2021-As-NFTs-Gain-Steam",
-          "author": null,
-          "description": "On-chain data shows that Bitcoin network activity is now at its highest level since May 2021 as Ordinals NFTs have been rapidly gaining popularity. CryptoQuant’s Bitcoin Network Activity Index Has Shot Up Recently As per data from the on-chain analytics firm CryptoQuant, the BTC network has seen...",
-          "link": "https://cryptopanic.com/news/17596891/Bitcoin-Activity-Hits-Highest-Since-May-2021-As-NFTs-Gain-Steam",
-          "publishedOn": "2023-02-09T14:30:56.000Z",
-          "wordCount": 528,
-          "title": "Bitcoin Activity Hits Highest Since May 2021 As NFTs Gain Steam",
-          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2023/02/jievani-weerasinghe-NHRM1u4GD_A-unsplash-980x601.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/17596889/Ripple-XRP-Price-Prediction-Can-We-Expect-Imminent-Movement",
-          "author": null,
-          "description": "Ripple (XRP) has had a dismal year so far. But as the court case with the SEC draws to a close, what is the outlook for price?",
-          "link": "https://cryptopanic.com/news/17596889/Ripple-XRP-Price-Prediction-Can-We-Expect-Imminent-Movement",
-          "publishedOn": "2023-02-09T14:30:00.000Z",
-          "wordCount": 526,
-          "title": "Ripple (XRP) Price Prediction: Can We Expect Imminent Movement?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/17596897/Biden-Administration-is-Quietly-Trying-to-Ban-Bitcoin-EP-673",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/17596897/Biden-Administration-is-Quietly-Trying-to-Ban-Bitcoin-EP-673",
-          "publishedOn": "2023-02-09T14:29:45.000Z",
-          "wordCount": null,
-          "title": "Biden Administration is Quietly Trying to Ban Bitcoin | EP 673",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/17596859/Cointelegraph-Top-100-of-2023-Heroes-and-villains-from-81-90-out-now",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/17596859/Cointelegraph-Top-100-of-2023-Heroes-and-villains-from-81-90-out-now",
-          "publishedOn": "2023-02-09T14:27:08.000Z",
-          "wordCount": null,
-          "title": "Cointelegraph Top 100 of 2023: Heroes and villains from 81-90 out now",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/17596863/Crypto-Exchange-Kraken-in-Hot-Water-with-SEC-Over-Alleged-Securities-Violation-Heres-What-You-Need-to-Know",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/17596863/Crypto-Exchange-Kraken-in-Hot-Water-with-SEC-Over-Alleged-Securities-Violation-Heres-What-You-Need-to-Know",
-          "publishedOn": "2023-02-09T14:25:00.000Z",
-          "wordCount": null,
-          "title": "Crypto Exchange Kraken in Hot Water with SEC Over Alleged Securities Violation – Here's What You Need to Know",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/17596850/Luna-Classic-Faces-Strong-Resistance-At-This-Level-Can-Bulls-Barrel-Through",
-          "author": null,
-          "description": "Altcoins in the crypto space have been seeing a lot of volatility lately as major cryptocurrencies Bitcoin and Ethereum face resistances which hindered their growth. Luna Classic, the revival attempt of the Terra Luna ecosystem, is one of those tokens that is facing losses in the short term. ...",
-          "link": "https://cryptopanic.com/news/17596850/Luna-Classic-Faces-Strong-Resistance-At-This-Level-Can-Bulls-Barrel-Through",
-          "publishedOn": "2023-02-09T14:14:52.000Z",
-          "wordCount": 530,
-          "title": "Luna Classic Faces Strong Resistance At This Level – Can Bulls Barrel Through?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/17596820/Bitcoins-Death-Cross-Looms-on-Weekly-Chart-as-BTC-Price-Falls-Below-23K",
-          "author": null,
-          "description": "Bitcoin (BTC) has never seen death cross on its weekly chart before",
-          "link": "https://cryptopanic.com/news/17596820/Bitcoins-Death-Cross-Looms-on-Weekly-Chart-as-BTC-Price-Falls-Below-23K",
-          "publishedOn": "2023-02-09T14:05:00.000Z",
-          "wordCount": 530,
-          "title": "Bitcoin's Death Cross Looms on Weekly Chart as BTC Price Falls Below $23K",
-          "imageUrl": "https://u.today/sites/default/files/styles/twitter/public/2023-02/30800.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/17596806/Crypto-and-securities-New-interpretation-of-US-Howey-test-gaining-ground",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/17596806/Crypto-and-securities-New-interpretation-of-US-Howey-test-gaining-ground",
-          "publishedOn": "2023-02-09T14:01:00.000Z",
-          "wordCount": null,
-          "title": "Crypto and securities: New interpretation of US Howey test gaining ground",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/17596818/Web3-music-platform-Vault-raises-4-million-Series-A-led-by-Placeholder-VC",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/17596818/Web3-music-platform-Vault-raises-4-million-Series-A-led-by-Placeholder-VC",
-          "publishedOn": "2023-02-09T14:00:22.000Z",
-          "wordCount": null,
-          "title": "Web3 music platform Vault raises $4 million Series A led by Placeholder VC",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/17596819/Aaves-GHO-stablecoin-goes-live-on-Ethereums-Goerli-testnet",
-          "author": null,
-          "description": "DeFi lender Aave’s planned stablecoin project GHO is now live for testing on Goerli, an Ethereum testnet environment.",
-          "link": "https://cryptopanic.com/news/17596819/Aaves-GHO-stablecoin-goes-live-on-Ethereums-Goerli-testnet",
-          "publishedOn": "2023-02-09T14:00:16.000Z",
-          "wordCount": 526,
-          "title": "Aave’s GHO stablecoin goes live on Ethereum’s Goerli testnet",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2023/01/20230123_AaveV3_Research-1200x675.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/17596744/First-Ever-Layer-2-Coming-to-Cosmos-ATOM",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/17596744/First-Ever-Layer-2-Coming-to-Cosmos-ATOM",
-          "publishedOn": "2023-02-09T14:00:08.000Z",
-          "wordCount": null,
-          "title": "First Ever Layer-2 Coming to Cosmos (ATOM)",
           "imageUrl": null
         }
       ]
@@ -969,6 +969,16 @@
       "feedUrl": "https://message-rss.vercel.app/rekt/news",
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
+        {
+          "id": "https://decrypt.co/120933/localbitcoins-shut-down-10-years-operation",
+          "author": null,
+          "description": "LocalBitcoins to Shut Down After 10 Years of Operation - Decrypt",
+          "link": "https://decrypt.co/120933/localbitcoins-shut-down-10-years-operation",
+          "publishedOn": "2023-02-09T15:30:05.000Z",
+          "wordCount": 6828,
+          "title": "LocalBitcoins to Shut Down After 10 Years of Operation - Decrypt",
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/07/localbitcoins-bitcoin-exchange-revenues-gID_6.jpg@png"
+        },
         {
           "id": "https://localbitcoins.com/service_closure/",
           "author": null,
@@ -985,19 +995,19 @@
           "description": "Tether reports $700 million Q4 net profit in latest attestation report",
           "link": "https://www.theblock.co/post/210023/tether-reports-700-million-q4-net-profit-in-latest-attestation-report?utm_source=twitter&utm_medium=social",
           "publishedOn": "2023-02-09T14:00:04.000Z",
-          "wordCount": 62688,
+          "wordCount": 62687,
           "title": "Tether reports $700 million Q4 net profit in latest attestation report",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2020/09/20200914_Tether-1200x675.jpg"
         },
         {
-          "id": "https://storage.courtlistener.com/recap/gov.uscourts.wawd.312176/gov.uscourts.wawd.312176.33.0.pdf",
+          "id": "https://github.com/lambdaclass/starknet_in_rust",
           "author": null,
-          "description": "[PDF] gov.uscourts.wawd.312176.33.0.pdf",
-          "link": "https://storage.courtlistener.com/recap/gov.uscourts.wawd.312176/gov.uscourts.wawd.312176.33.0.pdf",
-          "publishedOn": "2023-02-09T14:00:04.000Z",
-          "wordCount": 9884,
-          "title": "[PDF] gov.uscourts.wawd.312176.33.0.pdf",
-          "imageUrl": null
+          "description": "GitHub - lambdaclass/starknet_in_rust: A Rust implementation of StarkNet",
+          "link": "https://github.com/lambdaclass/starknet_in_rust",
+          "publishedOn": "2023-02-09T11:30:03.000Z",
+          "wordCount": 864,
+          "title": "GitHub - lambdaclass/starknet_in_rust: A Rust implementation of StarkNet",
+          "imageUrl": "https://opengraph.githubassets.com/905663ceb5a6d6e9924050cf8fa440a40990e140430a1cd96e870e600f3df888/lambdaclass/starknet_in_rust"
         },
         {
           "id": "https://www.ft.com/content/6e912f25-f1b7-4b19-b370-007fbc867246?shareType=nongift",
@@ -1005,18 +1015,8 @@
           "description": "‘Sam? Are you there?!’ The bizarre and brutal final hours of FTX",
           "link": "https://www.ft.com/content/6e912f25-f1b7-4b19-b370-007fbc867246?shareType=nongift",
           "publishedOn": "2023-02-09T10:00:03.000Z",
-          "wordCount": 1674,
+          "wordCount": 1678,
           "title": "‘Sam? Are you there?!’ The bizarre and brutal final hours of FTX",
-          "imageUrl": null
-        },
-        {
-          "id": "https://nexustracker.io/",
-          "author": null,
-          "description": "Nexus Mutual Tracker",
-          "link": "https://nexustracker.io/",
-          "publishedOn": "2023-02-09T09:00:03.000Z",
-          "wordCount": 111,
-          "title": "Nexus Mutual Tracker",
           "imageUrl": null
         },
         {
@@ -1045,7 +1045,7 @@
           "description": "Operation Choke Point 2.0 Is Underway, And Crypto Is In Its Crosshairs",
           "link": "https://www.piratewires.com/p/crypto-choke-point",
           "publishedOn": "2023-02-09T02:00:03.000Z",
-          "wordCount": 6804,
+          "wordCount": 6795,
           "title": "Operation Choke Point 2.0 Is Underway, And Crypto Is In Its Crosshairs",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbfcda76c-f42e-4b51-b0f6-cdc554be501d_1678x1248.png"
         },
@@ -1055,7 +1055,7 @@
           "description": "Twitter Places Limits on Tweet Frequency, Impacting Business and Individual Accounts",
           "link": "https://www.hollywoodreporter.com/business/digital/twitter-limits-tweet-frequency-1235320995/",
           "publishedOn": "2023-02-09T01:30:05.000Z",
-          "wordCount": 7761,
+          "wordCount": 7777,
           "title": "Twitter Places Limits on Tweet Frequency, Impacting Business and Individual Accounts",
           "imageUrl": "https://www.hollywoodreporter.com/wp-content/uploads/2023/02/Elon-Musk-Shareholder-Lawsuit-GettyImages-1459166552-H-2023.jpg?w=1024"
         },
@@ -1100,12 +1100,22 @@
           "imageUrl": "https://a16zcrypto.com/wp-content/uploads/2023/02/EddyLazzarin-1.png"
         },
         {
+          "id": "https://panteracapital.com/blockchain-letter/the-seventh-bull-cycle/",
+          "author": null,
+          "description": "The Seventh Bull Cycle | Pantera",
+          "link": "https://panteracapital.com/blockchain-letter/the-seventh-bull-cycle/",
+          "publishedOn": "2023-02-08T21:30:03.000Z",
+          "wordCount": 5869,
+          "title": "The Seventh Bull Cycle | Pantera",
+          "imageUrl": "https://panteracapital.com/wp-content/uploads/2021/04/PANTERA_WEB_LOGOTYPE_LIGHT_ON_DARK-1.jpg"
+        },
+        {
           "id": "https://blockworks.co/news/crypto-poses-key-risks-to-banks-but-carry-on",
           "author": null,
           "description": "The Fed: Crypto Poses ‘Key Risks’ to Banks, but Carry On",
           "link": "https://blockworks.co/news/crypto-poses-key-risks-to-banks-but-carry-on",
           "publishedOn": "2023-02-08T21:00:02.000Z",
-          "wordCount": 21110,
+          "wordCount": 22247,
           "title": "The Fed: Crypto Poses ‘Key Risks’ to Banks, but Carry On",
           "imageUrl": "https://cms.blockworks.co/wp-content/uploads/2023/01/federal-reserve-seal.jpg"
         },
@@ -1115,9 +1125,9 @@
           "description": "The Quest Protocol",
           "link": "https://rabbithole.mirror.xyz/if-RUkC4DVTV4GwE_-XS3gwc3bUy2fGUBCcth97pAg0",
           "publishedOn": "2023-02-08T21:00:02.000Z",
-          "wordCount": null,
+          "wordCount": 2147,
           "title": "The Quest Protocol",
-          "imageUrl": null
+          "imageUrl": "https://mirror-media.imgix.net/publication-images/nnSPSQdiA86HA4g1GZ0Pu.png?height=600&width=1200&h=600&w=1200&auto=compress"
         },
         {
           "id": "https://www.codastory.com/authoritarian-tech/cashless-governments-control/",
@@ -1138,16 +1148,6 @@
           "wordCount": 11428,
           "title": "How America Took Out The Nord Stream Pipeline",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcc9e6ade-209c-40c7-9645-a2bf0e4cd3eb_2904x1932.png"
-        },
-        {
-          "id": "https://medium.com/collab-currency/storing-value-in-digital-objects-a92f54fa98cc",
-          "author": null,
-          "description": "Storing Value in Digital Objects",
-          "link": "https://medium.com/collab-currency/storing-value-in-digital-objects-a92f54fa98cc",
-          "publishedOn": "2023-02-08T17:00:03.000Z",
-          "wordCount": 8980,
-          "title": "Storing Value in Digital Objects",
-          "imageUrl": "https://miro.medium.com/max/1200/1*pcTYm-Wy536atAqE9e5HBg.jpeg"
         },
         {
           "id": "https://pleasr.house/",
@@ -1177,12 +1177,87 @@
       "siteUrl": "https://www.inoreader.com/stream/user/1005336866/tag/%E6%B5%B7%E5%A4%96%E5%8A%A0%E5%AF%86%E8%B5%84%E8%AE%AF/view/html",
       "articles": [
         {
+          "id": "http://www.inoreader.com/article/3a9c6e75c89b794a",
+          "author": "Eli Dambell",
+          "description": "One of the U.S. and Brazil’s biggest Bitcoin ATM operators, Coin Cloud, filed for Chapter 11 Bankruptcy on Thursday, January 8, after the firm received a severe blow from the crypto winter and the FTX implosion, which left it with millions of dollars in liabilities.\n \nCoin Cloud owes about 10,000 creditors but has between $50 million and $100 million in assets, far below its debts. This imbalance in assets and liabilities has led the firm to take the bankruptcy option. At press time, Coin Cloud has nearly $500 million in liabilities, with the chief cause being its exposure to FTX through Genesis Global Trading. \n \nThe Genesis of Coin Cloud Ordeal\n \nThe firm was doing well as one of the largest digital currencies machine operators in the U.S., with over 1100 Bitcoin ATMs worldwide. As the c…",
+          "link": "https://bitcoinist.com/coin-cloud-files-for-bankruptcy-after-battling-ftx-contagion/",
+          "publishedOn": "2023-02-09T16:20:43.000Z",
+          "wordCount": 4899,
+          "title": "Coin Cloud Files For Bankruptcy After Battling FTX Contagion",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/jpeg",
+            "url": "https://bitcoinist.com/wp-content/uploads/2023/02/atm-gbe3cc4247_1280-630x420.jpg"
+          },
+          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2023/02/atm-gbe3cc4247_1280-630x420.jpg"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e75c882d0d7",
+          "author": "Jack Schickler",
+          "description": "The leading crypto exchange is seeking to extend influence as the company extends its push into the increasingly regulated bloc",
+          "link": "https://www.coindesk.com/policy/2023/02/09/binance-recruits-brussels-lobbyist-as-eu-develops-crypto-rules/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2023-02-09T15:35:19.000Z",
+          "wordCount": 6932,
+          "title": "Binance Recruits Brussels Lobbyist as EU Develops Crypto Rules",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/jpeg",
+            "url": "https://www.coindesk.com/resizer/P46LVrdcboeJ4zvqWhM7JAL5SRY=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/BILCEQYBJBHZPOKY2W4EYLZHTE.jpg"
+          },
+          "imageUrl": "https://www.coindesk.com/resizer/P46LVrdcboeJ4zvqWhM7JAL5SRY=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/BILCEQYBJBHZPOKY2W4EYLZHTE.jpg"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e75c882d0be",
+          "author": "Cam Thompson",
+          "description": "LooksRare users can now buy and sell cryptocurrencies through MoonPay, which will allow users to purchase NFTs with a credit card.",
+          "link": "https://www.coindesk.com/web3/2023/02/09/crypto-payments-firm-moonpay-and-nft-marketplace-looksrare-ink-new-partnership/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2023-02-09T15:35:19.000Z",
+          "wordCount": 6444,
+          "title": "Crypto Payments Firm MoonPay and NFT Marketplace LooksRare Ink New Partnership",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/jpeg",
+            "url": "https://www.coindesk.com/resizer/dSaQHjnXxSPVytW-awef4MK8oV4=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/MBFWO4GGM5AIZCN555OOPPQVSY.jpeg"
+          },
+          "imageUrl": "https://www.coindesk.com/resizer/dSaQHjnXxSPVytW-awef4MK8oV4=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/MBFWO4GGM5AIZCN555OOPPQVSY.jpeg"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e75c8835c8d",
+          "author": "Samuel Edyme",
+          "description": "In the early hours of Thursday, Bitcoin (BTC) the largest cryptocurrency by market cap, sank to a four-week low.  The crypto asset slipped below its hovering $23,000 price range to as low as $22,408 before climbing back to its current price.\n \nRegulators Pestering The Industry?\n \nBitcoin’s slump below its $23,000 range is due to the ongoing crypto regulation rumors circulating in the industry. On Wednesday, Bloomberg reported that a top U.S. financial regulator is currently investigating crypto exchange Kraken over a suggestion that it breaking security rules related to certain offerings to U.S. customers.\n \nBloomberg further noted citing a person with knowledge of the matter that the investigation is at an advanced stage and could result in a settlement within the coming days.\n \nHours aft…",
+          "link": "https://bitcoinist.com/bitcoin-btc-slips-below-23000-as-crypto-regulation/",
+          "publishedOn": "2023-02-09T15:31:48.000Z",
+          "wordCount": 4782,
+          "title": "Bitcoin (BTC) Slips Below $23,000 As Crypto Regulation Rumors Spread",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/jpeg",
+            "url": "https://bitcoinist.com/wp-content/uploads/2023/02/Bitcoin.jpg"
+          },
+          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2023/02/Bitcoin.jpg"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e75c88c370f",
+          "author": "Namcios",
+          "description": "The new COLDCARD improves upon the Mk4 by adding a QWERTY keyboard, a big LCD screen, and a QR code scanner.\nBitcoin hardware company Coinkite is launching a new higher-end COLDCARD, featuring a full QWERTY keyboard, a larger LCD screen and a QR code scanner. The COLDCARD Q1 will also be battery-powered, removing the need for connecting the device to a power outlet or a computer.\n\"We always wanted to make a QWERTY device for fast passphrase input with battery power,\" Coinkite founder NVK told Bitcoin Magazine. \"We've been toying with the QR idea for years, and we finally found a secure way of doing QR scanners. I'm very excited about this, we think this is the ultimate hardware wallet.\"\n \n         \n         \n         \n         \n    \nThe COLDCARD Q1 resembles the historic BlackBerry. A gray…",
+          "link": "https://bitcoinmagazine.com/business/coinkite-new-bitcoin-wallet-coldcard-q1",
+          "publishedOn": "2023-02-09T15:26:37.000Z",
+          "wordCount": null,
+          "title": "Coinkite Launches Its New Flagship Bitcoin Hardware Wallet Coldcard Q1",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/png",
+            "url": "https://bitcoinmagazine.com/.image/c_fit,cs_srgb,q_auto:good,w_620/MTk1NzYyMTQyNDI5OTE0Nzcy/img_7544.png"
+          },
+          "imageUrl": "https://bitcoinmagazine.com/.image/c_fit,cs_srgb,q_auto:good,w_620/MTk1NzYyMTQyNDI5OTE0Nzcy/img_7544.png"
+        },
+        {
           "id": "http://www.inoreader.com/article/3a9c6e75c8882b43",
           "author": "Jamie Redman",
           "description": "Localbitcoins, the Helsinki, Finland-based bitcoin exchange founded in 2012, is closing operations after over a decade of service. The company’s operators attribute the shutdown to the “ongoing crypto-winter,” which has left them unable to continue offering their bitcoin trading services.\n \nThe Challenges Faced by Localbitcoins and its Ultimate Demise in the Crypto Market\n \nThe first peer-to-peer (P2P) bitcoin exchange, Localbitcoins, is ending operations after over ten years in the business. The exchange announced the news on its website, stating that new sign-ups will be suspended as of Feb. 9, 2023, and trading will be suspended seven days later, on Feb. 16. Following the suspension of trading, Localbitcoins users will only be able to withdraw their bitcoins and have 12 months to do so.…",
           "link": "https://news.bitcoin.com/localbitcoins-the-pioneer-p2p-bitcoin-exchange-shuts-down-after-a-decade-of-service-due-to-crypto-winter/",
           "publishedOn": "2023-02-09T15:01:38.000Z",
-          "wordCount": 3453,
+          "wordCount": 3444,
           "title": "Localbitcoins, the Pioneer P2P Bitcoin Exchange, Shuts Down After a Decade of Service Due to Crypto Winter",
           "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2023/02/sunset.jpg"
         },
@@ -1207,7 +1282,7 @@
           "description": "Aave’s GHO is set to join a fierce competition as rival DeFi protocols also issue or are moving to release their own protocol-native stablecoins.",
           "link": "https://www.coindesk.com/tech/2023/02/09/aave-deploys-native-stablecoin-gho-on-ethereum-testnet/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-02-09T14:04:10.000Z",
-          "wordCount": 7198,
+          "wordCount": 7439,
           "title": "Aave Deploys Native Stablecoin GHO on Ethereum Testnet",
           "enclosure": {
             "length": "1337",
@@ -1262,7 +1337,7 @@
           "description": "After the infamous drug market Hydra was shut down last year, competitors quickly occupied its place.",
           "link": "https://www.coindesk.com/consensus-magazine/2023/02/09/darknet-revenues-fell-after-hydras-shutdown-chainalysis/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-02-09T13:34:30.000Z",
-          "wordCount": 7052,
+          "wordCount": 7168,
           "title": "Darknet Revenues Fell After Hydra’s Shutdown: Chainalysis",
           "enclosure": {
             "length": "1337",
@@ -1277,7 +1352,7 @@
           "description": "Developer activity and adoption is the key to success, the report said.",
           "link": "https://www.coindesk.com/business/2023/02/09/bank-of-america-innovation-to-expand-decentralized-finance-functionality-over-time/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-02-09T13:24:03.000Z",
-          "wordCount": 6688,
+          "wordCount": 6821,
           "title": "Bank of America: Innovation to Expand Decentralized Finance Functionality Over Time",
           "enclosure": {
             "length": "1337",
@@ -1292,7 +1367,7 @@
           "description": "The Finnish exchange is set to close this month as it reacts to the \"ongoing very cold crypto winter.\"",
           "link": "https://www.coindesk.com/business/2023/02/09/bitcoin-exchange-localbitcoins-to-close-citing-market-conditions/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-02-09T13:13:15.000Z",
-          "wordCount": 6643,
+          "wordCount": 7161,
           "title": "Bitcoin Exchange LocalBitcoins to Close, Citing Market Conditions",
           "enclosure": {
             "length": "1337",
@@ -1307,7 +1382,7 @@
           "description": "The latest price moves in bitcoin (BTC) and crypto markets in context for Feb. 9 2023. First Mover is CoinDesk’s daily newsletter that contextualizes the latest actions in the crypto markets.",
           "link": "https://www.coindesk.com/markets/2023/02/09/first-mover-americas-the-sandbox-is-up-on-saudi-arabia-partnership-news/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-02-09T13:13:15.000Z",
-          "wordCount": 7326,
+          "wordCount": 7463,
           "title": "First Mover Americas: Coinbase CEO Brian Armstrong Suggests SEC Could Ban Staking",
           "enclosure": {
             "length": "1337",
@@ -1322,7 +1397,7 @@
           "description": "Silicon Valley investment firm Foundation Capital led the funding round.",
           "link": "https://www.coindesk.com/business/2023/02/09/crypto-protection-firm-coincover-raises-30m/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-02-09T13:13:15.000Z",
-          "wordCount": 6599,
+          "wordCount": 6740,
           "title": "Crypto Protection Firm Coincover Raises $30M",
           "enclosure": {
             "length": "1337",
@@ -1337,7 +1412,7 @@
           "description": "The miner had recently warned it might stop paying off the debt to BlockFi.",
           "link": "https://www.coindesk.com/business/2023/02/09/bankrupt-crypto-lender-blockfi-takes-two-thirds-haircut-to-settle-bitcoin-miner-bitfarms-debt/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-02-09T13:13:15.000Z",
-          "wordCount": 6556,
+          "wordCount": 6697,
           "title": "Bankrupt Crypto Lender BlockFi Takes Two-Thirds Haircut to Settle Bitcoin Miner Bitfarms' Debt",
           "enclosure": {
             "length": "1337",
@@ -1382,79 +1457,9 @@
           "description": "Rosbank has brokered Russia’s first deal involving the exchange of tokenized gold with the digital version of the Russian national fiat currency, the ruble. The successful transaction demonstrates the growing interest in digital financial assets and the need for digital ruble payments, the banking institution stated.\n \nRosbank and Atomyze Exchange Gold and Rubles in Digital Form\n \nMoscow-headquartered Rosbank has facilitated the purchase of digital gold with central bank digital currency (CBDC). The operation was carried out on the blockchain platform created by Atomyze, one of several issuers of digital financial assets (DFAs) authorized by the Bank of Russia.\n \nAccording to a press release published by the bank, this is the first transaction of this kind in the Russian Federation, employ…",
           "link": "https://news.bitcoin.com/digital-gold-traded-for-digital-rubles-by-russias-rosbank/",
           "publishedOn": "2023-02-09T12:31:58.000Z",
-          "wordCount": 3343,
+          "wordCount": 3368,
           "title": "Digital Gold Traded for Digital Rubles by Russia’s Rosbank",
           "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2023/02/shutterstock_787810210.jpg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e75c863b29f",
-          "author": "Bitcoin.com",
-          "description": "Bitcoin.com is excited to announce that Verse Farms are live on the Verse DEX. Anyone can now deposit select Liquidity Pool (LP) tokens into Verse Farms to earn additional rewards on top of the trading fees already earned for providing liquidity.\n \nThe first Verse Farm is for the VERSE/ETH pool with a starting APY of ~80%. More Farms will be added soon.\n \n“Yield farming for VERSE tokens helps grow liquidity on the Verse DEX, which improves the trading experience on this important piece of decentralized infrastructure,” said Bitcoin.com CEO Dennis Jarvis. “This is a critical early step towards providing VERSE with broad utility in the Bitcoin.com ecosystem.”\n \nVERSE, which launched in December 2022, is Bitcoin.com’s rewards and utility token. VERSE is fueling the growth and expansion of Bitcoin.com’s ecosystem, which includes over 37 million self-custody wallets created in its multi-chain DeFi-ready mobile app, the Bitcoin.com Wallet. The ecosystem also includes the award-winning Bitcoin.com News portal with over 2.5 million monthly readers.\n \nThe VERSE token’s utility will include unlocking rewards along tiers, method of payment in the Bitcoin.com ecosystem and beyond, access to exclusive platform services, and more. Ultimately VERSE will help expand access to decentralized finance, enabling more people to benefit from the economic freedom and democratized finance it unlocks.\n \nVisit https://verse.bitcoin.com/farms to deposit LP tokens and start earning ~80% APY.\n \nVERSE tokens are utility tokens designed for use on Bitcoin.com. VERSE tokens are not shares, bonds, units in a collective investment scheme, securities, or other instruments commonly known as securities of any type. VERSE tokens are not being offered for sale to U.S. persons and are not available for purchase in the United States, Japan, or any other as may be specified by Bitcoin.com, from time to time.",
-          "link": "https://news.bitcoin.com/yield-farming-is-live-on-bitcoin%E2%80%A4coms-verse-dex-with-80-apy/",
-          "publishedOn": "2023-02-09T12:10:27.000Z",
-          "wordCount": 2957,
-          "title": "Yield farming is live on Bitcoin․com’s Verse DEX with ~80% APY",
-          "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2023/02/farms-live-news2x.png"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e75c86ce8b9",
-          "author": "Jake Simmons",
-          "description": "FOX Business journalist Eleanor Terrett revealed an explosive leak in a tweet yesterday at 10 pm EST, which could affect the entire crypto industry or allegedly Ripple and its legal battle with the U.S. Securities and Exchange Commission (SEC).\n \nTerrett wrote that she learned from an anonymous source close to the SEC that the U.S. agency will make a big announcement for the crypto industry tomorrow. The journalist speculates that the announcement could come after 2 pm EST, as the SEC is holding a closed meeting at that time:\n \n\nMy SEC sources tell me to be prepared for a potentially big announcement tomorrow. Could it have something to do with a Kraken settlement following a closed meeting at 2pm? Could settlement terms have industry ramifications? We’ll see.\n \nTerrett’s tweet has sparked…",
-          "link": "https://bitcoinist.com/sec-major-announcement-today-ripple/",
-          "publishedOn": "2023-02-09T12:03:06.000Z",
-          "wordCount": 4750,
-          "title": "Leak Reveals SEC Will Make Major Announcement Today, Ripple Settlement?",
-          "enclosure": {
-            "length": "1337",
-            "type": "image/jpeg",
-            "url": "https://bitcoinist.com/wp-content/uploads/2023/02/securities-and-exchange-7232757_1920-630x420.jpg"
-          },
-          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2023/02/securities-and-exchange-7232757_1920-630x420.jpg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e75c86841bb",
-          "author": "Oliver Knight",
-          "description": "MakerDAO, the DeFi organization that facilitates the generation of the DAI stablecoin, is releasing Spark Protocol – a lending platform that will rival Aave.",
-          "link": "https://www.coindesk.com/business/2023/02/09/defi-giant-makerdao-to-introduce-aave-rival-dubbed-spark-protocol/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-          "publishedOn": "2023-02-09T11:41:40.000Z",
-          "wordCount": 6734,
-          "title": "DeFi Giant MakerDAO to Introduce Aave Rival Dubbed Spark Protocol",
-          "enclosure": {
-            "length": "1337",
-            "type": "image/jpeg",
-            "url": "https://www.coindesk.com/resizer/DeqRm6PG2LqRKIPI9EsJtEYQm9k=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/26NE3DWOJZAKHGVBA3MHUDYHXM.jpeg"
-          },
-          "imageUrl": "https://www.coindesk.com/resizer/DeqRm6PG2LqRKIPI9EsJtEYQm9k=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/26NE3DWOJZAKHGVBA3MHUDYHXM.jpeg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e75c86841a4",
-          "author": "Jamie Crawley",
-          "description": "Tether's assets as of Dec. 31 stood at $67 billion, with liabilities of $66 billion, almost all of which relates to digital tokens issued.",
-          "link": "https://www.coindesk.com/business/2023/02/09/stablecoin-issuer-tether-reports-700m-profit-for-q4-2022/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-          "publishedOn": "2023-02-09T11:41:40.000Z",
-          "wordCount": 6706,
-          "title": "Stablecoin Issuer Tether Reports $700M Profit for Q4 2022",
-          "enclosure": {
-            "length": "1337",
-            "type": "image/jpeg",
-            "url": "https://www.coindesk.com/resizer/d3VpLNbNuDAVO4nSVmbD0bPNLHo=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/YAL4FFDFI5EM5EBFHVJ56LI7T4.jpg"
-          },
-          "imageUrl": "https://www.coindesk.com/resizer/d3VpLNbNuDAVO4nSVmbD0bPNLHo=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/YAL4FFDFI5EM5EBFHVJ56LI7T4.jpg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e75c8699372",
-          "author": "Shaurya Malwa",
-          "description": "The move followed on the back of Umami making changes to how its value accrual token worked.",
-          "link": "https://www.coindesk.com/web3/2023/02/09/umami-finance-ceo-dumps-all-tokens-after-week-long-drama-leaving-crypto-hopefuls-stranded/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-          "publishedOn": "2023-02-09T11:32:24.000Z",
-          "wordCount": 7074,
-          "title": "Umami Finance CEO Dumps All Tokens After Week-Long Drama, Leaving Crypto Hopefuls Stranded",
-          "enclosure": {
-            "length": "1337",
-            "type": "image/png",
-            "url": "https://www.coindesk.com/resizer/5B-IfU8hXIZcsy1hvoQ_vPvcEFA=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/Z2MV4DPWPZHUJPBRP7U3EOCAUQ.png"
-          },
-          "imageUrl": "https://www.coindesk.com/resizer/5B-IfU8hXIZcsy1hvoQ_vPvcEFA=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/Z2MV4DPWPZHUJPBRP7U3EOCAUQ.png"
         }
       ]
     }

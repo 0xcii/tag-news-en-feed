@@ -6,6 +6,21 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=121162",
+          "author": "Kade Garrett",
+          "description": "DeFi is a continually growing sector within finance. We break down the positives and negatives of this alternative blockchain-based economic ecosystem.",
+          "link": "https://decrypt.co/resources/what-are-the-pros-and-cons-of-defi-learn",
+          "publishedOn": "2023-02-13T09:30:58.000Z",
+          "wordCount": 10453,
+          "title": "What Are the Pros and Cons of DeFi?",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/01/metaverse-generic-gID_2-pID_5.png@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/01/metaverse-generic-gID_2-pID_5.png@png"
+        },
+        {
           "id": "https://decrypt.co/?p=121152",
           "author": "Andrew Hayward",
           "description": "Some viewers say the QR code pointed them to Twitter instead of the mint site, but those who claimed the free NFTs are making bank.",
@@ -101,7 +116,7 @@
           "description": "Kraken’s settlement with the SEC over its staking-as-a-service product has put other exchanges on notice—but it may be a boon for decentralized alternatives.",
           "link": "https://decrypt.co/121107/kraken-sec-crackdown-means-ethereum-crypto-staking",
           "publishedOn": "2023-02-10T23:39:14.000Z",
-          "wordCount": 8086,
+          "wordCount": 8118,
           "title": "What the Kraken Crackdown Means for Ethereum Staking",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/05/lido-finance-tokens-defi-ai-gID_1.jpg@png",
@@ -322,7 +337,7 @@
         },
         {
           "id": "https://decrypt.co/?p=121024",
-          "author": "Euny Hong",
+          "author": "Nathan Reiff",
           "description": "DeFi protocols are autonomous programs encoded into smart contracts either on Ethereum or a similar blockchain ecosystem.",
           "link": "https://decrypt.co/resources/what-are-some-important-defi-protocols",
           "publishedOn": "2023-02-10T08:33:42.000Z",
@@ -591,21 +606,6 @@
           "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/07/localbitcoins-bitcoin-exchange-revenues-gID_6.jpg@png"
         },
         {
-          "id": "https://decrypt.co/?p=120930",
-          "author": "Will McCurdy",
-          "description": "Coin Cloud’s bankruptcy filing comes as the once booming crypto ATM industry has found its growth significantly slowed.",
-          "link": "https://decrypt.co/120930/crypto-atm-provider-coin-cloud-files-chapter-11-bankruptcy",
-          "publishedOn": "2023-02-09T12:11:39.000Z",
-          "wordCount": 7030,
-          "title": "Crypto ATM Provider Coin Cloud Files for Chapter 11 Bankruptcy",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/07/crypto-bankruptcy-gID_1.jpeg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/07/crypto-bankruptcy-gID_1.jpeg@png"
-        },
-        {
           "id": "https://decrypt.co/videos/interviews/taYx1lPU/bill-murray-discusses-nft-project-first-members-only-event",
           "author": null,
           "description": "Comedic legend Bill Murray sits down with Decrypt at his first exclusive party for NFT holders in Oceanside, California. He describes the project’s origins and why it didn’t feel “mercenary” for him to create an NFT-based membership club.",
@@ -763,6 +763,156 @@
       "siteUrl": "https://cryptopanic.com/",
       "articles": [
         {
+          "id": "https://cryptopanic.com/news/17625910/102-Million-Shiba-Inu-SHIB-Burned-as-Shibarium-Release-Date-Becomes-Enigma-Again",
+          "author": null,
+          "description": "Amount of Shiba Inu removed over past week leaves a lot to be desired, as does SHIB price",
+          "link": "https://cryptopanic.com/news/17625910/102-Million-Shiba-Inu-SHIB-Burned-as-Shibarium-Release-Date-Becomes-Enigma-Again",
+          "publishedOn": "2023-02-13T10:02:00.000Z",
+          "wordCount": 530,
+          "title": "102 Million Shiba Inu (SHIB) Burned as Shibarium Release Date Becomes Enigma Again",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/17625887/This-OG-Bitcoin-Developer-Claims-BTC-Market-Cap-Could-Reach-200-Trillion-in-9-Years",
+          "author": null,
+          "description": "Blockstream CEO Adam Back took to Twitter to claim that Bitcoin could hit a $200 trillion market cap in about 9 years.",
+          "link": "https://cryptopanic.com/news/17625887/This-OG-Bitcoin-Developer-Claims-BTC-Market-Cap-Could-Reach-200-Trillion-in-9-Years",
+          "publishedOn": "2023-02-13T10:01:03.000Z",
+          "wordCount": 532,
+          "title": "This OG Bitcoin Developer Claims BTC Market Cap Could Reach $200 Trillion in 9 Years",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/17625909/NFT-legend-Punk6529-NFTs-are-a-bad-investment-with-breathtaking-volatility",
+          "author": null,
+          "description": "Crypto thought leader Punk6529 weighs in on NFTs, calling them \"cultural objects\" that mostly will not maintain long-term financial value.",
+          "link": "https://cryptopanic.com/news/17625909/NFT-legend-Punk6529-NFTs-are-a-bad-investment-with-breathtaking-volatility",
+          "publishedOn": "2023-02-13T10:00:21.000Z",
+          "wordCount": 528,
+          "title": "NFT legend Punk6529: NFTs are a bad investment with ‘breathtaking’ volatility",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/17625890/Bernstein-Says-Regulatory-Backlash-Will-Lead-to-More-DeFi-and-Offshore-Crypto",
+          "author": null,
+          "description": "Regulatory overreach will spur movement toward decentralized finance apps built directly on-chain by anonymous teams, the report said.",
+          "link": "https://cryptopanic.com/news/17625890/Bernstein-Says-Regulatory-Backlash-Will-Lead-to-More-DeFi-and-Offshore-Crypto",
+          "publishedOn": "2023-02-13T09:52:04.000Z",
+          "wordCount": 529,
+          "title": "Bernstein Says Regulatory Backlash Will Lead to More DeFi and Offshore Crypto",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/17625746/Binance-Coin-Dumps-Below-300-Following-News-From-US-Regulators-Market-Watch",
+          "author": null,
+          "description": "Binance Coin has dropped by over 5% in the past 24 hours following the news regarding BUSD and Paxos.",
+          "link": "https://cryptopanic.com/news/17625746/Binance-Coin-Dumps-Below-300-Following-News-From-US-Regulators-Market-Watch",
+          "publishedOn": "2023-02-13T09:51:19.000Z",
+          "wordCount": 529,
+          "title": "Binance Coin Dumps Below $300 Following News From US Regulators: Market Watch",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/17625728/Restrictive-Crypto-Rules-for-EU-Banks-Confirmed-in-Published-Legal-Draft",
+          "author": null,
+          "description": "Banks in the European Union would have to treat crypto as the riskiest kind of asset and disclose exposures while awaiting more detailed rules.",
+          "link": "https://cryptopanic.com/news/17625728/Restrictive-Crypto-Rules-for-EU-Banks-Confirmed-in-Published-Legal-Draft",
+          "publishedOn": "2023-02-13T09:43:00.000Z",
+          "wordCount": 528,
+          "title": "Restrictive Crypto Rules for EU Banks Confirmed in Published Legal Draft",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/17625449/R-Kiyosaki-warns-giant-crash-coming-says-Bitcoin-to-reach-500k-by-2025-due-to-USD-mistrust",
+          "author": null,
+          "description": "Robert Kiyosaki, author of the best-selling personal finance book ‘Rich Dad Poor Dad,’ has made some bleak predictions about the … Continued",
+          "link": "https://cryptopanic.com/news/17625449/R-Kiyosaki-warns-giant-crash-coming-says-Bitcoin-to-reach-500k-by-2025-due-to-USD-mistrust",
+          "publishedOn": "2023-02-13T09:36:34.000Z",
+          "wordCount": 534,
+          "title": "R. Kiyosaki warns ‘giant crash coming’, says Bitcoin to reach $500k by 2025 due to USD mistrust",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/17625437/UAE-Plans-to-Issue-a-CBDC-to-Promote-Digital-Payments",
+          "author": null,
+          "description": "The issuance of a digital dirham is one of nine key initiatives in the United Arab Emirates' new Financial Infrastructure Transformation Program.",
+          "link": "https://cryptopanic.com/news/17625437/UAE-Plans-to-Issue-a-CBDC-to-Promote-Digital-Payments",
+          "publishedOn": "2023-02-13T09:35:06.000Z",
+          "wordCount": 527,
+          "title": "UAE Plans to Issue a CBDC to Promote Digital Payments",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/17625445/What-Are-the-Pros-and-Cons-of-DeFi",
+          "author": null,
+          "description": "DeFi is a continually growing sector within finance. We break down the positives and negatives of this alternative blockchain-based economic ecosystem.",
+          "link": "https://cryptopanic.com/news/17625445/What-Are-the-Pros-and-Cons-of-DeFi",
+          "publishedOn": "2023-02-13T09:30:58.000Z",
+          "wordCount": 525,
+          "title": "What Are the Pros and Cons of DeFi?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/17625431/Big-Week-Ahead-For-Bitcoin-And-Crypto-This-Will-Be-Important",
+          "author": null,
+          "description": "The Bitcoin and crypto market is once again facing an important week. After Bitcoin reached its annual high of $24,248 on February 02, the price is currently in a consolidation. Especially the news around Kraken, the US Securities and Exchange Commission and the alleged ban on crypto-staking by...",
+          "link": "https://cryptopanic.com/news/17625431/Big-Week-Ahead-For-Bitcoin-And-Crypto-This-Will-Be-Important",
+          "publishedOn": "2023-02-13T09:30:32.000Z",
+          "wordCount": 528,
+          "title": "Big Week Ahead For Bitcoin And Crypto: This Will Be Important",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/17625420/USDC-outperforms-USDT-Key-insights-on-Stablecoin-market-domination",
+          "author": null,
+          "description": "USDC captures 44% of the stablecoin market share, outperforming USDT. Coinbase users convert large amounts of USDC into fiat. Stablecoins have been gaining popularity in recent years, as they offer exposure to cryptocurrency without the volatility that is typically associated with it. While...",
+          "link": "https://cryptopanic.com/news/17625420/USDC-outperforms-USDT-Key-insights-on-Stablecoin-market-domination",
+          "publishedOn": "2023-02-13T09:30:23.000Z",
+          "wordCount": 526,
+          "title": "USDC outperforms USDT? Key insights on Stablecoin market domination",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/17625104/Chinas-international-blockchain-BSN-Spartan-gets-new-push-in-Middle-East-Africa",
+          "author": null,
+          "description": "Red Date Technology, the developer of China’s state-backed blockchain infrastructure Blockchain-based Service Network, has partnered Dubai-based Singularity Innovations to offer blockchain infrastructure services in the Middle East and Africa, as the Chinese blockchain network continues to go global.",
+          "link": "https://cryptopanic.com/news/17625104/Chinas-international-blockchain-BSN-Spartan-gets-new-push-in-Middle-East-Africa",
+          "publishedOn": "2023-02-13T09:19:27.000Z",
+          "wordCount": 529,
+          "title": "China’s international blockchain BSN Spartan gets new push in Middle East, Africa",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/17625084/Wormhole-hacker-moves-46-million-of-stolen-funds",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/17625084/Wormhole-hacker-moves-46-million-of-stolen-funds",
+          "publishedOn": "2023-02-13T09:14:19.000Z",
+          "wordCount": null,
+          "title": "Wormhole hacker moves $46 million of stolen funds",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/17625114/Paxos-to-Stop-Issuing-Dollar-Pegged-Token-BUSD",
+          "author": null,
+          "description": "Industry-leading stablecoin issuer is having some problems",
+          "link": "https://cryptopanic.com/news/17625114/Paxos-to-Stop-Issuing-Dollar-Pegged-Token-BUSD",
+          "publishedOn": "2023-02-13T09:11:00.000Z",
+          "wordCount": 524,
+          "title": "Paxos to Stop Issuing Dollar-Pegged Token BUSD",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/17625098/ADA-Charles-Hoskinson-Says-Cardanos-Staking-Model-Is-Safe-From-the-SEC-for-Now",
+          "author": null,
+          "description": "Last Friday (10 February 2023), Charles Hoskinson, Co-Founder and CEO at Input Output Global (“IOG), the blockchain technology firm responsible for the development of Cardano ($ADA), shared his thoughts on the U.S. SEC’s stance on crypto staking and how they might impact $ETH or $ADA. On 9...",
+          "link": "https://cryptopanic.com/news/17625098/ADA-Charles-Hoskinson-Says-Cardanos-Staking-Model-Is-Safe-From-the-SEC-for-Now",
+          "publishedOn": "2023-02-13T09:09:56.000Z",
+          "wordCount": 531,
+          "title": "$ADA: Charles Hoskinson Says Cardano’s Staking Model Is Safe From the SEC for Now",
+          "imageUrl": null
+        },
+        {
           "id": "https://cryptopanic.com/news/17624973/What-is-the-outlook-for-crypto-in-2023-and-beyond",
           "author": null,
           "description": "Tokenization, stablecoins and DeFi will be growth areas, but regulatory uncertainty is still holding back adoption, writes John Avery of FIS.",
@@ -775,10 +925,10 @@
         {
           "id": "https://cryptopanic.com/news/17624958/Huobi-Cloud-Wallet-no-more-Exchange-pulls-plug-on-DeFi-multi-token-wallet",
           "author": null,
-          "description": "Huobi has announced the impending closure of its Huobi Cloud Wallet service, citing strategic adjustments for the move.",
+          "description": "",
           "link": "https://cryptopanic.com/news/17624958/Huobi-Cloud-Wallet-no-more-Exchange-pulls-plug-on-DeFi-multi-token-wallet",
           "publishedOn": "2023-02-13T08:53:23.000Z",
-          "wordCount": 529,
+          "wordCount": null,
           "title": "Huobi Cloud Wallet no more: Exchange pulls plug on DeFi multi-token wallet",
           "imageUrl": null
         },
@@ -795,10 +945,10 @@
         {
           "id": "https://cryptopanic.com/news/17624665/First-weekly-death-cross-ever-5-things-to-know-in-Bitcoin-this-week",
           "author": null,
-          "description": "Bitcoin price action is making history this week, but for all the wrong reasons, as the 2022 bear market still haunts the charts.",
+          "description": "",
           "link": "https://cryptopanic.com/news/17624665/First-weekly-death-cross-ever-5-things-to-know-in-Bitcoin-this-week",
           "publishedOn": "2023-02-13T08:48:48.000Z",
-          "wordCount": 531,
+          "wordCount": null,
           "title": "First weekly death cross ever — 5 things to know in Bitcoin this week",
           "imageUrl": null
         },
@@ -811,156 +961,6 @@
           "wordCount": 525,
           "title": "Paxos will no longer issue Binance USD stablecoin",
           "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/17624666/UAE-central-bank-to-issue-CBDC-as-part-of-its-financial-transformation-program",
-          "author": null,
-          "description": "The issuance of a CBDC aims to address inefficiencies in cross-border payments and drive innovation for domestic payments.",
-          "link": "https://cryptopanic.com/news/17624666/UAE-central-bank-to-issue-CBDC-as-part-of-its-financial-transformation-program",
-          "publishedOn": "2023-02-13T08:40:00.000Z",
-          "wordCount": 530,
-          "title": "UAE central bank to issue CBDC as part of its financial transformation program",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/17624510/Centralized-Crypto-Exchange-Spot-and-Derivative-Volumes-Surge-in-2023",
-          "author": null,
-          "description": "Trading volumes on centralized crypto exchanges (CEX) have surged since the beginning of the year following two months of outflows.",
-          "link": "https://cryptopanic.com/news/17624510/Centralized-Crypto-Exchange-Spot-and-Derivative-Volumes-Surge-in-2023",
-          "publishedOn": "2023-02-13T08:30:00.000Z",
-          "wordCount": 527,
-          "title": "Centralized Crypto Exchange Spot and Derivative Volumes Surge in 2023",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/17624518/SEC-Commissioner-Hester-Peirce-Says-the-SEC-Is-Hostile-to-Crypto",
-          "author": null,
-          "description": "Last week, Hester Peirce, a Commissioner at the U.S. Securities and Exchange Commission (SEC), criticized the agency for the decision to force crypto exchange Kraken to shut down its crypto staking services for all U.S. clients. On 9 February 2023, Kraken announced in a blog post that it had...",
-          "link": "https://cryptopanic.com/news/17624518/SEC-Commissioner-Hester-Peirce-Says-the-SEC-Is-Hostile-to-Crypto",
-          "publishedOn": "2023-02-13T08:28:59.000Z",
-          "wordCount": 528,
-          "title": "SEC Commissioner Hester Peirce Says the SEC Is ‘Hostile to Crypto’",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/17624516/Arbitrum-Based-GMX-Surpassed-Ethereum-Blockchain-in-Daily-Fees-Over-Weekend",
-          "author": null,
-          "description": "The decentralized futures exchange product has gained a loyal community of users in the past few months.",
-          "link": "https://cryptopanic.com/news/17624516/Arbitrum-Based-GMX-Surpassed-Ethereum-Blockchain-in-Daily-Fees-Over-Weekend",
-          "publishedOn": "2023-02-13T08:27:17.000Z",
-          "wordCount": 527,
-          "title": "Arbitrum-Based GMX Surpassed Ethereum Blockchain in Daily Fees Over Weekend",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/17624231/Breaking-Paxos-reportedly-ordered-to-stop-issuing-Binance-USD",
-          "author": null,
-          "description": "A New York regulator ordered Paxos to stop issuing BUSD, the third-largest stablecoin by market cap.",
-          "link": "https://cryptopanic.com/news/17624231/Breaking-Paxos-reportedly-ordered-to-stop-issuing-Binance-USD",
-          "publishedOn": "2023-02-13T08:10:35.000Z",
-          "wordCount": 526,
-          "title": "Breaking: Paxos reportedly ordered to stop issuing Binance USD",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/17624130/Polygon-MATIC-Gathers-Strength-As-It-Rides-The-Super-Bowl-NFT-Wave",
-          "author": null,
-          "description": "The Super Bowl Season has always been an exciting event and Polygon rides the wave through the minting of 1 million Super Bowl NFTs. But first, here’s a quick glance of Polygon (MATIC) performance in the last few days: MATIC price is down by 1.43% as of press time Polygon NFTs riding the wave of...",
-          "link": "https://cryptopanic.com/news/17624130/Polygon-MATIC-Gathers-Strength-As-It-Rides-The-Super-Bowl-NFT-Wave",
-          "publishedOn": "2023-02-13T08:09:52.000Z",
-          "wordCount": 529,
-          "title": "Polygon (MATIC) Gathers Strength As It Rides The Super Bowl NFT Wave",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/17624131/Bitcoin-Ready-for-New-Leg-Up-As-Ethereum-Flashes-Perfect-Price-Pattern-Popular-Analyst",
-          "author": null,
-          "description": "A crypto analyst who correctly called the 2018 market bottom for Bitcoin says BTC could be gearing up for fresh rallies as Ethereum (ETH) flashes a bullish signal. Pseudonymous analyst Smart Contracter tells his 220,300 Twitter followers that Bitcoin has likely completed its corrective period...",
-          "link": "https://cryptopanic.com/news/17624131/Bitcoin-Ready-for-New-Leg-Up-As-Ethereum-Flashes-Perfect-Price-Pattern-Popular-Analyst",
-          "publishedOn": "2023-02-13T08:04:20.000Z",
-          "wordCount": 531,
-          "title": "Bitcoin Ready for New Leg Up As Ethereum Flashes ‘Perfect’ Price Pattern: Popular Analyst",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/17624118/Bitcoin-and-Ethereum-Price-Prediction-Can-BTC-and-ETH-Bounce-Off-With-the-382-Fibonacci-Retracement",
-          "author": null,
-          "description": "Bitcoin has continued its downward trend and has now slid below $22,000, while the global cryptocurrency market cap is on the verge of falling below the $1 trillion mark. Most cryptocurrencies, including Bitcoin and Ethereum, have seen drops in the past few days. ... Read More: Bitcoin and...",
-          "link": "https://cryptopanic.com/news/17624118/Bitcoin-and-Ethereum-Price-Prediction-Can-BTC-and-ETH-Bounce-Off-With-the-382-Fibonacci-Retracement",
-          "publishedOn": "2023-02-13T08:03:00.000Z",
-          "wordCount": 532,
-          "title": "Bitcoin and Ethereum Price Prediction: Can BTC and ETH Bounce-Off With the 38.2% Fibonacci Retracement?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/17624138/Ethereum-ETH-Price-Primed-for-Upshoot-as-Staked-Ethereum-Hits-New-Milestone",
-          "author": null,
-          "description": "Total Value Locked in Ethereum 2.0 deposit contract now tops 15.8 million ETH units",
-          "link": "https://cryptopanic.com/news/17624138/Ethereum-ETH-Price-Primed-for-Upshoot-as-Staked-Ethereum-Hits-New-Milestone",
-          "publishedOn": "2023-02-13T08:01:00.000Z",
-          "wordCount": 529,
-          "title": "Ethereum (ETH) Price Primed for Upshoot as Staked Ethereum Hits New Milestone",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/17623967/Elon-Musk-Boosts-Dogecoin-By-5-During-Super-Bowl-Heres-How",
-          "author": null,
-          "description": "Twitter CEO Elon Musk put the Dogecoin price on a short rally of 5.7% a few hours ago as he once again expressed his love for the meme coin. After the Twitter acquisition, the hype around DOGE had been dwindling, partly because Musk has some issues to resolve at his new company and is struggling […]",
-          "link": "https://cryptopanic.com/news/17623967/Elon-Musk-Boosts-Dogecoin-By-5-During-Super-Bowl-Heres-How",
-          "publishedOn": "2023-02-13T07:50:55.000Z",
-          "wordCount": 528,
-          "title": "Elon Musk Boosts Dogecoin By 5% During Super Bowl, Here’s How",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/17624108/This-Chinese-MLM-Ponzi-Is-Now-the-Fifth-Biggest-Polygon-MATIC-Holder",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/17624108/This-Chinese-MLM-Ponzi-Is-Now-the-Fifth-Biggest-Polygon-MATIC-Holder",
-          "publishedOn": "2023-02-13T07:45:00.000Z",
-          "wordCount": null,
-          "title": "This Chinese MLM Ponzi Is Now the Fifth-Biggest Polygon (MATIC) Holder",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/17623824/Gary-Gensler-on-Why-the-SEC-Forced-Kraken-to-Shut-Down-Its-Staking-Service-in-the-US",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/17623824/Gary-Gensler-on-Why-the-SEC-Forced-Kraken-to-Shut-Down-Its-Staking-Service-in-the-US",
-          "publishedOn": "2023-02-13T07:36:19.000Z",
-          "wordCount": null,
-          "title": "Gary Gensler on Why the SEC Forced Kraken to Shut Down Its Staking Service in the U.S.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/17623636/The-SEC-may-potentially-sue-Paxos-over-BinanceUSD-WSJ",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/17623636/The-SEC-may-potentially-sue-Paxos-over-BinanceUSD-WSJ",
-          "publishedOn": "2023-02-13T07:30:03.000Z",
-          "wordCount": null,
-          "title": "The SEC may potentially sue Paxos over BinanceUSD – WSJ",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/17623462/Crypto-Lender-Nexo-to-Stop-EIP-for-US-Clients-on-April-1",
-          "author": null,
-          "description": "Last month, Nexo paid a $22.5 million fine to the SEC for failing to register the offer and sale of EIP.",
-          "link": "https://cryptopanic.com/news/17623462/Crypto-Lender-Nexo-to-Stop-EIP-for-US-Clients-on-April-1",
-          "publishedOn": "2023-02-13T07:28:13.000Z",
-          "wordCount": 529,
-          "title": "Crypto Lender Nexo to Stop EIP for US Clients on April. 1",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/17623298/MetaMask-issues-scam-alert-as-Namecheap-hacker-sends-unauthorized-emails",
-          "author": null,
-          "description": "Web hosting company Namecheap detected the misuse of one of its third-party services for sending some unauthorized emails, which directly targeted MetaMask users.",
-          "link": "https://cryptopanic.com/news/17623298/MetaMask-issues-scam-alert-as-Namecheap-hacker-sends-unauthorized-emails",
-          "publishedOn": "2023-02-13T07:19:43.000Z",
-          "wordCount": 527,
-          "title": "MetaMask issues scam alert as Namecheap hacker sends unauthorized emails",
-          "imageUrl": null
         }
       ]
     },
@@ -969,6 +969,26 @@
       "feedUrl": "https://message-rss.vercel.app/rekt/news",
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
+        {
+          "id": "https://www.piratewires.com/p/crypto-choke-point",
+          "author": null,
+          "description": "Operation Choke Point 2.0 Is Underway, And Crypto Is In Its Crosshairs",
+          "link": "https://www.piratewires.com/p/crypto-choke-point",
+          "publishedOn": "2023-02-13T10:00:04.000Z",
+          "wordCount": 6845,
+          "title": "Operation Choke Point 2.0 Is Underway, And Crypto Is In Its Crosshairs",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbfcda76c-f42e-4b51-b0f6-cdc554be501d_1678x1248.png"
+        },
+        {
+          "id": "https://www.zerohedge.com/weather/visualizing-earths-moving-plates",
+          "author": null,
+          "description": "Visualizing Earth's Moving Plates | ZeroHedge",
+          "link": "https://www.zerohedge.com/weather/visualizing-earths-moving-plates",
+          "publishedOn": "2023-02-13T09:30:04.000Z",
+          "wordCount": 949,
+          "title": "Visualizing Earth's Moving Plates | ZeroHedge",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=_j2r0q0i2tg",
           "author": null,
@@ -1005,7 +1025,7 @@
           "description": "Crypto Firm Paxos to Stop Issuing Dollar-Pegged Binance Token",
           "link": "https://www.wsj.com/articles/crypto-firm-paxos-to-stop-issuing-dollar-pegged-binance-token-94f65e52",
           "publishedOn": "2023-02-13T09:00:02.000Z",
-          "wordCount": 7132,
+          "wordCount": 7148,
           "title": "Crypto Firm Paxos to Stop Issuing Dollar-Pegged Binance Token",
           "imageUrl": "https://images.wsj.net/im-723271/social"
         },
@@ -1015,7 +1035,7 @@
           "description": "SEC's Gary Gensler on Kraken staking settlement: Other crypto platforms should take note of this",
           "link": "https://www.cnbc.com/video/2023/02/10/short-sec-chair-gensler-heres-why-we-cracked-down-on-kraken.html",
           "publishedOn": "2023-02-13T09:00:02.000Z",
-          "wordCount": 18579,
+          "wordCount": 18241,
           "title": "SEC's Gary Gensler on Kraken staking settlement: Other crypto platforms should take note of this",
           "imageUrl": "https://image.cnbcfm.com/api/v1/image/107192618-16760349441676034942-28137772155-1080pnbcnews.jpg?v=1676036035&w=1920&h=1080"
         },
@@ -1035,7 +1055,7 @@
           "description": "New unidentified ‘high-altitude object’ shot down over Canada",
           "link": "https://www.washingtonpost.com/national-security/2023/02/11/military-shootdown-alaska-flying-object/",
           "publishedOn": "2023-02-13T07:30:03.000Z",
-          "wordCount": 10900,
+          "wordCount": 10918,
           "title": "New unidentified ‘high-altitude object’ shot down over Canada",
           "imageUrl": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/02-12-2023/t_3cd38b98d18e4b80824af1616957ee8c_name_VSHCTPE2WQ55DLCRTY6GDO5JQY.jpg&w=1440"
         },
@@ -1047,26 +1067,6 @@
           "publishedOn": "2023-02-13T06:00:03.000Z",
           "wordCount": 2458,
           "title": "Escobar: The War Of Terror Of A Rogue Superpower - Cui Bono? | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=QRr6DpCkxSY&feature=youtu.be",
-          "author": null,
-          "description": "💈 Destress & Relax With A Clean Shave At Old School Irish Barber Shop | Tom Winters Barbers",
-          "link": "https://www.youtube.com/watch?v=QRr6DpCkxSY&feature=youtu.be",
-          "publishedOn": "2023-02-13T06:00:03.000Z",
-          "wordCount": null,
-          "title": "💈 Destress & Relax With A Clean Shave At Old School Irish Barber Shop | Tom Winters Barbers",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/political/furious-naomi-wolf-rages-pain-listening-twitter-censorship-testimony",
-          "author": null,
-          "description": "Furious Naomi Wolf Rages At The Pain Of Listening To Twitter Censorship Testimony | ZeroHedge",
-          "link": "https://www.zerohedge.com/political/furious-naomi-wolf-rages-pain-listening-twitter-censorship-testimony",
-          "publishedOn": "2023-02-13T05:30:03.000Z",
-          "wordCount": 6607,
-          "title": "Furious Naomi Wolf Rages At The Pain Of Listening To Twitter Censorship Testimony | ZeroHedge",
           "imageUrl": null
         },
         {
@@ -1085,7 +1085,7 @@
           "description": "SEC to sue Paxos for listing Binance USD stablecoin: WSJ",
           "link": "https://www.theblock.co/post/210919/sec-to-sue-paxos-for-listing-binance-usd-stablecoin-wsj",
           "publishedOn": "2023-02-13T03:00:03.000Z",
-          "wordCount": 62131,
+          "wordCount": 60575,
           "title": "SEC to sue Paxos for listing Binance USD stablecoin: WSJ",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2021/04/20210428_Paxos-Money-1200x675.jpg"
         },
@@ -1105,7 +1105,7 @@
           "description": "WSJ News Exclusive | Crypto Firm Paxos Faces SEC Lawsuit Over Binance USD Token",
           "link": "https://www.wsj.com/articles/crypto-firm-paxos-faces-sec-lawsuit-over-binance-usd-token-8031e7a7?mod=Searchresults_pos1&page=1",
           "publishedOn": "2023-02-13T02:00:06.000Z",
-          "wordCount": 7221,
+          "wordCount": 7227,
           "title": "WSJ News Exclusive | Crypto Firm Paxos Faces SEC Lawsuit Over Binance USD Token",
           "imageUrl": "https://images.wsj.net/im-723160/social"
         },
@@ -1115,9 +1115,9 @@
           "description": "GitHub - osmosis-labs/test-tube: Test tube for cosmos-sdk chains integration test, written in Rust!",
           "link": "https://github.com/osmosis-labs/test-tube",
           "publishedOn": "2023-02-12T23:15:03.000Z",
-          "wordCount": 911,
+          "wordCount": 1000,
           "title": "GitHub - osmosis-labs/test-tube: Test tube for cosmos-sdk chains integration test, written in Rust!",
-          "imageUrl": "https://opengraph.githubassets.com/3a3c77fe435ee77d4f8920131384a91e9630edd0e0efaeaf1f788704ea88346f/osmosis-labs/test-tube"
+          "imageUrl": "https://opengraph.githubassets.com/e098c2a4cc5fd7eb55f8ca52170078b56161c6298af2c9f98e79dbc5d4a13e7d/osmosis-labs/test-tube"
         },
         {
           "id": "https://raoulpal.substack.com/p/zoom-out-the-gmi-top-5-weekly-charts?sd=pf",
@@ -1165,7 +1165,7 @@
           "description": "Congress' FTX Problem: 1 in 3 Members Got Cash From Crypto Exchange's Bosses",
           "link": "https://www.coindesk.com/policy/2023/01/17/congress-ftx-problem-1-in-3-members-got-cash-from-crypto-exchanges-bosses/",
           "publishedOn": "2023-02-12T05:00:03.000Z",
-          "wordCount": 12880,
+          "wordCount": 12870,
           "title": "Congress' FTX Problem: 1 in 3 Members Got Cash From Crypto Exchange's Bosses",
           "imageUrl": "https://www.coindesk.com/resizer/I2NCbdg47scFngPR5xhUx1oo7Sc=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/A6DZFPLJIZFTBF6774ULCYUOII.jpg"
         }
@@ -1177,12 +1177,72 @@
       "siteUrl": "https://www.inoreader.com/stream/user/1005336866/tag/%E6%B5%B7%E5%A4%96%E5%8A%A0%E5%AF%86%E8%B5%84%E8%AE%AF/view/html",
       "articles": [
         {
+          "id": "http://www.inoreader.com/article/3a9c6e75cefe460a",
+          "author": "Will Canny",
+          "description": "Regulatory overreach will spur movement toward decentralized finance apps built directly on-chain by anonymous teams, the report said.",
+          "link": "https://www.coindesk.com/policy/2023/02/13/bernstein-says-regulatory-backlash-will-lead-to-more-defi-and-offshore-crypto/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2023-02-13T10:03:57.000Z",
+          "wordCount": 6914,
+          "title": "Bernstein Says Regulatory Backlash Will Lead to More DeFi and Offshore Crypto",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/jpeg",
+            "url": "https://www.coindesk.com/resizer/1dLld8jVLXOmFqfr8LaXlUJuG0A=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/QAIGOLZEZBBTPLHLTTXHDS7ZXQ.jpg"
+          },
+          "imageUrl": "https://www.coindesk.com/resizer/1dLld8jVLXOmFqfr8LaXlUJuG0A=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/QAIGOLZEZBBTPLHLTTXHDS7ZXQ.jpg"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e75ceff9cd7",
+          "author": "Jack Schickler",
+          "description": "Banks in the European Union would have to treat crypto as the riskiest kind of asset and disclose exposures while awaiting more detailed rules.",
+          "link": "https://www.coindesk.com/policy/2023/02/13/restrictive-crypto-rules-for-eu-banks-confirmed-in-published-legal-draft/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2023-02-13T09:54:38.000Z",
+          "wordCount": 6784,
+          "title": "Restrictive Crypto Rules for EU Banks Confirmed in Published Legal Draft",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/jpeg",
+            "url": "https://www.coindesk.com/resizer/tfaEWPYYgllGOprI7bgw6qIEJPc=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/5OLTLUPDB5A5ZOHACUF6ULZMOU.jpg"
+          },
+          "imageUrl": "https://www.coindesk.com/resizer/tfaEWPYYgllGOprI7bgw6qIEJPc=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/5OLTLUPDB5A5ZOHACUF6ULZMOU.jpg"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e75cef8f8b7",
+          "author": "Sandali Handagama",
+          "description": "The issuance of a digital dirham is one of nine key initiatives in the United Arab Emirates' new Financial Infrastructure Transformation Program.",
+          "link": "https://www.coindesk.com/policy/2023/02/13/uae-plans-to-issue-a-cbdc-to-promote-digital-payments/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2023-02-13T09:44:48.000Z",
+          "wordCount": 6679,
+          "title": "UAE Plans to Issue a CBDC to Promote Digital Payments",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/jpeg",
+            "url": "https://www.coindesk.com/resizer/pGbryaM9-ifQWls9iaqTnosO0R8=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/6GZP2OXDI5EPREYTHC7HW4TH5E.jpg"
+          },
+          "imageUrl": "https://www.coindesk.com/resizer/pGbryaM9-ifQWls9iaqTnosO0R8=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/6GZP2OXDI5EPREYTHC7HW4TH5E.jpg"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e75cef9a2ee",
+          "author": "Jake Simmons",
+          "description": "The Bitcoin and crypto market is once again facing an important week. After Bitcoin reached its annual high of $24,248 on February 02, the price is currently in a consolidation.\n \nEspecially the news around Kraken, the US Securities and Exchange Commission and the alleged ban on crypto-staking by centralized US exchanges caused a pullback in the crypto market last week. But diverging statements from different members of the U.S. Federal Reserve Fed are also dragging down prices in the crypto market.\n \nOn Friday, the U.S. Bureau of Labor Statistics also retroactively adjusted the inflation rates published in recent months, which rekindled fears of “sticky” inflation and increased the chance of interest rates for a longer period of time.\n \nMacro Data For Bitcoin And Crypto This Week\n \nThis t…",
+          "link": "https://bitcoinist.com/big-week-ahead-bitcoin-crypto-important-dates/",
+          "publishedOn": "2023-02-13T09:40:04.000Z",
+          "wordCount": 4955,
+          "title": "Big Week Ahead For Bitcoin And Crypto: This Will Be Important",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/jpeg",
+            "url": "https://bitcoinist.com/wp-content/uploads/2023/02/iStock-502544320-630x420.jpg"
+          },
+          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2023/02/iStock-502544320-630x420.jpg"
+        },
+        {
           "id": "http://www.inoreader.com/article/3a9c6e75cee6fb26",
           "author": "Sergio Goschenko",
           "description": "Coinbase, one of the biggest cryptocurrency exchanges in the U.S., has stated that the staking services offered on its platform do not constitute securities. The statements, made in the wake of the $30 million settlement that Kraken, another U.S.-based crypto exchange, completed with the U.S. Securities and Exchange Commission (SEC), also criticize the institution’s approach to the issue.\nCoinbase Defends Its Staking-as-a-Service Program\nCoinbase, one of the leading U.S.-based cryptocurrency exchanges, has published a blog post differentiating its staking-as-a-service program from others in the market, and clarifying that, for the institution, this kind of service does not constitute a security offering.\nIn a blog post published on February 10, Paul Grewal, chief legal officer of the compa…",
           "link": "https://news.bitcoin.com/coinbase-argues-its-staking-services-are-not-securities-criticizes-sec-regulatory-approach/",
           "publishedOn": "2023-02-13T09:05:27.000Z",
-          "wordCount": 3360,
+          "wordCount": 3355,
           "title": "Coinbase Argues Its Staking Services Are Not Securities, Criticizes SEC Regulatory Approach",
           "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2023/02/shutterstock_1955564017.jpg"
         },
@@ -1192,7 +1252,7 @@
           "description": "The decentralized futures exchange product has gained a loyal community of users in the past few months.",
           "link": "https://www.coindesk.com/markets/2023/02/13/arbitrum-based-gmx-surpassed-ethereum-blockchain-in-daily-fees-over-weekend/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-02-13T08:43:18.000Z",
-          "wordCount": 6866,
+          "wordCount": 6856,
           "title": "Arbitrum-Based GMX Surpassed Ethereum Blockchain in Daily Fees Over Weekend",
           "enclosure": {
             "length": "1337",
@@ -1207,7 +1267,7 @@
           "description": "Twitter CEO Elon Musk put the Dogecoin price on a short rally of 5.7% a few hours ago as he once again expressed his love for the meme coin. After the Twitter acquisition, the hype around DOGE had been dwindling, partly because Musk has some issues to resolve at his new company and is struggling with declining advertising revenue.\n \nThe Twitter Coin also caused a damper within the Dogecoin community, as the Reddit-like reward system will initially only use fiat gateways, and not the meme coin as a means of payment. As it stands, crypto payments on Twitter have slipped down the priority list for now.\n \nHowever, Elon Musk showed that he is still a big fan of DOGE on two occasions during the NFL Super Bowl LVII game between the Kansas City Chiefs and the Philadelphia Eagles. The first surpris…",
           "link": "https://bitcoinist.com/elon-musk-dogecoin-by-5-super-bowl/",
           "publishedOn": "2023-02-13T07:57:50.000Z",
-          "wordCount": 4818,
+          "wordCount": 4815,
           "title": "Elon Musk Boosts Dogecoin By 5% During Super Bowl, Here’s How",
           "enclosure": {
             "length": "1337",
@@ -1222,7 +1282,7 @@
           "description": "Last month, Nexo paid a $22.5 million fine to the SEC for failing to register the offer and sale of EIP.",
           "link": "https://www.coindesk.com/policy/2023/02/13/crypto-lender-nexo-stopped-eip-for-us-clients-on-feb-10/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-02-13T07:30:09.000Z",
-          "wordCount": 6586,
+          "wordCount": 6576,
           "title": "Crypto Lender Nexo Stopped EIP for US Clients on Feb. 10",
           "enclosure": {
             "length": "1337",
@@ -1247,7 +1307,7 @@
           "description": "COIN is down 20% during the last week after a record-breaking rally in January where it rose nearly 95%.",
           "link": "https://www.coindesk.com/business/2023/02/13/cathie-woods-ark-buys-another-92m-coinbase-after-stocks-january-rally/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-02-13T05:54:12.000Z",
-          "wordCount": 6380,
+          "wordCount": 6370,
           "title": "Cathie Wood's ARK Buys Another $9.2M Coinbase After Stock's January Rally",
           "enclosure": {
             "length": "1337",
@@ -1262,7 +1322,7 @@
           "description": "Clearpool also has opened the onboarding and whitelisting process for institutional borrowers and lenders to Prime.",
           "link": "https://www.coindesk.com/markets/2023/02/13/defi-protocol-clearpool-chooses-polygon-network-for-its-institutional-lending-platform/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-02-13T05:10:58.000Z",
-          "wordCount": 6918,
+          "wordCount": 6905,
           "title": "DeFi Protocol Clearpool Chooses Polygon Network for Its Institutional Lending Platform",
           "enclosure": {
             "length": "1337",
@@ -1277,7 +1337,7 @@
           "description": "A new study on digital currency-related lawsuits since 2018 shows a 42% increase in crypto lawsuits in 2022. The highest number of claims in a single year was recorded last year, with 41 total claims in the United States. The research also shows that the majority of lawsuits came from the U.S. Securities and Exchange Commission (SEC).\n \nRise in U.S. Crypto Lawsuits Tracked Since 2018: Report\n \nSimilar to the price cycles experienced by cryptocurrencies, there are fluctuations in the number of U.S. crypto-related lawsuits filed each year, according to new research published by hedgewithcrypto.com. The study notes a 40% increase in crypto lawsuits between 2018 and 2022, but there have been some decreases between the highs. Out of all the years, 2022 saw the highest number of lawsuits in the …",
           "link": "https://news.bitcoin.com/us-crypto-lawsuits-reach-all-time-high-with-42-increase-in-2022-sec-cases-dominate-legal-battles/",
           "publishedOn": "2023-02-13T05:01:36.000Z",
-          "wordCount": 3485,
+          "wordCount": 3486,
           "title": "US Crypto Lawsuits Reach All-Time High With 42% Increase in 2022; SEC Cases Dominate Legal Battles",
           "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2023/02/ddddf14.jpg"
         },
@@ -1297,7 +1357,7 @@
           "description": "ALSO: The SEC's move on Kraken's staking program last week shouldn't be seen as an indictment of staking as a whole. Bitcoin dropped below $21.7K at one point over the weekend.",
           "link": "https://www.coindesk.com/markets/2023/02/13/first-mover-asia-bitcoin-might-test-20k-as-it-looks-for-support/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-02-13T01:15:22.000Z",
-          "wordCount": 8889,
+          "wordCount": 8885,
           "title": "First Mover Asia: Bitcoin Might Test $20K as It Looks for Support",
           "enclosure": {
             "length": "1337",
@@ -1322,7 +1382,7 @@
           "description": "The U.S. Securities and Exchange Commission (SEC) intends to sue stablecoin issuer Paxos, which is behind the Pax Dollar and Binance USD tokens, over the latter. The news comes days after CoinDesk reported Paxos was under investigation by the New York Department of Financial Services.",
           "link": "https://www.coindesk.com/policy/2023/02/13/sec-to-sue-crypto-trust-co-paxos-over-binance-stablecoin-wsj/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-02-13T00:35:19.000Z",
-          "wordCount": 6973,
+          "wordCount": 6963,
           "title": "SEC to Sue Crypto Trust Co. Paxos Over Binance Stablecoin: WSJ",
           "enclosure": {
             "length": "1337",
@@ -1337,7 +1397,7 @@
           "description": "U.S. Federal Reserve Governor Christopher Waller has warned that crypto prices could fall to zero at some point. “Please don’t be surprised and don’t expect taxpayers to socialize your losses” when that happens, the Fed governor stressed.\n \nCrypto Prices Could Go to Zero, Fed Official Warns\n \nFederal Reserve Governor Christopher J. Waller warned about the danger of investing in cryptocurrency on Thursday at the Global Interdependence Center Conference on “digital money, decentralized finance, and the puzzle of crypto.”\n \n“To me, a crypto asset is nothing more than a speculative asset, like a baseball card. If people believe others will buy it from them in the future at a positive price, then it will trade at a positive price today,” he described. “If not, its price will go to zero.”\n \nHe a…",
           "link": "https://news.bitcoin.com/fed-governor-warns-crypto-prices-could-fall-to-zero-says-dont-expect-taxpayers-to-socialize-your-losses/",
           "publishedOn": "2023-02-12T23:04:04.000Z",
-          "wordCount": 3330,
+          "wordCount": 3320,
           "title": "Fed Governor Warns Crypto Prices Could Fall to Zero — Says ‘Don’t Expect Taxpayers to Socialize Your Losses’",
           "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2023/02/fed-governor-waller.jpg"
         },
@@ -1347,7 +1407,7 @@
           "description": "Since Luxor, a bitcoin mining pool, mined a record-setting 3.96 MB block (#774,628) on the Bitcoin blockchain, block sizes have been larger than they were prior to that block height in the past 12 days. Statistics show that blocks larger than 3 MB are now quite common, and demand for Ordinal inscriptions has risen as they have surpassed 65,000 this weekend.\n \nSustained Use of Blocks Larger Than 3 MB Continues on the Bitcoin Blockchain\n \n\n \nObservers saw history made on Feb. 1, 2023, when Luxor mined the largest block in the Bitcoin blockchain. The record-breaking block (#774,628), measuring 3.96 MB, surpassed the previous record set on Aug. 11, 2022, when Antpool discovered block #748,918, which was 2.765 MB in size. At that time, there were fewer than 1,000 ordinal inscriptions on the Bit…",
           "link": "https://news.bitcoin.com/block-sizes-exceeding-3-mb-now-common-on-bitcoin-blockchain-as-ordinal-inscription-demand-rises/",
           "publishedOn": "2023-02-12T21:08:30.000Z",
-          "wordCount": 3491,
+          "wordCount": 3481,
           "title": "Block Sizes Exceeding 3 MB Now Common on Bitcoin Blockchain as Ordinal Inscription Demand Rises",
           "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2023/02/3mb.jpg"
         },
@@ -1367,7 +1427,7 @@
           "description": "Sportswashing and crypto company hubris are no longer in play in Super Bowl commercials this year. And that's a good thing.",
           "link": "https://www.coindesk.com/consensus-magazine/2023/02/12/im-glad-there-are-no-crypto-super-bowl-ads-heres-why/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-02-12T17:51:48.000Z",
-          "wordCount": 8958,
+          "wordCount": 8947,
           "title": "I’m Glad There Are No Crypto Super Bowl Ads: Here’s Why",
           "enclosure": {
             "length": "1337",
@@ -1375,51 +1435,6 @@
             "url": "https://www.coindesk.com/resizer/2mEsCywIJhE7txIR7WaT53pmJTg=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/C6WJ2T7RGRC2PCGTMTUO2CEWXQ.jpg"
           },
           "imageUrl": "https://www.coindesk.com/resizer/2mEsCywIJhE7txIR7WaT53pmJTg=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/C6WJ2T7RGRC2PCGTMTUO2CEWXQ.jpg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e75ce8ecf87",
-          "author": "Jamie Redman",
-          "description": "On Feb. 10, 2023, Republicans Patrick McHenry of North Carolina and Bill Huizenga of Michigan, both members of the U.S. House of Representatives, sent a letter to Securities and Exchange Commission (SEC) chairman Gary Gensler seeking answers about the arrest of FTX co-founder Sam Bankman-Fried prior to his scheduled testimony before the House Financial Services Committee. McHenry and Huizenga assert that the timing of Bankman-Fried’s charges and arrest raises “serious questions about the SEC’s process and cooperation with the Department of Justice.”\n \nHouse Representatives McHenry and Huizenga Probe SEC Over Timing of Charges and Arrest of Sam Bankman-Fried\n \nFollowing the Securities and Exchange Commission’s (SEC) crackdown on Kraken’s staking services in the United States, House Financia…",
-          "link": "https://news.bitcoin.com/house-republicans-demand-answers-from-sec-over-ftx-co-founders-arrest/",
-          "publishedOn": "2023-02-12T17:02:48.000Z",
-          "wordCount": 3418,
-          "title": "House Republicans Demand Answers From SEC Over FTX Co-Founder’s Arrest",
-          "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2023/02/bring.jpg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e75ce7335ff",
-          "author": "Jamie Redman",
-          "description": "Bitcoin’s difficulty decreased 0.49% on Feb. 12, 2023, following a sustained all-time high of 39.35 trillion over the previous two weeks (2,016 blocks). The decrease in difficulty offers a brief respite for bitcoin miners, after the network recorded a 14.94% increase in the last month.\n \nBitcoin Difficulty Drops 0.49% Lower; Top Five Mining Pools Continue to Command Majority of Global Hashrate\n \n\n \nAt the time of writing, Bitcoin’s hashrate is coasting along at 289.14 exahash per second (EH/s) after a 0.49% decrease in difficulty at block height 776,160. The network difficulty has been operating at approximately 39,350,942,467,772 hashes for the past 2,016 blocks, or two weeks. With the recent 0.49% decrease in difficulty, the network’s difficulty will now be set at 39.16 trillion hashes f…",
-          "link": "https://news.bitcoin.com/bitcoin-network-experiences-slight-dip-in-difficulty-after-record-high/",
-          "publishedOn": "2023-02-12T15:09:23.000Z",
-          "wordCount": 3396,
-          "title": "Bitcoin Network Experiences Slight Dip in Difficulty After Record High",
-          "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2023/02/fix.jpg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e75ce7c5b23",
-          "author": "Samuel Greenberg",
-          "description": "Faced with the threat of ossification, Bitcoin Core should adopt BIPs 300 and 301, integrating Drivechain’s solutions for ongoing security.\nThis is an opinion editorial by Samuel Greenberg, who believes that Bitcoin is the best hope we have to achieve a just world and pass it to the next generation.\nAt some point, less than ten years from now, the block subsidy will drop below one bitcoin — and continue its decay at each subsequent halving epoch. This means that the security of the network will rely more and more on transaction fees alone. \nWe should expect, in that same period, that the powerful fiat institutions of the world will become keenly aware of what a serious threat Bitcoin is to their hegemony. If transaction fees are insufficient to sustain broad and distributed miner activity,…",
-          "link": "https://bitcoinmagazine.com/technical/how-drivechain-will-secure-bitcoin",
-          "publishedOn": "2023-02-12T14:59:44.000Z",
-          "wordCount": null,
-          "title": "Why Drivechain Is Our Best Chance To Secure Bitcoin Into The Future",
-          "enclosure": {
-            "length": "1337",
-            "type": "image/jpeg",
-            "url": "https://bitcoinmagazine.com/.image/c_fit,cs_srgb,fl_progressive,q_auto:good,w_620/MTk1NzYyNzQ5ODk5Mjg2MTY0/drivechain-political-cartoon.jpg"
-          },
-          "imageUrl": "https://bitcoinmagazine.com/.image/c_fit,cs_srgb,fl_progressive,q_auto:good,w_620/MTk1NzYyNzQ5ODk5Mjg2MTY0/drivechain-political-cartoon.jpg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e75ce612d5e",
-          "author": "Bitcoin.com",
-          "description": "Investment management firm Ark Invest has offered three bitcoin price predictions in a new report, including a bull scenario where bitcoin could reach $1.48 million per coin. In other news, a 7zip file possibly linked to activist Julian Assange was reportedly discovered in the Bitcoin blockchain, and billionaire investor Tim Draper has encouraged the government of Sri Lanka to adopt bitcoin. This and more, just below, in the latest Bitcoin.com News Week in Review.\n \n\n \n\n \n\n \n\n \nArk Invest Expects Bitcoin to Become a Multitrillion-Dollar Market — Predicts BTC Price Could Reach $1.48 Million\n \n\n \nInvestment management firm Ark Invest says bitcoin is “likely to scale into a multi-trillion dollar market.” In its new report, the firm offers three bitcoin price predictions, including a bull case…",
-          "link": "https://news.bitcoin.com/ark-invest-on-1-4m-btc-possible-julian-assange-linked-file-on-bitcoin-blockchain-week-in-review/",
-          "publishedOn": "2023-02-12T13:06:21.000Z",
-          "wordCount": 3347,
-          "title": "Ark Invest on $1.4M BTC, Possible Julian Assange-Linked File on Bitcoin Blockchain — Week in Review",
-          "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2023/02/shutterstock_1682134423.jpg"
         }
       ]
     }

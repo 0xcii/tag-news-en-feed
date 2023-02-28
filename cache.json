@@ -6,12 +6,42 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=122399",
+          "author": "André Beganski",
+          "description": "Nishad Singh is the latest high-level employee at FTX to plead guilty to criminal charges.",
+          "link": "https://decrypt.co/122399/ftx-nishad-singh-guilty-sec-cftc",
+          "publishedOn": "2023-02-28T18:43:23.000Z",
+          "wordCount": 7667,
+          "title": "Former FTX Director Pleads Guilty to Fraud—SEC, CFTC File Civil Charges",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/01/sbf-court-ftx-new-work-manhattan-gID_4.jpeg@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/01/sbf-court-ftx-new-work-manhattan-gID_4.jpeg@png"
+        },
+        {
+          "id": "https://decrypt.co/?p=122367",
+          "author": "Stephen Graves",
+          "description": "Decrypt spent some quality time with Ledger’s new crypto hardware wallet at NFT Paris. Here are our first impressions.",
+          "link": "https://decrypt.co/122367/ledger-stax-hands-on-review-hardware-wallet-ipod-design-flourishes",
+          "publishedOn": "2023-02-28T18:35:38.000Z",
+          "wordCount": 8484,
+          "title": "Ledger Stax Hands-On Review: A Hardware Wallet With iPod Design Flourishes",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/02/ledger-stax-with-iphone-gID_4.png@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/02/ledger-stax-with-iphone-gID_4.png@png"
+        },
+        {
           "id": "https://decrypt.co/?p=122292",
           "author": "Kate Irwin",
           "description": "Billed as Mario Kart meets Call of Duty Zombies, “Undead Blocks” is a cross-platform shoot-em-up with guns as NFTs.",
           "link": "https://decrypt.co/122292/ex-goldman-sachs-analyst-releases-kill-to-earn-zombie-game-undead-blocks-on-immutablex",
           "publishedOn": "2023-02-28T17:01:04.000Z",
-          "wordCount": 7537,
+          "wordCount": 7562,
           "title": "Ex-Goldman Sachs Analyst Releases Kill-to-Earn Zombie Game 'Undead Blocks' on ImmutableX",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/02/udb1-gID_2.png@png",
@@ -41,7 +71,7 @@
           "description": "The Algorand Foundation’s CTO said the exploit was “not the result of an underlying issue with the Algorand protocol or SDK.”",
           "link": "https://decrypt.co/122360/algorand-wallet-myalgo-urgest-users-withdraw-funds-9-2m-exploit",
           "publishedOn": "2023-02-28T15:29:45.000Z",
-          "wordCount": 6964,
+          "wordCount": 6989,
           "title": "Algorand Wallet MyAlgo Urges Users to Withdraw Funds After $9.2M Exploit",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/07/towfiqu-barbhuiya-3aGZ7a97qwA-unsplash-Cropped-scaled-gID_5.jpg@png",
@@ -56,7 +86,7 @@
           "description": "“Avalon” aims to be a AAA interoperable gameworld with blockchain elements.",
           "link": "https://decrypt.co/122329/ex-electronic-arts-sony-game-developers-raise-13-million-for-avalon-digital-universe",
           "publishedOn": "2023-02-28T15:01:01.000Z",
-          "wordCount": 8102,
+          "wordCount": 8127,
           "title": "Ex-Electronic Arts, Sony Game Developers Raise $13 Million For 'Avalon' Digital Universe",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/02/Avalon_Corp_Art_wide_10-17-2022-gID_5.jpg@png",
@@ -71,7 +101,7 @@
           "description": "The gaming community hasn't shown much affection for NFTs, but the Worldwide Webb founder thinks that could soon change.",
           "link": "https://decrypt.co/122350/nft-games-arent-just-about-minting-says-worldwide-webb-founder",
           "publishedOn": "2023-02-28T14:23:09.000Z",
-          "wordCount": 7048,
+          "wordCount": 7073,
           "title": "NFT Games 'Aren't Just About Minting': WorldWide Webb Founder",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/02/camphoto_1903590565-1-gID_4.jpg@png",
@@ -86,7 +116,7 @@
           "description": "Term Labs is building out a key primitive for the DeFi space, allowing crypto projects to lock in fixed rates on their idle holdings.",
           "link": "https://decrypt.co/122339/term-labs-raises-2-5m-build-out-fixed-rate-product-defi",
           "publishedOn": "2023-02-28T12:59:02.000Z",
-          "wordCount": 7351,
+          "wordCount": 7376,
           "title": "Term Labs Raises $2.5M to Build Out Fixed-Rate Product for DeFi",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/02/fixed-rate-term-labs-gID_1.jpg@png",
@@ -101,7 +131,7 @@
           "description": "Sepolia is the second Ethereum testnet to see a dress rehearsal for Shanghai, which will finally let users withdraw their staked ETH.",
           "link": "https://decrypt.co/122344/ethereum-edges-closer-letting-users-withdraw-staked-eth",
           "publishedOn": "2023-02-28T10:34:21.000Z",
-          "wordCount": 7138,
+          "wordCount": 7163,
           "title": "Ethereum Edges Closer to Letting Users Withdraw Staked ETH",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/11/Ethereum-Wallet-shutterstock_1077301571-16x9-1-gID_1.jpg@png",
@@ -116,7 +146,7 @@
           "description": "Terawulf’s newest nuclear-powered Bitcoin miner in Pennsylvania isn’t the firm’s first attempt at going green.",
           "link": "https://decrypt.co/122264/terawulfs-nuclear-bitcoin-plant-one-piece-green-mining-puzzle",
           "publishedOn": "2023-02-28T09:53:08.000Z",
-          "wordCount": 9822,
+          "wordCount": 9847,
           "title": "TeraWulf’s Nuclear Bitcoin Plant Is Just One Piece of the Green Mining Puzzle",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/02/Nautilus-gID_4.png@png",
@@ -131,7 +161,7 @@
           "description": "Miner fees have tanked from $170K to $11K in less than two weeks—but a new Yuga Labs project may rekindle things.",
           "link": "https://decrypt.co/122323/bitcoin-nft-mints-cross-200k-but-is-interest-in-ordinals-fading",
           "publishedOn": "2023-02-27T23:57:32.000Z",
-          "wordCount": 7398,
+          "wordCount": 7423,
           "title": "Bitcoin NFT Mints Surpass 200K—But Is Interest in Ordinals Fading?",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/02/NFT-BTC-gID_6.jpg@png",
@@ -176,7 +206,7 @@
           "description": "TwelveFold, a limited series of just 300 generative Ordinals NFT art pieces on Bitcoin, will be auctioned later this week.",
           "link": "https://decrypt.co/122302/bored-ape-yacht-club-creator-yuga-labs-reveals-first-bitcoin-nft-project",
           "publishedOn": "2023-02-27T23:00:02.000Z",
-          "wordCount": 7724,
+          "wordCount": 7749,
           "title": "Bored Ape Yacht Club Creator Yuga Labs Reveals First Bitcoin NFT Project",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/02/yuga-twelvefold-nft-cropped-gID_7.png@png",
@@ -191,7 +221,7 @@
           "description": "The SEC hit Robinhood with a subpoena in December regarding the company's crypto listings and custody of assets, the firm disclosed today.",
           "link": "https://decrypt.co/122316/robinhood-sec-investigation-crypto",
           "publishedOn": "2023-02-27T22:40:56.000Z",
-          "wordCount": 7186,
+          "wordCount": 7211,
           "title": "Robinhood Faces SEC Investigation Over Crypto Business",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/07/robinhood-ipo-crypto-gID_5.jpg@png",
@@ -206,7 +236,7 @@
           "description": "“Fortnite” esports star Mongraal has accepted a 1,000 ETH bid for his NFT after achieving the highest score on Yuga Labs’ game.",
           "link": "https://decrypt.co/122317/winning-dookey-dash-key-nft-sells-to-billionaire-for-1-63-million",
           "publishedOn": "2023-02-27T22:40:04.000Z",
-          "wordCount": 7004,
+          "wordCount": 7029,
           "title": "Winning ‘Dookey Dash’ Key NFT Sells to Billionaire for $1.63 Million in Ethereum",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/01/dookey-dash-gID_5.png@png",
@@ -221,7 +251,7 @@
           "description": "Despite the NFT backlash, the ex-YouTube Gaming head believes that gamers will eventually embrace Web3.",
           "link": "https://decrypt.co/122287/gamers-web3-adoption-polygon-ryan-wyatt",
           "publishedOn": "2023-02-27T21:47:01.000Z",
-          "wordCount": 7662,
+          "wordCount": 7687,
           "title": "Gamers Will Drive Web3 Adoption: Polygon Labs President Ryan Wyatt",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/02/GM23_Ryan3-gID_1.jpg@png",
@@ -236,7 +266,7 @@
           "description": "The breakout success of the Blur marketplace and a new Yuga Labs title are likely moving the needle.",
           "link": "https://decrypt.co/122295/ethereum-gas-fees-are-slowly-climbing-as-nft-market-rebounds",
           "publishedOn": "2023-02-27T21:46:25.000Z",
-          "wordCount": 7031,
+          "wordCount": 7056,
           "title": "Ethereum Gas Fees Are Slowly Climbing as NFT Market Rebounds",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/09/pile-of-ethereum-coins-gID_6.jpg@png",
@@ -251,7 +281,7 @@
           "description": "Two days after a major outage, the Solana Foundation says it’s still investigating why the network went down for almost 20 hours.",
           "link": "https://decrypt.co/122284/solana-weekend-outage",
           "publishedOn": "2023-02-27T20:35:49.000Z",
-          "wordCount": 7799,
+          "wordCount": 7824,
           "title": "Solana Foundation Still Doesn’t Know What Caused Weekend Network Outage",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/11/aws-outage-gID_4.jpg@png",
@@ -266,7 +296,7 @@
           "description": "The announcement comes weeks after Paxos disclosed regulatory trouble that centered around the Binance-branded stablecoin.",
           "link": "https://decrypt.co/122280/coinbase-delist-binance-usd-stablecoin",
           "publishedOn": "2023-02-27T18:27:29.000Z",
-          "wordCount": 7588,
+          "wordCount": 7613,
           "title": "Coinbase to Delist Binance USD Stablecoin Amid Regulatory Scrutiny",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/02/busd-binance-usd-stablecoin-gID_1.jpeg@png",
@@ -281,7 +311,7 @@
           "description": "The NFT space is a much bigger picture than just the recent Blur versus OpenSea controversy, according to SuperRare founder Jonathan Perkins.",
           "link": "https://decrypt.co/122248/nft-royalties-not-going-away-superrare-co-founder-jon-perkins",
           "publishedOn": "2023-02-27T16:16:31.000Z",
-          "wordCount": 7595,
+          "wordCount": 7620,
           "title": "NFT Royalties Are 'Not Going Away on SuperRare': Co-Founder Jon Perkins",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/02/superrare-nft-paris-gID_4.jpg@png",
@@ -296,7 +326,7 @@
           "description": "Access to the MetaMansion will be open to users without a Rabbitar, but they won't be able to access all the “cool places\" in the virtual world.",
           "link": "https://decrypt.co/122249/playboy-expected-launch-metamansion-virtual-world-year",
           "publishedOn": "2023-02-27T12:59:09.000Z",
-          "wordCount": 7150,
+          "wordCount": 7175,
           "title": "Playboy Expects to Launch MetaMansion Virtual World This Year",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/02/Playboy-nft-magazine-gID_1.jpg@png",
@@ -311,7 +341,7 @@
           "description": "With the Goerli’s native coin becoming the target of rampant speculation, one Ethereum developer said it’s time to pack it in.",
           "link": "https://decrypt.co/122246/ethereum-developers-let-goerli-testnet-slowly-die-coin-price-soars",
           "publishedOn": "2023-02-27T11:58:20.000Z",
-          "wordCount": 7033,
+          "wordCount": 7058,
           "title": "Ethereum Developers to Let Goerli Testnet ‘Slowly Die’ as Coin Price Soars",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/07/ethereum-attacknets-testnets-eth-2-clients-gID_1.jpg@png",
@@ -326,7 +356,7 @@
           "description": "The IMF wants to see more regulation of digital assets, but still says there could even be an outright ban on cryptocurrencies.",
           "link": "https://decrypt.co/122240/banning-crypto-should-not-be-taken-off-table-imf",
           "publishedOn": "2023-02-27T09:34:21.000Z",
-          "wordCount": 6982,
+          "wordCount": 7007,
           "title": "Banning Crypto 'Should Not Be Taken Off The Table': IMF",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/01/shutterstock_2095050166-gID_1.jpg@png",
@@ -341,7 +371,7 @@
           "description": "Yat Siu described royalties as the gas that keep an economy of creators humming.",
           "link": "https://decrypt.co/122236/maximizing-profits-will-kill-web3-animoca-brands-chairman",
           "publishedOn": "2023-02-27T00:32:40.000Z",
-          "wordCount": 7774,
+          "wordCount": 7799,
           "title": "Maximizing Profits Will ‘Kill’ Web3: Animoca Brands Chairman",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/07/the-sandbox-nft-game-gID_4.png@png",
@@ -356,7 +386,7 @@
           "description": "The blockchain developer says its new tool can spin up decentralized applications in 4 minutes.",
           "link": "https://decrypt.co/122228/alchemy-create-web3-apps-cw3d-dapps",
           "publishedOn": "2023-02-26T21:27:51.000Z",
-          "wordCount": 7566,
+          "wordCount": 7591,
           "title": "Alchemy Launches Dapp Builder for the Next Billion Web3 Developers",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/02/10E36013-6BE7-482C-8210-E7FC3D9D8C97-gID_2.jpg@png",
@@ -371,7 +401,7 @@
           "description": "Emin Gün Sirer said Sam Bankman-Fried’s alleged fraud tarnished the crypto industry’s goodwill.",
           "link": "https://decrypt.co/122208/sam-bankman-fried-damage-crypto-ava-labs-ceo",
           "publishedOn": "2023-02-26T20:38:53.000Z",
-          "wordCount": 7654,
+          "wordCount": 7679,
           "title": "Sam Bankman-Fried Did ‘Immeasurable’ Damage to Crypto Industry: Ava Labs CEO",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/02/GM23_Emin3-gID_5.jpg@png",
@@ -386,7 +416,7 @@
           "description": "Plus several people tweeted their concern that upstart NFT marketplace Blur is currently dominated by a handful of pro traders.",
           "link": "https://decrypt.co/122203/this-week-on-crypto-twitter-nft-community-wants-creator-royalties-back",
           "publishedOn": "2023-02-26T20:09:50.000Z",
-          "wordCount": 9111,
+          "wordCount": 9136,
           "title": "This Week on Crypto Twitter: NFT Community Wants Creator Royalties Back",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/02/Avenged_Sevenfold_2-gID_1.jpg@png",
@@ -401,7 +431,7 @@
           "description": "Blockchain.com says the claim is “completely meritless and a work of fiction.”",
           "link": "https://decrypt.co/122202/coinflex-claims-blockchain-com-owes-over-4-3m-in-flex",
           "publishedOn": "2023-02-26T20:00:14.000Z",
-          "wordCount": 8454,
+          "wordCount": 8479,
           "title": "CoinFLEX Claims Blockchain.com Owes Over $4.3M in FLEX",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/01/coinflex-crypto-exchange-gID_4.jpg@png",
@@ -416,7 +446,7 @@
           "description": "American sculptor Tom Sach said he is much more focused on pushing the limits of his creative process than the associations of Web3 terms.",
           "link": "https://decrypt.co/122180/crypto-terms-are-lot-of-ways-poisoned-says-artist-tom-sachs",
           "publishedOn": "2023-02-25T17:16:52.000Z",
-          "wordCount": 7539,
+          "wordCount": 7564,
           "title": "Crypto Terms Are 'in a Lot of Ways Poisoned' Says Artist Tom Sachs",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/02/Screenshot-2023-02-25-at-11.07.06-AM-gID_2.jpg@png",
@@ -431,7 +461,7 @@
           "description": "With the industry reeling from last year's events, Doodles CEO Julian Holguin says events like NFT Paris can also be a much-needed refuge.",
           "link": "https://decrypt.co/122179/most-projects-are-not-going-make-doodles-ceo",
           "publishedOn": "2023-02-25T16:29:34.000Z",
-          "wordCount": 7384,
+          "wordCount": 7409,
           "title": "‘Most Projects Are Not Going to Make It’ : Doodles CEO",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/02/Screenshot-2023-02-25-at-8.32.14-AM-gID_2.jpg@png",
@@ -446,7 +476,7 @@
           "description": "Adidas' Web3 lead hinted at unique ways to integrate crypto beyond simply adding a payments option. Instead, it's all about community.",
           "link": "https://decrypt.co/122168/adidas-scope-out-token-gated-sneaker-drops-says-web3-lead",
           "publishedOn": "2023-02-25T13:50:35.000Z",
-          "wordCount": 7010,
+          "wordCount": 7035,
           "title": "Adidas to 'Scope Out' Token-Gated Sneaker Drops, Says Web3 Lead",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/02/adidas-web3-nft-1-gID_1.jpg@png",
@@ -461,7 +491,7 @@
           "description": "As the bear market bites, crypto projects are abandoning terms like NFTs and Web3. Here's how branding experts think they should weather the storm.",
           "link": "https://decrypt.co/121597/dont-call-it-crypto-how-some-blockchain-and-nft-projects-are-rebranding",
           "publishedOn": "2023-02-25T13:01:01.000Z",
-          "wordCount": 8645,
+          "wordCount": 8670,
           "title": "Don’t Call It ‘Crypto’: How Some Blockchain and NFT Projects are Rebranding",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/02/rebranding-gID_6.jpeg@png",
@@ -476,7 +506,7 @@
           "description": "With the rise of non-fungible tokens, many users are now looking for more ways to \"unlock\" liquidity for their Apes, Penguins, and Doodles.",
           "link": "https://decrypt.co/122159/borrowing-against-bored-ape-nft-what-could-go-wrong",
           "publishedOn": "2023-02-25T10:28:34.000Z",
-          "wordCount": 7970,
+          "wordCount": 7995,
           "title": "Borrowing Against a Bored Ape NFT—What Could Go Wrong?",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/11/bored-ape-3001-bieber-gID_1.png@png",
@@ -491,7 +521,7 @@
           "description": "Crypto appears to be shedding much of its new year gains, with Bitcoin and Ethereum each posting hefty losses on the week.",
           "link": "https://decrypt.co/122158/this-week-in-coins-bitcoin-ethereum-dip-crypto-market-sheds-58b",
           "publishedOn": "2023-02-25T09:01:09.000Z",
-          "wordCount": 7922,
+          "wordCount": 7947,
           "title": "This Week in Coins: Bitcoin, Ethereum Dip as Crypto Market Sheds $58B",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/09/bitcoin-ethereum-gID_1.jpg@png",
@@ -506,7 +536,7 @@
           "description": "A federal judge’s ruling has offered a first glimpse at how the U.S. government might seek to regulate NFTs. And it may not be all bad, legal experts say.",
           "link": "https://decrypt.co/122148/nba-top-shot-lawsuit-dapper-good-for-nfts",
           "publishedOn": "2023-02-24T22:27:00.000Z",
-          "wordCount": 8415,
+          "wordCount": 8440,
           "title": "NBA Top Shot Lawsuit May Be Bad For Dapper—Could It Be Good for NFTs?",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/05/nba-top-shot-blockchain-game-gID_2.jpg@png",
@@ -521,7 +551,7 @@
           "description": "The holder of the winning Dookey Dash key, 18-year-old Fortnite streamer Mongraal, is currently trying to sell it for $3.5 million.",
           "link": "https://decrypt.co/122138/winning-yuga-labs-dookey-dash-key-1-million-bid",
           "publishedOn": "2023-02-24T19:35:04.000Z",
-          "wordCount": 7782,
+          "wordCount": 7807,
           "title": "Winning Key on Yuga Labs Dookey Dash Gets $1.1M Bid on OpenSea",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/02/dookeydash-gID_6.png@png",
@@ -536,7 +566,7 @@
           "description": "The entire crypto market is in the red today as investors shift risk once again.",
           "link": "https://decrypt.co/122128/bitcoin-dips-inflation-rattles-market",
           "publishedOn": "2023-02-24T18:12:52.000Z",
-          "wordCount": 7113,
+          "wordCount": 7138,
           "title": "Bitcoin Dips After Key Inflation Indicator Rattles Market",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/03/shutterstock_10892469501-gID_1.jpg@png",
@@ -551,7 +581,7 @@
           "description": "Hawkins has joined startup Games for a Living to help create NFT and token-fueled video games, starting with Elemental Raiders.",
           "link": "https://decrypt.co/122119/electronic-arts-trip-hawkins-nft-games",
           "publishedOn": "2023-02-24T17:26:49.000Z",
-          "wordCount": 7648,
+          "wordCount": 7673,
           "title": "Electronic Arts Founder Trip Hawkins Is Now Making NFT Games",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/02/elemental-raiders-web3-game-gID_4.png@png",
@@ -566,7 +596,7 @@
           "description": "Salesforce believes Web3 will connect it with a new generation of customers.",
           "link": "https://decrypt.co/122102/the-wallet-is-the-new-cookie-salesforce-web3-lead",
           "publishedOn": "2023-02-24T17:04:59.000Z",
-          "wordCount": 6983,
+          "wordCount": 7008,
           "title": "'The Wallet Is the New Cookie': Salesforce Web3 Lead",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/02/dan-panel-gID_4.jpeg@png",
@@ -581,7 +611,7 @@
           "description": "Paris-based NFT Factory is hoping to onboard the masses into crypto via a gallery-style NFT space.",
           "link": "https://decrypt.co/122101/nfts-trojan-horse-crypto-adoption-nft-factory-president",
           "publishedOn": "2023-02-24T16:20:16.000Z",
-          "wordCount": 7026,
+          "wordCount": 7051,
           "title": "NFTs Are a 'Trojan Horse' for Crypto Adoption: NFT Factory President",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/02/nft-factory-building-ft-gID_6.jpeg@png",
@@ -596,7 +626,7 @@
           "description": "Block's Cash App business Bitcoin revenue amounted to $35 million last quarter, a 25% drop compared to the same period in 2021.",
           "link": "https://decrypt.co/122086/blocks-cash-app-bitcoin-revenue-drops-25-year-over-year",
           "publishedOn": "2023-02-24T13:29:43.000Z",
-          "wordCount": 6878,
+          "wordCount": 6903,
           "title": "Block’s Cash App Bitcoin Revenue Drops 25% Year-Over-Year",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/02/cash-app-gID_1.jpg@png",
@@ -611,7 +641,7 @@
           "description": "Crypto exchange Binance closed 500 user positions yesterday after noting an error in how customers were classified.",
           "link": "https://decrypt.co/122085/australias-finance-regulator-opens-targeted-review-binance",
           "publishedOn": "2023-02-24T10:52:16.000Z",
-          "wordCount": 6981,
+          "wordCount": 7006,
           "title": "Australia’s Finance Regulator Opens Targeted Review Into Binance",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/10/Australia-crypto-gID_4.jpg@png",
@@ -619,36 +649,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/10/Australia-crypto-gID_4.jpg@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=122081",
-          "author": "Sander Lutz",
-          "description": "Sotheby's will take bids on the rare copy of the novel that first coined the term “metaverse,” expecting to draw bids up to $60,000.",
-          "link": "https://decrypt.co/122081/never-before-seen-snow-crash-manuscript-heads-to-auction",
-          "publishedOn": "2023-02-24T01:37:33.000Z",
-          "wordCount": 7310,
-          "title": "Never-Before-Seen 'Snow Crash' Manuscript Heads to Auction",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/02/Neal-Stephenson.-The-authors-original-typed-manuscript-for-Snow-Crash-1991-1992.-1-scaled-gID_4.jpg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/02/Neal-Stephenson.-The-authors-original-typed-manuscript-for-Snow-Crash-1991-1992.-1-scaled-gID_4.jpg@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=122076",
-          "author": "Jason Nelson",
-          "description": "The move comes less than four months after the company cut 22% of its staff.",
-          "link": "https://decrypt.co/122076/dapper-labs-ceo-confirms-new-round-of-layoffs",
-          "publishedOn": "2023-02-24T00:26:22.000Z",
-          "wordCount": 7068,
-          "title": "Dapper Labs CEO Confirms Another Round of Layoffs",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/02/Dapper-Labs-shutterstock_2188451693016x9-gID_6.jpg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/02/Dapper-Labs-shutterstock_2188451693016x9-gID_6.jpg@png"
         },
         {
           "id": "https://decrypt.co/videos/interviews/CseERzRD/gm-ryan-wyatt-on-polygons-winning-streak",
@@ -763,12 +763,182 @@
       "siteUrl": "https://cryptopanic.com/",
       "articles": [
         {
+          "id": "https://cryptopanic.com/news/17756262/Shiba-Inu-SHIB-Developer-Draws-Attention-to-New-MetaMask-Feature",
+          "author": null,
+          "description": "Shytoshi Kusama, the developer of Shiba Inu (SHIB), has brought attention to the launch of the MetaMask SDK feature in the Unity Asset Store",
+          "link": "https://cryptopanic.com/news/17756262/Shiba-Inu-SHIB-Developer-Draws-Attention-to-New-MetaMask-Feature",
+          "publishedOn": "2023-02-28T19:08:12.000Z",
+          "wordCount": 527,
+          "title": "Shiba Inu (SHIB) Developer Draws Attention to New MetaMask Feature",
+          "imageUrl": "https://u.today/sites/default/files/styles/twitter/public/2023-02/26393.jpeg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/17756255/Derivatives-data-highlights-crypto-traders-positive-sentiment-and-belief-in-further-upside",
+          "author": null,
+          "description": "A 5.5% weekly decline in the total crypto market capitalization might have sucked the wind out of some altcoins, but it has done little to alter traders' bullish point-of-view.",
+          "link": "https://cryptopanic.com/news/17756255/Derivatives-data-highlights-crypto-traders-positive-sentiment-and-belief-in-further-upside",
+          "publishedOn": "2023-02-28T19:06:14.000Z",
+          "wordCount": 529,
+          "title": "Derivatives data highlights crypto traders’ positive sentiment and belief in further upside",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/17756260/AI-Altcoin-Based-on-Cardano-ADA-Rallies-After-Elon-Musk-ChatGPT-Rumors-Swirl",
+          "author": null,
+          "description": "An altcoin project focused on artificial general intelligence (AGI) technology has spiked following rumors that tech mogul Elon Musk had plans in the works for a new version of ChatGPT. Over the weekend, Musk told his 130 million Twitter followers how he was feeling about AGI and the potential...",
+          "link": "https://cryptopanic.com/news/17756260/AI-Altcoin-Based-on-Cardano-ADA-Rallies-After-Elon-Musk-ChatGPT-Rumors-Swirl",
+          "publishedOn": "2023-02-28T19:05:04.000Z",
+          "wordCount": 530,
+          "title": "AI Altcoin Based on Cardano (ADA) Rallies After Elon Musk ChatGPT Rumors Swirl",
+          "imageUrl": "https://dailyhodl.com/wp-content/uploads/2021/11/gaming-spark-ignoring.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/17756222/Bitcoin-Core-Dev-Luke-Dashjr-Doesnt-Want-His-Name-On-Ordinal-Projects",
+          "author": null,
+          "description": "The developer has taken to Nostr to explain why any NFT project using his name does not have his authorization.",
+          "link": "https://cryptopanic.com/news/17756222/Bitcoin-Core-Dev-Luke-Dashjr-Doesnt-Want-His-Name-On-Ordinal-Projects",
+          "publishedOn": "2023-02-28T18:58:45.000Z",
+          "wordCount": 529,
+          "title": "Bitcoin Core Dev Luke Dashjr Doesn’t Want His Name On Ordinal Projects",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/17756224/Unity-launches-decentralized-technology-tools-for-game-developers",
+          "author": null,
+          "description": "Unity Technologies, developer of the Unity game engine, has launched a new set of decentralized technology tools for game developers looking to add decentralization to their games.",
+          "link": "https://cryptopanic.com/news/17756224/Unity-launches-decentralized-technology-tools-for-game-developers",
+          "publishedOn": "2023-02-28T18:55:08.000Z",
+          "wordCount": 525,
+          "title": "Unity launches decentralized technology tools for game developers",
+          "imageUrl": "https://cryptoslate.com/wp-content/uploads/2023/02/gamefi.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/17756208/Why-A-Bitcoin-Monthly-Close-Above-23000-Hints-At-More-Momentum-For-The-Bulls",
+          "author": null,
+          "description": "Bitcoin continues to hold above the $23,000 psychological level for bulls as it nears the end of the month. The industry’s largest cryptocurrency by market cap may have another continuation signal to conquer new annual highs in its 50-month moving average indicator. This is a key threshold for...",
+          "link": "https://cryptopanic.com/news/17756208/Why-A-Bitcoin-Monthly-Close-Above-23000-Hints-At-More-Momentum-For-The-Bulls",
+          "publishedOn": "2023-02-28T18:47:56.000Z",
+          "wordCount": 531,
+          "title": "Why A Bitcoin Monthly Close Above $23,000 Hints At More Momentum For The Bulls",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/17756201/Former-FTX-Director-to-reportedly-plead-guilty-to-fraud-charges",
+          "author": null,
+          "description": "Nishad Singh has reportedly agreed to plead guilty to one count of wire fraud, one count of conspiracy to commit wire fraud on FTX customers, and one count of conspiracy to commit commodities fraud.",
+          "link": "https://cryptopanic.com/news/17756201/Former-FTX-Director-to-reportedly-plead-guilty-to-fraud-charges",
+          "publishedOn": "2023-02-28T18:45:00.000Z",
+          "wordCount": 527,
+          "title": "Former FTX Director to reportedly plead guilty to fraud charges",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/17756168/Ledger-Stax-Hands-On-Review-A-Hardware-Wallet-With-iPod-Design-Flourishes",
+          "author": null,
+          "description": "Decrypt spent some quality time with Ledger’s new crypto hardware wallet at NFT Paris. Here are our first impressions.",
+          "link": "https://cryptopanic.com/news/17756168/Ledger-Stax-Hands-On-Review-A-Hardware-Wallet-With-iPod-Design-Flourishes",
+          "publishedOn": "2023-02-28T18:35:38.000Z",
+          "wordCount": 528,
+          "title": "Ledger Stax Hands-On Review: A Hardware Wallet With iPod Design Flourishes",
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/02/ledger-stax-with-iphone-gID_4.png@png"
+        },
+        {
+          "id": "https://cryptopanic.com/news/17755546/BREAKING-El-Salvador-PROVES-Bitcoin-is-Winning-EP-685",
+          "author": null,
+          "description": "\"El Salvador's state of emergency to combat gangs, which has widespread public support despite a growing prison population and allegations of human rights abuses, will be maintained until all criminals are captured, the country's security minister told Reuters.\" - Reuters✓ SUBSCRIBE -...",
+          "link": "https://cryptopanic.com/news/17755546/BREAKING-El-Salvador-PROVES-Bitcoin-is-Winning-EP-685",
+          "publishedOn": "2023-02-28T18:31:30.000Z",
+          "wordCount": 527,
+          "title": "BREAKING: El Salvador PROVES Bitcoin is Winning | EP 685",
+          "imageUrl": "https://i2.ytimg.com/vi/IGtxAwoDx6Q/hqdefault.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/17756167/Best-Crypto-to-Buy-Today-28th-February-FGHT-XEM-CCHG-SNX-METRO-AGIX-TARO",
+          "author": null,
+          "description": "The latest report from the Conference Board shows that consumer confidence in the US has fallen for the second consecutive month in February, with households becoming increasingly pessimistic about the future. According to the index, the Expectations Index has dropped to 69.7, indicating a high...",
+          "link": "https://cryptopanic.com/news/17756167/Best-Crypto-to-Buy-Today-28th-February-FGHT-XEM-CCHG-SNX-METRO-AGIX-TARO",
+          "publishedOn": "2023-02-28T18:31:00.000Z",
+          "wordCount": 532,
+          "title": "Best Crypto to Buy Today 28th February – FGHT, XEM, CCHG, SNX, METRO, AGIX, TARO",
+          "imageUrl": "https://v2.cimg.co/news/106310/259638/d60ba0b0-0d2c-4911-863c-5.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/17756164/GMX-enjoys-post-FTX-whale-interest-but-challenges-arise",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/17756164/GMX-enjoys-post-FTX-whale-interest-but-challenges-arise",
+          "publishedOn": "2023-02-28T18:30:58.000Z",
+          "wordCount": null,
+          "title": "GMX enjoys post-FTX whale interest, but challenges arise",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/17756148/Former-FTX-exec-Nishad-Singh-charged-by-the-SEC-for-defrauding-investors",
+          "author": null,
+          "description": "Nishad Singh was charged Tuesday by the SEC for “his role in a multiyear scheme” to defraud investors in the crypto exchange FTX.",
+          "link": "https://cryptopanic.com/news/17756148/Former-FTX-exec-Nishad-Singh-charged-by-the-SEC-for-defrauding-investors",
+          "publishedOn": "2023-02-28T18:28:25.000Z",
+          "wordCount": 529,
+          "title": "Former FTX exec Nishad Singh charged by the SEC for defrauding investors",
+          "imageUrl": "https://www.tbstat.com/wp/uploads/2021/11/211029_SEC_General-1200x675.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/17756140/Coinbase-Pushes-Back-Against-SEC-Launches-Campaign-To-Rally-Crypto-Forces",
+          "author": null,
+          "description": "U.S.-based Crypto exchange Coinbase has launched a campaign in favor of crypto policies in all 435 congressional districts across the jurisdiction of the U.S. government. This decision comes from increased regulatory enforcement actions by the Securities and Exchange Commission (SEC). SEC...",
+          "link": "https://cryptopanic.com/news/17756140/Coinbase-Pushes-Back-Against-SEC-Launches-Campaign-To-Rally-Crypto-Forces",
+          "publishedOn": "2023-02-28T18:23:53.000Z",
+          "wordCount": 528,
+          "title": "Coinbase Pushes Back Against SEC, Launches Campaign To Rally Crypto Forces",
+          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2023/02/visuals-b9wsEM40Cv0-unsplash-528x660.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/17756129/Crypto-wallet-ZenGo-is-raising-funds-at-a-flat-valuation-of-100-million",
+          "author": null,
+          "description": "The Israeli startup is looking to raise $10 million via convertible notes, according to a pitch deck obtained by The Block.",
+          "link": "https://cryptopanic.com/news/17756129/Crypto-wallet-ZenGo-is-raising-funds-at-a-flat-valuation-of-100-million",
+          "publishedOn": "2023-02-28T18:17:55.000Z",
+          "wordCount": 530,
+          "title": "Crypto wallet ZenGo is raising funds at a flat valuation of $100 million",
+          "imageUrl": "https://www.tbstat.com/wp/uploads/2023/02/zengo.png"
+        },
+        {
+          "id": "https://cryptopanic.com/news/17756142/SEC-CFTC-Charge-FTXs-Singh-With-Fraud-Following-Criminal-Plea",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/17756142/SEC-CFTC-Charge-FTXs-Singh-With-Fraud-Following-Criminal-Plea",
+          "publishedOn": "2023-02-28T18:17:39.000Z",
+          "wordCount": null,
+          "title": "SEC, CFTC Charge FTX's Singh With Fraud Following Criminal Plea",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/17756128/Bitcoin-miner-Marathon-cancels-Q4-earnings-call-over-accounting-corrections",
+          "author": null,
+          "description": "Bitcoin miner Marathon has canceled the earnings call scheduled for Tuesday afternoon after being notified about \"accounting errors\" going as far back as 2021.",
+          "link": "https://cryptopanic.com/news/17756128/Bitcoin-miner-Marathon-cancels-Q4-earnings-call-over-accounting-corrections",
+          "publishedOn": "2023-02-28T18:10:54.000Z",
+          "wordCount": 527,
+          "title": "Bitcoin miner Marathon cancels Q4 earnings call over accounting corrections",
+          "imageUrl": "https://www.tbstat.com/wp/uploads/2021/02/20210216_Mining_Bitcoin_2_Generic-1200x675.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/17756127/Lido-Staked-Ethereum-Explained-In-Under-60-Seconds",
+          "author": null,
+          "description": "What is Lido Finance Explained. Ethereum staking for crypto in 2023💸 BYBIT $30,030 BONUS & FEE DISCOUNT 👉 https://cryptolark.co/BYBIT🔥 GET MY FREE INVESTOR REPORT 👉 https://cryptolark.co/WEALTHMASTERY👨‍🎓 NEW TO CRYPTO? OR JUST WANT TO LEARN MORE? CHECK OUT MY 100% FREE BEGINNER GUIDE! 👉...",
+          "link": "https://cryptopanic.com/news/17756127/Lido-Staked-Ethereum-Explained-In-Under-60-Seconds",
+          "publishedOn": "2023-02-28T18:00:18.000Z",
+          "wordCount": 525,
+          "title": "Lido Staked Ethereum Explained In Under 60 Seconds",
+          "imageUrl": "https://i2.ytimg.com/vi/micxytdKjbU/hqdefault.jpg"
+        },
+        {
           "id": "https://cryptopanic.com/news/17756035/OKX-seizes-2M-USDT-linked-to-market-manipulation",
           "author": null,
-          "description": "The exchange has related frozen assets and will allocate over 3 million USDT for an airdrop to eligible users who suffered losses.",
+          "description": "",
           "link": "https://cryptopanic.com/news/17756035/OKX-seizes-2M-USDT-linked-to-market-manipulation",
           "publishedOn": "2023-02-28T18:00:00.000Z",
-          "wordCount": 525,
+          "wordCount": null,
           "title": "OKX seizes 2M USDT linked to market manipulation",
           "imageUrl": null
         },
@@ -783,183 +953,13 @@
           "imageUrl": null
         },
         {
-          "id": "https://cryptopanic.com/news/17756079/Gaming-Engine-Unity-Taps-MetaMask-Immutable-X-and-Solana-for-Web3-Developer-Tools",
+          "id": "https://cryptopanic.com/news/17756121/Tech-Startup-MultiversX-Starts-Web3-Super-App-With-Finance-Social-Features",
           "author": null,
           "description": "",
-          "link": "https://cryptopanic.com/news/17756079/Gaming-Engine-Unity-Taps-MetaMask-Immutable-X-and-Solana-for-Web3-Developer-Tools",
-          "publishedOn": "2023-02-28T17:57:50.000Z",
+          "link": "https://cryptopanic.com/news/17756121/Tech-Startup-MultiversX-Starts-Web3-Super-App-With-Finance-Social-Features",
+          "publishedOn": "2023-02-28T18:00:00.000Z",
           "wordCount": null,
-          "title": "Gaming Engine Unity Taps MetaMask, Immutable X and Solana for Web3 Developer Tools",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/17756045/French-Police-Arrest-Hackers-Allegedly-Associated-With-Exploit-of-Avalanche-Based-DeFi-Protocol",
-          "author": null,
-          "description": "The French National Police have arrested two individuals allegedly behind the $9.19 million hack on Avalanche (AVAX)-based decentralized finance (DeFi) protocol Platypus Finance. The French police also announced they seized €210,000 ($222,505) worth of cryptocurrencies. Platypus itself also...",
-          "link": "https://cryptopanic.com/news/17756045/French-Police-Arrest-Hackers-Allegedly-Associated-With-Exploit-of-Avalanche-Based-DeFi-Protocol",
-          "publishedOn": "2023-02-28T17:55:53.000Z",
-          "wordCount": 529,
-          "title": "French Police Arrest Hackers Allegedly Associated With Exploit of Avalanche-Based DeFi Protocol",
-          "imageUrl": "https://dailyhodl.com/wp-content/uploads/2023/02/french-hackers-with-exploit.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/17756036/Sweden-seeks-to-allay-CBDC-concerns-by-saying-it-has-no-interest-in-looking-at-how-people-pay-for-things",
-          "author": null,
-          "description": "Head of Swedish Central Bank’s digital currency project, Mithra Sunberg commented on the central bank digital currencies (CBDCs) and said that the country doesn’t care about how people issue their payments, as reported by DL News.",
-          "link": "https://cryptopanic.com/news/17756036/Sweden-seeks-to-allay-CBDC-concerns-by-saying-it-has-no-interest-in-looking-at-how-people-pay-for-things",
-          "publishedOn": "2023-02-28T17:51:12.000Z",
-          "wordCount": 537,
-          "title": "Sweden seeks to allay CBDC concerns by saying it has no ‘interest in looking at how people pay for things’",
-          "imageUrl": "https://cryptoslate.com/wp-content/uploads/2023/02/sweden-cbdc.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/17756018/Sushi-boosts-Treasury-to-306M-after-Kanpai-implementation",
-          "author": null,
-          "description": "SushiSwap Head Chef Jared Grey said the protocol increased its Treasury holdings to about $30.6 million with a burn rate of around $5 million per annum.",
-          "link": "https://cryptopanic.com/news/17756018/Sushi-boosts-Treasury-to-306M-after-Kanpai-implementation",
-          "publishedOn": "2023-02-28T17:42:57.000Z",
-          "wordCount": 525,
-          "title": "Sushi boosts Treasury to $30.6M after Kanpai implementation",
-          "imageUrl": "https://cryptoslate.com/wp-content/uploads/2023/02/sushi.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/17756016/Ohio-Joins-225M-Multistate-Settlement-Against-Crypto-Lender-Nexo",
-          "author": null,
-          "description": "The North American Securities Administrators Association and the U.S. Securities Exchange Commission already announced in January that a settlement had been reached.",
-          "link": "https://cryptopanic.com/news/17756016/Ohio-Joins-225M-Multistate-Settlement-Against-Crypto-Lender-Nexo",
-          "publishedOn": "2023-02-28T17:42:00.000Z",
-          "wordCount": 526,
-          "title": "Ohio Joins $22.5M Multistate Settlement Against Crypto Lender Nexo",
-          "imageUrl": "https://www.coindesk.com/resizer/wpuZvgwF4DGzwMtevEU2tUxXFqM=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/EP5D5SXXERB7JHYBN73L7X4SZA.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/17755982/Aussie-man-threatened-to-start-bushfire-in-crypto-extortion-attempt-police-say",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/17755982/Aussie-man-threatened-to-start-bushfire-in-crypto-extortion-attempt-police-say",
-          "publishedOn": "2023-02-28T17:36:13.000Z",
-          "wordCount": null,
-          "title": "Aussie man threatened to start bushfire in crypto extortion attempt, police say",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/17755983/France-passes-new-crypto-registration-rules-for-firms",
-          "author": null,
-          "description": "The French National Assembly passed a set of licensing rules for crypto firms operating in the country as part of a broader bill aimed at harmonizing French law with European Union standards. The final National Assembly vote tally was 109 in favor to 71 against. The French Senate already passed...",
-          "link": "https://cryptopanic.com/news/17755983/France-passes-new-crypto-registration-rules-for-firms",
-          "publishedOn": "2023-02-28T17:35:37.000Z",
-          "wordCount": 525,
-          "title": "France passes new crypto registration rules for firms",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2019/07/paris-france-eiffel-tower-1200x675.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/17755981/Top-5-cryptocurrencies-under-010-to-buy-in-March-2023",
-          "author": null,
-          "description": "With the third month of 2023 drawing close and the cryptocurrency market continuing to flash between green and red, there … Continued",
-          "link": "https://cryptopanic.com/news/17755981/Top-5-cryptocurrencies-under-010-to-buy-in-March-2023",
-          "publishedOn": "2023-02-28T17:33:06.000Z",
-          "wordCount": 527,
-          "title": "Top 5 cryptocurrencies under $0.10 to buy in March 2023",
-          "imageUrl": "https://finbold.com/app/uploads/2023/02/Top-5-cryptocurrencies-under-0.10-to-buy-in-March-2023.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/17755976/Britain-Wants-To-Get-Ahead-In-CBDC-Race-Heres-How",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/17755976/Britain-Wants-To-Get-Ahead-In-CBDC-Race-Heres-How",
-          "publishedOn": "2023-02-28T17:30:13.000Z",
-          "wordCount": null,
-          "title": "Britain Wants To Get Ahead In CBDC Race, Here’s How",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/17756013/Digital-Pound-Could-Help-Protect-Consumers-if-Banks-Fail",
-          "author": null,
-          "description": "The Bank of England (BOE) representative believes that the digital pound could rescue citizens during a bank run. He compares CBDC to the first-generation iPhone.",
-          "link": "https://cryptopanic.com/news/17756013/Digital-Pound-Could-Help-Protect-Consumers-if-Banks-Fail",
-          "publishedOn": "2023-02-28T17:30:00.000Z",
-          "wordCount": 526,
-          "title": "Digital Pound Could Help Protect Consumers if Banks Fail",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/17755979/Liquidity-has-most-affected-Bitcoins-price-in-the-last-year-according-to-trader-Brian-Krogsgard",
-          "author": null,
-          "description": "Cointelegraph’s Crypto Trading Secrets podcast welcomed Brian Krogsgard, aka Ledgerstatus on Twitter, for Episode 6.",
-          "link": "https://cryptopanic.com/news/17755979/Liquidity-has-most-affected-Bitcoins-price-in-the-last-year-according-to-trader-Brian-Krogsgard",
-          "publishedOn": "2023-02-28T17:30:00.000Z",
-          "wordCount": 532,
-          "title": "‘Liquidity’ has most affected Bitcoin’s price in the last year, according to trader Brian Krogsgard",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/17755952/French-National-Assembly-Votes-for-Tougher-Registration-Rules-for-Crypto-Firms",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/17755952/French-National-Assembly-Votes-for-Tougher-Registration-Rules-for-Crypto-Firms",
-          "publishedOn": "2023-02-28T17:23:41.000Z",
-          "wordCount": null,
-          "title": "French National Assembly Votes for Tougher Registration Rules for Crypto Firms",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/17755950/FTX-Nishad-Singh-pleads-guilty-to-criminal-charges",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/17755950/FTX-Nishad-Singh-pleads-guilty-to-criminal-charges",
-          "publishedOn": "2023-02-28T17:21:31.000Z",
-          "wordCount": null,
-          "title": "FTX: Nishad Singh pleads guilty to criminal charges",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/17755932/The-Future-of-Crypto-Markets-Will-Be-Driven-by-Developments-in-the-East",
-          "author": null,
-          "description": "Crypto investors need to keep an eye on geopolitical shifts playing out on the regulatory landscape, specifically some upcoming changes in Asia.",
-          "link": "https://cryptopanic.com/news/17755932/The-Future-of-Crypto-Markets-Will-Be-Driven-by-Developments-in-the-East",
-          "publishedOn": "2023-02-28T17:16:22.000Z",
-          "wordCount": 530,
-          "title": "The Future of Crypto Markets Will Be Driven by Developments in the East",
-          "imageUrl": "https://www.coindesk.com/resizer/GoZCj6DJokrPYieiq4pPY1pxD4w=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/YEUDAH7EINA4BENHAWL6B2NUNQ.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/17755940/FTX-and-BlockFi-bankruptcies-spook-Visa-and-Mastercard",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/17755940/FTX-and-BlockFi-bankruptcies-spook-Visa-and-Mastercard",
-          "publishedOn": "2023-02-28T17:16:04.000Z",
-          "wordCount": null,
-          "title": "FTX and BlockFi bankruptcies spook Visa and Mastercard",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/17755933/Bitcoin-Miner-Marathon-Digital-to-Restate-Some-Results-on-Accounting-Issues",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/17755933/Bitcoin-Miner-Marathon-Digital-to-Restate-Some-Results-on-Accounting-Issues",
-          "publishedOn": "2023-02-28T17:10:19.000Z",
-          "wordCount": null,
-          "title": "Bitcoin Miner Marathon Digital to Restate Some Results on Accounting Issues",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/17755900/Bitcoin-bears-gain-as-bulls-fight-for-support-Will-BTC-crash-below-23k",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/17755900/Bitcoin-bears-gain-as-bulls-fight-for-support-Will-BTC-crash-below-23k",
-          "publishedOn": "2023-02-28T17:06:48.000Z",
-          "wordCount": null,
-          "title": "Bitcoin bears gain as bulls fight for support; Will BTC crash below $23k?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/17755931/LUSD-Sister-Token-Rallies-103-as-Binance-Fights-BUSD-FUD",
-          "author": null,
-          "description": "LQTY token surges 103% following a recent Binance listing announcement.",
-          "link": "https://cryptopanic.com/news/17755931/LUSD-Sister-Token-Rallies-103-as-Binance-Fights-BUSD-FUD",
-          "publishedOn": "2023-02-28T17:03:08.000Z",
-          "wordCount": 527,
-          "title": "LUSD Sister Token Rallies 103% as Binance Fights BUSD FUD",
+          "title": "Tech Startup MultiversX Starts Web3 'Super App' With Finance, Social Features",
           "imageUrl": null
         }
       ]
@@ -970,24 +970,34 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://open.spotify.com/episode/4eWrEJnQITrx4Oc91srQ8D?si=l0oBAQLoQjuSucSsg_ilSA",
+          "author": null,
+          "description": "Spotify",
+          "link": "https://open.spotify.com/episode/4eWrEJnQITrx4Oc91srQ8D?si=l0oBAQLoQjuSucSsg_ilSA",
+          "publishedOn": "2023-02-28T19:00:03.000Z",
+          "wordCount": 514,
+          "title": "Spotify",
+          "imageUrl": "https://i.scdn.co/image/ab6765630000ba8aac27a885ecc3ad8a751f129d"
+        },
+        {
+          "id": "https://www.theblock.co/post/215343/scrolls-zk-evm-layer-2-goes-live-on-ethereums-goerli-testnet",
+          "author": null,
+          "description": "Scroll’s zk-EVM Layer 2 goes live on Ethereum’s Goerli testnet",
+          "link": "https://www.theblock.co/post/215343/scrolls-zk-evm-layer-2-goes-live-on-ethereums-goerli-testnet",
+          "publishedOn": "2023-02-28T18:00:04.000Z",
+          "wordCount": 70788,
+          "title": "Scroll’s zk-EVM Layer 2 goes live on Ethereum’s Goerli testnet",
+          "imageUrl": "https://www.tbstat.com/wp/uploads/2023/02/scroll-logo-logo-full-color-rgb-svg.png"
+        },
+        {
           "id": "https://www.reuters.com/technology/visa-mastercard-pause-crypto-push-wake-industry-meltdown-sources-2023-02-28/",
           "author": null,
           "description": "Visa, Mastercard pause crypto push in wake of industry meltdown - sources",
           "link": "https://www.reuters.com/technology/visa-mastercard-pause-crypto-push-wake-industry-meltdown-sources-2023-02-28/",
           "publishedOn": "2023-02-28T17:00:03.000Z",
-          "wordCount": 4135,
+          "wordCount": 4174,
           "title": "Visa, Mastercard pause crypto push in wake of industry meltdown - sources",
           "imageUrl": "https://www.reuters.com/resizer/brs4qQ_M9VMooGR7BptMbpMmKkc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ZYKTVE5RPVNNHLNKVZPR7XSR3M.jpg"
-        },
-        {
-          "id": "https://www.zerohedge.com/markets/subprime-auto-lender-and-used-car-retailer-collapses-distress-cycle-finally-arrives",
-          "author": null,
-          "description": "Subprime Auto Lender And Used Car Retailer Collapses As Distress Cycle Finally Arrives | ZeroHedge",
-          "link": "https://www.zerohedge.com/markets/subprime-auto-lender-and-used-car-retailer-collapses-distress-cycle-finally-arrives",
-          "publishedOn": "2023-02-28T17:00:03.000Z",
-          "wordCount": 1265,
-          "title": "Subprime Auto Lender And Used Car Retailer Collapses As Distress Cycle Finally Arrives | ZeroHedge",
-          "imageUrl": null
         },
         {
           "id": "https://nymag.com/intelligencer/article/arthur-hayes-bitmex-crypto-interview.html",
@@ -995,7 +1005,7 @@
           "description": "The Original King of Crypto Is Back",
           "link": "https://nymag.com/intelligencer/article/arthur-hayes-bitmex-crypto-interview.html",
           "publishedOn": "2023-02-28T17:00:02.000Z",
-          "wordCount": 32900,
+          "wordCount": 32912,
           "title": "The Original King of Crypto Is Back",
           "imageUrl": "https://pyxis.nymag.com/v1/imgs/3a8/213/d8e42c546ec297e8a2f40e8c8e4a618913-AH-HRwide.1x.rsocial.w1200.jpg"
         },
@@ -1015,7 +1025,7 @@
           "description": "WSJ News Exclusive | Huawei Export Licenses Could be Revoked by U.S.",
           "link": "https://www.wsj.com/articles/huawei-export-licenses-could-be-revoked-by-u-s-567c998d?mod=latest_headlines",
           "publishedOn": "2023-02-28T14:30:03.000Z",
-          "wordCount": 7949,
+          "wordCount": 7899,
           "title": "WSJ News Exclusive | Huawei Export Licenses Could be Revoked by U.S.",
           "imageUrl": "https://images.wsj.net/im-732904/social"
         },
@@ -1025,7 +1035,7 @@
           "description": "Second Ethereum Testnet Successfully Simulates Shanghai Hard Fork",
           "link": "https://www.coindesk.com/tech/2023/02/28/second-ethereum-testnet-successfully-simulates-shanghai-hard-fork/?utm_term=organic&utm_content=editorial&utm_source=twitter&utm_medium=social&utm_campaign=coindesk_main",
           "publishedOn": "2023-02-28T14:00:04.000Z",
-          "wordCount": 18913,
+          "wordCount": 19030,
           "title": "Second Ethereum Testnet Successfully Simulates Shanghai Hard Fork",
           "imageUrl": "https://www.coindesk.com/resizer/1egm8BaM516lHqkqQ3STm67O92s=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/KA23WHV3KNBX3NBTFGYYQPWABI.jpg"
         },
@@ -1065,9 +1075,9 @@
           "description": "GitHub - randlabs/encrypted-local-storage",
           "link": "https://github.com/randlabs/encrypted-local-storage",
           "publishedOn": "2023-02-28T03:00:02.000Z",
-          "wordCount": 1170,
+          "wordCount": 1117,
           "title": "GitHub - randlabs/encrypted-local-storage",
-          "imageUrl": "https://opengraph.githubassets.com/de99e5ccd838f62913e5277bffe80fa3b3c8536d1eb961ef05d2b59fa19f80c3/randlabs/encrypted-local-storage"
+          "imageUrl": "https://opengraph.githubassets.com/75544abed5498dd7386b7d71b9e88218196e9a797415835828ac491cdc18093c/randlabs/encrypted-local-storage"
         },
         {
           "id": "https://openordex.org/",
@@ -1080,22 +1090,12 @@
           "imageUrl": "img/screenshot.png"
         },
         {
-          "id": "https://rabbithole.mirror.xyz/s1BFIgK1oIDAiQnUpyIJtsfx18zvN0U6tWh4fW76DV8",
-          "author": null,
-          "description": "Beyond Hype: Understanding the Impact of Airdrops on NFT Marketp…",
-          "link": "https://rabbithole.mirror.xyz/s1BFIgK1oIDAiQnUpyIJtsfx18zvN0U6tWh4fW76DV8",
-          "publishedOn": "2023-02-28T02:00:04.000Z",
-          "wordCount": 5262,
-          "title": "Beyond Hype: Understanding the Impact of Airdrops on NFT Marketp…",
-          "imageUrl": "https://mirror-media.imgix.net/publication-images/q8EZm6T3FUbTJltMfE4T6.png?height=363&width=725&h=363&w=725&auto=compress"
-        },
-        {
           "id": "https://venturepunk.substack.com/p/bitcoin-nfts-a-wild-30-days",
           "author": null,
           "description": "Bitcoin NFTs!?!?! A Wild 30 Days",
           "link": "https://venturepunk.substack.com/p/bitcoin-nfts-a-wild-30-days",
           "publishedOn": "2023-02-28T01:00:03.000Z",
-          "wordCount": 3493,
+          "wordCount": 3492,
           "title": "Bitcoin NFTs!?!?! A Wild 30 Days",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F287b6c06-82fb-4ffc-8c4d-8749ee2d82b1_1131x1600.png"
         },
@@ -1125,7 +1125,7 @@
           "description": "Yuga Labs drops bitcoin-based NFT collection TwelveFold",
           "link": "https://www.theblock.co/post/215504/yuga-labs-drops-bitcoin-based-nft-collection-twelvefold?utm_source=twitter&utm_medium=social",
           "publishedOn": "2023-02-28T01:00:02.000Z",
-          "wordCount": 68198,
+          "wordCount": 68500,
           "title": "Yuga Labs drops bitcoin-based NFT collection TwelveFold",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2023/02/thumbnail_BTCNFT_BASE12_v10_00001-1-675x675.jpeg"
         },
@@ -1165,7 +1165,7 @@
           "description": "Gary Gensler on Meeting With SBF and His Crypto Crackdown",
           "link": "https://nymag.com/intelligencer/2023/02/gary-gensler-on-meeting-with-sbf-and-his-crypto-crackdown.html",
           "publishedOn": "2023-02-27T14:30:02.000Z",
-          "wordCount": 29068,
+          "wordCount": 29078,
           "title": "Gary Gensler on Meeting With SBF and His Crypto Crackdown",
           "imageUrl": "https://pyxis.nymag.com/v1/imgs/aa8/154/456f6fb3c6ab532c255bac8c62cf741b12-gensler.1x.rsocial.w1200.jpg"
         }
@@ -1177,12 +1177,67 @@
       "siteUrl": "https://www.inoreader.com/stream/user/1005336866/tag/%E6%B5%B7%E5%A4%96%E5%8A%A0%E5%AF%86%E8%B5%84%E8%AE%AF/view/html",
       "articles": [
         {
+          "id": "http://www.inoreader.com/article/3a9c6e753bfacab8",
+          "author": "Jamie Redman",
+          "description": "According to a recent report from sources familiar with the matter, Mastercard and Visa, the credit card and payment services giants, are halting new partnerships with cryptocurrency firms. This news comes after the collapse of several cryptocurrency ventures that offered crypto debit cards and failed due to financial difficulties last year. After the report published, Visa’s head of crypto, Cuy Sheffield, criticized the story as “inaccurate as it pertains to Visa.”\n \nVisa and Mastercard Clarify Their Stance on Cryptocurrency Despite Alleged Partnership Halt\n \nA report published by Reuters on Tuesday states that Visa and Mastercard, two payments firms, are suspending their involvement in cryptocurrency ventures, according to unnamed sources. The sources cited “high-profile collapses” as th…",
+          "link": "https://news.bitcoin.com/report-claims-visa-and-mastercard-plan-to-pause-new-partnerships-visas-head-of-crypto-insists-story-is-inaccurate/",
+          "publishedOn": "2023-02-28T19:02:19.000Z",
+          "wordCount": 3657,
+          "title": "Report Claims Visa and Mastercard Plan to Pause New Partnerships, Visa’s Head of Crypto Insists ‘Story Is Inaccurate’",
+          "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2023/02/vmc.jpg"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e753bfb6011",
+          "author": "BtcCasey",
+          "description": "The developer has taken to Nostr to explain why any NFT project using his name does not have his authorization.\nProlific Bitcoin Core developer Luke Dashjr has publicly declared his disavowment of any Ordinal project associated with his name. \nIn a post on the decentralized social media platform Nostr, Dashjr clarified his involvement in the projects, saying that “I have not consented to the use of my code or my name for this purpose. Instead, 3rd parties are marketing my name and my code for their own monetary gain.”\nDashjr also noted that the sellers of the NFTs have reached out to him in what he interprets as a bribe, writing that “The public should also be aware that the seller and/or auction site offered me a donation of 90% of the auction proceeds “should I choose to accept” it. I fe…",
+          "link": "https://bitcoinmagazine.com/culture/luke-dashjr-doesnt-want-his-name-on-bitcoin-nfts",
+          "publishedOn": "2023-02-28T18:58:15.000Z",
+          "wordCount": null,
+          "title": "Bitcoin Core Dev Luke Dashjr Doesn’t Want His Name On Ordinal Projects",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/png",
+            "url": "http://bitcoinmagazine.com/.image/c_limit,cs_srgb,h_1200,q_auto:good,w_1200/MTkwOTE3NzExNjQ2MTcyNzU3/aa-btc-4.png"
+          },
+          "imageUrl": "http://bitcoinmagazine.com/.image/c_limit,cs_srgb,h_1200,q_auto:good,w_1200/MTkwOTE3NzExNjQ2MTcyNzU3/aa-btc-4.png"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e753be7ae7a",
+          "author": "Nikhilesh De",
+          "description": "The U.S. Securities and Exchange Commission and Commodity Futures charged former FTX director of engineering Nishad Singh with fraud allegations on Tuesday.",
+          "link": "https://www.coindesk.com/policy/2023/02/28/sec-cftc-charge-ftxs-singh-with-fraud-following-criminal-plea/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2023-02-28T18:29:18.000Z",
+          "wordCount": 19152,
+          "title": "SEC, CFTC Charge FTX's Singh With Fraud Following Criminal Plea",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/jpeg",
+            "url": "https://www.coindesk.com/resizer/s3FWqU9618TCjBMupvPmdMV3fH8=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/PBYKGT6ZAVHZ7C2OE2AUSMIMOQ.jpg"
+          },
+          "imageUrl": "https://www.coindesk.com/resizer/s3FWqU9618TCjBMupvPmdMV3fH8=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/PBYKGT6ZAVHZ7C2OE2AUSMIMOQ.jpg"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e753be00600",
+          "author": "Ronaldo Marquez",
+          "description": "U.S.-based Crypto exchange Coinbase has launched a campaign in favor of crypto policies in all 435 congressional districts across the jurisdiction of the U.S. government. This decision comes from increased regulatory enforcement actions by the Securities and Exchange Commission (SEC).\n \nSEC Chairman Gary Gensler calls for the crypto exchanges to register as securities trading platforms under its jurisdiction. The Commission has raised concerns about the services that crypto exchanges will be allowed to offer in the North American country. \n \n \nTo this end, Coinbase has launched a campaign called “Crypto435.” According to the exchange, the goal is to get the crypto community to join forces against the regulatory policies that the SEC is promoting toward the crypto industry. Will it have an …",
+          "link": "https://bitcoinist.com/coinbase-launches-campaign-to-rally-crypto-forces/",
+          "publishedOn": "2023-02-28T18:26:39.000Z",
+          "wordCount": 4735,
+          "title": "Coinbase Pushes Back Against SEC, Launches Campaign To Rally Crypto Forces",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/jpeg",
+            "url": "https://bitcoinist.com/wp-content/uploads/2023/02/visuals-b9wsEM40Cv0-unsplash-336x420.jpg"
+          },
+          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2023/02/visuals-b9wsEM40Cv0-unsplash-336x420.jpg"
+        },
+        {
           "id": "http://www.inoreader.com/article/3a9c6e753be229bb",
           "author": "Rosie Perper",
           "description": "The metaverse-focused blockchain startup said its xPortal app will offer connection to Web3 apps and virtual worlds.",
           "link": "https://www.coindesk.com/web3/2023/02/28/tech-startup-multiversx-launches-web3-super-app-with-finance-social-features/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-02-28T18:12:14.000Z",
-          "wordCount": 18695,
+          "wordCount": 18853,
           "title": "Tech Startup MultiversX Starts Web3 'Super App' With Finance, Social Features",
           "enclosure": {
             "length": "1337",
@@ -1197,7 +1252,7 @@
           "description": "The leading platform for game developers introduces an online storefront for decentralized tools, adding support for major Web3 players.",
           "link": "https://www.coindesk.com/web3/2023/02/28/gaming-engine-unity-taps-metamask-immutable-x-and-solana-for-web3-developer-tools/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-02-28T18:01:42.000Z",
-          "wordCount": 18525,
+          "wordCount": 18665,
           "title": "Gaming Engine Unity Taps MetaMask, Immutable X and Solana for Web3 Developer Tools",
           "enclosure": {
             "length": "1337",
@@ -1212,7 +1267,7 @@
           "description": "The North American Securities Administrators Association and the U.S. Securities Exchange Commission already announced in January that a settlement had been reached.",
           "link": "https://www.coindesk.com/policy/2023/02/28/ohio-joins-225m-multistate-settlement-against-crypto-lender-nexo/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-02-28T17:53:18.000Z",
-          "wordCount": 18800,
+          "wordCount": 18917,
           "title": "Ohio Joins $22.5M Multistate Settlement Against Crypto Lender Nexo",
           "enclosure": {
             "length": "1337",
@@ -1227,7 +1282,7 @@
           "description": "With the rise of central Bank digital currency (CBDC) emerging and proving a notable use case, several central banks across the globe have been pressured into a race to work and experiment with developing their a central bank digital currency (CBDC). On Tuesday, Bank of England Deputy Governor Jon Cunliffe said Britain is competing in the CBDC race. \n \nThis update comes months after the region announced its newly elected prime minister, Rishi Sunak, who is said to be a believer and supporter of the crypto industry. So far, Sunak has demonstrated more interest in stablecoins which has also played a massive role in Britain’s push for a digital pound. \n \nBritain Competes In CBDC Race\n \nIn a Tuesday financial stability report at the Bank of England, the Deputy Governor for this financial insti…",
           "link": "https://bitcoinist.com/britain-wants-to-get-ahead-in-cbdc-race-heres-how/",
           "publishedOn": "2023-02-28T17:36:14.000Z",
-          "wordCount": 4860,
+          "wordCount": 4868,
           "title": "Britain Wants To Get Ahead In CBDC Race, Here’s How",
           "enclosure": {
             "length": "1337",
@@ -1242,7 +1297,7 @@
           "description": "The approval Tuesday means a new regime cast in the wake of the FTX collapse will pass into law.",
           "link": "https://www.coindesk.com/policy/2023/02/28/french-national-assembly-votes-for-tougher-registration-rules-for-crypto-firms/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-02-28T17:36:03.000Z",
-          "wordCount": 18812,
+          "wordCount": 18929,
           "title": "French National Assembly Votes for Tougher Registration Rules for Crypto Firms",
           "enclosure": {
             "length": "1337",
@@ -1257,7 +1312,7 @@
           "description": "Crypto investors need to keep an eye on geopolitical shifts playing out on the regulatory landscape, specifically some upcoming changes in Asia.",
           "link": "https://www.coindesk.com/consensus-magazine/2023/02/28/the-future-of-crypto-markets-will-be-driven-by-developments-in-the-east/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-02-28T17:24:16.000Z",
-          "wordCount": 22164,
+          "wordCount": 22318,
           "title": "The Future of Crypto Markets Will Be Driven by Developments in the East",
           "enclosure": {
             "length": "1337",
@@ -1272,7 +1327,7 @@
           "description": "The disclosure comes ahead of this afternoon's fourth quarter earnings release.",
           "link": "https://www.coindesk.com/business/2023/02/28/bitcoin-miner-marathon-digital-to-restate-some-results-on-accounting-issues/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-02-28T17:24:16.000Z",
-          "wordCount": 18619,
+          "wordCount": 18758,
           "title": "Bitcoin Miner Marathon Digital to Restate Some Results on Accounting Issues",
           "enclosure": {
             "length": "1337",
@@ -1287,7 +1342,7 @@
           "description": "Grayscale says it’s preparing to argue in court next week that the Securities and Exchange Commission (SEC) inappropriately treated its bitcoin exchange-traded fund (ETF) bid differently than earlier decisions on futures ETFs, according to the company’s legal team.",
           "link": "https://www.coindesk.com/policy/2023/02/28/grayscale-to-argue-secs-inconsistency-as-bitcoin-etf-dispute-heads-toward-court/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-02-28T17:13:37.000Z",
-          "wordCount": 19225,
+          "wordCount": 19364,
           "title": "Grayscale to Argue SEC’s Inconsistency as Bitcoin ETF Dispute Heads Toward Court",
           "enclosure": {
             "length": "1337",
@@ -1302,7 +1357,7 @@
           "description": "The feature is still in draft form and would require a soft fork in order to be adopted into Bitcoin Core.",
           "link": "https://www.coindesk.com/tech/2023/02/28/proposed-bitcoin-vault-feature-could-thwart-malicious-hackers/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-02-28T17:03:10.000Z",
-          "wordCount": 19449,
+          "wordCount": 19587,
           "title": "Proposed Bitcoin Vault Feature Could Thwart Malicious Hackers",
           "enclosure": {
             "length": "1337",
@@ -1332,7 +1387,7 @@
           "description": "Former FTX Director of Engineering Nishad Singh pleaded guilty to criminal charges in a New York court on Tuesday.",
           "link": "https://www.coindesk.com/policy/2023/02/28/former-ftx-engineering-director-nishad-singh-pleads-guilty-to-criminal-charges-reuters/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-02-28T16:53:02.000Z",
-          "wordCount": 18922,
+          "wordCount": 19065,
           "title": "Former FTX Engineering Director Nishad Singh Pleads Guilty to Criminal Charges: Reuters",
           "enclosure": {
             "length": "1337",
@@ -1347,7 +1402,7 @@
           "description": "Tensions have spilled into public between Aptos and Sui, two startup blockchains staffed by teams of individuals who emerged from Facebook's defunct Diem stablecoin project.",
           "link": "https://www.coindesk.com/tech/2023/02/28/disinvitation-from-denver-crypto-conference-reveals-tensions-between-aptos-sui-blockchains/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-02-28T16:53:02.000Z",
-          "wordCount": 18920,
+          "wordCount": 19037,
           "title": "Disinvitation from Denver Crypto Conference Reveals Tensions Between Aptos, Sui Blockchains",
           "enclosure": {
             "length": "1337",
@@ -1362,7 +1417,7 @@
           "description": "Banks across the globe lowered their exposure to certain crypto by 43.6% in a year, a report by the Basel Committee on Banking Supervision (BCBS) said on Tuesday.",
           "link": "https://www.coindesk.com/policy/2023/02/28/certain-banks-crypto-exposure-dropped-by-44-globally-in-2022-from-previous-year-bis/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-02-28T16:53:02.000Z",
-          "wordCount": 19092,
+          "wordCount": 19209,
           "title": "Certain Banks' Crypto Exposure Dropped by 44% Globally in 2022 from Previous Year: BIS",
           "enclosure": {
             "length": "1337",
@@ -1377,7 +1432,7 @@
           "description": "<p>DeFi  \n(Decentralized Finance) has grown in popularity as an alternative to  \ntraditional finance. It is a decentralized, transparent, and secure financial  \nsystem based on blockchain technology. </p><p>However, as  \nwith any technology, DeFi faces security challenges that must be addressed in  \norder to maintain user trust and confidence. In this article, we will look at  \nDeFi security issues such as hacks, exploits, and solutions. </p><p>What  \nis DeFi?</p><p>DeFi is a  \ncollection of financial applications that run on a blockchain, such as  \nEthereum. These apps enable users to gain access to financial services such as  \nlending, borrowing, and trading without the use of intermediaries such as banks  \nor brokers. DeFi is a decentralized, transparent, and trustless system that allow…",
           "link": "https://www.financemagnates.com//cryptocurrency/education-centre/the-security-challenges-of-defi/",
           "publishedOn": "2023-02-28T16:39:19.000Z",
-          "wordCount": 6568,
+          "wordCount": 6580,
           "title": "The Security Challenges of DeFi",
           "imageUrl": "https://images.financemagnates.com/images/defi_id_702c48b8-d6f6-4fe6-a4fa-25b0913ffb63_size900.jpg"
         },
@@ -1387,7 +1442,7 @@
           "description": "<p>Smart contracts  \nare programs that run on their own and can be executed on a blockchain. These  \ncontracts are intended to automate the execution of contractual agreements, and  \ntheir application cases are rapidly expanding. </p><p>This article  \nwill look at the applications and limitations of smart contracts on the  \nEthereum blockchain. </p><p>What  \nis Ethereum?</p><p>Ethereum is a  \nblockchain-based platform on which developers can create decentralized  \napplications (DApps). It is a decentralized, open-source platform for  \ndeveloping smart contracts and other blockchain-based applications. </p><p>The Ethereum  \nblockchain enables code execution in a trustless, decentralized environment. </p><p>What  \nare Smart Contracts?</p><p>Smart contracts  \nare computer programs that operat…",
           "link": "https://www.financemagnates.com//cryptocurrency/innovation/smart-contracts-on-ethereum/",
           "publishedOn": "2023-02-28T16:39:19.000Z",
-          "wordCount": 6228,
+          "wordCount": 6238,
           "title": "Smart Contracts on Ethereum",
           "imageUrl": "https://images.financemagnates.com/images/ETH%20Merge_id_749bb2e4-189c-4eea-9737-b6de55bad9ac_size900.jpg"
         },
@@ -1397,59 +1452,9 @@
           "description": "<p>The  \ncryptocurrency market has grown significantly in recent years, owing to  \nincreased adoption of blockchain technology and increased demand for digital  \nassets. The total market capitalization of cryptocurrencies reached $1.12  \ntrillion in January 2023, with a Bitcoin dominance level of 40.3%.</p><p>As the  \ncryptocurrency market grows, investors and traders must navigate its  \ncomplexities, understand key trends and insights, and be aware of potential  \nrisks. In this article, we will look at the key trends, insights, and risks of  \nthe cryptocurrency market in order to assist investors and traders in making  \ninformed decisions. </p><p>Important  \nTrends</p><p>Increased  \nInstitutional Adoption</p><p> In recent years, there has been a significant  \nincrease in institutional ado…",
           "link": "https://www.financemagnates.com//cryptocurrency/education-centre/navigating-the-crypto-market/",
           "publishedOn": "2023-02-28T16:39:19.000Z",
-          "wordCount": 7452,
+          "wordCount": 7459,
           "title": "Navigating the Crypto Market",
           "imageUrl": "https://images.financemagnates.com/images/crypto%20derivatives_id_a18256a4-87c4-4b28-8d18-722ebbe44ae2_size900.jpg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e753bd11fdd",
-          "author": "Eliman Dambell",
-          "description": "Avalanche fell to a two-week low on Tuesday, as the token broke out of a key support point. Prices fell below a floor at $17.50, which comes as the global cryptocurrency market cap is down by 1.01% as of writing. Polkadot also extended its recent losses, falling by nearly 3% on Feb. 28.\n \nAvalanche (AVAX)\n \nAvalanche (AVAX) slipped to a multi-week low on Tuesday, as prices moved below a key support point.\n \nFollowing a high of $18.62 to start the week, AVAX/USD dropped to a bottom of $17.39 earlier in today’s session.\n \nThis move saw avalanche hit its weakest level since February 13, which is the last time prices were under $17.00.\n \n \nFrom the chart, it appears that one of the catalysts for the drop was a breakout on the relative strength index (RSI).\n \nPrice strength dropped below a floor at 43.00, and as of writing, the RSI is tracking at the 42.28 level.\n \nThe next visible point of support seems to be near the 40.00 mark, and should this be hit, there is a strong chance that AVAX will move below $17.00.\n \n \nPolkadot (DOT)\n \nIn addition to AVAX, polkadot (DOT) also extended recent losses, falling for a second straight session.\n \nDOT/USD moved to a low of $6.43 on Tuesday, after starting the week trading at a high of $6.78.\n \nAs a result of today’s drop, DOT has now fallen for seven of the last eight sessions, dropping by over 11% in that time.\n \n \nLike with AVAX, today’s sell-off came as the RSI broke out of a floor — in this instance the 48.00 zone.\n \nAs of writing, the index is hovering closer to 47.00, with bears seemingly targeting a support point at $6.30.\n \nThe 10-day (red) moving average is now firmly downward facing, which sums up the current momentum in the market.\n \nRegister your email here to get weekly price analysis updates sent to your inbox:\n \nCould polkadot hit $6.30 in the coming days? Let us know your thoughts in the comments.",
-          "link": "https://news.bitcoin.com/biggest-movers-avax-hits-2-week-low-as-dot-extends-recent-losses/",
-          "publishedOn": "2023-02-28T16:37:33.000Z",
-          "wordCount": 3251,
-          "title": "Biggest Movers: AVAX Hits 2-Week Low as DOT Extends Recent Losses",
-          "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2023/02/shutterstock_2154712239.jpg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e753bd162c9",
-          "author": "anushsamal",
-          "description": "The city of Ras Al Khaimah (RAK), UAE, intends to introduce a free zone for digital and virtual asset companies. The government of Ras Al Khaimah says this free zone will be called the RAK Digital Assets Oasis. This announcement was made recently in the international forum Blockchain Life 2023.\n \nThe reason behind such a decision could be that the UAE wants to invite global crypto businesses to set up shop in Ras Al Khaimah, one of the seven Emirates of the United Arab Emirates (UAE). With this new move, the free zone will enable innovation for non-regulated activities within the virtual asset space.\n \n \nSheikh Mohammed Al Qasmi, chairman of the RAK ICC, announced:\n \n\nWe are proud to further the UAE’s position as a primary destination for innovation with the launch of RAK Digital Assets Oa…",
-          "link": "https://bitcoinist.com/uae-launching-free-zone-virtual-asset-companies/",
-          "publishedOn": "2023-02-28T16:35:52.000Z",
-          "wordCount": 4851,
-          "title": "UAE Plans On Launching A Free Zone For Digital And Virtual Asset Companies",
-          "enclosure": {
-            "length": "1337",
-            "type": "image/jpeg",
-            "url": "https://bitcoinist.com/wp-content/uploads/2023/02/saj-shafique-tS5TKo8Mr7k-unsplash-560x420.jpg"
-          },
-          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2023/02/saj-shafique-tS5TKo8Mr7k-unsplash-560x420.jpg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e753bdc7355",
-          "author": "Brandy Betz",
-          "description": "The company emerges from stealth with a roster of backers, including Katie Haun’s investment firm.",
-          "link": "https://www.coindesk.com/business/2023/02/28/web3-infrastructure-startup-portal-raises-53m/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-          "publishedOn": "2023-02-28T16:16:31.000Z",
-          "wordCount": 18806,
-          "title": "Web3 Infrastructure Startup Portal Raises $5.3M",
-          "enclosure": {
-            "length": "1337",
-            "type": "image/png",
-            "url": "https://www.coindesk.com/resizer/KXLG0fIKVvqIRVXkPex3I3kDNW4=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/SKKN5JIBPJAC3JK6IS3TKEKVIE.png"
-          },
-          "imageUrl": "https://www.coindesk.com/resizer/KXLG0fIKVvqIRVXkPex3I3kDNW4=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/SKKN5JIBPJAC3JK6IS3TKEKVIE.png"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e753bdabb29",
-          "author": "Sam White",
-          "description": "<p>If web3 is the incoming new reality and crypto is to achieve mainstream, daily use, then a key area will be around payment integrations. There is talk, particularly in Bitcoin maximalist circles, of a self-contained economy, which in this context means goods and services sold in Bitcoin, and with no requirement to ever switch from blockchain-based currency to fiat currency.</p><p>  \nPerhaps that’s a proposed ideal that can one day be achieved. There are coherent arguments that make the case for this kind of scenario, but in the meantime, what’s required are easy intersections between traditional payment systems and cryptocurrencies, which can be navigated by users who may not be deeply versed in the technicalities of blockchain transactions.</p><p>With this in mind, there have been seve…",
-          "link": "https://www.financemagnates.com//cryptocurrency/the-ongoing-integration-of-crypto-payments/",
-          "publishedOn": "2023-02-28T15:39:58.000Z",
-          "wordCount": 6087,
-          "title": "The Ongoing Integration of Crypto Payments",
-          "imageUrl": "https://images.financemagnates.com/images/cryptocurrencies_id_a4d7626a-44a7-4ea2-aad3-78a42dde9e61_size900.jpg"
         }
       ]
     }

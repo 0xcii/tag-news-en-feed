@@ -6,12 +6,27 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=123052",
+          "author": "Greg Thomson",
+          "description": "The UK Financial Conduct Authority continues to target and disrupt illegal Bitcoin ATM businesses, this time it's taking aim at London.",
+          "link": "https://decrypt.co/123052/fca-met-police-continue-bitcoin-atm-crackdown-east-london",
+          "publishedOn": "2023-03-09T11:18:11.000Z",
+          "wordCount": 7681,
+          "title": "FCA, Met Police Continue Bitcoin ATM Crackdown in East London",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/05/bitcoin-atm-gID_4.jpg@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/05/bitcoin-atm-gID_4.jpg@png"
+        },
+        {
           "id": "https://decrypt.co/?p=123046",
           "author": "Jason Nelson",
           "description": "The longtime Las Vegas mainstay is stepping into Web3 as part of Meta Hollywood in a new members-only launch with Animoca Brands.",
           "link": "https://decrypt.co/123046/planet-hollywood-inks-deal-animoca-brands-launch-nft-club-l-a",
           "publishedOn": "2023-03-09T11:01:02.000Z",
-          "wordCount": 7465,
+          "wordCount": 7361,
           "title": "Planet Hollywood Inks Deal With Animoca Brands to Launch NFT Club in L.A.",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/03/Decrypt-Wallpaper-Format-gID_1.png@png",
@@ -26,7 +41,7 @@
           "description": "Bitcoin and major altcoins slipped further following the news of crypto-friendly bank Silvergate winding down operations.",
           "link": "https://decrypt.co/123050/bitcoin-ethereum-down-silvergate-bank-shuts-shop",
           "publishedOn": "2023-03-09T10:24:27.000Z",
-          "wordCount": 7586,
+          "wordCount": 7482,
           "title": "Bitcoin, Ethereum Down 8% on the Week as Silvergate Bank Shuts Shop",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/07/crypto-bear-gID_4.png@png",
@@ -56,7 +71,7 @@
           "description": "Ongoing market uncertainty means traders are either selling or staying still.",
           "link": "https://decrypt.co/123029/regulatory-uncertainty-fed-bitcoin-traders-cautious",
           "publishedOn": "2023-03-09T00:06:47.000Z",
-          "wordCount": 8293,
+          "wordCount": 8189,
           "title": "Regulatory Uncertainty and Fed’s Next Steps Keep Bitcoin Traders Cautious",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/07/crypto-markets-down-bitcoin-gID_1.jpeg@png",
@@ -86,7 +101,7 @@
           "description": "Rostin Behnam parts ways with his SEC counterpart over federal jurisdiction over ETH.",
           "link": "https://decrypt.co/123032/cftc-chair-says-ethereum-is-a-commodity-despite-genslers-bitcoin-only-position",
           "publishedOn": "2023-03-08T23:55:11.000Z",
-          "wordCount": 7560,
+          "wordCount": 7456,
           "title": "CFTC Chair Says Ethereum Is a Commodity—Despite Gensler’s ‘Bitcoin Only’ Position",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/03/Behnam-Gensler-RKO-scaled-gID_4.jpg@png",
@@ -101,7 +116,7 @@
           "description": "The studio is working with FIFA and plans to build Web3 games with the support of pro soccer superstar Lionel Messi's VC firm Play Time.",
           "link": "https://decrypt.co/123002/lionel-messi-backs-web3-soccer-game-startup-matchday-in-21m-round",
           "publishedOn": "2023-03-08T23:13:04.000Z",
-          "wordCount": 7660,
+          "wordCount": 7556,
           "title": "Lionel Messi Backs Web3 Soccer Game Startup Matchday in $21M Round",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/08/messi-crypto-payments-psg-gID_5.jpg@png",
@@ -116,7 +131,7 @@
           "description": "Citing regulatory headwinds and the bear market, Silvergate Capital announced it is shuttering Silvergate Bank.",
           "link": "https://decrypt.co/123024/crypto-friendly-bank-silvergate-to-wind-down-operations",
           "publishedOn": "2023-03-08T22:17:48.000Z",
-          "wordCount": 7397,
+          "wordCount": 7293,
           "title": "'Crypto Friendly' Bank Silvergate to Wind Down Operations",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/02/Silvergate-Change-shutterstock_2122142750-16x9-1-gID_6.jpg@png",
@@ -131,7 +146,7 @@
           "description": "Surprised NFT traders are flocking to the NFT project, which includes hand-signed documents from the Ethereum creator.",
           "link": "https://decrypt.co/123003/vitalik-buterin-nft-collection-quadratic-funding-drop-pulls-millions",
           "publishedOn": "2023-03-08T21:58:00.000Z",
-          "wordCount": 8210,
+          "wordCount": 8106,
           "title": "Vitalik Buterin Has an NFT Collection? Quadratic Funding Drop Pulls In Millions",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/11/Vitalik-Buterin-shutterstock_2029298183-16x9-1-gID_5.jpg@png",
@@ -146,7 +161,7 @@
           "description": "\"The software has taken control,\" he lamented, but crypto Twitter had thoughts.",
           "link": "https://decrypt.co/123009/bitcoin-twitter-taunts-paul-krugman-over-tradfi-troubles",
           "publishedOn": "2023-03-08T21:23:40.000Z",
-          "wordCount": 7575,
+          "wordCount": 7471,
           "title": "Bitcoin Twitter Taunts Paul Krugman Over TradFi Troubles",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/03/Venmo-Bitcoin-RKO-gID_5.jpg@png",
@@ -161,7 +176,7 @@
           "description": "Mutant Ape Yacht Club characters are being enlisted as villains for the D&D-inspired game.",
           "link": "https://decrypt.co/122999/mutant-apes-meet-dungeons-dragons-glimmering-web3-game",
           "publishedOn": "2023-03-08T21:05:13.000Z",
-          "wordCount": 8345,
+          "wordCount": 8241,
           "title": "Mutant Apes Meet Dungeons &#038; Dragons in Web3 Game 'The Glimmering'",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/03/mutant-ape-gimmering-game-gID_4.png@png",
@@ -191,7 +206,7 @@
           "description": "Congressman Lynch is worried about a CBDC's impact on crypto. Federal Reserve Chairman Jerome Powell said he wonders why most cryptocurrencies currently have any value at all.",
           "link": "https://decrypt.co/122997/fed-chair-digital-dollar-send-bitcoin-to-zero",
           "publishedOn": "2023-03-08T19:52:54.000Z",
-          "wordCount": 8646,
+          "wordCount": 8542,
           "title": "Fed Chair Ponders Potential for Digital Dollar to Send Bitcoin to Zero",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/02/fed-chairman-powell-federal-reserve-dollar-digital-currency-central-bank1-gID_4.jpg@png",
@@ -206,7 +221,7 @@
           "description": "Step into the stunning digital garden of Heterosis, the latest project by veteran artist Mat Collishaw as he dives into the world of NFTs.",
           "link": "https://decrypt.co/122981/heterosis-nft-project-not-possible-other-medium-mat-collishaw",
           "publishedOn": "2023-03-08T14:51:03.000Z",
-          "wordCount": 7941,
+          "wordCount": 7837,
           "title": "Heterosis NFT Art Project Not ‘Possible in Any Other Medium': Mat Collishaw",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/03/heterosis_flower_05-1-gID_2.jpg@png",
@@ -221,7 +236,7 @@
           "description": "Coinbase continues to court developers with new tools to embed digital wallets in any app.",
           "link": "https://decrypt.co/122948/coinbase-announces-wallet-as-a-service-hints-at-household-name-partners",
           "publishedOn": "2023-03-08T14:01:02.000Z",
-          "wordCount": 8717,
+          "wordCount": 8613,
           "title": "Coinbase Announces ‘Wallet as a Service,’ Hints at ‘Household Name’ Partners",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/04/coinbase-robinhood-apps-gID_2.jpeg@png",
@@ -236,7 +251,7 @@
           "description": "The latest $15 million donation adds to the Ethereum co-founder’s efforts to fund COVID-19-related scientific research.",
           "link": "https://decrypt.co/122972/vitalik-buterin-fund-donates-15m-usdc-airborne-pathogen-research",
           "publishedOn": "2023-03-08T13:46:34.000Z",
-          "wordCount": 7630,
+          "wordCount": 7526,
           "title": "Vitalik Buterin’s Fund Donates $15M in USDC to Airborne Pathogen Research",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2019/07/36922633190_1f5985398f_k-gID_4.jpg@png",
@@ -251,7 +266,7 @@
           "description": "The U.S. Senate yesterday held what lawmakers said was its first-ever hearing on the environmental impact of crypto mining.",
           "link": "https://decrypt.co/122963/environmental-impact-bitcoin-mining-deserves-spotlight-us-senator-markey",
           "publishedOn": "2023-03-08T12:24:33.000Z",
-          "wordCount": 8094,
+          "wordCount": 7990,
           "title": "Environmental Impact of Bitcoin Mining ‘Deserves the Spotlight’: US Senator Markey",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/03/senator-ed-markey-gID_1.jpg@png",
@@ -266,7 +281,7 @@
           "description": "Former customers can recoup up to 90% of their losses under the rehabilitation proposal.",
           "link": "https://decrypt.co/122960/mt-gox-creditors-have-until-friday-file-repayment-claims",
           "publishedOn": "2023-03-08T11:52:30.000Z",
-          "wordCount": 7522,
+          "wordCount": 7418,
           "title": "Mt. Gox Creditors Have Until Friday to File Repayment Claims",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/06/mt-gox-bitcoin-reimbursement-gID_2.jpg@png",
@@ -281,7 +296,7 @@
           "description": "Blockchain technology and Web3 let companies engage with users beyond initial purchases, argues Dispatch head of product Sean Spector.",
           "link": "https://decrypt.co/122853/iex-flash-boys-fame-launched-web3-marketing-platform-dispatch",
           "publishedOn": "2023-03-08T09:11:02.000Z",
-          "wordCount": 7867,
+          "wordCount": 7763,
           "title": "Why IEX of ‘Flash Boys’ Fame Launched Web3 Marketing Platform Dispatch",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/03/dispatch-gID_6.jpg@png",
@@ -296,7 +311,7 @@
           "description": "The company hopes to see developers integrate mining into heating solutions, off-grid mining, home mining, and intermittent power applications.",
           "link": "https://decrypt.co/122947/jack-dorsey-block-bitcoin-mining-development-kit",
           "publishedOn": "2023-03-08T00:01:56.000Z",
-          "wordCount": 7871,
+          "wordCount": 7767,
           "title": "Jack Dorsey's Block Reveals Plans for Bitcoin 'Mining Development Kit'",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/08/jack-dorsey-twitter-ceo-gID_4.jpg@png",
@@ -311,7 +326,7 @@
           "description": "U.S. bankruptcy judge Michael Wiles has given Binance US the green light, but the deal is not yet final.",
           "link": "https://decrypt.co/122942/binance-us-cleared-acquire-voyager-digital-assets-sec",
           "publishedOn": "2023-03-07T23:40:42.000Z",
-          "wordCount": 7701,
+          "wordCount": 7597,
           "title": "Binance US Cleared to Buy Voyager Assets as Judge Dismisses SEC Objections",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/07/voyager-digital-shutterstock-gID_1.jpg@png",
@@ -326,7 +341,7 @@
           "description": "The Believer Company has garnered investment from Web3-friendly VC firms, but isn't interested in using NFTs.",
           "link": "https://decrypt.co/122935/ex-riot-games-execs-raise-55m-for-new-studio-say-no-fucking-thanks-to-nfts",
           "publishedOn": "2023-03-07T23:11:16.000Z",
-          "wordCount": 7531,
+          "wordCount": 7427,
           "title": "Ex-Riot Games Execs Raise $55M for New Studio, Say ‘No Fucking Thanks’ to NFTs",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/03/andrey-metelev-unsplash_Cropped_50-scaled-gID_4.jpeg@png",
@@ -341,7 +356,7 @@
           "description": "The Blur model for incentivizing NFT sales is apparently paying off for Tensor, which announced a $3M funding round today.",
           "link": "https://decrypt.co/122926/blur-tensor-airdrop-solana-nft-traders",
           "publishedOn": "2023-03-07T21:49:11.000Z",
-          "wordCount": 8303,
+          "wordCount": 8199,
           "title": "Like a Blur: Tensor Plans Massive Airdrop for Solana NFT Traders",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/03/tensor-reward-box-gID_5.png@png",
@@ -371,7 +386,7 @@
           "description": "Emin Gün Sirer says intelligent trading bots have promise, but need more crypto cycles of training data.",
           "link": "https://decrypt.co/122920/ai-still-has-a-lot-to-learn-and-unlearn-ava-labs-ceo",
           "publishedOn": "2023-03-07T20:13:51.000Z",
-          "wordCount": 7841,
+          "wordCount": 7737,
           "title": "AI Still Has a Lot to Learn—and Unlearn: Ava Labs CEO",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/02/GM23_Emin3-gID_2.jpg@png",
@@ -386,7 +401,7 @@
           "description": "Decrypt launches a real-time feed of human and AI-generated breaking news summaries from around the web.",
           "link": "https://decrypt.co/122900/introducing-news-explorer-an-experiment-in-human-ai-collaboration",
           "publishedOn": "2023-03-07T19:45:50.000Z",
-          "wordCount": 7457,
+          "wordCount": 7353,
           "title": "Introducing News Explorer: An Experiment in Human-AI Collaboration",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/03/Screen-Shot-2023-03-07-at-1.38.04-PM-gID_7.png@png",
@@ -401,7 +416,7 @@
           "description": "The company’s lawsuit against the SEC reached a pivotal moment as judges questioned the agency’s decision-making.",
           "link": "https://decrypt.co/122910/judges-scrutinize-sec-denial-grayscale-bitcoin-etf",
           "publishedOn": "2023-03-07T19:15:43.000Z",
-          "wordCount": 7944,
+          "wordCount": 7840,
           "title": "Judges Scrutinize SEC Over Denial of Grayscale Bitcoin ETF",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/03/judge-court-gID_4.jpeg@png",
@@ -416,7 +431,7 @@
           "description": "Team SoloMid will host tournaments on Blitz Esports’ Avalanche Subnet.",
           "link": "https://decrypt.co/122828/esports-giant-tsm-forges-ahead-with-web3-gaming-on-avalanche",
           "publishedOn": "2023-03-07T18:01:02.000Z",
-          "wordCount": 7496,
+          "wordCount": 7392,
           "title": "Esports Giant TSM Forges Ahead With Web3 Gaming on Avalanche",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/03/Esports-shutterstock_1950002116-16x9-1-gID_2.jpg@png",
@@ -431,7 +446,7 @@
           "description": "The Federal Reserve Chairman said that innovation shouldn’t be stifled but financial institutions need to take \"great care\" in how they interact with crypto.",
           "link": "https://decrypt.co/122893/fed-chair-jerome-powell-crypto-turmoil-fraud-run-risk",
           "publishedOn": "2023-03-07T17:44:47.000Z",
-          "wordCount": 7819,
+          "wordCount": 7715,
           "title": "Fed Chair Jerome Powell: Crypto 'Turmoil, Fraud, Run Risk' Is Being Monitored",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/01/jerome-powell-fed-chair-gID_4.jpeg@png",
@@ -446,7 +461,7 @@
           "description": "Troubled crypto exchange CoinFLEX today confirmed its restructuring plan was approved by the Seychelles courts.",
           "link": "https://decrypt.co/122887/seychelles-court-approves-coinflex-restructuring-plan",
           "publishedOn": "2023-03-07T17:34:14.000Z",
-          "wordCount": 7481,
+          "wordCount": 7377,
           "title": "Seychelles Court Approves CoinFLEX Restructuring Plan",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/01/coinflex-crypto-exchange-gID_6.jpg@png",
@@ -476,7 +491,7 @@
           "description": "Gmoney's experience in the NFT space has been one of learning and iterating, something that some \"legacy\" brands have a hard time adopting.",
           "link": "https://decrypt.co/122867/big-brands-must-be-crypto-native-possible-entering-nft-space-gmoney",
           "publishedOn": "2023-03-07T15:04:24.000Z",
-          "wordCount": 7647,
+          "wordCount": 7543,
           "title": "Big Brands Must Be 'as Crypto-Native as Possible' Entering NFT Space: Gmoney",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/03/gmoney-press-photo-gID_7.png@png",
@@ -491,7 +506,7 @@
           "description": "Director Miguel Faus \"wouldn't recommend\" that other filmmakers duplicate his NFT fundraising approach exactly, as the space has already evolved.",
           "link": "https://decrypt.co/122849/calladita-director-nft-film-funding-model-date-space-moves-rapidly",
           "publishedOn": "2023-03-07T13:16:12.000Z",
-          "wordCount": 7569,
+          "wordCount": 7465,
           "title": "'Calladita' Director: Filmmakers Need New NFT Funding Models, 'The Space Moves So Rapidly'",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/02/calladita-still-02-e1645827774383-gID_4.png@png",
@@ -506,7 +521,7 @@
           "description": "The Gary Vee-backed startup continues its shift beyond sports-themed collectibles.",
           "link": "https://decrypt.co/122818/nft-startup-candy-digital-taps-getty-images-for-70s-music-and-photos",
           "publishedOn": "2023-03-07T13:01:02.000Z",
-          "wordCount": 8323,
+          "wordCount": 8219,
           "title": "NFT Startup Candy Digital Taps Getty Images for '70s Music and Photos",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/03/IMG_7186-gID_1.jpg@png",
@@ -521,7 +536,7 @@
           "description": "Karine Jean-Pierre refused to comment on the specifics of Silvergate’s situation, pointing to recent regulatory guidelines issued to US banks.",
           "link": "https://decrypt.co/122850/white-house-will-continue-monitoring-silvergate-bank-reports-press-secretary",
           "publishedOn": "2023-03-07T12:05:12.000Z",
-          "wordCount": 7488,
+          "wordCount": 7384,
           "title": "White House Will ‘Continue Monitoring’ Silvergate Bank Reports: Press Secretary",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/09/white-house-us-gID_1.jpg@png",
@@ -536,7 +551,7 @@
           "description": "More than 40 athletes offer NFTs via Blockasset, including soccer star Wayne Rooney, the NHL's Alex Ovechkin, and the UFC's Jorge Masvidal.",
           "link": "https://decrypt.co/122845/blockasset-athlete-expand-beyond-solana-for-chiliz-sports-platform",
           "publishedOn": "2023-03-07T11:01:02.000Z",
-          "wordCount": 7748,
+          "wordCount": 7644,
           "title": "Blockasset Athlete NFTs Expand Beyond Solana to Chiliz Sports Platform",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/03/Blockasset-NFT-Grid-RKO-gID_1.jpg@png",
@@ -581,7 +596,7 @@
           "description": "The company’s collection of 300 generative art pieces garnered over 3,000 bids in 24 hours.",
           "link": "https://decrypt.co/122836/yuga-twelvefold-bitcoin-nft-auction-raises-16-million",
           "publishedOn": "2023-03-07T02:17:09.000Z",
-          "wordCount": 8036,
+          "wordCount": 7932,
           "title": "Yuga Twelvefold Bitcoin NFT Auction Raises $16.5 Million",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/09/shutterstock_1657604125-gID_4.jpg@png",
@@ -596,7 +611,7 @@
           "description": "Whether or not it's novel, it's another Bitcoin tool inspired by Ordinals.",
           "link": "https://decrypt.co/122833/rollkit-pitches-second-layer-for-bitcoin-sovereign-rollup",
           "publishedOn": "2023-03-07T02:03:08.000Z",
-          "wordCount": 7701,
+          "wordCount": 7597,
           "title": "What Is a Sovereign Rollup? Rollkit Pitches Second Layer for Bitcoin",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/03/Sovereign-shutterstock_2199695103-16x9-1-gID_1.jpg@png",
@@ -611,7 +626,7 @@
           "description": "After a legal victory against the NFT collection for trademark infringement, Hermès is asking a judge to force the collection offline permanently.",
           "link": "https://decrypt.co/122826/hermes-seeks-stronger-block-of-metabirkins-nft-sales",
           "publishedOn": "2023-03-07T01:28:41.000Z",
-          "wordCount": 7585,
+          "wordCount": 7481,
           "title": "Hermès Seeks Stronger Block of MetaBirkins NFT Sales",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2018/11/ft-judge-blockvest-sec-gID_1.jpg@png",
@@ -626,7 +641,7 @@
           "description": "The securities regulator has until tomorrow morning to come up with a more convincing argument against Voyager’s restructuring plan.",
           "link": "https://decrypt.co/122813/voyager-bankruptcy-sec-objection-binance",
           "publishedOn": "2023-03-06T22:29:36.000Z",
-          "wordCount": 8284,
+          "wordCount": 8180,
           "title": "Voyager Bankruptcy Judge Has Harsh Words for SEC's Objection to Binance Deal",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/07/voyager-digital-crypto-gID_4.jpg@png",
@@ -641,7 +656,7 @@
           "description": "The FTX aliffiliate claims that Grayscale’s “improper” fund freeze means that customer cash has been lost.",
           "link": "https://decrypt.co/122814/alameda-sues-grayscale-over-9-billion-locked-in-bitcoin-trust-shares",
           "publishedOn": "2023-03-06T21:36:01.000Z",
-          "wordCount": 7511,
+          "wordCount": 7407,
           "title": "Alameda Sues Grayscale Over $9 Billion Locked in Bitcoin Trust Shares",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/11/alameda-research-crypto-trading-gID_2.jpeg@png",
@@ -656,7 +671,7 @@
           "description": "The U.S. trustee appointed by the Department of Justice in the FTX bankruptcy case has filed an appeal in support of an independent examiner.",
           "link": "https://decrypt.co/122804/justice-department-independent-investigation-ftx-collapse",
           "publishedOn": "2023-03-06T18:34:43.000Z",
-          "wordCount": 7827,
+          "wordCount": 7723,
           "title": "Justice Department Pushes for Independent Investigation of FTX Collapse",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/01/sbf-court-ftx-new-work-manhattan-gID_2.jpeg@png",
@@ -686,7 +701,7 @@
           "description": "Fireblocks Web3 lead Omer Amsel says bear markets lead to better products.",
           "link": "https://decrypt.co/122764/crypto-market-cycles-are-main-driver-for-innovation-fireblocks-web3-lead",
           "publishedOn": "2023-03-06T17:53:59.000Z",
-          "wordCount": 7684,
+          "wordCount": 7580,
           "title": "Crypto Market Cycles Are the 'Main Driver' of Industry Innovation: Fireblocks Web3 Lead",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/10/fireblocks-crypto-logo-gID_1.jpg@png",
@@ -701,7 +716,7 @@
           "description": "The investment advisor allegedly commingled customer funds and used millions to make \"Ponzi-like payments.\"",
           "link": "https://decrypt.co/122802/sec-100-million-crypto-fraud-bkcoin-miami",
           "publishedOn": "2023-03-06T17:46:40.000Z",
-          "wordCount": 7360,
+          "wordCount": 7256,
           "title": "SEC Shuts Down '$100 Million Crypto Fraud' in Miami",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/02/sec-crypto-regulations-gID_1.jpg@png",
@@ -724,21 +739,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.jwplayer.com/v2/media/LFjwkdDI/poster.jpg"
-        },
-        {
-          "id": "https://decrypt.co/?p=122791",
-          "author": "Andrew Asmakov",
-          "description": "As meme coin promoter Musk turns his attention from crypto to AI, Dogecoin appears to bearing the brunt of this week's losses.",
-          "link": "https://decrypt.co/122791/dogecoin-drops-week-elon-musk-turns-attention-ai",
-          "publishedOn": "2023-03-06T14:44:47.000Z",
-          "wordCount": 7703,
-          "title": "Dogecoin Drops 10% on the Week as Elon Musk Turns Attention to AI",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/07/dogecoin-slump-bitcoin-gID_2.png@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/07/dogecoin-slump-bitcoin-gID_2.png@png"
         },
         {
           "id": "https://decrypt.co/videos/live-events/kJsmUCBO/ceo-of-video-streaming-platform-beem-decentralization-lets-creators-regain-their-autonomy",
@@ -913,6 +913,136 @@
       "siteUrl": "https://cryptopanic.com/",
       "articles": [
         {
+          "id": "https://cryptopanic.com/news/17834765/Is-Algorand-ALGO-a-Buy-at-This-Price",
+          "author": null,
+          "description": "If the Algorand (ALGO) price gets to $0.19, the shape of the bounce could determine the future trend.",
+          "link": "https://cryptopanic.com/news/17834765/Is-Algorand-ALGO-a-Buy-at-This-Price",
+          "publishedOn": "2023-03-09T12:00:00.000Z",
+          "wordCount": 525,
+          "title": "Is Algorand (ALGO) a Buy at This Price?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/17834743/Gambling-with-Tether-Ultimate-Bet-USDT-perps-Tron-bets-and-the-1-peg",
+          "author": null,
+          "description": "Tether has always had a close relationship with online gambling: Ultimate Bet poker, USDT-denominated perps, and USDT-on-Tron gaming.",
+          "link": "https://cryptopanic.com/news/17834743/Gambling-with-Tether-Ultimate-Bet-USDT-perps-Tron-bets-and-the-1-peg",
+          "publishedOn": "2023-03-09T11:59:48.000Z",
+          "wordCount": 530,
+          "title": "Gambling with Tether: Ultimate Bet, USDT perps, Tron bets, and the $1 peg",
+          "imageUrl": "https://protos.com/wp-content/uploads/2023/03/Protos-Artwork-TetherNGambling-SIMG.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/17834744/Elon-Musks-Meme-Tweet-Draws-DOGE-and-XRP-Communities-Attention",
+          "author": null,
+          "description": "Elon Musk has posted meme that brought up comments from major Dogecoin and XRP enthusiasts",
+          "link": "https://cryptopanic.com/news/17834744/Elon-Musks-Meme-Tweet-Draws-DOGE-and-XRP-Communities-Attention",
+          "publishedOn": "2023-03-09T11:55:00.000Z",
+          "wordCount": 527,
+          "title": "Elon Musk's Meme Tweet Draws DOGE and XRP Communities' Attention",
+          "imageUrl": "https://u.today/sites/default/files/styles/twitter/public/2023-03/31680.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/17826248/Luke-Broyles-You-Aint-Bullish-Enough-Simply-Bitcoin-IRL",
+          "author": null,
+          "description": "Nico talks with Luke BroylesPowered by : Swan Bitcoin► https://www.swanbitcoin.com► Swan Bitcoin is the best way to build your Bitcoin stack, with automated Bitcoin savings plans and instant purchases. Serving clients of any size, from $10 to $10M+► Bitcoin 2023 Conference:...",
+          "link": "https://cryptopanic.com/news/17826248/Luke-Broyles-You-Aint-Bullish-Enough-Simply-Bitcoin-IRL",
+          "publishedOn": "2023-03-09T11:49:19.000Z",
+          "wordCount": 528,
+          "title": "Luke Broyles | You Ain't Bullish Enough | Simply Bitcoin IRL",
+          "imageUrl": "https://i1.ytimg.com/vi/hMW1jt9icXA/hqdefault.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/17834735/Alameda-Research-to-sell-interest-in-Sequoia-Capital-to-Abu-Dhabi-for-45M",
+          "author": null,
+          "description": "The investment branch of FTX, Alameda Research, reached an agreement to sell its interest in Sequoia Capital for $45 million in cash to the Abu Dhabi sovereign wealth fund.",
+          "link": "https://cryptopanic.com/news/17834735/Alameda-Research-to-sell-interest-in-Sequoia-Capital-to-Abu-Dhabi-for-45M",
+          "publishedOn": "2023-03-09T11:48:58.000Z",
+          "wordCount": 530,
+          "title": "Alameda Research to sell interest in Sequoia Capital to Abu Dhabi for $45M",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/17834723/Grayscale-CEO-reveals-why-the-SEC-keeps-postponing-Bitcoin-spot-ETFs",
+          "author": null,
+          "description": "Eight months after Grayscale Investments initiated a lawsuit against the United States Securities and Exchange Commission (SEC) over rejecting its … Continued",
+          "link": "https://cryptopanic.com/news/17834723/Grayscale-CEO-reveals-why-the-SEC-keeps-postponing-Bitcoin-spot-ETFs",
+          "publishedOn": "2023-03-09T11:48:24.000Z",
+          "wordCount": 528,
+          "title": "Grayscale CEO reveals why the SEC keeps postponing Bitcoin spot ETFs",
+          "imageUrl": "https://finbold.com/app/uploads/2023/03/Grayscale-CEO-reveals-why-the-SEC-keeps-postponing-Bitcoin-spot-ETFs.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/17834737/SHIB-Burn-Rate-Skyrockets-Ahead-of-Shibarium-Beta-Launch-As-Interest-in-Shiba-Inu-Ecosystem-Grows",
+          "author": null,
+          "description": "Popular meme-based cryptocurrency $SHIB’s token burn rate has reportedly surged in the past 24-hour period as the Shiba Inu community impatiently awaits the upcoming launch of the beta version of Shiba’s Layer 2 (L2) scaling solution Shibarium. Here is what Binance Academy says about Shiba Inu...",
+          "link": "https://cryptopanic.com/news/17834737/SHIB-Burn-Rate-Skyrockets-Ahead-of-Shibarium-Beta-Launch-As-Interest-in-Shiba-Inu-Ecosystem-Grows",
+          "publishedOn": "2023-03-09T11:47:49.000Z",
+          "wordCount": 533,
+          "title": "$SHIB Burn Rate Skyrockets Ahead of Shibarium Beta Launch As Interest in Shiba Inu Ecosystem Grows",
+          "imageUrl": "https://cryptoglobe.s3.eu-west-2.amazonaws.com/2021/11/shiba-6763358_1280-768x432.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/17834721/Arthur-Hayes-Proposes-Bitcoin-Backed-NakaDollar-Which-Would-Rely-on-Exchanges-to-Maintain-Dollar-Peg",
+          "author": null,
+          "description": "A stablecoin backed by $1 worth of bitcoin and 1x short of a bitcoin perpetual future can be used to provide stability to such a token, Hayes said.",
+          "link": "https://cryptopanic.com/news/17834721/Arthur-Hayes-Proposes-Bitcoin-Backed-NakaDollar-Which-Would-Rely-on-Exchanges-to-Maintain-Dollar-Peg",
+          "publishedOn": "2023-03-09T11:36:50.000Z",
+          "wordCount": 531,
+          "title": "Arthur Hayes Proposes Bitcoin-Backed NakaDollar, Which Would Rely on Exchanges to Maintain Dollar Peg",
+          "imageUrl": "https://www.coindesk.com/resizer/lQNKHva7CCDPc61sJy5_wCebG_0=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/7X5RCYJ7SNAXZG45F2G4DCLIMU.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/17834696/Polkadot-gets-into-a-Mix-as-Lido-support-for-the-ecosystem-stops",
+          "author": null,
+          "description": "MixBytes stops support for Lido on Polkadot protocol The overall termination of Lido on the network will finished by August Lido, which is currently one of the largest DeFI ecosystems in the crypto-space, expanded its ecosystem to Polkadot in the latter half of 2021. This expansion of Lido onto...",
+          "link": "https://cryptopanic.com/news/17834696/Polkadot-gets-into-a-Mix-as-Lido-support-for-the-ecosystem-stops",
+          "publishedOn": "2023-03-09T11:30:21.000Z",
+          "wordCount": 529,
+          "title": "Polkadot gets into a ‘Mix’ as Lido support for the ecosystem stops",
+          "imageUrl": "https://ambcrypto.com/wp-content/uploads/2023/03/AMBCrypto_White_Question_mark_painted_on_a_wall_Wall_is_painted_6ff49d85-a67f-4cab-9544-1ccd3b53068b-e1678342871385.png"
+        },
+        {
+          "id": "https://cryptopanic.com/news/17834680/40000-BTC-from-US-Government-Seizures-in-Motion-What-Could-It-Mean-for-Bitcoin",
+          "author": null,
+          "description": "The recent news that around 40,000 bitcoins worth circa $1 billion from wallets linked to US government law enforcement seizures have started to move again, according to the blockchain data provider Glassnode.",
+          "link": "https://cryptopanic.com/news/17834680/40000-BTC-from-US-Government-Seizures-in-Motion-What-Could-It-Mean-for-Bitcoin",
+          "publishedOn": "2023-03-09T11:22:50.000Z",
+          "wordCount": 531,
+          "title": "40,000 BTC from US Government Seizures in Motion: What Could It Mean for Bitcoin?",
+          "imageUrl": "https://zycrypto.com/wp-content/uploads/2023/03/40000-BTC-from-US-Government-Seizures-in-Motion-What-Could-It-Mean-for-Bitcoin.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/17834660/Cardano-Mithril-Innovation-That-Would-Improve-Speed-Gets-New-Release-Details",
+          "author": null,
+          "description": "Mithril listed as one of ways Cardano intended to scale in 2022",
+          "link": "https://cryptopanic.com/news/17834660/Cardano-Mithril-Innovation-That-Would-Improve-Speed-Gets-New-Release-Details",
+          "publishedOn": "2023-03-09T11:17:00.000Z",
+          "wordCount": 528,
+          "title": "Cardano Mithril Innovation That Would Improve Speed Gets New Release: Details",
+          "imageUrl": "https://u.today/sites/default/files/styles/twitter/public/2023-03/31677.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/17834658/CFTC-chair-calls-Ethereum-a-commodity-in-contrast-to-SEC-chair-Genslers-position",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/17834658/CFTC-chair-calls-Ethereum-a-commodity-in-contrast-to-SEC-chair-Genslers-position",
+          "publishedOn": "2023-03-09T11:15:51.000Z",
+          "wordCount": null,
+          "title": "CFTC chair calls Ethereum a commodity, in contrast to SEC chair Gensler’s position",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/17834654/Digital-Asset-Inflows-Will-Slow-Without-On-Ramps-Between-Fiat-and-Crypto-Morgan-Stanley",
+          "author": null,
+          "description": "Following the closure of crypto-friendly bank Silvergate, the focus will be on actions by Signature Bank and crypto exchange Binance, the report said.",
+          "link": "https://cryptopanic.com/news/17834654/Digital-Asset-Inflows-Will-Slow-Without-On-Ramps-Between-Fiat-and-Crypto-Morgan-Stanley",
+          "publishedOn": "2023-03-09T11:11:46.000Z",
+          "wordCount": 530,
+          "title": "Digital Asset Inflows Will Slow Without On-Ramps Between Fiat and Crypto: Morgan Stanley",
+          "imageUrl": "https://www.coindesk.com/resizer/-n1btIFkogdPGFx40wu--5xDIpM=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/EG3RUTUK75EFTESAPH4SITOA7M.jpg"
+        },
+        {
           "id": "https://cryptopanic.com/news/17834631/Planet-Hollywood-Inks-Deal-With-Animoca-Brands-to-Launch-NFT-Club-in-LA",
           "author": null,
           "description": "The longtime Las Vegas mainstay is stepping into Web3 as part of Meta Hollywood in a new members-only launch with Animoca Brands.",
@@ -925,30 +1055,30 @@
         {
           "id": "https://cryptopanic.com/news/17834586/Bitcoin-Ether-fall-amid-interest-rate-hike-fears-Silvergate-liquidation-Forkast-NFT-500-index-slips-079",
           "author": null,
-          "description": "Bitcoin and Ether fell in evening trading in Asia Thursday, with XRP the sole gainer in 24 hours among the top 10 non-stablecoin cryptocurrencies by market cap.",
+          "description": "",
           "link": "https://cryptopanic.com/news/17834586/Bitcoin-Ether-fall-amid-interest-rate-hike-fears-Silvergate-liquidation-Forkast-NFT-500-index-slips-079",
           "publishedOn": "2023-03-09T11:00:22.000Z",
-          "wordCount": 533,
+          "wordCount": null,
           "title": "Bitcoin, Ether fall amid interest rate hike fears, Silvergate liquidation; Forkast NFT 500 index slips 0.79%",
-          "imageUrl": "https://forkast.news/wp-content/uploads/2023/03/bitcoin-on-a-home-computer-chart-and-money-and-inv-2021-11-01-02-38-07-utc-1260x709.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/17834625/Mike-Novogratz-Claps-Back-At-Sen-Warren-Over-Silvergate-Criticism",
           "author": null,
-          "description": "In a recent development, a crypto investor jabbed Senator Elizabeth Warren for criticizing Silvergate bank. Warren shared a Twitter post, reacting to the recent collapse of the bank and reminding the crypto community of her earlier warnings. Related Reading: Gemini Loses JP Morgan As Banking...",
+          "description": "",
           "link": "https://cryptopanic.com/news/17834625/Mike-Novogratz-Claps-Back-At-Sen-Warren-Over-Silvergate-Criticism",
           "publishedOn": "2023-03-09T11:00:06.000Z",
-          "wordCount": 527,
+          "wordCount": null,
           "title": "Mike Novogratz Claps Back At Sen. Warren Over Silvergate Criticism",
-          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2023/03/1200x-1-1.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/17834623/GMX-Price-Gets-Second-Wind-and-Targets-New-All-Time-High",
           "author": null,
-          "description": "The GMX upward trend could continue if the price bounces at the $59.50 area.",
+          "description": "",
           "link": "https://cryptopanic.com/news/17834623/GMX-Price-Gets-Second-Wind-and-Targets-New-All-Time-High",
           "publishedOn": "2023-03-09T11:00:00.000Z",
-          "wordCount": 527,
+          "wordCount": null,
           "title": "GMX Price Gets Second Wind and Targets New All-Time High",
           "imageUrl": null
         },
@@ -965,12 +1095,12 @@
         {
           "id": "https://cryptopanic.com/news/17834581/Nansen-Rolls-Out-Query-Product-Offering-Historical-Data-to-Curate-Datasets",
           "author": null,
-          "description": "The new product aims to help firms perform faster on-chain data analyses using unique data from Nansen’s expansive database.",
+          "description": "",
           "link": "https://cryptopanic.com/news/17834581/Nansen-Rolls-Out-Query-Product-Offering-Historical-Data-to-Curate-Datasets",
           "publishedOn": "2023-03-09T10:50:43.000Z",
-          "wordCount": 528,
+          "wordCount": null,
           "title": "Nansen Rolls Out Query Product Offering Historical Data to Curate Datasets",
-          "imageUrl": "https://www.coindesk.com/resizer/DbC5JgiIb-YmG1iZITdBShy04kk=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/GYCMR2OR7BE57DJ2KJPEZCBGL4.png"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/17834563/Decentralized-Science-Next-Big-Sector-in-Crypto",
@@ -981,136 +1111,6 @@
           "wordCount": 525,
           "title": "Decentralized Science — Next Big Sector in Crypto",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*B6Tbj_bu7llHWh5K"
-        },
-        {
-          "id": "https://cryptopanic.com/news/17834564/Here-We-Go-Get-Ready-To-Become-Millionaires",
-          "author": null,
-          "description": "Protect And Store Your Crypto With A Ledger Nano:https://shop.ledger.com/?r=8af3ed38d3b7-------------------------------------------Latest Collection:https://opensea.io/collection/liquidity-x--------------------------------------------Become A...",
-          "link": "https://cryptopanic.com/news/17834564/Here-We-Go-Get-Ready-To-Become-Millionaires",
-          "publishedOn": "2023-03-09T10:45:01.000Z",
-          "wordCount": 525,
-          "title": "Here We Go, Get Ready To Become Millionaires",
-          "imageUrl": "https://i4.ytimg.com/vi/KIM7UOfWzl4/hqdefault.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/17834324/Brazilian-Unicorn-Nubank-Hires-Ex-Meta-Crypto-Chief-David-Lucas",
-          "author": null,
-          "description": "Brazilian neobank Nubank, known for its crypto-friendly stance, has made headlines by hiring David Marcus, the former crypto chief at Meta (formerly Facebook), while simultaneously seeing a key member of its management team step down. The move comes hot on the heels of the bank's release of its...",
-          "link": "https://cryptopanic.com/news/17834324/Brazilian-Unicorn-Nubank-Hires-Ex-Meta-Crypto-Chief-David-Lucas",
-          "publishedOn": "2023-03-09T10:30:00.000Z",
-          "wordCount": 526,
-          "title": "Brazilian Unicorn Nubank Hires Ex-Meta Crypto Chief David Lucas",
-          "imageUrl": "https://v2.cimg.co/news/107209/260982/responsive-images/adobestock-504011722-edit___media_library_original_1200_800.jpeg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/17834144/Kwenta-DEX-Lures-Traders-to-Capture-Bitcoin-Ether-Returns-Regardless-of-Direction",
-          "author": null,
-          "description": "Kwenta, which uses Synthetix’s infrastructure for its perpetual product, has seen trading volumes surge in the past few weeks.",
-          "link": "https://cryptopanic.com/news/17834144/Kwenta-DEX-Lures-Traders-to-Capture-Bitcoin-Ether-Returns-Regardless-of-Direction",
-          "publishedOn": "2023-03-09T10:29:52.000Z",
-          "wordCount": 529,
-          "title": "Kwenta DEX Lures Traders to Capture Bitcoin, Ether Returns Regardless of Direction",
-          "imageUrl": "https://www.coindesk.com/resizer/fNIysEXlT2NjAn0ZRclZMiWTnlg=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/Q7W5TILKORBNHOVR3444ADUXAI.png"
-        },
-        {
-          "id": "https://cryptopanic.com/news/17834120/Bitcoin-memory-usage-full-number-of-transactions-waiting-in-the-mempool-exploding-to-new-highs",
-          "author": null,
-          "description": "Quick Take Bitcoin memory usage has exceeded 300MB, with a capacity of 545 MB We are currently seeing <30 sat/vB being purged, while high priority is up to a whopping amount of 32 sat/vB Inscription’s new count over 24 hour period has fallen dramatically, which shows demand is not at the original hype.",
-          "link": "https://cryptopanic.com/news/17834120/Bitcoin-memory-usage-full-number-of-transactions-waiting-in-the-mempool-exploding-to-new-highs",
-          "publishedOn": "2023-03-09T10:28:49.000Z",
-          "wordCount": 532,
-          "title": "Bitcoin memory usage full, number of transactions waiting in the mempool exploding to new highs.",
-          "imageUrl": "https://cryptoslate.com/wp-content/uploads/2023/01/bitcoin-Insights-2.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/17834326/Largest-Creditor-of-Bankrupt-Mt-Gox-Exchange-to-Hold-Onto-Returned-Bitcoin-Huge-Selling-Pressure-Averted",
-          "author": null,
-          "description": "As the bankruptcy proceedings of Mt. Gox continue, new developments have emerged regarding the Mt Gox Investment Fund, the exchange's largest creditor. According to reports, the fund has no intentions of selling the tokens it is due to receive later this year. A person familiar with the fund’s...",
-          "link": "https://cryptopanic.com/news/17834326/Largest-Creditor-of-Bankrupt-Mt-Gox-Exchange-to-Hold-Onto-Returned-Bitcoin-Huge-Selling-Pressure-Averted",
-          "publishedOn": "2023-03-09T10:28:00.000Z",
-          "wordCount": 534,
-          "title": "Largest Creditor of Bankrupt Mt. Gox Exchange to Hold Onto Returned Bitcoin – Huge Selling Pressure Averted?",
-          "imageUrl": "https://v2.cimg.co/news/107215/260986/adobestock-24k-production.jpeg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/17834116/Crypto-Options-Market-Flashes-Bitcoin-Warning-as-Silvergate-Winds-Down-Operations",
-          "author": null,
-          "description": "Bitcoin's options skew favors bearish put options by the most in two months.",
-          "link": "https://cryptopanic.com/news/17834116/Crypto-Options-Market-Flashes-Bitcoin-Warning-as-Silvergate-Winds-Down-Operations",
-          "publishedOn": "2023-03-09T10:26:31.000Z",
-          "wordCount": 528,
-          "title": "Crypto Options Market Flashes Bitcoin Warning as Silvergate Winds Down Operations",
-          "imageUrl": "https://www.coindesk.com/resizer/jYJnDmKD8N2PVD24Rdyh5kdB1nA=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/EEHB6A2T4RCDVHX6G6ERVQX5SE.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/17834121/Bitcoin-Ethereum-Down-8-on-the-Week-as-Silvergate-Bank-Shuts-Shop",
-          "author": null,
-          "description": "Bitcoin and major altcoins slipped further following the news of crypto-friendly bank Silvergate winding down operations.",
-          "link": "https://cryptopanic.com/news/17834121/Bitcoin-Ethereum-Down-8-on-the-Week-as-Silvergate-Bank-Shuts-Shop",
-          "publishedOn": "2023-03-09T10:24:27.000Z",
-          "wordCount": 529,
-          "title": "Bitcoin, Ethereum Down 8% on the Week as Silvergate Bank Shuts Shop",
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/07/crypto-bear-gID_4.png@png"
-        },
-        {
-          "id": "https://cryptopanic.com/news/17834117/Cryptocom-Struggles-to-Maintain-Fiat-On-Ramps-in-the-Face-of-Crypto-Banking-Crisis",
-          "author": null,
-          "description": "The exchange’s current banking partner is only accessible to users based in the European Economic Area (EEA).",
-          "link": "https://cryptopanic.com/news/17834117/Cryptocom-Struggles-to-Maintain-Fiat-On-Ramps-in-the-Face-of-Crypto-Banking-Crisis",
-          "publishedOn": "2023-03-09T10:22:16.000Z",
-          "wordCount": 530,
-          "title": "Crypto.com Struggles to Maintain Fiat On-Ramps in the Face of Crypto Banking Crisis",
-          "imageUrl": "https://www.coindesk.com/resizer/IcVI3bUJl11v6k6KlG6q8ytady0=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/6MRQUX2BFNESLLC766IDLZXNZU.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/17833989/77588814-in-Ethereum-Burned-As-ETH-Transforms-Into-Deflationary-Crypto-Asset",
-          "author": null,
-          "description": "The supply of the second-largest crypto asset Ethereum (ETH) is deflating, thanks to the success of a major upgrade known as EIP-1559. New numbers from Ultrasound.Money show 50,317 ETH worth $77.5 million has burned since the upgrade went into effect in August of last year. The overall supply of...",
-          "link": "https://cryptopanic.com/news/17833989/77588814-in-Ethereum-Burned-As-ETH-Transforms-Into-Deflationary-Crypto-Asset",
-          "publishedOn": "2023-03-09T10:15:57.000Z",
-          "wordCount": 528,
-          "title": "$77,588,814 in Ethereum Burned As ETH Transforms Into Deflationary Crypto Asset",
-          "imageUrl": "https://dailyhodl.com/wp-content/uploads/2021/11/ethereum-based-lakers-2.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/17833984/Why-This-Crypto-Bill-Advancing-In-Illinois-is-Worrying-For-DeFi-NFTs-Gaming-and-Blockchain",
-          "author": null,
-          "description": "A bill, HB3479, sponsored by Representative Mark L. Walker, has advanced in Illinois and should be a concern for what the proposal lays out for crypto, blockchain, and decentralized finance (DeFi). The Bill In Illinois On March 8, the bill was placed on the calendar’s second reading for a short...",
-          "link": "https://cryptopanic.com/news/17833984/Why-This-Crypto-Bill-Advancing-In-Illinois-is-Worrying-For-DeFi-NFTs-Gaming-and-Blockchain",
-          "publishedOn": "2023-03-09T10:15:01.000Z",
-          "wordCount": 532,
-          "title": "Why This Crypto Bill Advancing In Illinois is Worrying For DeFi, NFTs, Gaming, and Blockchain",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/17833971/Bitcoins-correlation-with-Nasdaq-drops-to-1-year-low-Heres-what-it-means",
-          "author": null,
-          "description": "The relationship between the stock market and the cryptocurrency sector has been a matter of interest for quite some time … Continued",
-          "link": "https://cryptopanic.com/news/17833971/Bitcoins-correlation-with-Nasdaq-drops-to-1-year-low-Heres-what-it-means",
-          "publishedOn": "2023-03-09T10:13:33.000Z",
-          "wordCount": 529,
-          "title": "Bitcoin’s correlation with Nasdaq drops to 1-year low; Here’s what it means",
-          "imageUrl": "https://finbold.com/app/uploads/2023/03/Bitcoins-correlation-with-Nasdaq-drops-to-1-year-low-Heres-what-it-means.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/17833818/Gateio-launching-Visa-crypto-debit-card-in-Europe",
-          "author": null,
-          "description": "Gate Group plans to launch a Visa crypto debit card through its Lithuana-based company, Gate Global UAB — with a waitlist open for EEA users.",
-          "link": "https://cryptopanic.com/news/17833818/Gateio-launching-Visa-crypto-debit-card-in-Europe",
-          "publishedOn": "2023-03-09T10:09:29.000Z",
-          "wordCount": 525,
-          "title": "Gate.io launching Visa crypto debit card in Europe",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2021/06/20210630_Visa_Generic-1200x675.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/17833819/Ceramic-releases-tool-that-awakens-its-storage-for-web3-protocol",
-          "author": null,
-          "description": "Ceramic is a network that web3 projects can use to store data which doesn’t need to be on a blockchain. It’s now easy to use.",
-          "link": "https://cryptopanic.com/news/17833819/Ceramic-releases-tool-that-awakens-its-storage-for-web3-protocol",
-          "publishedOn": "2023-03-09T10:06:10.000Z",
-          "wordCount": 527,
-          "title": "Ceramic releases tool that awakens its ‘storage for web3’ protocol",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2023/03/20230307_Ceramic-1200x675.jpg"
         }
       ]
     },
@@ -1119,6 +1119,16 @@
       "feedUrl": "https://message-rss.vercel.app/rekt/news",
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
+        {
+          "id": "https://www.zerohedge.com/markets/us-container-imports-plunge-recession-fears-mount",
+          "author": null,
+          "description": "US Container Imports Plunge As Recession Fears Mount  | ZeroHedge",
+          "link": "https://www.zerohedge.com/markets/us-container-imports-plunge-recession-fears-mount",
+          "publishedOn": "2023-03-09T12:00:03.000Z",
+          "wordCount": 687,
+          "title": "US Container Imports Plunge As Recession Fears Mount  | ZeroHedge",
+          "imageUrl": null
+        },
         {
           "id": "https://github.com/ethereum/execution-specs/pull/724",
           "author": null,
@@ -1175,7 +1185,7 @@
           "description": "How Thessy Mehrain Is Breaking Down for Women in Blockchain",
           "link": "https://unchainedcrypto.substack.com/p/how-thessy-mehrain-is-breaking-down?utm_source=substack&publication_id=1192637&post_id=106847486&utm_medium=email&utm_content=share&action=share&triggerShare=true&isFreemail=false&token=eyJ1c2VyX2lkIjoxMDUwNzI3MSwicG9zdF9pZCI6MTA2ODQ3NDg2LCJpYXQiOjE2NzgzMDkyNTEsImV4cCI6MTY4MDkwMTI1MSwiaXNzIjoicHViLTExOTI2MzciLCJzdWIiOiJwb3N0LXJlYWN0aW9uIn0.ObJWS_65JiiDhD47p4iKTeR6n-7f3GvGZetHKlnUMH8",
           "publishedOn": "2023-03-09T05:00:03.000Z",
-          "wordCount": 2655,
+          "wordCount": 2861,
           "title": "How Thessy Mehrain Is Breaking Down for Women in Blockchain",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F34e583c3-c7ce-4fc2-b0ac-44e82c51a071_2000x742.jpeg"
         },
@@ -1225,7 +1235,7 @@
           "description": "Silvergate will liquidate bank, wind down operations",
           "link": "https://www.theblock.co/post/218223/silvergate-will-liquidate-bank-wind-down-operations",
           "publishedOn": "2023-03-09T01:00:03.000Z",
-          "wordCount": 66025,
+          "wordCount": 66017,
           "title": "Silvergate will liquidate bank, wind down operations",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2023/03/20230301_BankruptCompanies_Silvergate-1200x675.jpg"
         },
@@ -1235,7 +1245,7 @@
           "description": "The $9 billion dirty secret of an Australian gold icon",
           "link": "https://www.abc.net.au/news/2023-03-06/perth-mint-gold-doping-china-cover-up-four-corners/102048622",
           "publishedOn": "2023-03-09T01:00:03.000Z",
-          "wordCount": 5119,
+          "wordCount": 5070,
           "title": "The $9 billion dirty secret of an Australian gold icon",
           "imageUrl": "https://live-production.wcms.abc-cdn.net.au/c042f6378bdc15fa2b40142a180997bb?impolicy=wcms_crop_resize&cropH=2116&cropW=3762&xPos=3&yPos=193&width=862&height=485"
         },
@@ -1255,7 +1265,7 @@
           "description": "OpenSea, ConsenSys among prized crypto startups with shares available at big discounts",
           "link": "https://www.theblock.co/post/217937/opensea-consensys-among-prized-crypto-startups-with-shares-available-at-big-discounts?utm_source=rss&utm_medium=rss",
           "publishedOn": "2023-03-08T23:23:03.000Z",
-          "wordCount": 64511,
+          "wordCount": 64503,
           "title": "OpenSea, ConsenSys among prized crypto startups with shares available at big discounts",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/09/20220919_Token-Equity-Fundraising-1200x675.jpg"
         },
@@ -1265,7 +1275,7 @@
           "description": "JPMorgan Is Cutting Ties With Crypto Exchange Gemini: Source",
           "link": "https://www.coindesk.com/business/2023/03/08/jpmorgan-is-cutting-ties-with-crypto-exchange-gemini-source/?utm_term=organic&utm_campaign=coindesk_main&utm_medium=social&utm_source=twitter&utm_content=editorial",
           "publishedOn": "2023-03-08T19:30:03.000Z",
-          "wordCount": 20107,
+          "wordCount": 20250,
           "title": "JPMorgan Is Cutting Ties With Crypto Exchange Gemini: Source",
           "imageUrl": "https://www.coindesk.com/resizer/uglBgz5ncm1MotdY7cVKlFitc5I=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/PUPMMW7DN5CQDLWOIFJXF6W4LA.jpg"
         },
@@ -1290,22 +1300,12 @@
           "imageUrl": null
         },
         {
-          "id": "https://zeeprime.capital/the-future-of-medicine-is-tokens",
-          "author": null,
-          "description": "The Future Of Medicine Is Tokens",
-          "link": "https://zeeprime.capital/the-future-of-medicine-is-tokens",
-          "publishedOn": "2023-03-08T17:00:02.000Z",
-          "wordCount": 9378,
-          "title": "The Future Of Medicine Is Tokens",
-          "imageUrl": "https://storage.googleapis.com/zeeprime-strapi-storage/zeeprime_capital_blog_desci_research_vitadao_molecule_healthcare_science_5aa628a60f/zeeprime_capital_blog_desci_research_vitadao_molecule_healthcare_science_5aa628a60f.png"
-        },
-        {
           "id": "https://doomberg.substack.com/p/pandoras-precedent",
           "author": null,
           "description": "Pandora’s Precedent",
           "link": "https://doomberg.substack.com/p/pandoras-precedent",
           "publishedOn": "2023-03-08T16:00:03.000Z",
-          "wordCount": 2858,
+          "wordCount": 2857,
           "title": "Pandora’s Precedent",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc6ad9ee5-b024-42da-bb29-db727cabc1c3_840x600.jpeg"
         },
@@ -1327,12 +1327,57 @@
       "siteUrl": "https://www.inoreader.com/stream/user/1005336866/tag/%E6%B5%B7%E5%A4%96%E5%8A%A0%E5%AF%86%E8%B5%84%E8%AE%AF/view/html",
       "articles": [
         {
+          "id": "http://www.inoreader.com/article/3a9c6e753c30ca9f",
+          "author": "Savannah Fortis",
+          "description": "On January 15, the Shiba Inu network announced the Shibarium Layer-2 solution, highlighting the benefits of the new update. However, the developers didn’t provide a specific date for the launch in the announcement. Since then, the community has been anticipating the launch of the Layer-2 network.\n \n \nIn a recent report, Shiba Inu developers released an essential warning ahead of the launch date for Shibarium, its new blockchain. The developers disclosed that the Shibarium Layer-2 protocol would launch this week, but potential investors and users must be cautious when using the L2 solution. \n \nShiba Inu Releases Warning To Community\n \nAccording to the tweet posted a few hours ago, Shytoshi Kusama, Shiba Inu’s lead developer, urged users to be careful when using the layer-2 blockchain Shibar…",
+          "link": "https://bitcoinist.com/shiba-inu-considerations-for-shibarium-release/",
+          "publishedOn": "2023-03-09T12:02:55.000Z",
+          "wordCount": 4786,
+          "title": "Shiba Inu Dev Alerts Community of Key Considerations For Shibarium Release",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/jpeg",
+            "url": "https://bitcoinist.com/wp-content/uploads/2023/03/shiba-inu-g734db2d6c_1280-630x420.jpg"
+          },
+          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2023/03/shiba-inu-g734db2d6c_1280-630x420.jpg"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e753c32d091",
+          "author": "Shaurya Malwa",
+          "description": "A stablecoin backed by $1 worth of bitcoin and 1x short of a bitcoin perpetual future can be used to provide stability to such a token, Hayes said.",
+          "link": "https://www.coindesk.com/tech/2023/03/09/arthur-hayes-proposes-bitcoin-backed-nakadollar-which-would-rely-on-exchanges-to-maintain-dollar-peg/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2023-03-09T11:50:07.000Z",
+          "wordCount": 20795,
+          "title": "Arthur Hayes Proposes Bitcoin-Backed NakaDollar, Which Would Rely on Exchanges to Maintain Dollar Peg",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/jpeg",
+            "url": "https://www.coindesk.com/resizer/vOD7XNyECiz_H6blYoWDrg43HTg=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/7X5RCYJ7SNAXZG45F2G4DCLIMU.jpg"
+          },
+          "imageUrl": "https://www.coindesk.com/resizer/vOD7XNyECiz_H6blYoWDrg43HTg=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/7X5RCYJ7SNAXZG45F2G4DCLIMU.jpg"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e753c3f05d2",
+          "author": "Will Canny",
+          "description": "Following the closure of crypto-friendly bank Silvergate, the focus will be on actions by Signature Bank and crypto exchange Binance, the report said.",
+          "link": "https://www.coindesk.com/business/2023/03/09/digital-asset-inflows-will-slow-without-on-ramps-between-fiat-and-crypto-morgan-stanley/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2023-03-09T11:24:14.000Z",
+          "wordCount": 19886,
+          "title": "Digital Asset Inflows Will Slow Without On-Ramps Between Fiat and Crypto: Morgan Stanley",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/jpeg",
+            "url": "https://www.coindesk.com/resizer/Jq46kU3Z1G6uD-UMDy8x0VhMSxk=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/EG3RUTUK75EFTESAPH4SITOA7M.jpg"
+          },
+          "imageUrl": "https://www.coindesk.com/resizer/Jq46kU3Z1G6uD-UMDy8x0VhMSxk=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/EG3RUTUK75EFTESAPH4SITOA7M.jpg"
+        },
+        {
           "id": "http://www.inoreader.com/article/3a9c6e753c3a4c44",
           "author": "Savannah Fortis",
           "description": "In a recent development, a crypto investor jabbed Senator Elizabeth Warren for criticizing Silvergate bank. Warren shared a Twitter post, reacting to the recent collapse of the bank and reminding the crypto community of her earlier warnings.\n \n \nBut the founder of Galaxy Digital, Mike Novogratz, responded to Warren’s posts with sarcasm, mentioning her so-called intelligence and calls for regulators to step up against crypto risk.   \n \nNovogratz Reacts Against Senator Warren \n \nIn Warren’s post, the senator that “As the bank of choice for crypto, Silvergate Bank’s failure is disappointing but predictable. I warned of Silvergate’s risky, if not illegal, activity—and identified severe due diligence failures. Now, customers must be made whole & regulators should step up against crypto risk.”\n …",
           "link": "https://bitcoinist.com/novogratz-warren-over-silvergate-criticism/",
           "publishedOn": "2023-03-09T11:03:23.000Z",
-          "wordCount": 4868,
+          "wordCount": 4869,
           "title": "Mike Novogratz Claps Back At Sen. Warren Over Silvergate Criticism",
           "enclosure": {
             "length": "1337",
@@ -1347,7 +1392,7 @@
           "description": "The new product aims to help firms perform faster on-chain data analyses using unique data from Nansen’s expansive database.",
           "link": "https://www.coindesk.com/business/2023/03/09/nansen-rolls-out-query-product-offering-historical-data-to-curate-datasets/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-03-09T11:03:06.000Z",
-          "wordCount": 19756,
+          "wordCount": 19899,
           "title": "Nansen Rolls Out Query Product Offering Historical Data to Curate Datasets",
           "enclosure": {
             "length": "1337",
@@ -1362,7 +1407,7 @@
           "description": "Kwenta, which uses Synthetix’s infrastructure for its perpetual product, has seen trading volumes surge in the past few weeks.",
           "link": "https://www.coindesk.com/markets/2023/03/09/kwenta-dex-lures-traders-to-capture-bitcoin-ether-returns-regardless-of-direction/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-03-09T10:41:24.000Z",
-          "wordCount": 20656,
+          "wordCount": 20792,
           "title": "Kwenta DEX Lures Traders to Capture Bitcoin, Ether Returns Regardless of Direction",
           "enclosure": {
             "length": "1337",
@@ -1377,7 +1422,7 @@
           "description": "Internet users in Russia have been targeted in an email campaign advertising the launch of an alleged cryptocurrency issued by the state. Potential victims are encouraged to follow a link to the website of the fraudulent investment scheme, security experts said.\n \nThousands of Investment Offers Entice Russians to Put Money Into Non-Existent Cryptocurrency\n \nFraudsters have been sending emails to Russian residents claiming to be writing on behalf of a regulatory body about the upcoming launch of “the Russian state cryptocurrency,” the Tass news agency reported, quoting Kaspersky Lab.\n \n“With such messages, attackers lure users to resources where they risk losing money,” the cybersecurity firm explained. Several thousands of these letters had been sent by the end of February, the anti-virus …",
           "link": "https://news.bitcoin.com/fraudsters-offer-russians-bogus-chance-to-invest-in-fake-state-cryptocurrency/",
           "publishedOn": "2023-03-09T10:33:53.000Z",
-          "wordCount": 3342,
+          "wordCount": 3350,
           "title": "Fraudsters Offer Russians Bogus Chance to Invest in Fake ‘State Cryptocurrency’",
           "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2023/03/shutterstock_1313874383.jpg"
         },
@@ -1387,7 +1432,7 @@
           "description": "Bitcoin's options skew favors bearish put options by the most in two months.",
           "link": "https://www.coindesk.com/markets/2023/03/09/options-market-flashes-bitcoin-warning-as-silvergate-winds-down-operations/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-03-09T10:29:48.000Z",
-          "wordCount": 20288,
+          "wordCount": 20428,
           "title": "Crypto Options Market Flashes Bitcoin Warning as Silvergate Winds Down Operations",
           "enclosure": {
             "length": "1337",
@@ -1402,7 +1447,7 @@
           "description": "The exchange’s current banking partner is only accessible to users based in the European Economic Area (EEA).",
           "link": "https://www.coindesk.com/business/2023/03/09/cryptocom-struggles-to-maintain-fiat-on-ramps-in-the-face-of-crypto-banking-crisis/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-03-09T10:29:48.000Z",
-          "wordCount": 20332,
+          "wordCount": 20475,
           "title": "Crypto.com Struggles to Maintain Fiat On-Ramps in the Face of Crypto Banking Crisis",
           "enclosure": {
             "length": "1337",
@@ -1417,7 +1462,7 @@
           "description": "The bankrupt crypto exchange wants to offer supplements up to 94% of salary to avoid sought-after coders quitting.",
           "link": "https://www.coindesk.com/policy/2023/03/09/ftx-proposes-4m-bonus-program-as-it-seeks-to-retain-staff/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-03-09T10:09:37.000Z",
-          "wordCount": 20035,
+          "wordCount": 20170,
           "title": "FTX Proposes $4M Bonus Program as It Seeks to Retain Staff",
           "enclosure": {
             "length": "1337",
@@ -1432,7 +1477,7 @@
           "description": "The Chairman of the Commodity Futures Trading Commission (CFTC), Rostin Behnam, has once again reaffirmed the agency’s position that stablecoins should be classified as commodities and placed under its jurisdiction. \n \nAt a Senate Agricultural Committee meeting on Wednesday, March 8, the CFTC’s boss re-emphasized this stance while responding to a question raised by New York State Senator Kirsten Gillibrand on the contrasting reports on by the U.S. regulator and its federal counterpart, the Security and Exchange Commission (SEC) the Tether stablecoin. \n \n“Notwithstanding a regulatory framework around stablecoins, they’re going to be commodities in my view.” Benham said,  “It was clear to our enforcement team and the commission that Tether, a stablecoin, was a commodity.”\n \nThis recent state…",
           "link": "https://bitcoinist.com/cftc-asserts-stablecoins-are-under-its-jurisdiction/",
           "publishedOn": "2023-03-09T09:59:59.000Z",
-          "wordCount": 4771,
+          "wordCount": 4772,
           "title": "CFTC Re-Asserts That Stablecoins Remain Under Its Jurisdiction",
           "enclosure": {
             "length": "1337",
@@ -1447,7 +1492,7 @@
           "description": "The agreement requires approval from a Delaware bankruptcy court as failed exchange seeks to raise funds for creditors.",
           "link": "https://www.coindesk.com/business/2023/03/09/ftx-reaches-45m-deal-to-sell-interest-in-sequoia-to-abu-dhabis-investment-arm/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-03-09T09:14:53.000Z",
-          "wordCount": 20178,
+          "wordCount": 20321,
           "title": "FTX Reaches $45M Deal to Sell Interest in Sequoia to Abu Dhabi's Investment Arm",
           "enclosure": {
             "length": "1337",
@@ -1462,7 +1507,7 @@
           "description": "Marathon Digital Holdings has announced the repayment of its term loan and the termination of its credit facilities with Silvergate Bank, resulting in a $50 million reduction of debt, according to a statement released on Wednesday.\n \nHugh Gallagher, CFO of Marathon Digital, highlighted that the crypto market has “significantly changed” since last summer, when Marathon installed those facilities.\n \nGallagher stated that as a result of these developments, the company has altered its financial strategy by bolstering its balance sheet with increased cash reserves and unrestricted Bitcoin holdings.\n \n \nMarathon Digital Holdings has repaid its term loan and terminated its credit facilities with Silvergate Bank, reducing Marathon’s debt by $50 million and increasing the Company’s unrestricted bit…",
           "link": "https://bitcoinist.com/marathon-digital-cuts-credit-with-silvergate/",
           "publishedOn": "2023-03-09T08:48:55.000Z",
-          "wordCount": 4852,
+          "wordCount": 4853,
           "title": "Marathon Digital Pays Off Term Loan, Cuts Credit Facilities With Silvergate",
           "enclosure": {
             "length": "1337",
@@ -1477,7 +1522,7 @@
           "description": "According to Fortune Business Insights, the global blockchain retail market size is expected to surge from the $172.2 million recorded in 2021 to over $2 billion by 2028. Both the demand for the product by end-users as well as the growing use of the technology in supply chain management are expected to sustain the market’s projected compound annual growth rate (CAGR) of 42.8%. \n \nInherent Benefits of Blockchain\n \nThe value of the global blockchain retail market size is expected to grow from the $172.2 million recorded in 2021 to over $2 billion by 2028, a study by the market research firm Fortune Business Insights has found. In a report titled “Blockchain in Retail Market Forecast, 2023-2028,” the research firm also revealed that the CAGR during this period is expected to top 42.8%.\n \nAcco…",
           "link": "https://news.bitcoin.com/blockchain-retail-market-size-to-top-over-2-billion-by-2028-study/",
           "publishedOn": "2023-03-09T08:32:50.000Z",
-          "wordCount": 3316,
+          "wordCount": 3353,
           "title": "Blockchain Retail Market Size to Top Over $2 Billion by 2028 — Study",
           "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2023/03/shutterstock_1894505215.jpg"
         },
@@ -1487,7 +1532,7 @@
           "description": "<p>Silvergate Capital Corporation (Nasdaq: SI), the parent of the <a href=\"https://www.financemagnates.com/cryptocurrency/news/silvergate-bank-planning-to-offer-loans-against-crypto/\" target=\"_blank\" rel=\"follow\">crypto-friendly Silvergate Bank</a>, has decided to wind down its banking operations and voluntarily liquidate assets in an “orderly manner.”  \n</p><p>The Collapse of Silvergate Bank   \n</p><p>  \nAnnounced late Wednesday, the bank has already onboarded Centerview Partners LLC as the financial advisor for the liquidation process, Centerview Partners LLC for legal advice, and Strategic Risk Associates for project management assistance.  \n</p><p>  \n“In light of recent industry and regulatory developments, Silvergate believes that an orderly wind-down of Bank operations and a voluntar…",
           "link": "https://www.financemagnates.com//cryptocurrency/silvergate-bank-announces-voluntary-liquidation-amid-troubles/",
           "publishedOn": "2023-03-09T07:39:33.000Z",
-          "wordCount": 5404,
+          "wordCount": 5406,
           "title": "Silvergate Bank Announces Voluntary Liquidation amid Troubles",
           "imageUrl": "https://images.financemagnates.com/images/Bankrupt%20880x400_id_20bdf478-a267-462a-98ac-17c92c255c96_size900.jpg"
         },
@@ -1497,7 +1542,7 @@
           "description": "Data from CryptoQuant shows that active addresses and transfer volume have seen significant declines as Silvergate weighs heavy on the market.",
           "link": "https://www.coindesk.com/markets/2023/03/09/silvergate-collapse-dragging-down-bitcoin-volume/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-03-09T07:29:50.000Z",
-          "wordCount": 20188,
+          "wordCount": 20334,
           "title": "Silvergate Collapse Dragging Down Bitcoin Volume",
           "enclosure": {
             "length": "1337",
@@ -1512,7 +1557,7 @@
           "description": "Bitcoin dumped Thursday on the back of multiple catalysts that contributed to selling pressure.",
           "link": "https://www.coindesk.com/markets/2023/03/09/polygon-solana-lead-majors-slide-amid-bitcoin-weakness/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-03-09T06:40:15.000Z",
-          "wordCount": 20129,
+          "wordCount": 20272,
           "title": "Polygon, Solana Lead Majors Slide Amid Bitcoin Weakness",
           "enclosure": {
             "length": "1337",
@@ -1527,7 +1572,7 @@
           "description": "The Tokyo bankruptcy court trustee for the defunct Japanese bitcoin exchange Mt Gox, Nobuaki Kobayashi, has published a letter stating that creditors have until March 10, 2023 (Japan Time) to register their repayment claims. Kobayashi explains that the team is dealing with “a large number of inquiries” and may not be able to respond to creditors in time if they have questions about the process.\n \nMt Gox Trustee Shares Final Deadline for Creditor Registration\n \nThe Mt Gox saga appears to be nearing its conclusion as the Shibuya-based bitcoin exchange’s rehabilitation committee and bankruptcy trustee have outlined a repayment process. The exchange, which launched in 2010, suspended operations in February 2014 and filed for bankruptcy after 800,000 bitcoins were stolen. Since then, 200,000 bi…",
           "link": "https://news.bitcoin.com/deadline-approaching-mt-gox-trustee-sets-final-cut-off-date-for-creditors-to-claim-over-3-billion-in-recovered-bitcoin/",
           "publishedOn": "2023-03-09T06:38:48.000Z",
-          "wordCount": 3420,
+          "wordCount": 3415,
           "title": "Deadline Approaching: Mt Gox Trustee Sets Final Cut-off Date for Creditors to Claim Over $3 Billion in Recovered Bitcoin",
           "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2023/03/krug3.jpg"
         },
@@ -1537,7 +1582,7 @@
           "description": "U.S. President Joe Biden's proposed budget will include a provision to close tax loss harvesting on crypto transactions.",
           "link": "https://www.coindesk.com/policy/2023/03/09/biden-budget-plan-would-close-crypto-tax-loss-harvesting-loophole/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-03-09T05:38:19.000Z",
-          "wordCount": 20066,
+          "wordCount": 20213,
           "title": "Biden Budget Plan Would Close Crypto Tax Loss Harvesting Loophole",
           "enclosure": {
             "length": "1337",
@@ -1552,49 +1597,9 @@
           "description": "On March 8, Coinbase announced the launch of its Wallet-as-a-Service (WaaS) product. The WaaS product aims to “bring the next hundred million consumers into Web3 through a seamless wallet-onboarding experience.” The Coinbase WaaS offers wallet infrastructure application programming interfaces (APIs) to companies, enabling them to build their own custom Web3 crypto wallets.\n \nCoinbase’s Wallet-as-a-Service Aims to Simplify Onboarding\n \nCoinbase Global (Nasdaq: COIN) has revealed a new addition to its suite of offerings and services: Wallet-as-a-Service (WaaS). In a Twitter thread, Coinbase stated that the WaaS “is a scalable and secure set of wallet infrastructure APIs, enabling companies to create and deploy fully customizable onchain wallets.” Additionally, the Coinbase wallet infrastruct…",
           "link": "https://news.bitcoin.com/coinbase-launches-wallet-as-a-service-to-bring-millions-to-web3/",
           "publishedOn": "2023-03-09T04:36:50.000Z",
-          "wordCount": 3338,
+          "wordCount": 3333,
           "title": "Coinbase Launches Wallet-as-a-Service to Bring Millions to Web3",
           "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2023/03/dddcccxxx45.jpg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e753df91567",
-          "author": "Sam Reynolds",
-          "description": "Binance, Coinbase, OKX, and Paxos have all released statements.",
-          "link": "https://www.coindesk.com/business/2023/03/09/crypto-stakeholders-say-no-exposure-to-shuttered-silvergate/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-          "publishedOn": "2023-03-09T04:07:58.000Z",
-          "wordCount": 19516,
-          "title": "Crypto Stakeholders Say No Exposure to Shuttered Silvergate",
-          "enclosure": {
-            "length": "1337",
-            "type": "image/jpeg",
-            "url": "https://www.coindesk.com/resizer/NE6vuSZ-qO9TlBBhcshAq51ctow=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/CGM4PVNNIVB7HBN4BRUOGQLJYY.jpg"
-          },
-          "imageUrl": "https://www.coindesk.com/resizer/NE6vuSZ-qO9TlBBhcshAq51ctow=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/CGM4PVNNIVB7HBN4BRUOGQLJYY.jpg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e753de3030e",
-          "author": "Kevin Helms",
-          "description": "Britain’s top financial regulator, the Financial Conduct Authority (FCA), has widened its crackdown on unauthorized cryptocurrency ATMs. “There are currently no crypto ATM operators registered with the FCA, which they must be to operate legally,” the regulator noted.\n \nFCA Cracks Down on Illegal Crypto ATMs\n \nBritain’s top financial regulator, the Financial Conduct Authority (FCA), announced Wednesday that it has taken further action against unregistered crypto ATMs in East London in collaboration with the Metropolitan Police, the largest police force in the U.K.\n \nThe announcement followed a series of raids the FCA conducted in collaboration with the West Yorkshire Police on several sites suspected of hosting unregistered crypto ATMs around Leeds.\n \nAccording to the regulator:\n \n\nThe FCA …",
-          "link": "https://news.bitcoin.com/uk-widens-crackdown-on-unauthorized-crypto-atms/",
-          "publishedOn": "2023-03-09T02:36:13.000Z",
-          "wordCount": 3219,
-          "title": "UK Widens Crackdown on Unauthorized Crypto ATMs",
-          "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2023/03/fca.jpg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e753de3c58b",
-          "author": "Rosie Perper",
-          "description": "The Bored Ape parent company will allow up to 10,000 holders of its Otherdeed NFTs to participate in the second gamified test of its Otherside metaverse platform.",
-          "link": "https://www.coindesk.com/web3/2023/03/09/yuga-labs-otherside-metaverse-to-launch-second-trip-on-march-25/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-          "publishedOn": "2023-03-09T02:29:53.000Z",
-          "wordCount": 20236,
-          "title": "Yuga Labs' Otherside Metaverse to Launch Second Trip on March 25",
-          "enclosure": {
-            "length": "1337",
-            "type": "image/png",
-            "url": "https://www.coindesk.com/resizer/-rHqxWkj5Yc4dssFzoEE-mksAmE=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/PQ325J4ZR5CVZOGBEWWOACH6NE.png"
-          },
-          "imageUrl": "https://www.coindesk.com/resizer/-rHqxWkj5Yc4dssFzoEE-mksAmE=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/PQ325J4ZR5CVZOGBEWWOACH6NE.png"
         }
       ]
     }

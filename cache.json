@@ -6,13 +6,43 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=123293",
+          "author": "Liam J. Kelly",
+          "description": "Euler Finance suffered an exploit of at least $197 million. Reports indicate the attacker used flash loans to nab a variety of assets.",
+          "link": "https://decrypt.co/123293/defi-lender-euler-finance-hit-flash-loan-attack",
+          "publishedOn": "2023-03-13T10:52:11.000Z",
+          "wordCount": 7140,
+          "title": "DeFi Lender Euler Finance Drained of $197M In Flash Loan Exploit",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/08/hackers-shutterstock-gID_6.png@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/08/hackers-shutterstock-gID_6.png@png"
+        },
+        {
+          "id": "https://decrypt.co/?p=121725",
+          "author": "Kade Garrett",
+          "description": "Considered by some to be a currency without a state, the price of Bitcoin (BTC) has rapidly ascended and descended. What determines the current Bitcoin price?",
+          "link": "https://decrypt.co/resources/what-determines-the-price-of-bitcoin-2",
+          "publishedOn": "2023-03-13T10:34:54.000Z",
+          "wordCount": 7544,
+          "title": "What Determines the Price of Bitcoin?",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/07/bitcoin-nodes-gID_1-pID_4.png@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/07/bitcoin-nodes-gID_1-pID_4.png@png"
+        },
+        {
           "id": "https://decrypt.co/?p=123287",
           "author": "Liam J. Kelly",
           "description": "The UK's Chancellor of the Exchequer Jeremy Hunt said that that SVB UK customers' deposits will be \"protected, with no taxpayer support.\"",
           "link": "https://decrypt.co/123287/hsbc-announces-purchase-silicon-valley-bank-1-21",
           "publishedOn": "2023-03-13T09:19:54.000Z",
-          "wordCount": 7552,
-          "title": "HSBC UK Acquires Silicon Valley Bank's UK Branch For £1",
+          "wordCount": 7556,
+          "title": "HSBC UK Acquires Silicon Valley Bank's UK Branch for £1",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/03/hsbc-uk-crypto-gID_2.jpg@png",
             "length": "1000000",
@@ -26,7 +56,7 @@
           "description": "While it may be ironic, crypto prices were buoyed by news of government intervention in a banking crisis.",
           "link": "https://decrypt.co/123276/usdc-regains-dollar-peg-crypto-market-rallying-fdic-silicon-valley-bank-signature",
           "publishedOn": "2023-03-13T03:19:41.000Z",
-          "wordCount": 7325,
+          "wordCount": 7329,
           "title": "Crypto Market Rallies on FDIC Banking Intervention, USDC Regains Dollar Peg",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/07/FDIC-gID_5.png@png",
@@ -41,7 +71,7 @@
           "description": "The disclosures came as the government affirmed that all deposits would be available come Monday morning.",
           "link": "https://decrypt.co/123278/crypto-firm-exposure-signature-bank-failure",
           "publishedOn": "2023-03-13T02:35:32.000Z",
-          "wordCount": 8324,
+          "wordCount": 8328,
           "title": "Coinbase, Paxos Disclose Exposure to Failed Signature Bank",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/03/signature-bank-crypto-gID_1.jpg@png",
@@ -56,7 +86,7 @@
           "description": "The Bitcoin miner’s hash rate represented around 0.002% of the network’s total computational power.",
           "link": "https://decrypt.co/123266/very-lucky-solo-miner-solves-bitcoin-block-for-148k-reward",
           "publishedOn": "2023-03-13T01:16:07.000Z",
-          "wordCount": 7577,
+          "wordCount": 7581,
           "title": "'Very Lucky' Solo Miner Solves Bitcoin Block for $148K Reward",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/06/bitcoin-mining-operations-gID_1.jpg@png",
@@ -71,7 +101,7 @@
           "description": "The statement assured spooked investors that the U.S. \"banking system remains resilient\" despite the failure of several institutions.",
           "link": "https://decrypt.co/123270/feds-shut-down-signature-bank-say-signature-and-silicon-valley-bank-depositors-will-be-made-whole",
           "publishedOn": "2023-03-13T00:03:18.000Z",
-          "wordCount": 7675,
+          "wordCount": 7679,
           "title": "Feds Shut Down Signature Bank, Say Signature and Silicon Valley Bank Depositors Will Be Made Whole",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/01/janet-yellen-treasury-federal-reserve-crypto-bitcoin-gID_2.jpg@png",
@@ -86,7 +116,7 @@
           "description": "The drastic move would require the bank's failure to be attributed to \"systemic risk.\"",
           "link": "https://decrypt.co/123262/silicon-valley-bank-federal-deposit-guarantee",
           "publishedOn": "2023-03-12T20:59:00.000Z",
-          "wordCount": 7610,
+          "wordCount": 7614,
           "title": "Feds Could Guarantee All Silicon Valley Bank Deposits: Report",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/03/FDIC-shutterstock_1820534096-16x9-1-gID_5.jpg@png",
@@ -101,7 +131,7 @@
           "description": "Silvergate and Silicon Valley Bank both went under this week. Stablecoin Circle slipped its peg in reaction to the news.",
           "link": "https://decrypt.co/123234/this-week-on-crypto-twitter-crypto-has-a-banking-crisis",
           "publishedOn": "2023-03-12T18:43:00.000Z",
-          "wordCount": 9921,
+          "wordCount": 9925,
           "title": "This Week on Crypto Twitter: Crypto Has a Banking Crisis",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/03/svb-bank-crypto-gID_1.jpg@png",
@@ -116,7 +146,7 @@
           "description": "The federal government is instead focused on addressing the needs of SVB depositors.",
           "link": "https://decrypt.co/123231/silicon-valley-bank-bailout-ruled-out-by-treasury-secretary-janet-yellen",
           "publishedOn": "2023-03-12T18:20:17.000Z",
-          "wordCount": 7983,
+          "wordCount": 7987,
           "title": "Silicon Valley Bank Bailout Ruled Out By Treasury Secretary Janet Yellen",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/03/Janet-Yellen-gID_2.jpeg@png",
@@ -131,7 +161,7 @@
           "description": "Circle stated it would use corporate resources and \"external capital if necessary\" to ensure that USDC is redeemable for the US Dollar at a 1:1 ratio.",
           "link": "https://decrypt.co/123224/circle-to-stand-behind-usdc-cover-3-3-billion-shortfall-held-in-silicon-valley-bank",
           "publishedOn": "2023-03-11T22:26:44.000Z",
-          "wordCount": 7534,
+          "wordCount": 7538,
           "title": "Circle To ‘Stand Behind’ USDC, Cover $3.3 Billion Shortfall Held in Silicon Valley Bank",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/06/circle-centre-coinbase-usdc-ethereum-algorand-gID_6.jpg@png",
@@ -146,7 +176,7 @@
           "description": "Circle says $3.3 billion of the cash reserves backing USDC remain at shuttered Silicon Valley Bank. USDC, DAI, and USDD have all depegged from $1.",
           "link": "https://decrypt.co/123211/usdc-stablecoin-depegs-90-cents-circle-exposure-silicon-valley-bank",
           "publishedOn": "2023-03-11T14:27:59.000Z",
-          "wordCount": 7350,
+          "wordCount": 7354,
           "title": "USDC Stablecoin Falls to 87 Cents After Circle Discloses Exposure to Silicon Valley Bank",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/04/circle-usdc-gID_1.jpg@png",
@@ -161,7 +191,7 @@
           "description": "By developing various on-chain products and services, Coinbase is hoping to get users onto its new Base roll-up and scoop up more revenue.",
           "link": "https://decrypt.co/123207/coinbases-plan-to-go-on-chain-native-is-a-smart-play-for-fees",
           "publishedOn": "2023-03-11T13:14:54.000Z",
-          "wordCount": 7735,
+          "wordCount": 7739,
           "title": "Coinbase's Plan to Go 'On-Chain Native' Is a Smart Play for Fees",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/02/coinbase-base-l2-logo-gID_5.png@png",
@@ -176,7 +206,7 @@
           "description": "A market-wide selloff was well underway in the wake of the collapse of Silvergate Bank. Then Silicon Valley Bank imploded.",
           "link": "https://decrypt.co/123203/this-week-in-coins-third-week-of-losses-spurred-on-by-silvergate-collapse-bitcoin-and-ethereum-crash",
           "publishedOn": "2023-03-11T12:01:02.000Z",
-          "wordCount": 8075,
+          "wordCount": 8079,
           "title": "This Week in Coins: After Silvergate and Silicon Valley Bank Collapse, Bitcoin and Ethereum Crash",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/03/Silvergate-SVB-RKO-gID_2.jpg@png",
@@ -191,7 +221,7 @@
           "description": "After Circle disclosed how much of its USDC stablecoin is backed by reserves held by Silicon Valley Bank, exchanges show caution signs.",
           "link": "https://decrypt.co/123208/coinbase-binance-suspend-usdc-conversions-as-dollar-peg-wobbles",
           "publishedOn": "2023-03-11T05:04:25.000Z",
-          "wordCount": 7512,
+          "wordCount": 7516,
           "title": "Coinbase, Binance Suspend USDC Conversions as Dollar Peg Wobbles",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/06/shutterstock_1231334707-gID_2.jpg@png",
@@ -206,7 +236,7 @@
           "description": "BlockFi, Circle, Avalanche, Yuga Labs, and Proof are among the crypto names that had exposure to now-shuttered Silicon Valley Bank.",
           "link": "https://decrypt.co/123199/silicon-valley-bank-crypto-companies-contagion",
           "publishedOn": "2023-03-11T01:56:48.000Z",
-          "wordCount": 10174,
+          "wordCount": 10178,
           "title": "Silicon Valley Bank Contagion: Crypto Companies Affected Include BlockFi, Circle, Avalanche, Ripple",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/03/silicon-valley-bank-crypto-gID_2.jpg@png",
@@ -221,7 +251,7 @@
           "description": "The effects of Silicon Valley Bank's failure are only beginning to be felt. Here's what's going on.",
           "link": "https://decrypt.co/123197/silicon-valley-banks-crypto-extinction-level-tech-startup-turmoil",
           "publishedOn": "2023-03-11T00:22:05.000Z",
-          "wordCount": 8884,
+          "wordCount": 8888,
           "title": "As Silicon Valley Bank Falls, Crypto Firms Brace for 'Extinction-Level' Tech Startup Turmoil",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/03/svb-bank-crypto-gID_4.jpg@png",
@@ -236,7 +266,7 @@
           "description": "The privacy-centric browser is trying to boost crypto self-custody by providing an off-ramp within its integrated wallet.",
           "link": "https://decrypt.co/123186/brave-lets-users-sell-crypto-without-leaving-web-browser",
           "publishedOn": "2023-03-10T23:17:29.000Z",
-          "wordCount": 7211,
+          "wordCount": 7215,
           "title": "Brave Browser Now Lets Users Sell Crypto Within the Wallet",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/01/brave-browser-laptop-gID_4.jpg@png",
@@ -251,7 +281,7 @@
           "description": "The exchange has made changes to the way staked assets can be transferred and sold, emphasizing that customers earn rewards via protocols and not from Coinbase.",
           "link": "https://decrypt.co/123180/coinbase-updates-staking-service-regulatory-crackdown",
           "publishedOn": "2023-03-10T23:12:25.000Z",
-          "wordCount": 7519,
+          "wordCount": 7523,
           "title": "Coinbase Updates Staking Service Following Regulatory Crackdown",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/01/coinbase-ethereum-16x9-1-gID_4.jpg@png",
@@ -266,7 +296,7 @@
           "description": "The company behind the massively popular Nintendo video game series could be exploring Web3 moves, based on a new job listing.",
           "link": "https://decrypt.co/123174/pokemon-company-hiring-web3-expert-nfts",
           "publishedOn": "2023-03-10T23:04:20.000Z",
-          "wordCount": 7630,
+          "wordCount": 7634,
           "title": "Gotta Catch NFTs? The Pokémon Company Is Hiring a Web3 Expert",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/03/pokemon-gID_4.png@png",
@@ -281,7 +311,7 @@
           "description": "The president’s ambitious tax plan has new rules for digital assets—how will it affect the ordinary trader?",
           "link": "https://decrypt.co/123172/biden-tax-hike-what-it-means-bitcoin-wash-sale",
           "publishedOn": "2023-03-10T21:04:16.000Z",
-          "wordCount": 7709,
+          "wordCount": 7713,
           "title": "Biden’s Tax Hike Proposal and What It Means for Bitcoin 'Wash Sales'",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/10/joe-biden-democratic-presidential-candidate-gID_4.jpg@png",
@@ -296,7 +326,7 @@
           "description": "Silicon Valley Bank was closed by California's financial regulator and insured depositors can expect to withdraw their money by Monday.",
           "link": "https://decrypt.co/123164/california-financial-regulator-shutters-silicon-valley-bank",
           "publishedOn": "2023-03-10T16:57:44.000Z",
-          "wordCount": 7050,
+          "wordCount": 7054,
           "title": "California Financial Regulator Shutters Silicon Valley Bank",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/03/silicon-valley-bank-crypto-gID_1.jpg@png",
@@ -311,7 +341,7 @@
           "description": "The Breakout NFT conference is a first-of-its-kind meeting of the minds for Web3 builders and leaders in Brazil.",
           "link": "https://decrypt.co/123077/breakout-nft-conference-is-building-web3-communities-in-sao-paolo",
           "publishedOn": "2023-03-10T16:37:08.000Z",
-          "wordCount": 7084,
+          "wordCount": 7088,
           "title": "Breakout NFT Conference is Building Web3 Communities in São Paulo",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/03/sao-paolo-gID_6.jpeg@png",
@@ -326,7 +356,7 @@
           "description": "Trading for SVB Financial has been suspended as the parent company behind Silicon Valley Bank is reportedly seeking a buyout.",
           "link": "https://decrypt.co/123145/silicon-valley-bank-seeking-outside-acquisition-report",
           "publishedOn": "2023-03-10T14:37:26.000Z",
-          "wordCount": 7515,
+          "wordCount": 7519,
           "title": "Embattled Silicon Valley Bank Seeking Outside Acquisition: Report",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/03/svb-bank-crypto-gID_2.jpg@png",
@@ -341,7 +371,7 @@
           "description": "On-chain analytics indicate that the now-bankrupt Voyager has been steadily selling various assets, including Ethereum and Shiba Inu.",
           "link": "https://decrypt.co/123139/voyager-liquidates-56m-ethereum-shib-erc-20-tokens",
           "publishedOn": "2023-03-10T11:36:30.000Z",
-          "wordCount": 7355,
+          "wordCount": 7359,
           "title": "Voyager Liquidates $56M in Ethereum, SHIB, and Other ERC-20 Tokens",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/07/voyager-digital-shutterstock-gID_4.jpg@png",
@@ -356,7 +386,7 @@
           "description": "Bitcoin plunged below $20,000 for the first time since mid-January as multiple factors placed increased pressure on the crypto industry.",
           "link": "https://decrypt.co/123135/bitcoin-plummets-crypto-market-falls-below-1-trillion",
           "publishedOn": "2023-03-10T10:52:29.000Z",
-          "wordCount": 8044,
+          "wordCount": 8048,
           "title": "Bitcoin Plummets 8% as Crypto Market Falls Below $1 Trillion",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/10/bitcoin-ethereum-bear-gID_2.jpg@png",
@@ -371,7 +401,7 @@
           "description": "Ordinal inscriptions hit a new daily peak Thursday after someone figured out how to mint a form of \"fungible tokens\" on Bitcoin.",
           "link": "https://decrypt.co/123123/people-are-minting-brc-20-meme-coins-on-bitcoin-via-ordinals",
           "publishedOn": "2023-03-10T03:42:21.000Z",
-          "wordCount": 8272,
+          "wordCount": 8276,
           "title": "People Are Minting 'BRC-20' Meme Tokens on Bitcoin via Ordinals",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/03/Decrypt-Wallpaper-Format-1-gID_5.png@png",
@@ -386,7 +416,7 @@
           "description": "Rep. Tom Emmer says he has strong concerns that a CBDC could jeopardize American civil liberties.",
           "link": "https://decrypt.co/123112/tom-emmer-digital-dollar-financial-control",
           "publishedOn": "2023-03-09T23:36:13.000Z",
-          "wordCount": 8284,
+          "wordCount": 8288,
           "title": "Congressman Warns Digital Dollar Could Expand 'Financial Control' Over Americans",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/03/Screenshot-2023-03-09-at-5.36.35-PM-gID_4.png@png",
@@ -401,7 +431,7 @@
           "description": "The startup behind EOS said that it exited its position in the soon-to-shutter \"crypto-friendly\" bank—at an apparently sizable loss.",
           "link": "https://decrypt.co/123114/peter-thiel-backed-block-one-says-it-sold-off-silvergate-stake",
           "publishedOn": "2023-03-09T22:57:59.000Z",
-          "wordCount": 7638,
+          "wordCount": 7642,
           "title": "Peter Thiel-Backed Block.one Says it Sold Off Silvergate Stake",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/03/Silvergate-shutterstock_2120685773-16x9-1-gID_2.jpg@png",
@@ -416,7 +446,7 @@
           "description": "The GQ3 NFT passes are now selling for about half the original price as the men’s lifestyle magazine says it will reward holders.",
           "link": "https://decrypt.co/123105/gq-magazines-nft-drop-flops",
           "publishedOn": "2023-03-09T22:37:26.000Z",
-          "wordCount": 7974,
+          "wordCount": 7978,
           "title": "GQ Magazine NFT Drop Flops—And the Floor Is Falling Fast",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/03/gq-gq3-nft-gID_5.jpeg@png",
@@ -431,7 +461,7 @@
           "description": "The New York AG seeks to block access to the crypto exchange in the state.",
           "link": "https://decrypt.co/123102/new-york-attorney-general-kucoin-ethereum-security",
           "publishedOn": "2023-03-09T20:56:34.000Z",
-          "wordCount": 7512,
+          "wordCount": 7516,
           "title": "New York Attorney General Sues KuCoin, Claims Ethereum Is a Security",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/05/NYAG-Letitia-James-gID_4.jpeg@png",
@@ -446,7 +476,7 @@
           "description": "Things are looking grim for the U.S.-based, crypto-friendly banks.",
           "link": "https://decrypt.co/123097/signature-bank-stock-sinks-silvergate-shut-down",
           "publishedOn": "2023-03-09T19:31:31.000Z",
-          "wordCount": 7648,
+          "wordCount": 7652,
           "title": "Signature Bank’s Stock Sinks 10% as Silvergate Prepares to Shut Down",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/03/signature-bank-crypto-gID_1.jpg@png",
@@ -476,7 +506,7 @@
           "description": "After its free NFTs garnered significant value, the Polygon-based Starbucks Odyssey platform is dropping its first paid collectible.",
           "link": "https://decrypt.co/123088/starbucks-premium-nfts",
           "publishedOn": "2023-03-09T17:10:52.000Z",
-          "wordCount": 7470,
+          "wordCount": 7474,
           "title": "Starbucks Serves Up Its First Premium NFTs at $100 a Pop",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/03/starbucks-odyssey-premium-nft-gID_5.png@png",
@@ -491,7 +521,7 @@
           "description": "Solidus Labs says it has found more than 250,000 rug pulls since 2021—a new scam token created every 4 minutes.",
           "link": "https://decrypt.co/123042/token-sniffer-api-solidus-labs-rug-pulls-scams",
           "publishedOn": "2023-03-09T14:01:02.000Z",
-          "wordCount": 7524,
+          "wordCount": 7528,
           "title": "Token Sniffer Adds API for Faster Scam Scans",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/03/token-sniffer-solidus-labs-dog-nose-gID_2.jpg@png",
@@ -506,7 +536,7 @@
           "description": "Following a recent governance proposal, SushiSwap is rolling out a new rewards program in partnership with r/CryptoCurrency.",
           "link": "https://decrypt.co/123060/cryptocurrency-subreddit-launches-new-moon-token-pool-sushiswap",
           "publishedOn": "2023-03-09T13:57:07.000Z",
-          "wordCount": 7574,
+          "wordCount": 7578,
           "title": "Cryptocurrency Subreddit Launches New MOON Token Pool on SushiSwap",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/03/sushiswap-reddit-moon-token-gID_4.jpg@png",
@@ -536,7 +566,7 @@
           "description": "The UK Financial Conduct Authority continues to target and disrupt illegal Bitcoin ATM businesses, this time it's taking aim at London.",
           "link": "https://decrypt.co/123052/fca-met-police-continue-bitcoin-atm-crackdown-east-london",
           "publishedOn": "2023-03-09T11:18:11.000Z",
-          "wordCount": 7502,
+          "wordCount": 7506,
           "title": "FCA, Met Police Continue Bitcoin ATM Crackdown in East London",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/05/bitcoin-atm-gID_4.jpg@png",
@@ -551,7 +581,7 @@
           "description": "The theme restaurant chain is expanding its Web3 presence via a new members-only launch with Animoca Brands.",
           "link": "https://decrypt.co/123046/planet-hollywood-inks-deal-animoca-brands-launch-nft-club-l-a",
           "publishedOn": "2023-03-09T11:01:02.000Z",
-          "wordCount": 7231,
+          "wordCount": 7235,
           "title": "Planet Hollywood, Animoca Brands to Launch NFT Club in L.A.",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/03/animoca-planet-hollywood-club-gID_4.jpeg@png",
@@ -566,7 +596,7 @@
           "description": "Bitcoin and major altcoins slipped further following the news of crypto-friendly bank Silvergate winding down operations.",
           "link": "https://decrypt.co/123050/bitcoin-ethereum-down-silvergate-bank-shuts-shop",
           "publishedOn": "2023-03-09T10:24:27.000Z",
-          "wordCount": 7303,
+          "wordCount": 7307,
           "title": "Bitcoin, Ethereum Down 8% on the Week as Silvergate Bank Shuts Shop",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/07/crypto-bear-gID_4.png@png",
@@ -596,7 +626,7 @@
           "description": "Ongoing market uncertainty means traders are either selling or staying still.",
           "link": "https://decrypt.co/123029/regulatory-uncertainty-fed-bitcoin-traders-cautious",
           "publishedOn": "2023-03-09T00:06:47.000Z",
-          "wordCount": 8010,
+          "wordCount": 8014,
           "title": "Regulatory Uncertainty and Fed’s Next Steps Keep Bitcoin Traders Cautious",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/07/crypto-markets-down-bitcoin-gID_1.jpeg@png",
@@ -626,7 +656,7 @@
           "description": "Rostin Behnam parts ways with his SEC counterpart over federal jurisdiction over ETH.",
           "link": "https://decrypt.co/123032/cftc-chair-says-ethereum-is-a-commodity-despite-genslers-bitcoin-only-position",
           "publishedOn": "2023-03-08T23:55:11.000Z",
-          "wordCount": 7277,
+          "wordCount": 7281,
           "title": "CFTC Chair Says Ethereum Is a Commodity—Despite Gensler’s ‘Bitcoin Only’ Position",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/03/Behnam-Gensler-RKO-scaled-gID_4.jpg@png",
@@ -634,36 +664,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/03/Behnam-Gensler-RKO-scaled-gID_4.jpg@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=123002",
-          "author": "Kate Irwin",
-          "description": "The studio is working with FIFA and plans to build Web3 games with the support of pro soccer superstar Lionel Messi's VC firm Play Time.",
-          "link": "https://decrypt.co/123002/lionel-messi-backs-web3-soccer-game-startup-matchday-in-21m-round",
-          "publishedOn": "2023-03-08T23:13:04.000Z",
-          "wordCount": 7377,
-          "title": "Lionel Messi Backs Web3 Soccer Game Startup Matchday in $21M Round",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/08/messi-crypto-payments-psg-gID_5.jpg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/08/messi-crypto-payments-psg-gID_5.jpg@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=123024",
-          "author": "Jason Nelson",
-          "description": "Citing regulatory headwinds and the bear market, Silvergate Capital announced it is shuttering Silvergate Bank.",
-          "link": "https://decrypt.co/123024/crypto-friendly-bank-silvergate-to-wind-down-operations",
-          "publishedOn": "2023-03-08T22:17:48.000Z",
-          "wordCount": 7114,
-          "title": "'Crypto Friendly' Bank Silvergate to Wind Down Operations",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/02/Silvergate-Change-shutterstock_2122142750-16x9-1-gID_6.jpg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/02/Silvergate-Change-shutterstock_2122142750-16x9-1-gID_6.jpg@png"
         },
         {
           "id": "https://decrypt.co/videos/live-events/2Jib0Uc9/collabland-grew-because-of-covid-creating-need-for-dao-tools-co-founder-anjali-young",
@@ -913,6 +913,196 @@
       "siteUrl": "https://cryptopanic.com/",
       "articles": [
         {
+          "id": "https://cryptopanic.com/news/17865701/Bitcoin-BTC-Price-Begins-Road-to-Recovery-After-Avoiding-Breakdown",
+          "author": null,
+          "description": "The Bitcoin (BTC) price could determine the direction of its future trend during this week.",
+          "link": "https://cryptopanic.com/news/17865701/Bitcoin-BTC-Price-Begins-Road-to-Recovery-After-Avoiding-Breakdown",
+          "publishedOn": "2023-03-13T11:00:00.000Z",
+          "wordCount": 527,
+          "title": "Bitcoin (BTC) Price Begins Road to Recovery After Avoiding Breakdown",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/17865692/Cardano-ADA-Jumps-10-Heres-How-Ecosystem-Defied-Market-Turmoil",
+          "author": null,
+          "description": "ADA up 10.75% at $0.338 after reaching intraday highs of $0.344",
+          "link": "https://cryptopanic.com/news/17865692/Cardano-ADA-Jumps-10-Heres-How-Ecosystem-Defied-Market-Turmoil",
+          "publishedOn": "2023-03-13T10:59:00.000Z",
+          "wordCount": 527,
+          "title": "Cardano (ADA) Jumps 10%, Here's How Ecosystem Defied Market Turmoil",
+          "imageUrl": "https://u.today/sites/default/files/styles/twitter/public/2023-03/31779.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/17865687/DeFi-Lender-Euler-Finance-Drained-of-197M-In-Flash-Loan-Exploit",
+          "author": null,
+          "description": "Euler Finance suffered an exploit of at least $197 million. Reports indicate the attacker used flash loans to nab a variety of assets.",
+          "link": "https://cryptopanic.com/news/17865687/DeFi-Lender-Euler-Finance-Drained-of-197M-In-Flash-Loan-Exploit",
+          "publishedOn": "2023-03-13T10:52:11.000Z",
+          "wordCount": 528,
+          "title": "DeFi Lender Euler Finance Drained of $197M In Flash Loan Exploit",
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/08/hackers-shutterstock-gID_6.png@png"
+        },
+        {
+          "id": "https://cryptopanic.com/news/17865684/Euler-Finance-EUL-crashes-48-following-197M-hack",
+          "author": null,
+          "description": "Euler Labs has been exploited for $177 million in four transactions, according to Blockchain security firm BlockSec.",
+          "link": "https://cryptopanic.com/news/17865684/Euler-Finance-EUL-crashes-48-following-197M-hack",
+          "publishedOn": "2023-03-13T10:50:31.000Z",
+          "wordCount": 525,
+          "title": "Euler Finance EUL crashes 48% following $197M hack",
+          "imageUrl": "https://cryptoslate.com/wp-content/uploads/2023/03/euler-finance-hack.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/17865685/Coinbase-Confirms-240-Million-Corporate-Cash-Balance-with-Signature-Bank-Amid-Lender-Closure",
+          "author": null,
+          "description": "Major crypto exchange Coinbase stated that it has millions in corporate cash balance with the shuttered Signature Bank. According to a March 13 Twitter thread, as of the close of business on Friday, March 10, Coinbase had \"an approximately $240m balance in corporate cash\" at Signature. The...",
+          "link": "https://cryptopanic.com/news/17865685/Coinbase-Confirms-240-Million-Corporate-Cash-Balance-with-Signature-Bank-Amid-Lender-Closure",
+          "publishedOn": "2023-03-13T10:50:00.000Z",
+          "wordCount": 530,
+          "title": "Coinbase Confirms $240 Million Corporate Cash Balance with Signature Bank Amid Lender Closure",
+          "imageUrl": "https://v2.cimg.co/news/107485/261564/adobestock-photo-gonzo-1.jpeg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/17865674/Top-7-BIGGEST-Crypto-Trends-to-Look-Out-For-in-2023",
+          "author": null,
+          "description": "What are the top new crypto trends of 2023? 🔮 From LSD to Bitcoin NFTs, we're revealing these seven crypto narratives that could shape the industry this year. Which one are you looking out for? Links:ChatGPT: https://youtu.be/fQMiIaO3RWMLiquid Staking Derivatives (LSD):...",
+          "link": "https://cryptopanic.com/news/17865674/Top-7-BIGGEST-Crypto-Trends-to-Look-Out-For-in-2023",
+          "publishedOn": "2023-03-13T10:45:54.000Z",
+          "wordCount": 528,
+          "title": "Top 7 BIGGEST Crypto Trends to Look Out For in 2023",
+          "imageUrl": "https://i2.ytimg.com/vi/-uomwbdSxTE/hqdefault.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/17865626/OKCoin-pauses-dollar-deposits-OTC-services-after-managing-Silvergate-situation",
+          "author": null,
+          "description": "OKCoin, a U.S.-based crypto exchange affiliated with the much larger OKX, is temporarily pausing dollar deposits.",
+          "link": "https://cryptopanic.com/news/17865626/OKCoin-pauses-dollar-deposits-OTC-services-after-managing-Silvergate-situation",
+          "publishedOn": "2023-03-13T10:40:24.000Z",
+          "wordCount": 527,
+          "title": "OKCoin pauses dollar deposits, OTC services after ‘managing’ Silvergate situation",
+          "imageUrl": "https://www.tbstat.com/wp/uploads/2019/06/okcoin-1200x675.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/17865616/Privacy-focused-blockchain-network-closes-Aztec-Connect-tool",
+          "author": null,
+          "description": "The research made with Aztec Connect will be usable and critical to the development of a next-generation blockchain, Aztec Network said.",
+          "link": "https://cryptopanic.com/news/17865616/Privacy-focused-blockchain-network-closes-Aztec-Connect-tool",
+          "publishedOn": "2023-03-13T10:35:00.000Z",
+          "wordCount": 524,
+          "title": "Privacy-focused blockchain network closes Aztec Connect tool",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/17865621/What-Determines-the-Price-of-Bitcoin",
+          "author": null,
+          "description": "Considered by some to be a currency without a state, the price of Bitcoin (BTC) has rapidly ascended and descended. What determines the current Bitcoin price?",
+          "link": "https://cryptopanic.com/news/17865621/What-Determines-the-Price-of-Bitcoin",
+          "publishedOn": "2023-03-13T10:34:54.000Z",
+          "wordCount": 523,
+          "title": "What Determines the Price of Bitcoin?",
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/07/bitcoin-nodes-gID_1-pID_4.png@png"
+        },
+        {
+          "id": "https://cryptopanic.com/news/17865641/BREAKING-NEWS-HUGE-WARNING-This-Affects-EVERYONE-IN-CRYPTO",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/17865641/BREAKING-NEWS-HUGE-WARNING-This-Affects-EVERYONE-IN-CRYPTO",
+          "publishedOn": "2023-03-13T10:33:40.000Z",
+          "wordCount": null,
+          "title": "BREAKING NEWS: HUGE WARNING This Affects EVERYONE IN CRYPTO",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/17865627/Euler-Finance-flash-loan-attacked-for-an-estimated-197-million",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/17865627/Euler-Finance-flash-loan-attacked-for-an-estimated-197-million",
+          "publishedOn": "2023-03-13T10:33:37.000Z",
+          "wordCount": null,
+          "title": "Euler Finance flash-loan attacked for an estimated $197 million",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/17865636/Silicon-Valley-Bank-Clients-Can-Fully-Access-Funds-After-FDIC-Creates-New-Bridge-Bank",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/17865636/Silicon-Valley-Bank-Clients-Can-Fully-Access-Funds-After-FDIC-Creates-New-Bridge-Bank",
+          "publishedOn": "2023-03-13T10:33:19.000Z",
+          "wordCount": null,
+          "title": "Silicon Valley Bank Clients Can Fully Access Funds After FDIC Creates New Bridge Bank",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/17865625/South-Dakota-Governor-Moves-To-Block-CBDC-Bill-That-Excludes-Crypto-Assets-From-Definition-of-Money",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/17865625/South-Dakota-Governor-Moves-To-Block-CBDC-Bill-That-Excludes-Crypto-Assets-From-Definition-of-Money",
+          "publishedOn": "2023-03-13T10:30:39.000Z",
+          "wordCount": null,
+          "title": "South Dakota Governor Moves To Block CBDC Bill That Excludes Crypto Assets From Definition of Money",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/17865612/USDC-and-BUSD-breathe-a-sigh-of-relief-thanks-to-Biden-administration",
+          "author": null,
+          "description": "U.S. government comes to the rescue of failed banks. However, BUSD and USDC continue to suffer. The crypto community, in general, criticized the government’s bailout. Over the last few days, the collapse of Signature and the Silicon Valley Bank has impacted the financial and crypto markets quite...",
+          "link": "https://cryptopanic.com/news/17865612/USDC-and-BUSD-breathe-a-sigh-of-relief-thanks-to-Biden-administration",
+          "publishedOn": "2023-03-13T10:30:20.000Z",
+          "wordCount": 529,
+          "title": "USDC and BUSD breathe a sigh of relief, thanks to Biden administration",
+          "imageUrl": "https://ambcrypto.com/wp-content/uploads/2023/03/AMBCrypto_White_House_hammer_of_justice_in_the_background_money_f8402cff-6abd-450d-bc70-0b600a4069df-e1678684377614.png"
+        },
+        {
+          "id": "https://cryptopanic.com/news/17865620/Top-Brazilian-Footballers-Embroiled-in-Crypto-Scam-Which-Players-Are-Involved",
+          "author": null,
+          "description": "Two top Brazilian professional football (soccer) players claim they have fallen foul of a crypto scam – and say that they were convinced to invest in a fraudulent project by a fellow pro.... Read More: Top Brazilian Footballers ‘Embroiled in Crypto Scam’ – Which Players Are Involved?",
+          "link": "https://cryptopanic.com/news/17865620/Top-Brazilian-Footballers-Embroiled-in-Crypto-Scam-Which-Players-Are-Involved",
+          "publishedOn": "2023-03-13T10:30:00.000Z",
+          "wordCount": 529,
+          "title": "Top Brazilian Footballers ‘Embroiled in Crypto Scam’ – Which Players Are Involved?",
+          "imageUrl": "https://v2.cimg.co/news/107490/261565/responsive-images/adobestock-53658807___media_library_original_1200_900.jpeg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/17865588/USDC-Feeling-Intense-Pressure-Despite-Fed-Action-To-Halt-SVB-Contagion",
+          "author": null,
+          "description": "USDC and other cryptocurrencies were having a rough trading session Monday following an announcement from U.S. authorities outlining measures to minimize the impact of the collapse of Silicon Valley Bank. Concerns regarding Circle’s $3.3 billion in USDC reserves held at SVB, which was shuttered...",
+          "link": "https://cryptopanic.com/news/17865588/USDC-Feeling-Intense-Pressure-Despite-Fed-Action-To-Halt-SVB-Contagion",
+          "publishedOn": "2023-03-13T10:24:08.000Z",
+          "wordCount": 528,
+          "title": "USDC Feeling Intense Pressure Despite Fed Action To Halt SVB Contagion",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/17865581/Fed-starts-stealth-QE-5-things-to-know-in-Bitcoin-this-week",
+          "author": null,
+          "description": "Bitcoin and crypto react bullishly to news that the Fed is providing liquidity again in the wake of Silicon Valley Bank failing and Signature Bank being closed.",
+          "link": "https://cryptopanic.com/news/17865581/Fed-starts-stealth-QE-5-things-to-know-in-Bitcoin-this-week",
+          "publishedOn": "2023-03-13T10:21:00.000Z",
+          "wordCount": 530,
+          "title": "Fed starts ‘stealth QE’ — 5 things to know in Bitcoin this week",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/17865477/Euler-Finance-hacked-for-over-195M-in-a-flash-loan-attack",
+          "author": null,
+          "description": "Euler Finance was exploited in a flash loan attack that drained hundreds of millions of decentralized stablecoins and synthetic ERC-20 tokens.",
+          "link": "https://cryptopanic.com/news/17865477/Euler-Finance-hacked-for-over-195M-in-a-flash-loan-attack",
+          "publishedOn": "2023-03-13T10:17:00.000Z",
+          "wordCount": 528,
+          "title": "Euler Finance hacked for over $195M in a flash loan attack",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/17865476/Bitcoin-US-Stock-Futures-Erase-Early-Gains-as-First-Republic-Bank-Tanks-50-in-Pre-Market-Trading",
+          "author": null,
+          "description": "Risk assets pared gains while bond yields tanked as emergency measures announced by U.S. authorities failed to assuage investor fears about banking sector problems.",
+          "link": "https://cryptopanic.com/news/17865476/Bitcoin-US-Stock-Futures-Erase-Early-Gains-as-First-Republic-Bank-Tanks-50-in-Pre-Market-Trading",
+          "publishedOn": "2023-03-13T10:13:50.000Z",
+          "wordCount": 533,
+          "title": "Bitcoin, U.S. Stock Futures Erase Early Gains as First Republic Bank Tanks 50% in Pre-Market Trading",
+          "imageUrl": "https://www.coindesk.com/resizer/8C3jg3vDdoUY9DsmMgp9vJwI3OM=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/ZNWVWGKJERD67ENBNAUCZWDKVM.png"
+        },
+        {
           "id": "https://cryptopanic.com/news/17865367/Euler-Finance-Hit-By-180M-Exploit",
           "author": null,
           "description": "The on-chain sleuths have reported that the Decentralized Finance (DeFi) protocol, Euler Finance, is undergoing an exploit.",
@@ -920,196 +1110,6 @@
           "publishedOn": "2023-03-13T10:04:24.000Z",
           "wordCount": 523,
           "title": "Euler Finance Hit By $180M Exploit",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/17865398/Bitcoin-Ether-gain-after-US-regulators-take-charge-to-shield-deposits-across-crypto-related-banks",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/17865398/Bitcoin-Ether-gain-after-US-regulators-take-charge-to-shield-deposits-across-crypto-related-banks",
-          "publishedOn": "2023-03-13T10:04:21.000Z",
-          "wordCount": null,
-          "title": "Bitcoin, Ether gain after U.S. regulators take charge to shield deposits across crypto-related banks",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/17865156/Bitcoin-And-Crypto-This-Week-These-Events-Will-Be-Crucial-For-Prices",
-          "author": null,
-          "description": "The Bitcoin and crypto markets are once again facing an extremely important week, which will be shaped not only by macro data, but also by the brewing US banking crisis. While at the beginning of last week the odds of a Fed rate hike of 50 basis points at the next FOMC meeting on March […]",
-          "link": "https://cryptopanic.com/news/17865156/Bitcoin-And-Crypto-This-Week-These-Events-Will-Be-Crucial-For-Prices",
-          "publishedOn": "2023-03-13T10:00:21.000Z",
-          "wordCount": 529,
-          "title": "Bitcoin And Crypto This Week: These Events Will Be Crucial For Prices",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/17865166/Powell-chose-financial-assets-over-inflation-now-prepare-for-the-second-wave-of-inflation-and-dont-rule-out-contagion",
-          "author": null,
-          "description": "Quick Take An update since futures opened last night SVB depositors will have access to all of their money on March 13.",
-          "link": "https://cryptopanic.com/news/17865166/Powell-chose-financial-assets-over-inflation-now-prepare-for-the-second-wave-of-inflation-and-dont-rule-out-contagion",
-          "publishedOn": "2023-03-13T10:00:20.000Z",
-          "wordCount": 536,
-          "title": "Powell chose financial assets over inflation, now prepare for the second wave of inflation and don’t rule out contagion",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/17865369/Kyber-Network-Investigates-Ways-to-Reverse-Token-Swap-That-Cost-User-2-Million",
-          "author": null,
-          "description": "A user on Kyber Network lost $2 million in what is believed to be a routing error on the defi platform. The network has also dubbed it a mistake on the user's part and announced a rectification of the trade.",
-          "link": "https://cryptopanic.com/news/17865369/Kyber-Network-Investigates-Ways-to-Reverse-Token-Swap-That-Cost-User-2-Million",
-          "publishedOn": "2023-03-13T10:00:00.000Z",
-          "wordCount": 530,
-          "title": "Kyber Network Investigates Ways to Reverse Token Swap That Cost User $2 Million",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/17865391/HSBC-Acquires-Silicon-Valley-Bank-UK-for-1-to-Safeguard-Customers-and-Taxpayers-Whats-Going-On",
-          "author": null,
-          "description": "Global banking giant HSBC has acquired the UK subsidiary of now-collapsed lender Silicon Valley Bank for £1 ($1.21) after all-night talks between the government, regulators, and other prospective buyers. The deal excludes the assets and liabilities of SVB UK's parent company. As of March 10, the...",
-          "link": "https://cryptopanic.com/news/17865391/HSBC-Acquires-Silicon-Valley-Bank-UK-for-1-to-Safeguard-Customers-and-Taxpayers-Whats-Going-On",
-          "publishedOn": "2023-03-13T09:58:00.000Z",
-          "wordCount": 534,
-          "title": "HSBC Acquires Silicon Valley Bank UK for £1 to Safeguard Customers and Taxpayers – What's Going On?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/17865158/Euler-DeFi-Protocol-Exploited-for-Nearly-185M",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/17865158/Euler-DeFi-Protocol-Exploited-for-Nearly-185M",
-          "publishedOn": "2023-03-13T09:55:15.000Z",
-          "wordCount": null,
-          "title": "Euler DeFi Protocol Exploited for Nearly $185M",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/17864858/Bitcoin-Explodes-10-Daily-on-Positive-SVB-Developments-Binance-1B-Injection-Market-Watch",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/17864858/Bitcoin-Explodes-10-Daily-on-Positive-SVB-Developments-Binance-1B-Injection-Market-Watch",
-          "publishedOn": "2023-03-13T09:39:51.000Z",
-          "wordCount": null,
-          "title": "Bitcoin Explodes 10% Daily on Positive SVB Developments, Binance $1B Injection: Market Watch",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/17864859/These-10-major-companies-disclosed-exposure-to-collapsed-Silicon-Valley-Bank",
-          "author": null,
-          "description": "After the recent shutdown of Silicon Valley Bank (SVB) by the California Department of Financial Protection and Innovation, which has … Continued",
-          "link": "https://cryptopanic.com/news/17864859/These-10-major-companies-disclosed-exposure-to-collapsed-Silicon-Valley-Bank",
-          "publishedOn": "2023-03-13T09:33:29.000Z",
-          "wordCount": 528,
-          "title": "These 10 major companies disclosed exposure to collapsed Silicon Valley Bank",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/17864824/Grayscale-has-a-70-chance-of-winning-the-case-against-SEC-Analyst",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/17864824/Grayscale-has-a-70-chance-of-winning-the-case-against-SEC-Analyst",
-          "publishedOn": "2023-03-13T09:30:07.000Z",
-          "wordCount": null,
-          "title": "Grayscale has a 70% chance of winning the case against SEC: Analyst",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/17864850/OKX-Affiliated-OKCoin-Pauses-USD-On-Ramp-Due-to-Signature-Banks-Collapse",
-          "author": null,
-          "description": "OkCoin CEO Hong Fang tweeted that customer deposits are safe and USD withdrawals are not affected.",
-          "link": "https://cryptopanic.com/news/17864850/OKX-Affiliated-OKCoin-Pauses-USD-On-Ramp-Due-to-Signature-Banks-Collapse",
-          "publishedOn": "2023-03-13T09:28:50.000Z",
-          "wordCount": 527,
-          "title": "OKX-Affiliated OKCoin Pauses USD On-Ramp Due to Signature Bank’s Collapse",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/17864680/Ripple-v-SEC-court-case-update-as-of-March-13-2023",
-          "author": null,
-          "description": "The cryptocurrency community is looking forward to the summary judgment in the legal case between Ripple and the Securities Exchange … Continued",
-          "link": "https://cryptopanic.com/news/17864680/Ripple-v-SEC-court-case-update-as-of-March-13-2023",
-          "publishedOn": "2023-03-13T09:24:26.000Z",
-          "wordCount": 528,
-          "title": "Ripple v. SEC court case update as of March 13, 2023",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/17864560/BTC-up-10-Rich-Dad-Poor-Dad-Author-Believes-Bitcoin-Is-Response-to-Sick-Economy",
-          "author": null,
-          "description": "Robert Kiyosaki speaks for Bitcoin (BTC) against sick economy, forecasts what's next",
-          "link": "https://cryptopanic.com/news/17864560/BTC-up-10-Rich-Dad-Poor-Dad-Author-Believes-Bitcoin-Is-Response-to-Sick-Economy",
-          "publishedOn": "2023-03-13T09:18:00.000Z",
-          "wordCount": 532,
-          "title": "BTC up 10%, 'Rich Dad Poor Dad' Author Believes Bitcoin Is Response to Sick Economy",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/17864558/Ethereum-Whales-Abruptly-Move-Over-357000000-in-ETH-As-Crypto-Markets-Brace-for-New-Week-On-Chain-Data",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/17864558/Ethereum-Whales-Abruptly-Move-Over-357000000-in-ETH-As-Crypto-Markets-Brace-for-New-Week-On-Chain-Data",
-          "publishedOn": "2023-03-13T09:15:19.000Z",
-          "wordCount": null,
-          "title": "Ethereum Whales Abruptly Move Over $357,000,000 in ETH As Crypto Markets Brace for New Week: On-Chain Data",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/17864528/EU-Merchants-Could-Be-Required-to-Accept-Digital-Euro-Ministers-Told",
-          "author": null,
-          "description": "Governments from the euro currency bloc are due to discuss strategic objectives for the CBDC later Monday.",
-          "link": "https://cryptopanic.com/news/17864528/EU-Merchants-Could-Be-Required-to-Accept-Digital-Euro-Ministers-Told",
-          "publishedOn": "2023-03-13T09:06:10.000Z",
-          "wordCount": 528,
-          "title": "EU Merchants Could Be Required to Accept Digital Euro, Ministers Told",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/17864394/Beware-the-perils-of-one-size-fits-all-approach-to-crypto-investing",
-          "author": null,
-          "description": "The collapse of Voyager and Celsius highlights the risks of crypto investing apps and underscores the need for tailored user education, writes Jackson Zeng of Caleb & Brown.",
-          "link": "https://cryptopanic.com/news/17864394/Beware-the-perils-of-one-size-fits-all-approach-to-crypto-investing",
-          "publishedOn": "2023-03-13T09:01:00.000Z",
-          "wordCount": 526,
-          "title": "Beware the perils of one-size-fits-all approach to crypto investing",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/17864402/How-this-user-owned-talent-network-is-disrupting-the-staffing-industry",
-          "author": null,
-          "description": "Adam Jackson explains how decentralization helps BrainTrust operate more efficiently than traditional staffing firms.",
-          "link": "https://cryptopanic.com/news/17864402/How-this-user-owned-talent-network-is-disrupting-the-staffing-industry",
-          "publishedOn": "2023-03-13T09:00:36.000Z",
-          "wordCount": 527,
-          "title": "How this user-owned talent network is disrupting the staffing industry",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/17864370/Signature-Bank-Gets-Shuttered-By-Regulators-After-SVB-Collapse-A-Major-Blow-To-Crypto",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/17864370/Signature-Bank-Gets-Shuttered-By-Regulators-After-SVB-Collapse-A-Major-Blow-To-Crypto",
-          "publishedOn": "2023-03-13T09:00:11.000Z",
-          "wordCount": null,
-          "title": "Signature Bank Gets Shuttered By Regulators After SVB Collapse – A Major Blow To Crypto?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/17864371/Coinbase-CEO-ponders-banking-features-after-Silicon-Valley-Bank-crisis",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/17864371/Coinbase-CEO-ponders-banking-features-after-Silicon-Valley-Bank-crisis",
-          "publishedOn": "2023-03-13T09:00:00.000Z",
-          "wordCount": null,
-          "title": "Coinbase CEO ponders banking features after Silicon Valley Bank crisis",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/17864198/Silicon-Valley-Bank-Crisis-a-Cyprus-Moment-for-Bitcoin-Crypto-Observers",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/17864198/Silicon-Valley-Bank-Crisis-a-Cyprus-Moment-for-Bitcoin-Crypto-Observers",
-          "publishedOn": "2023-03-13T08:53:07.000Z",
-          "wordCount": null,
-          "title": "Silicon Valley Bank Crisis a 'Cyprus Moment' for Bitcoin: Crypto Observers",
           "imageUrl": null
         }
       ]
@@ -1120,14 +1120,64 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
-          "id": "https://podcasters.spotify.com/pod/?%24web_only=true&_branch_match_id=1163702755330550980&utm_source=web&utm_campaign=web-share&utm_medium=sharing&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXLy7IL8lMq0zMS87IL9ItT03SSywo0MvJzMvWT9UPi0osM64o8jCvSAIAZ64L4jAAAAA%3D",
+          "id": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20230312b.htm",
           "author": null,
-          "description": "Anchor - The easiest way to make a podcast",
-          "link": "https://podcasters.spotify.com/pod/?%24web_only=true&_branch_match_id=1163702755330550980&utm_source=web&utm_campaign=web-share&utm_medium=sharing&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXLy7IL8lMq0zMS87IL9ItT03SSywo0MvJzMvWT9UPi0osM64o8jCvSAIAZ64L4jAAAAA%3D",
-          "publishedOn": "2023-03-13T10:00:04.000Z",
-          "wordCount": 320,
-          "title": "Anchor - The easiest way to make a podcast",
-          "imageUrl": "https://d12xoj7p9moygp.cloudfront.net/images/social/s4p-opengraph.png"
+          "description": "Joint Statement by Treasury, Federal Reserve, and FDIC",
+          "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20230312b.htm",
+          "publishedOn": "2023-03-13T11:00:03.000Z",
+          "wordCount": 1515,
+          "title": "Joint Statement by Treasury, Federal Reserve, and FDIC",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20230312a.htm?s=08",
+          "author": null,
+          "description": "Federal Reserve Board announces it will make available additional funding to eligible depository institutions to help...",
+          "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20230312a.htm?s=08",
+          "publishedOn": "2023-03-13T11:00:03.000Z",
+          "wordCount": 1617,
+          "title": "Federal Reserve Board announces it will make available additional funding to eligible depository institutions to help...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=zR6jp40vXTM&feature=youtu.be",
+          "author": null,
+          "description": "The Positive-Sum World of Frax Finance | The Edge Podcast",
+          "link": "https://www.youtube.com/watch?v=zR6jp40vXTM&feature=youtu.be",
+          "publishedOn": "2023-03-13T11:00:03.000Z",
+          "wordCount": null,
+          "title": "The Positive-Sum World of Frax Finance | The Edge Podcast",
+          "imageUrl": null
+        },
+        {
+          "id": "https://dailycaller.com/2022/03/04/congress-demands-answers-from-ccp-friendly-hsbc-bank/",
+          "author": null,
+          "description": "Congress Demands Answers From CCP-Friendly HSBC Bank",
+          "link": "https://dailycaller.com/2022/03/04/congress-demands-answers-from-ccp-friendly-hsbc-bank/",
+          "publishedOn": "2023-03-13T11:00:03.000Z",
+          "wordCount": 32347,
+          "title": "Congress Demands Answers From CCP-Friendly HSBC Bank",
+          "imageUrl": "https://cdn01.dailycaller.com/wp-content/uploads/2022/03/Screen-Shot-2022-03-03-at-4.13.15-PM-e1646349291395.png"
+        },
+        {
+          "id": "https://localnewsmatters.org/2023/03/12/firm-calling-itself-worlds-first-robot-lawyer-sued-in-court-over-authority-to-practice-law/",
+          "author": null,
+          "description": "Firm calling itself world's first 'robot lawyer' sued in court over authority to practice law - Local News Matters",
+          "link": "https://localnewsmatters.org/2023/03/12/firm-calling-itself-worlds-first-robot-lawyer-sued-in-court-over-authority-to-practice-law/",
+          "publishedOn": "2023-03-13T11:00:03.000Z",
+          "wordCount": 3605,
+          "title": "Firm calling itself world's first 'robot lawyer' sued in court over authority to practice law - Local News Matters",
+          "imageUrl": "https://i0.wp.com/localnewsmatters.org/wp-content/uploads/2023/03/LNM-20230309-ROBOLAWYER-02.jpg?fit=1200%2C900&ssl=1"
+        },
+        {
+          "id": "https://www.zerohedge.com/geopolitical/fight-brewing-between-congress-biden-labeling-wagner-terrorist-organization",
+          "author": null,
+          "description": "Fight Brewing Between Congress & Biden On Labeling Wagner A Terrorist Organization | ZeroHedge",
+          "link": "https://www.zerohedge.com/geopolitical/fight-brewing-between-congress-biden-labeling-wagner-terrorist-organization",
+          "publishedOn": "2023-03-13T11:00:03.000Z",
+          "wordCount": 1113,
+          "title": "Fight Brewing Between Congress & Biden On Labeling Wagner A Terrorist Organization | ZeroHedge",
+          "imageUrl": null
         },
         {
           "id": "https://www.youtube.com/watch?v=g9aTwwe98xk&feature=youtu.be",
@@ -1150,46 +1200,6 @@
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*tJ35TUJdi_Myry-NgblnRg.png"
         },
         {
-          "id": "https://www.zerohedge.com/geopolitical/prelude-war",
-          "author": null,
-          "description": "A Prelude To War | ZeroHedge",
-          "link": "https://www.zerohedge.com/geopolitical/prelude-war",
-          "publishedOn": "2023-03-13T09:00:02.000Z",
-          "wordCount": 2090,
-          "title": "A Prelude To War | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/geopolitical/these-are-most-and-least-free-countries-around-world",
-          "author": null,
-          "description": "These Are The Most (And Least) Free Countries Around The World | ZeroHedge",
-          "link": "https://www.zerohedge.com/geopolitical/these-are-most-and-least-free-countries-around-world",
-          "publishedOn": "2023-03-13T09:00:02.000Z",
-          "wordCount": 743,
-          "title": "These Are The Most (And Least) Free Countries Around The World | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/political/has-wokeness-peaked",
-          "author": null,
-          "description": "Has Wokeness Peaked? | ZeroHedge",
-          "link": "https://www.zerohedge.com/political/has-wokeness-peaked",
-          "publishedOn": "2023-03-13T07:30:03.000Z",
-          "wordCount": 3070,
-          "title": "Has Wokeness Peaked? | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/geopolitical/iran-announces-prisoner-swap-deal-us-white-house-blasts-cruel-lie",
-          "author": null,
-          "description": "Iran Announces Prisoner Swap Deal With US, But White House Blasts \"Cruel Lie\" | ZeroHedge",
-          "link": "https://www.zerohedge.com/geopolitical/iran-announces-prisoner-swap-deal-us-white-house-blasts-cruel-lie",
-          "publishedOn": "2023-03-13T07:00:02.000Z",
-          "wordCount": 1020,
-          "title": "Iran Announces Prisoner Swap Deal With US, But White House Blasts \"Cruel Lie\" | ZeroHedge",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.circle.com/en/pressroom/3.3-billion-of-usdc-reserve-risk-removed-dollar-de-peg-closes",
           "author": null,
           "description": "$3.3 Billion of USDC Reserve Risk Removed, Dollar De-peg Closes",
@@ -1205,9 +1215,9 @@
           "description": "Credible, Optimal Auctions via Blockchains",
           "link": "https://arxiv.org/abs/2301.12532",
           "publishedOn": "2023-03-13T06:34:08.000Z",
-          "wordCount": 666,
+          "wordCount": 661,
           "title": "Credible, Optimal Auctions via Blockchains",
-          "imageUrl": null
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
         },
         {
           "id": "https://www.levernews.com/svb-chief-pressed-lawmakers-to-weaken-bank-risk-regs/",
@@ -1225,7 +1235,7 @@
           "description": "U.S. officials weigh protecting all deposits at Silicon Valley Bank",
           "link": "https://www.washingtonpost.com/us-policy/2023/03/12/silicon-valley-bank-deposits/",
           "publishedOn": "2023-03-12T20:30:02.000Z",
-          "wordCount": 9800,
+          "wordCount": 9829,
           "title": "U.S. officials weigh protecting all deposits at Silicon Valley Bank",
           "imageUrl": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7WBMR3CDKYI63PQXRHF6NOGAUU_size-normalized.jpg&w=1440"
         },
@@ -1265,7 +1275,7 @@
           "description": "Yellen says no federal bailout for Silicon Valley Bank",
           "link": "https://apnews.com/article/silicon-valley-bank-bailout-yellen-deposits-failure-94f2185742981daf337c4691bbb9ec1e",
           "publishedOn": "2023-03-12T17:00:03.000Z",
-          "wordCount": 12590,
+          "wordCount": 12357,
           "title": "Yellen says no federal bailout for Silicon Valley Bank",
           "imageUrl": "https://storage.googleapis.com/afs-prod/media/7cf81443517f455eb99869daecc41fc5/3000.webp"
         },
@@ -1285,7 +1295,7 @@
           "description": "UK government seeks to tap Middle East money to buy out Silicon Valley Bank unit",
           "link": "https://www.ft.com/content/cde4aa95-1cb5-408d-b35f-3216eaee46ae?shareType=nongift",
           "publishedOn": "2023-03-12T16:00:03.000Z",
-          "wordCount": 1696,
+          "wordCount": 1700,
           "title": "UK government seeks to tap Middle East money to buy out Silicon Valley Bank unit",
           "imageUrl": null
         },
@@ -1295,19 +1305,9 @@
           "description": "Yellen says government will help SVB depositors but rules out bailout",
           "link": "https://www.ft.com/content/6a77d81b-7376-4ccf-80a2-3336af04d04b?accessToken=zwAAAYbWTyg3kc9qd9gbc3ZMz9OAojM2rwTQSw.MEQCIGQM__0e0m5eIN4rhJEbSZZbsy73A_OIN6pggCVDr1XKAiBQPYHOHzXOhdUi72xHMtAgOPQK25HHKojDs5MUaYRdQA&sharetype=gift&token=b9994a3c-8d7d-43e9-9e75-e59220469730",
           "publishedOn": "2023-03-12T15:00:02.000Z",
-          "wordCount": 1676,
+          "wordCount": 1680,
           "title": "Yellen says government will help SVB depositors but rules out bailout",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.theblock.co/post/219097/moonbirds-whale-sells-almost-500-nfts-on-blur-for-significant-losses?utm_source=twitter&utm_medium=social",
-          "author": null,
-          "description": "Moonbirds whale sells almost 500 NFTs on Blur for significant losses",
-          "link": "https://www.theblock.co/post/219097/moonbirds-whale-sells-almost-500-nfts-on-blur-for-significant-losses?utm_source=twitter&utm_medium=social",
-          "publishedOn": "2023-03-12T15:00:02.000Z",
-          "wordCount": 63147,
-          "title": "Moonbirds whale sells almost 500 NFTs on Blur for significant losses",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2022/11/20221107_Blur5-1200x675.jpg"
         },
         {
           "id": "https://www.ycombinator.com/blog/urgent-sign-the-petition-now-thousands-of-startups-and-hundreds-of-thousands-of-startup-jobs-are-at-risk",
@@ -1315,7 +1315,7 @@
           "description": "Urgent: Sign the petition now | Y Combinator",
           "link": "https://www.ycombinator.com/blog/urgent-sign-the-petition-now-thousands-of-startups-and-hundreds-of-thousands-of-startup-jobs-are-at-risk",
           "publishedOn": "2023-03-12T10:00:03.000Z",
-          "wordCount": 29829,
+          "wordCount": 31771,
           "title": "Urgent: Sign the petition now | Y Combinator",
           "imageUrl": "https://www.ycombinator.com/blog/content/images/2023/03/BlogTwitter-Image-Template--2-.png"
         }
@@ -1327,12 +1327,57 @@
       "siteUrl": "https://www.inoreader.com/stream/user/1005336866/tag/%E6%B5%B7%E5%A4%96%E5%8A%A0%E5%AF%86%E8%B5%84%E8%AE%AF/view/html",
       "articles": [
         {
+          "id": "http://www.inoreader.com/article/3a9c6e7532eb231d",
+          "author": "Christian Encila",
+          "description": "HSBC UK, the ring-fenced subsidiary of HSBC, has acquired Silicon Valley Bank UK for £1 ($1.21), according to a latest filing.\n \nIn a statement from the Treasury, it said the Bank of England oversaw the transaction with consultation from the UK Treasury to safeguard the deposits of Silicon Valley Bank UK customers.\n \n \nHSBC Says Surprise SVB UK Buyout ‘Makes Excellent Strategic Sense’ \n \nAccording to the filing, as of March 10, Silicon Valley Bank UK held loans totaling approximately $6.6 billion and deposits of roughly $8.1 billion.\n \n“This acquisition makes excellent strategic sense for our business in the UK,” Noel Quinn, HSBC Group CEO, said. \n \n\n“It strengthens our commercial banking franchise and enhances our ability to serve innovative and fast-growing firms, including in the techno…",
+          "link": "https://bitcoinist.com/hsbc-acquires-svb-for-1-pound/",
+          "publishedOn": "2023-03-13T10:49:14.000Z",
+          "wordCount": 4763,
+          "title": "HSBC Acquires Silicon Valley Bank UK For 1 Pound",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/jpeg",
+            "url": "https://bitcoinist.com/wp-content/uploads/2023/03/a-79-634x420.png"
+          },
+          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2023/03/a-79-634x420.png"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e7532ebe0d3",
+          "author": "Jack Schickler",
+          "description": "Loans and other services will resume on normal schedule Monday following a switch to a new bridge bank, the regulator said",
+          "link": "https://www.coindesk.com/policy/2023/03/13/silicon-valley-bank-clients-can-fully-access-funds-after-fdic-creates-new-bridge-bank/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2023-03-13T10:44:38.000Z",
+          "wordCount": 20252,
+          "title": "Silicon Valley Bank Clients Can Fully Access Funds After FDIC Creates New Bridge Bank",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/jpeg",
+            "url": "https://www.coindesk.com/resizer/04vZcySu_poHxcRiogRalcNafcI=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/OF6WR44WR5DYPESFZABJAD2IMQ.jpg"
+          },
+          "imageUrl": "https://www.coindesk.com/resizer/04vZcySu_poHxcRiogRalcNafcI=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/OF6WR44WR5DYPESFZABJAD2IMQ.jpg"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e7532d6db3a",
+          "author": "Omkar Godbole",
+          "description": "Risk assets pared gains while bond yields tanked as emergency measures announced by U.S. authorities failed to assuage investor fears about banking sector problems.",
+          "link": "https://www.coindesk.com/markets/2023/03/13/bitcoin-us-stock-futures-erase-early-gains-as-first-republic-bank-tanks-50-in-pre-market-trading/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2023-03-13T10:25:45.000Z",
+          "wordCount": 19824,
+          "title": "Bitcoin, U.S. Stock Futures Erase Early Gains as First Republic Bank Tanks 50% in Pre-Market Trading",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/png",
+            "url": "https://www.coindesk.com/resizer/awkFlBQIPLZlu1Raqh7EIr2CBCc=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/ZNWVWGKJERD67ENBNAUCZWDKVM.png"
+          },
+          "imageUrl": "https://www.coindesk.com/resizer/awkFlBQIPLZlu1Raqh7EIr2CBCc=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/ZNWVWGKJERD67ENBNAUCZWDKVM.png"
+        },
+        {
           "id": "http://www.inoreader.com/article/3a9c6e7532d164e6",
           "author": "Jake Simmons",
           "description": "The Bitcoin and crypto markets are once again facing an extremely important week, which will be shaped not only by macro data, but also by the brewing US banking crisis. While at the beginning of last week the odds of a Fed rate hike of 50 basis points at the next FOMC meeting on March 22 were skyrocketing, the situation has changed dramatically.\n \nThese Events Will Be Crucial For Bitcoin And Crypto\n \nThis Monday morning at 8:00 a.m. (EST), the financial world will be looking at US President Joe Biden’s speech on the US banking crisis. Of particular interest to the crypto industry will be whether the US President scapegoats crypto for the collapse of the banks. Biden said, “I am committed to holding those responsible for this mess fully accountable.”\n \nOn the other hand, it will be crucial…",
           "link": "https://bitcoinist.com/bitcoin-crypto-this-week-these-events-crucial/",
           "publishedOn": "2023-03-13T10:08:58.000Z",
-          "wordCount": 5089,
+          "wordCount": 5087,
           "title": "Bitcoin And Crypto This Week: These Events Will Be Crucial For Prices",
           "enclosure": {
             "length": "1337",
@@ -1347,7 +1392,7 @@
           "description": "The losses occurred over four transactions in dai (DAI), wrapped bitcoin (WBTC), staked ether (sETH) and USDC.",
           "link": "https://www.coindesk.com/business/2023/03/13/euler-defi-protocol-exploited-for-nearly-185m/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-03-13T09:58:06.000Z",
-          "wordCount": 19679,
+          "wordCount": 19736,
           "title": "Euler DeFi Protocol Exploited for Nearly $185M",
           "enclosure": {
             "length": "1337",
@@ -1362,7 +1407,7 @@
           "description": "OkCoin CEO Hong Fang tweeted that customer deposits are safe and USD withdrawals are not affected.",
           "link": "https://www.coindesk.com/business/2023/03/13/okx-affiliated-okcoin-pauses-usd-on-ramp-due-to-signature-banks-collapse/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-03-13T09:40:03.000Z",
-          "wordCount": 19325,
+          "wordCount": 19382,
           "title": "OKX-Affiliated OKCoin Pauses USD On-Ramp Due to Signature Bank’s Collapse",
           "enclosure": {
             "length": "1337",
@@ -1377,7 +1422,7 @@
           "description": "Governments from the euro currency bloc are due to discuss strategic objectives for the CBDC later Monday.",
           "link": "https://www.coindesk.com/policy/2023/03/13/eu-merchants-could-be-required-to-accept-digital-euro-ministers-told/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-03-13T09:17:17.000Z",
-          "wordCount": 19861,
+          "wordCount": 19921,
           "title": "EU Merchants Could Be Required to Accept Digital Euro, Ministers Told",
           "enclosure": {
             "length": "1337",
@@ -1392,7 +1437,7 @@
           "description": "In an effort to avoid the spread of the banking meltdown, authorities have announced the closure of another crypto-friendly bank – New York-based Signature Bank – dealing a severe blow to the crypto industry.\n \nState regulators pulled the plug on Signature Bank on Sunday, March 12 – the third largest failure in U.S. banking history – two days after the government took down Silicon Valley Bank in a failure that left billions of dollars in deposits unclaimed.\n \nThe potential clients of these lenders included a number of crypto firms. Signature and Silvergate were both proponents of digital asset liquidity that facilitated swift payments between clients, exchanges, and hedge funds.\n \n \nFDIC Insures Deposits Up To $250,000\n \nAs news of Silicon Valley Bank’s difficulties circulated last week, S…",
           "link": "https://bitcoinist.com/signature-bank-gets-shuttered-by-regulators/",
           "publishedOn": "2023-03-13T09:09:28.000Z",
-          "wordCount": 4993,
+          "wordCount": 4988,
           "title": "Signature Bank Gets Shuttered By Regulators After SVB Collapse – A Major Blow To Crypto?",
           "enclosure": {
             "length": "1337",
@@ -1407,7 +1452,7 @@
           "description": "The Fed's aggressive rate hikes and balance sheet reduction have caused a historic bank failure — fashioning a real-time ad for Bitcoin self-custody, observers said.",
           "link": "https://www.coindesk.com/markets/2023/03/13/silicon-valley-bank-crisis-a-cyprus-moment-for-bitcoin-crypto-observers/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-03-13T09:02:18.000Z",
-          "wordCount": 21453,
+          "wordCount": 21513,
           "title": "Silicon Valley Bank Crisis a 'Cyprus Moment' for Bitcoin: Crypto Observers",
           "enclosure": {
             "length": "1337",
@@ -1422,7 +1467,7 @@
           "description": "<p>Signature Bank became the third US bank institution to collapse in the span of four days. Similar to the now-collapsed Silvergate Bank, it also had a large corporate customer base from the cryptocurrency industry. The other one, <a href=\"https://www.financemagnates.com/cryptocurrency/svb-crisis-circle-escapes-usdc-depeg-with-regulatory-assurance/\" target=\"_blank\" rel=\"follow\">Silicon Valley Bank </a>(SVB), mostly tapped the technology sector, including crypto firms.</p><p>Signature Bank Collapses</p><p>  \nNew York state regulator, the Department of Financial Services, shuttered Signature Bank on Sunday \"to protect depositors,\" putting it under the Federal Deposit Insurance Corporation (FDIC) receivership.  \n</p><p>  \nThe FIDC also took control of the SVB, but <a href=\"https://www.financ…",
           "link": "https://www.financemagnates.com//cryptocurrency/signature-bank-collapse-coinbase-and-paxos-disclose-massive-exposure/",
           "publishedOn": "2023-03-13T08:54:11.000Z",
-          "wordCount": 6030,
+          "wordCount": 6574,
           "title": "Signature Bank Collapse: Coinbase, Paxos Disclose Massive Exposure",
           "imageUrl": "https://images.financemagnates.com/images/Signature%20bank_id_51089bce-998f-49cb-8130-80fe8aa47cf5_size900.jpg"
         },
@@ -1432,7 +1477,7 @@
           "description": "Data from Nansen shows that the total amount held by smart money wallets, and active addresses, are at multi-month lows.",
           "link": "https://www.coindesk.com/business/2023/03/13/smart-money-staying-put-as-usdc-remains-off-peg/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-03-13T08:40:16.000Z",
-          "wordCount": 19339,
+          "wordCount": 19395,
           "title": "Smart Money Staying Put as USDC Remains Off-Peg",
           "enclosure": {
             "length": "1337",
@@ -1447,7 +1492,7 @@
           "description": "The FBI has issued a public service announcement (PSA) warning on the utilization of play-to-earn games as part of a scheme to defraud users of funds stored in the form of cryptocurrency. Criminals are introducing victims to this kind of game and then use malware to extract the funds from cryptocurrency wallets linked to the game, according to the bureau.\nFBI Issues PSA on Play to Earn Games Crypto Scheme\nThe Federal Bureau of Investigation (FBI) is warning about the introduction of play-to-earn games in schemes destined to steal funds from unsuspecting users. On March 9, the institution issued a PSA on this, explaining how criminals are luring users to put funds behind play-to-earn games.\nAccording to the PSA, criminals establish a relationship with the selected victims, in order to gain …",
           "link": "https://news.bitcoin.com/fbi-warns-about-cryptocurrency-theft-scams-using-play-to-earn-games/",
           "publishedOn": "2023-03-13T08:37:42.000Z",
-          "wordCount": 3379,
+          "wordCount": 3372,
           "title": "FBI Warns About Cryptocurrency Theft Scams Using Play-to-Earn Games",
           "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2023/03/shutterstock_1055600861.jpg"
         },
@@ -1457,7 +1502,7 @@
           "description": "The International Monetary Fund (IMF) had warned the G-20 nations that the widespread proliferation of crypto assets could lead to banks losing deposits and curtailing lending, a report made public on Monday reveals.",
           "link": "https://www.coindesk.com/policy/2023/03/13/imf-had-warned-g-20-that-widespread-crypto-use-would-impact-banks/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-03-13T08:23:48.000Z",
-          "wordCount": 20406,
+          "wordCount": 20462,
           "title": "IMF had Warned G-20 That Widespread Crypto Use Would Impact Banks",
           "enclosure": {
             "length": "1337",
@@ -1472,7 +1517,7 @@
           "description": "Binance tapped into its Industry Recovery Initiative funds to cover the move.",
           "link": "https://www.coindesk.com/markets/2023/03/13/binance-will-convert-1b-worth-of-busd-stablecoin-to-bitcoin-ether-bnb-and-other-tokens/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-03-13T07:55:44.000Z",
-          "wordCount": 20201,
+          "wordCount": 20258,
           "title": "Binance Will Convert $1B Worth of BUSD Stablecoin to Bitcoin, Ether, BNB, and Other Tokens",
           "enclosure": {
             "length": "1337",
@@ -1487,7 +1532,7 @@
           "description": "Depositors will be protected, the U.K. government said, as it seeks to limit wider economic fallout from the bank's collapse",
           "link": "https://www.coindesk.com/business/2023/03/13/hsbc-subsidiary-to-acquire-silicon-valley-banks-uk-unit-for-1/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-03-13T07:37:01.000Z",
-          "wordCount": 20384,
+          "wordCount": 20441,
           "title": "HSBC Subsidiary to Acquire Silicon Valley Bank's UK Unit For £1",
           "enclosure": {
             "length": "1337",
@@ -1502,7 +1547,7 @@
           "description": "Decentralized exchanges worked exactly as intended as traders rushed to exchange USDC for wrapped ether and other tokens.",
           "link": "https://www.coindesk.com/markets/2023/03/13/usdc-trading-dominates-record-day-for-defi-exchanges-uniswap-curve/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-03-13T07:23:33.000Z",
-          "wordCount": 19976,
+          "wordCount": 20039,
           "title": "USDC Trading Dominates Record Day for DeFi Exchanges Uniswap, Curve",
           "enclosure": {
             "length": "1337",
@@ -1517,7 +1562,7 @@
           "description": "PRESS RELEASE. Taipei, March 13, 2023 – Bloxmith, the player-first Web3 gaming studio, today announced that the open beta for Raiders Rumble, its unique 1v1 squad battler game for mobile powered by the Flow blockchain, is now available for download on Google Play and Apple App Store.\n \nRaiders Rumble challenges players to apply fast-paced strategic decision making in countering the moves of their opponents. Built as a strategic esports game for the masses, it features a daily rotation of tournament modes where the top 50 percent of participants can win in-game items or RUMB tokens, Raiders Rumble’s project token.\n \nFurthermore, players do not need a crypto wallet or digital collectibles (NFTs) to start playing and enjoying the game. To maintain competitive integrity, digital collectibles i…",
           "link": "https://news.bitcoin.com/bloxmith-launches-raiders-rumble-a-mobile-strategy-game-for-both-web2-and-web3-gamers-on-the-flow-blockchain/",
           "publishedOn": "2023-03-13T06:16:27.000Z",
-          "wordCount": 3250,
+          "wordCount": 3252,
           "title": "Bloxmith Launches Raiders Rumble, a Mobile Strategy Game for Both Web2 and Web3 Gamers, on the Flow Blockchain",
           "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2023/03/photo_2023-03-13_09-30-31.jpg"
         },
@@ -1527,7 +1572,7 @@
           "description": "Markets jumped amid respite from the U.S. government and USD Coin-issuer Circle.",
           "link": "https://www.coindesk.com/markets/2023/03/13/bitcoin-ether-retrace-weekend-losses-as-bears-see-183m-in-short-liquidations/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-03-13T06:16:22.000Z",
-          "wordCount": 20037,
+          "wordCount": 20074,
           "title": "Bitcoin, Ether Retrace Weekend Losses As Bears See $183M in Short Liquidations",
           "enclosure": {
             "length": "1337",
@@ -1542,7 +1587,7 @@
           "description": "‘Europeum’ could safeguard values like privacy, digital minister Mathieu Michel told CoinDesk, as he seeks to make Belgium a blockchain hub",
           "link": "https://www.coindesk.com/policy/2023/03/13/after-landmark-crypto-law-european-politicians-contemplate-building-their-own-blockchain/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-03-13T06:16:22.000Z",
-          "wordCount": 20993,
+          "wordCount": 21045,
           "title": "After Landmark Crypto Law, European Politicians Contemplate Building Their Own Blockchain",
           "enclosure": {
             "length": "1337",
@@ -1560,46 +1605,6 @@
           "wordCount": 6910,
           "title": "SVB Crisis: Circle Escapes USDC Depeg with Regulatory Assurance",
           "imageUrl": "https://images.financemagnates.com/images/Silicon%20Valley%20Bank_id_01197224-eca0-4547-b77f-0946196b4578_size900.jpg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e7532ba1925",
-          "author": "Lubomir Tassev",
-          "description": "The Central Bank of Russia has added another entity to its register of authorized issuers of digital financial assets. The platform, called ‘Masterchain,’ becomes the fifth ‘information system operator’ in the country that can legally tokenize traditional assets and organize their trade. \n \nNumber of Licensed Digital Asset Issuers in Russia Grows to Five\n \nThe Central Bank of Russia (CBR) has included the company Distributed Registry Systems, with its Masterchain platform, to the register of operators of information systems which can be used to issue digital financial assets (DFAs), the business news portal RBC reported.\n \nFour other issuers have been registered so far. These are the tokenization service Atomyze, the fintech company Lighthouse, as well as Sberbank and Alfa-Bank, the larges…",
-          "link": "https://news.bitcoin.com/bank-of-russia-registers-another-digital-asset-issuer/",
-          "publishedOn": "2023-03-13T05:32:35.000Z",
-          "wordCount": 3301,
-          "title": "Bank of Russia Registers Another Digital Asset Issuer",
-          "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2023/03/shutterstock_1302654391.jpg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e7532a0e88b",
-          "author": "Sam Reynolds",
-          "description": "Stablecoin issuer says USD funds held at Signature bank now fully backstopped by Fed",
-          "link": "https://www.coindesk.com/es/business/2023/03/13/trueusd-says-small-number-of-users-impacted-by-signature-bank-closure/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-          "publishedOn": "2023-03-13T04:28:46.000Z",
-          "wordCount": 19309,
-          "title": "TrueUSD Says ‘Small Number’ of Users Impacted by Signature Bank Closure",
-          "enclosure": {
-            "length": "1337",
-            "type": "image/jpeg",
-            "url": "https://www.coindesk.com/resizer/QWF3Xml39CnzUFvzTNjqcqNUHfk=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/TNN3S7G4TNCXDABW5FDNOCY4WI.jpg"
-          },
-          "imageUrl": "https://www.coindesk.com/resizer/QWF3Xml39CnzUFvzTNjqcqNUHfk=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/TNN3S7G4TNCXDABW5FDNOCY4WI.jpg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e7532afd2d4",
-          "author": "Christian Encila",
-          "description": "The financial sector has endured a few chaotic days. In particular, for USDC stablecoin and Silicon Valley Bank and its stakeholders, since the lender swung from being presumed robust and profitable to being shut down by authorities in less than 48 hours.\n \nNow, a lifebuoy has just been tossed to save the drowning bank and others sinking deep into trouble.\n \nThe U.S. government and financial regulators have announced that individuals having assets deposited at the troubled Silicon Valley Bank will have access to their funds.\n \n \nUSDC Reserves Accessible Today\n \nIn a tweet Monday morning, Circle Co-founder and CEO Jeremy Allaire disclosed that the company was “heartened” by the U.S. Federal Reserve’s efforts to address risks posed by the “fractional” banking system.\n \n \nUpdate thread on USD…",
-          "link": "https://bitcoinist.com/100-of-usdc-reserves-are-safe/",
-          "publishedOn": "2023-03-13T03:19:29.000Z",
-          "wordCount": 5138,
-          "title": "100% Of USDC Reserves Are Safe As U.S. Gov’t Bails Out Silicon Valley Bank",
-          "enclosure": {
-            "length": "1337",
-            "type": "image/jpeg",
-            "url": "https://bitcoinist.com/wp-content/uploads/2023/03/a-75-633x420.png"
-          },
-          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2023/03/a-75-633x420.png"
         }
       ]
     }

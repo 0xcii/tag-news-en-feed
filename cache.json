@@ -6,12 +6,42 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=123810",
+          "author": "André Beganski",
+          "description": "The lawsuit alleges that several social media influencers solicited the sale of unregistered securities in promoting FTX.",
+          "link": "https://decrypt.co/123810/youtube-influencers-bitboy-1-billion-lawsuit-ftx",
+          "publishedOn": "2023-03-16T20:14:50.000Z",
+          "wordCount": 9370,
+          "title": "YouTube Influencers Slapped With $1 Billion Lawsuit for Promoting FTX",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/03/IMG_7205-gID_4.jpg@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/03/IMG_7205-gID_4.jpg@png"
+        },
+        {
+          "id": "https://decrypt.co/?p=123781",
+          "author": "Mathew Di Salvo",
+          "description": "Bankman-Fried and his inner circle collectively received roughly $3.2 billion in payments and loans, court documents have revealed.",
+          "link": "https://decrypt.co/123781/sam-bankman-fried-2-2-billion-alameda-research-caroline-ellison",
+          "publishedOn": "2023-03-16T19:53:41.000Z",
+          "wordCount": 9505,
+          "title": "Sam Bankman-Fried Was Paid $2.2B Mostly From Alameda—Ex-CEO Caroline Ellison Only $6M",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/11/sbf-caroline-gID_1.jpg@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/11/sbf-caroline-gID_1.jpg@png"
+        },
+        {
           "id": "https://decrypt.co/?p=123782",
           "author": "Andrew Hayward",
           "description": "The creators of the Ethereum NFT collection signal growing ambitions, but the comments (and socks) may be roiling some holders.",
           "link": "https://decrypt.co/123782/doodles-no-longer-nft-project-speculators",
           "publishedOn": "2023-03-16T17:52:35.000Z",
-          "wordCount": 10095,
+          "wordCount": 10181,
           "title": "Doodles 'No Longer an NFT Project' and Won’t Cater to Speculators, Co-Founder Says",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/09/doodles-artwork-gID_4.png@png",
@@ -56,7 +86,7 @@
           "description": "The FDIC has reportedly stated that interested buyers in the now-defunct Signature Bank must also give up their ties to crypto.",
           "link": "https://decrypt.co/123749/fdic-demands-buyer-signature-bank-give-up-crypto-reuters",
           "publishedOn": "2023-03-16T14:35:27.000Z",
-          "wordCount": 8507,
+          "wordCount": 8593,
           "title": "FDIC Demands Any Buyer of Signature Bank Give Up on Crypto: Reuters",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/03/signature-bank-fdic-gID_6.jpg@png",
@@ -71,7 +101,7 @@
           "description": "The attacker who drained almost $200 million from Euler Finance has moved some of the stolen funds through mixing protocol Tornado Cash.",
           "link": "https://decrypt.co/123751/euler-finance-hacker-sends-1-6m-eth-tornado-cash",
           "publishedOn": "2023-03-16T14:15:54.000Z",
-          "wordCount": 8474,
+          "wordCount": 8560,
           "title": "Euler Finance Hacker Mixes $1.6M in Ethereum on Tornado Cash",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/09/crypto-hack-exploit-gID_5.png@png",
@@ -86,7 +116,7 @@
           "description": "The Knights Who Say Nah aim to draw more people into Web3 with historical artifact preservation.",
           "link": "https://decrypt.co/123521/knights-who-say-nah-samurai-sword-met-museum-nft",
           "publishedOn": "2023-03-16T14:09:56.000Z",
-          "wordCount": 11340,
+          "wordCount": 11426,
           "title": "These 'Knights' Will Donate Samurai Sword to Met Museum—After Minting It as an NFT",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/03/Screen-Shot-2023-03-15-at-10.04.38-PM-gID_7.png@png",
@@ -101,7 +131,7 @@
           "description": "The \"experiential\" Web3 art platform has added Sarah Friend, Jonas Lund, and Serwah Attafuah, among other artists.",
           "link": "https://decrypt.co/123687/experiential-nft-art-platform-wild-reveals-latest-artists-in-residence",
           "publishedOn": "2023-03-16T14:00:02.000Z",
-          "wordCount": 10541,
+          "wordCount": 10627,
           "title": "Gwyneth Paltrow-Backed NFT Art Platform Wild Reveals Latest Artists in Residence",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/03/wildxyz-logo-artwork-gID_4.png@png",
@@ -116,7 +146,7 @@
           "description": "While Gnosis itself serves as an open framework, prediction markets are realized in third-party dApps built on top the Gnosis Chain, such as Azuro, Omen, and Reality Card.",
           "link": "https://decrypt.co/resources/what-is-gnosis-learn-article",
           "publishedOn": "2023-03-16T13:32:53.000Z",
-          "wordCount": 10739,
+          "wordCount": 10748,
           "title": "What Is Gnosis? How Decentralized Prediction Markets Work",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/11/BLOCKCHAIN-gID_4-pID_6.png@png",
@@ -131,7 +161,7 @@
           "description": "Arbitrum today announced the launch of its native ARB governance token, forming a DAO to steer the technology to the community's ends.",
           "link": "https://decrypt.co/123727/ethereum-layer-2-solution-arbitrum-announces-token-airdrop-opens-tech-stack-devs",
           "publishedOn": "2023-03-16T13:00:02.000Z",
-          "wordCount": 9393,
+          "wordCount": 9479,
           "title": "Ethereum Layer-2 Solution Arbitrum Announces Token Airdrop, Opens Tech Stack to Devs",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/03/arbitrum-token-ethereum-gID_1.jpg@png",
@@ -146,7 +176,7 @@
           "description": "Several key metrics indicate the Tether (USDT) stablecoin is emerging as a key winner from the recent chaos in crypto markets.",
           "link": "https://decrypt.co/123708/tethers-stablecoin-market-cap-now-double-usdc-svb-chaos",
           "publishedOn": "2023-03-16T11:15:05.000Z",
-          "wordCount": 8747,
+          "wordCount": 8833,
           "title": "Tether's Stablecoin Market Cap Now Double USDC After SVB Chaos",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/11/tether-circle-stablecoins-gID_5.jpg@png",
@@ -161,7 +191,7 @@
           "description": "Circle’s policy lead hopes to use a newly-appointed role on the CFTC’s tech committee to advocate for change amid the latest banking chaos.",
           "link": "https://decrypt.co/123707/banking-chaos-reminder-fractional-reserve-risks-circle-vp-policy",
           "publishedOn": "2023-03-16T10:42:06.000Z",
-          "wordCount": 8584,
+          "wordCount": 8670,
           "title": "Banking Chaos a ‘Reminder’ of Fractional-Reserve Risks: Circle Global Policy VP",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/06/circle-centre-coinbase-usdc-ethereum-algorand-gID_1.jpg@png",
@@ -176,7 +206,7 @@
           "description": "The MoonPay CEO wants to get NFTs and crypto into the hands of the masses via slick UX and partnerships with household brands.",
           "link": "https://decrypt.co/123693/moonpay-ceo-we-want-pass-mom-test-mass-nft-adoption",
           "publishedOn": "2023-03-16T09:49:18.000Z",
-          "wordCount": 8587,
+          "wordCount": 8673,
           "title": "Moonpay CEO: 'We Really Want to Pass the Mom Test' for Mass NFT Adoption",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/03/moonpay-crypto-nfts-gID_6.jpg@png",
@@ -191,7 +221,7 @@
           "description": "The company behind the popular Ethereum NFT collection introduces the next stage of its Dookey Dash racing game.",
           "link": "https://decrypt.co/123679/bored-ape-sewer-pass-nfts-transform-into-mechs",
           "publishedOn": "2023-03-16T03:33:16.000Z",
-          "wordCount": 9113,
+          "wordCount": 9199,
           "title": "Bored Ape Sewer Pass NFTs Can Be Transformed Into Robots",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/03/image_2023-03-15_201642174-gID_2.png@png",
@@ -206,7 +236,7 @@
           "description": "Developers celebrate the final dress rehearsal before the hotly anticipated Shanghai upgrade goes live next month.",
           "link": "https://decrypt.co/123662/ethereum-is-one-step-away-from-staked-eth-withdrawals",
           "publishedOn": "2023-03-15T23:50:37.000Z",
-          "wordCount": 9123,
+          "wordCount": 9209,
           "title": "Ethereum Is One Step Away From Staked ETH Withdrawals",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/01/Ethereum-Shanghai-RKO-gID_5.jpg@png",
@@ -221,7 +251,7 @@
           "description": "The DeFi platform held off on a $1 million reward offer while giving perpetrators a chance to return funds.",
           "link": "https://decrypt.co/123656/euler-issues-on-chain-ultimatum-to-hacker-in-bid-to-recover-treasury",
           "publishedOn": "2023-03-15T22:47:34.000Z",
-          "wordCount": 9171,
+          "wordCount": 9257,
           "title": "Euler Issues On-Chain Ultimatum to Hacker in Bid to Recover Treasury",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/05/shutterstock_6800789201-gID_1.jpg@png",
@@ -236,7 +266,7 @@
           "description": "Amid a turbulent NFT market, Solana art platform Formfunction is closing down just one year after raising seed funding.",
           "link": "https://decrypt.co/123650/nft-marketplace-raised-4-7m-opensea-others-now-shutting-down",
           "publishedOn": "2023-03-15T22:03:49.000Z",
-          "wordCount": 9628,
+          "wordCount": 9714,
           "title": "This NFT Marketplace Raised $4.7M From OpenSea and Others—Now It’s Shutting Down",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/12/nft-tokens-shutterstock-gID_2.png@png",
@@ -251,7 +281,7 @@
           "description": "The text-based tool to \"Bitcoin the un-Bitcoined\" has grown its userbase by 10X in less than a year.",
           "link": "https://decrypt.co/123641/machankura-african-bitcoin-adoption-feature-phones-text",
           "publishedOn": "2023-03-15T20:47:05.000Z",
-          "wordCount": 8822,
+          "wordCount": 8908,
           "title": "Machankura Boosts African Bitcoin Adoption Without the Internet",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/03/feature-phone-shutterstock_2133622959-16x9-1-gID_2.jpg@png",
@@ -281,7 +311,7 @@
           "description": "The House Majority Whip questions the regulatory agency's recent actions.",
           "link": "https://decrypt.co/123639/fdic-authority-power-crypto-banking-tom-emmer",
           "publishedOn": "2023-03-15T20:11:44.000Z",
-          "wordCount": 8625,
+          "wordCount": 8711,
           "title": "Rep. Tom Emmer: Is the FDIC 'Weaponizing' Market Chaos to Kill Crypto?",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/01/tom-emmer-1-gID_1.jpg@png",
@@ -296,7 +326,7 @@
           "description": "The fund, registered in the U.S. and the Cayman Islands, is a private placement not available to the public.",
           "link": "https://decrypt.co/123636/ark-invest-floats-new-crypto-fund-as-markets-roil",
           "publishedOn": "2023-03-15T19:13:49.000Z",
-          "wordCount": 8661,
+          "wordCount": 8747,
           "title": "Ark Invest Floats New Crypto Fund as Markets Roil",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/10/ark-cathie-wood-gID_6.jpg@png",
@@ -311,7 +341,7 @@
           "description": "Crown Royal, clothing brand Scotch & Soda, and Mattel have already minted thousands of NFTs as part of the company's pilot program.",
           "link": "https://decrypt.co/123628/salesforce-web3-big-brands-nft-loyalty-programs",
           "publishedOn": "2023-03-15T18:27:59.000Z",
-          "wordCount": 9716,
+          "wordCount": 9802,
           "title": "Salesforce Rolls Out Platform for Big Brands to Create NFT Loyalty Programs",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/03/mattel-salesforce-web3-nfts-gID_4.jpeg@png",
@@ -326,7 +356,7 @@
           "description": "Authorities allege criminals used ChipMixer to launder illicit funds gained from drug and weapons trafficking.",
           "link": "https://decrypt.co/123608/europol-crypto-dark-web-laundromat-chipmixer",
           "publishedOn": "2023-03-15T17:39:59.000Z",
-          "wordCount": 8591,
+          "wordCount": 8677,
           "title": "Federal Police Take Down 'Dark Web Cryptocurrency Laundromat', Seize $42M in Bitcoin",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/05/shutterstock_1166453734-gID_5.jpg@png",
@@ -341,7 +371,7 @@
           "description": "In the fourth arrondissement of Paris, a few steps from Place de la Bastille, a small revolution is underway in the world of NFT art.",
           "link": "https://decrypt.co/123562/french-collective-gxrls-revolution-aims-bring-more-women-into-nft-art",
           "publishedOn": "2023-03-15T17:23:03.000Z",
-          "wordCount": 9943,
+          "wordCount": 10029,
           "title": "French Collective GXRLS Revolution Aims to Bring More Women Into NFT Art",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/03/GXRLS-REVOLUTION4-gID_2.jpg@png",
@@ -356,7 +386,7 @@
           "description": "The likelihood that the Fed will pause interest rate hikes has increased. And that’s made some crypto enthusiasts especially bullish.",
           "link": "https://decrypt.co/123609/credit-suisse-crisis-has-bitcoin-investors-feeling-bullish-heres-why",
           "publishedOn": "2023-03-15T17:03:11.000Z",
-          "wordCount": 10661,
+          "wordCount": 10747,
           "title": "Credit Suisse Crisis Has Bitcoin Investors Feeling Bullish",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/03/credit-suisse-crypto-gID_4.jpg@png",
@@ -371,7 +401,7 @@
           "description": "Beeple and XCOPY headline the next two Sotheby’s NFT auctions, showcasing hypnotic animations and glitch art.",
           "link": "https://decrypt.co/123515/sothebys-paris-metaverse-nft-auction-oddly-satisfying-reddit-glitch",
           "publishedOn": "2023-03-15T14:01:02.000Z",
-          "wordCount": 9253,
+          "wordCount": 9339,
           "title": "Sotheby’s to Auction ‘Oddly Satisfying’ Reddit-Inspired NFTs In the Metaverse",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/03/sothebys-metaverse-auction-gID_4.png@png",
@@ -386,7 +416,7 @@
           "description": "The latest AI-token price surge mimics the meme-token phenomenon far more than a fundamental growth cycle, say analysts.",
           "link": "https://decrypt.co/123549/gpt-4-launch-sends-ai-tokens-soaring-more-meme",
           "publishedOn": "2023-03-15T12:26:15.000Z",
-          "wordCount": 9053,
+          "wordCount": 9139,
           "title": "GPT-4 Launch Sends AI Tokens Soaring—Is It More Than a Meme?",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/03/chatgpt-4-ai-tokens-gID_1.jpg@png",
@@ -401,7 +431,7 @@
           "description": "The way the SEC is approaching crypto regulation in the U.S. is “pretty broken,” according to Coinbase Chief Legal Officer Paul Grewal.",
           "link": "https://decrypt.co/123542/coinbase-chief-legal-officer-sec-crypto-approach-is-this-best-we-can-do",
           "publishedOn": "2023-03-15T10:15:58.000Z",
-          "wordCount": 9150,
+          "wordCount": 9236,
           "title": "Coinbase Chief Legal Officer on SEC Crypto Approach: ‘Is This the Best We Can Do?’",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/03/Paul-Grewal-Coinbase-gID_6.jpg@png",
@@ -416,7 +446,7 @@
           "description": "The court demanded that hackers return nearly $1 million worth of stolen USDT—but how the money will be recovered is unclear.",
           "link": "https://decrypt.co/123502/plaintiff-beats-anon-hackers-served-court-papers-via-nft",
           "publishedOn": "2023-03-15T00:14:19.000Z",
-          "wordCount": 9236,
+          "wordCount": 9322,
           "title": "Plaintiff Wins Case Against Hackers After Serving Court Papers via NFT",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/12/Crypto-hacker-gID_5.jpg@png",
@@ -431,7 +461,7 @@
           "description": "CEO Ham Serunjogi acknowledges the key role Silicon Valley Bank played in his company's early days.",
           "link": "https://decrypt.co/123498/africa-chipper-cash-payments-firm-clarifies-svb-exposure-denies-sale-talk",
           "publishedOn": "2023-03-15T00:01:16.000Z",
-          "wordCount": 8844,
+          "wordCount": 8930,
           "title": "Chipper Cash Payments Firm Clarifies SVB Exposure, Denies Sales Talks",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/09/shutterstock_1391516657-scaled-gID_2.jpg@png",
@@ -446,7 +476,7 @@
           "description": "Deliberate attack on the digital asset industry or run-of-the-mill regulatory action? Depends who you want to believe.",
           "link": "https://decrypt.co/123494/why-signature-bank-really-shut-down",
           "publishedOn": "2023-03-14T23:36:16.000Z",
-          "wordCount": 10600,
+          "wordCount": 10686,
           "title": "Why Was Signature Bank Really Shut Down?",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/03/signature-bank-crypto-gID_4.jpg@png",
@@ -461,7 +491,7 @@
           "description": "Bitcoin remains correlated to the stock market, despite its price outperforming other risk assets this year.",
           "link": "https://decrypt.co/123481/bitcoin-pumping-not-decoupling-stocks",
           "publishedOn": "2023-03-14T19:59:49.000Z",
-          "wordCount": 9108,
+          "wordCount": 9194,
           "title": "Bitcoin Is Pumping—But It’s Not Yet 'Decoupling' From Stocks, Analysts Say",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/10/bitcoin-etf-trading-volume-gID_1.jpeg@png",
@@ -476,7 +506,7 @@
           "description": "Facebook parent company Meta is shedding another 10,000 jobs after cutting NFT support and making noise about AI. Is another pivot coming?",
           "link": "https://decrypt.co/123477/meta-layoffs-nft-plans-metaverse-ai",
           "publishedOn": "2023-03-14T19:21:56.000Z",
-          "wordCount": 10521,
+          "wordCount": 10607,
           "title": "Meta Cuts 10,000 More Workers After Scrapping NFT Plans—Is the Metaverse Still On?",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/12/Zuck-metaverse-1-gID_4.jpeg@png",
@@ -491,7 +521,7 @@
           "description": "The Wall Street Journal reports investigators are examining stock sales SVB Financial's executives made days before the bank failed.",
           "link": "https://decrypt.co/123469/sec-doj-silicon-valley-bank-collapse-insider-stock-sales",
           "publishedOn": "2023-03-14T17:14:40.000Z",
-          "wordCount": 8153,
+          "wordCount": 8239,
           "title": "SEC, DOJ Investigating Insider Stock Sales at Silicon Valley Bank: WSJ",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/03/silicon-valley-bank-crypto-gID_2.jpg@png",
@@ -506,7 +536,7 @@
           "description": "USDC briefly depegged last weekend when Circle announced it had exposure to Silicon Valley Bank. Investors flocked to these alternatives.",
           "link": "https://decrypt.co/123468/here-are-stablecoins-thrived-usdc-wobbled",
           "publishedOn": "2023-03-14T17:09:04.000Z",
-          "wordCount": 11713,
+          "wordCount": 11799,
           "title": "Here Are the Stablecoins That Thrived as USDC Wobbled",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/03/crypto-stablecoins-gID_1.jpg@png",
@@ -521,7 +551,7 @@
           "description": "Pushback from gamers is forcing Web3 developers to pivot. Community Gaming CEO Chris Gonsalves suggests a new path forward.",
           "link": "https://decrypt.co/122812/stop-calling-them-nfts-gaming-ceo-calls-for-rebranding-digital-assets",
           "publishedOn": "2023-03-14T15:38:31.000Z",
-          "wordCount": 9137,
+          "wordCount": 9223,
           "title": "Stop Calling Them NFTs: Web3 Gaming CEO Speaks Out Amid Gamer Backlash",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/06/shutterstock_624801452-gID_4.jpg@png",
@@ -536,7 +566,7 @@
           "description": "Led by crypto investment firm Greenfield Capital, the Series A round will fund VR and AR integration across social and metaverse platforms.",
           "link": "https://decrypt.co/123388/digital-fashion-house-dressx-raises-15-million",
           "publishedOn": "2023-03-14T14:13:08.000Z",
-          "wordCount": 9635,
+          "wordCount": 9721,
           "title": "Digital Fashion House DressX Raises $15 Million to Boost Virtual Wearables",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/03/Dress-X-gID_6.jpg@png",
@@ -551,7 +581,7 @@
           "description": "DeFi platform Centrifuge is unlocking \"affordable access to capital\" with Real-World Assets, helping small businesses access DeFi liquidity.",
           "link": "https://decrypt.co/122242/how-centrifuge-is-making-defi-impactful-with-real-world-assets",
           "publishedOn": "2023-03-14T14:01:02.000Z",
-          "wordCount": 10070,
+          "wordCount": 10156,
           "title": "How Centrifuge Is Making DeFi Impactful With Real-World Assets",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/02/assets-gID_6.jpeg@png",
@@ -566,7 +596,7 @@
           "description": "Are AI tokens the next memecoins? With crypto investors looking for exposure, one exec said that the underlying blockchain tech is all AI needs.",
           "link": "https://decrypt.co/123438/without-verifiable-data-ai-could-be-disastrous-space-time-cto",
           "publishedOn": "2023-03-14T13:30:48.000Z",
-          "wordCount": 9178,
+          "wordCount": 9264,
           "title": "Without Verifiable Data via Web3, AI ‘Could Be Disastrous’: Space and Time CTO",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/03/crypto-ai-blockchain-gID_1.jpg@png",
@@ -581,7 +611,7 @@
           "description": "Bitcoin hit a nine-month high after annual inflation met economists’ estimates.",
           "link": "https://decrypt.co/123437/bitcoin-smashes-past-inflation-held-steady-february",
           "publishedOn": "2023-03-14T13:06:04.000Z",
-          "wordCount": 10492,
+          "wordCount": 10578,
           "title": "Bitcoin Smashes Past $26K as CPI Report Shows Inflation Held Steady in February",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/05/US-dollar-inflation-gID_2.jpeg@png",
@@ -596,7 +626,7 @@
           "description": "After regulators have issued warnings of crypto's risk to banks, the Circle CEO said it’s “ironic” that his firm faced quite the opposite.",
           "link": "https://decrypt.co/123435/svb-collapse-meant-protecting-digital-dollar-banking-system-circle-ceo",
           "publishedOn": "2023-03-14T12:15:04.000Z",
-          "wordCount": 8943,
+          "wordCount": 9029,
           "title": "SVB Collapse Meant Protecting 'a Digital Dollar From the Banking System': Circle CEO",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/10/usdc-stablecoin-gID_6.jpg@png",
@@ -611,7 +641,7 @@
           "description": "The company is backing away just 10 months after first launching features to select users.",
           "link": "https://decrypt.co/123379/instagram-winding-down-nfts-to-focus-on-creators-and-businesses",
           "publishedOn": "2023-03-13T22:53:36.000Z",
-          "wordCount": 8683,
+          "wordCount": 8769,
           "title": "Meta ‘Winding Down’ Instagram NFT Support to Focus on Creators",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/08/Meta-Instagram-NFT-Shutterstock-scaled-gID_1.jpg@png",
@@ -619,36 +649,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/08/Meta-Instagram-NFT-Shutterstock-scaled-gID_1.jpg@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=123361",
-          "author": "Sander Lutz",
-          "description": "Hours before the short won Oscar gold, First Flights producer Nick Sadler detailed his vision for Web3 film funding to Decrypt.",
-          "link": "https://decrypt.co/123361/web3-producer-goes-hollywood-as-his-short-film-an-irish-goodbye-wins-an-oscar",
-          "publishedOn": "2023-03-13T22:49:10.000Z",
-          "wordCount": 11222,
-          "title": "Web3 Producer Goes Hollywood as His Short Film ‘An Irish Goodbye’ Wins an Oscar",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/03/nick-sadler-lead-gID_7.png@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/03/nick-sadler-lead-gID_7.png@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=123364",
-          "author": "Stacy Elliott",
-          "description": "Skrill Limited, which facilitated GBP transfers for the crypto exchange, will no longer support the currency.",
-          "link": "https://decrypt.co/123364/binance-suspend-british-pound-deposits-withdrawals",
-          "publishedOn": "2023-03-13T21:35:02.000Z",
-          "wordCount": 8618,
-          "title": "Binance to Suspend British Pound Deposits, Withdrawals",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/04/Binancelogo-gID_2.jpg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/04/Binancelogo-gID_2.jpg@png"
         },
         {
           "id": "https://decrypt.co/videos/live-events/3fFVrd6t/voltz-labs-ceo-defi-innovation-is-moving-offshore-because-of-us-regulatory-severity",
@@ -913,6 +913,186 @@
       "siteUrl": "https://cryptopanic.com/",
       "articles": [
         {
+          "id": "https://cryptopanic.com/news/17895836/The-Graphs-GRT-Rallies-15-Amid-AI-Token-Surge",
+          "author": null,
+          "description": "Other AI-related tokens also surged on Thursday with decentralized AI marketplace, SingularityNET rising 15%.",
+          "link": "https://cryptopanic.com/news/17895836/The-Graphs-GRT-Rallies-15-Amid-AI-Token-Surge",
+          "publishedOn": "2023-03-16T20:04:07.000Z",
+          "wordCount": 526,
+          "title": "The Graph's GRT Rallies 15% Amid AI Token Surge",
+          "imageUrl": "https://www.coindesk.com/resizer/Kn5HInhFoTCqjNMTNlyiRRPvY1I=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/Z26K3FBPEZBTXBAJWJ23YWUQRA.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/17895834/NEWS-ROUNDUP-Operation-Choke-Point-Accelerates",
+          "author": null,
+          "description": "Operation chokepoint seems to be ramping up as Signature bank shut, confidence lost as bank contagion spreads, Gensler suggests staking is a security and much more on today’s show!💪 SUPPORT THE SHOW:Nunchuk Wallet and their Honey Badger plan is a best in class assisted mutisig setup with...",
+          "link": "https://cryptopanic.com/news/17895834/NEWS-ROUNDUP-Operation-Choke-Point-Accelerates",
+          "publishedOn": "2023-03-16T20:03:05.000Z",
+          "wordCount": 523,
+          "title": "NEWS ROUNDUP: Operation Choke Point Accelerates!",
+          "imageUrl": "https://i1.ytimg.com/vi/depB9oDUHLI/hqdefault.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/17895837/Bitcoin-Holds-Steady-Above-25K-as-Euro-Banking-Crisis-Eases",
+          "author": null,
+          "description": "BTC has remained in a range between $24,200 and $25,200 over the past 24 hours. Investors are hoping the Federal Reserve relaxes its recent monetary hawkishness.",
+          "link": "https://cryptopanic.com/news/17895837/Bitcoin-Holds-Steady-Above-25K-as-Euro-Banking-Crisis-Eases",
+          "publishedOn": "2023-03-16T19:58:02.000Z",
+          "wordCount": 527,
+          "title": "Bitcoin Holds Steady Above $25K as Euro Banking Crisis Eases",
+          "imageUrl": "https://www.coindesk.com/resizer/JX6_jWmeaJZPA69_qU_shBQUSxU=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/5NR7PCM6WZEVLCWC6TYOA6PHIU.png"
+        },
+        {
+          "id": "https://cryptopanic.com/news/17895810/Top-Crypto-Trader-Issues-Warning-on-Upcoming-Arbitrum-Airdrop-Heres-His-Outlook-on-the-Polygon-MATIC-Rival",
+          "author": null,
+          "description": "A popular crypto trader is warning investors about the upcoming token airdrop for layer-2 (L2) scaling solution Arbitrum (ARB). Pseudonymous trader Altcoin Sherpa tells his 193,000 Twitter followers that when the Arbitrum Foundation airdrops its native token, the price will likely plummet before...",
+          "link": "https://cryptopanic.com/news/17895810/Top-Crypto-Trader-Issues-Warning-on-Upcoming-Arbitrum-Airdrop-Heres-His-Outlook-on-the-Polygon-MATIC-Rival",
+          "publishedOn": "2023-03-16T19:55:02.000Z",
+          "wordCount": 535,
+          "title": "Top Crypto Trader Issues Warning on Upcoming Arbitrum Airdrop – Here’s His Outlook on the Polygon (MATIC) Rival",
+          "imageUrl": "https://dailyhodl.com/wp-content/uploads/2022/12/Big-Money-Airdrops-Are.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/17895806/Fidelity-Investments-Has-Opened-Bitcoin-Trading-To-The-Public-During-Ongoing-Banking-Crisis",
+          "author": null,
+          "description": "The financial giant will now allow customers to trade bitcoin, although they will not be able to withdraw it to self-custody.",
+          "link": "https://cryptopanic.com/news/17895806/Fidelity-Investments-Has-Opened-Bitcoin-Trading-To-The-Public-During-Ongoing-Banking-Crisis",
+          "publishedOn": "2023-03-16T19:52:50.000Z",
+          "wordCount": 530,
+          "title": "Fidelity Investments Has Opened Bitcoin Trading To The Public During Ongoing Banking Crisis",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/17895804/Bitcoin-Priced-In-Bank-Shares-Is-The-Crypto-Chart-You-Cant-Miss",
+          "author": null,
+          "description": "Bitcoin price is trading around $25,000, following a meltdown across the banking sector. The first ever cryptocurrency designed to allow individuals to be their own bank, has given banks a run for their money amidst a series of bank runs and collapses across the United States and the globe. Take...",
+          "link": "https://cryptopanic.com/news/17895804/Bitcoin-Priced-In-Bank-Shares-Is-The-Crypto-Chart-You-Cant-Miss",
+          "publishedOn": "2023-03-16T19:50:07.000Z",
+          "wordCount": 529,
+          "title": "Bitcoin Priced In Bank Shares Is The Crypto Chart You Can’t Miss",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/17895800/LinksDAO-Inches-Closer-to-Closing-Scottish-Golf-Club-Deal",
+          "author": null,
+          "description": "The decentralized special interests organization could pay nearly $1 million for its first golf club.",
+          "link": "https://cryptopanic.com/news/17895800/LinksDAO-Inches-Closer-to-Closing-Scottish-Golf-Club-Deal",
+          "publishedOn": "2023-03-16T19:46:31.000Z",
+          "wordCount": 526,
+          "title": "LinksDAO Inches Closer to Closing Scottish Golf Club Deal",
+          "imageUrl": "https://www.coindesk.com/resizer/LOjsatVHSEgJBfHjmUF-agWWnwA=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/H2UNSQLF5NEMLHIBHJXCUJZB2A.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/17895802/Ethereum-core-developers-set-April-12-for-Shanghai-hard-fork",
+          "author": null,
+          "description": "The upgrade will enable staked ETH withdrawals on the Beacon Chain, completing Ethereum's transition to a PoS consensus.",
+          "link": "https://cryptopanic.com/news/17895802/Ethereum-core-developers-set-April-12-for-Shanghai-hard-fork",
+          "publishedOn": "2023-03-16T19:45:00.000Z",
+          "wordCount": 527,
+          "title": "Ethereum core developers set April 12 for Shanghai hard fork",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/17895801/21Shares-Closes-6-Crypto-Exchange-Traded-Products",
+          "author": null,
+          "description": "The provider of crypto exchange-traded products (ETPs), however, told CoinDesk it had its second-strongest January on record overall.",
+          "link": "https://cryptopanic.com/news/17895801/21Shares-Closes-6-Crypto-Exchange-Traded-Products",
+          "publishedOn": "2023-03-16T19:44:09.000Z",
+          "wordCount": 523,
+          "title": "21Shares Closes 6 Crypto Exchange-Traded Products",
+          "imageUrl": "https://www.coindesk.com/resizer/iygWKWrKTp5lYZ-4glH66b7iKc0=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/DRDCHR65DFHYTJVJZ6FY3OLZF4.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/17895784/Binance-Coin-Price-Prediction-as-BNB-Pumps-Up-17-in-a-Week-Time-to-Buy",
+          "author": null,
+          "description": "It’s been a big week for BNB, the cryptocurrency that power’s the Binance Smart Chain. After tumbling to two-month lows late last week in the mid-$260s amid generalized risk-off across asset classes amid concerns about US bank failures, BNB has seen a stunning rebound.... Read More: Binance Coin...",
+          "link": "https://cryptopanic.com/news/17895784/Binance-Coin-Price-Prediction-as-BNB-Pumps-Up-17-in-a-Week-Time-to-Buy",
+          "publishedOn": "2023-03-16T19:38:00.000Z",
+          "wordCount": 533,
+          "title": "Binance Coin Price Prediction as BNB Pumps Up 17% in a Week – Time to Buy?",
+          "imageUrl": "https://v2.cimg.co/news/107885/262349/responsive-images/bnb-1___media_library_original_1200_675.jpeg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/17895786/US-Judge-Denies-DOJs-Appeal-to-Stay-Voyager-BinanceUS-1B-Deal",
+          "author": null,
+          "description": "The judge insisted that further delay of the deal would harm Voyager's customers waiting to receive their funds.",
+          "link": "https://cryptopanic.com/news/17895786/US-Judge-Denies-DOJs-Appeal-to-Stay-Voyager-BinanceUS-1B-Deal",
+          "publishedOn": "2023-03-16T19:34:40.000Z",
+          "wordCount": 527,
+          "title": "US Judge Denies DOJ’s Appeal to Stay Voyager-Binance.US $1B Deal",
+          "imageUrl": "https://cryptopotato.com/wp-content/uploads/2023/03/Voyager_BinanceUS.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/17895805/I-might-be-a-psycho-but-at-least-I-am-a-bitcoiner-shorts-bitcoin-crypto",
+          "author": null,
+          "description": "► SUBSCRIBE - https://bit.ly/3QbgqTQ► LEAVE A LIKE 👍► COMMENT 👉",
+          "link": "https://cryptopanic.com/news/17895805/I-might-be-a-psycho-but-at-least-I-am-a-bitcoiner-shorts-bitcoin-crypto",
+          "publishedOn": "2023-03-16T19:31:00.000Z",
+          "wordCount": 532,
+          "title": "I might be a psycho, but at least I am a bitcoiner  #shorts #bitcoin #crypto",
+          "imageUrl": "https://i2.ytimg.com/vi/yPxGg7YvyG8/hqdefault.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/17895783/Signature-Bank-Buyers-Have-To-Give-Up-All-Crypto-Businesses-Says-FDIC",
+          "author": null,
+          "description": "Amid the instability in the US banking sector, the United States Federal Deposit Insurance Corporation (FDIC) has reportedly now made a decision against the crypto industry. According to a report published on Wednesday evening, potential buyers of the crypto-friendly Signature bank can now...",
+          "link": "https://cryptopanic.com/news/17895783/Signature-Bank-Buyers-Have-To-Give-Up-All-Crypto-Businesses-Says-FDIC",
+          "publishedOn": "2023-03-16T19:30:47.000Z",
+          "wordCount": 529,
+          "title": "Signature Bank Buyers Have To Give Up All Crypto Businesses, Says FDIC",
+          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2023/03/Signature-Bank-Buyers-Would-Give-Up-Crypto.jpeg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/17895782/WHY-ARE-WE-BULLISH-Anant-Tapadia-Geyser-Fund-Nolan-Bauerle",
+          "author": null,
+          "description": "FOLLOW TODAY’S PANELISTS:https://twitter.com/anant_taphttps://twitter.com/bitcoinkeeper_https://twitter.com/geyserfundhttps://twitter.com/countbtc💪 SUPPORT THE SHOW:Nunchuk Wallet and their Honey Badger plan is a best in class assisted mutisig setup with built-in inheritance planning and NO KYC....",
+          "link": "https://cryptopanic.com/news/17895782/WHY-ARE-WE-BULLISH-Anant-Tapadia-Geyser-Fund-Nolan-Bauerle",
+          "publishedOn": "2023-03-16T19:24:37.000Z",
+          "wordCount": 527,
+          "title": "WHY ARE WE BULLISH? Anant Tapadia, Geyser Fund, Nolan Bauerle",
+          "imageUrl": "https://i1.ytimg.com/vi/thCT12vhM0E/hqdefault.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/17895760/SHOCKING-TRUTH-BEHIND-2008-HOUSING-COLLAPSE-Its-happening-again",
+          "author": null,
+          "description": "🧠 Follow me on Twitter: https://twitter.com/elliotrades You only think you know what caused the 2008 Great Financial Crisis. You've seen the movies and read the articles. You see tons of commentators explaining how \"today is NOTHING like 2008\" and the current market simply won't allow for a...",
+          "link": "https://cryptopanic.com/news/17895760/SHOCKING-TRUTH-BEHIND-2008-HOUSING-COLLAPSE-Its-happening-again",
+          "publishedOn": "2023-03-16T19:15:53.000Z",
+          "wordCount": 527,
+          "title": "SHOCKING TRUTH BEHIND 2008 HOUSING COLLAPSE!! 🤯 (It's happening again)",
+          "imageUrl": "https://i1.ytimg.com/vi/Hwid4fAkCjE/hqdefault.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/17895761/And-the-golf-course-goes-to-decentralized-country-club-Links",
+          "author": null,
+          "description": "More than 100 year-old Scottish golf course acquired by decentralized \"country club\" LinksDAO.",
+          "link": "https://cryptopanic.com/news/17895761/And-the-golf-course-goes-to-decentralized-country-club-Links",
+          "publishedOn": "2023-03-16T19:12:31.000Z",
+          "wordCount": 527,
+          "title": "And the golf course goes to decentralized country club Links",
+          "imageUrl": "https://www.tbstat.com/wp/uploads/2023/03/image-13-997x675.png"
+        },
+        {
+          "id": "https://cryptopanic.com/news/17895758/Former-FDIC-Regulator-Friendliness-Toward-Crypto-Does-Not-Exist",
+          "author": null,
+          "description": "Jason Brett said despite regulators using the failure of three banks to target crypto, the industry itself is not in a crisis.",
+          "link": "https://cryptopanic.com/news/17895758/Former-FDIC-Regulator-Friendliness-Toward-Crypto-Does-Not-Exist",
+          "publishedOn": "2023-03-16T19:12:13.000Z",
+          "wordCount": 526,
+          "title": "Former FDIC Regulator: Friendliness Toward Crypto 'Does Not Exist'",
+          "imageUrl": "https://www.coindesk.com/resizer/5rMGmlyJ40S9bHZcOHYx7oTSJ3c=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/5YCURZZFGBETJARYPTPUQUL7GI.png"
+        },
+        {
+          "id": "https://cryptopanic.com/news/17895762/Charles-Hoskinson-Addresses-Cardanos-Governance-FUD",
+          "author": null,
+          "description": "Charles Hoskinson, the founder of Cardano, has addressed recent concerns about the network’s governance structure, reassuring ADA enthusiasts and users that development processes will be robust and transparent.",
+          "link": "https://cryptopanic.com/news/17895762/Charles-Hoskinson-Addresses-Cardanos-Governance-FUD",
+          "publishedOn": "2023-03-16T19:09:02.000Z",
+          "wordCount": 523,
+          "title": "Charles Hoskinson Addresses Cardano’s Governance FUD",
+          "imageUrl": "https://zycrypto.com/wp-content/uploads/2023/01/Cardano-Is-Buzzing-With-Super-Bullish-Activity-As-ADA-Adoption-Expands-To-New-Realms.jpg"
+        },
+        {
           "id": "https://cryptopanic.com/news/17895747/UK-to-Ramp-Up-Crypto-Oversight-Tax-Forms-to-Include-Separate-Reporting-for-Crypto-Assets-More-Regulation-Incoming",
           "author": null,
           "description": "The UK will ramp up oversight of the crypto sector with tax forms sent out to individuals now set to include a separate reporting option for crypto assets. The change to the tax form will take effect from the tax year that ends in April 2025, and applies to forms for capital gains tax.  These...",
@@ -931,186 +1111,6 @@
           "wordCount": 525,
           "title": "How Talent Agency WME Is Expanding Into Crypto",
           "imageUrl": "https://www.coindesk.com/resizer/Pj1PC6ZjXrMjxbYq_CV8XfLRdA0=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/MYCWNNMFWBGPPGFQSQG2GJSGY4.png"
-        },
-        {
-          "id": "https://cryptopanic.com/news/17895717/Instagram-NFT-initiatives-swift-death-mints-mourners-mehs",
-          "author": null,
-          "description": "Meta moves off NFTs less than five months after launching the initiative, which could have introduced millions of people to digital asset ownership.",
-          "link": "https://cryptopanic.com/news/17895717/Instagram-NFT-initiatives-swift-death-mints-mourners-mehs",
-          "publishedOn": "2023-03-16T18:52:13.000Z",
-          "wordCount": 525,
-          "title": "Instagram NFT initiative’s swift death mints mourners, mehs",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2021/05/shutterstock_1018631008-1013x675.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/17895713/Banking-Giant-State-Street-Cuts-Ties-With-Crypto-Custody-Firm-Copper",
-          "author": null,
-          "description": "State Street and Copper have mutually decided to end their licensing agreement, a spokesman for the bank said.",
-          "link": "https://cryptopanic.com/news/17895713/Banking-Giant-State-Street-Cuts-Ties-With-Crypto-Custody-Firm-Copper",
-          "publishedOn": "2023-03-16T18:46:23.000Z",
-          "wordCount": 528,
-          "title": "Banking Giant State Street Cuts Ties With Crypto Custody Firm Copper",
-          "imageUrl": "https://www.coindesk.com/resizer/8-0Vtr-igiRwhKqFHYcNo8GB6Ok=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/S3PIMQZGMZFDDA4VSYXPCU3UOI.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/17895709/Top-Polygon-MATIC-Rival-Arbitrum-Officially-Announces-DAO-Governance-and-ARB-Token-Drop",
-          "author": null,
-          "description": "The top rival of the Ethereum (ETH) layer-2 scaling solution Polygon (MATIC) is announcing that it will be transitioning to decentralized governance as well as airdropping a significant amount of its new native asset, ARB. In a new blog post, the developers of the ETH-scaling solution Arbitrum...",
-          "link": "https://cryptopanic.com/news/17895709/Top-Polygon-MATIC-Rival-Arbitrum-Officially-Announces-DAO-Governance-and-ARB-Token-Drop",
-          "publishedOn": "2023-03-16T18:41:42.000Z",
-          "wordCount": 530,
-          "title": "Top Polygon (MATIC) Rival Arbitrum Officially Announces DAO Governance and ARB Token Drop",
-          "imageUrl": "https://dailyhodl.com/wp-content/uploads/2022/09/five-projects-arbitrum.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/17895708/CJ-Konstantinos-WW3-is-Financial-Simply-Bitcoin-TTO",
-          "author": null,
-          "description": "​► CJ Konstantinos - a very passionate and educational bitcoiner... this is gonna be a firehose of information as to what is going on in the world today! DON\"T MISS THIS!✓ SUBSCRIBE - https://bit.ly/3QbgqTQ✓ LEAVE A LIKE ✓ COMMENT Join our Telegram, Give us Memes to Review!► https://t.me/SimplyBitcoinTV",
-          "link": "https://cryptopanic.com/news/17895708/CJ-Konstantinos-WW3-is-Financial-Simply-Bitcoin-TTO",
-          "publishedOn": "2023-03-16T18:32:51.000Z",
-          "wordCount": 527,
-          "title": "CJ Konstantinos | WW3 is Financial | Simply Bitcoin TTO",
-          "imageUrl": "https://i2.ytimg.com/vi/AWRg3F84X7k/hqdefault.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/17895682/USDC-Minting-And-Redemption-Backlog-Almost-Cleared-By-Circle",
-          "author": null,
-          "description": "USDC stablecoin investors panicked when Circle announced its exposure to the shuttered banks, and Circle’s latest report on USDC Reserves and attestation from Deloitte, the global audit company, confirms the connection. However, in a new development, Circle reports almost clearing all minting...",
-          "link": "https://cryptopanic.com/news/17895682/USDC-Minting-And-Redemption-Backlog-Almost-Cleared-By-Circle",
-          "publishedOn": "2023-03-16T18:30:43.000Z",
-          "wordCount": 526,
-          "title": "USDC Minting And Redemption Backlog Almost Cleared By Circle",
-          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2023/03/circle-1.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/17895683/SVB-Collapse-Tanked-NFT-Trading-Volumes-DappRadar-Report-Suggests",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/17895683/SVB-Collapse-Tanked-NFT-Trading-Volumes-DappRadar-Report-Suggests",
-          "publishedOn": "2023-03-16T18:28:46.000Z",
-          "wordCount": null,
-          "title": "SVB Collapse Tanked NFT Trading Volumes, DappRadar Report Suggests",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/17895704/Will-Arbitrum-DAO-Governance-Token-Airdrop-Help-It-Thrive-Amid-a-ZK-Surge",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/17895704/Will-Arbitrum-DAO-Governance-Token-Airdrop-Help-It-Thrive-Amid-a-ZK-Surge",
-          "publishedOn": "2023-03-16T18:15:00.000Z",
-          "wordCount": null,
-          "title": "Will Arbitrum DAO Governance Token Airdrop Help It Thrive Amid a ZK Surge?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/17895632/Shiba-Inu-Whale-Abruptly-Moves-800215912624-SHIB-As-Dogecoin-Rival-Developer-Dispels-Code-Rumors",
-          "author": null,
-          "description": "A Shiba Inu (SHIB) whale is abruptly moving hundreds of billions of tokens as a project developer debunks rumors that Shibarium, the ecosystem’s new layer-2 protocol, utilizes stolen code. New data from the whale-tracking platform Whale Alert reveals that the deep-pocketed crypto investor...",
-          "link": "https://cryptopanic.com/news/17895632/Shiba-Inu-Whale-Abruptly-Moves-800215912624-SHIB-As-Dogecoin-Rival-Developer-Dispels-Code-Rumors",
-          "publishedOn": "2023-03-16T18:05:21.000Z",
-          "wordCount": 530,
-          "title": "Shiba Inu Whale Abruptly Moves 800,215,912,624 SHIB As Dogecoin-Rival Developer Dispels Code Rumors",
-          "imageUrl": "https://dailyhodl.com/wp-content/uploads/2021/11/shiba-correction-bullish.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/17895633/Bitcoin-a-Risk-to-Profits-Says-Bank",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/17895633/Bitcoin-a-Risk-to-Profits-Says-Bank",
-          "publishedOn": "2023-03-16T18:03:42.000Z",
-          "wordCount": null,
-          "title": "Bitcoin a Risk to Profits Says Bank",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/17895634/3-CHEAP-NFTs-that-Can-Make-you-RICH-SOL-ETH",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/17895634/3-CHEAP-NFTs-that-Can-Make-you-RICH-SOL-ETH",
-          "publishedOn": "2023-03-16T18:02:00.000Z",
-          "wordCount": null,
-          "title": "3 CHEAP NFTs that Can Make you RICH | SOL & ETH",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/17895626/BULLISH-BIT-Non-KYC-Collaborative-Multisig",
-          "author": null,
-          "description": "Check out the Full Video:https://youtube.com/live/t1uSOdeSsjMBitrefill is the easiest way to shop and live on Bitcoin! Grab virtually any gift card with BTC on-chain or via lightning network! Sign up below and use code BTCSESSIONS for discounts +...",
-          "link": "https://cryptopanic.com/news/17895626/BULLISH-BIT-Non-KYC-Collaborative-Multisig",
-          "publishedOn": "2023-03-16T18:00:02.000Z",
-          "wordCount": 522,
-          "title": "BULLISH BIT: Non-KYC Collaborative Multisig",
-          "imageUrl": "https://i4.ytimg.com/vi/7DMXkP_lKTM/hqdefault.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/17895661/What-to-Expect-After-Cryptocom-CRO-Price-Loses-Critical-Support",
-          "author": null,
-          "description": "The reaction to the $0.060 support area could determine whether the Crypto.com (CRO) long-term trend is bullish or bearish.",
-          "link": "https://cryptopanic.com/news/17895661/What-to-Expect-After-Cryptocom-CRO-Price-Loses-Critical-Support",
-          "publishedOn": "2023-03-16T18:00:00.000Z",
-          "wordCount": 527,
-          "title": "What to Expect After Crypto.com (CRO) Price Loses Critical Support",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/17895606/Doodles-No-Longer-an-NFT-Project-and-Wont-Cater-to-Speculators-Co-Founder-Says",
-          "author": null,
-          "description": "The creators of the Ethereum NFT collection signal growing ambitions, but the comments (and socks) may be roiling some holders.",
-          "link": "https://cryptopanic.com/news/17895606/Doodles-No-Longer-an-NFT-Project-and-Wont-Cater-to-Speculators-Co-Founder-Says",
-          "publishedOn": "2023-03-16T17:52:35.000Z",
-          "wordCount": 530,
-          "title": "Doodles 'No Longer an NFT Project' and Won’t Cater to Speculators, Co-Founder Says",
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/09/doodles-artwork-gID_4.png@png"
-        },
-        {
-          "id": "https://cryptopanic.com/news/17895602/Taking-Photos-and-Minting-NFTs-at-the-Ends-of-the-Earth-With-FOTOs-John-Knopf",
-          "author": null,
-          "description": "(John Knopf, modified by CoinDesk)",
-          "link": "https://cryptopanic.com/news/17895602/Taking-Photos-and-Minting-NFTs-at-the-Ends-of-the-Earth-With-FOTOs-John-Knopf",
-          "publishedOn": "2023-03-16T17:43:46.000Z",
-          "wordCount": 532,
-          "title": "Taking Photos and Minting NFTs at the Ends of the Earth, With FOTO’s John Knopf",
-          "imageUrl": "https://www.coindesk.com/resizer/hB0Nwo_70B_DzIeaLy0r5yORjJc=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/JWUVV6XQDVHZVGYB7BK4PW4QTY.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/17895391/ECB-Banking-Crisis",
-          "author": null,
-          "description": "Bitcoin Magazine LIVE #2331) New Episode of Fed Watch with Ansel Lindner and Nolan BauerleLower your time preference and lock-in your Bitcoin 2023 conference tickets today!!! Use promo code BMLIVE to save 10% off your conference tickets today!!!https://b.tc/conference/bitcoin2023Follow us on...",
-          "link": "https://cryptopanic.com/news/17895391/ECB-Banking-Crisis",
-          "publishedOn": "2023-03-16T17:42:02.000Z",
-          "wordCount": 520,
-          "title": "ECB Banking Crisis",
-          "imageUrl": "https://i3.ytimg.com/vi/RAIG4e_zKBI/hqdefault.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/17895600/Circle-Claims-to-Have-Cleared-Substantially-All-USDC-Minting-and-Redemption-Backlog",
-          "author": null,
-          "description": "Circle is working on adding more transaction banking partners.",
-          "link": "https://cryptopanic.com/news/17895600/Circle-Claims-to-Have-Cleared-Substantially-All-USDC-Minting-and-Redemption-Backlog",
-          "publishedOn": "2023-03-16T17:41:04.000Z",
-          "wordCount": 529,
-          "title": "Circle Claims to Have Cleared ‘Substantially’ All USDC Minting and Redemption Backlog",
-          "imageUrl": "https://cryptopotato.com/wp-content/uploads/2022/04/Circle_Banks.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/17895584/FTX-influencers-face-1-Billion-class-action-lawsuit-over-alleged-crypto-fraud-promotion",
-          "author": null,
-          "description": "The suit is led by Edwin Garrison and was filed against \"FTX influencers,\" primarily on the YouTube platform.",
-          "link": "https://cryptopanic.com/news/17895584/FTX-influencers-face-1-Billion-class-action-lawsuit-over-alleged-crypto-fraud-promotion",
-          "publishedOn": "2023-03-16T17:38:15.000Z",
-          "wordCount": 529,
-          "title": "FTX influencers face $1 Billion class-action lawsuit over alleged crypto fraud promotion",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/17895599/The-Banking-Crisis-Has-Been-Good-for-Stablecoin-Experimentation",
-          "author": null,
-          "description": "Circle CEO Jeremy Allaire (Danny Nelson/CoinDesk)",
-          "link": "https://cryptopanic.com/news/17895599/The-Banking-Crisis-Has-Been-Good-for-Stablecoin-Experimentation",
-          "publishedOn": "2023-03-16T17:33:10.000Z",
-          "wordCount": 526,
-          "title": "The Banking Crisis Has Been Good for Stablecoin Experimentation",
-          "imageUrl": "https://www.coindesk.com/resizer/3hzURfCfJ9NoHN9RHxRA2DPk1ho=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/76ZNFHBYWNFZ3AHCNTN5FV2JP4.jpg"
         }
       ]
     },
@@ -1119,6 +1119,16 @@
       "feedUrl": "https://message-rss.vercel.app/rekt/news",
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
+        {
+          "id": "https://dreamsneverdie.xyz/minting/",
+          "author": null,
+          "description": "Minting – Dreams Never Die",
+          "link": "https://dreamsneverdie.xyz/minting/",
+          "publishedOn": "2023-03-16T20:00:04.000Z",
+          "wordCount": 3614,
+          "title": "Minting – Dreams Never Die",
+          "imageUrl": null
+        },
         {
           "id": "https://docs.sismo.io/sismo-docs/",
           "author": null,
@@ -1155,7 +1165,7 @@
           "description": "Arbitrum’s long-awaited airdrop to go live next week, with self-executing DAO",
           "link": "https://www.theblock.co/post/220486/arbitrums-long-awaited-airdrop-to-go-live-next-week-with-self-executing-dao",
           "publishedOn": "2023-03-16T17:00:02.000Z",
-          "wordCount": 66566,
+          "wordCount": 67811,
           "title": "Arbitrum’s long-awaited airdrop to go live next week, with self-executing DAO",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2023/03/20230315_Arbitrum_airdrop-1200x675.jpg"
         },
@@ -1165,7 +1175,7 @@
           "description": "Polygon spins off project Avail and co-founder departs",
           "link": "https://www.theblock.co/post/220454/polygon-avail-anurag-arjun",
           "publishedOn": "2023-03-16T17:00:02.000Z",
-          "wordCount": 64546,
+          "wordCount": 65791,
           "title": "Polygon spins off project Avail and co-founder departs",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2021/12/20211209_Polygon-1200x675.png"
         },
@@ -1195,7 +1205,7 @@
           "description": "OpenAI co-founder on company’s past approach to openly sharing research: “We were wrong”",
           "link": "https://www.theverge.com/2023/3/15/23640180/openai-gpt-4-launch-closed-research-ilya-sutskever-interview",
           "publishedOn": "2023-03-16T07:30:04.000Z",
-          "wordCount": 10872,
+          "wordCount": 11488,
           "title": "OpenAI co-founder on company’s past approach to openly sharing research: “We were wrong”",
           "imageUrl": "https://cdn.vox-cdn.com/thumbor/AhMKtXCq37T2-zlrZMpaO59AB2k=/0x0:1820x1213/1200x628/filters:focal(910x607:911x608)/cdn.vox-cdn.com/uploads/chorus_asset/file/24247717/lp_logo_3.0.jpg"
         },
@@ -1205,7 +1215,7 @@
           "description": "Exclusive-U.S. regulator eyes Friday bids for SVB, Signature Bank-sources",
           "link": "https://www.streetinsider.com/Mergers+and+Acquisitions/Exclusive-U.S.+regulator+eyes+Friday+bids+for+SVB%2C+Signature+Bank-sources/21375498.html",
           "publishedOn": "2023-03-16T07:00:05.000Z",
-          "wordCount": 2714,
+          "wordCount": 2711,
           "title": "Exclusive-U.S. regulator eyes Friday bids for SVB, Signature Bank-sources",
           "imageUrl": "http://www.streetinsider.com/images/news2/213/21375498/resize_LYNXMPEJ2E0QB.jpg"
         },
@@ -1235,7 +1245,7 @@
           "description": "Exclusive: U.S. regulator taps Piper Sandler in new bid to sell Silicon Valley Bank -sources",
           "link": "https://www.reuters.com/business/finance/us-regulator-taps-piper-sandler-new-bid-sell-silicon-valley-bank-sources-2023-03-15/",
           "publishedOn": "2023-03-16T04:30:05.000Z",
-          "wordCount": 4754,
+          "wordCount": 4920,
           "title": "Exclusive: U.S. regulator taps Piper Sandler in new bid to sell Silicon Valley Bank -sources",
           "imageUrl": "https://www.reuters.com/resizer/cVn9yPs76K5J2KIvTJiYgmML88M=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/MNJ4TST7NJOXFJYOWZPMZR2VWY.jpg"
         },
@@ -1265,7 +1275,7 @@
           "description": "Silvergate Was Not Cut Off From Loans, FHLB Says",
           "link": "https://www.coindesk.com/policy/2023/03/15/silvergate-was-not-cut-off-from-fhlb-loans-bank-says/",
           "publishedOn": "2023-03-15T21:00:03.000Z",
-          "wordCount": 20331,
+          "wordCount": 20303,
           "title": "Silvergate Was Not Cut Off From Loans, FHLB Says",
           "imageUrl": "https://www.coindesk.com/resizer/UwdgF0mNVe1Vr-MkSGtn8OoKmHA=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/5TM5IYZYUREE5A2XZFWHTIUUPE.png"
         },
@@ -1285,7 +1295,7 @@
           "description": "Fidelity Crypto quietly went live, giving millions of retail customers access to bitcoin, ether",
           "link": "https://www.theblock.co/post/220298/fidelity-crypto-quietly-went-live-giving-millions-of-retail-customers-access-to-bitcoin-ether?utm_source=twitter&utm_medium=social",
           "publishedOn": "2023-03-15T21:00:03.000Z",
-          "wordCount": 64342,
+          "wordCount": 65587,
           "title": "Fidelity Crypto quietly went live, giving millions of retail customers access to bitcoin, ether",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/11/20221103_Fidelity-2-News-1200x675.jpg"
         },
@@ -1308,16 +1318,6 @@
           "wordCount": 54,
           "title": "Ordinals — Hiro",
           "imageUrl": "/og-image.png"
-        },
-        {
-          "id": "https://protocol-guild.readthedocs.io/en/latest/9-membership.html",
-          "author": null,
-          "description": "9. Membership — protocol-guild  documentation",
-          "link": "https://protocol-guild.readthedocs.io/en/latest/9-membership.html",
-          "publishedOn": "2023-03-15T19:00:02.000Z",
-          "wordCount": 3824,
-          "title": "9. Membership — protocol-guild  documentation",
-          "imageUrl": null
         }
       ]
     },
@@ -1327,12 +1327,127 @@
       "siteUrl": "https://www.inoreader.com/stream/user/1005336866/tag/%E6%B5%B7%E5%A4%96%E5%8A%A0%E5%AF%86%E8%B5%84%E8%AE%AF/view/html",
       "articles": [
         {
+          "id": "http://www.inoreader.com/article/3a9c6e7537aa5456",
+          "author": "Lyllah Ledesma",
+          "description": "Other AI-related tokens also surged on Thursday with decentralized AI marketplace, SingularityNET rising 15%.",
+          "link": "https://www.coindesk.com/markets/2023/03/16/the-graphs-grt-rallies-15-amid-ai-token-surge/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2023-03-16T20:13:28.000Z",
+          "wordCount": 19729,
+          "title": "The Graph's GRT Rallies 15% Amid AI Token Surge",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/jpeg",
+            "url": "https://www.coindesk.com/resizer/6enZD8QRWUomaJKxcAoLAP53HsM=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/Z26K3FBPEZBTXBAJWJ23YWUQRA.jpg"
+          },
+          "imageUrl": "https://www.coindesk.com/resizer/6enZD8QRWUomaJKxcAoLAP53HsM=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/Z26K3FBPEZBTXBAJWJ23YWUQRA.jpg"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e7537ab4d55",
+          "author": "Jamie Redman",
+          "description": "During the Execution Layer Meeting streamed on March 16, 2023, Ethereum developers announced that the blockchain is scheduled to upgrade on April 12, in 27 days. The upgrade, known as the Shanghai-Capella upgrade or Shapella, will include the implementation of Beacon chain push withdrawals. This will enable Ethereum network validators to support withdrawal operations following the ruleset change.\n \nEthereum Validator Withdrawal Operations and Fee Optimization Enhancements Set to Go Live in 27 Days\n \nAt the time of writing, the Beacon chain contract holds 17,680,535 ether, worth $29.33 billion using today’s Ethereum exchange rates. The upcoming upgrade, called Shapella, will enable the Beacon chain to use push withdrawals as operations through Ethereum Improvement Proposal (EIP) 4895.\n \nAcc…",
+          "link": "https://news.bitcoin.com/ethereum-upgrade-to-implement-beacon-chain-withdrawals-scheduled-for-april-12/",
+          "publishedOn": "2023-03-16T20:06:16.000Z",
+          "wordCount": 3393,
+          "title": "Ethereum Upgrade to Implement Beacon Chain Withdrawals Scheduled for April 12",
+          "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2023/03/upgradesdd.jpg"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e7537ab931f",
+          "author": "Jocelyn Yang",
+          "description": "BTC has remained in a range between $24,200 and $25,200 over the past 24 hours. Investors are hoping the Federal Reserve relaxes its recent monetary hawkishness.",
+          "link": "https://www.coindesk.com/markets/2023/03/16/bitcoin-holds-steady-above-25k-as-euro-banking-crisis-eases/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2023-03-16T20:04:16.000Z",
+          "wordCount": 20213,
+          "title": "Bitcoin Holds Steady Above $25K as Euro Banking Crisis Eases",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/png",
+            "url": "https://www.coindesk.com/resizer/T6968FhHCetHZabQmEFKqKmKifA=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/5NR7PCM6WZEVLCWC6TYOA6PHIU.png"
+          },
+          "imageUrl": "https://www.coindesk.com/resizer/T6968FhHCetHZabQmEFKqKmKifA=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/5NR7PCM6WZEVLCWC6TYOA6PHIU.png"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e7537954f59",
+          "author": "Elizabeth Napolitano",
+          "description": "The decentralized special interests organization could pay nearly $1 million for its first golf club.",
+          "link": "https://www.coindesk.com/business/2023/03/16/linksdao-inches-closer-to-closing-scottish-golf-club-deal/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2023-03-16T19:51:22.000Z",
+          "wordCount": 19673,
+          "title": "LinksDAO Inches Closer to Closing Scottish Golf Club Deal",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/jpeg",
+            "url": "https://www.coindesk.com/resizer/KKZHLvgz3oMX8efw3XQAJOkXg-A=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/H2UNSQLF5NEMLHIBHJXCUJZB2A.jpg"
+          },
+          "imageUrl": "https://www.coindesk.com/resizer/KKZHLvgz3oMX8efw3XQAJOkXg-A=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/H2UNSQLF5NEMLHIBHJXCUJZB2A.jpg"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e7537954f4b",
+          "author": "Brandy Betz",
+          "description": "The provider of crypto exchange-traded products (ETPs), however, told CoinDesk it had its second-strongest January on record overall.",
+          "link": "https://www.coindesk.com/markets/2023/03/16/21shares-closes-6-crypto-exchange-traded-products/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2023-03-16T19:51:22.000Z",
+          "wordCount": 19630,
+          "title": "21Shares Closes 6 Crypto Exchange-Traded Products",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/jpeg",
+            "url": "https://www.coindesk.com/resizer/xnvQGYIC6aW7-SJvaZeTF0qjQSw=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/DRDCHR65DFHYTJVJZ6FY3OLZF4.jpg"
+          },
+          "imageUrl": "https://www.coindesk.com/resizer/xnvQGYIC6aW7-SJvaZeTF0qjQSw=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/DRDCHR65DFHYTJVJZ6FY3OLZF4.jpg"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e753796f0e4",
+          "author": "Samuel Edyme",
+          "description": "Amid the instability in the US banking sector, the United States Federal Deposit Insurance Corporation (FDIC) has reportedly now made a decision against the crypto industry. According to a report published on Wednesday evening, potential buyers of the crypto-friendly Signature bank can now submit their bids but with a major condition. \n \nThe report said buyers of the Signature banks are to submit their bids by March 17 and would have to give up all crypto businesses at the bank. This has raised controversy among the crypto community on how the US regulators are keen on disrupting the industry.\n \nAnother Major Crackdwon For Crypto?\n \nSignature Bank which was one of the few US banks spreading its services across the crypto sector was shuttered by the state regulators on Sunday. Though the re…",
+          "link": "https://bitcoinist.com/signature-bank-buyers-to-give-up-crypto-businesses/",
+          "publishedOn": "2023-03-16T19:38:37.000Z",
+          "wordCount": 4939,
+          "title": "Signature Bank Buyers Have To Give Up All Crypto Businesses, Says FDIC",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/jpeg",
+            "url": "https://bitcoinist.com/wp-content/uploads/2023/03/Signature-Bank-Buyers-Would-Give-Up-Crypto.jpeg"
+          },
+          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2023/03/Signature-Bank-Buyers-Would-Give-Up-Crypto.jpeg"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e7537974cbe",
+          "author": "Dillon Healy",
+          "description": "So much has happened in the last week that it may be helpful to look at the totality of these events in relation to bitcoin.\n \n         \n         \n         \n         \n    \nThis is an opinion editorial by Dillon Healy, institutional partnerships at Bitcoin Magazine and Bitcoin 2023.\nThe biggest news of the last week has been the banking sector collapses, specifically crypto-friendly banks. On March 2, in their own SEC filing, Silvergate raised concerns around their solvency and ability to continue operating. This was, in my opinion, undeniably a result of direct and/or indirect exposure to the continuing contagion within the crypto industry created by collapses of Luna, 3AC, and FTX. As expected, a bank run followed from Silvergate partners to distance themselves and withdraw assets. \n\n\n\nSi…",
+          "link": "https://bitcoinmagazine.com/markets/recap-of-last-weeks-banking-contagion-and-bitcoin",
+          "publishedOn": "2023-03-16T19:35:43.000Z",
+          "wordCount": null,
+          "title": "A Recap Of Last Week’s Banking Contagion And Bitcoin",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/png",
+            "url": "https://bitcoinmagazine.com/.image/c_fit,cs_srgb,q_auto:good,w_620/MTk2NDE0NDk3MjI3ODEwMjkw/bitcoin-2023-website-article-banner.png"
+          },
+          "imageUrl": "https://bitcoinmagazine.com/.image/c_fit,cs_srgb,q_auto:good,w_620/MTk2NDE0NDk3MjI3ODEwMjkw/bitcoin-2023-website-article-banner.png"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e753791c032",
+          "author": "Fran Velasquez",
+          "description": "Jason Brett said despite regulators using the failure of three banks to target crypto, the industry itself is not in a crisis.",
+          "link": "https://www.coindesk.com/policy/2023/03/16/former-fdic-regulator-friendliness-toward-crypto-does-not-exist/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2023-03-16T19:17:13.000Z",
+          "wordCount": 20414,
+          "title": "Former FDIC Regulator: Friendliness Toward Crypto 'Does Not Exist'",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/png",
+            "url": "https://www.coindesk.com/resizer/OgKaa_AD-pcAxXFYtuU79LjVPgQ=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/5YCURZZFGBETJARYPTPUQUL7GI.png"
+          },
+          "imageUrl": "https://www.coindesk.com/resizer/OgKaa_AD-pcAxXFYtuU79LjVPgQ=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/5YCURZZFGBETJARYPTPUQUL7GI.png"
+        },
+        {
           "id": "http://www.inoreader.com/article/3a9c6e7537937177",
           "author": "Jeff  Wilser",
           "description": "Chris Jacquemin, a speaker at CoinDesk's Consensus conference, on Hollywood's embrace of Web3.",
           "link": "https://www.coindesk.com/consensus-magazine/2023/03/16/wme-william-morris-endeavor-web3-crypto/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-03-16T19:05:08.000Z",
-          "wordCount": 24680,
+          "wordCount": 24652,
           "title": "How Talent Agency WME Is Expanding Into Crypto",
           "enclosure": {
             "length": "1337",
@@ -1347,7 +1462,7 @@
           "description": "State Street and Copper have mutually decided to end their licensing agreement, a spokesman for the bank said.",
           "link": "https://www.coindesk.com/business/2023/03/16/banking-giant-state-street-cuts-ties-with-crypto-custody-firm-copper/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-03-16T19:05:08.000Z",
-          "wordCount": 19611,
+          "wordCount": 19583,
           "title": "Banking Giant State Street Cuts Ties With Crypto Custody Firm Copper",
           "enclosure": {
             "length": "1337",
@@ -1362,7 +1477,7 @@
           "description": "The day after Silicon Valley Bank collapsed, the number of active NFT traders dropped to its lowest point since November 2021.",
           "link": "https://www.coindesk.com/web3/2023/03/16/svb-collapse-tanked-nft-trading-volumes-dappradar-report-suggests/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-03-16T18:38:26.000Z",
-          "wordCount": 20040,
+          "wordCount": 20011,
           "title": "SVB Collapse Tanked NFT Trading Volumes, DappRadar Report Suggests",
           "enclosure": {
             "length": "1337",
@@ -1392,7 +1507,7 @@
           "description": "The U.S. government and the Federal Deposit Insurance Corporation (FDIC) are auctioning off two failed American financial institutions, Silicon Valley Bank (SVB) and Signature Bank (SNBY), this week, with bids due by March 17. However, sources familiar with the matter said the qualifications to purchase the banks are stringent, and reportedly, the purchasers cannot deal with crypto businesses anymore.\n \nControversy Surrounds Alleged Crypto Restrictions for Potential Bank Buyers\n \nLast week, the second- and third-largest bank failures in America occurred within 48 hours of each other, and the two financial institutions are being sold this week. Unnamed sources familiar with the matter told Reuters that the FDIC is accepting bids for Silicon Valley Bank (SVB) and Signature Bank (SNBY), with …",
           "link": "https://news.bitcoin.com/report-us-government-auctions-off-failed-banks-svb-and-snby-crypto-restrictions-apply/",
           "publishedOn": "2023-03-16T18:04:23.000Z",
-          "wordCount": 3505,
+          "wordCount": 3519,
           "title": "Report: US Government Auctions Off Failed Banks SVB and SNBY, Crypto Restrictions Apply",
           "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2023/03/banneds.jpg"
         },
@@ -1402,7 +1517,7 @@
           "description": "The Emmy award-nominated photographer discusses the early days of Bored Apes, digital culture and turning an industry into a community using crypto.",
           "link": "https://www.coindesk.com/consensus-magazine/2023/03/16/taking-photos-and-minting-nfts-at-the-ends-of-the-earth-with-fotos-john-knopf/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-03-16T17:55:33.000Z",
-          "wordCount": 25014,
+          "wordCount": 24988,
           "title": "Taking Photos and Minting NFTs at the Ends of the Earth, With FOTO’s John Knopf",
           "enclosure": {
             "length": "1337",
@@ -1417,7 +1532,7 @@
           "description": "Sovryn, a Bitcoin DeFi protocol, announced a new dollar proxy as others look at alternative models for collateralizing stablecoins amid a banking system crisis.",
           "link": "https://www.coindesk.com/consensus-magazine/2023/03/16/its-a-new-day-for-stablecoin-experimentation/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-03-16T17:44:56.000Z",
-          "wordCount": 21246,
+          "wordCount": 21222,
           "title": "The Banking Crisis Has Been Good for Stablecoin Experimentation",
           "enclosure": {
             "length": "1337",
@@ -1432,7 +1547,7 @@
           "description": "As the FTX bankruptcy case continues, the administrators continue to discover critical issues that could have led to the crash. Recall that the founder and CEO Sam Bankman-Fried mismanaged the customers’ funds leading to the exchange crash last year.\n \n \nThe latest discovery by the US Feds FTX Task Force is that SBF and some top executives in Alameda Research took out $3.2 billion in loans and payments from both platforms. The FTX Debtors shared this discovery in the latest financial statement filing. This is besides other amounts they used for personal expenses.   \n \nMore Discoveries Of Missing Funds In FTX\n \nSince the collapse of FTX, the task force and its new CEO John Ray III have been tracking the funds of the exchange to determine the misappropriated sums. In one of the records, they…",
           "link": "https://bitcoinist.com/alameda-research-funneled-3-2-billion-to-ftx/",
           "publishedOn": "2023-03-16T17:24:33.000Z",
-          "wordCount": 4889,
+          "wordCount": 4894,
           "title": "Alameda Research Funneled $3.2 Billion To Former FTX CEO’s Personal Circle",
           "enclosure": {
             "length": "1337",
@@ -1447,7 +1562,7 @@
           "description": "Where are investors parking their money as the U.S. banking crisis ripped through the market? Hard assets, including tokenized diamonds.",
           "link": "https://www.coindesk.com/business/2023/03/16/investors-flock-to-tokenized-diamond-as-crypto-banking-crisis-props-hard-assets/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-03-16T17:09:05.000Z",
-          "wordCount": 20313,
+          "wordCount": 20285,
           "title": "Investors Flock to Tokenized Diamond as Crypto Banking Crisis Props Hard Assets",
           "enclosure": {
             "length": "1337",
@@ -1462,7 +1577,7 @@
           "description": "The top decentralized exchange on Solana will restrict U.S. trading activity from orca.so beginning on March 31.",
           "link": "https://www.coindesk.com/business/2023/03/16/crypto-exchange-orca-to-block-us-traders-from-website/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-03-16T17:09:05.000Z",
-          "wordCount": 19573,
+          "wordCount": 19545,
           "title": "Crypto Exchange Orca to Block US Traders From Website",
           "enclosure": {
             "length": "1337",
@@ -1477,7 +1592,7 @@
           "description": "The Arbitrum Discord channel is rife with activity with thousands of messages since the announcement today",
           "link": "https://www.coindesk.com/business/2023/03/16/arb-token-trending-on-twitter-after-arbitrums-airdrop-announcement/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-03-16T17:09:05.000Z",
-          "wordCount": 19902,
+          "wordCount": 19874,
           "title": "ARB Token Trending on Twitter After Arbitrum’s Airdrop Announcement",
           "enclosure": {
             "length": "1337",
@@ -1492,7 +1607,7 @@
           "description": "Google searches for Arbitrum, the largest layer 2 scaling solution on Ethereum, have soared in the past 24-hours after the long-awaited airdrop was announced.",
           "link": "https://www.coindesk.com/business/2023/03/16/google-searches-for-arbitrum-soar-amid-airdrop-announcement/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-03-16T16:42:40.000Z",
-          "wordCount": 19490,
+          "wordCount": 19462,
           "title": "Google Searches for Arbitrum Soar Amid Airdrop Announcement",
           "enclosure": {
             "length": "1337",
@@ -1500,116 +1615,6 @@
             "url": "https://www.coindesk.com/resizer/P7ZzCPWuvvKHXlEDYjByDrQBSZg=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/MZSX4CSTNJHERHY6SMBHJR2XWA.png"
           },
           "imageUrl": "https://www.coindesk.com/resizer/P7ZzCPWuvvKHXlEDYjByDrQBSZg=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/MZSX4CSTNJHERHY6SMBHJR2XWA.png"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e75378adbdb",
-          "author": "Carlos Cárdenas",
-          "description": "As the U.S. witnessed one of the largest banking collapses in its history, Bitcoin is being innovated upon and seeing its network grow.\n \n         \n         \n         \n         \n    \nThis is an opinion editorial by Carlos Cardenas, an institutional account manager who has worked at legacy banks and cryptocurrency exchanges.\nAuthor Nassim Taleb published an interview titled, \"Bitcoin Is The Detector Of Imbeciles\" in which he rearticulated his arguments that bitcoin cannot play the role of a currency or a store of value and suggests that it will “collapse.” But is this really true? \nSure, bitcoin has suffered catastrophic drops in its value over the past ten years, including as much as 58% last year, but overall, it had an average annual return of 1,576% between 2010 and 2021. Through Bitcoi…",
-          "link": "https://bitcoinmagazine.com/culture/as-banks-collapse-bitcoin-is-stronger",
-          "publishedOn": "2023-03-16T16:35:09.000Z",
-          "wordCount": null,
-          "title": "As The U.S. Sees Its Second-Biggest Banking Collapse Ever, Bitcoin Is Just Becoming Stronger",
-          "enclosure": {
-            "length": "1337",
-            "type": "image/png",
-            "url": "https://bitcoinmagazine.com/.image/c_fit,cs_srgb,q_auto:good,w_620/MTk2NDE0NDk3MjI3ODEwMjkw/bitcoin-2023-website-article-banner.png"
-          },
-          "imageUrl": "https://bitcoinmagazine.com/.image/c_fit,cs_srgb,q_auto:good,w_620/MTk2NDE0NDk3MjI3ODEwMjkw/bitcoin-2023-website-article-banner.png"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e753774df0e",
-          "author": "Reynaldo Marquez",
-          "description": "The U.S.-based non-profit Blockchain Association (BA) requested information from regulators in the country about an alleged de-banking of crypto companies. Over the past months, the sector has seen some of its most prominent actors lose access to accounts, the ability to process transfers in fiat currency, and more. \n \n \nThe collapse of three major pro-crypto financial institutions, the Silicon Valley Bank, Silvergate, and Signature, are poised to throw fuel into the fire. The nascent industry lost its most significant financial partners, and while many scramble to find a new home for their capital and make payroll, the U.S. goes on the offensive.\n \n \nU.S. Government De-Banking Crypto Companies On Purpose?\n \nPer an official statement, the BA requested information from the Federal Deposit I…",
-          "link": "https://bitcoinist.com/crypto-face-banking-woes-non-profit-wants-answers/",
-          "publishedOn": "2023-03-16T16:23:28.000Z",
-          "wordCount": 4971,
-          "title": "Crypto Faces Banking Woes, This Non-Profit Presses Government for Answers",
-          "enclosure": {
-            "length": "1337",
-            "type": "image/jpeg",
-            "url": "https://bitcoinist.com/wp-content/uploads/2023/03/Crypto-Blockchain-Association-630x420.jpg"
-          },
-          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2023/03/Crypto-Blockchain-Association-630x420.jpg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e7537709368",
-          "author": "Jamie Redman",
-          "description": "Credit Suisse has experienced a loss of confidence in the financial institution’s health following a significant drop in its shares’ value this week. Over the past five days, Credit Suisse shares have fallen 24.34% against the U.S. dollar, eroding trust amid fears about the global banking system. On Wednesday at around 9 p.m. (ET), Credit Suisse announced that it was strengthening its liquidity by borrowing 50 billion Swiss francs ($54 billion) from the Swiss National Bank (SNB). As concerns about the world’s banking system continue to spread, bailout measures are starting to emerge in the U.S. and abroad.\n \nEmergency Measures to Stabilize Global Banking System Emerge as Credit Suisse and Other Banks Face Uncertainty\n \nCredit Suisse’s stock hit a record low on Wednesday after the Saudi Nat…",
-          "link": "https://news.bitcoin.com/on-the-brink-of-a-new-trend-credit-suisse-receives-50-billion-swiss-franc-bailout-from-swiss-national-bank/",
-          "publishedOn": "2023-03-16T16:02:08.000Z",
-          "wordCount": 3834,
-          "title": "On the Brink of a New Trend: Credit Suisse Receives 50 Billion Swiss Franc Bailout From Swiss National Bank",
-          "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2023/03/cs.jpg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e75377d1638",
-          "author": "Ian Allison",
-          "description": "Focusing on Copper’s Clear Loop custody and settlement business made more economic sense going forward.",
-          "link": "https://www.coindesk.com/business/2023/03/16/crypto-custody-firm-copper-shelves-enterprise-business/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-          "publishedOn": "2023-03-16T15:36:09.000Z",
-          "wordCount": 19585,
-          "title": "Crypto Custody Firm Copper Shelves Enterprise Business: Source",
-          "enclosure": {
-            "length": "1337",
-            "type": "image/jpeg",
-            "url": "https://www.coindesk.com/resizer/A21G_8szJ4c_SbkaEbo3zFDxV5A=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/NNOELMX3C5A4FL5CGHZKHV4O7Q.jpg"
-          },
-          "imageUrl": "https://www.coindesk.com/resizer/A21G_8szJ4c_SbkaEbo3zFDxV5A=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/NNOELMX3C5A4FL5CGHZKHV4O7Q.jpg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e75377d160d",
-          "author": "Megan  DeMatteo",
-          "description": "“These are ethical concerns that, as a society, we're really confronted with for the first time,” said trademark and copyright lawyer Jessica Neer McDonald.",
-          "link": "https://www.coindesk.com/web3/2023/03/16/how-ai-is-changing-artistic-creation-and-challenging-ip-laws/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-          "publishedOn": "2023-03-16T15:36:09.000Z",
-          "wordCount": 22854,
-          "title": "How AI Is Changing Artistic Creation and Challenging IP Laws",
-          "enclosure": {
-            "length": "1337",
-            "type": "image/jpeg",
-            "url": "https://www.coindesk.com/resizer/faTv-w91aL165q31RgYJqFirJuQ=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/J5OJ563RLJAH3DNRRXPE4K5UFM.jpg"
-          },
-          "imageUrl": "https://www.coindesk.com/resizer/faTv-w91aL165q31RgYJqFirJuQ=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/J5OJ563RLJAH3DNRRXPE4K5UFM.jpg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e75377e0d05",
-          "author": "Finance Magnates Staff",
-          "description": "<p>Traditional  \nbanking has long been inaccessible to a large portion of the world's  \npopulation, leaving many people without access to basic financial services such  \nas savings accounts, loans, and credit. </p><p>The rise of  \ndigital currencies such as Bitcoin and Ethereum, on the other hand, has the  \npotential to change this. In this article, we'll look at how digital currencies  \ncan help to alleviate financial exclusion and open up new opportunities for the  \nunbanked. </p><p>What is  \nFinancial Exclusion? </p><p>Financial  \nexclusion refers to the inability to obtain basic financial services and  \nproducts such as savings accounts, loans, and credit. According to the World  \nBank, approximately 1.7 billion people worldwide lack access to formal  \nfinancial services and are thus e…",
-          "link": "https://www.financemagnates.com//cryptocurrency/education-centre/crypto-for-the-unbanked-can-digital-currencies-solve-financial-inclusion/",
-          "publishedOn": "2023-03-16T15:30:16.000Z",
-          "wordCount": 7098,
-          "title": "Crypto for the Unbanked: Can Digital Currencies Solve Financial Inclusion?",
-          "imageUrl": "https://images.financemagnates.com/images/crypto%20unbanked_id_1c19072d-f587-4de7-8635-535aff560215_size900.jpg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e75377f903c",
-          "author": "Savannah Fortis",
-          "description": "While cryptocurrency gains mainstream adoption across sectors, some traditional financial institutions are beginning to accept it. A recent report revealed that a new Zurich-based fintech, Grow Bank, plans to integrate crypto and fiat currency into its services. \n \nThe Swiss startup bank says its platform supports 64 fiat currencies and 20 cryptocurrencies, allowing users to exchange fiat with crypto with very little commission.\n \n \nGrow Bank positions itself among the first to bring traditional banking and decentralized finance (DeFi) together. This development would mark another milestone in linking traditional and decentralized finance.\n \nGrow Bank To Integrate Traditional Finance And Crypto With Its Services\n \nIndividual interests in fintech and the stock market have evolved in how peo…",
-          "link": "https://bitcoinist.com/grow-bank-merges-crypto-and-fiat/",
-          "publishedOn": "2023-03-16T15:21:17.000Z",
-          "wordCount": 4893,
-          "title": "Grow Bank Merges Crypto And Fiat Currencies in New Swiss Venture",
-          "enclosure": {
-            "length": "1337",
-            "type": "image/jpeg",
-            "url": "https://bitcoinist.com/wp-content/uploads/2023/03/bridge-g4539cd1b4_1280-619x420.jpg"
-          },
-          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2023/03/bridge-g4539cd1b4_1280-619x420.jpg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e7537796530",
-          "author": "Ronaldo Marquez",
-          "description": "The Arbitrum Foundation has announced the launch of its new token under the ticker ARB, which will go live on March 23. With a $300 million ARB distribution, The ARB token will allow holders to vote on changes to the Ethereum layer 2 network. \n \nArbitrum, the layer 2 blockchain protocol designed to increase scalability on the Ethereum blockchain, is taking steps in its transition as a decentralized autonomous organization (DAO). \n \nLaunching a DAO governance will mark an achievement for the protocol in decentralizing the network, becoming the first Ethereum Virtual Machine (EVM) roll-up technology to accomplish decentralization.\n \n \nA Transition To A DAO Governance\n \nThis move allows the Arbitrum One and Arbitrum Nova to function independently of centralized actors, allowing its community …",
-          "link": "https://bitcoinist.com/arbitrum-announces-the-launch-of-its-new-token-arb/",
-          "publishedOn": "2023-03-16T15:10:39.000Z",
-          "wordCount": 4747,
-          "title": "Breaking: Arbitrum Announces The Launch Of Its New Token ARB, Transitioning To DAO",
-          "enclosure": {
-            "length": "1337",
-            "type": "image/jpeg",
-            "url": "https://bitcoinist.com/wp-content/uploads/2023/03/zsun-fu-b4D7FKAghoE-unsplash-630x420.jpg"
-          },
-          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2023/03/zsun-fu-b4D7FKAghoE-unsplash-630x420.jpg"
         }
       ]
     }

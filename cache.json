@@ -6,6 +6,21 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=120499",
+          "author": "Nathan Reiff",
+          "description": "The Shanghai fork will implement EIP-4895, which allows validators to withdraw ETH that have been staked since as long ago as December 2020.",
+          "link": "https://decrypt.co/resources/what-is-ethereums-shanghai-upgrade",
+          "publishedOn": "2023-04-05T08:56:02.000Z",
+          "wordCount": 9519,
+          "title": "What Is Ethereum’s Shanghai Upgrade?",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/11/ID-STUFF-copy-gID_4-pID_2.png@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/11/ID-STUFF-copy-gID_4-pID_2.png@png"
+        },
+        {
           "id": "https://decrypt.co/?p=125471",
           "author": "Ryan Gladwin",
           "description": "Gone are the days of digital games rotting in your Steam library—Ultra Games will let you sell them to other users.",
@@ -606,21 +621,6 @@
           "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/01/ripple-xrp-price-sec-lawsuit-delist-gID_5.jpg@png"
         },
         {
-          "id": "https://decrypt.co/?p=125174",
-          "author": "Tom Farren",
-          "description": "The controversy around Twitter's verification shake-up has Web3 builders advocating for a decentralized way forward.",
-          "link": "https://decrypt.co/125174/twitter-killing-legacy-blue-checks-wake-up-call-dangers-centralized-social-media-cyberconnect-ceo",
-          "publishedOn": "2023-03-31T21:37:11.000Z",
-          "wordCount": 9919,
-          "title": "Twitter Killing Legacy Blue Checks Is a 'Wake-Up Call to the Dangers of Centralized Social Media': CyberConnect CEO",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/04/Elon-Musk-Twitter-gID_7.jpeg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/04/Elon-Musk-Twitter-gID_7.jpeg@png"
-        },
-        {
           "id": "https://decrypt.co/videos/live-events/PqJHF0N9/why-aurorys-head-of-production-left-ubisoft-for-web3",
           "author": null,
           "description": "Aurory executive producer and head of production Jonathan Campeau tells Decrypt's Kate Irwin at GDC about how the first-generation of Web3 games came out of DeFi and are now evolving.",
@@ -913,22 +913,112 @@
       "siteUrl": "https://cryptopanic.com/",
       "articles": [
         {
+          "id": "https://cryptopanic.com/news/18042216/SubQuery-launches-Web3-data-indexing-on-Ethereum-to-challenge-The-Graph",
+          "author": null,
+          "description": "Support for Ethereum (ETH) has been added to the beta version of SubQuery, the global Web3 data indexing toolkit. SubQuery … Continued",
+          "link": "https://cryptopanic.com/news/18042216/SubQuery-launches-Web3-data-indexing-on-Ethereum-to-challenge-The-Graph",
+          "publishedOn": "2023-04-05T09:09:27.000Z",
+          "wordCount": 528,
+          "title": "SubQuery launches Web3 data indexing on Ethereum to challenge The Graph",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18041934/Approaching-1M-Bitcoin-inscriptions",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/18041934/Approaching-1M-Bitcoin-inscriptions",
+          "publishedOn": "2023-04-05T08:58:49.000Z",
+          "wordCount": null,
+          "title": "Approaching 1M Bitcoin inscriptions",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18042199/Fund-Manager-Predicts-Massive-Bitcoin-Boom-10-Million-per-BTC-on-the-Horizon",
+          "author": null,
+          "description": "Fund Manager Jesse Myers of Protocol Capital has a bold prediction for Bitcoin enthusiasts: a staggering $10 million price tag per BTC. According to a report by The Daily Hodl, in an interview with Natalie Brunell on the “Coin Stories” podcast, Myers delves into the reasoning and timeline behind...",
+          "link": "https://cryptopanic.com/news/18042199/Fund-Manager-Predicts-Massive-Bitcoin-Boom-10-Million-per-BTC-on-the-Horizon",
+          "publishedOn": "2023-04-05T08:55:14.000Z",
+          "wordCount": 530,
+          "title": "Fund Manager Predicts Massive Bitcoin Boom: $10 Million per BTC on the Horizon",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18041913/Developers-Fork-Uniswap-V3-Protocol-Attracts-123M-in-Total-Value-Locked",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/18041913/Developers-Fork-Uniswap-V3-Protocol-Attracts-123M-in-Total-Value-Locked",
+          "publishedOn": "2023-04-05T08:48:11.000Z",
+          "wordCount": null,
+          "title": "Developers Fork Uniswap V3, Protocol Attracts $123M in Total Value Locked",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18041718/Ethereum-ETH-Skyrockets-to-Eight-Month-High-Ahead-of-Shapella-Upgrade",
+          "author": null,
+          "description": "Ethereum (ETH) reached impressive eight-month high of approximately $1,925 on Wednesday, fueled by anticipation of upcoming Shapella network upgrade",
+          "link": "https://cryptopanic.com/news/18041718/Ethereum-ETH-Skyrockets-to-Eight-Month-High-Ahead-of-Shapella-Upgrade",
+          "publishedOn": "2023-04-05T08:42:00.000Z",
+          "wordCount": 527,
+          "title": "Ethereum (ETH) Skyrockets to Eight-Month High Ahead of Shapella Upgrade",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18041510/Ethereum-Shots-Up-to-8-Month-High-Ripple-Gains-5-Daily-Market-Watch",
+          "author": null,
+          "description": "XRP and ETH are up by similar percentages, while the latter has seen a multi-month high above $1,900.",
+          "link": "https://cryptopanic.com/news/18041510/Ethereum-Shots-Up-to-8-Month-High-Ripple-Gains-5-Daily-Market-Watch",
+          "publishedOn": "2023-04-05T08:31:19.000Z",
+          "wordCount": 529,
+          "title": "Ethereum Shots Up to 8-Month High, Ripple Gains 5% Daily (Market Watch)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18041228/Bitcoin-and-Ethereum-Price-Predictions-Will-ADP-Non-Farm-Employment-Data-Result-in-a-Range-Breakout-for-BTC-and-ETH",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/18041228/Bitcoin-and-Ethereum-Price-Predictions-Will-ADP-Non-Farm-Employment-Data-Result-in-a-Range-Breakout-for-BTC-and-ETH",
+          "publishedOn": "2023-04-05T08:22:00.000Z",
+          "wordCount": null,
+          "title": "Bitcoin and Ethereum Price Predictions: Will ADP Non-Farm Employment Data Result in a Range Breakout for BTC and ETH?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18041240/Arbitrum-ARB-up-8-as-It-Tops-Chart-for-Total-TPS-Heres-How-Polygons-zkEVM-Is-Faring",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/18041240/Arbitrum-ARB-up-8-as-It-Tops-Chart-for-Total-TPS-Heres-How-Polygons-zkEVM-Is-Faring",
+          "publishedOn": "2023-04-05T08:21:00.000Z",
+          "wordCount": null,
+          "title": "Arbitrum (ARB) up 8% as It Tops Chart for Total TPS, Here's How Polygon's zkEVM Is Faring",
+          "imageUrl": null
+        },
+        {
           "id": "https://cryptopanic.com/news/18040863/Overseas-crypto-transfers-cost-967-less-than-traditional-system-Coinbase",
           "author": null,
-          "description": "Americans spend more than US$12 billion in remittance fees each year when sending money to family and friends living overseas using the traditional financial system. However, overseas remittances using Bitcoin and Ethereum cost 96.7% less, according to research by Coinbase.",
+          "description": "",
           "link": "https://cryptopanic.com/news/18040863/Overseas-crypto-transfers-cost-967-less-than-traditional-system-Coinbase",
           "publishedOn": "2023-04-05T08:04:02.000Z",
-          "wordCount": 527,
+          "wordCount": null,
           "title": "Overseas crypto transfers cost 96.7% less than traditional system: Coinbase",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18041012/DeFi-Lending-Platform-Sentiment-Loses-Nearly-1M-to-Exploit",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/18041012/DeFi-Lending-Platform-Sentiment-Loses-Nearly-1M-to-Exploit",
+          "publishedOn": "2023-04-05T08:02:19.000Z",
+          "wordCount": null,
+          "title": "DeFi Lending Platform Sentiment Loses Nearly $1M to Exploit",
           "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/18040855/Ultras-New-Web3-Gaming-Marketplace-Lets-Users-Resell-Digital-Games",
           "author": null,
-          "description": "Gone are the days of digital games rotting in your Steam library—Ultra Games will let you sell them to other users.",
+          "description": "",
           "link": "https://cryptopanic.com/news/18040855/Ultras-New-Web3-Gaming-Marketplace-Lets-Users-Resell-Digital-Games",
           "publishedOn": "2023-04-05T08:01:02.000Z",
-          "wordCount": 527,
+          "wordCount": null,
           "title": "Ultra’s New Web3 Gaming Marketplace Lets Users Resell Digital Games",
           "imageUrl": null
         },
@@ -945,10 +1035,10 @@
         {
           "id": "https://cryptopanic.com/news/18040588/Hong-Kongs-crypto-rules-set-a-high-bar-for-good-reason-says-SFC-advisor",
           "author": null,
-          "description": "Lucy Gazmararian, an advisory board member to Hong Kong's securities regulator said its crypto rules may present short-term challenges to crypto startups.",
+          "description": "",
           "link": "https://cryptopanic.com/news/18040588/Hong-Kongs-crypto-rules-set-a-high-bar-for-good-reason-says-SFC-advisor",
           "publishedOn": "2023-04-05T07:54:07.000Z",
-          "wordCount": 531,
+          "wordCount": null,
           "title": "Hong Kong’s crypto rules set a high bar for ‘good reason,’ says SFC advisor",
           "imageUrl": null
         },
@@ -975,10 +1065,10 @@
         {
           "id": "https://cryptopanic.com/news/18040351/Swiss-state-owned-bank-Postfinance-to-offer-Bitcoin-trading",
           "author": null,
-          "description": "PostFinance’s parent firm Swiss Post is known for its pro-crypto stance, working on its own crypto custody services and issuing crypto stamp collectibles.",
+          "description": "",
           "link": "https://cryptopanic.com/news/18040351/Swiss-state-owned-bank-Postfinance-to-offer-Bitcoin-trading",
           "publishedOn": "2023-04-05T07:40:54.000Z",
-          "wordCount": 525,
+          "wordCount": null,
           "title": "Swiss state-owned bank Postfinance to offer Bitcoin trading",
           "imageUrl": null
         },
@@ -995,20 +1085,20 @@
         {
           "id": "https://cryptopanic.com/news/18040347/Ether-Breaking-Out-Ahead-of-Ethereums-Shanghai-Upgrade-Bernstein",
           "author": null,
-          "description": "",
+          "description": "The rally in the price of ether is similar to the move seen before the blockchain’s last upgrade, the Merge, the report said.",
           "link": "https://cryptopanic.com/news/18040347/Ether-Breaking-Out-Ahead-of-Ethereums-Shanghai-Upgrade-Bernstein",
           "publishedOn": "2023-04-05T07:38:54.000Z",
-          "wordCount": null,
+          "wordCount": 526,
           "title": "Ether Breaking Out Ahead of Ethereum’s Shanghai Upgrade: Bernstein",
           "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/18039341/VanEck-CEO-Says-Gold-and-Bitcoin-BTC-in-Early-Stages-of-New-Multi-Year-Bull-Cycles",
           "author": null,
-          "description": "",
+          "description": "VanEck CEO Jan van Eck says both gold and Bitcoin (BTC) are likely to take off on huge multi-year bull cycles. In a new interview with CNBC, van Eck is forecasting that economic conditions are likely to increase the value of gold and Bitcoin which many investors view as a hedge against...",
           "link": "https://cryptopanic.com/news/18039341/VanEck-CEO-Says-Gold-and-Bitcoin-BTC-in-Early-Stages-of-New-Multi-Year-Bull-Cycles",
           "publishedOn": "2023-04-05T07:04:03.000Z",
-          "wordCount": null,
+          "wordCount": 532,
           "title": "VanEck CEO Says Gold and Bitcoin (BTC) in Early Stages of New Multi-Year Bull Cycles",
           "imageUrl": null
         },
@@ -1021,96 +1111,6 @@
           "wordCount": 529,
           "title": "Ether Jumps to Nine-Month High Ahead of Shapella, Liquid Staking Tokens Jump",
           "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18039311/Swiss-Govt-owned-PostFinance-Embraces-Crypto-in-Collaboration-with-Sygnum-Bank",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/18039311/Swiss-Govt-owned-PostFinance-Embraces-Crypto-in-Collaboration-with-Sygnum-Bank",
-          "publishedOn": "2023-04-05T07:00:46.000Z",
-          "wordCount": null,
-          "title": "Swiss Govt-owned PostFinance Embraces Crypto in Collaboration with Sygnum Bank",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18039040/Allbridge-to-first-begin-repaying-stuck-bridge-users-after-recouping-funds",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/18039040/Allbridge-to-first-begin-repaying-stuck-bridge-users-after-recouping-funds",
-          "publishedOn": "2023-04-05T06:51:12.000Z",
-          "wordCount": null,
-          "title": "Allbridge to first begin repaying stuck bridge users after recouping funds",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18039501/Ethereum-On-Chain-Activity-Cranks-Higher-1-Week-Before-Shanghai-Upgrade-Rollout",
-          "author": null,
-          "description": "Ethereum on-chain activity and prices have moved higher with just a week to go before the Shanghai upgrade.",
-          "link": "https://cryptopanic.com/news/18039501/Ethereum-On-Chain-Activity-Cranks-Higher-1-Week-Before-Shanghai-Upgrade-Rollout",
-          "publishedOn": "2023-04-05T06:50:42.000Z",
-          "wordCount": 528,
-          "title": "Ethereum On-Chain Activity Cranks Higher 1 Week Before Shanghai Upgrade Rollout",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18038420/AAVE-investors-can-savor-the-moment-as-the-protocol-has-these-plans-for",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/18038420/AAVE-investors-can-savor-the-moment-as-the-protocol-has-these-plans-for",
-          "publishedOn": "2023-04-05T06:30:00.000Z",
-          "wordCount": null,
-          "title": "AAVE investors can savor the moment as the protocol has these plans for…",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18038192/Bitcoin-Hodl-Patterns-Indicate-Cycle-Shift-to-Bull-Market",
-          "author": null,
-          "description": "On-chain analytics revealed a sentiment shift for BTC holders, suggesting a cycle inflection point could be occurring.",
-          "link": "https://cryptopanic.com/news/18038192/Bitcoin-Hodl-Patterns-Indicate-Cycle-Shift-to-Bull-Market",
-          "publishedOn": "2023-04-05T06:19:41.000Z",
-          "wordCount": 526,
-          "title": "Bitcoin Hodl Patterns Indicate Cycle Shift to Bull Market",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18037991/Swiss-Government-Owned-Bank-PostFinance-to-Offer-Customers-Crypto",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/18037991/Swiss-Government-Owned-Bank-PostFinance-to-Offer-Customers-Crypto",
-          "publishedOn": "2023-04-05T06:00:00.000Z",
-          "wordCount": null,
-          "title": "Swiss Government-Owned Bank PostFinance to Offer Customers Crypto",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18037806/Cash-App-creator-dies-following-stabbing-in-San-Francisco",
-          "author": null,
-          "description": "Bob Lee, the creator of Cash App and the former technology chief at Square, has died after an unknown attacker stabbed him.",
-          "link": "https://cryptopanic.com/news/18037806/Cash-App-creator-dies-following-stabbing-in-San-Francisco",
-          "publishedOn": "2023-04-05T05:51:13.000Z",
-          "wordCount": 526,
-          "title": "Cash App creator dies following stabbing in San Francisco",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18038079/Latin-Americas-Largest-Investment-Bank-Launches-Dollar-Pegged-Stablecoin",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/18038079/Latin-Americas-Largest-Investment-Bank-Launches-Dollar-Pegged-Stablecoin",
-          "publishedOn": "2023-04-05T05:49:28.000Z",
-          "wordCount": null,
-          "title": "Latin America’s Largest Investment Bank Launches Dollar-Pegged Stablecoin",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18037392/Breakout-or-retracement-Where-does-Bitcoin-BTC-head-next",
-          "author": null,
-          "description": "Bitcoin traders are bidding at lower levels much more than those expecting a quick upward run Volatility remains low as BTC struggles to find solid support With so many factors at play, from macroeconomic conditions to global regulatory changes, Bitcoin [BTC] has opted to stick with...",
-          "link": "https://cryptopanic.com/news/18037392/Breakout-or-retracement-Where-does-Bitcoin-BTC-head-next",
-          "publishedOn": "2023-04-05T05:30:41.000Z",
-          "wordCount": 526,
-          "title": "Breakout or retracement? Where does Bitcoin [BTC] head next",
-          "imageUrl": null
         }
       ]
     },
@@ -1120,12 +1120,47 @@
       "siteUrl": "https://www.inoreader.com/stream/user/1005336866/tag/%E6%B5%B7%E5%A4%96%E5%8A%A0%E5%AF%86%E8%B5%84%E8%AE%AF/view/html",
       "articles": [
         {
+          "id": "http://www.inoreader.com/article/3a9c6e75228fa4bc",
+          "author": "Oliver Knight",
+          "description": "Decentralized exchange (DEX) Uniswap has been forked by developers after its Business Source License (BSL) expired on April 1.",
+          "link": "https://www.coindesk.com/business/2023/04/05/developers-fork-uniswap-v3-protocol-attracts-123m-in-total-value-locked/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2023-04-05T08:55:25.000Z",
+          "wordCount": 8093,
+          "title": "Developers Fork Uniswap V3, Protocol Attracts $123M in Total Value Locked",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/jpeg",
+            "url": "https://www.coindesk.com/resizer/CYXo5fcqB_yP2XWoJ9TUwaj3q5E=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/Z3I2HMMBABCOJMIVKQT34UWXHI.jpg"
+          },
+          "imageUrl": "https://www.coindesk.com/resizer/CYXo5fcqB_yP2XWoJ9TUwaj3q5E=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/Z3I2HMMBABCOJMIVKQT34UWXHI.jpg"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e7522885d20",
+          "author": "Terence Zimwara",
+          "description": "Despite being touted as a game-changing innovation, the decentralized finance (defi) ecosystem is still not connected to fiat rails largely because of regulatory and compliance issues, Torsten Stuber, the CTO at Pendulum says. According to Stuber, the defi ecosystem will succeed in getting more traditional financial institutions on board once “a substantial amount of liquidity needed to facilitate efficient trading” is in place. \n \nDefi’s Perceived Lack of Regulation a Barrier to Adoption\n \nIn addition, Stuber, whose firm uses the Polkadot blockchain to bring fiat networks to the decentralized finance ecosystem, suggested increased education and awareness as the other ways defi proponents can bring traditional financial institutions on board.\n \nThe Pendulum CTO also shared his views on cen…",
+          "link": "https://news.bitcoin.com/over-collateralization-can-help-mitigate-the-risk-of-stablecoin-depegging-pendulum-cto/",
+          "publishedOn": "2023-04-05T08:49:44.000Z",
+          "wordCount": 4700,
+          "title": "‘Over-Collateralization Can Help Mitigate the Risk of Stablecoin Depegging’ — Pendulum CTO",
+          "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2023/04/shutterstock_2097534004.jpg"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e7522891720",
+          "author": "Damian Chmiel",
+          "description": "<p class=\"MsoNormal\">The  \npublicly-listed cryptocurrency miner, Marathon Digital Holdings, Inc.  \n(NASDAQ:MARA) has announced its March and first quarter 2023 production  \nstatistics, showing a record number of Bitcoins (BTC) mined during the previous  \nmonth and the entire Q1. </p><p>Marathon Posts  \nRecord-Breaking Bitcoin Mining Numbers</p><p class=\"MsoNormal\">According  \nto Marathon Digital's press release from Tuesday, the crypto production reached  \na record 825 BTC, rising 21% month-over-month (MoM). Due to the higher <a href=\"https://www.financemagnates.com/terms/h/hash-rate/\" class=\"terms__main-term\" id=\"427967e8-9807-479a-b9d0-f5dcdee58c91\">hash rate</a>  \nthat increased by 64% in the previous quarter to 11.5 EH/s, the company was  \nable to close the three months ending 31 March…",
+          "link": "https://www.financemagnates.com//cryptocurrency/marathon-digital-mines-record-2195-bitcoins-in-q1-2023/",
+          "publishedOn": "2023-04-05T08:43:39.000Z",
+          "wordCount": 5997,
+          "title": "Marathon Digital Mines Record 2,195 Bitcoins in Q1 2023",
+          "imageUrl": "https://images.financemagnates.com/images/Mining_id_ff8f49c5-3343-48a2-a869-c6c647737355_size900.jpg"
+        },
+        {
           "id": "http://www.inoreader.com/article/3a9c6e7522762fe1",
           "author": "Omkar Godbole",
           "description": "The 1 million instantly withdrawable ether has become a point of concern for the market.",
           "link": "https://www.coindesk.com/markets/2023/04/05/ethereums-shanghai-upgrade-could-bring-24b-of-selling-pressure-to-ether-market/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-04-05T08:03:20.000Z",
-          "wordCount": 9370,
+          "wordCount": 9402,
           "title": "Ethereum's Shanghai Upgrade Could Bring $2.4B Selling Pressure to Ether: Observers",
           "enclosure": {
             "length": "1337",
@@ -1140,7 +1175,7 @@
           "description": "The rally in the price of ether is similar to the move seen before the blockchain’s last upgrade, the Merge, the report said.",
           "link": "https://www.coindesk.com/markets/2023/04/05/ether-breaking-out-ahead-of-ethereums-shanghai-upgrade-bernstein/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-04-05T07:53:56.000Z",
-          "wordCount": 8356,
+          "wordCount": 8371,
           "title": "Ether Breaking Out Ahead of Ethereum’s Shanghai Upgrade: Bernstein",
           "enclosure": {
             "length": "1337",
@@ -1155,7 +1190,7 @@
           "description": "<p>Binance has expanded its global presence by launching cryptocurrency exchange services in Argentina, a country that is struggling with excessive inflation, according to Reuters. The launch will allow Argentinians to purchase and sell cryptocurrencies directly with local pesos, which can be deposited to Binance via a <a href=\"https://www.financemagnates.com/fintech/payments/how-to-find-the-best-latin-america-market-payments-provider/\" target=\"_blank\" rel=\"follow\">local partner</a>.  \n</p><p>However, the Argentinan market is not entirely new for <a href=\"https://www.financemagnates.com/tag/binance/\" target=\"_blank\" rel=\"follow\">Binance</a>. The crypto exchange already offers peer-to-peer services, acting as an intermediary to match buyers and sellers.  \n</p><p>Argentina – A Perfect Countr…",
           "link": "https://www.financemagnates.com//cryptocurrency/binance-expands-crypto-services-in-inflation-hit-argentina/",
           "publishedOn": "2023-04-05T07:44:36.000Z",
-          "wordCount": 4088,
+          "wordCount": 4082,
           "title": "Binance Expands Crypto Services in Inflation-Hit Argentina",
           "imageUrl": "https://images.financemagnates.com/images/buenos-aires-argentina_id_d972418b-794e-4e06-b9d9-73779df32753_size900.jpg"
         },
@@ -1165,7 +1200,7 @@
           "description": "LSD sector tokens rose as much as 22% in the past 24 hours, data shows.",
           "link": "https://www.coindesk.com/markets/2023/04/05/ether-jumps-to-nine-month-high-ahead-of-shapella-liquid-staking-tokens-jump/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-04-05T07:13:44.000Z",
-          "wordCount": 9023,
+          "wordCount": 9043,
           "title": "Ether Jumps to Nine-Month High Ahead of Shapella, Liquid Staking Tokens Jump",
           "enclosure": {
             "length": "1337",
@@ -1180,7 +1215,7 @@
           "description": "Egon von Greyerz, market analyst and founder of Matterhorn Asset Management, is predicting the collapse of the central bank system in the next few years due to an increasing issuance of currency and debt. Von Greyerz states that in the face of an economy with no buyers, the only hedge will be tangible assets, including gold and silver.\nThe Collapse of ‘Everything’\nEgon von Greyerz, the founder of Matterhorn Asset Management, has recently expressed his worries about the situation of the central banking system in an article titled “The Everything Collapse,” where he details how the economy could collapse in the coming years, calling for people to hedge their savings in gold and silver.\nVon Greyerz states that the current macroeconomic problems are derived from the uncontrolled issuance of fi…",
           "link": "https://news.bitcoin.com/market-analyst-heralds-the-collapse-of-everything-calls-for-hedging-in-gold-and-silver-before-there-isnt-any-left/",
           "publishedOn": "2023-04-05T06:46:52.000Z",
-          "wordCount": 3563,
+          "wordCount": 3601,
           "title": "Market Analyst Heralds the Collapse of ‘Everything,’ Calls for Hedging in Gold and Silver Before There Isn’t Any Left",
           "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2023/04/shutterstock_2167678637.jpg"
         },
@@ -1190,7 +1225,7 @@
           "description": "PostFinance will begin offering its 2.5 million customers access to buy, store and sell Bitcoin (BTC) and Ethereum tokens (ETH), thanks to a partnership with Switzerland’s Sygnum Bank.",
           "link": "https://www.coindesk.com/business/2023/04/05/swiss-government-owned-bank-postfinance-to-offer-customers-crypto/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-04-05T06:14:06.000Z",
-          "wordCount": 8704,
+          "wordCount": 8705,
           "title": "Swiss Government-Owned Bank PostFinance to Offer Customers Crypto",
           "enclosure": {
             "length": "1337",
@@ -1205,7 +1240,7 @@
           "description": "The oversubscribed funding round will be used to expand Finst's range of products drive its international expansion plans.",
           "link": "https://www.coindesk.com/business/2023/04/05/deribit-parent-company-leads-44m-seed-funding-round-into-dutch-crypto-exchange-finst/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-04-05T05:18:25.000Z",
-          "wordCount": 7843,
+          "wordCount": 7863,
           "title": "Deribit Parent Company Leads $4.4M Seed Funding Round Into Dutch Crypto Exchange Finst",
           "enclosure": {
             "length": "1337",
@@ -1220,7 +1255,7 @@
           "description": "Fabio Panetta, a member of the executive board of the European Central Bank (ECB), has stated that companies increasing their profit margins could be helping to fuel inflation. In an interview with the New York Times, Panetta warned about the effect that companies increasing such margins could have on inflation levels in the long term.\nECB’s Panetta Links Profit Margins With Inflation\nFabio Panetta, a member of the executive board of the European Central Bank (ECB) and former deputy governor of the Bank of Italy, has brought attention to the effect that the rising profit margins of various companies could have over inflation levels. In an interview given to the New York Times on March 31, Panetta talked about these profits and price-setting practices, and their possible link with the high …",
           "link": "https://news.bitcoin.com/ecb-member-fabio-panetta-claims-rising-profit-margins-could-be-fueling-inflation/",
           "publishedOn": "2023-04-05T04:42:34.000Z",
-          "wordCount": 3501,
+          "wordCount": 3503,
           "title": "ECB Member Fabio Panetta Claims Rising Profit Margins Could Be Fueling Inflation",
           "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2023/04/shutterstock_2177169727.jpg"
         },
@@ -1230,7 +1265,7 @@
           "description": "A whitepaper for Civilization Kit, a decentralized bitcoin peer-to-peer marketplace that also allows users to build their own decentralized marketplaces, will be published in several weeks. Noones, a new “Bitcoin peer-to-peer super app for the Global South,” is already available in private beta.",
           "link": "https://www.coindesk.com/tech/2023/04/05/as-bitcoin-platform-paxful-closes-co-founder-youssef-talks-up-alternatives/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-04-05T04:25:02.000Z",
-          "wordCount": 9071,
+          "wordCount": 9075,
           "title": "As Bitcoin Platform Paxful Closes, Co-Founder Youssef Talks Up Alternatives",
           "enclosure": {
             "length": "1337",
@@ -1245,7 +1280,7 @@
           "description": "The U.S. Department of Justice (DOJ) says it has seized cryptocurrency worth over $112 million linked to fraudulent investment schemes known as “pig butchering.” According to court documents, the seized crypto accounts were allegedly “used to launder proceeds of various cryptocurrency confidence scams,” the Justice Department said.\n \n$112 Million in Crypto Seized by DOJ\n \nThe U.S. Department of Justice (DOJ) announced Monday that it has seized cryptocurrency worth more than $112 million “linked to cryptocurrency investment scams.” Noting that the Federal Bureau of Investigation (FBI) Phoenix Division is investigating this case, the announcement details:\n \n\nSeizure warrants for six virtual currency accounts were authorized by judges in the District of Arizona, the Central District of Califo…",
           "link": "https://news.bitcoin.com/us-justice-department-seizes-cryptocurrency-worth-112-million-in-pig-butchering-crackdown/",
           "publishedOn": "2023-04-05T02:41:55.000Z",
-          "wordCount": 3334,
+          "wordCount": 3330,
           "title": "US Justice Department Seizes Cryptocurrency Worth $112 Million in ‘Pig Butchering’ Crackdown",
           "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2023/04/doj-seizes-crypto.jpg"
         },
@@ -1255,7 +1290,7 @@
           "description": "ALSO: The head of markets for crypto research firm Delphi Digital said Binance's loss of market share has stemmed largely from its struggles with regulators. He also called bitcoin's current threshold at about $28K \"a tough spot.\"",
           "link": "https://www.coindesk.com/markets/2023/04/05/first-mover-asia-chilly-doge-while-bitcoin-simmers-over-286k/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-04-05T01:39:51.000Z",
-          "wordCount": 11700,
+          "wordCount": 11714,
           "title": "First Mover Asia: Chilly DOGE, While Bitcoin Simmers Over $28.6K",
           "enclosure": {
             "length": "1337",
@@ -1270,7 +1305,7 @@
           "description": "Authorities in South Korea have reportedly seized assets worth billions of won belonging to former representatives of Terraform Labs. The measure should prevent suspects in the case with the failed blockchain firm from selling property that may have been obtained with criminal proceeds. \n \nSouth Korean Law Enforcement Moves to Seize Terraform-Linked Real Estate, Report\n \nProsecutors in South Korea have so far established control over 210 billion won (nearly $160 million) in assets owned by employees and executives of Terraform Labs, the company behind the collapsed cryptocurrency luna and stablecoin terrausd, the national broadcaster KBS reported.\n \nThe property, mostly real estate, has been seized by the financial and securities crime joint investigation team of the Seoul Southern Distric…",
           "link": "https://news.bitcoin.com/seoul-takes-control-over-160-million-in-assets-of-former-terraform-employees-founder/",
           "publishedOn": "2023-04-05T00:41:26.000Z",
-          "wordCount": 3458,
+          "wordCount": 3410,
           "title": "Seoul Takes Control Over $160 Million in Assets of Former Terraform Employees, Founder",
           "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2023/04/shutterstock_2276676189.jpg"
         },
@@ -1280,7 +1315,7 @@
           "description": "Step into the Cosmic World of Gaming with BitspinCasino’s Welcome Offer of up to 3 BTC.\n \nA Cosmic Entrance: New Players Get up to Free\n \n\n \nBitspinCasino, the new online casino that promises to take players on a journey through the cosmos, has made a grand entrance into the online gaming world. The casino is offering an unbeatable welcome offer of up to for players to play for free. New players are being offered a whopping 110% deposit bonus for their first three deposits, with a chance to get up to on top of their deposits. This means that if a player deposits over the course of 3 deposits, they will receive an additional, resulting in a total of to play with at the casino. As if that wasn’t enough, new players will also receive 200 free spins to use on the Candy Monsta game and keep any…",
           "link": "https://news.bitcoin.com/get-your-game-on-unbeatable-welcome-offer-for-new-players-on-bitspincasino/",
           "publishedOn": "2023-04-04T23:43:05.000Z",
-          "wordCount": 3560,
+          "wordCount": 3556,
           "title": "Get Your Game On: Unbeatable Welcome Offer for New Players on BitSpinCasino",
           "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2022/09/newsimage1280x720.jpg"
         },
@@ -1320,7 +1355,7 @@
           "description": "In Coinbase's case, O'Leary said, it would be \"better to sit down and work it out\" with regulators, and if a \"U.S. regulator doesn't want staking or lending, so be it.\"",
           "link": "https://www.coindesk.com/policy/2023/04/04/shark-tanks-kevin-oleary-says-litigating-your-regulator-is-a-stupid-idea/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-04-04T22:16:24.000Z",
-          "wordCount": 9221,
+          "wordCount": 9233,
           "title": "'Shark Tank' Star Kevin O'Leary Says Litigating Your Crypto Regulator 'Really Stupid'",
           "enclosure": {
             "length": "1337",
@@ -1335,54 +1370,9 @@
           "description": "According to a message from Paxful Founder and CEO, Ray Youssef, the peer-to-peer bitcoin trading platform is suspending its marketplace, and the company is uncertain if it will return. Youssef cited challenges such as regulations and some key staff departures, but he also noted that he could not share the full story at this time.\n \nChallenges Cited by Paxful CEO Ray Youssef Explain Why the P2P Bitcoin Exchange Is Suspending Its Marketplace\n \nOn April 4, 2023, Paxful released a blog post stating that the peer-to-peer Bitcoin (P2P) exchange is suspending its operations. “Today, Paxful will be suspending its marketplace,” said the trading platform’s CEO, Ray Youssef. “We are not sure if it will come back,” he added. Youssef continued by saying that the suspension may come as a shock to many …",
           "link": "https://news.bitcoin.com/p2p-bitcoin-exchange-paxful-suspends-marketplace-with-uncertainty-of-return/",
           "publishedOn": "2023-04-04T21:43:18.000Z",
-          "wordCount": 3379,
+          "wordCount": 3380,
           "title": "P2P Bitcoin Exchange Paxful Suspends Marketplace With Uncertainty of Return",
           "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2023/04/paxxxx.jpg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e752249c912",
-          "author": "Samuel Edyme",
-          "description": "A month after pleading guilty to a case involving the insider trading of cryptocurrencies on the Coinbase exchange, a former employee seems to be near a settlement deal with the US Securities and Exchange Commission (SEC).\n \nThis comes amid Coinbase ongoing situation with the SEC. Last week, the exchange received a Wells notice – a letter suggesting a looming lawsuit for securities law violation – from the same US-based regulator.\n \n \nEx-Employee And The SEC Nears Deal\n \nIshan Wahi, who was once a product manager at Coinbase, is still in a legal battle with the SEC following the regulator charges against him for allegedly committing insider trading of cryptocurrencies on the platform. Wahi was accused alongside his brother Nikhil Wahi and a close friend. \n \nAccording to a report from Reute…",
-          "link": "https://bitcoinist.com/former-coinbase-employee-nears-settlement-with-sec/",
-          "publishedOn": "2023-04-04T21:38:37.000Z",
-          "wordCount": 4671,
-          "title": "Former Coinbase Employee Accused Of Insider Trading Nears Settlement With SEC",
-          "enclosure": {
-            "length": "1337",
-            "type": "image/jpeg",
-            "url": "https://bitcoinist.com/wp-content/uploads/2023/04/Coinbase-588x420.jpeg"
-          },
-          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2023/04/Coinbase-588x420.jpeg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e75224b3749",
-          "author": "Krisztian  Sandor",
-          "description": "Tokenized gold is a type of stablecoin that pegs its price to gold, while the tokens on the blockchain represent ownership of physical gold managed by the issuer.",
-          "link": "https://www.coindesk.com/markets/2023/04/04/tokenized-gold-surpasses-1b-in-market-cap-as-gold-price-nears-all-time-high/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-          "publishedOn": "2023-04-04T21:23:54.000Z",
-          "wordCount": 8464,
-          "title": "Tokenized Gold Surpasses $1B in Market Cap as Gold Price Nears All-Time High",
-          "enclosure": {
-            "length": "1337",
-            "type": "image/jpeg",
-            "url": "https://www.coindesk.com/resizer/OtWSqm_WQferqZmrIiLRbHisyf4=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/7OM7KCG3N5FVBHTHKNE3Y7WMWI.jpg"
-          },
-          "imageUrl": "https://www.coindesk.com/resizer/OtWSqm_WQferqZmrIiLRbHisyf4=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/7OM7KCG3N5FVBHTHKNE3Y7WMWI.jpg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e752235734d",
-          "author": "Jocelyn Yang",
-          "description": "Fund managers have added about 4,000 bitcoins in recent weeks.",
-          "link": "https://www.coindesk.com/markets/2023/04/04/crypto-funds-bitcoin-holdings-rise-as-investor-demand-rebounds/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-          "publishedOn": "2023-04-04T21:02:16.000Z",
-          "wordCount": 8337,
-          "title": "Crypto Funds’ Bitcoin Holdings Rise as Investor Demand Rebounds",
-          "enclosure": {
-            "length": "1337",
-            "type": "image/jpeg",
-            "url": "https://www.coindesk.com/resizer/-RCPJq-D6BeAPIXQmBXI4AKDrco=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/IKCGYOFFPNBDFEVXC7S5ADT3JQ.jpg"
-          },
-          "imageUrl": "https://www.coindesk.com/resizer/-RCPJq-D6BeAPIXQmBXI4AKDrco=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/IKCGYOFFPNBDFEVXC7S5ADT3JQ.jpg"
         }
       ]
     }

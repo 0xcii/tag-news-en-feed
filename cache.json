@@ -6,6 +6,21 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=126009",
+          "author": "Alyssa Hertig",
+          "description": "The former head of PayPal and co-creator of Diem announces a new open payment protocol.",
+          "link": "https://decrypt.co/126009/david-marcuss-lightspark-unveils-lightning-platform-for-businesses",
+          "publishedOn": "2023-04-11T21:47:30.000Z",
+          "wordCount": 8302,
+          "title": "David Marcus's Lightspark Unveils Bitcoin Lightning Platform for Business",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/04/Lightspark-Xapo-Bank-gID_7.jpg@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/04/Lightspark-Xapo-Bank-gID_7.jpg@png"
+        },
+        {
           "id": "https://decrypt.co/?p=126006",
           "author": "Mathew Di Salvo",
           "description": "Over 53% of coins ever minted haven’t budged for more than two years, new data shows.",
@@ -651,21 +666,6 @@
           "imageUrl": "https://cdn.jwplayer.com/v2/media/LGxyFJP5/poster.jpg"
         },
         {
-          "id": "https://decrypt.co/?p=125653",
-          "author": "Sander Lutz",
-          "description": "The never-before-heard version of Bowie's hit \"Let’s Dance\" will be sold via pay-what-you-want NFTs from Gala Music and benefit charity.",
-          "link": "https://decrypt.co/125653/unreleased-david-bowie-recording-debut-music-nft",
-          "publishedOn": "2023-04-06T23:28:46.000Z",
-          "wordCount": 9312,
-          "title": "Unreleased David Bowie Recording to Debut as Music NFT",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/04/bowie-gala-nft-gID_7.png@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/04/bowie-gala-nft-gID_7.png@png"
-        },
-        {
           "id": "https://decrypt.co/videos/interviews/5AGD2ifd/gm-canadian-bitcoin-miner-hut-8-is-heading-west",
           "author": null,
           "description": "Toronto-based Bitcoin mining company Hut 8 recently announced a merger with U.S. Bitcoin Corp that will take it into Texas, Nebraska, and New York. Hut 8 CEO Jaime Leverton joined Dan Roberts and Stacy Elliott to talk expanding into the U.S., dealing with regulatory pushback post-FTX, why Texas is such a hotspot, and where she'd like to expand globally down the road (the climates may surprise you). Watch and make sure to subscribe to the gm podcast on Apple or Spotify.",
@@ -853,14 +853,194 @@
       "siteUrl": "https://cryptopanic.com/",
       "articles": [
         {
+          "id": "https://cryptopanic.com/news/18086896/Best-Selling-Author-Ric-Edelman-Reveals-Crypto-Portfolio-Strategy-Says-He-Holds-More-Ethereum-Than-Bitcoin",
+          "author": null,
+          "description": "Personal finance author and investor Ric Edelman has outlined his top strategy for navigating the digital asset markets. Edelman, who is also the founder of the Digital Assets Council of Financial Professionals (DACFP), says in a new Real Vision interview that he’s currently “overweight” in his...",
+          "link": "https://cryptopanic.com/news/18086896/Best-Selling-Author-Ric-Edelman-Reveals-Crypto-Portfolio-Strategy-Says-He-Holds-More-Ethereum-Than-Bitcoin",
+          "publishedOn": "2023-04-11T22:01:03.000Z",
+          "wordCount": 532,
+          "title": "Best-Selling Author Ric Edelman Reveals Crypto Portfolio Strategy, Says He Holds More Ethereum Than Bitcoin",
+          "imageUrl": "https://dailyhodl.com/wp-content/uploads/2022/08/Ethereums-Main-Backer-Announces.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/18086892/The-feds-must-rein-in-crypto-financed-terrorism",
+          "author": null,
+          "description": "Government should develop Know Your Customer procedures for social media and messaging services and take stronger measures to track cryptocurrency transactions.",
+          "link": "https://cryptopanic.com/news/18086892/The-feds-must-rein-in-crypto-financed-terrorism",
+          "publishedOn": "2023-04-11T21:57:37.000Z",
+          "wordCount": 524,
+          "title": "The feds must rein in crypto-financed terrorism",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18086876/GPT-4-apps-BabyAGI-and-AutoGPT-could-have-disruptive-implications-for-crypto",
+          "author": null,
+          "description": "Crypto users are getting excited over the prospect of automating their trades with future-facing technologies built with the GPT-4 API.",
+          "link": "https://cryptopanic.com/news/18086876/GPT-4-apps-BabyAGI-and-AutoGPT-could-have-disruptive-implications-for-crypto",
+          "publishedOn": "2023-04-11T21:55:00.000Z",
+          "wordCount": 528,
+          "title": "GPT-4 apps BabyAGI and AutoGPT could have disruptive implications for crypto",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18086874/Sen-Warren-Rep-AOC-Ask-Circle-BlockFi-Why-They-Banked-at-SVB",
+          "author": null,
+          "description": "Sen. Elizabeth Warren (D-Mass.) and Congresswoman Alexandria Ocasio-Cortez (D-New York) want to know why crypto companies, like bankrupt crypto lender BlockFi and stablecoin issuer Circle, banked at now-collapsed Silicon Valley Bank.",
+          "link": "https://cryptopanic.com/news/18086874/Sen-Warren-Rep-AOC-Ask-Circle-BlockFi-Why-They-Banked-at-SVB",
+          "publishedOn": "2023-04-11T21:54:59.000Z",
+          "wordCount": 529,
+          "title": "Sen. Warren, Rep. AOC Ask Circle, BlockFi Why They Banked at SVB",
+          "imageUrl": "https://www.coindesk.com/resizer/zVVyj0ThEwRZtX4MeorY2gSW7kI=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/AIFZSDHJGVHTXCPUY6O6XIXTSY.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/18086877/Core-Scientific-debtors-petition-bankruptcy-court-to-approve-new-president",
+          "author": null,
+          "description": "The debtors appointed Adam Sullivan, a managing director at investment banking firm XMS Capital Partners, to assume the role of president amid the firm’s bankruptcy proceedings.",
+          "link": "https://cryptopanic.com/news/18086877/Core-Scientific-debtors-petition-bankruptcy-court-to-approve-new-president",
+          "publishedOn": "2023-04-11T21:50:43.000Z",
+          "wordCount": 527,
+          "title": "Core Scientific debtors petition bankruptcy court to approve new president",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18086875/Gaming-Tech-Company-Razer-Introduces-Web3-Venture-Fund",
+          "author": null,
+          "description": "The fund, called zVentures Web3 Incubator, will leverage its expertise to grow early-stage projects building blockchain-based gaming infrastructure.",
+          "link": "https://cryptopanic.com/news/18086875/Gaming-Tech-Company-Razer-Introduces-Web3-Venture-Fund",
+          "publishedOn": "2023-04-11T21:48:41.000Z",
+          "wordCount": 525,
+          "title": "Gaming Tech Company Razer Introduces Web3 Venture Fund",
+          "imageUrl": "https://www.coindesk.com/resizer/gD_8IMGwD6-8GThkUJ7rBSADSTA=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/C4L7S2R7CBB5NOFHVVVVMVANMI.jpeg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/18086871/Stablecoin-less-preferable-form-of-tokenized-money-BIS-paper-finds",
+          "author": null,
+          "description": "Bearer instruments such as stablecoin harken back to the days of pre-central bank “free banking,” with all the risks that implies, a BIS working paper says.",
+          "link": "https://cryptopanic.com/news/18086871/Stablecoin-less-preferable-form-of-tokenized-money-BIS-paper-finds",
+          "publishedOn": "2023-04-11T21:47:10.000Z",
+          "wordCount": 527,
+          "title": "Stablecoin less preferable form of tokenized money, BIS paper finds",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18086872/Coinbase-wins-470K-from-insider-trading-case",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/18086872/Coinbase-wins-470K-from-insider-trading-case",
+          "publishedOn": "2023-04-11T21:43:33.000Z",
+          "wordCount": null,
+          "title": "Coinbase wins $470K from insider trading case",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18086869/BITCOIN-I-Bet-My-Life-On-It",
+          "author": null,
+          "description": "Anthony Pompliano went on Fox Business today to break down what's going on in the bitcoin market as bitcoin skyrockets past $30k. Pomp writes a daily letter to over 200,000+ investors about business, technology, and finance. He breaks down complex topics into easy-to-understand language while...",
+          "link": "https://cryptopanic.com/news/18086869/BITCOIN-I-Bet-My-Life-On-It",
+          "publishedOn": "2023-04-11T21:37:29.000Z",
+          "wordCount": 524,
+          "title": "BITCOIN: “I Bet My Life On It”",
+          "imageUrl": "https://i4.ytimg.com/vi/SSqqsy10XOQ/hqdefault.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/18086859/Bankman-Fried-wants-FTX-insurance-payout-for-legal-defense-He-may-get-paid-long-before-his-bilked-customers",
+          "author": null,
+          "description": "Sam Bankman-Fried, accused of fraud, claims it would be 'unequal and unfair' to deny him access to a $10 million insurance policy FTX took out to protect its executives.",
+          "link": "https://cryptopanic.com/news/18086859/Bankman-Fried-wants-FTX-insurance-payout-for-legal-defense-He-may-get-paid-long-before-his-bilked-customers",
+          "publishedOn": "2023-04-11T21:34:44.000Z",
+          "wordCount": 534,
+          "title": "Bankman-Fried wants FTX insurance payout for legal defense. He may get paid long before his bilked customers",
+          "imageUrl": "https://www.tbstat.com/wp/uploads/2022/11/20221109_SBF_CZ2-1200x675.png"
+        },
+        {
+          "id": "https://cryptopanic.com/news/18086853/Riot-Defends-Bitcoin-Mining-Against-NYTs-False-Allegations",
+          "author": null,
+          "description": "Bitcoin (BTC) mining has faced increasing scrutiny from the US government and environmental critics in recent years. Certain groups raised concerns that the energy consumption required for validating transactions on the network contributes to global carbon emissions. A recent article by The New...",
+          "link": "https://cryptopanic.com/news/18086853/Riot-Defends-Bitcoin-Mining-Against-NYTs-False-Allegations",
+          "publishedOn": "2023-04-11T21:30:59.000Z",
+          "wordCount": 525,
+          "title": "Riot Defends Bitcoin Mining Against NYT’s “False” Allegations",
+          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2023/04/CNTGZdkj.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/18086850/All-about-Polygons-recovery-downsides-and-the-likelihood-of-another-upswing",
+          "author": null,
+          "description": "MATIC could approach another high similar to its 2021 uptrend. The token’s supply on exchange is close to its highest ever. Like most cryptocurrencies, Polygon [MATIC] has experienced a significant price increase in recent times. But after the period of recovery for most of Q1, the token of the...",
+          "link": "https://cryptopanic.com/news/18086850/All-about-Polygons-recovery-downsides-and-the-likelihood-of-another-upswing",
+          "publishedOn": "2023-04-11T21:30:16.000Z",
+          "wordCount": 528,
+          "title": "All about Polygon’s recovery, downsides, and the likelihood of another upswing",
+          "imageUrl": "https://statics.ambcrypto.com/wp-content/uploads/2023/04/po-2023-04-11T093313.671.png"
+        },
+        {
+          "id": "https://cryptopanic.com/news/18086858/Greg-Foss-Why-is-the-Bitcoin-Price-so-Low",
+          "author": null,
+          "description": "James Lavish and Greg Foss talk what they think is the true valution of bitcoin, why the porice is so low if the world is waking up & why people are escaping traditional finance.Full Video - https://youtube.com/live/nozuITj30MI?feature=sharePowered by: Swan Bitcoin► https://www.swanbitcoin.com►...",
+          "link": "https://cryptopanic.com/news/18086858/Greg-Foss-Why-is-the-Bitcoin-Price-so-Low",
+          "publishedOn": "2023-04-11T21:21:00.000Z",
+          "wordCount": 526,
+          "title": "Greg Foss: Why is the Bitcoin Price so Low?",
+          "imageUrl": "https://i4.ytimg.com/vi/k4I3SSLAXiY/hqdefault.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/18086836/Ethereums-Shanghai-Upgrade-Heres-Our-Guide-to-Watch-Parties-Blockchain-Tools",
+          "author": null,
+          "description": "Various factions of the Ethereum community are planning watch parties to witness the first-ever withdrawals of staked ether, with the blockchain's Shanghai upgrade (aka \"Shapella\") set for Wednesday at 22:27 coordinated universal time (6:27 p.m. ET).",
+          "link": "https://cryptopanic.com/news/18086836/Ethereums-Shanghai-Upgrade-Heres-Our-Guide-to-Watch-Parties-Blockchain-Tools",
+          "publishedOn": "2023-04-11T21:17:11.000Z",
+          "wordCount": 528,
+          "title": "Ethereum’s Shanghai Upgrade: Here’s Our Guide to Watch Parties, Blockchain Tools",
+          "imageUrl": "https://www.coindesk.com/resizer/2HSyyxPSDOG4ETy9ky-0_sGmUpw=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/MARPYDPSGBBHHAWHXDKO67HEZM.jpeg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/18086831/Uniswap-funds-DAO-incentive-improvement-project",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/18086831/Uniswap-funds-DAO-incentive-improvement-project",
+          "publishedOn": "2023-04-11T21:13:58.000Z",
+          "wordCount": null,
+          "title": "Uniswap funds DAO incentive improvement project",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18086830/ROOK-Investors-Aim-to-Rage-Quit-Through-Plan-to-Liquidate-25M-Crypto-Treasury",
+          "author": null,
+          "description": "Their vote could hand ROOK token holders a big payout.",
+          "link": "https://cryptopanic.com/news/18086830/ROOK-Investors-Aim-to-Rage-Quit-Through-Plan-to-Liquidate-25M-Crypto-Treasury",
+          "publishedOn": "2023-04-11T21:10:17.000Z",
+          "wordCount": 530,
+          "title": "ROOK Investors Aim to ‘Rage Quit’ Through Plan to Liquidate $25M Crypto Treasury",
+          "imageUrl": "https://www.coindesk.com/resizer/Hp-FcAlbwB9E9EpkWLyxewciDj4=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/AR72V4YTZ5B55B62524M63FVS4.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/18086852/Should-Tech-and-Crypto-Innovators-Avoid-San-Francisco",
+          "author": null,
+          "description": "San Francisco has been a tech hub for decades. The city is home to many leading crypto companies. Ripple, Coinbase, Solana Labs, Oasis Labs, Anchorage Digital, Venture Aviator, The Black Box and CoinList all reside there. But its reputation is in a downward spiral as heinous crimes make...",
+          "link": "https://cryptopanic.com/news/18086852/Should-Tech-and-Crypto-Innovators-Avoid-San-Francisco",
+          "publishedOn": "2023-04-11T21:04:40.000Z",
+          "wordCount": 525,
+          "title": "Should Tech and Crypto Innovators Avoid San Francisco?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18086818/Analyst-Issues-Critical-Polkadot-DOT-Warning-Says-Ethereum-Rival-in-Major-Predicament",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/18086818/Analyst-Issues-Critical-Polkadot-DOT-Warning-Says-Ethereum-Rival-in-Major-Predicament",
+          "publishedOn": "2023-04-11T21:04:00.000Z",
+          "wordCount": null,
+          "title": "Analyst Issues Critical Polkadot (DOT) Warning, Says Ethereum Rival in Major Predicament",
+          "imageUrl": null
+        },
+        {
           "id": "https://cryptopanic.com/news/18086815/Top-7-ChatGPT-Features-to-Help-Crypto-Investors-Stay-Ahead-of-the-Game",
           "author": null,
-          "description": "Discover how ChatGPT can give you the edge you need to thrive in the ever-evolving world of cryptocurrencies. Introduction ChatGPT, an advanced language model developed by OpenAI, has become increasingly popular among various industries, including the rapidly growing crypto investment space. In...",
+          "description": "",
           "link": "https://cryptopanic.com/news/18086815/Top-7-ChatGPT-Features-to-Help-Crypto-Investors-Stay-Ahead-of-the-Game",
           "publishedOn": "2023-04-11T21:00:28.000Z",
-          "wordCount": 530,
+          "wordCount": null,
           "title": "Top 7 ChatGPT Features to Help Crypto Investors Stay Ahead of the Game",
-          "imageUrl": "https://cryptoglobe.s3.eu-west-2.amazonaws.com/2023/04/ChatGPT-robot-3-768x430.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/18086817/More-Bitcoin-Than-Ever-Is-Now-DormantHeres-What-That-Means",
@@ -871,186 +1051,6 @@
           "wordCount": 527,
           "title": "More Bitcoin Than Ever Is Now ‘Dormant’—Here’s What That Means",
           "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/09/bitcoin-stacks-shutterstock-gID_7.jpg@png"
-        },
-        {
-          "id": "https://cryptopanic.com/news/18086809/CONFIRMED-This-Crypto-RALLY-is-NOT-a-FAKEOUT-50X-Crypto-AI-Token",
-          "author": null,
-          "description": "Bitcoin has broken the $30k mark and this Rally may not be a fakeout! ChainGPT AI token has just 50xed and more news comes out regard FTX and their management. Ethereum Shanghai upgrade goes live tomorrow along with U.S CPI and an Aptos token unlock! 🚀Find the most undervalued gems, up-to-date...",
-          "link": "https://cryptopanic.com/news/18086809/CONFIRMED-This-Crypto-RALLY-is-NOT-a-FAKEOUT-50X-Crypto-AI-Token",
-          "publishedOn": "2023-04-11T21:00:12.000Z",
-          "wordCount": 530,
-          "title": "CONFIRMED!! This Crypto RALLY is NOT a FAKEOUT | 50X Crypto AI Token",
-          "imageUrl": "https://i3.ytimg.com/vi/FrNJnwsc0DM/hqdefault.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/18086793/Diana-Biggs-Building-Early-Stage-Ventures-in-Web3",
-          "author": null,
-          "description": "Now a partner at venture fund 1kx, Biggs is a nine-year crypto veteran. She's bullish on early-stage companies and a speaker at our Consensus festival.",
-          "link": "https://cryptopanic.com/news/18086793/Diana-Biggs-Building-Early-Stage-Ventures-in-Web3",
-          "publishedOn": "2023-04-11T20:51:43.000Z",
-          "wordCount": 524,
-          "title": "Diana Biggs: Building Early-Stage Ventures in Web3",
-          "imageUrl": "https://www.coindesk.com/resizer/5LbA8ud3S9TcvonyM94KcNKUheU=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/G3VZ5TWOPBG2JM5QXNH4VUL2ZY.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/18086796/Justin-Sun-Denies-Rumors-Of-His-Arrest-In-Hong-Kong",
-          "author": null,
-          "description": "Tron founder Justin Sun has denied the rumors claiming that he got arrested in Hong Kong earlier today.",
-          "link": "https://cryptopanic.com/news/18086796/Justin-Sun-Denies-Rumors-Of-His-Arrest-In-Hong-Kong",
-          "publishedOn": "2023-04-11T20:50:49.000Z",
-          "wordCount": 527,
-          "title": "Justin Sun Denies Rumors Of His Arrest In Hong Kong",
-          "imageUrl": "https://en.ethereumworldnews.com/wp-content/uploads/2023/04/new_DSC05734-1024x683.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/18086810/The-UK-and-EU-May-Be-Sharply-Diverging-on-CBDCs",
-          "author": null,
-          "description": "Last week, a prank call with the ECB’s Christine Lagarde revealed that the upcoming CBDC will have controls on how it is spent.",
-          "link": "https://cryptopanic.com/news/18086810/The-UK-and-EU-May-Be-Sharply-Diverging-on-CBDCs",
-          "publishedOn": "2023-04-11T20:49:59.000Z",
-          "wordCount": 527,
-          "title": "The UK and EU May Be Sharply Diverging on CBDCs",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18086790/Wyoming-defends-crypto-friendly-bank-charter-regime-in-Custodia-Banks-lawsuit-with-Fed",
-          "author": null,
-          "description": "“The State of Wyoming believes that this changes the tenor of the suit and in turn questions the legitimacy and viability of the State’s statutory framework,\" said AG Bridget Hill.",
-          "link": "https://cryptopanic.com/news/18086790/Wyoming-defends-crypto-friendly-bank-charter-regime-in-Custodia-Banks-lawsuit-with-Fed",
-          "publishedOn": "2023-04-11T20:37:56.000Z",
-          "wordCount": 529,
-          "title": "Wyoming defends crypto-friendly bank charter regime in Custodia Bank's lawsuit with Fed",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18086775/Glassnode-Ethereum-Beacon-Chain-Has-Unrealized-Losses-Of-47-Billion",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/18086775/Glassnode-Ethereum-Beacon-Chain-Has-Unrealized-Losses-Of-47-Billion",
-          "publishedOn": "2023-04-11T20:30:21.000Z",
-          "wordCount": null,
-          "title": "Glassnode: Ethereum Beacon Chain Has Unrealized Losses Of $4.7 Billion",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18086762/Ripple-Lawsuit-Has-The-SEC-Failed-to-Legally-Prove-That-XRP-Is-A-Security-This-Web3-Lawyer-Thinks-So",
-          "author": null,
-          "description": "As the case between the U.S. Securities and Exchange Commission (SEC) and Ripple/XRP hits its closing stages, industry experts have expressed their opinion on the developments recorded so far.",
-          "link": "https://cryptopanic.com/news/18086762/Ripple-Lawsuit-Has-The-SEC-Failed-to-Legally-Prove-That-XRP-Is-A-Security-This-Web3-Lawyer-Thinks-So",
-          "publishedOn": "2023-04-11T20:26:59.000Z",
-          "wordCount": 537,
-          "title": "Ripple Lawsuit: Has The SEC Failed to Legally Prove That XRP Is A Security? — This Web3 Lawyer Thinks So",
-          "imageUrl": "https://zycrypto.com/wp-content/uploads/2023/02/Why-Pro-Ripple-Lawyer-Says-XRP-Cant-Be-Classed-As-A-Security-Even-If-It-Was-Sold-As-One.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/18086748/Shorts-Obliterated-as-Bitcoin-Surges-Through-30K-Here-is-the-Next-Key-BTC-Price-Target-to-Watch",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/18086748/Shorts-Obliterated-as-Bitcoin-Surges-Through-30K-Here-is-the-Next-Key-BTC-Price-Target-to-Watch",
-          "publishedOn": "2023-04-11T20:22:00.000Z",
-          "wordCount": null,
-          "title": "Shorts Obliterated as Bitcoin Surges Through $30K, Here is the Next Key BTC Price Target to Watch",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18086740/CoFund-tokenizes-10M-hotel-in-Bali-via-Tokeny",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/18086740/CoFund-tokenizes-10M-hotel-in-Bali-via-Tokeny",
-          "publishedOn": "2023-04-11T20:18:30.000Z",
-          "wordCount": null,
-          "title": "CoFund tokenizes $10M hotel in Bali via Tokeny",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18086739/Crypto-Miner-Core-Scientific-Appoints-a-New-President",
-          "author": null,
-          "description": "Crypto hosting and mining company Core Scientific (CORZ) has appointed crypto veteran Adam Sullivan as its new president, a court filing shows.",
-          "link": "https://cryptopanic.com/news/18086739/Crypto-Miner-Core-Scientific-Appoints-a-New-President",
-          "publishedOn": "2023-04-11T20:08:10.000Z",
-          "wordCount": 525,
-          "title": "Crypto Miner Core Scientific Appoints a New President",
-          "imageUrl": "https://www.coindesk.com/resizer/Z2t0aZckK-NguhtKw5pBgzoF1EM=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/ZALBTSGRRFCNXIVEYOURNMCWFM.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/18086728/Crypto-Giant-Bitget-Launches-100000000-Fund-To-Support-New-Asian-Crypto-Projects",
-          "author": null,
-          "description": "Crypto trading platform Bitget is launching a $100 million fund to invest in Asia-based Web3 startup projects. In a new press release, Bitget says its new “Web3 Fund” will target crypto projects in Asia that have an experienced team and a focus on real-world use cases. Says Gracy Chen, Bitget’s...",
-          "link": "https://cryptopanic.com/news/18086728/Crypto-Giant-Bitget-Launches-100000000-Fund-To-Support-New-Asian-Crypto-Projects",
-          "publishedOn": "2023-04-11T20:00:53.000Z",
-          "wordCount": 529,
-          "title": "Crypto Giant Bitget Launches $100,000,000 Fund To Support New Asian Crypto Projects",
-          "imageUrl": "https://dailyhodl.com/wp-content/uploads/2023/04/giant-bitget-fund-support.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/18086721/The-Cosmic-Consequences-of-Bitcoin-Mining-Tensions-With-the-Quest-for-Alien-Life",
-          "author": null,
-          "description": "Explore the unforeseen consequences of Bitcoin mining on SETI research and the pursuit of extraterrestrial life, as GPU shortages create challenges for scientists and other industries.",
-          "link": "https://cryptopanic.com/news/18086721/The-Cosmic-Consequences-of-Bitcoin-Mining-Tensions-With-the-Quest-for-Alien-Life",
-          "publishedOn": "2023-04-11T20:00:01.000Z",
-          "wordCount": 530,
-          "title": "The Cosmic Consequences of Bitcoin Mining: Tensions With the Quest for Alien Life",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18086703/Bitcoin-About-To-Run-to-All-Time-Highs-Quicker-Than-Everyone-Expects-Says-Popular-Analyst-Heres-His-Timeline",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/18086703/Bitcoin-About-To-Run-to-All-Time-Highs-Quicker-Than-Everyone-Expects-Says-Popular-Analyst-Heres-His-Timeline",
-          "publishedOn": "2023-04-11T19:55:22.000Z",
-          "wordCount": null,
-          "title": "Bitcoin About To Run to All-Time Highs Quicker Than Everyone Expects, Says Popular Analyst – Here’s His Timeline",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18086690/Bitcoin-Developers-Propose-Hierarchical-Channels-To-Boost-Lightning-Network-Scalability",
-          "author": null,
-          "description": "With hierarchical channels, Lightning may overcome its scalability limitations by enabling quick and flexible off-chain resizing of channels.",
-          "link": "https://cryptopanic.com/news/18086690/Bitcoin-Developers-Propose-Hierarchical-Channels-To-Boost-Lightning-Network-Scalability",
-          "publishedOn": "2023-04-11T19:43:56.000Z",
-          "wordCount": 527,
-          "title": "Bitcoin Developers Propose Hierarchical Channels To Boost Lightning Network Scalability",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18086691/El-Salvador-Grants-First-Digital-Asset-License-to-Bitfinex",
-          "author": null,
-          "description": "Tokenized shares and yield-bearing assets are potential products that could be launched under the new regulatory framework approved by the Central American country.",
-          "link": "https://cryptopanic.com/news/18086691/El-Salvador-Grants-First-Digital-Asset-License-to-Bitfinex",
-          "publishedOn": "2023-04-11T19:38:43.000Z",
-          "wordCount": 526,
-          "title": "El Salvador Grants First Digital Asset License to Bitfinex",
-          "imageUrl": "https://www.coindesk.com/resizer/QeKaBnnDfkqf_yYARD5PGe9OfQs=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/3EXKPXOBYJCPZHO6TWZHCVJQZI.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/18086650/Bitcoin-continues-to-shine-with-98-of-inflows-into-crypto-investment-products",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/18086650/Bitcoin-continues-to-shine-with-98-of-inflows-into-crypto-investment-products",
-          "publishedOn": "2023-04-11T19:30:00.000Z",
-          "wordCount": null,
-          "title": "Bitcoin continues to shine with 98% of inflows into crypto investment products",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18086679/Bitcoin-Price-Prediction-as-BTC-Blasts-Past-30000-Critical-Level-What-Happens-Next",
-          "author": null,
-          "description": "Bitcoin's meteoric rise continues to captivate the financial world as the leading cryptocurrency has recently blasted past the critical $30,000 milestone. With this unprecedented surge in value, crypto enthusiasts are keenly watching the market, seeking to predict the future of Bitcoin. ... Read...",
-          "link": "https://cryptopanic.com/news/18086679/Bitcoin-Price-Prediction-as-BTC-Blasts-Past-30000-Critical-Level-What-Happens-Next",
-          "publishedOn": "2023-04-11T19:27:00.000Z",
-          "wordCount": 531,
-          "title": "Bitcoin Price Prediction as BTC Blasts Past $30,000 Critical Level – What Happens Next?",
-          "imageUrl": "https://v2.cimg.co/news/110085/266773/11.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/18086742/Users-Choose-Tron-and-BNB-Chain-Over-Ethereum-Despite-Falling-Fees",
-          "author": null,
-          "description": "Ethereum is the only major chain to lose users in the bear market.",
-          "link": "https://cryptopanic.com/news/18086742/Users-Choose-Tron-and-BNB-Chain-Over-Ethereum-Despite-Falling-Fees",
-          "publishedOn": "2023-04-11T19:26:09.000Z",
-          "wordCount": 528,
-          "title": "Users Choose Tron and BNB Chain Over Ethereum Despite Falling Fees",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/04/11152601/ETHUsersDecrease.jpg"
         }
       ]
     },
@@ -1059,6 +1059,121 @@
       "feedUrl": "https://www.inoreader.com/stream/user/1005336866/tag/%E6%B5%B7%E5%A4%96%E5%8A%A0%E5%AF%86%E8%B5%84%E8%AE%AF",
       "siteUrl": "https://www.inoreader.com/stream/user/1005336866/tag/%E6%B5%B7%E5%A4%96%E5%8A%A0%E5%AF%86%E8%B5%84%E8%AE%AF/view/html",
       "articles": [
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e752674d98f",
+          "author": "Lubomir Tassev",
+          "description": "The annual inflation rate in China has unexpectedly slowed down in March to its lowest level in a year and a half, the latest statistical data indicates. On a monthly basis, consumer prices decreased for a second consecutive month, despite estimates suggesting they will remain unchanged.\n \nPost Zero-Covid Policy Inflation in China Eases Further\n \nChina’s annual inflation rate fell to 0.7% in March, from February’s 1.0%, according to official numbers released by the National Bureau of Statistics. That’s the lowest figure since September 2021, noted the Trading Economics website which quoted the data.\n \nThe unexpected drop reflects further easing of the costs of both food and non-food items which comes amid an uneven economic recovery after the removal of the government’s zero-Covid policy, …",
+          "link": "https://news.bitcoin.com/chinas-inflation-rate-drops-to-lowest-in-18-months/",
+          "publishedOn": "2023-04-11T22:11:30.000Z",
+          "wordCount": 3334,
+          "title": "China’s Inflation Rate Drops to Lowest in 18 Months",
+          "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2023/04/shutterstock_380330914.jpg"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e752674e130",
+          "author": "Jocelyn Yang",
+          "description": "Investors will be eyeing Wednesday’s U.S. Consumer Price Index for the latest reading on inflation and the Shanghai “hard fork.”",
+          "link": "https://www.coindesk.com/markets/2023/04/11/bitcoin-holds-firm-above-30k-ether-hovers-near-19k-ahead-of-cpi-shapella-upgrade/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2023-04-11T22:11:13.000Z",
+          "wordCount": 8774,
+          "title": "Bitcoin Holds Firm Above $30K, Ether Hovers Near $1.9K Ahead of CPI, Shapella Upgrade",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/jpeg",
+            "url": "https://www.coindesk.com/resizer/b-VkzwWEVh3K_vI1BJ6eaCAz8fo=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/74NGQUIODVEFXOZP6LEDPOI45I.jpg"
+          },
+          "imageUrl": "https://www.coindesk.com/resizer/b-VkzwWEVh3K_vI1BJ6eaCAz8fo=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/74NGQUIODVEFXOZP6LEDPOI45I.jpg"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e7526761308",
+          "author": "Cheyenne Ligon",
+          "description": "Sen. Elizabeth Warren (D-Mass.) and Congresswoman Alexandria Ocasio-Cortez (D-New York) want to know why crypto companies, like bankrupt crypto lender BlockFi and stablecoin issuer Circle, banked at now-collapsed Silicon Valley Bank.",
+          "link": "https://www.coindesk.com/policy/2023/04/11/sen-warren-rep-aoc-send-letters-to-circle-blockfi-asking-why-they-banked-at-svb/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2023-04-11T21:59:38.000Z",
+          "wordCount": 8486,
+          "title": "Sen. Warren, Rep. AOC Ask Circle, BlockFi Why They Banked at SVB",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/jpeg",
+            "url": "https://www.coindesk.com/resizer/QWweB-pUDG8AJG1799epLgB5tsI=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/AIFZSDHJGVHTXCPUY6O6XIXTSY.jpg"
+          },
+          "imageUrl": "https://www.coindesk.com/resizer/QWweB-pUDG8AJG1799epLgB5tsI=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/AIFZSDHJGVHTXCPUY6O6XIXTSY.jpg"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e75267612f4",
+          "author": "Cam Thompson",
+          "description": "The fund, called zVentures Web3 Incubator, will leverage its expertise to grow early-stage projects building blockchain-based gaming infrastructure.",
+          "link": "https://www.coindesk.com/web3/2023/04/11/gaming-tech-company-razer-introduces-web3-venture-fund/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2023-04-11T21:59:38.000Z",
+          "wordCount": 7868,
+          "title": "Gaming Tech Company Razer Introduces Web3 Venture Fund",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/jpeg",
+            "url": "https://www.coindesk.com/resizer/bHoZvi-nv1u-E520J02cVgffdxI=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/C4L7S2R7CBB5NOFHVVVVMVANMI.jpeg"
+          },
+          "imageUrl": "https://www.coindesk.com/resizer/bHoZvi-nv1u-E520J02cVgffdxI=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/C4L7S2R7CBB5NOFHVVVVMVANMI.jpeg"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e75267066b8",
+          "author": "Ronaldo Marquez",
+          "description": "Bitcoin (BTC) mining has faced increasing scrutiny from the US government and environmental critics in recent years. Certain groups raised concerns that the energy consumption required for validating transactions on the network contributes to global carbon emissions.\n \n A recent article by The New York Times (NYT) reignited this debate, alleging “that Bitcoin mining is a major contributor to environmental damage,” as reported by Bitcoinist. \n \nHowever, Riot Platforms, a leading Bitcoin mining company, claims the New York Times article was full of “distortions” and “falsehoods” designed to push a political agenda. In response to the New York Times allegations, Riot defended the industry and emphasized its commitment to sustainable Bitcoin mining practices. \n \n \n“False And Misleading” Inform…",
+          "link": "https://bitcoinist.com/riot-defends-bitcoin-mining-against-nyt-allegations/",
+          "publishedOn": "2023-04-11T21:37:38.000Z",
+          "wordCount": 4816,
+          "title": "Riot Defends Bitcoin Mining Against NYT’s “False” Allegations",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/jpeg",
+            "url": "https://bitcoinist.com/wp-content/uploads/2023/04/CNTGZdkj-640x334.jpg"
+          },
+          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2023/04/CNTGZdkj-640x334.jpg"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e75267163a7",
+          "author": "Margaux Nijkerk, Sage D. Young",
+          "description": "Various factions of the Ethereum community are planning watch parties to witness the first-ever withdrawals of staked ether, with the blockchain's Shanghai upgrade (aka \"Shapella\") set for Wednesday at 22:27 coordinated universal time (6:27 p.m. ET).",
+          "link": "https://www.coindesk.com/tech/2023/04/11/ethereums-shanghai-upgrade-heres-our-guide-to-watch-parties-blockchain-tools/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2023-04-11T21:28:10.000Z",
+          "wordCount": 9834,
+          "title": "Ethereum’s Shanghai Upgrade: Here’s Our Guide to Watch Parties, Blockchain Tools",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/jpeg",
+            "url": "https://www.coindesk.com/resizer/Tq_c6ML2Ut7h5c4iHpPdvIbMjAs=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/MARPYDPSGBBHHAWHXDKO67HEZM.jpeg"
+          },
+          "imageUrl": "https://www.coindesk.com/resizer/Tq_c6ML2Ut7h5c4iHpPdvIbMjAs=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/MARPYDPSGBBHHAWHXDKO67HEZM.jpeg"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e7526725a8c",
+          "author": "Danny Nelson",
+          "description": "Their vote could hand ROOK token holders a big payout.",
+          "link": "https://www.coindesk.com/business/2023/04/11/rook-investors-aim-to-rage-quit-through-plan-to-liquidate-25m-crypto-treasury/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2023-04-11T21:18:45.000Z",
+          "wordCount": 8223,
+          "title": "ROOK Investors Aim to ‘Rage Quit’ Through Plan to Liquidate $25M Crypto Treasury",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/jpeg",
+            "url": "https://www.coindesk.com/resizer/WqVfHTQG3nkcXs6hxH_jrLyylac=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/AR72V4YTZ5B55B62524M63FVS4.jpg"
+          },
+          "imageUrl": "https://www.coindesk.com/resizer/WqVfHTQG3nkcXs6hxH_jrLyylac=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/AR72V4YTZ5B55B62524M63FVS4.jpg"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e752672addb",
+          "author": "Jeff  Wilser",
+          "description": "Now a partner at venture fund 1kx, Biggs is a nine-year crypto veteran. She's bullish on early-stage companies and a speaker at our Consensus festival.",
+          "link": "https://www.coindesk.com/consensus-magazine/2023/04/11/crypto-consensus-bitcoin/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2023-04-11T21:15:32.000Z",
+          "wordCount": 12067,
+          "title": "Diana Biggs: Building Early-Stage Ventures in Web3",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/jpeg",
+            "url": "https://www.coindesk.com/resizer/6AUfTsqFzfsalpjVa0192WnaLZw=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/G3VZ5TWOPBG2JM5QXNH4VUL2ZY.jpg"
+          },
+          "imageUrl": "https://www.coindesk.com/resizer/6AUfTsqFzfsalpjVa0192WnaLZw=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/G3VZ5TWOPBG2JM5QXNH4VUL2ZY.jpg"
+        },
         {
           "id": "http://www.inoreader.com/article/3a9c6e7526736712",
           "author": "BtcCasey",
@@ -1110,7 +1225,7 @@
           "description": "Crypto hosting and mining company Core Scientific (CORZ) has appointed crypto veteran Adam Sullivan as its new president, a court filing shows.",
           "link": "https://www.coindesk.com/business/2023/04/11/crypto-miner-core-scientific-appoints-new-president/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-04-11T20:17:16.000Z",
-          "wordCount": 7862,
+          "wordCount": 7997,
           "title": "Crypto Miner Core Scientific Appoints a New President",
           "enclosure": {
             "length": "1337",
@@ -1125,7 +1240,7 @@
           "description": "On Tuesday, the bitcoin mining company Cleanspark announced that it had purchased 45,000 Antminer S19 XP bitcoin mining devices for a total price of $144.9 million. Cleanspark stated that the new fleet would add 6.3 exahash per second (EH/s) of computational power to the company’s current 6.7 EH/s.\n \nCleanspark Acquires 45,000 Bitmain Antminers for $144.9 Million\n \nThis year, bitcoin mining firms are once again making large purchases of application-specific integrated circuit (ASIC) bitcoin mining rigs after taking a brief break in 2022. On Tuesday, April 11, 2023, the bitcoin mining firm Cleanspark announced that it had purchased 45,000 new Antminer S19 XP machines from the leading ASIC manufacturer, Bitmain. The first delivery of 25,000 ASICs will take place in August, and the remaining …",
           "link": "https://news.bitcoin.com/cleanspark-purchases-45000-bitcoin-mining-devices-adding-6-3-eh-s-to-current-fleet/",
           "publishedOn": "2023-04-11T20:11:10.000Z",
-          "wordCount": 3474,
+          "wordCount": 3489,
           "title": "Cleanspark Purchases 45,000 Bitcoin Mining Devices, Adding 6.3 EH/s to Current Fleet",
           "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2023/04/obit67.jpg"
         },
@@ -1145,7 +1260,7 @@
           "description": "Tokenized shares and yield-bearing assets are potential products that could be launched under the new regulatory framework approved by the Central American country.",
           "link": "https://www.coindesk.com/policy/2023/04/11/el-salvador-grants-first-digital-asset-license-to-bitfinex/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-04-11T19:47:51.000Z",
-          "wordCount": 7976,
+          "wordCount": 8125,
           "title": "El Salvador Grants First Digital Asset License to Bitfinex",
           "enclosure": {
             "length": "1337",
@@ -1190,7 +1305,7 @@
           "description": "It’s been more than 100 days since the end of 2022, and the price of bitcoin has risen more than 80% since then. Over the past 30 days, bitcoin has increased by more than 45% against the U.S. dollar. Despite its recovery this year, after a long crypto winter in the previous year, the Bitcoin Obituaries list shows that bitcoin has been declared dead six times by crypto skeptics. The most recent obituary was published on March 14, 2023, by Robin Brooks, the chief economist at the Institute of International Finance, who insists that Bitcoin “is just another bubble asset.”\n \nDespite Bitcoin’s Market Performance This Year, Bitcoin Has Died 6 Times in the Eyes of Skeptics\n \nThe Bitcoin Obituaries list hosted on 99bitcoins.com shows that opponents of bitcoin have declared the leading cryptocurren…",
           "link": "https://news.bitcoin.com/2023s-bitcoin-obituaries-bitcoin-defies-6-death-predictions-with-80-price-increase-since-end-of-2022/",
           "publishedOn": "2023-04-11T18:08:55.000Z",
-          "wordCount": 3754,
+          "wordCount": 3746,
           "title": "2023’s Bitcoin Obituaries: Bitcoin Defies 6 Death Predictions With 80% Price Increase Since End of 2022",
           "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2023/04/obit.jpg"
         },
@@ -1200,7 +1315,7 @@
           "description": "It’s been more than 100 days since the end of 2022, and the price of bitcoin has risen more than 80% since then. Over the past 30 days, bitcoin has increased by more than 45% against the U.S. dollar. Despite its recovery this year, after a long crypto winter in the previous year, the Bitcoin Obituaries list shows that bitcoin has been declared dead six times by crypto skeptics. The most recent obituary was published on March 14, 2023, by Robin Brooks, the chief economist at the Institute of International Finance, who insists that Bitcoin “is just another bubble asset.”\n \nDespite Bitcoin’s Market Performance This Year, Bitcoin Has Died 6 Times in the Eyes of Skeptics\n \nThe Bitcoin Obituaries list hosted on 99bitcoins.com shows that opponents of bitcoin have declared the leading cryptocurren…",
           "link": "https://news.bitcoin.com/2023s-bitcoin-obituaries-bitcoin-defies-6-death-predictions-with-80-price-increase-since-end-of-2022/",
           "publishedOn": "2023-04-11T18:08:54.000Z",
-          "wordCount": 3759,
+          "wordCount": 3742,
           "title": "2023’s Bitcoin Obituaries: Bitcoin Defies 6 Death Predictions With 80% Price Increase Since End of 2022",
           "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2023/04/obit.jpg"
         },
@@ -1210,124 +1325,9 @@
           "description": "It’s been more than 100 days since the end of 2022, and the price of bitcoin has risen more than 80% since then. Over the past 30 days, bitcoin has increased by more than 45% against the U.S. dollar. Despite its recovery this year, after a long crypto winter in the previous year, the Bitcoin Obituaries list shows that bitcoin has been declared dead six times by crypto skeptics. The most recent obituary was published on March 14, 2023, by Robin Brooks, the chief economist at the Institute of International Finance, who insists that Bitcoin “is just another bubble asset.”\n \nDespite Bitcoin’s Market Performance This Year, Bitcoin Has Died 6 Times in the Eyes of Skeptics\n \nThe Bitcoin Obituaries list hosted on 99bitcoins.com shows that opponents of bitcoin have declared the leading cryptocurren…",
           "link": "https://news.bitcoin.com/2023s-bitcoin-obituaries-bitcoin-defies-6-death-predictions-with-80-price-increase-since-end-of-2022/",
           "publishedOn": "2023-04-11T18:08:53.000Z",
-          "wordCount": 3759,
+          "wordCount": 3746,
           "title": "2023’s Bitcoin Obituaries: Bitcoin Defies 6 Death Predictions With 80% Price Increase Since End of 2022",
           "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2023/04/obit.jpg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e7526543ff7",
-          "author": "Stephen  Alpher",
-          "description": "Bitcoin on Monday evening pushed through $30,000 for the first time since June 2022.",
-          "link": "https://www.coindesk.com/markets/2023/04/11/riot-platforms-and-marathon-digital-lead-crypto-stock-gains-as-bitcoin-settles-in-above-30k/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-          "publishedOn": "2023-04-11T17:41:58.000Z",
-          "wordCount": 8096,
-          "title": "Riot Platforms and Marathon Digital Lead Crypto Stock Gains as Bitcoin Settles in Above $30K",
-          "enclosure": {
-            "length": "1337",
-            "type": "image/jpeg",
-            "url": "https://www.coindesk.com/resizer/rzkLHBrFoIKB7-Mw6v7uSWWmO-M=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/FJIWUF646BEDXMYMTUGOBWQOKU.jpg"
-          },
-          "imageUrl": "https://www.coindesk.com/resizer/rzkLHBrFoIKB7-Mw6v7uSWWmO-M=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/FJIWUF646BEDXMYMTUGOBWQOKU.jpg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e75265594fe",
-          "author": "Eli Dambell",
-          "description": "A new Coingecko and Blockchain Research Lab study has revealed why people buy NFTs. The researchers discovered that many people purchase these tokens for long-term profits and utility.\n \nUsually, NFTs enable holders to lay claims on their unique items. They allow creators to tokenize real estate, art, collectibles, etc. By creating NFTs of important things, the owner can secure them on the blockchain and sell and trade them efficiently. \n \nStudy Respondents Reveal Reasons For Investment In NFTs\n \nJoint research by Blockchain Research Lab and CoinGecko on the benefits of buying Non-Fungible Tokens has shown different reasons people buy NFTs. CoinGecko and Blockchain Research Lab collectively performed the NFT and Crypto Users Survey, collecting 343 responses From December 2022 to January 20…",
-          "link": "https://bitcoinist.com/people-purchase-nfts-for-utility-and-profits/",
-          "publishedOn": "2023-04-11T17:34:11.000Z",
-          "wordCount": 4705,
-          "title": "Most People Purchase NFTs For Utility And Profits, Coingecko Study",
-          "enclosure": {
-            "length": "1337",
-            "type": "image/jpeg",
-            "url": "https://bitcoinist.com/wp-content/uploads/2023/04/nft-g1cbe7da16_1280-640x356.jpg"
-          },
-          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2023/04/nft-g1cbe7da16_1280-640x356.jpg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e7526560ddf",
-          "author": "David Z. Morris",
-          "description": "A new hit piece from “the paper of record” makes it clear: These are not serious people.",
-          "link": "https://www.coindesk.com/consensus-magazine/2023/04/11/the-new-york-times-skewed-bitcoin-mining-expose-reveals-blatant-bias/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-          "publishedOn": "2023-04-11T17:30:25.000Z",
-          "wordCount": 11888,
-          "title": "The New York Times' Skewed Bitcoin Mining Expose Reveals Blatant Bias",
-          "enclosure": {
-            "length": "1337",
-            "type": "image/jpeg",
-            "url": "https://www.coindesk.com/resizer/JdnSytnQ1DyjZqj756cmiiE7614=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/WDO7OGAMURDSDL3ESW2ZQFYEIM.jpg"
-          },
-          "imageUrl": "https://www.coindesk.com/resizer/JdnSytnQ1DyjZqj756cmiiE7614=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/WDO7OGAMURDSDL3ESW2ZQFYEIM.jpg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e752657cfa5",
-          "author": "Fran Velasquez",
-          "description": "Jeff Garzik says now that the crypto asset sector has weathered through the hype, higher quality projects are likely to continue developing.",
-          "link": "https://www.coindesk.com/web3/2023/04/11/former-bitcoin-core-developer-says-nft-market-is-pleasantly-down-to-earth-again/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-          "publishedOn": "2023-04-11T17:17:53.000Z",
-          "wordCount": 8177,
-          "title": "Former Bitcoin Core Developer Says NFT Market Is ‘Pleasantly Down to Earth’ Again",
-          "enclosure": {
-            "length": "1337",
-            "type": "image/jpeg",
-            "url": "https://www.coindesk.com/resizer/wz_L4MLRP58XOlSIiZ4e5w07FH4=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/4ZIB362YR5D5DAVJON4IFIWRJQ.jpg"
-          },
-          "imageUrl": "https://www.coindesk.com/resizer/wz_L4MLRP58XOlSIiZ4e5w07FH4=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/4ZIB362YR5D5DAVJON4IFIWRJQ.jpg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e752650e278",
-          "author": "Media",
-          "description": "PRESS RELEASE. BingX, the Singapore-based crypto exchange, is pleased to announce the launch of a new category to optimise its trading system for the Shanghai Ethereum upgrade. This move is aimed at helping traders looking to make a profit during the Ethereum upgrade that is expected to arrive on April 13th.\n \nThe Shanghai Ethereum upgrade is a highly anticipated event in the cryptocurrency community, and BingX is taking proactive measures to ensure its traders can take full advantage of this event. By creating a new category for the Shanghai Ethereum upgrade, BingX is enabling its traders to trade with more precision and efficiency, allowing them to maximise their profits during the upgrade.\n \nThe Ethereum Shanghai upgrade is a significant update that will improve the network’s performanc…",
-          "link": "https://news.bitcoin.com/bingx-introduces-a-new-trading-category-within-the-market-segment-in-preparation-for-shanghai-ethereum-upgrade-2023/",
-          "publishedOn": "2023-04-11T17:09:55.000Z",
-          "wordCount": 3097,
-          "title": "BingX Introduces a New Trading Category Within the Market Segment in Preparation for Shanghai Ethereum Upgrade 2023",
-          "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2023/04/8185fdf6-4937-4e4c-8ba2-cdade5d253d8.jpeg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e75265c91fd",
-          "author": "Jack Schickler",
-          "description": "The economy ministry is interested in the virtual worlds' impact on privacy, health and the environment",
-          "link": "https://www.coindesk.com/policy/2023/04/11/france-publishes-metaverse-consultation-seeking-alternative-to-dominance-by-web-giants/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-          "publishedOn": "2023-04-11T16:45:33.000Z",
-          "wordCount": 7997,
-          "title": "France Publishes Metaverse Consultation, Seeking Alternative to Dominance by Web Giants",
-          "enclosure": {
-            "length": "1337",
-            "type": "image/jpeg",
-            "url": "https://www.coindesk.com/resizer/x_lSE7OEIvq6Yh686h18HRjWzuI=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/GFMUHY7XSBGXXNUFYDPJ4ETVGM.jpg"
-          },
-          "imageUrl": "https://www.coindesk.com/resizer/x_lSE7OEIvq6Yh686h18HRjWzuI=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/GFMUHY7XSBGXXNUFYDPJ4ETVGM.jpg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e75265ead50",
-          "author": "Dalmas Ngetich",
-          "description": "Days after the arrest of Do Kwon, the founder of Terra Labs, on fraud charges, Montenegro announced its intention to develop a central bank digital currency (CBDC) in partnership with Ripple, a blockchain company. \n \nMontenegro Partners With Ripple For CBDC\n \nMontenegro has expressed interest in digital currencies and approached Ripple to develop a pilot program and strategy for a national digital currency or a Central Bank of Montenegro (CBCG) stablecoin.\n \nAccording to Montenegrin Governor Radoje Žugić, their collaboration with Ripple aims to create a secure practical digital currency to test blockchain’s functionality and potential. It will also analyze the advantages and risks CBDCs could pose on availability, security, and efficiency of electronic means of payment while ensuring it is…",
-          "link": "https://bitcoinist.com/montenegro-to-develop-a-cbdc-with-ripple/",
-          "publishedOn": "2023-04-11T16:32:44.000Z",
-          "wordCount": 4676,
-          "title": "Days After Arresting Do Kwon, Montenegro Wants To Develop A CBDC With Ripple",
-          "enclosure": {
-            "length": "1337",
-            "type": "image/jpeg",
-            "url": "https://bitcoinist.com/wp-content/uploads/2023/04/Ripple-Montenegro-640x362.jpg"
-          },
-          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2023/04/Ripple-Montenegro-640x362.jpg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e7526595676",
-          "author": "Margaux Nijkerk",
-          "description": "Ethereum is expected to address the implementation of proto-danksharding in the months after Wednesday's Shanghai upgrade (also referred to as \"Shapella\"), as well as other mechanisms that will make the blockchain more scalable. Last year saw the Merge. Now comes the Verge, Purge and Scourge.",
-          "link": "https://www.coindesk.com/tech/2023/04/11/whats-next-after-ethereums-shanghai-upgrade/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-          "publishedOn": "2023-04-11T16:13:44.000Z",
-          "wordCount": 9013,
-          "title": "What’s Next After Ethereum’s Shanghai Upgrade?",
-          "enclosure": {
-            "length": "1337",
-            "type": "image/jpeg",
-            "url": "https://www.coindesk.com/resizer/m-Vrc-IEPZvFACH7yhVBOYTrkIE=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/W6WSGY6ETNFVLHN43Z5YC6YOXU.jpeg"
-          },
-          "imageUrl": "https://www.coindesk.com/resizer/m-Vrc-IEPZvFACH7yhVBOYTrkIE=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/W6WSGY6ETNFVLHN43Z5YC6YOXU.jpeg"
         }
       ]
     }

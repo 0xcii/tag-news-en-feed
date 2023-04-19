@@ -6,6 +6,21 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=137088",
+          "author": "Nathan Reiff",
+          "description": "Artificial intelligence (AI) as a concept dates back to ancient times, but modern AI began in the mid-20th century with pioneers like Alan Turing.",
+          "link": "https://decrypt.co/resources/a-brief-history-of-artificial-intelligence-ai-from-turing-to-iot",
+          "publishedOn": "2023-04-19T09:06:02.000Z",
+          "wordCount": 10656,
+          "title": "A Brief History of Artificial Intelligence (AI): From Turing to IoT",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/03/1-intro-to-crypto-tax-gID_7-pID_1.png@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/03/1-intro-to-crypto-tax-gID_7-pID_1.png@png"
+        },
+        {
           "id": "https://decrypt.co/?p=137144",
           "author": "Shuyao Kong",
           "description": "Hong Kong has historically provided fertile soil to grow financial institutions. Can it also make magic for crypto firms?",
@@ -546,21 +561,6 @@
           "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/04/GM23_-Scaramucci3-gID_4.jpg@png"
         },
         {
-          "id": "https://decrypt.co/?p=136850",
-          "author": "Jason Nelson",
-          "description": "After a widely-publicized acquisition attempt by Kanye West collapsed, Starboard Digital Media acquired the social media platform.",
-          "link": "https://decrypt.co/136850/parler-shut-down-for-reboot-under-new-owner-and-its-not-kanye-west",
-          "publishedOn": "2023-04-15T17:30:42.000Z",
-          "wordCount": 9305,
-          "title": "Parler Shut Down for Reboot Under New Owner—And It's Not Kanye West",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/04/Parler-shutterstock_1890922429-16x9-1-gID_7.jpg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/04/Parler-shutterstock_1890922429-16x9-1-gID_7.jpg@png"
-        },
-        {
           "id": "https://decrypt.co/videos/interviews/PqLOXL47/gm-anthony-scaramucci-is-more-bullish-on-bitcoin-than-ever",
           "author": null,
           "description": "Anthony Scaramucci of hedge fund SkyBridge Capital got burned by Sam Bankman-Fried: he co-hosted SALT conferences with FTX and sold a 30% stake in SkyBridge to FTX Ventures. And yet \"The Mooch\" tells Dan Roberts and Stacy Elliott \"I'm more bullish now than I have ever been\" on crypto as an investment case. He discusses his frustration with SBF, how wrong he thinks politicians like Elizabeth Warren and Gary Gensler are about crypto and how to regulate it, what he sees happening next with adoption, and talks about Trump. Watch and make sure to subscribe to the gm podcast on Apple or Spotify.",
@@ -778,12 +778,182 @@
       "siteUrl": "https://cryptopanic.com/",
       "articles": [
         {
+          "id": "https://cryptopanic.com/news/18145264/Bitcoin-Price-and-Ethereum-Prediction-BTC-Faces-Challenges-Below-30400-Is-a-Decline-to-29500-Possible",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/18145264/Bitcoin-Price-and-Ethereum-Prediction-BTC-Faces-Challenges-Below-30400-Is-a-Decline-to-29500-Possible",
+          "publishedOn": "2023-04-19T09:10:00.000Z",
+          "wordCount": null,
+          "title": "Bitcoin Price and Ethereum Prediction: BTC Faces Challenges Below $30,400 - Is a Decline to $29,500 Possible?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18145257/Georgian-vendors-get-crypto-payments-option-with-new-partnership",
+          "author": null,
+          "description": "Georgian merchants accept crypto payments through a partnership between Gate Pay and CityPay.io, connecting users to the benefits of crypto services.",
+          "link": "https://cryptopanic.com/news/18145257/Georgian-vendors-get-crypto-payments-option-with-new-partnership",
+          "publishedOn": "2023-04-19T09:06:49.000Z",
+          "wordCount": 526,
+          "title": "Georgian vendors get crypto payments option with new partnership",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18145271/A-Brief-History-of-Artificial-Intelligence-AI-From-Turing-to-IoT",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/18145271/A-Brief-History-of-Artificial-Intelligence-AI-From-Turing-to-IoT",
+          "publishedOn": "2023-04-19T09:06:02.000Z",
+          "wordCount": null,
+          "title": "A Brief History of Artificial Intelligence (AI): From Turing to IoT",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18145244/Bitcoin-Will-Hit-100000-This-Year-Artificial-Intelligence-And-These-Experts-Predict",
+          "author": null,
+          "description": "Since its launch in 2009, Bitcoin, the first decentralized cryptocurrency in the world, has had its own ups and downs. Many have questioned the viability and future of the cryptocurrency industry in the wake of its spectacular ascent and catastrophic falls. Nevertheless, despite the ambiguity,...",
+          "link": "https://cryptopanic.com/news/18145244/Bitcoin-Will-Hit-100000-This-Year-Artificial-Intelligence-And-These-Experts-Predict",
+          "publishedOn": "2023-04-19T09:03:55.000Z",
+          "wordCount": 529,
+          "title": "Bitcoin Will Hit $100,000 This Year, Artificial Intelligence And These Experts Predict",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18144996/Starbucks-crypto-marketplace-is-selling-pictures-of-coffee-cups-for-1000",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/18144996/Starbucks-crypto-marketplace-is-selling-pictures-of-coffee-cups-for-1000",
+          "publishedOn": "2023-04-19T08:57:55.000Z",
+          "wordCount": null,
+          "title": "Starbucks’ crypto marketplace is selling pictures of coffee cups for $1,000",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18144974/Bitcoin-Tumbles-Toward-29K-While-Ethereum-Bulls-Battle-at-2000-Market-Watch",
+          "author": null,
+          "description": "Bitcoin's price took a sudden nosedive and tagged $29,000 precisely. Ethereum is also trading very close to $2K.",
+          "link": "https://cryptopanic.com/news/18144974/Bitcoin-Tumbles-Toward-29K-While-Ethereum-Bulls-Battle-at-2000-Market-Watch",
+          "publishedOn": "2023-04-19T08:54:58.000Z",
+          "wordCount": 529,
+          "title": "Bitcoin Tumbles Toward $29K While Ethereum Bulls Battle at $2,000 (Market Watch)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18144944/How-to-stake-Cardano-ADA-in-a-self-custodial-wallet",
+          "author": null,
+          "description": "Cardano is one of the largest layer-1 blockchains by market capitalization, but what does the DeFi ecosystem offer for staking?",
+          "link": "https://cryptopanic.com/news/18144944/How-to-stake-Cardano-ADA-in-a-self-custodial-wallet",
+          "publishedOn": "2023-04-19T08:51:16.000Z",
+          "wordCount": 526,
+          "title": "How to stake Cardano (ADA) in a self-custodial wallet",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18144758/Australia-installs-more-Bitcoin-ATMs-than-whole-of-Asia",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/18144758/Australia-installs-more-Bitcoin-ATMs-than-whole-of-Asia",
+          "publishedOn": "2023-04-19T08:45:44.000Z",
+          "wordCount": null,
+          "title": "Australia installs more Bitcoin ATMs than whole of Asia",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18144760/US-Lawmakers-Slam-SEC-Chair-over-Multiple-Rushed-Rules-and-Hostility-against-Crypto-Firms",
+          "author": null,
+          "description": "Coinspeaker US Lawmakers Slam SEC Chair over Multiple Rushed Rules and Hostility against Crypto Firms The lawmakers also referred to the enforcement actions against crypto companies by the SEC. US Lawmakers Slam SEC Chair over Multiple Rushed Rules and Hostility against Crypto Firms",
+          "link": "https://cryptopanic.com/news/18144760/US-Lawmakers-Slam-SEC-Chair-over-Multiple-Rushed-Rules-and-Hostility-against-Crypto-Firms",
+          "publishedOn": "2023-04-19T08:45:43.000Z",
+          "wordCount": 531,
+          "title": "US Lawmakers Slam SEC Chair over Multiple Rushed Rules and Hostility against Crypto Firms",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18144772/SEC-chief-Gensler-grilled-by-US-Committee-over-practices-in-crypto",
+          "author": null,
+          "description": "As regulators continue trying to establish control over the cryptocurrency market, the Chair of the United States Securities and Exchange … Continued",
+          "link": "https://cryptopanic.com/news/18144772/SEC-chief-Gensler-grilled-by-US-Committee-over-practices-in-crypto",
+          "publishedOn": "2023-04-19T08:41:44.000Z",
+          "wordCount": 528,
+          "title": "SEC chief Gensler grilled by US Committee over practices in crypto",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18144504/BTC-price-dives-3-in-minutes-as-deep-correction-grips-crypto-market",
+          "author": null,
+          "description": "BTC price returns to $29,000 with a cascade of long liquidations fueling fresh Bitcoin downside.",
+          "link": "https://cryptopanic.com/news/18144504/BTC-price-dives-3-in-minutes-as-deep-correction-grips-crypto-market",
+          "publishedOn": "2023-04-19T08:38:44.000Z",
+          "wordCount": 529,
+          "title": "BTC price dives 3% in minutes as 'deep correction' grips crypto market",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18144498/Bitcoin-Drops-1000-in-15-Minutes-Longs-Make-98-of-Liquidations",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/18144498/Bitcoin-Drops-1000-in-15-Minutes-Longs-Make-98-of-Liquidations",
+          "publishedOn": "2023-04-19T08:36:59.000Z",
+          "wordCount": null,
+          "title": "Bitcoin Drops $1,000 in 15 Minutes; Longs Make 98% of Liquidations",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18144561/Pokemon-cards-stolen-off-the-production-line-highlight-how-NFTs-remove-the-need-for-trust",
+          "author": null,
+          "description": "When images emerged of apparently stolen rare Pokemon cards, some began using them as an argument for Pokemon to embrace NFTs.",
+          "link": "https://cryptopanic.com/news/18144561/Pokemon-cards-stolen-off-the-production-line-highlight-how-NFTs-remove-the-need-for-trust",
+          "publishedOn": "2023-04-19T08:31:39.000Z",
+          "wordCount": 532,
+          "title": "Pokemon cards stolen off the production line highlight how NFTs ‘remove the need for trust’",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18144464/Intel-to-stop-manufacturing-Bitcoin-mining-chips-heres-why",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/18144464/Intel-to-stop-manufacturing-Bitcoin-mining-chips-heres-why",
+          "publishedOn": "2023-04-19T08:30:07.000Z",
+          "wordCount": null,
+          "title": "Intel to stop manufacturing Bitcoin mining chips, here’s why",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18144753/Bitcoin-BTC-Price-Reaches-Crucial-Resistance-Whats-the-Next-Move",
+          "author": null,
+          "description": "The Bitcoin (BTC) price could confirm its bullish reversal is it closes above $31,000 in the weekly time frame",
+          "link": "https://cryptopanic.com/news/18144753/Bitcoin-BTC-Price-Reaches-Crucial-Resistance-Whats-the-Next-Move",
+          "publishedOn": "2023-04-19T08:30:00.000Z",
+          "wordCount": 528,
+          "title": "Bitcoin (BTC) Price Reaches Crucial Resistance – What’s the Next Move?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18144012/Intel-Axes-Bitcoin-Mining-Chip",
+          "author": null,
+          "description": "Intel will stop accepting orders for its bitcoin mining chip, Blockscale, on October 20, ready to be phased out completely next year",
+          "link": "https://cryptopanic.com/news/18144012/Intel-Axes-Bitcoin-Mining-Chip",
+          "publishedOn": "2023-04-19T08:13:48.000Z",
+          "wordCount": 522,
+          "title": "Intel Axes Bitcoin Mining Chip",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18144034/Smart-Money-Trader-Printed-Huge-Sum-Trading-PEPE-Meme-Coin-Heres-How",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/18144034/Smart-Money-Trader-Printed-Huge-Sum-Trading-PEPE-Meme-Coin-Heres-How",
+          "publishedOn": "2023-04-19T08:13:00.000Z",
+          "wordCount": null,
+          "title": "Smart Money Trader Printed Huge Sum Trading PEPE Meme Coin, Here's How",
+          "imageUrl": null
+        },
+        {
           "id": "https://cryptopanic.com/news/18143818/SEC-Chair-Gensler-Declines-to-Say-if-Ether-Is-a-Security-in-Contentious-Congressional-Hearing",
           "author": null,
-          "description": "Securities and Exchange Commission Chair Gary Gensler refused to say whether ether, the second-largest cryptocurrency by market cap, was a security during a nearly five-hour hearing Tuesday.",
+          "description": "",
           "link": "https://cryptopanic.com/news/18143818/SEC-Chair-Gensler-Declines-to-Say-if-Ether-Is-a-Security-in-Contentious-Congressional-Hearing",
           "publishedOn": "2023-04-19T08:05:21.000Z",
-          "wordCount": 532,
+          "wordCount": null,
           "title": "SEC Chair Gensler Declines to Say if Ether Is a Security in Contentious Congressional Hearing",
           "imageUrl": null
         },
@@ -800,181 +970,11 @@
         {
           "id": "https://cryptopanic.com/news/18143817/MicroStrategys-Bitcoin-Holding-Doesnt-Necessarily-Pose-a-Concentration-Risk-Bernstein",
           "author": null,
-          "description": "",
+          "description": "Rising bitcoin prices mean a stronger balance sheet, higher stock prices and easier debt repayment, without the company needing to sell its holdings, the report said.",
           "link": "https://cryptopanic.com/news/18143817/MicroStrategys-Bitcoin-Holding-Doesnt-Necessarily-Pose-a-Concentration-Risk-Bernstein",
           "publishedOn": "2023-04-19T08:00:47.000Z",
-          "wordCount": null,
+          "wordCount": 527,
           "title": "MicroStrategy’s Bitcoin Holding Doesn’t Necessarily Pose a Concentration Risk: Bernstein",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18143588/UK-could-roll-out-crypto-regulation-within-a-year-says-senior-minister",
-          "author": null,
-          "description": "Key takeaways Andrew Griffith has estimated that the UK could roll out its crypto regulation within a year. He pointed out that the UK is working hard to become a crypto hub, promoting innovation while ensuring progressive regulation. Coinbase’s CEO recently revealed that the crypto exchange...",
-          "link": "https://cryptopanic.com/news/18143588/UK-could-roll-out-crypto-regulation-within-a-year-says-senior-minister",
-          "publishedOn": "2023-04-19T07:50:58.000Z",
-          "wordCount": 529,
-          "title": "UK could roll out crypto regulation within a year, says senior minister",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18143402/New-Donald-Trump-NFTs-to-Hit-The-Market-But-Heres-the-Catch",
-          "author": null,
-          "description": "Donald Trump is launching a new batch of NFTs. He wanted to please his fans, but NFT collectors might have a different opinion.",
-          "link": "https://cryptopanic.com/news/18143402/New-Donald-Trump-NFTs-to-Hit-The-Market-But-Heres-the-Catch",
-          "publishedOn": "2023-04-19T07:41:35.000Z",
-          "wordCount": 529,
-          "title": "New Donald Trump NFTs to Hit The Market, But Here’s the Catch",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18143160/Ethereum-price-forecast-after-breaking-above-2000",
-          "author": null,
-          "description": "Ethereum regained the $2,000 level The market has rallied in 2023 after bouncing from support seen in the $1,200 area Despite breaking the lower highs series, a pullback might be in the cards The bullish momentum in the cryptocurrency market that started in 2023 continued in the second quarter...",
-          "link": "https://cryptopanic.com/news/18143160/Ethereum-price-forecast-after-breaking-above-2000",
-          "publishedOn": "2023-04-19T07:37:08.000Z",
-          "wordCount": 524,
-          "title": "Ethereum price forecast after breaking above $2,000",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18143159/Central-Banks-Successfully-Test-DLT-in-Linking-Financial-Settlement-Systems",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/18143159/Central-Banks-Successfully-Test-DLT-in-Linking-Financial-Settlement-Systems",
-          "publishedOn": "2023-04-19T07:30:00.000Z",
-          "wordCount": null,
-          "title": "Central Banks Successfully Test DLT in Linking Financial Settlement Systems",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18142827/MetaMask-denies-claims-of-wallet-exploit-in-massive-10M-hack",
-          "author": null,
-          "description": "MetaMask stated its security team is working with others in the Web3 wallet space to uncover the source of the exploit.",
-          "link": "https://cryptopanic.com/news/18142827/MetaMask-denies-claims-of-wallet-exploit-in-massive-10M-hack",
-          "publishedOn": "2023-04-19T07:22:47.000Z",
-          "wordCount": 527,
-          "title": "MetaMask denies claims of wallet exploit in ‘massive’ $10M hack",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18142555/Bitcoin-to-peak-at-US42000-in-2023-end-the-year-above-US35000-Finder-survey",
-          "author": null,
-          "description": "Bitcoin is expected to hit a high of US$42,225 in 2023 and close the year around US$35,485, according to a survey by Finder.",
-          "link": "https://cryptopanic.com/news/18142555/Bitcoin-to-peak-at-US42000-in-2023-end-the-year-above-US35000-Finder-survey",
-          "publishedOn": "2023-04-19T07:19:54.000Z",
-          "wordCount": 531,
-          "title": "Bitcoin to peak at US$42,000 in 2023, end the year above US$35,000: Finder survey",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18142367/Trader-Unveils-Timeline-for-New-Bitcoin-All-Time-High-and-Next-Altseason-Says-Dogecoin-Building-Strength",
-          "author": null,
-          "description": "A popular crypto analyst thinks Bitcoin (BTC) and the rest of the digital asset market won’t take off to new highs until at least next year. The pseudonymous analyst Kaleo tells his 578,800 that a lot of crypto traders get “lost in the noise of $1,000 candles” and fail to see the bigger picture for […]",
-          "link": "https://cryptopanic.com/news/18142367/Trader-Unveils-Timeline-for-New-Bitcoin-All-Time-High-and-Next-Altseason-Says-Dogecoin-Building-Strength",
-          "publishedOn": "2023-04-19T07:04:48.000Z",
-          "wordCount": 532,
-          "title": "Trader Unveils Timeline for New Bitcoin All-Time High and Next ‘Altseason,’ Says Dogecoin Building Strength",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18142541/Bitcoin-Mining-Stocks-Are-Crushing-Tech-Stock-Prices-in-2023",
-          "author": null,
-          "description": "Bitcoin mining stocks are outperforming tech stocks so far this year following an 80% gain in the underlying asset, BTC.",
-          "link": "https://cryptopanic.com/news/18142541/Bitcoin-Mining-Stocks-Are-Crushing-Tech-Stock-Prices-in-2023",
-          "publishedOn": "2023-04-19T06:56:43.000Z",
-          "wordCount": 527,
-          "title": "Bitcoin Mining Stocks Are Crushing Tech Stock Prices in 2023",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18141894/Coinbase-Turns-To-Europe-For-Growth-Amid-Clampdown-By-US-Regulators",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/18141894/Coinbase-Turns-To-Europe-For-Growth-Amid-Clampdown-By-US-Regulators",
-          "publishedOn": "2023-04-19T06:48:05.000Z",
-          "wordCount": null,
-          "title": "Coinbase Turns To Europe For Growth Amid Clampdown By US Regulators",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18141912/SEC-Chair-Gensler-Gets-Grilled-by-House-Financial-Services-Committee-Republicans",
-          "author": null,
-          "description": "In a heated hearing on April 18, U.S. Securities And Exchange Commission (“SEC”) Chair Gary Gensler clashed with Republicans over digital asset regulation, highlighting the urgent need for clear crypto rules. On April 18, 2023, Gensler testified before the House Financial Services Committee’s...",
-          "link": "https://cryptopanic.com/news/18141912/SEC-Chair-Gensler-Gets-Grilled-by-House-Financial-Services-Committee-Republicans",
-          "publishedOn": "2023-04-19T06:34:19.000Z",
-          "wordCount": 528,
-          "title": "SEC Chair Gensler Gets Grilled by House Financial Services Committee Republicans",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18141720/EU-sets-up-research-hub-to-analyze-Big-Techs-AI-algorithms",
-          "author": null,
-          "description": "The research unit will be tasked with auditing the AI-backed algorithms used by large technology firms such as Google and Meta.",
-          "link": "https://cryptopanic.com/news/18141720/EU-sets-up-research-hub-to-analyze-Big-Techs-AI-algorithms",
-          "publishedOn": "2023-04-19T06:31:18.000Z",
-          "wordCount": 528,
-          "title": "EU sets up research hub to analyze Big Tech's AI algorithms",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18141804/Ethereum-MEV-Bot-Guzzles-Over-1M-in-Gas-Pumping-Memecoins",
-          "author": null,
-          "description": "An Ethereum MEV bot has been busy churning through gas as it pumps obscure memecoins such as PEPE and WOJAK.",
-          "link": "https://cryptopanic.com/news/18141804/Ethereum-MEV-Bot-Guzzles-Over-1M-in-Gas-Pumping-Memecoins",
-          "publishedOn": "2023-04-19T06:27:42.000Z",
-          "wordCount": 527,
-          "title": "Ethereum MEV Bot Guzzles Over $1M in Gas Pumping Memecoins",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18141519/Ethereum-Fees-Spike-as-Bots-Spend-Millions-to-Frontrun-Punters-of-PEPE-CHAD",
-          "author": null,
-          "description": "An entity connected to a wallet named “jaredfromsubway.eth” is sandwiching crypto traders, mainly those betting on tokens such as pepe and chad.",
-          "link": "https://cryptopanic.com/news/18141519/Ethereum-Fees-Spike-as-Bots-Spend-Millions-to-Frontrun-Punters-of-PEPE-CHAD",
-          "publishedOn": "2023-04-19T06:13:01.000Z",
-          "wordCount": 530,
-          "title": "Ethereum Fees Spike as Bots Spend Millions to Frontrun Punters of PEPE, CHAD",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18141255/NFT-app-Rebase-co-founder-accused-of-going-rogue-in-suit-by-partner",
-          "author": null,
-          "description": "An apparent business partner of Rebase's co-founder claims he was pushed out of the firm and funds he owned were moved from a joint crypto wallet.",
-          "link": "https://cryptopanic.com/news/18141255/NFT-app-Rebase-co-founder-accused-of-going-rogue-in-suit-by-partner",
-          "publishedOn": "2023-04-19T06:12:55.000Z",
-          "wordCount": 529,
-          "title": "NFT app Rebase co-founder accused of going ‘rogue’ in suit by partner",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18140496/Is-BTC-in-early-stages-of-a-long-term-bull-rally-This-historically-accurate-indicator-suggests",
-          "author": null,
-          "description": "Bitcoin's performance of 2023 has left the market and BTC enthusiasts on a winning spree. However, as per additional information, BTC could only be commencing its bull rally of 2023 and there's more to come.",
-          "link": "https://cryptopanic.com/news/18140496/Is-BTC-in-early-stages-of-a-long-term-bull-rally-This-historically-accurate-indicator-suggests",
-          "publishedOn": "2023-04-19T05:30:08.000Z",
-          "wordCount": 532,
-          "title": "Is BTC in early stages of a long-term bull rally? This historically accurate indicator suggests…",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18140920/Meme-Coins-Rally-Like-Its-2021",
-          "author": null,
-          "description": "GM Defiers! We have a regulation-heavy newsletter today. But first, we take a look at the recent rally in memecoins like PEPE, which has rallied over 500x in just a few days. SEC chair Gensler dodged the question of whether ETH is a security while testifying on Capitol Hill. The SEC has sued...",
-          "link": "https://cryptopanic.com/news/18140920/Meme-Coins-Rally-Like-Its-2021",
-          "publishedOn": "2023-04-19T05:10:06.000Z",
-          "wordCount": 523,
-          "title": "Meme Coins Rally Like It’s 2021",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18140266/Billions-Invested-by-VCs-in-2023-Despite-US-War-on-Crypto",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/18140266/Billions-Invested-by-VCs-in-2023-Despite-US-War-on-Crypto",
-          "publishedOn": "2023-04-19T05:09:46.000Z",
-          "wordCount": null,
-          "title": "Billions Invested by VCs in 2023 Despite US War on Crypto",
           "imageUrl": null
         }
       ]
@@ -985,12 +985,52 @@
       "siteUrl": "https://www.inoreader.com/stream/user/1005336866/tag/%E6%B5%B7%E5%A4%96%E5%8A%A0%E5%AF%86%E8%B5%84%E8%AE%AF/view/html",
       "articles": [
         {
+          "id": "http://www.inoreader.com/article/3a9c6e7519010510",
+          "author": "Christian Encila",
+          "description": "Since its launch in 2009, Bitcoin, the first decentralized cryptocurrency in the world, has had its own ups and downs.\n \nMany have questioned the viability and future of the cryptocurrency industry in the wake of its spectacular ascent and catastrophic falls. Nevertheless, despite the ambiguity, the alpha coin has persisted in its growth, and experts anticipate that the digital asset will experience tremendous growth in 2023.\n \nChatGPT Sees Bitcoin Reaching $100K This Year\n \nAccording to ChatGPT, a linguistic model built on data patterns and analysis, Bitcoin will achieve its highest price to date in 2023, peaking at between $100,000 and $120,000.\n \nThe outlook is supported by a number of elements, such as the present optimistic market trend, rising levels of mainstream use, and rising ins…",
+          "link": "https://bitcoinist.com/bitcoin-will-hit-100000-this-year/",
+          "publishedOn": "2023-04-19T09:09:11.000Z",
+          "wordCount": 4799,
+          "title": "Bitcoin Will Hit $100,000 This Year, Artificial Intelligence And These Experts Predict",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/jpeg",
+            "url": "https://bitcoinist.com/wp-content/uploads/2023/04/a-99-640x354.png"
+          },
+          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2023/04/a-99-640x354.png"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e75190ce837",
+          "author": "Kevin Helms",
+          "description": "A U.S. lawmaker has announced that he is introducing legislation to remove the Securities and Exchange Commission (SEC) chairman in order to “correct a long series of abuses.” The SEC, under Chair Gary Gensler, has been heavily criticized for its enforcement-centric approach to regulating the crypto industry.\n \nLawmaker Seeks to Remove SEC’s Chairman\n \nU.S. Congressman Warren Davidson (R-OH) has revealed that he is introducing legislation to remove the chairman of the U.S. Securities and Exchange Commission (SEC). The lawmaker from Ohio tweeted Friday:\n \n\nTo correct a long series of abuses, I am introducing legislation that removes the chairman of the Securities and Exchange Commission and replaces the role with an Executive Director that reports to the Board (where authority resides). For…",
+          "link": "https://news.bitcoin.com/us-lawmaker-introducing-legislation-to-remove-sec-chairman-due-to-long-series-of-abuses/",
+          "publishedOn": "2023-04-19T08:42:01.000Z",
+          "wordCount": 3317,
+          "title": "US Lawmaker Introducing Legislation to Remove SEC Chairman Due to ‘Long Series of Abuses’",
+          "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2023/04/bill-removes-sec-chair.jpg"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e75190d6148",
+          "author": "Shaurya Malwa",
+          "description": "The sudden drop on no immediate fundamental catalyst flushed millions of dollars worth of futures positions.",
+          "link": "https://www.coindesk.com/markets/2023/04/19/bitcoin-drops-1000-in-15-minutes-longs-make-98-of-liquidations/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2023-04-19T08:38:37.000Z",
+          "wordCount": 7928,
+          "title": "Bitcoin Drops $1,000 in 15 Minutes; Longs Make 98% of Liquidations",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/jpeg",
+            "url": "https://www.coindesk.com/resizer/UuxMotNSCdd2JXha33Cek8jA88k=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/XJS45MY5GNF75CIZ7JFB3P4ZQQ.jpg"
+          },
+          "imageUrl": "https://www.coindesk.com/resizer/UuxMotNSCdd2JXha33Cek8jA88k=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/XJS45MY5GNF75CIZ7JFB3P4ZQQ.jpg"
+        },
+        {
           "id": "http://www.inoreader.com/article/3a9c6e751908f49d",
           "author": "Nikhilesh De",
           "description": "Securities and Exchange Commission Chair Gary Gensler refused to say whether ether, the second-largest cryptocurrency by market cap, was a security during a nearly five-hour hearing Tuesday.",
           "link": "https://www.coindesk.com/policy/2023/04/19/sec-chair-gensler-declines-to-say-if-ether-is-a-security-in-contentious-congressional-hearing/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-04-19T08:12:53.000Z",
-          "wordCount": 9225,
+          "wordCount": 9123,
           "title": "SEC Chair Gensler Declines to Say if Ether Is a Security in Contentious Congressional Hearing",
           "enclosure": {
             "length": "1337",
@@ -1005,7 +1045,7 @@
           "description": "Rising bitcoin prices mean a stronger balance sheet, higher stock prices and easier debt repayment, without the company needing to sell its holdings, the report said.",
           "link": "https://www.coindesk.com/markets/2023/04/19/microstrategys-bitcoin-holding-doesnt-necessarily-pose-a-concentration-risk-bernstein/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-04-19T08:12:53.000Z",
-          "wordCount": 8262,
+          "wordCount": 8175,
           "title": "MicroStrategy’s Bitcoin Holding Doesn’t Necessarily Pose a Concentration Risk: Bernstein",
           "enclosure": {
             "length": "1337",
@@ -1020,7 +1060,7 @@
           "description": "The experiment, called Project Meridian, shows it's possible to settle large synchronized transactions in central bank money, a report said.",
           "link": "https://www.coindesk.com/policy/2023/04/19/central-banks-successfully-test-dlt-in-linking-financial-settlement-systems/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-04-19T07:40:42.000Z",
-          "wordCount": 8522,
+          "wordCount": 8431,
           "title": "Central Banks Successfully Test DLT in Linking Financial Settlement Systems",
           "enclosure": {
             "length": "1337",
@@ -1035,7 +1075,7 @@
           "description": "It has been a week since Ethereum’s Shapella hard fork, and statistics indicate that ethereum deposits on April 18 have exceeded withdrawals for the first time since the upgrade. At present, 929,999 ether worth $1.94 billion is pending withdrawal, and over the past three days, 112,568 ether has been added to liquid staking protocols.\n \nJust Under a Million Ether Worth Close to $2B Waits to Be Withdrawn; Average Network Fee Jumps Over $12 Per Transfer\n \nSince the Shapella upgrade, market participants have been closely monitoring Ethereum withdrawals as there was a lot of debate in the past over whether there would be massive sell pressure on the market. However, as of April 18, 2023, that has not been the case. Ethereum (ETH) is up 9% against the U.S. dollar over the past seven days.\n \nDuri…",
           "link": "https://news.bitcoin.com/post-shapella-hard-fork-ethereum-deposits-exceed-withdrawals-wait-time-climbs-eth-transfer-fees-jump/",
           "publishedOn": "2023-04-19T07:12:38.000Z",
-          "wordCount": 3578,
+          "wordCount": 3605,
           "title": "Post-Shapella Hard Fork: Ethereum Deposits Exceed Withdrawals, Wait Time Climbs, ETH Transfer Fees Jump",
           "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2023/04/etherdd.jpg"
         },
@@ -1045,7 +1085,7 @@
           "description": "The founder of Coinbase has hinted that the cryptocurrency exchange may relocate from the United States to the United Kingdom in order to take advantage of the country’s more accommodating regulatory atmosphere.\n \nBrian Armstrong, CEO of Coinbase, tweeted that he had a “great meeting” with Andrew Griffiths, UK Economic Secretary to the Treasury.\n \n \nCoinbase May Leave The US Due To Regulatory Restrictions\n \nArmstrong has warned that Coinbase, which has 110 million users, may leave the US if the country does not establish a regulated framework for cryptocurrencies.\n \n \nGreat meeting today with UK Economic Secretary and City Minister @griffitha.\n \nThe UK is moving fast on sensible crypto regulation to both drive economic growth AND consumer protection. Excited to keep investing in the UK.  p…",
           "link": "https://bitcoinist.com/coinbase-turns-to-europe-for-growth/",
           "publishedOn": "2023-04-19T06:49:32.000Z",
-          "wordCount": 4171,
+          "wordCount": 4169,
           "title": "Coinbase Turns To Europe For Growth Amid Clampdown By US Regulators",
           "enclosure": {
             "length": "1337",
@@ -1060,7 +1100,7 @@
           "description": "An entity connected to a wallet named “jaredfromsubway.eth” is sandwiching crypto traders, mainly those betting on tokens such as pepe and chad.",
           "link": "https://www.coindesk.com/tech/2023/04/19/ethereum-fees-spike-as-bots-spend-millions-to-frontrun-punters-of-pepe-chad/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-04-19T06:28:53.000Z",
-          "wordCount": 8960,
+          "wordCount": 8920,
           "title": "Ethereum Fees Spike as Bots Spend Millions to Frontrun Punters of PEPE, CHAD",
           "enclosure": {
             "length": "1337",
@@ -1075,7 +1115,7 @@
           "description": "Sergey Lavrov, the Russian foreign minister, started his tour of Latin America on April 17, landing first in Brasilia to hold high-level talks with Brazilian President Luiz Inacio ‘Lula’ da Silva and Brazilian Foreign Minister Mauro Vieira. Lavrov insisted that Russia was building a “multipolar” world, while Vieira rejected the unilateral sanctions enacted against Russia.\nRussian Foreign Minister Sergey Lavrov Talks Multipolar World in Brazil\nRussian Foreign Minister Sergey Lavrov started his Latin America tour on April 17, landing in Brazil to hold high-level discussions with Brazilian President Luiz Inacio ‘Lula’ da Silva and other Brazilian diplomats on energy and economic affairs. The tour, which will include visits to Venezuela, Nicaragua, and Cuba, seeks to strengthen the cooperation…",
           "link": "https://news.bitcoin.com/russian-foreign-minister-sergey-lavrov-explains-multipolar-world-view-in-brazil/",
           "publishedOn": "2023-04-19T05:43:02.000Z",
-          "wordCount": 3478,
+          "wordCount": 3475,
           "title": "Russian Foreign Minister Sergey Lavrov Explains ‘Multipolar’ World View in Brazil",
           "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2023/04/ft6ugikxwaahmr-.jpg"
         },
@@ -1085,7 +1125,7 @@
           "description": "The use of stablecoin is seeing immense growth in the biblical holy land.\n \nThe Bank of Israel published a report on Monday detailing the possible outcomes that would warrant a decision to issue a digital shekel.\n \nThe decline in the use of cash would undoubtedly lead Israel to develop its own central bank digital currency (CBDC), as would a good decision by the United States or the European Union to do so.\n \nA CBDC is the digital equivalent of a country’s fiat currency (money guaranteed by the government.\n \nCBDCs use stablecoins, whose value is fixed to a reference asset like fiat currency, to provide the same functions as conventional currency.\n \nAlthough 90% of the world’s central banks are looking into CBDCs, just a handful have progressed to the stage of issuance, as noted in the Bank…",
           "link": "https://bitcoinist.com/stablecoin-use-grows-in-israel/",
           "publishedOn": "2023-04-19T04:55:54.000Z",
-          "wordCount": 4675,
+          "wordCount": 4672,
           "title": "Stablecoin Growth In Israel Prompts Central Bank To Explore CBDCs",
           "enclosure": {
             "length": "1337",
@@ -1100,7 +1140,7 @@
           "description": "Asset management firm Eurizon SLJ’s strategists have warned that the erosion of the U.S. dollar’s global reserve currency status has accelerated at an alarming pace in recent years, especially following the onset of the Russia-Ukraine war. They noted that the USD has declined 8% in one year, which is “equivalent to 10 times the average annual pace of erosion in the USD’s market share in the prior years.”\n \nStrategists on the U.S. Dollar Losing Its Global Reserve Currency Status\n \nEurizon SLJ Asset Management says the U.S. dollar experienced a significant decline as a preferred reserve currency in 2022 despite its continued dominance in international trade. The firm’s strategists Joana Freire and Stephen Jen wrote in a note Monday:\n \n\nWe believe the erosion of the dollar’s reserve currency …",
           "link": "https://news.bitcoin.com/strategists-us-dollars-reserve-currency-status-eroding-at-alarming-pace/",
           "publishedOn": "2023-04-19T03:41:14.000Z",
-          "wordCount": 3297,
+          "wordCount": 3319,
           "title": "Strategists: US Dollar’s Reserve Currency Status Eroding at ‘Alarming Pace’",
           "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2023/04/usd.jpg"
         },
@@ -1110,7 +1150,7 @@
           "description": "Fitch Solutions’ global head of country risk has named the rising adoption of cryptocurrencies, the de-dollarization efforts by the BRICS countries, and China’s rising “economic might” as key factors that erode the U.S. dollar’s dominance over time. He cautioned that China will “exert more influence in global financial institutions and trade.”\n \nAnalyst Explains Why U.S. Dollar’s Dominance Is at Risk\n \nFitch Solutions’ global head of country risk, Cedric Chehab, explained why the U.S. dollar’s dominance is declining in an interview with CNBC on Sunday. Fitch Solutions provides financial information services; it is a division of Fitch Group that includes Fitch Ratings, a global leader in credit ratings and research.\n \nThe analyst explained that “Any reduction in the status of the U.S. dolla…",
           "link": "https://news.bitcoin.com/brics-de-dollarization-push-china-and-crypto-threaten-us-dollars-dominance-analyst/",
           "publishedOn": "2023-04-19T01:47:08.000Z",
-          "wordCount": 3302,
+          "wordCount": 3294,
           "title": "BRICS De-Dollarization Push, China, and Crypto Threaten US Dollar’s Dominance: Analyst",
           "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2023/04/dollar-erosion.jpg"
         },
@@ -1120,7 +1160,7 @@
           "description": "ALSO: Former CoinDesk head of research Noelle Acheson writes that longer-term narratives such as bitcoin's recent store-of-value story matter but that price depends more on fleeting, often fickle sentiment.",
           "link": "https://www.coindesk.com/markets/2023/04/19/first-mover-asia-bitcoin-rally-stalls-above-30k-ether-hits-21k/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-04-19T01:30:40.000Z",
-          "wordCount": 12301,
+          "wordCount": 12206,
           "title": "First Mover Asia: Bitcoin Rally Stalls Above $30K; Ether Hits $2.1K",
           "enclosure": {
             "length": "1337",
@@ -1135,7 +1175,7 @@
           "description": "The author of Rich Dad Poor Dad, Robert Kiyosaki, expects the price of bitcoin to keep rising. “I’m betting on it,” he said. Kiyosaki also shared that he bought 60 bitcoin when the price of the cryptocurrency was at $6,000 per coin.\n \nRobert Kiyosaki Expects Bitcoin’s Price to Keep Going Up\n \n\n \nThe author of Rich Dad Poor Dad, Robert Kiyosaki, has expressed his confidence that the price of bitcoin will keep going up. Rich Dad Poor Dad is a 1997 book co-authored by Kiyosaki and Sharon Lechter. It has been on the New York Times Best Seller List for over six years. More than 32 million copies of the book have been sold in over 51 languages across more than 109 countries.\n \n\n \nKiyosaki tweeted Tuesday:\n \n\nBitcoin up over 100% in a year. Will bitcoin keep going up? I’m betting on it.\n \n\n \nAt t…",
           "link": "https://news.bitcoin.com/robert-kiyosaki-expects-bitcoins-price-to-keep-rising-says-im-betting-on-it/",
           "publishedOn": "2023-04-18T23:45:12.000Z",
-          "wordCount": 3527,
+          "wordCount": 3539,
           "title": "Robert Kiyosaki Expects Bitcoin’s Price to Keep Rising — Says ‘I’m Betting on It’",
           "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2023/04/kiyosaki-bitcoin.jpg"
         },
@@ -1145,7 +1185,7 @@
           "description": "PRESS RELEASE. Volt Inu announced on Twitter on April 18, 2023, that it would launch VoltiEco within the following 3 weeks. VoltiEco, an AI-powered ecosystem, will collect existing and upcoming crypto protocol airdrops to sustain the Volt Inu ecosystem by rewarding holders and ensuring project development.\n \nA new product developed by Volt Inu\n \nVolt Inu has recently announced that it would launch VoltiEco, a decentralized and autonomous protocol that aims to engage with multiple network, protocol, or blockchain airdrops. Through VoltiEco, Volt Inu aims to sustain the company’s ecosystem, as VoltiEco can easily become a major revenue stream for Volt Inu.\n \nVoltiEco leverages blockchain technology, automated algorithms, and AI (Artificial Intelligence) to optimize and automate users’ entry …",
           "link": "https://news.bitcoin.com/volt-inu-is-ready-to-launch-voltieco-the-ai-powered-ecosystem/",
           "publishedOn": "2023-04-18T23:13:20.000Z",
-          "wordCount": 3340,
+          "wordCount": 3336,
           "title": "Volt Inu is Ready to Launch VoltiEco the AI-Powered Ecosystem",
           "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2023/04/a24ec229-770f-4bb2-8ca6-d9e8fa735a57.png"
         },
@@ -1155,7 +1195,7 @@
           "description": "The House Financial Services Committee has finally unveiled its stablecoin legislation, proposing a framework for stablecoin issuers such as Circle and Tether to define how their offerings can be regulated by state and federal entities, while calling for a temporary ban on algorithmic stablecoins.",
           "link": "https://www.coindesk.com/policy/2023/04/18/whats-in-the-house-financial-services-committees-stablecoin-bill/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-04-18T22:41:26.000Z",
-          "wordCount": 11598,
+          "wordCount": 11503,
           "title": "What’s in the House Financial Services Committee’s Stablecoin Bill?",
           "enclosure": {
             "length": "1337",
@@ -1170,7 +1210,7 @@
           "description": "On April 18, former U.S. president Donald Trump announced a second series of his digital Trump card collection, following the “great success” of his initial non-fungible token (NFT) trading cards. Despite selling out rapidly, Trump stated on Truth Social that he maintained the initial card prices for the new collection.\n \nTrump Unveils Series 2 NFT Collection With Mar-a-Lago Dining Opportunity\n \n\n \nTrump is back with a new NFT collection featuring 47,000 digital cards minted on Polygon. His first NFT collection, launched in mid-December 2022, sold out within hours. The cards’ value performed well on secondary markets and also surged following Trump’s indictment by a Manhattan grand jury.\n \n\n \nOn March 30, 2023, Trump was indicted with 34 felony counts of allegedly falsifying business recor…",
           "link": "https://news.bitcoin.com/former-us-president-donald-trump-launches-second-nft-card-collection/",
           "publishedOn": "2023-04-18T21:42:56.000Z",
-          "wordCount": 3524,
+          "wordCount": 3538,
           "title": "Former US President Donald Trump Launches Second NFT Card Collection",
           "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2023/04/tcards.jpg"
         },
@@ -1180,7 +1220,7 @@
           "description": "The tweet spurred speculation that the notable venture capital firm could launch its own Optimism-based layer 2 blockchain. A16z crypto’s CTO tweeted: “not an L2.”",
           "link": "https://www.coindesk.com/business/2023/04/18/optimisms-op-token-rallies-after-cryptic-tweet-from-a16z-engineer/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-04-18T21:28:42.000Z",
-          "wordCount": 8198,
+          "wordCount": 8108,
           "title": "A Mysterious A16z Tweet Sparked a Rally in Crypto Project Optimism's OP Token",
           "enclosure": {
             "length": "1337",
@@ -1195,7 +1235,7 @@
           "description": "The United Arab Emirates’ securities regulator has declared that it is now accepting license applications from firms keen on offering cryptocurrency services within the country. According to a press release on April 17th, the UAE is more proactive in regulating digital currencies within its borders.\n \n \nIt is now mandatory for crypto firms wanting to operate in the UAE to acquire a license from the Securities and Commodities Authority (SCA). The SCA has directed that all virtual-asset service providers (VASPs) in the country, except those already licensed in UAE’s financial-free zones, apply for approval.\n \nFollowing the UAE Council of Ministers’ previous year’s decision to regulate the cryptocurrency sector, the SCA recently endorsed this licensing regime. Since the beginning of this year…",
           "link": "https://bitcoinist.com/uaes-cryptocurrency-firms-to-apply-for-licenses/",
           "publishedOn": "2023-04-18T21:06:42.000Z",
-          "wordCount": 4670,
+          "wordCount": 4667,
           "title": "UAE’s Securities Regulator Open Doors For Cryptocurrency Firms To Apply For Licenses",
           "enclosure": {
             "length": "1337",
@@ -1203,46 +1243,6 @@
             "url": "https://bitcoinist.com/wp-content/uploads/2023/04/Dubai-Metaverse-4_1664773894114_1664773894114_1664773932061_1664773932061-640x360.webp"
           },
           "imageUrl": "https://bitcoinist.com/wp-content/uploads/2023/04/Dubai-Metaverse-4_1664773894114_1664773894114_1664773932061_1664773932061-640x360.webp"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e751ab570ba",
-          "author": "Sage D. Young",
-          "description": "A new proposal would see Lido accept its $1.2 million in ARB tokens and reward them to liquidity providers in wrapped staked ether pools.",
-          "link": "https://www.coindesk.com/business/2023/04/18/lido-considers-using-its-arb-airdrop-to-boost-activity-on-arbitrum/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-          "publishedOn": "2023-04-18T21:03:54.000Z",
-          "wordCount": 8386,
-          "title": "Lido Considers Using Its ARB Airdrop to Boost Activity on Arbitrum",
-          "enclosure": {
-            "length": "1337",
-            "type": "image/jpeg",
-            "url": "https://www.coindesk.com/resizer/DfoW67_RxZZzS-iZjHKtJ50IK9o=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/PCRDKHQSONBSXHCY5IOT6OW7WQ.jpg"
-          },
-          "imageUrl": "https://www.coindesk.com/resizer/DfoW67_RxZZzS-iZjHKtJ50IK9o=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/PCRDKHQSONBSXHCY5IOT6OW7WQ.jpg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e751abee11f",
-          "author": "Jamie Redman",
-          "description": "There is a lot of discussion lately about the U.S. government’s debt ceiling and whether Congress will act before defaulting. In a recent interview, Christine Lagarde, the president of the European Central Bank (ECB), said she is confident the U.S. can maintain its debt obligations. However, she warned that if the U.S. were to default on its debts, it would be a “major disaster.”\n \nLagarde Confident in U.S. Debt Management Despite Predictions of Possible Default Crisis for Government in August or September\n \nAlthough the United States of America is an economic superpower, it has accumulated more than $31 trillion in debt held by the government and intragovernmental holding entities. The debt has grown exponentially over the last 20 years, and there has been much talk in recent times about …",
-          "link": "https://news.bitcoin.com/ecb-president-lagarde-warns-of-major-disaster-if-us-defaults-on-debt-obligations/",
-          "publishedOn": "2023-04-18T19:37:58.000Z",
-          "wordCount": 3771,
-          "title": "ECB President Lagarde Warns of ‘Major Disaster’ If US Defaults on Debt Obligations",
-          "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2023/04/jogbb34.jpg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e751abf14bc",
-          "author": "BtcCasey",
-          "description": "Coinbase has been facing pressures that have led to the CEO stating it may be forced to go international.\nCoinbase is considering establishing itself in another country should the United State’s negative regulatory stance on Bitcoin and cryptocurrencies continue, according to CEO Brian Armstrong.\n“I think if a number of years go by where we don’t see regulatory clarity emerge in the US, we may have to consider investing more in other regions of the world,” Armstrong reportedly said in response to a question at a fintech conference Tuesday.\nIn March, it was reported that Coinbase had been in talks with investors and other interested parties about potentially launching an overseas exchange. The largest cryptocurrency and Bitcoin exchange by volume based in the United States, Coinbase has fac…",
-          "link": "https://bitcoinmagazine.com/business/americas-largest-bitcoin-exchange-is-considering-leaving-the-country",
-          "publishedOn": "2023-04-18T19:36:31.000Z",
-          "wordCount": null,
-          "title": "America’s Largest Bitcoin Exchange Is Considering Leaving The Country",
-          "enclosure": {
-            "length": "1337",
-            "type": "image/jpeg",
-            "url": "http://bitcoinmagazine.com/.image/c_limit,cs_srgb,fl_progressive,h_1200,q_auto:good,w_1200/MTgxNzU1NDUwOTE4NzczOTI2/us-america.jpg"
-          },
-          "imageUrl": "http://bitcoinmagazine.com/.image/c_limit,cs_srgb,fl_progressive,h_1200,q_auto:good,w_1200/MTgxNzU1NDUwOTE4NzczOTI2/us-america.jpg"
         }
       ]
     }

@@ -6,12 +6,72 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=144438",
+          "author": "André Beganski",
+          "description": "The study uses ASIC model \"fingerprints\" to understand Bitcoin’s energy use, saying it's wrong to assume the same efficiency across mining rigs.",
+          "link": "https://decrypt.co/144438/how-much-energy-does-bitcoin-really-use-less-than-you-might-think",
+          "publishedOn": "2023-06-13T21:02:50.000Z",
+          "wordCount": 10065,
+          "title": "How Much Energy Does Bitcoin Really Use? Less Than You Might Think",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/10/bitcoin-mining-rigs-gID_7.jpg@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/10/bitcoin-mining-rigs-gID_7.jpg@png"
+        },
+        {
+          "id": "https://decrypt.co/?p=144465",
+          "author": "Andrew Throuvalas",
+          "description": "The head of MicroStrategy says it’s time to accept that ‘Bitcoin is the next Bitcoin.’",
+          "link": "https://decrypt.co/144465/bitcoin-will-10x-with-regulatory-clarity-says-michael-saylor",
+          "publishedOn": "2023-06-13T20:28:56.000Z",
+          "wordCount": 8393,
+          "title": "Bitcoin Will ‘10X’ With Regulatory Clarity, Says Michael Saylor",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/02/michael-saylor-microstrategy-gID_7.jpg@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/02/michael-saylor-microstrategy-gID_7.jpg@png"
+        },
+        {
+          "id": "https://decrypt.co/?p=144457",
+          "author": "Tom Farren",
+          "description": "Fewocious, a prominent Web3 artist, has teamed with the apparel giant to launch the Adidas Originals Campus 00s via NFT redemption ticket.",
+          "link": "https://decrypt.co/144457/adidas-reveals-sneaker-collab-nft-artist-fewocious",
+          "publishedOn": "2023-06-13T20:15:44.000Z",
+          "wordCount": 9313,
+          "title": "Adidas Reveals Sneaker Collab With NFT Artist Fewocious",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/06/aO_FEWO_FW23_LOOK08_16X9_LR-gID_7.jpg@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/06/aO_FEWO_FW23_LOOK08_16X9_LR-gID_7.jpg@png"
+        },
+        {
+          "id": "https://decrypt.co/videos/interviews/YaGgY87J/are-nfts-the-next-sec-target",
+          "author": null,
+          "description": "Decrypt's Kate Irwin discusses the current regulatory climate in the U.S. with Gala Games' President of Blockchain Jason Brink.",
+          "link": "https://decrypt.co/videos/interviews/YaGgY87J/are-nfts-the-next-sec-target",
+          "publishedOn": "2023-06-13T20:15:00.000Z",
+          "wordCount": 5974,
+          "title": "Are NFTs the Next SEC Target?",
+          "enclosure": {
+            "url": "https://cdn.jwplayer.com/v2/media/YaGgY87J/poster.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.jwplayer.com/v2/media/YaGgY87J/poster.jpg"
+        },
+        {
           "id": "https://decrypt.co/?p=144444",
           "author": "Mathew Di Salvo",
           "description": "Lazarus Groupe hacked crypto wallet service Atomic Wallet earlier this month, Elliptic said.",
           "link": "https://decrypt.co/144444/north-korean-hackers-pocket-over-100-m-in-atomic-wallet-heist",
           "publishedOn": "2023-06-13T19:43:01.000Z",
-          "wordCount": 8410,
+          "wordCount": 8443,
           "title": "North Korean Hackers Pocketed More Than $100M in Atomic Wallet Hack",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/06/north-korea-lazarus-group-covid-stimulus-gID_7.jpg@png",
@@ -26,7 +86,7 @@
           "description": "The Arbitrum-based NFT pass will let fans join the rapper’s summer tour via exclusive benefits.",
           "link": "https://decrypt.co/144446/snoop-dogg-nft-tour-pass-fans-virtual-travel-world-tour",
           "publishedOn": "2023-06-13T19:37:06.000Z",
-          "wordCount": 8544,
+          "wordCount": 8599,
           "title": "Snoop Dogg's NFT Tour Pass Lets Fans 'Travel the World' With Him Virtually",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/04/snoop-dogg-gID_7.jpg@png",
@@ -41,7 +101,7 @@
           "description": "Regulators say they'll welcome firms with \"genuine operations and genuine business practices,\" which could mean an office or employees in Hong Kong.",
           "link": "https://decrypt.co/144436/hong-kong-new-crypto-rules-explained",
           "publishedOn": "2023-06-13T19:02:19.000Z",
-          "wordCount": 8498,
+          "wordCount": 8465,
           "title": "Hong Kong's New Crypto Rules Explained",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/06/bitcoin-hong-kong-dollar-gID_7.jpg@png",
@@ -131,7 +191,7 @@
           "description": "The celebrity stars’ Santo Spirits Club will reward users with “mystery” NFTs alongside real-world rewards.",
           "link": "https://decrypt.co/144378/guy-fieri-sammy-hagar-tequila-brand-launches-nft-loyalty-program",
           "publishedOn": "2023-06-13T14:00:39.000Z",
-          "wordCount": 9391,
+          "wordCount": 9413,
           "title": "Guy Fieri and Sammy Hagar's Tequila Brand Launches NFT Loyalty Program",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/06/guy-fieri-sammy-hagar-santo-spirits-gID_7.png@png",
@@ -146,7 +206,7 @@
           "description": "As the Hinman documents, referring to a speech from a former director, are finally released, the price of the XRP token has soared.",
           "link": "https://decrypt.co/144375/xrp-jumps-unsealing-highly-anticipated-hinman-documents",
           "publishedOn": "2023-06-13T13:53:18.000Z",
-          "wordCount": 8989,
+          "wordCount": 8956,
           "title": "XRP Jumps After Highly Anticipated Hinman Docs Are Unsealed",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/01/ripple-gID_7.jpg@png",
@@ -221,7 +281,7 @@
           "description": "The South Korea-based crypto earn platform Haru has halted withdrawals for a reported 80,000 users across 140 countries.",
           "link": "https://decrypt.co/144354/crypto-earn-platform-haru-invest-freezes-withdrawals-citing-service-partner-issue",
           "publishedOn": "2023-06-13T11:22:00.000Z",
-          "wordCount": 8288,
+          "wordCount": 8255,
           "title": "Crypto Earn Platform Haru Invest Freezes Withdrawals, Citing Service Partner Issue",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/06/frozen-money-gID_7.jpg@png",
@@ -281,7 +341,7 @@
           "description": "The founder and CEO of metaverse fashion platform BNV Richard Hobbs said big brands are still nervous to let fans and community members customize their favorite garments. Still, he believes that as long as you can meet a firm's commercial bottom lines while stirring engagement, there's nothing to lose.",
           "link": "https://decrypt.co/videos/live-events/z6NSMnNm/community-co-creation-is-a-big-step-for-fashion-brands-entering-the-metaverse-bnv-founder-and-ceo",
           "publishedOn": "2023-06-13T08:49:16.000Z",
-          "wordCount": 6186,
+          "wordCount": 6153,
           "title": "Community Co-Creation 'Is a Big Step for Fashion Brands' Entering the Metaverse: BNV Founder and CEO",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/z6NSMnNm/poster.jpg",
@@ -296,7 +356,7 @@
           "description": "Immersive games and events across Decentraland, Spatial, and Roblox this week will invite users to experience cosmetic brands in new ways.",
           "link": "https://decrypt.co/144327/metaverse-beauty-week-aims-showcase-branding-potential-metaverse",
           "publishedOn": "2023-06-13T02:03:34.000Z",
-          "wordCount": 9626,
+          "wordCount": 9659,
           "title": "Metaverse Beauty Week Aims to Showcase the Branding Potential of the Metaverse",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/06/IMG_0557-gID_7.jpg@png",
@@ -341,7 +401,7 @@
           "description": "A convincing-looking BRC-20 token mint on Friday apparently swiped some $63,000 worth of Bitcoin from unsuspecting traders.",
           "link": "https://decrypt.co/144320/bitcoin-ordinals-hype-lures-meme-token-traders-wallet-drainer-attack",
           "publishedOn": "2023-06-13T01:18:37.000Z",
-          "wordCount": 8977,
+          "wordCount": 9010,
           "title": "Bitcoin Ordinals Hype Lures Meme Token Traders Into Wallet Drainer Attack",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/01/bitcoin-stolen-hacked-hackers-malware-gID_7.jpg@png",
@@ -356,7 +416,7 @@
           "description": "Beating one-to-5,500 odds, the miner solved a block by renting six-year-old hardware.",
           "link": "https://decrypt.co/144309/another-solo-bitcoin-miner-hits-the-jackpot-for-160000",
           "publishedOn": "2023-06-12T23:06:04.000Z",
-          "wordCount": 8570,
+          "wordCount": 8537,
           "title": "Another Solo Bitcoin Miner Hits the Jackpot for $160,000",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/04/Mining-gID_7.jpg@png",
@@ -431,7 +491,7 @@
           "description": "The United Nations expressed particular concern over the role of AI-generated deepfakes in conflict zones.",
           "link": "https://decrypt.co/144281/un-united-nations-ai-deepfakes-hate-misinformation",
           "publishedOn": "2023-06-12T20:48:29.000Z",
-          "wordCount": 8861,
+          "wordCount": 8828,
           "title": "UN Warns of AI-Generated Deepfakes Fueling Hate and Misinformation Online",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/06/Decrypt-Wallpaper-Format-40-gID_7.png@png",
@@ -461,7 +521,7 @@
           "description": "Liquidity on Binance's American exchange has dropped since its regulatory woes began last week.",
           "link": "https://decrypt.co/144266/binance-us-market-shrinks-after-sec-lawsuit",
           "publishedOn": "2023-06-12T19:55:15.000Z",
-          "wordCount": 8323,
+          "wordCount": 8356,
           "title": "Binance US Market Shrinks 78% in Just 7 Days After SEC Lawsuit",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/04/Binance.US_-e1649243416644-gID_7.png@png",
@@ -561,51 +621,6 @@
           "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2019/03/51f43919-dd49-4e1c-9a19-e27675166b60_-gID_1-pID_5.png@png"
         },
         {
-          "id": "https://decrypt.co/?p=103949",
-          "author": "Jason Nelson",
-          "description": "Here's a beginner's guide to the tools and apps you need to start a Decentralized Autonomous Organization.",
-          "link": "https://decrypt.co/resources/how-to-launch-decentralized-autonomous-organization-dao",
-          "publishedOn": "2023-06-12T12:26:03.000Z",
-          "wordCount": 10889,
-          "title": "How to Launch a DAO",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/06/setup-dao-gID_5-pID_6.png@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/06/setup-dao-gID_5-pID_6.png@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=144193",
-          "author": "Andrew Asmakov",
-          "description": "The Blockstream co-founder told Decrypt that the U.S. crypto crackdown won’t have far-reaching consequences for Bitcoin traders.",
-          "link": "https://decrypt.co/144193/bitcoin-antifragile-to-regulatory-pressures-blockstream-ceo-adam-back",
-          "publishedOn": "2023-06-12T12:01:20.000Z",
-          "wordCount": 8812,
-          "title": "Bitcoin ‘Antifragile’ to Regulatory Pressures: Blockstream CEO Adam Back",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/06/Adam-Back-Blocksream-gID_7.jpg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/06/Adam-Back-Blocksream-gID_7.jpg@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=144188",
-          "author": "Nivesh Rustgi",
-          "description": "The DeFi platform’s team is trying to communicate with the attackers as its stolen ETH is moved through Tornado Cash.",
-          "link": "https://decrypt.co/144188/defi-lending-protocol-sturdy-finance-hit-by-exploit-over-750k-drained",
-          "publishedOn": "2023-06-12T11:09:19.000Z",
-          "wordCount": 8643,
-          "title": "DeFi Lending Protocol Sturdy Finance Hit By Exploit, Over $750K Drained",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/09/crypto-hack-exploit-gID_5.png@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/09/crypto-hack-exploit-gID_5.png@png"
-        },
-        {
           "id": "https://decrypt.co/videos/interviews/XPHp9r4j/ava-labs-announces-avalanche-arcad3-for-game-developers-at-3xp",
           "author": null,
           "description": "Ava Labs Head of Gaming Ed Chang shares news with Decrypt's Kate Irwin about the crypto firm's latest push to help traditional game developers break into blockchain gaming.",
@@ -686,7 +701,7 @@
           "description": "Getting non-crypto artists to make the leap into Web3 comes in ebbs and flows according to the market’s bear and bull waves, says co-founder of NFT Club Berlin and Superteam Germany Rebekka Revel. But she’s hoping to change that by changing the narrative around digital collectibles, regardless of the market, one word at a time.",
           "link": "https://decrypt.co/videos/live-events/QKlIVlj3/artists-adopting-nfts-has-been-really-market-dependent-says-nft-club-berlins-rebekka-revel",
           "publishedOn": "2023-06-08T15:07:12.000Z",
-          "wordCount": 6171,
+          "wordCount": 6204,
           "title": "Artists Adopting NFTs Has Been ‘Really Market Dependent’, Says NFT Club Berlin’s Rebekka Revel",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/QKlIVlj3/poster.jpg",
@@ -746,7 +761,7 @@
           "description": "Words With Friends and Wildcard creator Paul Bettner tells Decrypt's Kate Irwin about his perspective on what to do when NFTs become in-game characters and assets.",
           "link": "https://decrypt.co/videos/interviews/JkfOleb4/why-words-with-friends-creator-paul-bettner-is-allergic-to-pay-to-win-nfts",
           "publishedOn": "2023-06-07T20:47:00.000Z",
-          "wordCount": 6012,
+          "wordCount": 6045,
           "title": "Why 'Words With Friends' Creator Paul Bettner is 'Allergic' to Pay-to-Win NFTs",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/JkfOleb4/poster.jpg",
@@ -844,21 +859,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.jwplayer.com/v2/media/PDArXOkZ/poster.jpg"
-        },
-        {
-          "id": "https://decrypt.co/videos/interviews/agBnfg7Z/trons-justin-sun-thinks-hong-kong-will-be-a-big-fiat-onramp-for-crypto",
-          "author": null,
-          "description": "Justin Sun, Tron founder and advisor to crypto exchange Huobi, talks to Decrypt's Liam Kelly and Stacy Elliott about the impact of Hong Kong allowing residents to trade crypto, complications of restricting access based on location, and how AI will change the industry.",
-          "link": "https://decrypt.co/videos/interviews/agBnfg7Z/trons-justin-sun-thinks-hong-kong-will-be-a-big-fiat-onramp-for-crypto",
-          "publishedOn": "2023-06-01T12:19:02.000Z",
-          "wordCount": 6142,
-          "title": "Tron's Justin Sun Thinks Hong Kong Will Be a Big Fiat Onramp for Crypto",
-          "enclosure": {
-            "url": "https://cdn.jwplayer.com/v2/media/agBnfg7Z/poster.jpg",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.jwplayer.com/v2/media/agBnfg7Z/poster.jpg"
         }
       ]
     },
@@ -868,13 +868,163 @@
       "siteUrl": "https://cryptopanic.com/",
       "articles": [
         {
+          "id": "https://cryptopanic.com/news/18568149/How-Much-Energy-Does-Bitcoin-Really-Use-Less-Than-You-Might-Think",
+          "author": null,
+          "description": "The study uses ASIC model \"fingerprints\" to understand Bitcoin’s energy use, saying it's wrong to assume the same efficiency across mining rigs.",
+          "link": "https://cryptopanic.com/news/18568149/How-Much-Energy-Does-Bitcoin-Really-Use-Less-Than-You-Might-Think",
+          "publishedOn": "2023-06-13T21:02:50.000Z",
+          "wordCount": 592,
+          "title": "How Much Energy Does Bitcoin Really Use? Less Than You Might Think",
+          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/10/bitcoin-mining-rigs-gID_7.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/18568145/ApeCoin-DAO-Faces-Criticism-For-Salary-Dispute-The-Latest-Updates",
+          "author": null,
+          "description": "ApeCoin DAO, the Web3 organization associated with ApeCoin, has recently faced backlash due to concerns over its high payouts and perceived lack of community engagement. Critics have raised objections to the substantial salaries and fees, reportedly reaching up to $75,000 per month, that the DAO...",
+          "link": "https://cryptopanic.com/news/18568145/ApeCoin-DAO-Faces-Criticism-For-Salary-Dispute-The-Latest-Updates",
+          "publishedOn": "2023-06-13T21:00:20.000Z",
+          "wordCount": 590,
+          "title": "ApeCoin DAO Faces Criticism For Salary Dispute: The Latest Updates",
+          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2023/06/BTCUSD_2023-06-13_21-18-40.png"
+        },
+        {
+          "id": "https://cryptopanic.com/news/18568146/SEC-hears-from-Blockchain-Assoc-House-Republicans-on-exchange-definition-proposal",
+          "author": null,
+          "description": "More opposition has come in at the last minute to the year-old proposal reimagining the SEC'ss definition of a securities exchange.",
+          "link": "https://cryptopanic.com/news/18568146/SEC-hears-from-Blockchain-Assoc-House-Republicans-on-exchange-definition-proposal",
+          "publishedOn": "2023-06-13T21:00:00.000Z",
+          "wordCount": 591,
+          "title": "SEC hears from Blockchain Assoc., House Republicans on 'exchange' definition proposal",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18568126/House-Republicans-tell-SEC-to-refrain-from-expanding-defintion-of-exchange",
+          "author": null,
+          "description": "Republicans on the House Financial Services Committee told the SEC on June 12 to rescind proposed rulemaking concerning crypto exchanges. Republicans oppose broadened definition Specifically, the lawmakers expressed concern with a proposed amendment from the U.S. Securities and Exchange...",
+          "link": "https://cryptopanic.com/news/18568126/House-Republicans-tell-SEC-to-refrain-from-expanding-defintion-of-exchange",
+          "publishedOn": "2023-06-13T20:45:27.000Z",
+          "wordCount": 591,
+          "title": "House Republicans tell SEC to refrain from expanding defintion of exchange",
+          "imageUrl": "https://cryptoslate.com/wp-content/uploads/2018/03/congress-ico-hearing-social.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/18568116/eToro-Imposes-Restrictions-on-4-Crypto-Assets-Labelled-as-Securities-in-SEC-Lawsuit",
+          "author": null,
+          "description": "US customers of eToro will have a month-long window to continue trading the crypto-assets in question.",
+          "link": "https://cryptopanic.com/news/18568116/eToro-Imposes-Restrictions-on-4-Crypto-Assets-Labelled-as-Securities-in-SEC-Lawsuit",
+          "publishedOn": "2023-06-13T20:40:06.000Z",
+          "wordCount": 593,
+          "title": "eToro Imposes Restrictions on 4 Crypto Assets Labelled as Securities in SEC Lawsuit",
+          "imageUrl": "https://cryptopotato.com/wp-content/uploads/2021/01/Etoro-min.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/18568125/Ripples-Chief-Legal-Officer-Dissects-Hinmans-Speech-and-Its-Impact-on-Crypto-Regulation",
+          "author": null,
+          "description": "On Tuesday (June 13, 2023), Stuart Alderoty, Ripple’s Chief Legal Officer, offered a comprehensive analysis of the recently unsealed internal emails at the U.S. Securities and Exchange Commission (SEC) related to William Hinman’s 2018 speech on Ethereum. Alderoty’s insights shed light on the...",
+          "link": "https://cryptopanic.com/news/18568125/Ripples-Chief-Legal-Officer-Dissects-Hinmans-Speech-and-Its-Impact-on-Crypto-Regulation",
+          "publishedOn": "2023-06-13T20:40:00.000Z",
+          "wordCount": 593,
+          "title": "Ripple’s Chief Legal Officer Dissects Hinman’s Speech and Its Impact on Crypto Regulation",
+          "imageUrl": "https://cryptoglobe.s3.eu-west-2.amazonaws.com/2023/03/Stuart-Alderoty-in-2023-768x409.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/18568111/Footwear-conglomerate-Puma-launches-3D-Web3-experience",
+          "author": null,
+          "description": "The experience is designed for everyone, but Puma Pass holders gain access to exclusive perks.",
+          "link": "https://cryptopanic.com/news/18568111/Footwear-conglomerate-Puma-launches-3D-Web3-experience",
+          "publishedOn": "2023-06-13T20:35:00.000Z",
+          "wordCount": 587,
+          "title": "Footwear conglomerate Puma launches 3D Web3 experience",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18568110/XRP-pumps-Ripples-CEO-knocks-SEC-as-Hinmans-statement-goes-public",
+          "author": null,
+          "description": "The Ripple-SEC case took an interesting turn. The document hidden from the public eye is now up for communal scrutiny.",
+          "link": "https://cryptopanic.com/news/18568110/XRP-pumps-Ripples-CEO-knocks-SEC-as-Hinmans-statement-goes-public",
+          "publishedOn": "2023-06-13T20:30:13.000Z",
+          "wordCount": 591,
+          "title": "XRP pumps, Ripple’s CEO knocks SEC as Hinman’s statement goes public",
+          "imageUrl": "https://statics.ambcrypto.com/wp-content/uploads/2023/06/Ripple-Hinman-case.png"
+        },
+        {
+          "id": "https://cryptopanic.com/news/18568115/Bitcoin-Will-10X-With-Regulatory-Clarity-Says-Michael-Saylor",
+          "author": null,
+          "description": "The head of MicroStrategy says it’s time to accept that ‘Bitcoin is the next Bitcoin.’",
+          "link": "https://cryptopanic.com/news/18568115/Bitcoin-Will-10X-With-Regulatory-Clarity-Says-Michael-Saylor",
+          "publishedOn": "2023-06-13T20:28:56.000Z",
+          "wordCount": 589,
+          "title": "Bitcoin Will ‘10X’ With Regulatory Clarity, Says Michael Saylor",
+          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2023/02/michael-saylor-microstrategy-gID_7.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/18568087/What-is-Polygon-20-And-How-Does-It-Transform-the-Network",
+          "author": null,
+          "description": "Polygon looks to transform Ethereum by radically changing its network in Polygon 2.0 with zero-knowledge-powered layers.",
+          "link": "https://cryptopanic.com/news/18568087/What-is-Polygon-20-And-How-Does-It-Transform-the-Network",
+          "publishedOn": "2023-06-13T20:20:00.000Z",
+          "wordCount": 591,
+          "title": "What is Polygon 2.0, And How Does It Transform the Network?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18568085/SBF-seeks-to-sever-new-charges-from-trial-says-proceedings-may-take-years",
+          "author": null,
+          "description": "The U.S. cannot try Sam Bankman-Fried for the charges until a lengthy appeals process in the Bahamas has been exhausted, defense attorneys stated.",
+          "link": "https://cryptopanic.com/news/18568085/SBF-seeks-to-sever-new-charges-from-trial-says-proceedings-may-take-years",
+          "publishedOn": "2023-06-13T20:16:06.000Z",
+          "wordCount": 593,
+          "title": "SBF seeks to sever new charges from trial, says proceedings may take ‘years’",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18568095/Adidas-Reveals-Sneaker-Collab-With-NFT-Artist-Fewocious",
+          "author": null,
+          "description": "Fewocious, a prominent Web3 artist, has teamed with the apparel giant to launch the Adidas Originals Campus 00s via NFT redemption ticket.",
+          "link": "https://cryptopanic.com/news/18568095/Adidas-Reveals-Sneaker-Collab-With-NFT-Artist-Fewocious",
+          "publishedOn": "2023-06-13T20:15:44.000Z",
+          "wordCount": 588,
+          "title": "Adidas Reveals Sneaker Collab With NFT Artist Fewocious",
+          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2023/06/aO_FEWO_FW23_LOOK08_16X9_LR-gID_7.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/18568096/Are-NFTs-the-Next-SEC-Target",
+          "author": null,
+          "description": "Decrypt's Kate Irwin discusses the current regulatory climate in the U.S. with Gala Games' President of Blockchain Jason Brink.",
+          "link": "https://cryptopanic.com/news/18568096/Are-NFTs-the-Next-SEC-Target",
+          "publishedOn": "2023-06-13T20:15:00.000Z",
+          "wordCount": 586,
+          "title": "Are NFTs the Next SEC Target?",
+          "imageUrl": "https://cdn.jwplayer.com/v2/media/YaGgY87J/poster.jpg"
+        },
+        {
           "id": "https://cryptopanic.com/news/18568076/House-Republicans-push-back-on-SEC-proposal-to-alter-exchange-definition",
           "author": null,
-          "description": "",
+          "description": "House Financial Services Committee Republicans call the SEC’s suggested “exchange” definition an overstep",
           "link": "https://cryptopanic.com/news/18568076/House-Republicans-push-back-on-SEC-proposal-to-alter-exchange-definition",
           "publishedOn": "2023-06-13T20:04:11.000Z",
-          "wordCount": null,
+          "wordCount": 591,
           "title": "House Republicans push back on SEC proposal to alter exchange definition",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18568100/Bitcoins-On-Chain-Metrics-In-Excellent-Shape-Despite-Price-Plunge-Analyst-Says",
+          "author": null,
+          "description": "The past week has brought forth a series of regulatory uncertainties and price drops for Bitcoin and other cryptocurrencies.",
+          "link": "https://cryptopanic.com/news/18568100/Bitcoins-On-Chain-Metrics-In-Excellent-Shape-Despite-Price-Plunge-Analyst-Says",
+          "publishedOn": "2023-06-13T20:03:11.000Z",
+          "wordCount": 591,
+          "title": "Bitcoin’s On-Chain Metrics ‘In Excellent Shape’ Despite Price Plunge, Analyst Says",
+          "imageUrl": "https://zycrypto.com/wp-content/uploads/2021/02/Bitcoin-Flashes-2017-Bull-Pattern-Metric-Suggests-Price-Can-Go-As-High-As-300K.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/18567916/Crypto-Taxes-101-with-Clinton-Donnelly",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/18567916/Crypto-Taxes-101-with-Clinton-Donnelly",
+          "publishedOn": "2023-06-13T20:01:06.000Z",
+          "wordCount": null,
+          "title": "Crypto Taxes 101 with Clinton Donnelly",
           "imageUrl": null
         },
         {
@@ -890,181 +1040,31 @@
         {
           "id": "https://cryptopanic.com/news/18568066/Bitcoin-Bull-Market-Still-On-As-BTC-Continues-To-Climb-Wall-of-Worry-Says-Crypto-Strategist",
           "author": null,
-          "description": "A closely followed crypto strategist says that Bitcoin’s (BTC) long-term trend remains up despite its bearish price action after briefly surging above $30,000. In a new video, analyst Jason Pizzino tells his 285,000 YouTube subscribers that Bitcoin is still in a bull market. According to the...",
+          "description": "",
           "link": "https://cryptopanic.com/news/18568066/Bitcoin-Bull-Market-Still-On-As-BTC-Continues-To-Climb-Wall-of-Worry-Says-Crypto-Strategist",
           "publishedOn": "2023-06-13T20:00:27.000Z",
-          "wordCount": 596,
+          "wordCount": null,
           "title": "Bitcoin Bull Market Still On As BTC Continues To Climb Wall of Worry, Says Crypto Strategist",
-          "imageUrl": "https://dailyhodl.com/wp-content/uploads/2023/06/To-Climb-Wall-btc.jpg"
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18568084/Pitch-Day-Part-1-Infrastructure-Bitcoin-2023",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/18568084/Pitch-Day-Part-1-Infrastructure-Bitcoin-2023",
+          "publishedOn": "2023-06-13T20:00:08.000Z",
+          "wordCount": null,
+          "title": "Pitch Day Part 1: Infrastructure - Bitcoin 2023",
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/18568064/Bitcoin-Market-At-Decision-Point-Will-This-On-Chain-Retest-Be-Successful",
           "author": null,
-          "description": "",
+          "description": "On-chain data shows a Bitcoin metric is approaching a crucial retest that can make or break a rally. Will the bulls come out on top? Bitcoin Short-Term Holder Realized Profit/Loss Ratio Is Nearing 1 Level According to data from the on-chain analytics firm Glassnode, a successful retest here...",
           "link": "https://cryptopanic.com/news/18568064/Bitcoin-Market-At-Decision-Point-Will-This-On-Chain-Retest-Be-Successful",
           "publishedOn": "2023-06-13T20:00:02.000Z",
-          "wordCount": null,
+          "wordCount": 591,
           "title": "Bitcoin Market At Decision Point: Will This On-Chain Retest Be Successful?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18568078/Sturdy-Finance-DeFi-Protocol-Faces-Exploit-Loses-More-Than-750000",
-          "author": null,
-          "description": "Decentralized finance (DeFi) protocol Sturdy Finance has been exploited, but the team has promised that no further action will be taken against the hackers if the money is returned. Writing on Twitter on Tuesday, Sturdy Finance founder Sam Forman said his team has told the exploiter that they...",
-          "link": "https://cryptopanic.com/news/18568078/Sturdy-Finance-DeFi-Protocol-Faces-Exploit-Loses-More-Than-750000",
-          "publishedOn": "2023-06-13T20:00:00.000Z",
-          "wordCount": 590,
-          "title": "Sturdy Finance DeFi Protocol Faces Exploit, Loses More Than $750,000",
-          "imageUrl": "https://v2.cimg.co/news/116800/312821/hacking.jpeg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/18568060/US-lawmaker-invokes-SEC-lawsuits-in-considering-crypto-regulatory-framework",
-          "author": null,
-          "description": "According to Rep. Maxine Waters, granting crypto firms provisional registration under a proposed framework \"could reward bad actors with a ‘get out of jail free’ card\".",
-          "link": "https://cryptopanic.com/news/18568060/US-lawmaker-invokes-SEC-lawsuits-in-considering-crypto-regulatory-framework",
-          "publishedOn": "2023-06-13T19:59:57.000Z",
-          "wordCount": 590,
-          "title": "US lawmaker invokes SEC lawsuits in considering crypto regulatory framework",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18568067/Ripples-Legal-Counsel-Calls-for-Investigation-into-Former-SEC-Official-William-Hinman-After-Release-of-Emails",
-          "author": null,
-          "description": "Ripple Labs’ head legal counsel says there should be an investigation into the U.S. Securities and Exchange Commission’s (SEC) former Director of Corporation Finance following the reveal of internal emails. In 2018, William Hinman made a speech declaring Ethereum (ETH) as not a security, which...",
-          "link": "https://cryptopanic.com/news/18568067/Ripples-Legal-Counsel-Calls-for-Investigation-into-Former-SEC-Official-William-Hinman-After-Release-of-Emails",
-          "publishedOn": "2023-06-13T19:55:46.000Z",
-          "wordCount": 596,
-          "title": "Ripple’s Legal Counsel Calls for Investigation into Former SEC Official William Hinman After Release of Emails",
-          "imageUrl": "https://dailyhodl.com/wp-content/uploads/2022/10/ripple-ceo-calls-lawsuit.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/18568056/Is-It-Too-Late-to-Buy-Sui-SUI-Price-Bounces-34-From-Recent-Bottom-and-This-New-Penny-Crypto-Could-Reach-1-Million-Soon-What-Does-it-Do",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/18568056/Is-It-Too-Late-to-Buy-Sui-SUI-Price-Bounces-34-From-Recent-Bottom-and-This-New-Penny-Crypto-Could-Reach-1-Million-Soon-What-Does-it-Do",
-          "publishedOn": "2023-06-13T19:40:00.000Z",
-          "wordCount": null,
-          "title": "Is It Too Late to Buy Sui? SUI Price Bounces 34% From Recent Bottom and This New Penny Crypto Could Reach $1 Million Soon – What Does it Do?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18568041/Snoop-Doggs-NFT-Tour-Pass-Lets-Fans-Travel-the-World-With-Him-Virtually",
-          "author": null,
-          "description": "The Arbitrum-based NFT pass will let fans join the rapper’s summer tour via exclusive benefits.",
-          "link": "https://cryptopanic.com/news/18568041/Snoop-Doggs-NFT-Tour-Pass-Lets-Fans-Travel-the-World-With-Him-Virtually",
-          "publishedOn": "2023-06-13T19:37:06.000Z",
-          "wordCount": 593,
-          "title": "Snoop Dogg's NFT Tour Pass Lets Fans 'Travel the World' With Him Virtually",
-          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/04/snoop-dogg-gID_7.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/18568038/Why-Bitcoins-resistance-to-retesting-the-25K-support-could-be-futile",
-          "author": null,
-          "description": "Bitcoin’s price continues to explore the lower regions of its trading range, but a drop to $25,000 seems nearly inevitable, according to derivatives data.",
-          "link": "https://cryptopanic.com/news/18568038/Why-Bitcoins-resistance-to-retesting-the-25K-support-could-be-futile",
-          "publishedOn": "2023-06-13T19:32:22.000Z",
-          "wordCount": 591,
-          "title": "Why Bitcoin’s resistance to retesting the $25K support could be futile",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18568043/A-Massive-Day-For-Crypto-in-the-Courts",
-          "author": null,
-          "description": "Today in Federal Courts: the Hinman docs get unsealed in Ripple vs. SEC; SEC has to respond to Coinbase; and Binance US in court around SEC request to freeze assets. Plus the new #FireGary bill introduced by Congressional Republicans. Enjoying this content? SUBSCRIBE to the Podcast:...",
-          "link": "https://cryptopanic.com/news/18568043/A-Massive-Day-For-Crypto-in-the-Courts",
-          "publishedOn": "2023-06-13T19:28:00.000Z",
-          "wordCount": 588,
-          "title": "A Massive Day For Crypto in the Courts",
-          "imageUrl": "http://assets.libsyn.com/show/133056?height=250&width=250&overlay=true"
-        },
-        {
-          "id": "https://cryptopanic.com/news/18568059/Damus-must-tweak-BTC-tipping-feature-to-stay-on-App-Store-social-platforms-creator-says",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/18568059/Damus-must-tweak-BTC-tipping-feature-to-stay-on-App-Store-social-platforms-creator-says",
-          "publishedOn": "2023-06-13T19:26:57.000Z",
-          "wordCount": null,
-          "title": "Damus must tweak BTC tipping feature to stay on App Store, social platform’s creator says",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18568012/Bank-of-China-Uses-Ethereum-Blockchain-for-28-Million-Digital-Structured-Notes-Crypto-Adoption-on-the-Rise",
-          "author": null,
-          "description": "Bank of China's investment arm BOCI has utilized the Ethereum blockchain network to issue $28 million worth of digital structured notes.  The bank has become the first Chinese institution to issue this type of tokenized security in Hong Kong, global investment bank UBS said in a recent press...",
-          "link": "https://cryptopanic.com/news/18568012/Bank-of-China-Uses-Ethereum-Blockchain-for-28-Million-Digital-Structured-Notes-Crypto-Adoption-on-the-Rise",
-          "publishedOn": "2023-06-13T19:16:00.000Z",
-          "wordCount": 598,
-          "title": "Bank of China Uses Ethereum Blockchain for $28 Million Digital Structured Notes – Crypto Adoption on the Rise?",
-          "imageUrl": "https://v2.cimg.co/news/116808/312833/shanghai-g6de5da022-1280.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/18568013/The-Sandbox-is-Going-to-Zero-as-the-SEC-Deems-SAND-to-be-a-Security-but-This-New-AI-Crypto-Signals-Platform-May-Be-the-Next-Crypto-to-Explode-Heres-Why",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/18568013/The-Sandbox-is-Going-to-Zero-as-the-SEC-Deems-SAND-to-be-a-Security-but-This-New-AI-Crypto-Signals-Platform-May-Be-the-Next-Crypto-to-Explode-Heres-Why",
-          "publishedOn": "2023-06-13T19:07:00.000Z",
-          "wordCount": null,
-          "title": "The Sandbox is Going to Zero as the SEC Deems SAND to be a Security but This New AI Crypto Signals Platform May Be the Next Crypto to Explode – Here's Why",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18567992/Lido-Risk-to-Ethereum-Grows-as-SEC-Targets-Exchange-Staking-Services",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/18567992/Lido-Risk-to-Ethereum-Grows-as-SEC-Targets-Exchange-Staking-Services",
-          "publishedOn": "2023-06-13T19:01:24.000Z",
-          "wordCount": null,
-          "title": "Lido Risk to Ethereum Grows as SEC Targets Exchange Staking Services",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18567987/Shiba-Inu-Whale-Goes-On10-Million-Buying-Spree-Time-To-Buy",
-          "author": null,
-          "description": "A Shiba Inu whale has recently taken advantage of a recent dip in cryptocurrency prices to accumulate over 1.5 trillion tokens of the meme-inspired cryptocurrency. According to a Twitter post from @lookonchain and verified by data from Etherscan, SHIB whale “0x73AF” recently purchased $10...",
-          "link": "https://cryptopanic.com/news/18567987/Shiba-Inu-Whale-Goes-On10-Million-Buying-Spree-Time-To-Buy",
-          "publishedOn": "2023-06-13T19:00:50.000Z",
-          "wordCount": 591,
-          "title": "Shiba Inu Whale Goes On$10 Million Buying Spree, Time To Buy?",
-          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2023/06/iStock-1327123792-1-980x653.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/18567988/Irish-data-watchdog-blocks-Google-from-launching-Bard-in-the-EU-Report",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/18567988/Irish-data-watchdog-blocks-Google-from-launching-Bard-in-the-EU-Report",
-          "publishedOn": "2023-06-13T19:00:00.000Z",
-          "wordCount": null,
-          "title": "Irish data watchdog blocks Google from launching Bard in the EU: Report",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18567958/Ex-SEC-Official-Says-Regulator-Is-Playing-Hardball-with-Binance",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/18567958/Ex-SEC-Official-Says-Regulator-Is-Playing-Hardball-with-Binance",
-          "publishedOn": "2023-06-13T18:46:00.000Z",
-          "wordCount": null,
-          "title": "Ex-SEC Official Says Regulator Is Playing Hardball with Binance",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18567956/Solana-Foundation-Says-SOL-Is-Not-a-Security-in-Response-to-SEC-Charges",
-          "author": null,
-          "description": "The Switzerland-based Solana (SOL) developer is objecting to the U.S. Securities and Exchange Commission’s (SEC) allegation that the 11th-largest crypto asset by market cap is a security. The Solana Foundation says that it disputes the claims made by the SEC in a lawsuit filed against crypto...",
-          "link": "https://cryptopanic.com/news/18567956/Solana-Foundation-Says-SOL-Is-Not-a-Security-in-Response-to-SEC-Charges",
-          "publishedOn": "2023-06-13T18:45:05.000Z",
-          "wordCount": 593,
-          "title": "Solana Foundation Says SOL Is Not a Security in Response to SEC Charges",
-          "imageUrl": "https://dailyhodl.com/wp-content/uploads/2023/06/sol-not-sec-charges.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/18567951/Difficult-if-not-dangerous-time-to-recommend-crypto-to-clients-industry-exec-says",
-          "author": null,
-          "description": "Ric Edelman caught up with Blockworks to discuss how the current crypto and macro environment is impacting sentiment around the space",
-          "link": "https://cryptopanic.com/news/18567951/Difficult-if-not-dangerous-time-to-recommend-crypto-to-clients-industry-exec-says",
-          "publishedOn": "2023-06-13T18:44:45.000Z",
-          "wordCount": 593,
-          "title": "‘Difficult, if not dangerous time’ to recommend crypto to clients, industry exec says",
           "imageUrl": null
         }
       ]
@@ -1074,6 +1074,36 @@
       "feedUrl": "https://www.inoreader.com/stream/user/1005336866/tag/%E6%B5%B7%E5%A4%96%E5%8A%A0%E5%AF%86%E8%B5%84%E8%AE%AF",
       "siteUrl": "https://www.inoreader.com/stream/user/1005336866/tag/%E6%B5%B7%E5%A4%96%E5%8A%A0%E5%AF%86%E8%B5%84%E8%AE%AF/view/html",
       "articles": [
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e757f7a9041",
+          "author": "Daniel Kuhn",
+          "description": "Common interpretations of the so-called Hinman document dump misunderstand Ripple’s legal strategy.",
+          "link": "https://www.coindesk.com/consensus-magazine/2023/06/13/ripple-does-not-care-whether-xrp-is-sufficiently-decentralized/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2023-06-13T20:51:28.000Z",
+          "wordCount": 8223,
+          "title": "Ripple Does Not Care Whether XRP Is 'Sufficiently Decentralized'",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/jpeg",
+            "url": "https://www.coindesk.com/resizer/qv59uSmbYpWeDuIqKVw0Kg0rweg=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/2R7VMGX33ZDV7OTMEJ5XUOBJX4.jpg"
+          },
+          "imageUrl": "https://www.coindesk.com/resizer/qv59uSmbYpWeDuIqKVw0Kg0rweg=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/2R7VMGX33ZDV7OTMEJ5XUOBJX4.jpg"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e757f7b0f37",
+          "author": "Hououin Kyouma",
+          "description": "Cardano has observed some rise since hitting a low around the $0.23 level following the FTX collapse. However, here’s what on-chain data say about whether that was the bottom or not.\n \nThree Cardano Indicators Shot Up During Local Bottom Formation\n \nAccording to data from the on-chain analytics firm Santiment, three ADA metrics had surged to the highest level for 2023 when the price hit the $0.23 low. The first of these metrics is the “trading volume,” which measures the total amount of Cardano that’s being moved around on the blockchain every day by the users.\n \nWhen the value of this metric goes up, it means that a large number of tokens of the asset are being transacted on the network right now. Such a trend can be a sign that traders are active in the sector currently.\n \nOn the other h…",
+          "link": "https://bitcoinist.com/cardano-bottom-heres-what-on-chain-data-suggests/",
+          "publishedOn": "2023-06-13T20:46:26.000Z",
+          "wordCount": 5348,
+          "title": "Is The Cardano Bottom In? Here’s What On-Chain Data Suggests",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/jpeg",
+            "url": "https://bitcoinist.com/wp-content/uploads/2023/06/iStock-1351825632-630x420.jpg"
+          },
+          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2023/06/iStock-1351825632-630x420.jpg"
+        },
         {
           "id": "http://www.inoreader.com/article/3a9c6e757f6179c4",
           "author": "Scott Matherson",
@@ -1135,7 +1165,7 @@
           "description": "Binance and Binance.US have made their case against the SEC's motion to freeze all Binance.US funds.",
           "link": "https://www.coindesk.com/policy/2023/06/13/binance-goes-to-court-against-the-sec/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-06-13T17:51:57.000Z",
-          "wordCount": 7850,
+          "wordCount": 7877,
           "title": "Binance Goes to Court Against the SEC",
           "enclosure": {
             "length": "1337",
@@ -1165,7 +1195,7 @@
           "description": "CEO Konstantin Gladych told CoinDesk Atomic is cooperating with law enforcement after a $100 million exploit of the non-custodial wallet.",
           "link": "https://www.coindesk.com/consensus-magazine/2023/06/13/police-in-estonia-and-kazakhstan-investigate-atomic-wallet-hack/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-06-13T17:08:29.000Z",
-          "wordCount": 6646,
+          "wordCount": 6712,
           "title": "Police in Estonia and Kazakhstan Investigate Atomic Wallet Hack",
           "enclosure": {
             "length": "1337",
@@ -1180,7 +1210,7 @@
           "description": "As the Treasury Department studies a possible central bank digital currency, senior official Graham Steele says the effort is looking at privacy, but is also wary of CBDC run risks.",
           "link": "https://www.coindesk.com/policy/2023/06/13/us-treasury-examining-how-using-digital-dollars-could-be-kept-private/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-06-13T16:53:35.000Z",
-          "wordCount": 6500,
+          "wordCount": 6537,
           "title": "U.S. Treasury Examining How Using Digital Dollars Could Be Kept Private",
           "enclosure": {
             "length": "1337",
@@ -1195,7 +1225,7 @@
           "description": "The crypto lawyer isn’t buying the argument that the SEC refuses to give the industry “regulatory clarity.” Chair Gary Gensler has been quite clear over the last two years about what is and what isn't a security, she says.",
           "link": "https://www.coindesk.com/consensus-magazine/2023/06/13/the-industry-doesnt-want-the-answers-josh-klayman-on-coinbase-and-binance/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-06-13T16:53:35.000Z",
-          "wordCount": 8034,
+          "wordCount": 8062,
           "title": "‘The Industry Doesn’t Want the Answers.’ Josh Klayman on Coinbase and Binance",
           "enclosure": {
             "length": "1337",
@@ -1210,7 +1240,7 @@
           "description": "A United States court in Delaware just dismissed a year-long case between Galaxy Digital, a crypto investment company, and BitGo, a digital asset custody and security company. BitGo filed claims against the crypto investment firm last year over a supposedly botched acquisition deal. However, Vice Chancellor J. Travis Laster has dismissed the lawsuit in its entirety, clearing Galaxy Digital of any wrongdoing.\n \n“There are no facts alleged that could make it reasonably conceivable that the exercise of the termination right was inconsistent with the implied covenant of good faith and fair dealing,” said the federal judge. Court documents also claimed a restriction that would hinder their inclusion in a Form S-1 prepared in compliance with Regulation S-X\n \nHow The Legal Dispute Arose Between G…",
           "link": "https://bitcoinist.com/victory-for-galaxy-digital-against-bitgo/",
           "publishedOn": "2023-06-13T16:46:29.000Z",
-          "wordCount": 5273,
+          "wordCount": 5272,
           "title": "Victory For Galaxy Digital As Court Throws Out BitGo’s $100M Claim",
           "imageUrl": null
         },
@@ -1230,7 +1260,7 @@
           "description": "The combined market capitalization of BTC, ETH and stablecoins reached the highest since February 2021, digital asset research firm K33 Research noted.",
           "link": "https://www.coindesk.com/markets/2023/06/13/bitcoin-ether-and-stablecoins-total-80-of-1t-crypto-market-cap-as-investors-flee-altcoins/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-06-13T16:05:48.000Z",
-          "wordCount": 6586,
+          "wordCount": 6633,
           "title": "Bitcoin, Ether and Stablecoins Total 80% of $1T Crypto Market Cap as Investors Flee Altcoins",
           "enclosure": {
             "length": "1337",
@@ -1245,7 +1275,7 @@
           "description": "The updated plan from mediated discussions with parent company DCG reflects “substantial agreement” on several key issues.",
           "link": "https://www.coindesk.com/policy/2023/06/13/crypto-lender-genesis-amends-reorganization-plan-as-mediated-talks-continue/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-06-13T16:05:48.000Z",
-          "wordCount": 6252,
+          "wordCount": 6284,
           "title": "Crypto Lender Genesis Amends Reorganization Plan as Mediated Talks Continue",
           "enclosure": {
             "length": "1337",
@@ -1270,7 +1300,7 @@
           "description": "The bitcoin network's energy efficiency has improved dramatically in the past five years.",
           "link": "https://www.coindesk.com/tech/2023/06/13/bitmains-s19-bitcoin-miners-account-for-bulk-of-network-hashrate-says-new-research/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-06-13T16:00:37.000Z",
-          "wordCount": 5840,
+          "wordCount": 5876,
           "title": "Bitmain's S19 Bitcoin Miners Account for Bulk of Network Hashrate, Says New Research",
           "enclosure": {
             "length": "1337",
@@ -1285,7 +1315,7 @@
           "description": "The Adidas Originals x Fewocious collection includes an NFT and a physical Adidas Originals Campus 00’s sneaker designed by the 20-year-old artist.",
           "link": "https://www.coindesk.com/web3/2023/06/13/fewocious-and-adidas-team-up-on-digital-and-physical-nft-sneakers/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-06-13T15:53:37.000Z",
-          "wordCount": 6326,
+          "wordCount": 6351,
           "title": "FEWOCiOUS and Adidas Team Up on Digital and Physical NFT Sneakers",
           "enclosure": {
             "length": "1337",
@@ -1300,7 +1330,7 @@
           "description": "In response to the rapidly evolving regulatory landscape, social trading platform eToro, in a Twitter Thread has announced upcoming changes to its cryptocurrency offering for customers based in the United States. \n \neToro has implemented a framework that regularly reviews the crypto assets offered to align with regulatory requirements. As a result, US customers will no longer be able to open new positions in Algorand (ALGO), Decentraland (MANA), Dash (DASH), and Polygon (MATIC). \n \n \nHowever, existing positions in these coins can still be held and sold by customers. By proactively making these changes, eToro aims to ensure a secure and transparent trading environment for its US customers.\n \neToro Commits To Changes And Regulatory Compliance\n \nWhile these changes affect the availability of …",
           "link": "https://bitcoinist.com/etoro-announces-changes-to-crypto-offering/",
           "publishedOn": "2023-06-13T15:47:09.000Z",
-          "wordCount": 5198,
+          "wordCount": 5197,
           "title": "eToro Announces Changes To Crypto Offering For US Customers Amid Evolving Regulatory Landscape",
           "enclosure": {
             "length": "1337",
@@ -1315,7 +1345,7 @@
           "description": "The Snoop Dogg Passport Series NFT will evolve over time as the rapper embarks on a tour this summer.",
           "link": "https://www.coindesk.com/web3/2023/06/13/snoop-dogg-drops-new-nfts-that-evolve-with-his-tour/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-06-13T15:37:34.000Z",
-          "wordCount": 6543,
+          "wordCount": 6579,
           "title": "Snoop Dogg Drops New NFTs That Evolve With His Tour",
           "enclosure": {
             "length": "1337",
@@ -1323,36 +1353,6 @@
             "url": "https://www.coindesk.com/resizer/Rgj-zeNnTqkb8dSvPcYH7Ajfgc4=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/MGYUFKFLVRCVTCTHNVLX3APT2A.jpg"
           },
           "imageUrl": "https://www.coindesk.com/resizer/Rgj-zeNnTqkb8dSvPcYH7Ajfgc4=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/MGYUFKFLVRCVTCTHNVLX3APT2A.jpg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e757f43bd9d",
-          "author": "Omkar Godbole",
-          "description": "The 14-day average of miner transfers to exchanges has increased sharply to 489.26 BTC, the highest since March 2021, according to Glassnode.",
-          "link": "https://www.coindesk.com/markets/2023/06/13/bitcoin-miners-transfer-174m-worth-of-coins-to-exchanges-in-two-weeks/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-          "publishedOn": "2023-06-13T15:27:39.000Z",
-          "wordCount": 6201,
-          "title": "Bitcoin Miners Transfer $174M Worth of Coins to Exchanges in Two Weeks",
-          "enclosure": {
-            "length": "1337",
-            "type": "image/jpeg",
-            "url": "https://www.coindesk.com/resizer/rj-wN-O4HQGd8B0lb7qoIWNj-38=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/UQQVJY76TFAKZAMQ4QCVDJTAKY.jpg"
-          },
-          "imageUrl": "https://www.coindesk.com/resizer/rj-wN-O4HQGd8B0lb7qoIWNj-38=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/UQQVJY76TFAKZAMQ4QCVDJTAKY.jpg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e757f43bd88",
-          "author": "Jeff  Wilser",
-          "description": "XRP’s uber-passionate supporters believe the SEC unfairly targeted Ripple for securities violations while mysteriously giving Ethereum a free pass. Do they have a point?",
-          "link": "https://www.coindesk.com/consensus-magazine/2023/06/13/why-the-xrp-army-keeps-fighting/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-          "publishedOn": "2023-06-13T15:27:39.000Z",
-          "wordCount": 14930,
-          "title": "Why the XRP Army Keeps Fighting",
-          "enclosure": {
-            "length": "1337",
-            "type": "image/png",
-            "url": "https://www.coindesk.com/resizer/3-jEq_xNf0jEcP1lZZ0cv8nhCjI=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/DQJ34PVOWJE7LL73ZLE5KGXB5U.png"
-          },
-          "imageUrl": "https://www.coindesk.com/resizer/3-jEq_xNf0jEcP1lZZ0cv8nhCjI=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/DQJ34PVOWJE7LL73ZLE5KGXB5U.png"
         }
       ]
     }

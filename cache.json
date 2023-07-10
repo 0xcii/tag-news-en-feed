@@ -6,6 +6,36 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=5738",
+          "author": "Matt Hussey",
+          "description": "Bitcoin is being explored as three distinct ideas: a currency, an asset and a commodity. Because regulation takes place mostly at state level, Bitcoin has become all three things simultaneously in different parts of the world.",
+          "link": "https://decrypt.co/resources/bitcoin-investment-or-currency",
+          "publishedOn": "2023-07-10T14:35:23.000Z",
+          "wordCount": 9354,
+          "title": "Is Bitcoin an Investment or a Currency ?",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2019/03/bitcoin_investment_litepaper-gID_1-pID_3.png@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2019/03/bitcoin_investment_litepaper-gID_1-pID_3.png@png"
+        },
+        {
+          "id": "https://decrypt.co/?p=5681",
+          "author": "Matt Hussey",
+          "description": "Hashing is one of the most crucial pieces of technology that keeps the Bitcoin network secure. But how does it work?",
+          "link": "https://decrypt.co/resources/hashing",
+          "publishedOn": "2023-07-10T14:34:03.000Z",
+          "wordCount": 9912,
+          "title": "What is Hashing?",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2019/01/Hashing_illustration-gID_1-pID_6.png@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2019/01/Hashing_illustration-gID_1-pID_6.png@png"
+        },
+        {
           "id": "https://decrypt.co/?p=147876",
           "author": "Kate Irwin",
           "description": "Gas Hero, from the developer of move-to-earn game Stepn, takes place in a dystopian world where a powerful AI has triggered nuclear war.",
@@ -591,36 +621,6 @@
           "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/12/bitcoin-crime-gID_7.jpeg@png"
         },
         {
-          "id": "https://decrypt.co/?p=147589",
-          "author": "Jason Nelson",
-          "description": "As AI tools are rapidly adopted by businesses, the New York City law aims to prevent bias in employment decisions.",
-          "link": "https://decrypt.co/147589/new-york-city-law-aimed-curbing-ai-bias-goes-effect",
-          "publishedOn": "2023-07-06T23:26:02.000Z",
-          "wordCount": 8163,
-          "title": "New York City Law Aimed at Curbing AI Bias Goes Into Effect",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/08/AI-robots-gID_7.jpeg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/08/AI-robots-gID_7.jpeg@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=15221",
-          "author": "Andrew Hayward,Kate Irwin",
-          "description": "Lavish titles like Illuvium, Shrapnel, and Otherside are poised to redefine blockchain gaming. Here's what to watch for in 2023 and beyond.",
-          "link": "https://decrypt.co/15221/most-anticipated-crypto-games",
-          "publishedOn": "2023-07-06T22:49:49.000Z",
-          "wordCount": 12446,
-          "title": "The Most Anticipated Crypto and NFT Games",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/03/shrapnel-game-artwork-gID_7.jpeg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/03/shrapnel-game-artwork-gID_7.jpeg@png"
-        },
-        {
           "id": "https://decrypt.co/videos/live-events/gvM9ajww/inside-champions-ascension-like-for-honor-with-nfts",
           "author": null,
           "description": "Plai Labs Marketing Director Payton Kaleiwahea tells Decrypt's Kate Irwin about player response to the combat game Champions Ascension in development, which offers arena combat, raid bosses, AI landscape features, and more.",
@@ -701,7 +701,7 @@
           "description": "Decrypt's Kate Irwin chats with Laguna Games about why the team chose to move away from an offer with WB Games to develop a Game of Thrones licensed title—and made Crypto Unicorns instead.",
           "link": "https://decrypt.co/videos/live-events/IqET3GYs/why-laguna-games-turned-down-game-of-thrones-for-crypto-unicorns",
           "publishedOn": "2023-06-28T21:45:00.000Z",
-          "wordCount": 6062,
+          "wordCount": 6095,
           "title": "Why Laguna Games Turned Down 'Game of Thrones' for Crypto Unicorns",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/IqET3GYs/poster.jpg",
@@ -913,203 +913,203 @@
       "siteUrl": "https://cryptopanic.com/",
       "articles": [
         {
-          "id": "https://cryptopanic.com/news/18752837/Crypto-industry-jobs-decline-10-over-past-year-report-finds",
+          "id": "https://cryptopanic.com/news/18752994/Solanas-Bullish-Run-to-25-Meets-Resistance-Whats-Next",
           "author": null,
-          "description": "The crypto industry has seen a 10% workforce decline in the past year, down from 210,000 employees to 190,000, according to a new report.",
-          "link": "https://cryptopanic.com/news/18752837/Crypto-industry-jobs-decline-10-over-past-year-report-finds",
-          "publishedOn": "2023-07-10T14:10:31.000Z",
+          "description": "After a 35% rise since the SEC's lawsuit, Solana (SOL) surged 10% over the last week before facing resistance.",
+          "link": "https://cryptopanic.com/news/18752994/Solanas-Bullish-Run-to-25-Meets-Resistance-Whats-Next",
+          "publishedOn": "2023-07-10T15:05:00.000Z",
+          "wordCount": 589,
+          "title": "Solana's Bullish Run to $25 Meets Resistance: What's Next?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18752988/Crypto-investment-products-hit-3-week-streak-of-inflows",
+          "author": null,
+          "description": "Bitcoin inflows over last week was $133 million, compared to Ethereum’s $2.9 million. Total inflows into crypto asset products was $136 million, with this the third consecutive week of inflows. Altcoins such as XRP, Solana, Polygon, Litecoin and Aave saw minor inflows. Inflows into crypto...",
+          "link": "https://cryptopanic.com/news/18752988/Crypto-investment-products-hit-3-week-streak-of-inflows",
+          "publishedOn": "2023-07-10T15:03:26.000Z",
+          "wordCount": 588,
+          "title": "Crypto investment products hit 3-week streak of inflows",
+          "imageUrl": "https://coinjournal.net/wp-content/uploads/2023/07/1689001345047-94ee18d7-ec88-4adf-b2c6-f40a1d5aefe4.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/18752993/Decentralized-Fiverr-and-Upwork-Alternative-Secures-15-Million-in-Presale-Funding-Next-Big-Thing",
+          "author": null,
+          "description": "DeeLance is making waves in the crypto space as its native token, $DLANCE, has reached a significant milestone of $1.5 million in presale funding. This remarkable achievement has garnered attention from retail and institutional investors, who are drawn to its potential as the next crypto asset...",
+          "link": "https://cryptopanic.com/news/18752993/Decentralized-Fiverr-and-Upwork-Alternative-Secures-15-Million-in-Presale-Funding-Next-Big-Thing",
+          "publishedOn": "2023-07-10T15:00:00.000Z",
+          "wordCount": 595,
+          "title": "Decentralized Fiverr and Upwork Alternative Secures $1.5 Million in Presale Funding – Next Big Thing?",
+          "imageUrl": "https://cimg.co/news/119204/317061/deelance.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/18752954/48-fewer-new-crypto-coders-last-year-developer-report",
+          "author": null,
+          "description": "Newcomers account for the highest percentage of developers that have left the industry over the past 12 months.",
+          "link": "https://cryptopanic.com/news/18752954/48-fewer-new-crypto-coders-last-year-developer-report",
+          "publishedOn": "2023-07-10T14:58:06.000Z",
           "wordCount": 590,
-          "title": "Crypto industry jobs decline 10% over past year, report finds",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2020/02/coinbase-office-3-1200x675.jpg"
+          "title": "48% fewer new crypto coders last year - developer report",
+          "imageUrl": null
         },
         {
-          "id": "https://cryptopanic.com/news/18752821/Chancer-mainnet-launch-after-current-presale-a-perfect-timing-for-2024-Olympics",
+          "id": "https://cryptopanic.com/news/18752966/XRP-Funds-Inflows-up-by-Another-Million-Dollars-Amid-Epic-Start-to-Week",
           "author": null,
-          "description": "The Chancer mainnet will go live in Q1 2024 after the product development testnet in Q4 2023. The mainnet launch will allow users to bet on Olympic Games which will start on Friday, 26 Jul 2024. The ongoing Chancer presale is scheduled to end in Q3 2023 to give way for the launch sequence to […]",
-          "link": "https://cryptopanic.com/news/18752821/Chancer-mainnet-launch-after-current-presale-a-perfect-timing-for-2024-Olympics",
-          "publishedOn": "2023-07-10T14:07:32.000Z",
-          "wordCount": 592,
-          "title": "Chancer mainnet launch after current presale a perfect timing for 2024 Olympics",
-          "imageUrl": "https://coinjournal.net/wp-content/uploads/2023/07/1688992127303-f63791c3-6650-4155-98b9-d467d8d6e7c3.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/18752845/JUST-IN-Polygon-MATIC-Has-Partnered-With-This-Altcoin-On-Binance-Price-Rising",
-          "author": null,
-          "description": "Polygon announced that it has partnered with DOCK. DOCK said it collaborated with Polygon to simplify the Verifiable Credentials system. 🚨ANNOUNCEMENT🚨@0xPolygonLabs and @docknetwork collaborate to simplify Verifiable Credential issuance! Dock's Verifiable Credentials Platform allows developers...",
-          "link": "https://cryptopanic.com/news/18752845/JUST-IN-Polygon-MATIC-Has-Partnered-With-This-Altcoin-On-Binance-Price-Rising",
-          "publishedOn": "2023-07-10T14:07:04.000Z",
+          "description": "XRP eyes more and more money from traditional investors, reports CoinShares",
+          "link": "https://cryptopanic.com/news/18752966/XRP-Funds-Inflows-up-by-Another-Million-Dollars-Amid-Epic-Start-to-Week",
+          "publishedOn": "2023-07-10T14:55:00.000Z",
           "wordCount": 593,
-          "title": "JUST IN: Polygon (MATIC) Has Partnered With This Altcoin On Binance! Price Rising",
-          "imageUrl": "https://www.bitcoinsistemi.com/wp-content/uploads/2023/05/altcoin-soru-isareti.jpg"
+          "title": "XRP Funds Inflows up by Another Million Dollars Amid Epic Start to Week",
+          "imageUrl": "https://u.today/sites/default/files/styles/twitter/public/2023-07/37041.jpg"
         },
         {
-          "id": "https://cryptopanic.com/news/18752846/There-Is-Operation-In-The-Altcoin-That-Binance-Announces-Support",
+          "id": "https://cryptopanic.com/news/18752876/Markets-Continue-to-Consolidate",
           "author": null,
-          "description": "Binance announced that it will support QuickSwap token swap and revaluation scheme. Quick price dropped. Continue Reading: There Is Operation In The Altcoin That Binance Announces Support!",
-          "link": "https://cryptopanic.com/news/18752846/There-Is-Operation-In-The-Altcoin-That-Binance-Announces-Support",
-          "publishedOn": "2023-07-10T14:05:05.000Z",
-          "wordCount": 590,
-          "title": "There Is Operation In The Altcoin That Binance Announces Support!",
-          "imageUrl": "https://www.bitcoinsistemi.com/wp-content/uploads/2023/07/Quickswap.png"
+          "description": "Get your ticket to https://Unconfiscatable.com before it Sells Out!!!The Financial Summit Dubai Nov 5-10: https://TheFinancialSummit.comPromo Video: https://www.youtube.com/watch?v=3rATkFrSTVsTestimonial Video: https://www.youtube.com/watch?v=PHvhtJXkjNsGreat BBQ Sause:...",
+          "link": "https://cryptopanic.com/news/18752876/Markets-Continue-to-Consolidate",
+          "publishedOn": "2023-07-10T14:53:59.000Z",
+          "wordCount": 584,
+          "title": "Markets Continue to Consolidate!",
+          "imageUrl": "https://i2.ytimg.com/vi/59GGv-rOD8g/hqdefault.jpg"
         },
         {
-          "id": "https://cryptopanic.com/news/18752826/XRP-Whales-Capitalize-on-Price-Fluctuations-to-Tune-of-570M",
+          "id": "https://cryptopanic.com/news/18752956/CBDCs-Could-be-Used-by-24-Countries-Within-10-Years-BIS-Report",
           "author": null,
-          "description": "XRP whales continue to accumulate, with over $570 million worth of XRP acquired since February, boosting price prospects.",
-          "link": "https://cryptopanic.com/news/18752826/XRP-Whales-Capitalize-on-Price-Fluctuations-to-Tune-of-570M",
-          "publishedOn": "2023-07-10T14:05:00.000Z",
-          "wordCount": 590,
-          "title": "XRP Whales Capitalize on Price Fluctuations to Tune of $570M",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18752824/Coinbase-Domain-Name-Used-by-Scammers-in-Recent-Phishing-Attacks-Whats-Going-On",
-          "author": null,
-          "description": "Coinbase users have reported a series of phishing attacks that used the crypto exchange’s domain name. The crypto exchange’s users reported that they received texts and emails from scammers with links under the domain Coinbase.com. Twitter user Daniel Mason alleged that a scammer contacted him...",
-          "link": "https://cryptopanic.com/news/18752824/Coinbase-Domain-Name-Used-by-Scammers-in-Recent-Phishing-Attacks-Whats-Going-On",
-          "publishedOn": "2023-07-10T14:03:00.000Z",
-          "wordCount": 594,
-          "title": "Coinbase Domain Name Used by Scammers in Recent Phishing Attacks – What's Going On?",
-          "imageUrl": "https://cimg.co/p/assets/empty-cryptonews.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/18752827/The-Other-Terra-Co-Founder-Starts-His-Trial-in-Seoul",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/18752827/The-Other-Terra-Co-Founder-Starts-His-Trial-in-Seoul",
-          "publishedOn": "2023-07-10T14:02:06.000Z",
-          "wordCount": null,
-          "title": "The Other Terra Co-Founder Starts His Trial in Seoul",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18752828/Stepn-Creators-Next-Game-Is-a-Social-MMO-Called-Gas-Hero",
-          "author": null,
-          "description": "Gas Hero, from the developer of move-to-earn game Stepn, takes place in a dystopian world where a powerful AI has triggered nuclear war.",
-          "link": "https://cryptopanic.com/news/18752828/Stepn-Creators-Next-Game-Is-a-Social-MMO-Called-Gas-Hero",
-          "publishedOn": "2023-07-10T14:01:02.000Z",
-          "wordCount": 591,
-          "title": "Stepn Creator's Next Game Is a Social MMO Called Gas Hero",
-          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2023/07/gas-hero-artwork-gID_7.png"
-        },
-        {
-          "id": "https://cryptopanic.com/news/18752838/Cegas-exotic-DeFi-derivatives-expand-to-Ethereum-Layer-2-Arbitrum",
-          "author": null,
-          "description": "Cega Finance has expanded its Solana and Ethereum-based DeFi structured investments product to the Layer 2 network Arbitrum.",
-          "link": "https://cryptopanic.com/news/18752838/Cegas-exotic-DeFi-derivatives-expand-to-Ethereum-Layer-2-Arbitrum",
-          "publishedOn": "2023-07-10T14:00:51.000Z",
-          "wordCount": 590,
-          "title": "Cega’s exotic DeFi derivatives expand to Ethereum Layer 2 Arbitrum",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2023/03/20230315_Arbitrum_airdrop-1200x675.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/18752794/Machine-learning-algorithm-sets-Solana-price-for-July-31-2023",
-          "author": null,
-          "description": "With a large part of the cryptocurrency sector opening the week on a bearish note, Solana (SOL) has been no … Continued",
-          "link": "https://cryptopanic.com/news/18752794/Machine-learning-algorithm-sets-Solana-price-for-July-31-2023",
-          "publishedOn": "2023-07-10T13:55:30.000Z",
-          "wordCount": 590,
-          "title": "Machine learning algorithm sets Solana price for July 31, 2023",
-          "imageUrl": "https://finbold.com/app/uploads/2023/07/Machine-learning-algorithm-sets-Solana-price-for-July-31-2023.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/18752843/Bitcoin-Ethereum-And-Now-Mantle-New-Layer-2-Network-Proposes-200M-Ecosystem-Fund",
-          "author": null,
-          "description": "Mantle Network, an Ethereum (CRYPTO: ETH) layer-2 network, is voting to form a $200 million ecosystem fund. read more",
-          "link": "https://cryptopanic.com/news/18752843/Bitcoin-Ethereum-And-Now-Mantle-New-Layer-2-Network-Proposes-200M-Ecosystem-Fund",
-          "publishedOn": "2023-07-10T13:55:01.000Z",
+          "description": "As the cryptocurrency market continues to stay volatile, central banks globally appear undeterred, doubling their efforts to develop their digital currencies or CBDCs. An estimated 24 of these CBDCs are likely to be up and running by the decade's end, according to a Bank for International...",
+          "link": "https://cryptopanic.com/news/18752956/CBDCs-Could-be-Used-by-24-Countries-Within-10-Years-BIS-Report",
+          "publishedOn": "2023-07-10T14:53:48.000Z",
           "wordCount": 592,
-          "title": "Bitcoin, Ethereum And Now Mantle? New Layer-2 Network Proposes $200M Ecosystem Fund",
-          "imageUrl": "https://cdn.benzinga.com/files/images/story/2023/07/10/untitled_design31.jpg?width=1200&height=800&fit=crop"
+          "title": "CBDCs Could be Used by 24 Countries Within 10 Years: BIS Report",
+          "imageUrl": "https://static.cryptobriefing.com/wp-content/uploads/2023/07/10105048/emilytonelli_central_bank_vault_with_money_hidden_inside_2a238632-df5a-4101-8709-fc53051b588a-768x384.png"
         },
         {
-          "id": "https://cryptopanic.com/news/18752782/Crypto-dev-count-up-90-since-2020-even-after-bear-market-drain",
+          "id": "https://cryptopanic.com/news/18752987/Binances-Launchpad-Gears-Up-Tor-Arkham-Token-Sale-Starts-Recording-BNB-Balances",
+          "author": null,
+          "description": "Crypto exchange Binance Monday announced the 32nd project on its Launchpad - Arkham. The token sale for Arkham is set to follow the Launchpad's subscription format. read more",
+          "link": "https://cryptopanic.com/news/18752987/Binances-Launchpad-Gears-Up-Tor-Arkham-Token-Sale-Starts-Recording-BNB-Balances",
+          "publishedOn": "2023-07-10T14:52:14.000Z",
+          "wordCount": 592,
+          "title": "Binance's Launchpad Gears Up Tor Arkham Token Sale, Starts Recording BNB Balances",
+          "imageUrl": "https://cdn.benzinga.com/files/images/story/2023/07/10/binance_shutter4.jpg?width=1200&height=800&fit=crop"
+        },
+        {
+          "id": "https://cryptopanic.com/news/18752968/Hearing-about-Binances-New-Altcoin-Project-Whales-Start-Collecting-BNB",
+          "author": null,
+          "description": "After Binance announced that its new project is Arkham (ARKM), the whales took action. They started depositing BNB. Continue Reading: Hearing about Binance's New Altcoin Project, Whales Start Collecting BNB!",
+          "link": "https://cryptopanic.com/news/18752968/Hearing-about-Binances-New-Altcoin-Project-Whales-Start-Collecting-BNB",
+          "publishedOn": "2023-07-10T14:52:06.000Z",
+          "wordCount": 590,
+          "title": "Hearing about Binance's New Altcoin Project, Whales Start Collecting BNB!",
+          "imageUrl": "https://www.bitcoinsistemi.com/wp-content/uploads/2023/04/altcoin-balina-soru-isareti.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/18752948/US-Crypto-Lobbyists-Push-Lawmakers-For-Favorable-Legislations",
           "author": null,
           "description": "",
-          "link": "https://cryptopanic.com/news/18752782/Crypto-dev-count-up-90-since-2020-even-after-bear-market-drain",
-          "publishedOn": "2023-07-10T13:53:23.000Z",
+          "link": "https://cryptopanic.com/news/18752948/US-Crypto-Lobbyists-Push-Lawmakers-For-Favorable-Legislations",
+          "publishedOn": "2023-07-10T14:47:00.000Z",
           "wordCount": null,
-          "title": "Crypto dev count up 90% since 2020, even after bear market drain",
+          "title": "U.S. Crypto Lobbyists Push Lawmakers For Favorable Legislations",
           "imageUrl": null
         },
         {
-          "id": "https://cryptopanic.com/news/18752844/Master-The-Game-Your-Ultimate-Guide-To-Scorpion-Token",
+          "id": "https://cryptopanic.com/news/18752940/Bitcoin-Could-Rise-to-120K-by-End-2024-Standard-Chartered",
+          "author": null,
+          "description": "The bank previously said it expected the cryptocurrency to reach $100,000 by then.",
+          "link": "https://cryptopanic.com/news/18752940/Bitcoin-Could-Rise-to-120K-by-End-2024-Standard-Chartered",
+          "publishedOn": "2023-07-10T14:45:28.000Z",
+          "wordCount": 589,
+          "title": "Bitcoin Could Rise to $120K by End-2024: Standard Chartered",
+          "imageUrl": "https://www.coindesk.com/resizer/DBWjrXEF8olI66IIcIcbgFBN0J4=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/R2TDWPACG5GJNJ5QBPAGVUJ624.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/18752939/93-of-banks-exploring-potential-CBDC-Bank-of-International-Settlements",
           "author": null,
           "description": "",
-          "link": "https://cryptopanic.com/news/18752844/Master-The-Game-Your-Ultimate-Guide-To-Scorpion-Token",
-          "publishedOn": "2023-07-10T13:49:04.000Z",
+          "link": "https://cryptopanic.com/news/18752939/93-of-banks-exploring-potential-CBDC-Bank-of-International-Settlements",
+          "publishedOn": "2023-07-10T14:40:57.000Z",
           "wordCount": null,
-          "title": "Master The Game: Your Ultimate Guide To Scorpion Token",
+          "title": "93% of banks exploring potential CBDC: Bank of International Settlements",
           "imageUrl": null
         },
         {
-          "id": "https://cryptopanic.com/news/18752776/DeFi-Researcher-Announces-Exclusive-Airdrop-For-Arkham-Analytics-Users",
+          "id": "https://cryptopanic.com/news/18752951/Bitcoin-Edges-Lower-Bone-ShibaSwap-Becomes-Top-Loser",
+          "author": null,
+          "description": "Bitcoin (CRYPTO: BTC) traded slightly lower, but the cryptocurrency prices remained above the $30,000 level on Monday. Ethereum (CRYPTO: ETH) also moved lower, trading below the key $1,900 mark this morning. read more",
+          "link": "https://cryptopanic.com/news/18752951/Bitcoin-Edges-Lower-Bone-ShibaSwap-Becomes-Top-Loser",
+          "publishedOn": "2023-07-10T14:36:26.000Z",
+          "wordCount": 588,
+          "title": "Bitcoin Edges Lower; Bone ShibaSwap Becomes Top Loser",
+          "imageUrl": "https://cdn.benzinga.com/files/images/story/2023/07/10/bitcoin_-_logo.jpg?width=1200&height=800&fit=crop"
+        },
+        {
+          "id": "https://cryptopanic.com/news/18752918/Is-Bitcoin-an-Investment-or-a-Currency",
+          "author": null,
+          "description": "Bitcoin is being explored as three distinct ideas: a currency, an asset and a commodity. Because regulation takes place mostly at state level, Bitcoin has become all three things simultaneously in different parts of the world.",
+          "link": "https://cryptopanic.com/news/18752918/Is-Bitcoin-an-Investment-or-a-Currency",
+          "publishedOn": "2023-07-10T14:35:23.000Z",
+          "wordCount": 588,
+          "title": "Is Bitcoin an Investment or a Currency ?",
+          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2019/03/bitcoin_investment_litepaper-gID_1-pID_3.png"
+        },
+        {
+          "id": "https://cryptopanic.com/news/18752920/Andy-Murray-NFT-Wimbledon-Data-Creates-3D-Digital-Sculpture",
           "author": null,
           "description": "",
-          "link": "https://cryptopanic.com/news/18752776/DeFi-Researcher-Announces-Exclusive-Airdrop-For-Arkham-Analytics-Users",
-          "publishedOn": "2023-07-10T13:48:43.000Z",
+          "link": "https://cryptopanic.com/news/18752920/Andy-Murray-NFT-Wimbledon-Data-Creates-3D-Digital-Sculpture",
+          "publishedOn": "2023-07-10T14:35:00.000Z",
           "wordCount": null,
-          "title": "DeFi Researcher Announces Exclusive Airdrop For Arkham Analytics Users",
+          "title": "Andy Murray NFT: Wimbledon Data Creates 3D Digital Sculpture",
           "imageUrl": null
         },
         {
-          "id": "https://cryptopanic.com/news/18752799/BREAKING-IMF-Paper-Reveals-Plan-to-STOP-Bitcoin-EP-777",
+          "id": "https://cryptopanic.com/news/18752912/Coinbase-COIN-Stock-Soars-over-50-amidst-SEC-Lawsuit-Turmoil",
           "author": null,
-          "description": "IMF Paper on Taxing Bitcoin Sees Quasi-Anonymity as Greatest Challenge - No BS Bitcoin✓ SUBSCRIBE - https://bit.ly/3QbgqTQ✓ LEAVE A LIKE & COMMENT SUPPORT THE SHOW:► Blockstream: https://blockstream.com/jade► Swan: https://www.swan.com/simply► Orange Pill App: https://www.theorangepillapp.com►...",
-          "link": "https://cryptopanic.com/news/18752799/BREAKING-IMF-Paper-Reveals-Plan-to-STOP-Bitcoin-EP-777",
-          "publishedOn": "2023-07-10T13:47:30.000Z",
-          "wordCount": 591,
-          "title": "BREAKING: IMF Paper Reveals Plan to STOP Bitcoin | EP 777",
-          "imageUrl": "https://i3.ytimg.com/vi/VkryGRlwS2o/hqdefault.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/18752780/Unveiling-the-Bitcoin-Bolt-Ring-Tap-And-Pay-Instantly",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/18752780/Unveiling-the-Bitcoin-Bolt-Ring-Tap-And-Pay-Instantly",
-          "publishedOn": "2023-07-10T13:44:42.000Z",
-          "wordCount": null,
-          "title": "Unveiling the Bitcoin Bolt Ring: Tap And Pay Instantly!",
+          "description": "Coinspeaker Coinbase (COIN) Stock Soars over 50% amidst SEC Lawsuit Turmoil While Coinbase executives have engaged in pre-planned and periodic stock sales, other major COIN holders have chosen a different approach. Coinbase (COIN) Stock Soars over 50% amidst SEC Lawsuit Turmoil",
+          "link": "https://cryptopanic.com/news/18752912/Coinbase-COIN-Stock-Soars-over-50-amidst-SEC-Lawsuit-Turmoil",
+          "publishedOn": "2023-07-10T14:34:47.000Z",
+          "wordCount": 590,
+          "title": "Coinbase (COIN) Stock Soars over 50% amidst SEC Lawsuit Turmoil",
           "imageUrl": null
         },
         {
-          "id": "https://cryptopanic.com/news/18752779/Coinbase-CEO-Started-Deleting-Bitcoin-and-Altcoin-Shares-Why-is-it-deleting-Here-Are-Those-Shares",
+          "id": "https://cryptopanic.com/news/18752919/What-is-Hashing",
           "author": null,
-          "description": "Why is Coinbase CEO Brian Armstrong deleting his old posts about Bitcoin and altcoins? Which posts were deleted? Continue Reading: Coinbase CEO Started Deleting Bitcoin and Altcoin Shares! Why is it deleting? Here Are Those Shares",
-          "link": "https://cryptopanic.com/news/18752779/Coinbase-CEO-Started-Deleting-Bitcoin-and-Altcoin-Shares-Why-is-it-deleting-Here-Are-Those-Shares",
-          "publishedOn": "2023-07-10T13:43:07.000Z",
-          "wordCount": 596,
-          "title": "Coinbase CEO Started Deleting Bitcoin and Altcoin Shares! Why is it deleting? Here Are Those Shares",
-          "imageUrl": "https://en.bitcoinsistemi.com/wp-content/uploads/2019/11/bitcoinsistemi-logo.png"
+          "description": "Hashing is one of the most crucial pieces of technology that keeps the Bitcoin network secure. But how does it work?",
+          "link": "https://cryptopanic.com/news/18752919/What-is-Hashing",
+          "publishedOn": "2023-07-10T14:34:03.000Z",
+          "wordCount": 583,
+          "title": "What is Hashing?",
+          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2019/01/Hashing_illustration-gID_1-pID_6.png"
         },
         {
-          "id": "https://cryptopanic.com/news/18752774/XRP-Current-Price-Action-Might-Yield-20-Gains-If-This-Happens-Details",
+          "id": "https://cryptopanic.com/news/18752938/Bitdeer-Technologies-Bitcoins-Mined-in-June-Jumps-358-YY",
           "author": null,
           "description": "",
-          "link": "https://cryptopanic.com/news/18752774/XRP-Current-Price-Action-Might-Yield-20-Gains-If-This-Happens-Details",
-          "publishedOn": "2023-07-10T13:43:00.000Z",
+          "link": "https://cryptopanic.com/news/18752938/Bitdeer-Technologies-Bitcoins-Mined-in-June-Jumps-358-YY",
+          "publishedOn": "2023-07-10T14:32:41.000Z",
           "wordCount": null,
-          "title": "XRP Current Price Action Might Yield 20% Gains If This Happens: Details",
+          "title": "Bitdeer Technologies' Bitcoins Mined in June Jumps 35.8% Y/Y",
           "imageUrl": null
         },
         {
-          "id": "https://cryptopanic.com/news/18752760/CZ-Dismisses-Strife-Claims-Pressure-Makes-Binance-Stronger",
+          "id": "https://cryptopanic.com/news/18752909/Hong-Kong-Empowers-Trading-Platforms-With-Virtual-Asset-Education-Program",
           "author": null,
           "description": "",
-          "link": "https://cryptopanic.com/news/18752760/CZ-Dismisses-Strife-Claims-Pressure-Makes-Binance-Stronger",
-          "publishedOn": "2023-07-10T13:35:00.000Z",
+          "link": "https://cryptopanic.com/news/18752909/Hong-Kong-Empowers-Trading-Platforms-With-Virtual-Asset-Education-Program",
+          "publishedOn": "2023-07-10T14:30:39.000Z",
           "wordCount": null,
-          "title": "CZ Dismisses Strife Claims: Pressure Makes Binance Stronger",
+          "title": "Hong Kong Empowers Trading Platforms With Virtual Asset Education Program",
           "imageUrl": null
         },
         {
-          "id": "https://cryptopanic.com/news/18752758/Bank-of-International-Settlements-Report-15-Retail-CBDCs-Will-Be-Launched-By-2030",
+          "id": "https://cryptopanic.com/news/18752889/Macro-Guru-Raoul-Pal-Outlines-Dream-Scenario-for-Solana-Unveils-Massive-Price-Target-for-Ethereum-Rival",
           "author": null,
           "description": "",
-          "link": "https://cryptopanic.com/news/18752758/Bank-of-International-Settlements-Report-15-Retail-CBDCs-Will-Be-Launched-By-2030",
-          "publishedOn": "2023-07-10T13:34:00.000Z",
+          "link": "https://cryptopanic.com/news/18752889/Macro-Guru-Raoul-Pal-Outlines-Dream-Scenario-for-Solana-Unveils-Massive-Price-Target-for-Ethereum-Rival",
+          "publishedOn": "2023-07-10T14:30:14.000Z",
           "wordCount": null,
-          "title": "Bank of International Settlements Report: 15 Retail CBDCs Will Be Launched By 2030",
+          "title": "Macro Guru Raoul Pal Outlines Dream Scenario for Solana, Unveils Massive Price Target for Ethereum Rival",
           "imageUrl": null
         }
       ]
@@ -1119,6 +1119,21 @@
       "feedUrl": "https://www.inoreader.com/stream/user/1005336866/tag/%E6%B5%B7%E5%A4%96%E5%8A%A0%E5%AF%86%E8%B5%84%E8%AE%AF",
       "siteUrl": "https://www.inoreader.com/stream/user/1005336866/tag/%E6%B5%B7%E5%A4%96%E5%8A%A0%E5%AF%86%E8%B5%84%E8%AE%AF/view/html",
       "articles": [
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e756f43f636",
+          "author": "Ebo Victor",
+          "description": "To position itself as a digital hub amidst global regulatory scrutiny of online assets, the Hong Kong Securities and Investment Institute (HKSI) plans to provide training for virtual asset platforms. Supported by the local regulator Securities and Futures Commission (SFC), the HKSI ensures that all new centralized virtual asset trading platforms in Hong Kong acquire the necessary licenses.\n \nIt’s worth noting that existing operators and their platforms have until June of the following year to apply for licenses under the newly imposed regulations.\n \nCrypto-Themed Webinars Exploring Digital Assets And Portfolio Management\n \nThe HKSI’s upcoming schedule of events features a range of crypto-themed webinars designed to provide valuable insights into the world of digital assets. Two notable web…",
+          "link": "https://bitcoinist.com/hong-kong-empowers-trading-platforms/",
+          "publishedOn": "2023-07-10T14:35:46.000Z",
+          "wordCount": 5375,
+          "title": "Hong Kong Empowers Trading Platforms With Virtual Asset Education Program",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/jpeg",
+            "url": "https://bitcoinist.com/wp-content/uploads/2023/07/hong-kong-640x336.jpg"
+          },
+          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2023/07/hong-kong-640x336.jpg"
+        },
         {
           "id": "http://www.inoreader.com/article/3a9c6e756f4fd2c9",
           "author": "Jamie Redman",
@@ -1150,7 +1165,7 @@
           "description": "The latest price moves in bitcoin (BTC) and crypto markets in context for July 10, 2023. First Mover is CoinDesk’s daily newsletter that contextualizes the latest actions in the crypto markets.",
           "link": "https://www.coindesk.com/markets/2023/07/10/first-mover-americas-bitcoin-holding-above-30k-after-quiet-weekend/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-07-10T13:38:17.000Z",
-          "wordCount": 7214,
+          "wordCount": 7172,
           "title": "First Mover Americas: Bitcoin Holding Above $30K After Quiet Weekend",
           "enclosure": {
             "length": "1337",
@@ -1165,7 +1180,7 @@
           "description": "On-chain data provider Arkham Intelligence has announced the release of a marketplace that allows people to buy and sell on-chain cryptocurrency data.",
           "link": "https://www.coindesk.com/business/2023/07/10/arkham-intelligence-rolls-out-crypto-data-marketplace-privacy-advocates-cry-foul/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-07-10T13:38:17.000Z",
-          "wordCount": 6516,
+          "wordCount": 6474,
           "title": "Arkham Intelligence Rolls Out Crypto Data Marketplace; Privacy Advocates Cry Foul",
           "enclosure": {
             "length": "1337",
@@ -1260,7 +1275,7 @@
           "description": "The company, 117 Partners, will be a hybrid between advisory and investment, said Braziel.",
           "link": "https://www.coindesk.com/business/2023/07/10/distressed-crypto-specialist-thomas-braziel-sets-up-investment-advisory-firm/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-07-10T10:37:04.000Z",
-          "wordCount": 6145,
+          "wordCount": 6113,
           "title": "Distressed Crypto Specialist Thomas Braziel Sets Up Investment, Advisory Firm",
           "enclosure": {
             "length": "1337",
@@ -1275,7 +1290,7 @@
           "description": "China is exporting deflation across the Western world. Ultimately this will be good for risk assets as it relates to the end of the global interest-rate increase cycle, one observer said.",
           "link": "https://www.coindesk.com/markets/2023/07/10/bitcoin-steady-above-30k-as-china-factory-deflation-suggests-end-of-global-tightening-cycle-is-near/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-07-10T10:37:04.000Z",
-          "wordCount": 7220,
+          "wordCount": 7182,
           "title": "Bitcoin Steady Above $30K as China Factory Deflation Suggests End of Global Tightening Cycle Is Near",
           "enclosure": {
             "length": "1337",
@@ -1290,7 +1305,7 @@
           "description": "A survey conducted by the Bank for International Settlements found 93% of central banks worldwide were engaged in digital currency work in 2022.",
           "link": "https://www.coindesk.com/policy/2023/07/10/15-retail-cbdcs-possible-by-2030-bis-study-says/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-07-10T10:37:04.000Z",
-          "wordCount": 6670,
+          "wordCount": 6627,
           "title": "15 Retail CBDCs Likely by 2030, BIS Study Says",
           "enclosure": {
             "length": "1337",
@@ -1373,16 +1388,6 @@
           "wordCount": 25165,
           "title": "HIVE Blockchain Crypto Production Falls in June to 259 BTC",
           "imageUrl": "https://images.financemagnates.com/images/GPU%20mining%20CPU%20Mining%20crypto%20mining_id_5c31706e-52cb-489d-b876-d6db38339600_size900.jpg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e756f0250a4",
-          "author": "Media",
-          "description": "PRESS RELEASE. Dubai, UAE — July 10, 2023 – Today, BLU Mission, an organization committed to the growth and integrity of the broader crypto ecosystem, is excited to announce its partnership with Unidef (unidef.org). The collaboration aims to expedite the transition towards a decentralized future. Together, we engage with policy-makers, launch advocacy initiatives, and establish partnerships to ensure that the benefits of decentralization are accessible to all.\n \nOur primary objective in forming this partnership is to stimulate the expansion of BLU Mission by aligning it more effectively with the goal of endorsing decentralized technologies, assets, and initiatives. These efforts empower individuals, communities, and the world at large to create their own destiny.\n \nThe partnership offers t…",
-          "link": "https://news.bitcoin.com/blu-mission-forms-strategic-partnership-with-unidef-to-foster-decentralization/",
-          "publishedOn": "2023-07-10T06:54:30.000Z",
-          "wordCount": 233,
-          "title": "BLU Mission Forms Strategic Partnership with Unidef to Foster Decentralization",
-          "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2023/07/b66baeb1-cd50-42bf-8b44-3c352b55f8b5.png"
         }
       ]
     }

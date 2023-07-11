@@ -6,6 +6,21 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=148181",
+          "author": "Andrew Throuvalas",
+          "description": "History suggests that Bitcoin may be due for many months of sideways trading, the firm said.",
+          "link": "https://decrypt.co/148181/bitcoin-price-30000-firm-foundation-glassnode",
+          "publishedOn": "2023-07-11T21:21:05.000Z",
+          "wordCount": 8484,
+          "title": "Bitcoin Has Formed a 'Firm Foundation' Under $30000: Glassnode",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/04/bitcoin-up-gID_7.jpg@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/04/bitcoin-up-gID_7.jpg@png"
+        },
+        {
           "id": "https://decrypt.co/?p=148099",
           "author": "Sander Lutz",
           "description": "NFT lending protocol Arcade and escrow service 4K aim to create a global pawn shop of strangers, starting with Rolex and Patek Philippe watches.",
@@ -56,7 +71,7 @@
           "description": "The FBI raided the home of Ryan Salame in April while investigating Sam Bankman-Fried’s political activities.",
           "link": "https://decrypt.co/148115/ftx-executive-ryan-salame-donations-investigation-girlfriend-campaign",
           "publishedOn": "2023-07-11T18:12:12.000Z",
-          "wordCount": 8337,
+          "wordCount": 8370,
           "title": "FTX Exec Investigated for Illegal Donations to Girlfriend's Congressional Campaign: WSJ",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/11/ftx-trading-gID_7.jpeg@png",
@@ -71,7 +86,7 @@
           "description": "U.S. Attorney Damian Williams today said that Shakeeb Ahmed \"used his expertise to defraud\" and allegedly steal $9 million in crypto.",
           "link": "https://decrypt.co/148097/feds-charge-engineer-first-ever-decentralized-exchange-hack-case",
           "publishedOn": "2023-07-11T16:07:42.000Z",
-          "wordCount": 8373,
+          "wordCount": 8406,
           "title": "Feds Charge Engineer in First-Ever Decentralized Exchange Hack Case",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/07/shutterstock_1384089728-gID_7.jpg@png",
@@ -591,21 +606,6 @@
           "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/09/software-developers-gID_7.jpg@png"
         },
         {
-          "id": "https://decrypt.co/?p=147849",
-          "author": "Donovan Choy",
-          "description": "“I don't think anybody's job on the creation side is going to be taken by an AI, but it will get taken by a human using AI.\"",
-          "link": "https://decrypt.co/147849/ai-will-make-games-faster-cheaper-and-better-unity-ceo",
-          "publishedOn": "2023-07-09T20:11:28.000Z",
-          "wordCount": 9212,
-          "title": "AI Will Make Games 'Faster, Cheaper and Better': Unity CEO",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/07/John-Riccitiello-by-David-Fitzgerald-16x9-1-gID_7.jpg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/07/John-Riccitiello-by-David-Fitzgerald-16x9-1-gID_7.jpg@png"
-        },
-        {
           "id": "https://decrypt.co/videos/interviews/sQv6zcil/games-of-the-future-are-going-to-be-different-says-splinterlands-cofounder",
           "author": null,
           "description": "Splinterlands Cofounder Matt Rosen tells Decrypt's Kate Irwin about how the game has evolved over its five-year history and why he doesn't listen to the FUD around crypto.",
@@ -656,7 +656,7 @@
           "description": "Decrypt's Kate Irwin goes to Burbank, California for a behind-the-scenes tour of AMGI Studios, the developers of upcoming game My Pet Hooligan.",
           "link": "https://decrypt.co/videos/live-events/eQ71oapI/behind-the-scenes-with-amgi-studios-and-my-pet-hooligan",
           "publishedOn": "2023-07-03T21:51:00.000Z",
-          "wordCount": 6001,
+          "wordCount": 6034,
           "title": "Behind the Scenes with AMGI Studios and My Pet Hooligan",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/eQ71oapI/poster.jpg",
@@ -898,34 +898,154 @@
       "siteUrl": "https://cryptopanic.com/",
       "articles": [
         {
+          "id": "https://cryptopanic.com/news/18761883/US-Senate-Finance-Committee-asks-digital-asset-community-how-to-tax-it-in-open-letter",
+          "author": null,
+          "description": "Community members may want to read up on the intricacies of tax law before they respond, but they have two months to do so.",
+          "link": "https://cryptopanic.com/news/18761883/US-Senate-Finance-Committee-asks-digital-asset-community-how-to-tax-it-in-open-letter",
+          "publishedOn": "2023-07-11T22:00:00.000Z",
+          "wordCount": 595,
+          "title": "US Senate Finance Committee asks digital asset community how to tax it in open letter",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18761878/Arkham-CEO-on-Email-Doxing-Accusations-We-Arent-Perfect",
+          "author": null,
+          "description": "Arkham’s CEO responds to reports of the project's unethical practices and doxxing allegations.",
+          "link": "https://cryptopanic.com/news/18761878/Arkham-CEO-on-Email-Doxing-Accusations-We-Arent-Perfect",
+          "publishedOn": "2023-07-11T21:50:00.000Z",
+          "wordCount": 589,
+          "title": "Arkham CEO on Email Doxing Accusations: “We Aren’t Perfect”",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18761880/Majority-of-crypto-investors-want-more-financial-disclosures-survey-finds",
+          "author": null,
+          "description": "A majority of investors say they want more transparency and regular information from digital asset projects.",
+          "link": "https://cryptopanic.com/news/18761880/Majority-of-crypto-investors-want-more-financial-disclosures-survey-finds",
+          "publishedOn": "2023-07-11T21:44:33.000Z",
+          "wordCount": 590,
+          "title": "Majority of crypto investors want more financial disclosures, survey finds",
+          "imageUrl": "https://www.tbstat.com/wp/uploads/2021/04/20210429_Stock-Tokens-1200x675.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/18761843/Experiments-show-AI-could-help-to-audit-smart-contracts-but-not-yet",
+          "author": null,
+          "description": "Artificial intelligence has proven effective at identifying security vulnerabilities, but early tests indicate it won’t be able to replace humans for a while.",
+          "link": "https://cryptopanic.com/news/18761843/Experiments-show-AI-could-help-to-audit-smart-contracts-but-not-yet",
+          "publishedOn": "2023-07-11T21:33:16.000Z",
+          "wordCount": 592,
+          "title": "Experiments show AI could help to audit smart contracts, but not yet",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18761842/What-is-Web4-The-EU-wants-to-explain",
+          "author": null,
+          "description": "The European Commission announced on Tuesday a litany of projects it wants to pursue to advance Web4 adoption over the next several years",
+          "link": "https://cryptopanic.com/news/18761842/What-is-Web4-The-EU-wants-to-explain",
+          "publishedOn": "2023-07-11T21:32:46.000Z",
+          "wordCount": 588,
+          "title": "What is Web4? The EU wants to explain",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18761841/Patek-Philippe-Watch-Used-As-Collateral-In-A-35000-DeFi-Loan",
+          "author": null,
+          "description": "On July 10, a lender extended a $35,000 loan to an individual using a Patek Philippe watch as collateral via Arcade, a decentralized lending platform, with the watch being verified and held in escrow by the 4K Protocol. Patek Philippe watches are considered some of the most valuable watches in...",
+          "link": "https://cryptopanic.com/news/18761841/Patek-Philippe-Watch-Used-As-Collateral-In-A-35000-DeFi-Loan",
+          "publishedOn": "2023-07-11T21:30:55.000Z",
+          "wordCount": 591,
+          "title": "Patek Philippe Watch Used As Collateral In A $35,000 DeFi Loan",
+          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2023/07/Patek-Philippe-NFT-Loan.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/18761821/Grayscale-resolves-lawsuit-with-Fir-Tree-over-proposed-changes-to-Bitcoin-Trust",
+          "author": null,
+          "description": "Fir Tree hinted at potential additional litigation against Grayscale and parent company Digital Currency Group based on what its GBTC documentation may reveal.",
+          "link": "https://cryptopanic.com/news/18761821/Grayscale-resolves-lawsuit-with-Fir-Tree-over-proposed-changes-to-Bitcoin-Trust",
+          "publishedOn": "2023-07-11T21:28:06.000Z",
+          "wordCount": 592,
+          "title": "Grayscale resolves lawsuit with Fir Tree over proposed changes to Bitcoin Trust",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18761818/Custodias-Lawsuit-Against-The-Fed-Exposes-The-Fractional-Reserve-Banking-Model",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/18761818/Custodias-Lawsuit-Against-The-Fed-Exposes-The-Fractional-Reserve-Banking-Model",
+          "publishedOn": "2023-07-11T21:26:04.000Z",
+          "wordCount": null,
+          "title": "Custodia's Lawsuit Against The Fed Exposes The Fractional Reserve Banking Model",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18761834/Billionaire-Tim-Draper-Who-Predicted-250000-in-Bitcoin-Explains-His-New-Opinions",
+          "author": null,
+          "description": "Billionaire investor Tim Draper shared his new views on Bitcoin with investors in his latest TV show. Continue Reading: Billionaire Tim Draper, Who Predicted $250,000 in Bitcoin, Explains His New Opinions!",
+          "link": "https://cryptopanic.com/news/18761834/Billionaire-Tim-Draper-Who-Predicted-250000-in-Bitcoin-Explains-His-New-Opinions",
+          "publishedOn": "2023-07-11T21:25:06.000Z",
+          "wordCount": 592,
+          "title": "Billionaire Tim Draper, Who Predicted $250,000 in Bitcoin, Explains His New Opinions!",
+          "imageUrl": "https://www.bitcoinsistemi.com/wp-content/uploads/2018/04/Tim-Draper.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/18761828/Bitcoin-Has-Formed-a-Firm-Foundation-Under-30000-Glassnode",
+          "author": null,
+          "description": "History suggests that Bitcoin may be due for many months of sideways trading, the firm said.",
+          "link": "https://cryptopanic.com/news/18761828/Bitcoin-Has-Formed-a-Firm-Foundation-Under-30000-Glassnode",
+          "publishedOn": "2023-07-11T21:21:05.000Z",
+          "wordCount": 589,
+          "title": "Bitcoin Has Formed a 'Firm Foundation' Under $30000: Glassnode",
+          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2023/04/bitcoin-up-gID_7.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/18761820/Ether-Staking-Ratio-Nears-Key-Milestone-as-Inflows-Slow-Amid-Regulatory-Pressures",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/18761820/Ether-Staking-Ratio-Nears-Key-Milestone-as-Inflows-Slow-Amid-Regulatory-Pressures",
+          "publishedOn": "2023-07-11T21:18:12.000Z",
+          "wordCount": null,
+          "title": "Ether Staking Ratio Nears Key Milestone as Inflows Slow Amid Regulatory Pressures",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18761814/Brazilian-CBDC-pilot-source-code-includes-methods-to-freeze-drain-wallets",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/18761814/Brazilian-CBDC-pilot-source-code-includes-methods-to-freeze-drain-wallets",
+          "publishedOn": "2023-07-11T21:10:47.000Z",
+          "wordCount": null,
+          "title": "Brazilian CBDC pilot source code includes methods to freeze, drain wallets",
+          "imageUrl": null
+        },
+        {
           "id": "https://cryptopanic.com/news/18761794/Blockchain-infused-AI-could-save-Drakes-voice-or-your-average-Joes-data",
           "author": null,
-          "description": "Blockchain builders think cryptographic tech could solve a lot of the intellectual property and personal data concerns presented by artificial intelligence.",
+          "description": "",
           "link": "https://cryptopanic.com/news/18761794/Blockchain-infused-AI-could-save-Drakes-voice-or-your-average-Joes-data",
           "publishedOn": "2023-07-11T21:09:52.000Z",
-          "wordCount": 591,
+          "wordCount": null,
           "title": "Blockchain-infused AI could save Drake’s voice, or your average Joe’s data",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2022/09/20220912_NFT_Music2-1200x675.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/18761792/What-Is-Cardanos-Hydra-Pay-and-How-Does-It-Revolutionize-Micro-Payments",
           "author": null,
-          "description": "Hydra Pay looks to forever reshape blockchain micropayments and attract DeFi development on Cardano.",
+          "description": "",
           "link": "https://cryptopanic.com/news/18761792/What-Is-Cardanos-Hydra-Pay-and-How-Does-It-Revolutionize-Micro-Payments",
           "publishedOn": "2023-07-11T21:04:00.000Z",
-          "wordCount": 592,
+          "wordCount": null,
           "title": "What Is Cardano’s Hydra Pay, and How Does It Revolutionize Micro Payments?",
           "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/18761793/Student-Loans-and-Harvard-Degrees-Are-Scams-Study-Bitcoin",
           "author": null,
-          "description": "American student loan debt is now in the trillions of dollars!! If the system wasn't broken, it wouldn't perform poorly and be insolvent. Rather than going into debt for a prestigious Harvard or college degree, Del breaks down how Bitcoin opens up exciting opportunities in education from...",
+          "description": "",
           "link": "https://cryptopanic.com/news/18761793/Student-Loans-and-Harvard-Degrees-Are-Scams-Study-Bitcoin",
           "publishedOn": "2023-07-11T21:03:54.000Z",
-          "wordCount": 590,
+          "wordCount": null,
           "title": "Student Loans and Harvard Degrees Are Scams?! | Study Bitcoin",
-          "imageUrl": "https://i2.ytimg.com/vi/YF0HEJLqRT4/hqdefault.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/18761796/CZ-Shares-Secret-Behind-Binances-Strong-Team-Spirit-Amid-Brewing-Battles-With-Regulators",
@@ -936,6 +1056,26 @@
           "wordCount": 593,
           "title": "CZ Shares Secret Behind Binance’s Strong Team Spirit Amid Brewing Battles With Regulators",
           "imageUrl": "https://zycrypto.com/wp-content/uploads/2023/06/Binance-Responds-to-SECs-Complaint-Pledges-Vigorous-Defense-Amid-Overwhelming-Industry-Support.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/18761817/Pomp-On-Bitcoin-Journey-FX-Summit-2023",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/18761817/Pomp-On-Bitcoin-Journey-FX-Summit-2023",
+          "publishedOn": "2023-07-11T21:00:03.000Z",
+          "wordCount": null,
+          "title": "Pomp On Bitcoin Journey | FX Summit 2023",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18761799/YOUR-Crypto-is-at-BIG-RISK-Massive-Polygon-MATIC-News-Arkham-Airdrop",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/18761799/YOUR-Crypto-is-at-BIG-RISK-Massive-Polygon-MATIC-News-Arkham-Airdrop",
+          "publishedOn": "2023-07-11T21:00:00.000Z",
+          "wordCount": null,
+          "title": "YOUR Crypto is at BIG RISK!! Massive Polygon MATIC News | Arkham Airdrop!!",
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/18761786/BIS-gives-CBDCs-a-thumbs-up-crypto-the-middle-finger-in-reports-to-G20-ministers",
@@ -950,152 +1090,12 @@
         {
           "id": "https://cryptopanic.com/news/18761781/Arkhams-CEO-Responds-to-Reactions",
           "author": null,
-          "description": "",
+          "description": "The CEO, the name behind Arkham, the new altcoin to be launched with Binance Launchpad, responded to the criticism. Continue Reading: Arkham's CEO Responds to Reactions!",
           "link": "https://cryptopanic.com/news/18761781/Arkhams-CEO-Responds-to-Reactions",
           "publishedOn": "2023-07-11T20:52:05.000Z",
-          "wordCount": null,
+          "wordCount": 585,
           "title": "Arkham's CEO Responds to Reactions!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18761764/IMF-sees-climate-change-DAOs-CBDC-as-threats-to-Marshall-Islands-urges-reforms",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/18761764/IMF-sees-climate-change-DAOs-CBDC-as-threats-to-Marshall-Islands-urges-reforms",
-          "publishedOn": "2023-07-11T20:45:00.000Z",
-          "wordCount": null,
-          "title": "IMF sees climate change, DAOs, CBDC as threats to Marshall Islands, urges reforms",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18761769/The-Latest-NFT-Trend-Taking-Out-Loans-on-Rolexes",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/18761769/The-Latest-NFT-Trend-Taking-Out-Loans-on-Rolexes",
-          "publishedOn": "2023-07-11T20:42:53.000Z",
-          "wordCount": null,
-          "title": "The Latest NFT Trend: Taking Out Loans on Rolexes",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18761773/Groundbreaking-Claim-From-Bloomberg-ETF-Analyst-30-Trillion-Flows-Into-Cryptos-If-Spot-ETF-Is-Approved",
-          "author": null,
-          "description": "Bloomberg ETF analyst Eric Balchunas made some interesting statements about the Bitcoin Spot ETF in his statement. Continue Reading: Groundbreaking Claim From Bloomberg ETF Analyst: \"$30 Trillion Flows Into Cryptos If Spot ETF Is Approved\"",
-          "link": "https://cryptopanic.com/news/18761773/Groundbreaking-Claim-From-Bloomberg-ETF-Analyst-30-Trillion-Flows-Into-Cryptos-If-Spot-ETF-Is-Approved",
-          "publishedOn": "2023-07-11T20:42:05.000Z",
-          "wordCount": 596,
-          "title": "Groundbreaking Claim From Bloomberg ETF Analyst: \"$30 Trillion Flows Into Cryptos If Spot ETF Is Approved\"",
-          "imageUrl": "https://www.bitcoinsistemi.com/wp-content/uploads/2023/07/Eric-Balchunas-scaled.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/18761763/Etherfan-is-using-NFTs-to-incentivize-stakers",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/18761763/Etherfan-is-using-NFTs-to-incentivize-stakers",
-          "publishedOn": "2023-07-11T20:40:28.000Z",
-          "wordCount": null,
-          "title": "Ether.fan is using NFTs to incentivize stakers",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18761768/ZERO-EFFORT-GAINS-ULTIMATE-PASSIVE-BITCOIN-AND-CRYPTO-INVESTOR-PORTFOLIO",
-          "author": null,
-          "description": "✅ Follow EllioTrades on Twitter: https://twitter.com/elliotrades #nft #ethereum #defi #blockchain #crypto #cryptocurrency #bitcoin #btc #eth #news #protocols #sidechain #altcoin #nftmarketplace #opensea #cryptoart #protocol #altcoins #nonfungibletoken #dao #sidechain #layer2 #erc20 #erc-20...",
-          "link": "https://cryptopanic.com/news/18761768/ZERO-EFFORT-GAINS-ULTIMATE-PASSIVE-BITCOIN-AND-CRYPTO-INVESTOR-PORTFOLIO",
-          "publishedOn": "2023-07-11T20:35:22.000Z",
-          "wordCount": 590,
-          "title": "Zero Effort Gains! Ultimate Passive Bitcoin And Crypto Investor Portfolio!!",
-          "imageUrl": "https://i4.ytimg.com/vi/wWiZ5B37fSE/hqdefault.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/18761748/FTX-Prosecution-Ryan-Salames-54K-Donation-To-Congressional-Candidate-Michelle-Bond-Examined-By-Federal-Investigators",
-          "author": null,
-          "description": "Ex-congressional candidate Michelle Bond received at least $54,000 from Ryan Salame and other former FTX employees during her campaign in 2022. Federal prosecutors are now looking into the money Bond received from boyfriend Salame and up to $880,000 she lent to her own election endeavors, WSJ...",
-          "link": "https://cryptopanic.com/news/18761748/FTX-Prosecution-Ryan-Salames-54K-Donation-To-Congressional-Candidate-Michelle-Bond-Examined-By-Federal-Investigators",
-          "publishedOn": "2023-07-11T20:34:35.000Z",
-          "wordCount": 595,
-          "title": "FTX Prosecution: Ryan Salame’s $54K Donation To Congressional Candidate Michelle Bond Examined By Federal Investigators",
-          "imageUrl": "https://en.ethereumworldnews.com/wp-content/uploads/2022/11/Cyprus-Regulators-To-Suspend-FTX-EU-Crypto-License.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/18761749/Bitcoin-Attempts-Fresh-Breakout-as-Battle-for-Yearly-Highs-Intensifies",
-          "author": null,
-          "description": "Bitcoin (BTC) made a fresh breakout attempt on July 11, as the battle for yearly...",
-          "link": "https://cryptopanic.com/news/18761749/Bitcoin-Attempts-Fresh-Breakout-as-Battle-for-Yearly-Highs-Intensifies",
-          "publishedOn": "2023-07-11T20:33:00.000Z",
-          "wordCount": 590,
-          "title": "Bitcoin Attempts Fresh Breakout as Battle for Yearly Highs Intensifies",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18761744/Finance-Author-Robert-Kiyosaki-Says-Bitcoin-Will-Hit-120000-Heres-why",
-          "author": null,
-          "description": "Bitcoin (BTC), the leading cryptocurrency, has been experiencing a resurgence in the crypto market, marked by bullish reversals across the board. Amidst this market activity, Robert Kiyosaki, the renowned author of “Rich Dad Poor Dad,” has unveiled a bold new price target for the cryptocurrency....",
-          "link": "https://cryptopanic.com/news/18761744/Finance-Author-Robert-Kiyosaki-Says-Bitcoin-Will-Hit-120000-Heres-why",
-          "publishedOn": "2023-07-11T20:30:07.000Z",
-          "wordCount": 591,
-          "title": "Finance Author Robert Kiyosaki Says Bitcoin Will Hit $120,000, Here’s why",
-          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2023/07/iStock-877508718-1.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/18761719/Anthropic-launches-Claude-2-amid-continuing-AI-hullabaloo",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/18761719/Anthropic-launches-Claude-2-amid-continuing-AI-hullabaloo",
-          "publishedOn": "2023-07-11T20:30:00.000Z",
-          "wordCount": null,
-          "title": "Anthropic launches Claude 2 amid continuing AI hullabaloo",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18761746/Coinbase-Goes-to-Court-Against-the-SEC",
-          "author": null,
-          "description": "Coinbase (COIN) and the Securities and Exchange Commission will meet in court this week. The hearing – the questions asked and the answers given – should provide some hints on how the case may go (for now, anyway).",
-          "link": "https://cryptopanic.com/news/18761746/Coinbase-Goes-to-Court-Against-the-SEC",
-          "publishedOn": "2023-07-11T20:30:00.000Z",
-          "wordCount": 587,
-          "title": "Coinbase Goes to Court Against the SEC",
-          "imageUrl": "https://www.coindesk.com/resizer/-umP2SbQgpi0ubovALBBHgdCx9I=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/FCRTTOM7PZE6RAAT5WP2ASST44.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/18761727/These-Altcoins-Rise-Against-Bitcoin-By-Kicking-Off-The-Second-Half-Of-The-Year",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/18761727/These-Altcoins-Rise-Against-Bitcoin-By-Kicking-Off-The-Second-Half-Of-The-Year",
-          "publishedOn": "2023-07-11T20:24:05.000Z",
-          "wordCount": null,
-          "title": "These Altcoins Rise Against Bitcoin By Kicking Off The Second Half Of The Year!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18761747/Tim-Draper-Still-Thinks-Bitcoin-Can-Reach-250K-Just-2-Years-Later-Than-He-Expected",
-          "author": null,
-          "description": "Even though billionaire investor and venture capitalist Tim Draper was clearly wrong when he predicted bitcoin (BTC) would reach $250,000 in June 2023, he said he still believes that it will happen eventually, maybe in 2025.",
-          "link": "https://cryptopanic.com/news/18761747/Tim-Draper-Still-Thinks-Bitcoin-Can-Reach-250K-Just-2-Years-Later-Than-He-Expected",
-          "publishedOn": "2023-07-11T20:23:44.000Z",
-          "wordCount": 596,
-          "title": "Tim Draper Still Thinks Bitcoin Can Reach $250K – Just 2 Years Later Than He Expected",
-          "imageUrl": "https://www.coindesk.com/resizer/--74u3WT85cnH0bs1yyuO9qZCyo=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/WGVXAURANJCQLIAO2JEXLNK4MQ.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/18761709/Coordinape-wants-to-modernize-resumes-with-NFT-launch",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/18761709/Coordinape-wants-to-modernize-resumes-with-NFT-launch",
-          "publishedOn": "2023-07-11T20:15:11.000Z",
-          "wordCount": null,
-          "title": "Coordinape wants to modernize resumés with NFT launch",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18761712/Is-Binance-Too-Big-to-Fail",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/18761712/Is-Binance-Too-Big-to-Fail",
-          "publishedOn": "2023-07-11T20:14:47.000Z",
-          "wordCount": null,
-          "title": "Is Binance Too Big to Fail?",
-          "imageUrl": null
+          "imageUrl": "https://en.bitcoinsistemi.com/wp-content/uploads/2019/11/bitcoinsistemi-logo.png"
         }
       ]
     },
@@ -1104,6 +1104,31 @@
       "feedUrl": "https://www.inoreader.com/stream/user/1005336866/tag/%E6%B5%B7%E5%A4%96%E5%8A%A0%E5%AF%86%E8%B5%84%E8%AE%AF",
       "siteUrl": "https://www.inoreader.com/stream/user/1005336866/tag/%E6%B5%B7%E5%A4%96%E5%8A%A0%E5%AF%86%E8%B5%84%E8%AE%AF/view/html",
       "articles": [
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e756e2ea650",
+          "author": "BtcCasey",
+          "description": "Custodia, an innovative bitcoin and cryptocurrency bank seeking to establish a charter in Wyoming, took a bold step by filing a groundbreaking lawsuit against the Federal Reserve on June 7, 2022. The legal action stemmed from the Fed's inexplicable delay in approving Custodia's application for a \"Master Account,\" a process that typically takes 5-7 days but had been pending for over two years. This extended delay, eventually turning into a denial on January 27, 2023, raised concerns about potential biases favoring incumbent banks over disruptive newcomers like Custodia. The outcome of this lawsuit could have profound implications for the future of banking regulations and reshape the entire industry.\nCustodia's disruptive approach aims to revolutionize the banking model by positioning itself…",
+          "link": "https://bitcoinmagazine.com/legal/custodias-lawsuit-exposes-the-fractional-reserve-banking-model",
+          "publishedOn": "2023-07-11T21:35:49.000Z",
+          "wordCount": null,
+          "title": "Custodia's Lawsuit Against The Fed Exposes The Fractional Reserve Banking Model",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/png",
+            "url": "http://bitcoinmagazine.com/.image/c_limit,cs_srgb,h_1200,q_auto:good,w_1200/MTkwOTE3NzExNjQ2MTcyNzU3/aa-btc-4.png"
+          },
+          "imageUrl": "http://bitcoinmagazine.com/.image/c_limit,cs_srgb,h_1200,q_auto:good,w_1200/MTkwOTE3NzExNjQ2MTcyNzU3/aa-btc-4.png"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e756e2ed455",
+          "author": "Lubomir Tassev",
+          "description": "The U.K.’s Financial Conduct Authority (FCA) is proceeding with efforts to shut down all bitcoin ATMs “illegally operating” in the country. After more inspections in the past couple of months, the watchdog vowed to continue to take action against operators of unregistered crypto teller machines.\n \nFinancial Watchdog Shuts Down Dozens of Crypto ATMs in the U.K. This Year\n \nBritish authorities have inspected 18 more sites believed to be illegally operating automated teller machines (ATMs) supporting cryptocurrencies in the United Kingdom, the country’s financial regulator announced on Tuesday.\n \nThe checks have been carried out in May and June by the FCA, working together with representatives of the South West Regional Organized Crime Unit, Bedfordshire Police, Hertfordshire Police, and the …",
+          "link": "https://news.bitcoin.com/uk-regulator-continues-crackdown-on-crypto-atms-checks-18-new-sites/",
+          "publishedOn": "2023-07-11T21:34:11.000Z",
+          "wordCount": 262,
+          "title": "UK Regulator Continues Crackdown on Crypto ATMs, Checks 18 New Sites",
+          "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2023/07/shutterstock_2217305145.jpg"
+        },
         {
           "id": "http://www.inoreader.com/article/3a9c6e756e154552",
           "author": "Scott Matherson",
@@ -1125,7 +1150,7 @@
           "description": "“Publicly available blockchains are probably the worst possible way of keeping one’s private information private,” said Arkham CEO Miguel Morel.",
           "link": "https://www.coindesk.com/tech/2023/07/11/arkham-ceo-defends-dox-to-earn-program-says-public-blockchains-worst-for-privacy/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-07-11T19:39:19.000Z",
-          "wordCount": 7457,
+          "wordCount": 7488,
           "title": "Arkham CEO Defends ‘DOX-to-Earn’ Program, Says Public Blockchains ‘Worst’ for Privacy",
           "enclosure": {
             "length": "1337",
@@ -1140,7 +1165,7 @@
           "description": "A major Ethereum conference set for Paris is not drawing the same criticisms and concerns around last year's DevCon in Bogota, Colombia. If the industry wants to grow, it must take a truly global perspective.",
           "link": "https://www.coindesk.com/consensus-magazine/2023/07/11/ethcc-and-cryptos-latent-biases/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-07-11T19:39:19.000Z",
-          "wordCount": 7785,
+          "wordCount": 7811,
           "title": "EthCC and Crypto's Latent Biases",
           "enclosure": {
             "length": "1337",
@@ -1155,7 +1180,7 @@
           "description": "The candidate isn’t necessarily biased just because he owns BTC.",
           "link": "https://www.coindesk.com/consensus-magazine/2023/07/11/the-big-robert-f-kennedy-jr-bitcoin-nothingburger/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-07-11T19:39:19.000Z",
-          "wordCount": 7540,
+          "wordCount": 7561,
           "title": "The Big Robert F. Kennedy Jr. Bitcoin Nothingburger",
           "enclosure": {
             "length": "1337",
@@ -1170,7 +1195,7 @@
           "description": "The U.S. Department of Justice arrested a security engineer on wire fraud charges, alleging he stole $9 million worth of crypto from an unnamed decentralized cryptocurrency exchange.",
           "link": "https://www.coindesk.com/policy/2023/07/11/us-department-of-justice-arrests-engineer-over-9m-crypto-theft/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-07-11T19:39:19.000Z",
-          "wordCount": 6722,
+          "wordCount": 6745,
           "title": "U.S. Department of Justice Arrests Engineer Over $9M Crypto Theft",
           "enclosure": {
             "length": "1337",
@@ -1225,7 +1250,7 @@
           "description": "The Bank for International Settlements (BIS) has told the  \nGroup of Twenty (G20), the intergovernmental forum comprising the world's top  \n19 economies, and the European Union, that cryptocurrencies cannot be adopted  \nas a monetary instrument because they have \"inherent structural flaws.\"\nIn a report submitted to  \nthe G20 Finance Ministers and the Central Bank Governors, the BIS stated in  \ndetail the flaws facing digital assets, among them instability and  \ninefficiency. The BIS, which brings together the world's major central banks, added  \nthat there is a lack of accountability in the cryptocurrency ecosystem.\nShortcomings in  \nCrypto\n\"Crypto has so far failed to harness innovation to  \nthe benefit of society,\" the BIS stated. \"Crypto does not finance  \nany real economic activity. Ad…",
           "link": "https://www.financemagnates.com//cryptocurrency/bank-for-international-settlements-urges-g20-to-dismiss-crypto/",
           "publishedOn": "2023-07-11T17:44:53.000Z",
-          "wordCount": 5572,
+          "wordCount": 5574,
           "title": "Bank for International Settlements Urges G20 to Dismiss Crypto",
           "imageUrl": "https://images.financemagnates.com/images/bis_id_b71f8b4f-1815-4d72-8a0a-b3c5d2e3098d_size900.jpg"
         },
@@ -1285,7 +1310,7 @@
           "description": "Boldstart Ventures led the round for the startup, which helps developers avoid vulnerabilities in smart contract code.",
           "link": "https://www.coindesk.com/business/2023/07/11/ai-backed-web3-security-firm-olympix-raises-43m/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-07-11T16:38:48.000Z",
-          "wordCount": 6338,
+          "wordCount": 6354,
           "title": "AI-Backed Web3 Security Firm Olympix Raises $4.3M",
           "enclosure": {
             "length": "1337",
@@ -1300,7 +1325,7 @@
           "description": "Matic, the native token of layer-2 blockchain Polygon, has surged by 10% from Monday's low of $0.67 as traders anticipate the upcoming Polygon 2.0 upgrade.",
           "link": "https://www.coindesk.com/markets/2023/07/11/matic-surges-10-as-polygons-20-upgrade-draws-closer/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-07-11T16:38:48.000Z",
-          "wordCount": 6407,
+          "wordCount": 6419,
           "title": "MATIC Surges 10% as Polygon's 2.0 Upgrade Draws Closer",
           "enclosure": {
             "length": "1337",
@@ -1315,7 +1340,7 @@
           "description": "An Information-Sharing Agreement, which appears to be absent from public spot Bitcoin ETF filings, compels a crypto exchange to share trading data up to and including personal information such as a customer’s name and address.",
           "link": "https://www.coindesk.com/business/2023/07/11/blackrocks-bitcoin-etf-application-takes-surveillance-to-the-next-level/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-07-11T16:38:48.000Z",
-          "wordCount": 7590,
+          "wordCount": 7614,
           "title": "BlackRock’s Bitcoin ETF Application Takes Surveillance to the Next Level",
           "enclosure": {
             "length": "1337",
@@ -1330,7 +1355,7 @@
           "description": "Network effects and ease of use rule the day. And, a lot of people clearly don’t care about decentralization and privacy all that much, says CoinDesk’s Emily Parker.",
           "link": "https://www.coindesk.com/consensus-magazine/2023/07/11/why-threads-got-100-million-users-when-other-twitter-rivals-could-not/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-07-11T16:38:48.000Z",
-          "wordCount": 7990,
+          "wordCount": 8012,
           "title": "Why Threads Got 100 Million Users When Other Twitter Rivals Could Not",
           "enclosure": {
             "length": "1337",
@@ -1345,7 +1370,7 @@
           "description": "Shares of Coinbase jumped as much as 16% Tuesday after the crypto exchange reached an agreement with Cboe’s BZX Exchange to maintain a surveillance-sharing agreement for five of its spot bitcoin exchange-traded fund (ETF) applications.",
           "link": "https://www.coindesk.com/business/2023/07/11/coinbase-soars-after-reaching-cboe-surveillance-sharing-agreement-for-5-bitcoin-etf-applications/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-07-11T16:38:48.000Z",
-          "wordCount": 6544,
+          "wordCount": 6567,
           "title": "Coinbase Soars After Reaching Cboe Surveillance Sharing Agreement for 5 Bitcoin ETF Applications",
           "enclosure": {
             "length": "1337",
@@ -1353,36 +1378,6 @@
             "url": "https://www.coindesk.com/resizer/m8_CcGqJChbZlaSHoHRn_iIcceU=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/7FRJAVQYJRD5HNMRTINWCDAHNA.jpg"
           },
           "imageUrl": "https://www.coindesk.com/resizer/m8_CcGqJChbZlaSHoHRn_iIcceU=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/7FRJAVQYJRD5HNMRTINWCDAHNA.jpg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e756e09d21a",
-          "author": "Brandy Betz",
-          "description": "Ethereal Ventures and Variant co-led the round for Alluvial, creator of the enterprise and institution-focused Liquid Collective.",
-          "link": "https://www.coindesk.com/business/2023/07/11/brevan-howard-joins-12m-round-for-liquid-staking-protocol-alluvial/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-          "publishedOn": "2023-07-11T16:38:48.000Z",
-          "wordCount": 6267,
-          "title": "Brevan Howard Joins $12M Round for Liquid Staking Protocol Alluvial",
-          "enclosure": {
-            "length": "1337",
-            "type": "image/jpeg",
-            "url": "https://www.coindesk.com/resizer/y_PS_-GzM5cDUgK3Z677AmEVQ9k=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/CJAX6OS4LRCSXHOB4MEKPE7TQY.jpg"
-          },
-          "imageUrl": "https://www.coindesk.com/resizer/y_PS_-GzM5cDUgK3Z677AmEVQ9k=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/CJAX6OS4LRCSXHOB4MEKPE7TQY.jpg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e756e09d20f",
-          "author": "Jamie Crawley",
-          "description": "Ryan Salame is being investigated for potentially illegally avoiding federal limits on contributions to his girlfriend's congressional campaign last year",
-          "link": "https://www.coindesk.com/policy/2023/07/11/federal-prosecutors-investigate-former-ftx-executive-over-possible-campaign-law-violations-wsj/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-          "publishedOn": "2023-07-11T16:38:48.000Z",
-          "wordCount": 6433,
-          "title": "Federal Prosecutors Investigate Former FTX Executive Over Possible Campaign Law Violations: WSJ",
-          "enclosure": {
-            "length": "1337",
-            "type": "image/jpeg",
-            "url": "https://www.coindesk.com/resizer/HFS3hSOQeiCRNbpBuSTiIOfOZEk=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/55RQ2QF435BIPL62XDCEX42KIQ.jpg"
-          },
-          "imageUrl": "https://www.coindesk.com/resizer/HFS3hSOQeiCRNbpBuSTiIOfOZEk=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/55RQ2QF435BIPL62XDCEX42KIQ.jpg"
         }
       ]
     }

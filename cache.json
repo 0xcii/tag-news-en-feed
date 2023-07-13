@@ -6,6 +6,21 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=148406",
+          "author": "Mattis Meichler",
+          "description": "The 10,000 co-owners of the artwork voted for the loan, which will send it to London, Amsterdam, and Barcelona.",
+          "link": "https://decrypt.co/148406/fractionalized-nft-project-particle-loans-12-9m-banksy-artwork-global-museums",
+          "publishedOn": "2023-07-13T08:15:29.000Z",
+          "wordCount": 8621,
+          "title": "Fractionalized NFT Project Particle Loans $12.9M Banksy Artwork to Global Museums",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/07/ASSET_Particle_Banksy_Love_is_in_the_Air_As_of_November_22_2021_1-gID_7.jpg@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/07/ASSET_Particle_Banksy_Love_is_in_the_Air_As_of_November_22_2021_1-gID_7.jpg@png"
+        },
+        {
           "id": "https://decrypt.co/?p=148389",
           "author": "Jason Nelson",
           "description": "\"What they are doing is taking our work, dissecting it, and putting it into a machine, a blender, that spits it back out.\"",
@@ -161,7 +176,7 @@
           "description": "As is usually the case, markets reacted strongly to news that the government had moved millions worth of its seized BTC.",
           "link": "https://decrypt.co/148285/us-moves-300m-worth-of-silk-road-bitcoin",
           "publishedOn": "2023-07-12T15:34:12.000Z",
-          "wordCount": 8511,
+          "wordCount": 8478,
           "title": "US Government Preparing to Sell Silk Road Bitcoin Again? Here’s What’s Going On",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/05/department-of-justice-logo-with-american-flag-gID_7.jpg@png",
@@ -491,7 +506,7 @@
           "description": "The FBI raided the home of Ryan Salame in April while investigating Sam Bankman-Fried’s political activities.",
           "link": "https://decrypt.co/148115/ftx-executive-ryan-salame-donations-investigation-girlfriend-campaign",
           "publishedOn": "2023-07-11T18:12:12.000Z",
-          "wordCount": 8441,
+          "wordCount": 8401,
           "title": "FTX Exec Investigated for Illegal Donations to Girlfriend's Congressional Campaign: WSJ",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/11/ftx-trading-gID_7.jpeg@png",
@@ -506,7 +521,7 @@
           "description": "U.S. Attorney Damian Williams today said that Shakeeb Ahmed \"used his expertise to defraud\" and allegedly steal $9 million in crypto.",
           "link": "https://decrypt.co/148097/feds-charge-engineer-first-ever-decentralized-exchange-hack-case",
           "publishedOn": "2023-07-11T16:07:42.000Z",
-          "wordCount": 8484,
+          "wordCount": 8444,
           "title": "Feds Charge Engineer in First-Ever Decentralized Exchange Hack Case",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/07/shutterstock_1384089728-gID_7.jpg@png",
@@ -544,21 +559,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/04/2022-March-Learn-Covers_Liquidity-pools-gID_7-pID_2.png@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=148068",
-          "author": "Ryan Gladwin",
-          "description": "An exploiter was able to run away with roughly $888,000 in Ethereum from Rodeo’s interest-bearing USDC pool.",
-          "link": "https://decrypt.co/148068/layer-2-defi-project-rodeo-finance-hacked-472-ethereum",
-          "publishedOn": "2023-07-11T13:05:03.000Z",
-          "wordCount": 8197,
-          "title": "DeFi Project Rodeo Finance Hacked for $888,000 in Ethereum",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/07/crypto-hack-rodeo-gID_7.jpg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/07/crypto-hack-rodeo-gID_7.jpg@png"
         },
         {
           "id": "https://decrypt.co/videos/interviews/xHhh62ID/100-thieves-moe-says-blockchain-games-will-eventually-be-accepted-by-livestreamers",
@@ -761,7 +761,7 @@
           "description": "Marc Mercuri, Head of Platform for Web3 shooter Shrapnel, speaks with Decrypt's Kate Irwin at the 3XP expo about GameBridge, a feature that simplifies blockchain item composability and interoperability.",
           "link": "https://decrypt.co/videos/live-events/xqVjzGLr/what-is-gamebridge-inside-shrapnels-gaming-innovation",
           "publishedOn": "2023-06-22T21:30:00.000Z",
-          "wordCount": 6018,
+          "wordCount": 6051,
           "title": "What Is GameBridge? Inside Shrapnel's Gaming Innovation",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/xqVjzGLr/poster.jpg",
@@ -853,12 +853,182 @@
       "siteUrl": "https://cryptopanic.com/",
       "articles": [
         {
+          "id": "https://cryptopanic.com/news/18771094/Ethereum-scaling-protocols-drive-zero-knowledge-proof-use-in-2023",
+          "author": null,
+          "description": "Ethereum scaling remains the primary use case behind zero-knowledge proofs according to a report from ZKValidator.",
+          "link": "https://cryptopanic.com/news/18771094/Ethereum-scaling-protocols-drive-zero-knowledge-proof-use-in-2023",
+          "publishedOn": "2023-07-13T09:02:14.000Z",
+          "wordCount": 589,
+          "title": "Ethereum scaling protocols drive zero-knowledge proof use in 2023",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18771096/Do-personal-savings-levels-correlate-with-Bitcoin-price-increases",
+          "author": null,
+          "description": "Quick Take Analysis of FRED Data: Bitcoin Price vs. Personal Savings Rate Our examination of the data from the Federal Reserve Economic Data (FRED) brings out an interesting correlation between the Bitcoin price and the personal savings rate. The graph below delineates this relationship – the...",
+          "link": "https://cryptopanic.com/news/18771096/Do-personal-savings-levels-correlate-with-Bitcoin-price-increases",
+          "publishedOn": "2023-07-13T09:01:59.000Z",
+          "wordCount": 589,
+          "title": "Do personal savings levels correlate with Bitcoin price increases?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18771074/Bitcoin-Tumbles-Toward-30K-KAVA-Crashes-12-Daily-Market-Watch",
+          "author": null,
+          "description": "The latest CPI announcement failed to push the cryptocurrency market out of its consolidation, as the rangebound trading continues.",
+          "link": "https://cryptopanic.com/news/18771074/Bitcoin-Tumbles-Toward-30K-KAVA-Crashes-12-Daily-Market-Watch",
+          "publishedOn": "2023-07-13T08:58:31.000Z",
+          "wordCount": 590,
+          "title": "Bitcoin Tumbles Toward $30K, KAVA Crashes 12% Daily (Market Watch)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18771078/Cardano-Drama-This-Grifter-Company-Targets-58-Million-From-Catalyst-Fund-10",
+          "author": null,
+          "description": "Cardano community outraged and ready to take action",
+          "link": "https://cryptopanic.com/news/18771078/Cardano-Drama-This-Grifter-Company-Targets-58-Million-From-Catalyst-Fund-10",
+          "publishedOn": "2023-07-13T08:58:00.000Z",
+          "wordCount": 592,
+          "title": "Cardano Drama: This Grifter Company Targets $5.8+ Million From Catalyst Fund 10",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18771053/Blockchain-group-to-push-Philippines-Web3-adoption-via-state-partnership",
+          "author": null,
+          "description": "DICT Director Emmy Lou Versoza-Delfin said there’s been a rise in innovative blockchain startups in the Philippines, signaling that the country could be a global leader in blockchain.",
+          "link": "https://cryptopanic.com/news/18771053/Blockchain-group-to-push-Philippines-Web3-adoption-via-state-partnership",
+          "publishedOn": "2023-07-13T08:45:32.000Z",
+          "wordCount": 590,
+          "title": "Blockchain group to push Philippines Web3 adoption via state partnership",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18771056/Cryptocurrency-Crime-Takes-a-Nosedive-in-2023-But-Ransomware-Threat-Looms-Large",
+          "author": null,
+          "description": "According to the “Crypto Crime Mid-year Update” report from blockchain forensics firm Chainalysis, the first half of 2023 has witnessed a significant decline in cryptocurrency-related crimes. However, ransomware incidents are set for a massive spike due to the resurgence of “big game hunting.”...",
+          "link": "https://cryptopanic.com/news/18771056/Cryptocurrency-Crime-Takes-a-Nosedive-in-2023-But-Ransomware-Threat-Looms-Large",
+          "publishedOn": "2023-07-13T08:43:18.000Z",
+          "wordCount": 592,
+          "title": "Cryptocurrency Crime Takes a Nosedive in 2023, But Ransomware Threat Looms Large",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18771062/Bitcoin-Exchange-Binances-Native-Token-BNBs-Update-Date-Approaching-Whats-the-Price",
+          "author": null,
+          "description": "BNB Chain, the native blockchain of the Binance ecosystem, aims to address blockchain attack risks and increase network security. Continue Reading: Bitcoin Exchange Binance's Native Token BNB's Update Date Approaching! What's the Price?",
+          "link": "https://cryptopanic.com/news/18771062/Bitcoin-Exchange-Binances-Native-Token-BNBs-Update-Date-Approaching-Whats-the-Price",
+          "publishedOn": "2023-07-13T08:43:07.000Z",
+          "wordCount": 592,
+          "title": "Bitcoin Exchange Binance's Native Token BNB's Update Date Approaching! What's the Price?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18771041/Rich-Dad-R-Kiyosaki-says-THIS-meeting-to-put-nail-in-coffin-of-fiat-money",
+          "author": null,
+          "description": "As the warnings mount of the possible recession in the United States, the prominent investor and author of the best-selling … Continued",
+          "link": "https://cryptopanic.com/news/18771041/Rich-Dad-R-Kiyosaki-says-THIS-meeting-to-put-nail-in-coffin-of-fiat-money",
+          "publishedOn": "2023-07-13T08:38:11.000Z",
+          "wordCount": 595,
+          "title": "‘Rich Dad’ R. Kiyosaki says THIS meeting to ‘put nail in coffin’ of fiat money",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18771044/Cardano-Linked-SingularityNET-AGIX-up-7-Heres-Why",
+          "author": null,
+          "description": "SingularityNET redefining pace for AI-backed tokens following its 7% price jump",
+          "link": "https://cryptopanic.com/news/18771044/Cardano-Linked-SingularityNET-AGIX-up-7-Heres-Why",
+          "publishedOn": "2023-07-13T08:38:00.000Z",
+          "wordCount": 587,
+          "title": "Cardano-Linked SingularityNET (AGIX) up 7%, Here's Why",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18771040/When-Ripple-v-SEC-Ruling-XRP-Investors-Already-Taking-Positions-Report",
+          "author": null,
+          "description": "A recent report shows that investors are already positioning themselves in expectations of a ruling onn the Ripple v. SEC case.",
+          "link": "https://cryptopanic.com/news/18771040/When-Ripple-v-SEC-Ruling-XRP-Investors-Already-Taking-Positions-Report",
+          "publishedOn": "2023-07-13T08:36:18.000Z",
+          "wordCount": 591,
+          "title": "When Ripple v. SEC Ruling? XRP Investors Already Taking Positions (Report)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18771052/Coinbase-Lawyers-Argue-Biden-Student-Loans-Ruling-Aids-Defense-Against-SEC",
+          "author": null,
+          "description": "Asserting powers over the $1 trillion crypto industry is of major significance, just like canceling student debt, the exchange’s lawyers argue.",
+          "link": "https://cryptopanic.com/news/18771052/Coinbase-Lawyers-Argue-Biden-Student-Loans-Ruling-Aids-Defense-Against-SEC",
+          "publishedOn": "2023-07-13T08:34:48.000Z",
+          "wordCount": 591,
+          "title": "Coinbase Lawyers Argue Biden Student Loans Ruling Aids Defense Against SEC",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18771045/United-States-Government-Accountability-Office-Publishes-Blockchain-Report",
+          "author": null,
+          "description": "According to a recent report by the United States Government Accountability Office (GAO), blockchain technology...",
+          "link": "https://cryptopanic.com/news/18771045/United-States-Government-Accountability-Office-Publishes-Blockchain-Report",
+          "publishedOn": "2023-07-13T08:33:00.000Z",
+          "wordCount": 588,
+          "title": "United States Government Accountability Office Publishes Blockchain Report",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18771036/Off-The-Chain-Capital-seeing-dollar-signs-in-Mt-Gox-payout",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/18771036/Off-The-Chain-Capital-seeing-dollar-signs-in-Mt-Gox-payout",
+          "publishedOn": "2023-07-13T08:30:53.000Z",
+          "wordCount": null,
+          "title": "Off The Chain Capital seeing dollar signs in Mt. Gox payout",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18771035/Hedge-Funds-Display-Growing-Confidence-In-Crypto-Reveals-PwC-Report",
+          "author": null,
+          "description": "A recent report from PwC has highlighted an interesting dynamic: despite an overall decrease in traditional hedge funds’ participation in crypto, confidence in the sector’s long-term prospects seems stronger than ever. Though this might seem counterintuitive, given the current scenario marked by...",
+          "link": "https://cryptopanic.com/news/18771035/Hedge-Funds-Display-Growing-Confidence-In-Crypto-Reveals-PwC-Report",
+          "publishedOn": "2023-07-13T08:30:40.000Z",
+          "wordCount": 590,
+          "title": "Hedge Funds Display Growing Confidence In Crypto, Reveals PwC Report",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18771012/US-industry-watchdogs-oppose-draft-bill-on-crypto-market-structure",
+          "author": null,
+          "description": "The group sent a detailed letter to the U.S. House Financial Services Committee accusing the crypto market of seeking favorable legislation under the guise of crypto innovation.",
+          "link": "https://cryptopanic.com/news/18771012/US-industry-watchdogs-oppose-draft-bill-on-crypto-market-structure",
+          "publishedOn": "2023-07-13T08:29:18.000Z",
+          "wordCount": 590,
+          "title": "US industry watchdogs oppose draft bill on crypto market structure",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18770993/Fractionalized-NFT-Project-Particle-Loans-129M-Banksy-Artwork-to-Global-Museums",
+          "author": null,
+          "description": "The 10,000 co-owners of the artwork voted for the loan, which will send it to London, Amsterdam, and Barcelona.",
+          "link": "https://cryptopanic.com/news/18770993/Fractionalized-NFT-Project-Particle-Loans-129M-Banksy-Artwork-to-Global-Museums",
+          "publishedOn": "2023-07-13T08:15:29.000Z",
+          "wordCount": 591,
+          "title": "Fractionalized NFT Project Particle Loans $12.9M Banksy Artwork to Global Museums",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18771014/Google-Play-will-accept-NFTs-in-wallets",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/18771014/Google-Play-will-accept-NFTs-in-wallets",
+          "publishedOn": "2023-07-13T08:06:08.000Z",
+          "wordCount": null,
+          "title": "Google Play will accept NFTs in wallets",
+          "imageUrl": null
+        },
+        {
           "id": "https://cryptopanic.com/news/18770980/Why-Is-Bitcoin-And-Crypto-Down-Today",
           "author": null,
-          "description": "Within the last 24 hours, Bitcoin and the entire crypto market are experiencing a slight downturn, leaving investors wondering about the reasons behind this dip. Bitcoin briefly rose to $31,009 before falling to 30,254 within a few hours. Ether (ETH) rose to over $1,900, only to drop back to...",
+          "description": "",
           "link": "https://cryptopanic.com/news/18770980/Why-Is-Bitcoin-And-Crypto-Down-Today",
           "publishedOn": "2023-07-13T08:00:57.000Z",
-          "wordCount": 587,
+          "wordCount": null,
           "title": "Why Is Bitcoin And Crypto Down Today?",
           "imageUrl": null
         },
@@ -873,183 +1043,13 @@
           "imageUrl": null
         },
         {
-          "id": "https://cryptopanic.com/news/18770920/Google-Floats-Blockchain-based-Content-Policy-to-Bolster-User-Safety",
+          "id": "https://cryptopanic.com/news/18771015/Bitcoin-Shiba-Inu-and-Dogecoin-here-are-the-most-popular-crypto-assets-in-America",
           "author": null,
-          "description": "Coinspeaker Google Floats Blockchain-based Content Policy to Bolster User Safety By the firm's projection, apps and games that comply to this policy will begin rolling out later this summer. Google Floats Blockchain-based Content Policy to Bolster User Safety",
-          "link": "https://cryptopanic.com/news/18770920/Google-Floats-Blockchain-based-Content-Policy-to-Bolster-User-Safety",
-          "publishedOn": "2023-07-13T07:31:05.000Z",
-          "wordCount": 589,
-          "title": "Google Floats Blockchain-based Content Policy to Bolster User Safety",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18770918/Crypto-crime-drops-significantly-in-2023-but-its-not-all-good-news",
-          "author": null,
-          "description": "Crypto crime has dropped by 65% through the end of June this year, as compared to the same period in 2022. However, the same cannot be said about ransomware attacks.",
-          "link": "https://cryptopanic.com/news/18770918/Crypto-crime-drops-significantly-in-2023-but-its-not-all-good-news",
-          "publishedOn": "2023-07-13T07:30:07.000Z",
-          "wordCount": 592,
-          "title": "Crypto crime drops significantly in 2023, but it’s not all good news",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18770894/Crypto-Crime-Hits-Record-Lows-But-Ransomware-Threat-Looms-Large-Study",
-          "author": null,
-          "description": "Crypto scams have experienced a significant decline of 77% in the first half of 2023, plummeting from a staggering $3.3 billion to $1.1 billion, as shown in a recent report from blockchain intelligence firm, Chainalysis. This encouraging trend marks the second consecutive year of decreasing scam...",
-          "link": "https://cryptopanic.com/news/18770894/Crypto-Crime-Hits-Record-Lows-But-Ransomware-Threat-Looms-Large-Study",
-          "publishedOn": "2023-07-13T07:25:29.000Z",
-          "wordCount": 591,
-          "title": "Crypto Crime Hits Record Lows, But Ransomware Threat Looms Large: Study",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18770919/Stader-Labs-Debuts-Ether-Staking-Product-With-6-Yield",
-          "author": null,
-          "description": "Node operators can begin staking with just 4 ether on Stader compared to the currently required 32 ether.",
-          "link": "https://cryptopanic.com/news/18770919/Stader-Labs-Debuts-Ether-Staking-Product-With-6-Yield",
-          "publishedOn": "2023-07-13T07:24:10.000Z",
-          "wordCount": 589,
-          "title": "Stader Labs Debuts Ether Staking Product With 6% Yield",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18770903/President-Xi-Jinping-Highlights-CBDCs-and-Expansion-of-SCO",
-          "author": null,
-          "description": "China’s President Xi Jinping addressed the 2023 Shanghai Cooperation Organization (SCO) Summit, and Xinhua News...",
-          "link": "https://cryptopanic.com/news/18770903/President-Xi-Jinping-Highlights-CBDCs-and-Expansion-of-SCO",
-          "publishedOn": "2023-07-13T07:24:00.000Z",
-          "wordCount": 589,
-          "title": "President Xi Jinping Highlights CBDCs and Expansion of SCO",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18770898/Mike-Novogratz-Says-Bitcoin-Can-Close-This-Year-Higher-amid-Increased-Institutional-Demand",
-          "author": null,
-          "description": "Coinspeaker Mike Novogratz Says Bitcoin Can Close This Year Higher amid Increased Institutional Demand Galaxy Digital CEO Novogratz argued that the recent Bitcoin ETF frenzy is an indicator that mass adoption is around the corner but the SEC remains a huge stumbling block. Mike Novogratz Says...",
-          "link": "https://cryptopanic.com/news/18770898/Mike-Novogratz-Says-Bitcoin-Can-Close-This-Year-Higher-amid-Increased-Institutional-Demand",
-          "publishedOn": "2023-07-13T07:22:26.000Z",
-          "wordCount": 593,
-          "title": "Mike Novogratz Says Bitcoin Can Close This Year Higher amid Increased Institutional Demand",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18770896/Upstart-market-maker-Swaap-goes-live-with-new-version-on-Ethereum-Polygon",
-          "author": null,
-          "description": "Swaap introduces a quotation model that is run off-chain, making it possible to run more complex computations",
-          "link": "https://cryptopanic.com/news/18770896/Upstart-market-maker-Swaap-goes-live-with-new-version-on-Ethereum-Polygon",
-          "publishedOn": "2023-07-13T07:20:36.000Z",
-          "wordCount": 592,
-          "title": "Upstart market maker Swaap goes live with new version on Ethereum, Polygon",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18770948/Opinion-of-Grayscale-CEO-on-BlackRocks-Bitcoin-ETF-its-a-matter-of-when",
-          "author": null,
-          "description": "BlackRock's commitment to crypto is a confirmation of Bitcoin's validity as an asset class",
-          "link": "https://cryptopanic.com/news/18770948/Opinion-of-Grayscale-CEO-on-BlackRocks-Bitcoin-ETF-its-a-matter-of-when",
-          "publishedOn": "2023-07-13T07:17:05.000Z",
-          "wordCount": 593,
-          "title": "Opinion of Grayscale CEO on BlackRock’s Bitcoin ETF: “it’s a matter of when”",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18770895/Shiba-Inu-Burn-Rate-Plunges-100-Largest-Whale-Moves-30M-Worth-Of-SHIB-To-8-Fresh-Wallets",
-          "author": null,
-          "description": "A colossal whale, possibly the largest holder of Shiba Inu (CRYPTO: SHIB) tokens on Wednesday transferred 4 trillion SHIB, valued at $29.8 million, to eight newly-created addresses. read more",
-          "link": "https://cryptopanic.com/news/18770895/Shiba-Inu-Burn-Rate-Plunges-100-Largest-Whale-Moves-30M-Worth-Of-SHIB-To-8-Fresh-Wallets",
-          "publishedOn": "2023-07-13T07:12:51.000Z",
-          "wordCount": 598,
-          "title": "Shiba Inu Burn Rate Plunges 100% — Largest Whale Moves $30M Worth Of SHIB To 8 Fresh Wallets",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18770866/Billionaire-Tim-Draper-Doubles-Down-on-250000-Bitcoin-Prediction-Says-Bureaucracy-Holding-BTC-Down",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/18770866/Billionaire-Tim-Draper-Doubles-Down-on-250000-Bitcoin-Prediction-Says-Bureaucracy-Holding-BTC-Down",
-          "publishedOn": "2023-07-13T07:04:35.000Z",
-          "wordCount": null,
-          "title": "Billionaire Tim Draper Doubles Down on $250,000 Bitcoin Prediction, Says Bureaucracy Holding BTC Down",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18770870/Bitcoin-Exchange-Binance-Announces-It-Will-List-Four-New-Altcoins",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/18770870/Bitcoin-Exchange-Binance-Announces-It-Will-List-Four-New-Altcoins",
-          "publishedOn": "2023-07-13T07:02:06.000Z",
-          "wordCount": null,
-          "title": "Bitcoin Exchange Binance Announces It Will List Four New Altcoins!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18770844/Shiba-Inu-Market-Cap-Climbs-By-500-Million-Is-A-Price-Rally-On-The-Horizon",
-          "author": null,
-          "description": "Shiba Inu (SHIB) has made significant strides in the digital asset market, currently holding a market capitalization of over $4.4 billion. This remarkable achievement has propelled SHIB to claim the 18th position among the largest cryptocurrencies. Over the course of the past month, SHIB has...",
-          "link": "https://cryptopanic.com/news/18770844/Shiba-Inu-Market-Cap-Climbs-By-500-Million-Is-A-Price-Rally-On-The-Horizon",
-          "publishedOn": "2023-07-13T06:55:14.000Z",
-          "wordCount": 596,
-          "title": "Shiba Inu Market Cap Climbs By $500 Million – Is A Price Rally On The Horizon?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18770838/6-Reasons-Why-You-Should-Invest-in-Cryptocurrency",
-          "author": null,
-          "description": "Digital currencies like Bitcoin, Ethereum, and others have shown immense potential for growth and adoption, making them an attractive investment option.",
-          "link": "https://cryptopanic.com/news/18770838/6-Reasons-Why-You-Should-Invest-in-Cryptocurrency",
-          "publishedOn": "2023-07-13T06:46:50.000Z",
-          "wordCount": 588,
-          "title": "6 Reasons Why You Should Invest in Cryptocurrency",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18770826/Bitcoin-Spot-ETF-Gets-New-Headwind-As-SEC-Chair-Pours-Cold-Water-On-Coinbase-SSA",
-          "author": null,
-          "description": "The much-anticipated approval of a Bitcoin spot ETF in the United States faces a new hurdle as Securities and Exchange Commission (SEC) Chairman Gary Gensler appears to have cast doubt on the role of Coinbase’s surveillance sharing agreement (SSA) in the approval process. During a recent...",
-          "link": "https://cryptopanic.com/news/18770826/Bitcoin-Spot-ETF-Gets-New-Headwind-As-SEC-Chair-Pours-Cold-Water-On-Coinbase-SSA",
-          "publishedOn": "2023-07-13T06:30:12.000Z",
-          "wordCount": 595,
-          "title": "Bitcoin Spot ETF Gets New Headwind As SEC Chair ‘Pours Cold Water On Coinbase SSA’",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18770821/US-Senate-Committee-Seeks-Input-on-Taxation-of-Digital-Assets",
-          "author": null,
-          "description": "On July 11, the United States Senate Financial Services Committee Chair Ron Wyden and ranking...",
-          "link": "https://cryptopanic.com/news/18770821/US-Senate-Committee-Seeks-Input-on-Taxation-of-Digital-Assets",
-          "publishedOn": "2023-07-13T06:25:15.000Z",
-          "wordCount": 590,
-          "title": "US Senate Committee Seeks Input on Taxation of Digital Assets",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18770815/BNB-Chain-to-Tackle-Blockchain-Exploit-Risks-in-Major-July-Hard-Fork",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/18770815/BNB-Chain-to-Tackle-Blockchain-Exploit-Risks-in-Major-July-Hard-Fork",
-          "publishedOn": "2023-07-13T06:18:46.000Z",
-          "wordCount": null,
-          "title": "BNB Chain to Tackle Blockchain Exploit Risks in Major July Hard Fork",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18770800/Russian-Central-Bank-Readies-Real-world-CBDC-Pilot-Digital-Ruble-Launch-Imminent",
-          "author": null,
-          "description": "The Russian Central Bank could begin “real-world” tests on the digital ruble next month after parliament approved a key piece of CBDC legislation. Per Interfax, the State Duma voted in favor of adopting the bill at a third reading this week. This means the main clauses of the bill are set to...",
-          "link": "https://cryptopanic.com/news/18770800/Russian-Central-Bank-Readies-Real-world-CBDC-Pilot-Digital-Ruble-Launch-Imminent",
-          "publishedOn": "2023-07-13T06:00:00.000Z",
-          "wordCount": 592,
-          "title": "Russian Central Bank Readies ‘Real-world’ CBDC Pilot – Digital Ruble Launch Imminent?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18770798/FTX-Bankruptcy-Lawyers-Ask-Court-For-323m-Recovery-From-FTX-Europe-Leadership",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/18770798/FTX-Bankruptcy-Lawyers-Ask-Court-For-323m-Recovery-From-FTX-Europe-Leadership",
-          "publishedOn": "2023-07-13T05:57:55.000Z",
-          "wordCount": null,
-          "title": "FTX Bankruptcy Lawyers Ask Court For $323m Recovery From FTX Europe Leadership",
+          "description": "After the queen of cryptocurrencies, it's the memecoins that are gaining popularity",
+          "link": "https://cryptopanic.com/news/18771015/Bitcoin-Shiba-Inu-and-Dogecoin-here-are-the-most-popular-crypto-assets-in-America",
+          "publishedOn": "2023-07-13T07:44:57.000Z",
+          "wordCount": 594,
+          "title": "Bitcoin, Shiba Inu and Dogecoin: here are the most popular crypto assets in America",
           "imageUrl": null
         }
       ]
@@ -1060,12 +1060,62 @@
       "siteUrl": "https://www.inoreader.com/stream/user/1005336866/tag/%E6%B5%B7%E5%A4%96%E5%8A%A0%E5%AF%86%E8%B5%84%E8%AE%AF/view/html",
       "articles": [
         {
+          "id": "http://www.inoreader.com/article/3a9c6e756d1b9d9f",
+          "author": "Jack Schickler",
+          "description": "Asserting powers over the $1 trillion crypto industry is of major significance, just like canceling student debt, the exchange’s lawyers argue.",
+          "link": "https://www.coindesk.com/policy/2023/07/13/coinbase-lawyers-argue-biden-student-loans-ruling-aids-defense-against-sec/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2023-07-13T09:12:39.000Z",
+          "wordCount": 6785,
+          "title": "Coinbase Lawyers Argue Biden Student Loans Ruling Aids Defense Against SEC",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/jpeg",
+            "url": "https://www.coindesk.com/resizer/WMfscE-PS425vqXIbo4TSp94Erc=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/B76BKFJG3JCTHGEZU4RPAOVDKI.jpg"
+          },
+          "imageUrl": "https://www.coindesk.com/resizer/WMfscE-PS425vqXIbo4TSp94Erc=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/B76BKFJG3JCTHGEZU4RPAOVDKI.jpg"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e756d07ed0a",
+          "author": "Jared Kirui",
+          "description": "Circle, the company behind stablecoin USD Coin (USDC),  \nhas announced that it is reducing staff and cutting investments in non-core  \nbusiness activities. At the same time, the company is reportedly identifying  \nnew investment opportunities and hiring staff in the core businesses.\nCircle Joins Crypto  \nFirms Cutting Staff\nCircle joins a growing list of cryptocurrency firms that  \nhave recently reduced their staff to cut expenses and boost their balance  \nsheets. Coinbase, Kraken, Gemini, and Bybit are some of the companies that have announced similar steps.\nJeremy Fox-Geen,  \nCircle's Chief Finance Officer, told the Wall Street Journal early this year  \nthat the company plans to increase its workforce by as much as 25%. At the end  \nof last year, Circle had approximately 900 employees, t…",
+          "link": "https://www.financemagnates.com//cryptocurrency/circle-announces-layoffs-to-reduce-investments-in-non-core-activities/",
+          "publishedOn": "2023-07-13T08:39:34.000Z",
+          "wordCount": 5224,
+          "title": "Circle Announces Layoffs; to Reduce Investments in Non-core Activities",
+          "imageUrl": "https://images.financemagnates.com/images/circle-website_id_62693d47-5a73-416d-87e5-132fefef2ef6_size900.jpg"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e756d009f29",
+          "author": "Lubomir Tassev",
+          "description": "Singapore’s state-owned investment fund Temasek does not plan to put money into crypto firms amid the current regulatory uncertainty, according to a top executive. The statement comes months after Temasek lost $275 million from its involvement in the failed cryptocurrency exchange FTX.\n \nTemasek to Refrain From Investments in Crypto Companies for Now\n \nThe sovereign wealth fund Temasek, owned by the Singapore government, is not currently looking to invest in companies dealing with crypto asserts due to the regulatory uncertainty in the industry, its Chief Investment Officer, Rohit Sipahimalani, said in an interview on Tuesday. Speaking with CNBC, he elaborated:\n \n\nThere’s a lot of regulatory uncertainty in this environment. And I do think that be very difficult for us to make another inves…",
+          "link": "https://news.bitcoin.com/temasek-has-no-immediate-intentions-to-invest-in-crypto-exchanges-after-ftx-loss/",
+          "publishedOn": "2023-07-13T08:33:34.000Z",
+          "wordCount": 254,
+          "title": "Temasek Has No Immediate Intentions to Invest in Crypto Exchanges After FTX Loss",
+          "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2023/07/shutterstock_2181535989_s.jpg"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e756d023f6c",
+          "author": "Christian Encila",
+          "description": "Crypto scams have experienced a significant decline of 77% in the first half of 2023, plummeting from a staggering $3.3 billion to $1.1 billion, as shown in a recent report from blockchain intelligence firm, Chainalysis. \n \nThis encouraging trend marks the second consecutive year of decreasing scam revenue, reflecting positive developments in the cryptocurrency landscape. \n \nHowever, in the face of this decline, Chainalysis also highlighted a concerning rise in ransomware revenues, which have reached $449 million year-to-date and could potentially surge to a staggering $939 million by year’s end. \n \nThese findings shed light on the evolving nature of crypto-related crimes and emphasize the importance of staying vigilant in the face of emerging threats.\n \n\n \n \nCrypto Scams: A Drastic Declin…",
+          "link": "https://bitcoinist.com/crypto-crime-hits-record-lows-study/",
+          "publishedOn": "2023-07-13T08:20:27.000Z",
+          "wordCount": 5249,
+          "title": "Crypto Crime Hits Record Lows, But Ransomware Threat Looms Large: Study",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/jpeg",
+            "url": "https://bitcoinist.com/wp-content/uploads/2023/07/a-59.png"
+          },
+          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2023/07/a-59.png"
+        },
+        {
           "id": "http://www.inoreader.com/article/3a9c6e756d02920e",
           "author": "Damian Chmiel",
           "description": "After Hong  \nKong introduced the new virtual asset service providers (VASPs) regime, many  \ncompanies have decided to enter the local market in a bid to exploit its  \npotential. OKX was one of them, introducing a version of the mobile app aimed  \nat customers from China’s special administrative region. Now, the crypto  \nexchange has announced over 10,000 new Hong Kong user registrations in just a  \nmonth since launching its enhanced app.\nOKX Builds User Base in  \nHong Kong\nOver the  \npast 18 months, OKX has been investing in talent acquisition and infrastructure  \nin anticipation of its license application under Hong Kong's VASPs regime. This  \nmassive influx of new users shows that retail crypto industry has a huge  \npotential, which has been unlocked by favorable regulatory changes. Hong…",
           "link": "https://www.financemagnates.com//cryptocurrency/okx-scoops-10000-users-in-one-month-after-hong-kong-legalized-crypto/",
           "publishedOn": "2023-07-13T08:18:24.000Z",
-          "wordCount": 6571,
+          "wordCount": 6570,
           "title": "OKX Scoops 10,000 Users in One Month after Hong Kong Legalized Crypto",
           "imageUrl": "https://images.financemagnates.com/images/bank%20runs%20in%20Hong%20Kong_id_a69da31b-daa0-4257-9666-eff7e8ff10df_size900.jpg"
         },
@@ -1075,7 +1125,7 @@
           "description": "Node operators can begin staking with just 4 ether on Stader compared to the currently required 32 ether.",
           "link": "https://www.coindesk.com/tech/2023/07/13/stader-labs-debuts-ether-staking-product-with-6-yield/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-07-13T07:43:24.000Z",
-          "wordCount": 6450,
+          "wordCount": 6480,
           "title": "Stader Labs Debuts Ether Staking Product With 6% Yield",
           "enclosure": {
             "length": "1337",
@@ -1090,7 +1140,7 @@
           "description": "The upgrade will push security measures immediately on the occasion of a blockchain exploit to safeguard user assets.",
           "link": "https://www.coindesk.com/tech/2023/07/13/bnb-chain-to-tackle-blockchain-exploit-risks-in-major-july-hard-fork/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-07-13T07:29:26.000Z",
-          "wordCount": 6317,
+          "wordCount": 6344,
           "title": "BNB Chain to Tackle Blockchain Exploit Risks in Major July Hard Fork",
           "enclosure": {
             "length": "1337",
@@ -1105,7 +1155,7 @@
           "description": "The much-anticipated approval of a Bitcoin spot ETF in the United States faces a new hurdle as Securities and Exchange Commission (SEC) Chairman Gary Gensler appears to have cast doubt on the role of Coinbase’s surveillance sharing agreement (SSA) in the approval process.\n \nDuring a recent webinar, Gensler was pressed about Coinbase’s involvement in the ETF filings. While he refrained from commenting specifically on the filings, his remarks on crypto exchanges and their “conflicting services” and “limited risk monitoring” were far from encouraging. Gensler stated, “What that means is they could be trading directly against you and market making against you, which you would not see, or hope to see on the New York Stock Exchange or NASDAQ.”\n \nBitcoin Spot ETF Gets New Headwind\n \nThe implicati…",
           "link": "https://bitcoinist.com/sec-dampens-bitcoin-etf-hopes-slams-coinbase-ssa/",
           "publishedOn": "2023-07-13T07:20:26.000Z",
-          "wordCount": 5466,
+          "wordCount": 5464,
           "title": "Bitcoin Spot ETF Gets New Headwind As SEC Chair ‘Pours Cold Water On Coinbase SSA’",
           "enclosure": {
             "length": "1337",
@@ -1130,7 +1180,7 @@
           "description": "Crypto exchange FTX's lawyers have asked the bankruptcy court in Delaware to award recovery of more than $323.5 million from FTX's Europe leadership.",
           "link": "https://www.coindesk.com/policy/2023/07/13/ftx-bankruptcy-lawyers-ask-court-for-323m-recovery-from-ftx-europe-leadership/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-07-13T06:20:39.000Z",
-          "wordCount": 7741,
+          "wordCount": 7754,
           "title": "FTX Bankruptcy Lawyers Ask Court For $323m Recovery From FTX Europe Leadership",
           "enclosure": {
             "length": "1337",
@@ -1145,7 +1195,7 @@
           "description": "Dapper Labs made prior cuts in February and November.",
           "link": "https://www.coindesk.com/web3/2023/07/13/dapper-labs-lays-off-51-as-nft-market-stays-chilly/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-07-13T05:59:53.000Z",
-          "wordCount": 6007,
+          "wordCount": 6026,
           "title": "Dapper Labs Lays off 51 as NFT Market Stays Chilly",
           "enclosure": {
             "length": "1337",
@@ -1170,7 +1220,7 @@
           "description": "ALSO: Former CFTC Chair Timothy Massad told CoinDesk TV that regulatory agencies “don’t have to resolve” the stubbornly troublesome issue whether cryptos are commodities or securities.",
           "link": "https://www.coindesk.com/markets/2023/07/13/first-mover-asia-bitcoin-holds-steady-over-30k-as-inflation-data-macro-issues-leave-investors-increasingly-unmoved/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-07-13T03:29:43.000Z",
-          "wordCount": 10675,
+          "wordCount": 10699,
           "title": "First Mover Asia: Bitcoin Holds Steady Over $30K as Inflation Data, Macro Issues Leave Investors Increasingly Unmoved",
           "enclosure": {
             "length": "1337",
@@ -1195,7 +1245,7 @@
           "description": "The capital will help Xterio add more games and artificial intelligence integrations to its platform.",
           "link": "https://www.coindesk.com/business/2023/07/13/binance-labs-invests-15m-in-web3-gaming-startup-xterio/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-07-13T02:17:40.000Z",
-          "wordCount": 6304,
+          "wordCount": 6334,
           "title": "Binance Labs Invests $15M in Web3 Gaming Startup Xterio",
           "enclosure": {
             "length": "1337",
@@ -1220,7 +1270,7 @@
           "description": "The United States Commodity Futures Trading Commission (CFTC) has won a default judgment against Adam Todd, CEO of Digitex Futures, and four companies he controlled, with the court ordering Todd to pay roughly $16 million in disgorgement and penalties. \n \nThe CFTC had filed charges against Todd and his companies in September 2022 for alleged price manipulation and failure to register.\n \nDigitex CEO Face Penalties For Alleged Price Manipulation\n \nAccording to the CFTC, Todd and his companies operated a crypto exchange under the name “Digitex Futures,” and attempted to manipulate the price of the Digitex Futures native token DGTX. \n \nThey allegedly did this by “pumping” the token’s price through the use of a computerized bot, which Todd designed to be “always buying more than it was selling.…",
           "link": "https://bitcoinist.com/digitex-and-ceo-ordered-to-pay-16-million-cftc-case/",
           "publishedOn": "2023-07-13T01:19:36.000Z",
-          "wordCount": 5387,
+          "wordCount": 5385,
           "title": "Crypto Exchange Digitex And CEO Ordered To Pay $16 Million In CFTC Case",
           "enclosure": {
             "length": "1337",
@@ -1245,7 +1295,7 @@
           "description": "Ethereum has followed Bitcoin unfailingly since its inception and this has allowed the altcoin to establish itself as the second-largest cryptocurrency in the market. Even now, Bitcoin’s trend tends to set the pace for the likes of ETH and other altcoins in the market, so a bullish case for the pioneer cryptocurrency always means good tidings for other assets in the space. So the forecast of Bitcoin trading at $120,000 is more than bullish for Ethereum.\n \nBitcoin Headed To $120,000?\n \nSince the week began, the crypto space has been inundated with forecasts that the price of Bitcoin is set to quadruple before the year is over. This forecast has not been localized to a single source as more than one prominent personality has come forward to say that they expect the digital asset to reach thi…",
           "link": "https://bitcoinist.com/what-ethereum-will-trade-for/",
           "publishedOn": "2023-07-12T23:19:37.000Z",
-          "wordCount": 5303,
+          "wordCount": 5301,
           "title": "Here’s What Ethereum Will Trade For If Bitcoin Hits $120,000",
           "enclosure": {
             "length": "1337",
@@ -1260,64 +1310,9 @@
           "description": "Cryptocurrencies  \nhave emerged as a disruptive force in the financial system, with an impact far  \nbeyond traditional banking and investment. Sponsorships and fan groups are two  \nareas where cryptocurrencies are having a huge impact. \nBusinesses are  \nexperimenting with new ways to engage fans and foster loyalty as blockchain  \ntechnology and interest in digital currencies grow. In this article, we will  \nlook into the realm of cryptocurrency sponsorships and how they are ushering in  \na new era of fan community loyalty.\nThe  \nIncreasing Popularity of Crypto Sponsorships\nIn recent  \nyears, cryptocurrencies such as Bitcoin and Ethereum have grown in popularity  \nand attracted the interest of investors and enthusiasts all around the world.  \nBusinesses are recognizing the possibility of ha…",
           "link": "https://www.financemagnates.com//cryptocurrency/innovation/crypto-sponsorships-and-fan-communities-building-a-new-era-of-loyalty/",
           "publishedOn": "2023-07-12T23:08:13.000Z",
-          "wordCount": 6935,
+          "wordCount": 6931,
           "title": "Crypto Sponsorships and Fan Communities: Building a New Era of Loyalty",
           "imageUrl": "https://images.financemagnates.com/images/Crypto%20sponsorship_id_fa214f90-6f66-4f2e-909b-24102104fe69_size900.jpg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e756edab4ff",
-          "author": "Ronaldo Marquez",
-          "description": "According to a recent report by VentureBeat, Google Play has updated its policies to allow blockchain-based digital content, including non-fungible tokens (NFTs) and other tokenized digital assets, in its app store. \n \nThe move is in response to the growing interest in NFTs and their unique user experiences. Google has been working with Web3 game makers such as Mythical Games to bring blockchain gaming recognition to the masses.\n \nGoogle Play’s Blockchain And NFT Policy Update\n \nPreviously, blockchain game companies had difficulty distributing their games, as they often relied on the open web for distribution. As part of the new policy, developers must be transparent with users about tokenized digital assets. \n \n \nAccording to the report, if an app or game sells or enables users to earn to…",
-          "link": "https://bitcoinist.com/google-play-blockchain-gaming-and-nft-recognition/",
-          "publishedOn": "2023-07-12T22:18:24.000Z",
-          "wordCount": 5355,
-          "title": "Google Play Joins The Tokenization Bandwagon With Blockchain Gaming And NFT Recognition",
-          "enclosure": {
-            "length": "1337",
-            "type": "image/jpeg",
-            "url": "https://bitcoinist.com/wp-content/uploads/2023/07/brett-jordan-B_j4LJbam5U-unsplash-560x420.jpg"
-          },
-          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2023/07/brett-jordan-B_j4LJbam5U-unsplash-560x420.jpg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e756edbfac0",
-          "author": "Terence Zimwara",
-          "description": "Rodeo Finance, a leveraged yield protocol on Arbitrum, was on July 10 a victim of a “force-investment” hack in which almost $1.7 million was reportedly stolen. According to Rodeo Finance, about $810,000 has been recovered so far and there are plans to freeze the stolen funds.\n \nProtocol in ‘Paused State’\n \nRodeo Finance, a leveraged yield farming product, recently became the latest decentralized finance (defi) protocol to fall victim to the so-called force-investment hack after criminals stole approximately $1.7 million on July 10. As a consequence, the defi protocol has been placed in paused state “until a remediation plan has been finalized and implemented alongside the advice of multiple security experts.”\n \n \nOur analysis shows that the @Rodeo_Finance hack (w/ ~$1.53M loss) is a so-cal…",
-          "link": "https://news.bitcoin.com/leveraged-yield-protocol-rodeo-finance-initially-loses-1-7-million-in-force-investment-hack/",
-          "publishedOn": "2023-07-12T22:04:48.000Z",
-          "wordCount": 245,
-          "title": "Leveraged Yield Protocol Rodeo Finance Initially Loses $1.7 Million in ‘Force-Investment’ Hack",
-          "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2023/07/shutterstock_1119263285.jpg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e756ec6d6a5",
-          "author": "BtcCasey",
-          "description": "Lightning HTTP 402 Protocol, also known as L402, is a way to charge for services and authenticate users in distributed networks. It combines two powerful tools — Macaroons, and of course, the Lightning Network.\nMacaroons are special tokens used for authentication. They include permissions and can be verified using a root key. The documentation states this is important for systems where we want to avoid or cannot go about looking up the validity of each token.\nLightning is a Layer 2 solution for making fast and secure bitcoin payments. L402 leverages the capabilities of Macaroons and Lightning to create a mechanism that allows users to authenticate and make payments without needing a central database.\nIn L402, a Macaroon includes a payment hash. To be valid, the user needs to present the Ma…",
-          "link": "https://bitcoinmagazine.com/technical/what-is-the-lightning-http-402-protocol-and-why-is-it-important",
-          "publishedOn": "2023-07-12T21:36:12.000Z",
-          "wordCount": null,
-          "title": "What Is The Lightning HTTP 402 Protocol, And Why Is It Important?",
-          "enclosure": {
-            "length": "1337",
-            "type": "image/png",
-            "url": "http://bitcoinmagazine.com/.image/c_limit,cs_srgb,h_1200,q_auto:good,w_1200/MTg4NzU2NzcxMDYwMzI4MDE2/bitcoin-lightning-network.png"
-          },
-          "imageUrl": "http://bitcoinmagazine.com/.image/c_limit,cs_srgb,h_1200,q_auto:good,w_1200/MTg4NzU2NzcxMDYwMzI4MDE2/bitcoin-lightning-network.png"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e756ec6d69b",
-          "author": "BtcCasey",
-          "description": "The Blockchain Association, a nonprofit organization advocating for pro-innovation policies in relation to Bitcoin, has called for an investigation into the Securities and Exchange Commission (SEC) and its approval of Prometheum Ember Capital as a Special Purpose Broker Dealer (SPBD). In a letter to the Inspector General of the SEC, the association raises concerns about potential impropriety and ethical issues surrounding the approval process.\n\n\n\nThe letter highlights the lack of regulatory clarity regarding how U.S. securities laws apply to digital assets and criticizes SEC Chair Gary Gensler, accusing the SEC of overt hostility towards the digital assets industry while citing enforcement actions and proposed rulemaking that have impacted the sector. The approval of Prometheum as an SPBD is seen as concerning, as other companies with what the letter describes as \"legitimate business models\" have faced denials or delays in obtaining similar licenses.\nThe letter states Prometheum's license approval comes at a time when the company has no working product or assets, raising further questions. The association questions whether Prometheum received preferential treatment or leveraged personal connections to gain an unfair advantage. They express concern that SEC Chair Gensler is using Prometheum and the SPBD licensure process to impede congressional efforts towards legislation and promote what it views as a false narrative, that the law is clear regarding digital asset securities. “There's no question Prometheum is hiding something on its SEC relationship,” said Dan Spuller, head of industry affairs at the Association. \nThe Blockchain Association has submitted a request to the SEC under the Freedom of Information Act, seeking documents and communications related to the matter. They urge the opening of an investigation to address these concerns and provide clarity. The outcome of the investigation will determine whether there was any impropriety or validate the inferences made by the association.",
-          "link": "https://bitcoinmagazine.com/legal/sec-inspector-general-urged-to-investigate-prometheum-spbd-approval",
-          "publishedOn": "2023-07-12T21:36:12.000Z",
-          "wordCount": null,
-          "title": "SEC Inspector General Urged To Investigate Prometheum SPBD Approval Amidst Crypto Regulatory Scrutiny",
-          "enclosure": {
-            "length": "1337",
-            "type": "image/png",
-            "url": "http://bitcoinmagazine.com/.image/c_limit,cs_srgb,h_1200,q_auto:good,w_1200/MTkyODY4MzAyMTgyMTY0MTc2/legal-justice.png"
-          },
-          "imageUrl": "http://bitcoinmagazine.com/.image/c_limit,cs_srgb,h_1200,q_auto:good,w_1200/MTkyODY4MzAyMTgyMTY0MTc2/legal-justice.png"
         }
       ]
     }

@@ -6,6 +6,21 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=70377",
+          "author": "Daniel Phillips",
+          "description": "Solana boasts impressive speeds and a burgeoning dapp ecosystem, but it's still on the proving grounds.",
+          "link": "https://decrypt.co/resources/what-is-solana-a-scalable-decentralized-network-for-dapps",
+          "publishedOn": "2023-07-28T20:02:42.000Z",
+          "wordCount": 9993,
+          "title": "What is Solana? A Scalable, Decentralized Network for Dapps",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/05/Solana-gID_1-pID_4.png@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/05/Solana-gID_1-pID_4.png@png"
+        },
+        {
           "id": "https://decrypt.co/videos/interviews/pYMZRoYy/com2us-is-going-full-speed-on-crypto-gaming-kyu-lee",
           "author": null,
           "description": "Kyu Lee is the President of game studio Com2uS USA. In an interview, he shares the studio's approach to Web3 and crypto gaming with Decrypt GG's Kate Irwin.",
@@ -606,21 +621,6 @@
           "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/07/Netflix-shutterstock_2062987472-16x9-1-gID_7.jpg@png"
         },
         {
-          "id": "https://decrypt.co/?p=150203",
-          "author": "Mathew Di Salvo",
-          "description": "The Federal Reserve today said it would continue to hike interest rates—but Bitcoin and Ethereum did not immediately move.",
-          "link": "https://decrypt.co/150203/bitcoin-holds-steady-after-federal-reserve-raises-rates-to-22-year-high",
-          "publishedOn": "2023-07-26T18:16:01.000Z",
-          "wordCount": 8791,
-          "title": "Bitcoin Holds Steady After Federal Reserve Raises Rates to 22-Year High",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/03/Jerome-Powell-Brookings-e1616100217470-gID_7.jpeg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/03/Jerome-Powell-Brookings-e1616100217470-gID_7.jpeg@png"
-        },
-        {
           "id": "https://decrypt.co/videos/live-events/XU5MbCGE/big-respect-between-ethereum-and-cosmos-developer-communities-dydx-foundation-ceo",
           "author": "Liam J. Kelly",
           "description": "CEO of the dYdX Foundation Charles d'Haussy unpacks the decision behind moving one of the largest decentralized exchange protocol's over to its very own chain built on Cosmos. A key driver, he told Decrypt at this year's EthCC event, was that instead of launching on a rollup or another layer-1, launching a fully customized chain will allow dYdX to fine tune the network for its product's needs.",
@@ -883,6 +883,136 @@
       "siteUrl": "https://cryptopanic.com/",
       "articles": [
         {
+          "id": "https://cryptopanic.com/news/18803621/Solanas-Aurory-goes-cross-platform-with-expansion-to-Arbitrum",
+          "author": null,
+          "description": "Solana based Aurory has expanded to Arbitrum, a leading L2 for Ethereum. $1 million in AURY liquidity has been added to the Arbitrum native DEX Camelot. AURY price surged more than 22% to hit highs of $1.00. Aurory, a leading NFT and gaming project in the Solana ecosystem, is seeing fresh...",
+          "link": "https://cryptopanic.com/news/18803621/Solanas-Aurory-goes-cross-platform-with-expansion-to-Arbitrum",
+          "publishedOn": "2023-07-28T20:03:44.000Z",
+          "wordCount": 588,
+          "title": "Solana’s Aurory goes cross-platform with expansion to Arbitrum",
+          "imageUrl": "https://coinjournal.net/wp-content/uploads/2022/08/1661877527146-7105d252-d7c9-4fee-9fde-8dc4e59dde11.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/18803630/Binance-doesnt-think-the-US-has-jurisdiction-over-its-crypto-exchange",
+          "author": null,
+          "description": "Binance CEO Changpeng Zhao is seeking the dismissal of a lawsuit by the US Commodity Futures Trading Commission (CFTC), arguing the regulatory body has exceeded its jurisdiction. Read more...",
+          "link": "https://cryptopanic.com/news/18803630/Binance-doesnt-think-the-US-has-jurisdiction-over-its-crypto-exchange",
+          "publishedOn": "2023-07-28T20:01:00.000Z",
+          "wordCount": 591,
+          "title": "Binance doesn't think the US has jurisdiction over its crypto exchange",
+          "imageUrl": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/7cf12905b610bf14032fb2bb6169ab60.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/18803608/Polkadot-and-Its-Test-Network-Kusama-Continue-To-Outrun-Crypto-Space-in-Terms-of-Development-Activity-Santiment",
+          "author": null,
+          "description": "Interoperability blockchain Polkadot (DOT) and its canary test network Kusama (KSM) continue to outrun the rest of the crypto space in terms of development activity, according to the crypto analytics firm Santiment. Santiment notes that Polkadot and Kusama both registered 527.7 notable GitHub...",
+          "link": "https://cryptopanic.com/news/18803608/Polkadot-and-Its-Test-Network-Kusama-Continue-To-Outrun-Crypto-Space-in-Terms-of-Development-Activity-Santiment",
+          "publishedOn": "2023-07-28T20:00:35.000Z",
+          "wordCount": 597,
+          "title": "Polkadot and Its Test Network Kusama Continue To Outrun Crypto Space in Terms of Development Activity: Santiment",
+          "imageUrl": "https://dailyhodl.com/wp-content/uploads/2023/07/polkadot-test-network-kusama.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/18803622/Pond0X-token-launch-snafu-leads-to-millions-of-dollars-in-losses",
+          "author": null,
+          "description": "Investors reported they lost up to $2.2 million when the developer of Pond0x allegedly mishandled the token’s launch.",
+          "link": "https://cryptopanic.com/news/18803622/Pond0X-token-launch-snafu-leads-to-millions-of-dollars-in-losses",
+          "publishedOn": "2023-07-28T20:00:00.000Z",
+          "wordCount": 591,
+          "title": "Pond0X token launch snafu leads to millions of dollars in losses",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18803609/Crypto-Quant-Analyst-Does-a-Deep-Dive-Into-Sam-Altmans-Hot-New-Worldcoin-WLD-Project",
+          "author": null,
+          "description": "The co-founder and CEO of CryptoQuant says that Sam Altman’s new altcoin project is “attempting to create colonies.” Crypto analyst Ki Young Ju tells his 327,800 Twitter followers that Open AI founder Sam Altman’s Worldcoin (WLD) project definitely has global aspirations. “The reason why English...",
+          "link": "https://cryptopanic.com/news/18803609/Crypto-Quant-Analyst-Does-a-Deep-Dive-Into-Sam-Altmans-Hot-New-Worldcoin-WLD-Project",
+          "publishedOn": "2023-07-28T19:55:19.000Z",
+          "wordCount": 595,
+          "title": "Crypto Quant Analyst Does a Deep Dive Into Sam Altman’s Hot New Worldcoin (WLD) Project",
+          "imageUrl": "https://dailyhodl.com/wp-content/uploads/2021/10/biggest-exchange-hack.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/18803583/Seda-co-founders-discuss-intersection-of-oracles-and-multichain",
+          "author": null,
+          "description": "Oracles enable value, but they are also susceptible to value manipulation; co-founders of Cosmos-based Seda discuss their benefits and how to prevent pitfalls.",
+          "link": "https://cryptopanic.com/news/18803583/Seda-co-founders-discuss-intersection-of-oracles-and-multichain",
+          "publishedOn": "2023-07-28T19:32:01.000Z",
+          "wordCount": 588,
+          "title": "Seda co-founders discuss intersection of oracles and multichain",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18803561/No-Sam-Bankman-Fried-Is-Not-Being-Bailed-Out-By-Democrats",
+          "author": null,
+          "description": "Republican candidate Vivek Rameswamy is rightly furious over dropped campaign finance charges. But the charges are likely to return after a procedural adjustment - and claims of corruption do more harm than good.",
+          "link": "https://cryptopanic.com/news/18803561/No-Sam-Bankman-Fried-Is-Not-Being-Bailed-Out-By-Democrats",
+          "publishedOn": "2023-07-28T19:10:43.000Z",
+          "wordCount": 590,
+          "title": "No, Sam Bankman-Fried Is Not Being Bailed Out By Democrats",
+          "imageUrl": "https://www.coindesk.com/resizer/zPHdW159-cYQojMbf44zVagNDy0=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/WFLAMWIASRAGZLCJRX3DUWPEWI.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/18803538/German-Regulator-Advised-Binance-To-Withdraw-License-Application-Due-To-CZ",
+          "author": null,
+          "description": "Germany's financial regulator reportedly advised Binance to withdraw its crypto license application, which prompted the exchange to pause its German expansion.",
+          "link": "https://cryptopanic.com/news/18803538/German-Regulator-Advised-Binance-To-Withdraw-License-Application-Due-To-CZ",
+          "publishedOn": "2023-07-28T19:09:09.000Z",
+          "wordCount": 591,
+          "title": "German Regulator Advised Binance To Withdraw License Application Due To CZ",
+          "imageUrl": "https://en.ethereumworldnews.com/wp-content/uploads/2023/07/adobestock-emre-akkoyun-1-1024x683.jpeg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/18803562/Sam-Bankman-Fried-Maybe-Hasnt-Escaped-Campaign-Finance-Charges",
+          "author": null,
+          "description": "Prosecutors just withdrew a campaign finance charge ahead of Sam Bankman-Fried’s criminal trial this October. That doesn’t mean the U.S. Department of Justice is letting the FTX founder off on alleged criminal conduct, however – and campaign finance charges could still be tried later.",
+          "link": "https://cryptopanic.com/news/18803562/Sam-Bankman-Fried-Maybe-Hasnt-Escaped-Campaign-Finance-Charges",
+          "publishedOn": "2023-07-28T19:02:29.000Z",
+          "wordCount": 588,
+          "title": "Sam Bankman-Fried Maybe Hasn’t Escaped Campaign Finance Charges",
+          "imageUrl": "https://www.coindesk.com/resizer/EmMZqIQ8G3BVbc3TyNutprfQwY8=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/77IG7IJH3VEYLNZ64YR7UR7PBM.JPG"
+        },
+        {
+          "id": "https://cryptopanic.com/news/18803540/Stanford-MBA-Explains-Why-Next-Bitcoin-Cycle-Could-Be-Bigger",
+          "author": null,
+          "description": "A Stanford MBA has explained why the current Bitcoin cycle was different from the others, and why the next one could end up being bigger. This Bitcoin Cycle Faced Obstacles That May Not Be There Next Time A “cycle” for Bitcoin refers to the period between two consecutive halvings. The halvings,...",
+          "link": "https://cryptopanic.com/news/18803540/Stanford-MBA-Explains-Why-Next-Bitcoin-Cycle-Could-Be-Bigger",
+          "publishedOn": "2023-07-28T19:00:56.000Z",
+          "wordCount": 590,
+          "title": "Stanford MBA Explains Why Next Bitcoin Cycle Could Be “Bigger”",
+          "imageUrl": "https://www.newsbtc.com/wp-content/uploads/2023/07/iStock-1384277890.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/18803532/Crypto-Regulation-Or-Overreach-SECs-Warning-Draws-Mixed-Reactions",
+          "author": null,
+          "description": "The US Securities and Exchange Commission (SEC) has issued a dire warning to accounting firms conducting audits in the crypto asset space. In a statement released on July 27, SEC Chief Accountant Paul Munter expressed concerns about the potential for misleading information to be presented to...",
+          "link": "https://cryptopanic.com/news/18803532/Crypto-Regulation-Or-Overreach-SECs-Warning-Draws-Mixed-Reactions",
+          "publishedOn": "2023-07-28T19:00:20.000Z",
+          "wordCount": 589,
+          "title": "Crypto Regulation Or Overreach? SEC’s Warning Draws Mixed Reactions",
+          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2023/07/johann-walter-bantz-Clv9DfJLwac-unsplash-980x651.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/18803560/Cryptocurrency-Quant-Rises-More-Than-4-In-24-hours",
+          "author": null,
+          "description": "Quant's (CRYPTO: QNT) price has increased 4.5% over the past 24 hours to $105.92. Over the past week, QNT has experienced an uptick of over 2.0%, moving from $102.25 to its current price. As it stands right now, the coin's all-time high is $427.42. read more",
+          "link": "https://cryptopanic.com/news/18803560/Cryptocurrency-Quant-Rises-More-Than-4-In-24-hours",
+          "publishedOn": "2023-07-28T19:00:15.000Z",
+          "wordCount": 589,
+          "title": "Cryptocurrency Quant Rises More Than 4% In 24 hours",
+          "imageUrl": "https://cdn.benzinga.com/files/images/story/2023/crypto_movers_image_0.png?width=1200&height=800&fit=crop"
+        },
+        {
+          "id": "https://cryptopanic.com/news/18803536/South-Koreas-Financial-Intelligence-Unit-Presses-Crypto-Platforms-to-Improve-Compliance-Measures",
+          "author": null,
+          "description": "The Korea Financial Intelligence Unit (KoFIU) in a meeting on Thursday told the Korean crypto industry to double down on their efforts to prevent illegal activities. At the meeting, KoFIU Commissioner Rhee Yunsu said that a “strategic analysis team” focused on crypto has been set up, and that...",
+          "link": "https://cryptopanic.com/news/18803536/South-Koreas-Financial-Intelligence-Unit-Presses-Crypto-Platforms-to-Improve-Compliance-Measures",
+          "publishedOn": "2023-07-28T19:00:00.000Z",
+          "wordCount": 592,
+          "title": "South Korea's Financial Intelligence Unit Presses Crypto Platforms to Improve Compliance Measures",
+          "imageUrl": "https://cimg.co/news/120995/320575/south-korea.jpeg"
+        },
+        {
           "id": "https://cryptopanic.com/news/18803509/Bitget-Token-BGB-surges-as-MEXC-announces-listing",
           "author": null,
           "description": "Bitget will list MX Token (MX) while MEXC will add Bitget Token (BGB). Both listings will be on July 31, with trading pairs BGB/USDT and MX/USDT. Bitget Token (BGB), the utility token of crypto exchange Bitget, will be listed on MEXC Global on July 31, the exchanges announced on Friday. MEXC...",
@@ -901,6 +1031,16 @@
           "wordCount": 599,
           "title": "The Altcoin, Launched A Few Hour Ago with the Promise of the New PEPE, Has Just Hit Zero Dollars!",
           "imageUrl": "https://www.bitcoinsistemi.com/wp-content/uploads/2022/08/grafik-dusus.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/18803566/Shiba-Inus-Shibarium-Summer-Heatwave-or-Just-Hot-Air",
+          "author": null,
+          "description": "As the 'Summer of Shibarium' hype builds, the Shiba Inu team continues to fuel excitement around the Shibarium project without unveiling a definite launch date",
+          "link": "https://cryptopanic.com/news/18803566/Shiba-Inus-Shibarium-Summer-Heatwave-or-Just-Hot-Air",
+          "publishedOn": "2023-07-28T18:51:42.000Z",
+          "wordCount": 589,
+          "title": "Shiba Inu's Shibarium: Summer Heatwave or Just Hot Air?",
+          "imageUrl": "https://u.today/sites/default/files/styles/twitter/public/2023-07/AdobeStock_265440653.jpeg"
         },
         {
           "id": "https://cryptopanic.com/news/18803507/From-Famous-Billionaires-to-Investors-Buy-Bitcoin-His-recommendation",
@@ -941,146 +1081,6 @@
           "wordCount": 596,
           "title": "Worldcoin (WLD) Under Investigation in France Days After Launching and Signing Up Over Two Million: Report",
           "imageUrl": "https://dailyhodl.com/wp-content/uploads/2022/10/Investigation-Into-Bored-Ape-.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/18803491/Does-the-SEC-Have-a-Favorite-Spot-Bitcoin-ETF-Grayscale-Questions-SEC",
-          "author": null,
-          "description": "Grayscale Investments is urging the U.S. SEC to prevent what it terms an unfairly discriminatory and prejudicial first-mover advantage, for potential Bitcoin ETF issuers:https://twitter.com/CraigSalm/status/1684973707163312159Grayscale, which is currently in a legal dispute with the SEC...",
-          "link": "https://cryptopanic.com/news/18803491/Does-the-SEC-Have-a-Favorite-Spot-Bitcoin-ETF-Grayscale-Questions-SEC",
-          "publishedOn": "2023-07-28T18:32:40.000Z",
-          "wordCount": 592,
-          "title": "Does the SEC Have a Favorite Spot Bitcoin ETF? Grayscale Questions SEC",
-          "imageUrl": "https://static.cryptobriefing.com/wp-content/uploads/2023/07/28143219/emilytonelli_a_scale_weighing_crypto_tokens_one_being_heavier_t_4c39c28d-2a13-43bd-8c1f-5faf66f3275c-1-768x384.png"
-        },
-        {
-          "id": "https://cryptopanic.com/news/18803490/Ex-Fed-Policy-Analysts-Paper-Stablecoins-Present-Lower-Risk-Than-Traditional-Bank-Deposits",
-          "author": null,
-          "description": "Dollar-pegged stablecoins may actually be less risky to hold than traditional bank deposits, according to Brendan Malone – a former Federal Reserve Board analyst. Now writing on behalf of technology research and investment firm, Paradigm, Malone argued on Wednesday that stablecoins are...",
-          "link": "https://cryptopanic.com/news/18803490/Ex-Fed-Policy-Analysts-Paper-Stablecoins-Present-Lower-Risk-Than-Traditional-Bank-Deposits",
-          "publishedOn": "2023-07-28T18:32:00.000Z",
-          "wordCount": 592,
-          "title": "Ex-Fed Policy Analyst's Paper: Stablecoins Present Lower Risk Than Traditional Bank Deposits",
-          "imageUrl": "https://cimg.co/news/121000/320588/adobestock-458520299.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/18803488/Aliens-Exist-And-They-Use-Cryptocurrency",
-          "author": null,
-          "description": "(Stephen Leonardi/Unsplash)",
-          "link": "https://cryptopanic.com/news/18803488/Aliens-Exist-And-They-Use-Cryptocurrency",
-          "publishedOn": "2023-07-28T18:26:10.000Z",
-          "wordCount": 586,
-          "title": "Aliens Exist. And They Use Cryptocurrency",
-          "imageUrl": "https://www.coindesk.com/resizer/JcZ4tUv8SIJGPQ5bc4kfxmRGRJ8=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/S66VVDF5P5F5PK3AU5GCOJPWL4.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/18803489/Were-Compute-Cowboys-Gideon-Powell-on-the-Pioneer-Spirit-Driving-Bitcoin-Mining",
-          "author": null,
-          "description": "An interview with the CEO of Cholla Inc., an oil & gas exploration company that’s investing in bitcoin mining.",
-          "link": "https://cryptopanic.com/news/18803489/Were-Compute-Cowboys-Gideon-Powell-on-the-Pioneer-Spirit-Driving-Bitcoin-Mining",
-          "publishedOn": "2023-07-28T18:25:32.000Z",
-          "wordCount": 592,
-          "title": "‘We’re Compute Cowboys’: Gideon Powell on the Pioneer Spirit Driving Bitcoin Mining",
-          "imageUrl": "https://www.coindesk.com/resizer/hZu1NpbzJCl5nFTN-xWoTa17b0Q=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/PVQTLWCEYVD7FHHAIUMU2BZ7KA.png"
-        },
-        {
-          "id": "https://cryptopanic.com/news/18803452/WisdomTree-to-leave-no-stone-unturned-with-new-blockchain-native-app-CEO",
-          "author": null,
-          "description": "Fund group with $97 billion in assets says they have “ambitious product roadmap” for latest Prime app as tokenization gains steam",
-          "link": "https://cryptopanic.com/news/18803452/WisdomTree-to-leave-no-stone-unturned-with-new-blockchain-native-app-CEO",
-          "publishedOn": "2023-07-28T18:10:36.000Z",
-          "wordCount": 591,
-          "title": "WisdomTree to leave ‘no stone unturned’ with new blockchain-native app: CEO",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18803470/Com2uS-Is-Going-Full-Speed-on-Crypto-Gaming-Kyu-Lee",
-          "author": null,
-          "description": "Kyu Lee is the President of game studio Com2uS USA. In an interview, he shares the studio's approach to Web3 and crypto gaming with Decrypt GG's Kate Irwin.",
-          "link": "https://cryptopanic.com/news/18803470/Com2uS-Is-Going-Full-Speed-on-Crypto-Gaming-Kyu-Lee",
-          "publishedOn": "2023-07-28T18:10:00.000Z",
-          "wordCount": 590,
-          "title": "Com2uS Is Going \"Full Speed\" on Crypto Gaming: Kyu Lee",
-          "imageUrl": "https://cdn.jwplayer.com/v2/media/pYMZRoYy/poster.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/18803426/Analyst-Who-Accurately-Predicted-Bitcoins-2022-Bottom-Turns-Pessimistic-on-BTC-Heres-Why",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/18803426/Analyst-Who-Accurately-Predicted-Bitcoins-2022-Bottom-Turns-Pessimistic-on-BTC-Heres-Why",
-          "publishedOn": "2023-07-28T18:05:28.000Z",
-          "wordCount": null,
-          "title": "Analyst Who Accurately Predicted Bitcoin’s 2022 Bottom Turns Pessimistic on BTC – Here’s Why",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18803424/Why-Palm-Networks-Transition-to-a-Polygon-Supernet-Is-a-Big-Deal",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/18803424/Why-Palm-Networks-Transition-to-a-Polygon-Supernet-Is-a-Big-Deal",
-          "publishedOn": "2023-07-28T18:05:00.000Z",
-          "wordCount": null,
-          "title": "Why Palm Network's Transition to a Polygon Supernet Is a Big Deal",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18803417/New-US-Senate-Military-Bill-Comes-With-A-Crypto-Provision-But-Is-It-Good",
-          "author": null,
-          "description": "The US Senate recently passed a $886 billion Military Spending Bill which includes some provisions around the cryptocurrency industry. The 2024 National Defense Authorization Act (NDAA), which approved the defense amount to be spent in 2024, included provisions that seek to address crypto as a...",
-          "link": "https://cryptopanic.com/news/18803417/New-US-Senate-Military-Bill-Comes-With-A-Crypto-Provision-But-Is-It-Good",
-          "publishedOn": "2023-07-28T18:00:34.000Z",
-          "wordCount": 594,
-          "title": "New US Senate Military Bill Comes With A Crypto Provision, But Is It Good",
-          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2023/07/iStock-1309546646.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/18803451/6486-ETH-Worth-12M-Was-Just-Burned",
-          "author": null,
-          "description": "What happened: On Thursday a total of 6,486.59 Ether (CRYPTO: ETH) worth $12,125,700, based on the current value of Ethereum at time of publication ($1,869.35), was burned from Ethereum transactions. read more",
-          "link": "https://cryptopanic.com/news/18803451/6486-ETH-Worth-12M-Was-Just-Burned",
-          "publishedOn": "2023-07-28T18:00:09.000Z",
-          "wordCount": 587,
-          "title": "6,486 ETH Worth $12M Was Just Burned",
-          "imageUrl": "https://cdn.benzinga.com/files/images/story/2023/crypto_burns_image_0.png?width=1200&height=800&fit=crop"
-        },
-        {
-          "id": "https://cryptopanic.com/news/18803422/Halogen-Capital-Launched-by-Jirnexu-Founders-to-Make-Crypto-Investing-Mainstream-in-Malaysia",
-          "author": null,
-          "description": "Malaysia’s newest crypto fund management firm, Halogen Capital, has been launched by the entrepreneurs behind the local fintech player Jirnexu. The new firm already offers a spot Bitcoin (BTC) fund and a lower-risk Income Fund denominated in Malaysian ringgit, with a spot Ethereum (ETH) fund...",
-          "link": "https://cryptopanic.com/news/18803422/Halogen-Capital-Launched-by-Jirnexu-Founders-to-Make-Crypto-Investing-Mainstream-in-Malaysia",
-          "publishedOn": "2023-07-28T18:00:00.000Z",
-          "wordCount": 593,
-          "title": "Halogen Capital Launched by Jirnexu Founders to Make Crypto Investing Mainstream in Malaysia",
-          "imageUrl": "https://cimg.co/news/120984/320560/malaysia.jpeg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/18803395/Crypto-Biz-Elon-Musks-X-targets-financial-services-PacWest-emergency-rescue-and-more",
-          "author": null,
-          "description": "This week’s Crypto Biz explores Elon Musk’s plans for X, the Italian central bank’s take on DeFi, PacWest’s merger with Banc of California and more.",
-          "link": "https://cryptopanic.com/news/18803395/Crypto-Biz-Elon-Musks-X-targets-financial-services-PacWest-emergency-rescue-and-more",
-          "publishedOn": "2023-07-28T18:00:00.000Z",
-          "wordCount": 593,
-          "title": "Crypto Biz: Elon Musk’s X targets financial services, PacWest emergency rescue and more",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18803390/Heated-7-hour-markup-ends-in-bipartisan-support-for-stablecoin-bill",
-          "author": null,
-          "description": "Select Democrats and all committee Republicans voted to advance a bill that would give states more control over the licensing of stablecoin issuers",
-          "link": "https://cryptopanic.com/news/18803390/Heated-7-hour-markup-ends-in-bipartisan-support-for-stablecoin-bill",
-          "publishedOn": "2023-07-28T17:43:11.000Z",
-          "wordCount": 590,
-          "title": "Heated 7-hour markup ends in bipartisan support for stablecoin bill",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18802987/Prosecutors-Drop-Campaign-Finance-Charge-Against-SBF-EP-791",
-          "author": null,
-          "description": "Prosecutors Drop Campaign Finance Charge Against Sam Bankman-Fried - NYT✓ SUBSCRIBE - https://bit.ly/3QbgqTQ✓ LEAVE A LIKE & COMMENT SPONSORS:► Blockstream: https://blockstream.com/jade► Swan: https://www.swan.com/simply► Orange Pill App: https://www.theorangepillapp.com► Kaboomracks:...",
-          "link": "https://cryptopanic.com/news/18802987/Prosecutors-Drop-Campaign-Finance-Charge-Against-SBF-EP-791",
-          "publishedOn": "2023-07-28T17:33:50.000Z",
-          "wordCount": 590,
-          "title": "Prosecutors Drop Campaign Finance Charge Against SBF | EP 791",
-          "imageUrl": "https://i2.ytimg.com/vi/Y9ZcgKTx8wo/hqdefault.jpg"
         }
       ]
     },
@@ -1090,12 +1090,67 @@
       "siteUrl": "https://www.inoreader.com/stream/user/1005336866/tag/%E6%B5%B7%E5%A4%96%E5%8A%A0%E5%AF%86%E8%B5%84%E8%AE%AF/view/html",
       "articles": [
         {
+          "id": "http://www.inoreader.com/article/3a9c6e7565e34443",
+          "author": "Ronaldo Marquez",
+          "description": "The US Securities and Exchange Commission (SEC) has issued a dire warning to accounting firms conducting audits in the crypto asset space.\n \nIn a statement released on July 27, SEC Chief Accountant Paul Munter expressed concerns about the potential for misleading information to be presented to investors through non-audit work, which he argued is not as rigorous or comprehensive as a financial statement audit. \n \nMunter warned accounting firms of the potential for legal liability if their clients make misleading statements about the nature of their services, which could lead to potential anti-fraud violations under federal securities laws.\n \nSEC Warns Accounting Firms Of Hazards In Crypto Industry\n \nThe statement highlighted the hazards associated with accounting firms’ increasing engagemen…",
+          "link": "https://bitcoinist.com/peirce-slams-secs-move-to-target-crypto-auditors/",
+          "publishedOn": "2023-07-28T19:44:52.000Z",
+          "wordCount": 5479,
+          "title": "Crypto Regulation Or Overreach? SEC’s Warning Draws Mixed Reactions",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/jpeg",
+            "url": "https://bitcoinist.com/wp-content/uploads/2023/07/johann-walter-bantz-Clv9DfJLwac-unsplash-632x420.jpg"
+          },
+          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2023/07/johann-walter-bantz-Clv9DfJLwac-unsplash-632x420.jpg"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e7565e3f822",
+          "author": "Jamie Redman",
+          "description": "With the recent launch of Worldcoin’s token, worldcoin (WLD), Optimism has experienced a surge in daily transactions, reaching an all-time high on July 27. Data reveals that 944,000 Optimism transactions were processed on Thursday, with WLD transfers closing in on 1 million.\n \nWLD Token Arrival Spurs Transaction Surge on Optimism: New Milestone Reached\n \nThe Ethereum layer two (L2) network, Optimism, is reaping the benefits from Worldcoin’s (WLD) debut as the token integrated with the L2 blockchain before its introduction. As of 11:03 a.m. Eastern Time on Friday, archived records show that 285,527 distinct addresses possess WLD, and thus far, WLD has recorded 887,482 transactions. As a result, Optimism’s daily transfers have soared to new levels.\n \nFor example, according to Dune Analytics …",
+          "link": "https://news.bitcoin.com/worldcoins-launch-propels-optimism-to-record-breaking-daily-transaction-volume/",
+          "publishedOn": "2023-07-28T19:37:42.000Z",
+          "wordCount": 246,
+          "title": "Worldcoin’s Launch Propels Optimism to Record-Breaking Daily Transaction Volume",
+          "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2023/07/op.jpg"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e7565ec5d12",
+          "author": "David Z. Morris",
+          "description": "Republican candidate Vivek Rameswamy is rightly furious over dropped campaign finance charges. But the charges are likely to return after a procedural adjustment - and claims of corruption do more harm than good.",
+          "link": "https://www.coindesk.com/consensus-magazine/2023/07/28/no-sam-bankman-fried-is-not-being-bailed-out-by-democrats/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2023-07-28T19:33:59.000Z",
+          "wordCount": 8559,
+          "title": "No, Sam Bankman-Fried Is Not Being Bailed Out By Democrats",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/jpeg",
+            "url": "https://www.coindesk.com/resizer/wBD-QxvHJtPUF5mgl6wV4PxXma4=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/WFLAMWIASRAGZLCJRX3DUWPEWI.jpg"
+          },
+          "imageUrl": "https://www.coindesk.com/resizer/wBD-QxvHJtPUF5mgl6wV4PxXma4=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/WFLAMWIASRAGZLCJRX3DUWPEWI.jpg"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e7565ee7e77",
+          "author": "Nikhilesh De",
+          "description": "Prosecutors just withdrew a campaign finance charge ahead of Sam Bankman-Fried’s criminal trial this October. That doesn’t mean the U.S. Department of Justice is letting the FTX founder off on alleged criminal conduct, however – and campaign finance charges could still be tried later.",
+          "link": "https://www.coindesk.com/policy/2023/07/28/sam-bankman-fried-maybe-hasnt-escaped-campaign-finance-charges/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2023-07-28T19:12:41.000Z",
+          "wordCount": 7431,
+          "title": "Sam Bankman-Fried Maybe Hasn’t Escaped Campaign Finance Charges",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/jpeg",
+            "url": "https://www.coindesk.com/resizer/xZ6fGInrgL6S5AgL4tLXIa_mCkw=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/77IG7IJH3VEYLNZ64YR7UR7PBM.JPG"
+          },
+          "imageUrl": "https://www.coindesk.com/resizer/xZ6fGInrgL6S5AgL4tLXIa_mCkw=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/77IG7IJH3VEYLNZ64YR7UR7PBM.JPG"
+        },
+        {
           "id": "http://www.inoreader.com/article/3a9c6e7565e8a76b",
           "author": "Daniel Kuhn",
           "description": "An interview with the CEO of Cholla Inc., an oil & gas exploration company that’s investing in bitcoin mining.",
           "link": "https://www.coindesk.com/consensus-magazine/2023/07/28/were-compute-cowboys-gideon-powell-on-the-pioneer-spirit-driving-bitcoin-mining/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-07-28T18:51:42.000Z",
-          "wordCount": 10836,
+          "wordCount": 10887,
           "title": "‘We’re Compute Cowboys’: Gideon Powell on the Pioneer Spirit Driving Bitcoin Mining",
           "enclosure": {
             "length": "1337",
@@ -1110,7 +1165,7 @@
           "description": "A few thoughts on government lies, the purpose of crypto and where technology can take us following a congressional hearing on inexplicable aerial phenomena.",
           "link": "https://www.coindesk.com/consensus-magazine/2023/07/28/aliens-exist-and-they-use-cryptocurrency/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-07-28T18:51:39.000Z",
-          "wordCount": 7674,
+          "wordCount": 7710,
           "title": "Aliens Exist. And They Use Cryptocurrency",
           "enclosure": {
             "length": "1337",
@@ -1165,7 +1220,7 @@
           "description": "BTC losing the significant price level after a month is likely just a short-term deviation based on derivatives trading data, SynFutures CEO said.",
           "link": "https://www.coindesk.com/markets/2023/07/28/bitcoin-price-wont-stay-below-30k-for-long-crypto-options-traders-bet/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-07-28T17:31:22.000Z",
-          "wordCount": 6733,
+          "wordCount": 6784,
           "title": "Bitcoin Won’t Be Stuck Below $30K for Long, Crypto Options Traders Bet",
           "enclosure": {
             "length": "1337",
@@ -1180,7 +1235,7 @@
           "description": "With institutions like BlackRock, Fidelity and Ark Investments all seeking SEC approval for Bitcoin ETFs, it's time to thank Bitcoin miners for laying the groundwork for industry expansion.",
           "link": "https://www.coindesk.com/consensus-magazine/2023/07/28/a-blackrock-btc-etf-wouldnt-be-possible-without-bitcoin-miners/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-07-28T17:07:32.000Z",
-          "wordCount": 7941,
+          "wordCount": 8014,
           "title": "A BlackRock BTC ETF Wouldn't Be Possible Without Bitcoin Miners",
           "enclosure": {
             "length": "1337",
@@ -1205,7 +1260,7 @@
           "description": "Crypto.com has been licensed in the  \nNetherlands to provide cryptocurrency services; the exchange said in a  \nstatement today (Friday). The license was awarded by the Dutch  \ncentral bank (DNB) after the company met the requirements of the law passed to prevent  \nmoney laundering and terrorism financing.\nCrypto.com Expands Operations\nThe Netherlands is the latest country in Europe to  \nlicense the Singapore-based cryptocurrency exchange. The company was  \nawarded a Digital Asset Service Provider (DASP) license in France, while in the  \nUK, it operates on a crypto asset business license. Additionally, the exchange  \nis regulated in Italy, Greece, Cyprus, Spain, South Korea, and  \nAustralia.   \nCommenting about the licensing, Kris  \nMarszalek, the CEO of Crypto.com, said: \"Collaborating wit…",
           "link": "https://www.financemagnates.com//cryptocurrency/cryptocom-obtains-license-to-offer-services-in-the-netherlands/",
           "publishedOn": "2023-07-28T16:57:25.000Z",
-          "wordCount": 5331,
+          "wordCount": 5329,
           "title": "Crypto.com Obtains License to Offer Services in the Netherlands",
           "imageUrl": "https://images.financemagnates.com/images/cryptodotcom_id_deae20fb-9168-4a6d-be91-11d19a9da58d_size900.jpg"
         },
@@ -1230,7 +1285,7 @@
           "description": "James Wallis said the decision that Ripple's sale of XRP did not constitute investment contracts was a major victory, not just for Ripple but also for the industry.",
           "link": "https://www.coindesk.com/policy/2023/07/28/sec-case-had-almost-no-impact-on-ripples-talks-with-central-banks-says-exec/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-07-28T16:24:12.000Z",
-          "wordCount": 6684,
+          "wordCount": 6754,
           "title": "SEC Case Had 'Almost No Impact' on Ripple's Talks With Central Banks, Says Exec",
           "enclosure": {
             "length": "1337",
@@ -1245,7 +1300,7 @@
           "description": "No crypto project since Facebook's Libra has generated such hue and cry from within the crypto community. Is it right to be concerned by Sam Altman's iris-scanning uber-ambitious UBI project?",
           "link": "https://www.coindesk.com/consensus-magazine/2023/07/28/is-the-worry-over-worldcoin-warranted/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-07-28T16:13:03.000Z",
-          "wordCount": 8331,
+          "wordCount": 8373,
           "title": "Is the Worry Over Worldcoin Warranted?",
           "enclosure": {
             "length": "1337",
@@ -1260,7 +1315,7 @@
           "description": "Arkham customers are seeking to identify whomever was behind FTX and Wintermute’s huge hacks as well as an alleged meme-coin rug pull.",
           "link": "https://www.coindesk.com/business/2023/07/28/despite-uproar-crypto-bounties-to-unmask-bad-actors-starts-to-get-traction/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-07-28T16:04:36.000Z",
-          "wordCount": 7393,
+          "wordCount": 7443,
           "title": "Despite Uproar, Crypto Bounties to Unmask Bad Actors Starts to Get Traction",
           "enclosure": {
             "length": "1337",
@@ -1300,7 +1355,7 @@
           "description": "Former Ethereum core developer Lane Rettig breaks done why the network's major proof-of-stake upgrade last year isn't inherently less wasteful, cheaper or more secure than blockchain mining.",
           "link": "https://www.coindesk.com/consensus-magazine/2023/07/28/why-ethereum-ditching-mining-isnt-better-for-the-environment/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-07-28T15:33:04.000Z",
-          "wordCount": 9492,
+          "wordCount": 9543,
           "title": "Why Ethereum Ditching Mining Isn't Better for the Environment",
           "enclosure": {
             "length": "1337",
@@ -1308,56 +1363,6 @@
             "url": "https://www.coindesk.com/resizer/WZLrHSkf3FPpPCbWRRRjMp6moUw=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/RAGAV7H3QRHTRNPSAAOKCWM4JI.jpg"
           },
           "imageUrl": "https://www.coindesk.com/resizer/WZLrHSkf3FPpPCbWRRRjMp6moUw=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/RAGAV7H3QRHTRNPSAAOKCWM4JI.jpg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e7565cffca8",
-          "author": "Scott Matherson",
-          "description": "Following the summary judgment delivered in favor of Ripple in the ongoing XRP vs. SEC lawsuit, the Chair of the United States Securities and Exchange Commission (SEC), Gary Gensler, remains taciturn on the commission’s next line of action. \n \nDuring a segment on Bloomberg TV, Gensler was evasive on questions bothering on whether the SEC intends to appeal the judgment. He, however, maintained that the SEC was yet to take a decision, having previously expressed disappointment over the ruling stating that the agency intends to evaluate the ruling in the Ripple Labs lawsuit.\n \nUncertainty Trails Gensler’s Evasiness\n \nIn a ruling delivered by Judge Analisa Torres on July 13, 2023, the XRP token was classified as a security primarily when selling them to institutional investors, while sales to …",
-          "link": "https://bitcoinist.com/appeal-coming-in-the-ripple-case/",
-          "publishedOn": "2023-07-28T14:44:55.000Z",
-          "wordCount": 5331,
-          "title": "Is An Appeal Coming In The Ripple Case? Here Is Gensler’s Response",
-          "enclosure": {
-            "length": "1337",
-            "type": "image/jpeg",
-            "url": "https://bitcoinist.com/wp-content/uploads/2023/07/Gary-Gensler-Ripple-XRP--630x420.jpg"
-          },
-          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2023/07/Gary-Gensler-Ripple-XRP--630x420.jpg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e7565ca8474",
-          "author": "FM Contributors",
-          "description": "Innovation is  \ncontinually redefining the way we organize, host, and experience events in the  \never-changing realm of event technology. Event tech continues to alter the  \nbusiness, bringing new opportunities for organizers and attendees alike, from  \nvirtual conferences to immersive events. \nIn this  \narticle, we will look at the top event tech trends to watch for, as well as how  \nthese breakthroughs are changing the future of events.\nBridging the  \nGap with Virtual and Hybrid Events\nThe growth of  \nvirtual events acquired tremendous traction during the epidemic, and it appears  \nthat this tendency will continue. Virtual events allow you to access a worldwide  \naudience while overcoming geographical restrictions. As we approach the  \npost-pandemic period, hybrid events that combine in-…",
-          "link": "https://www.financemagnates.com//cryptocurrency/innovation/event-tech-trends-to-watch-for-in-2023/",
-          "publishedOn": "2023-07-28T14:26:06.000Z",
-          "wordCount": 8370,
-          "title": "Event Tech Trends to Watch for in 2023",
-          "imageUrl": "https://images.financemagnates.com/images/crowdfunding_id_4b310bc3-c9be-4675-aabd-9640b41bd94d_size900.jpg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e7565cbbd1b",
-          "author": "Eliza Gkritsi",
-          "description": "Mining rig makers like Bitmain and MicroBT are expanding to Russia as the U.S. market becomes saturated, source said.",
-          "link": "https://www.coindesk.com/consensus-magazine/2023/07/28/amid-sanctions-bitcoin-mining-machines-are-flowing-into-russia-as-industry-thrives/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-          "publishedOn": "2023-07-28T14:17:14.000Z",
-          "wordCount": 8391,
-          "title": "Amid Sanctions, Bitcoin Mining Machines Are ‘Flowing’ Into Russia, as Industry Thrives",
-          "enclosure": {
-            "length": "1337",
-            "type": "image/jpeg",
-            "url": "https://www.coindesk.com/resizer/j59GKkooizwxDSdGlerA3Uzcj4o=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/K65YLTLVSBH27NE3S66WCZWQGI.jpg"
-          },
-          "imageUrl": "https://www.coindesk.com/resizer/j59GKkooizwxDSdGlerA3Uzcj4o=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/K65YLTLVSBH27NE3S66WCZWQGI.jpg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e7565b493c0",
-          "author": "Terence Zimwara",
-          "description": "The U.S. House Financial Services Committee has passed Chairman Patrick McHenry’s Clarity for Payment Stablecoins Act with bipartisan support. McHenry said committee members, unlike the White House, understood the urgency and importance of providing clarity for payment stablecoins. Sheila Warren, the CEO of the Crypto Council for Innovation, described the bill’s passage as the “first steps toward a legislative foundation for stablecoins in the U.S.”\n \nLandmark Legislation Close to Becoming Law\n \nAfter holding negotiations for fifteen months, the U.S. House Financial Services Committee passed the Clarity for Payment Stablecoins Act on July 27 with bipartisan support. According to the committee’s chairperson, Patrick McHenry, the bill’s passage means “this landmark legislation is one step cl…",
-          "link": "https://news.bitcoin.com/us-house-financial-services-committee-passes-stablecoin-legislation-after-a-few-fireworks/",
-          "publishedOn": "2023-07-28T14:11:00.000Z",
-          "wordCount": 255,
-          "title": "US House Financial Services Committee Passes Stablecoin Legislation ‘After a Few Fireworks’",
-          "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2023/07/shutterstock_2041962920.jpg"
         }
       ]
     }

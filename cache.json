@@ -236,7 +236,7 @@
           "description": "The on-chain message stated that the DeFi teams intend to pursue the Curve Finance hacker \"from all angles with the full extent of the law.\"",
           "link": "https://decrypt.co/151273/defi-teams-issue-stark-warning-curve-finance-hacker",
           "publishedOn": "2023-08-04T09:54:19.000Z",
-          "wordCount": 8770,
+          "wordCount": 8803,
           "title": "DeFi Teams Issue Stark On-Chain Warning to Curve Finance Hacker",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/08/crypto-warning-sign-gID_7.jpg@png",
@@ -868,12 +868,72 @@
       "siteUrl": "https://cryptopanic.com/",
       "articles": [
         {
+          "id": "https://cryptopanic.com/news/18818898/Crypto-Analyst-Calls-Out-SEC-for-Controversy-in-the-Ripple-Case",
+          "author": null,
+          "description": "Mr. Huber, in a Twitter post, alleges that the SEC didn’t want to discuss XRP status with Ripple Labs. The crypto analyst also accused the SEC of favoring crypto entities such as Ethereum and ConsenSys. Ripple Labs, in its Q2 report, slammed the regulator for what it called “inconsistent...",
+          "link": "https://cryptopanic.com/news/18818898/Crypto-Analyst-Calls-Out-SEC-for-Controversy-in-the-Ripple-Case",
+          "publishedOn": "2023-08-05T02:15:00.000Z",
+          "wordCount": 591,
+          "title": "Crypto Analyst Calls Out SEC for Controversy in the Ripple Case",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18818890/JPEGd-confirms-return-of-5495-ETH-from-Curve-hacker",
+          "author": null,
+          "description": "The hacker drained a number of pools on Curve Finance, stealing roughly $70 million, but has gradually started returning funds to various projects.",
+          "link": "https://cryptopanic.com/news/18818890/JPEGd-confirms-return-of-5495-ETH-from-Curve-hacker",
+          "publishedOn": "2023-08-05T02:06:48.000Z",
+          "wordCount": 589,
+          "title": "JPEG'd confirms return of 5,495 ETH from Curve hacker",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18818872/BNB-flips-XRP-while-BNB-Chain-prepares-mainnet-upgrade",
+          "author": null,
+          "description": "BNB will push a new mainnet update for its BNB Smart Chain in August. BNB also flipped XRP to become the fourth largest crypto.",
+          "link": "https://cryptopanic.com/news/18818872/BNB-flips-XRP-while-BNB-Chain-prepares-mainnet-upgrade",
+          "publishedOn": "2023-08-05T01:30:55.000Z",
+          "wordCount": 589,
+          "title": "BNB flips XRP while BNB Chain prepares mainnet upgrade",
+          "imageUrl": "https://statics.ambcrypto.com/wp-content/uploads/2023/08/BNB-1.png"
+        },
+        {
+          "id": "https://cryptopanic.com/news/18817431/Fragile-Systems-Make-Fragile-Minds-ep-337-The-Breakup-bitcoinmagazine",
+          "author": null,
+          "description": "- @JonathanTurley on evidence- @KanekoaTheGreat on @joerogan and PBD- @alx on Zuck- @RepThomasMassie on Ross, Ed, Julian, and PRIME",
+          "link": "https://cryptopanic.com/news/18817431/Fragile-Systems-Make-Fragile-Minds-ep-337-The-Breakup-bitcoinmagazine",
+          "publishedOn": "2023-08-05T01:15:28.000Z",
+          "wordCount": 590,
+          "title": "Fragile Systems Make Fragile Minds, ep 337 The Breakup @bitcoinmagazine",
+          "imageUrl": "https://i3.ytimg.com/vi/ZGPiFP9IQ3M/hqdefault.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/18818867/Elon-Musk-Hero-or-Villain-bitcoin-elonmusk-shorts",
+          "author": null,
+          "description": "What is Elon Musk’s end game? Is he smart or stupid for not holding bitcoin? We know the answer…",
+          "link": "https://cryptopanic.com/news/18818867/Elon-Musk-Hero-or-Villain-bitcoin-elonmusk-shorts",
+          "publishedOn": "2023-08-05T01:13:13.000Z",
+          "wordCount": 588,
+          "title": "Elon Musk: Hero or Villain? #bitcoin #elonmusk #shorts",
+          "imageUrl": "https://i4.ytimg.com/vi/_AjXXWQrFl8/hqdefault.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/18818868/Top-3-Altcoins-for-August-2023-shorts",
+          "author": null,
+          "description": "Top 3 Altcoins for August 2023! These 3 altcoins are going to take off in the next few months and include Cosmos, Injective and the Secret Network. All of these tokens work on the Cosmos IBC and will benefit from the Cosmos upgrades. Full Video:...",
+          "link": "https://cryptopanic.com/news/18818868/Top-3-Altcoins-for-August-2023-shorts",
+          "publishedOn": "2023-08-05T01:00:03.000Z",
+          "wordCount": 587,
+          "title": "Top 3 Altcoins for August 2023! #shorts",
+          "imageUrl": "https://i2.ytimg.com/vi/AkvantrWTZ4/hqdefault.jpg"
+        },
+        {
           "id": "https://cryptopanic.com/news/18818849/Curve-Finance-Halts-Token-Rewards-for-Compromised-Pools-After-Recent-Exploits",
           "author": null,
-          "description": "Curve Finance, the lending protocol, has made significant changes following recent exploits and attacks. As...",
+          "description": "",
           "link": "https://cryptopanic.com/news/18818849/Curve-Finance-Halts-Token-Rewards-for-Compromised-Pools-After-Recent-Exploits",
           "publishedOn": "2023-08-05T00:37:16.000Z",
-          "wordCount": 591,
+          "wordCount": null,
           "title": "Curve Finance Halts Token Rewards for Compromised Pools After Recent Exploits",
           "imageUrl": null
         },
@@ -890,22 +950,22 @@
         {
           "id": "https://cryptopanic.com/news/18818842/Bitcoins-Failure-to-Surpass-Key-Resistance-Level-Signals-Potential-Downturn-Warns-Top-Trader",
           "author": null,
-          "description": "A prominent cryptocurrency trader has warned that the price of the flagship cryptocurrency Bitcoin ($BTC) has struggled to surpass a significant resistance level for an extended period, which to him could mean BTC could soon face significant downside. In a video shared with his over 52,000...",
+          "description": "",
           "link": "https://cryptopanic.com/news/18818842/Bitcoins-Failure-to-Surpass-Key-Resistance-Level-Signals-Potential-Downturn-Warns-Top-Trader",
           "publishedOn": "2023-08-05T00:18:00.000Z",
-          "wordCount": 593,
+          "wordCount": null,
           "title": "Bitcoin’s Failure to Surpass Key Resistance Level Signals Potential Downturn, Warns Top Trader",
-          "imageUrl": "https://media.cryptoglobe.com/2022/02/yigit-ali-atasoy-z1jggXh29_Q-unsplash-768x432.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/18818826/200000000-for-Cash-Handouts-With-No-Strings-Attached-Allocated-Across-US-As-Basic-Income-Trials-Come-To-24-States-Report",
           "author": null,
-          "description": "A total of 24 states across the US are testing the benefits of offering basic income with no strings attached to people and families in need. And more than $200 million has now been reportedly allocated for various pilot programs across the country. The state with the most basic income trials,...",
+          "description": "",
           "link": "https://cryptopanic.com/news/18818826/200000000-for-Cash-Handouts-With-No-Strings-Attached-Allocated-Across-US-As-Basic-Income-Trials-Come-To-24-States-Report",
           "publishedOn": "2023-08-05T00:04:46.000Z",
-          "wordCount": 600,
+          "wordCount": null,
           "title": "$200,000,000 for Cash Handouts With No Strings Attached Allocated Across US As Basic Income Trials Come To 24 States: Report",
-          "imageUrl": "https://dailyhodl.com/wp-content/uploads/2023/08/dollar-income-b.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/18818820/Shiba-Inu-SHIB-Plans-To-Integrate-Digital-Identities-Into-Its-Ecosystems-Projects-Says-Developer",
@@ -940,12 +1000,12 @@
         {
           "id": "https://cryptopanic.com/news/18818768/Tether-May-Be-Holding-Over-55000-BTC-in-a-Single-Address-Researcher-Finds",
           "author": null,
-          "description": "",
+          "description": "A popular blockchain researcher and data specialist at the parent company of 21Shares has recently revealed an analysis that seems to suggest that the leading stablecoin issuer Tether could be the owner of the 11th largest Bitcoin address. Tether’s Bitcoin balance has seen a substantial...",
           "link": "https://cryptopanic.com/news/18818768/Tether-May-Be-Holding-Over-55000-BTC-in-a-Single-Address-Researcher-Finds",
           "publishedOn": "2023-08-04T22:30:00.000Z",
-          "wordCount": null,
+          "wordCount": 593,
           "title": "Tether May Be Holding Over 55,000 $BTC in a Single Address, Researcher Finds",
-          "imageUrl": null
+          "imageUrl": "https://media.cryptoglobe.com/2022/03/dmitry-demidko-OG3A-ilG8AY-unsplash-768x512.jpg"
         },
         {
           "id": "https://cryptopanic.com/news/18818746/Payments-Giant-Western-Union-Collaborates-With-75000000000-Bank-on-a-US-CBDC-Pilot-Study",
@@ -980,12 +1040,12 @@
         {
           "id": "https://cryptopanic.com/news/18818730/Whats-Trending-in-the-Cryptocurrency-Market-in-August-Which-Early-Projects-Are-Waiting-to-Be-Discovered",
           "author": null,
-          "description": "Cryptocurrency researcher Stacy Muur listed the areas she expects to trend in August. Continue Reading: What’s Trending in the Cryptocurrency Market in August? Which Early Projects Are Waiting to Be Discovered?",
+          "description": "",
           "link": "https://cryptopanic.com/news/18818730/Whats-Trending-in-the-Cryptocurrency-Market-in-August-Which-Early-Projects-Are-Waiting-to-Be-Discovered",
           "publishedOn": "2023-08-04T21:53:07.000Z",
-          "wordCount": 596,
+          "wordCount": null,
           "title": "What’s Trending in the Cryptocurrency Market in August? Which Early Projects Are Waiting to Be Discovered?",
-          "imageUrl": "https://www.bitcoinsistemi.com/wp-content/uploads/2023/02/altcoin-yukselis.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/18818731/A-Primer-on-LK-99",
@@ -1006,66 +1066,6 @@
           "wordCount": null,
           "title": "Hoskinson Denies His Involvement With the Controversial ‘Ether Speech’",
           "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18818716/The-absurd-AI-mania-is-coming-to-an-end",
-          "author": null,
-          "description": "AI large language models raised over $25 billion in the first half of 2023. The industry is starting to look like a bubble that’s about to burst.",
-          "link": "https://cryptopanic.com/news/18818716/The-absurd-AI-mania-is-coming-to-an-end",
-          "publishedOn": "2023-08-04T21:47:30.000Z",
-          "wordCount": 589,
-          "title": "The absurd AI mania is coming to an end",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18818717/CBDC-supporter-likely-in-White-House-next-term-crypto-divide-not-red-v-blue-Grayscale",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/18818717/CBDC-supporter-likely-in-White-House-next-term-crypto-divide-not-red-v-blue-Grayscale",
-          "publishedOn": "2023-08-04T21:45:00.000Z",
-          "wordCount": null,
-          "title": "CBDC supporter likely in White House next term, crypto divide not red v. blue: Grayscale",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18818721/Best-Crypto-to-Buy-Now-4-August-GMX-XDC-Network-Injective",
-          "author": null,
-          "description": "One of the largest pieces of news impacting crypto markets today is that Coinbase has requested the dismissal of a lawsuit filed against them by the United States Securities and Exchange Commission (SEC), according to an announcement made today by Paul Grewal, the company's Chief Legal Officer....",
-          "link": "https://cryptopanic.com/news/18818721/Best-Crypto-to-Buy-Now-4-August-GMX-XDC-Network-Injective",
-          "publishedOn": "2023-08-04T21:40:00.000Z",
-          "wordCount": 592,
-          "title": "Best Crypto to Buy Now 4 August – GMX, XDC Network, Injective",
-          "imageUrl": "https://cimg.co/news/121634/322121/bc4a-1.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/18818696/Cardanos-Hoskinson-Slams-US-Hypocrisy-in-Targeting-Crypto",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/18818696/Cardanos-Hoskinson-Slams-US-Hypocrisy-in-Targeting-Crypto",
-          "publishedOn": "2023-08-04T21:35:00.000Z",
-          "wordCount": null,
-          "title": "Cardano’s Hoskinson Slams U.S. Hypocrisy in Targeting Crypto",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18818715/A-Look-At-Bitcoin-Ethereum-And-Dogecoin-Into-The-Weekend-As-Stock-Market-Turns-Lower",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/18818715/A-Look-At-Bitcoin-Ethereum-And-Dogecoin-Into-The-Weekend-As-Stock-Market-Turns-Lower",
-          "publishedOn": "2023-08-04T21:32:55.000Z",
-          "wordCount": null,
-          "title": "A Look At Bitcoin, Ethereum And Dogecoin Into The Weekend As Stock Market Turns Lower",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18818694/Hex-loses-500M-in-market-cap-after-SEC-lawsuit-token-removed-from-MetaMask-Uniswap",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/18818694/Hex-loses-500M-in-market-cap-after-SEC-lawsuit-token-removed-from-MetaMask-Uniswap",
-          "publishedOn": "2023-08-04T21:30:38.000Z",
-          "wordCount": null,
-          "title": "Hex loses $500M in market cap after SEC lawsuit; token removed from MetaMask, Uniswap",
-          "imageUrl": null
         }
       ]
     },
@@ -1074,6 +1074,31 @@
       "feedUrl": "https://www.inoreader.com/stream/user/1005336866/tag/%E6%B5%B7%E5%A4%96%E5%8A%A0%E5%AF%86%E8%B5%84%E8%AE%AF",
       "siteUrl": "https://www.inoreader.com/stream/user/1005336866/tag/%E6%B5%B7%E5%A4%96%E5%8A%A0%E5%AF%86%E8%B5%84%E8%AE%AF/view/html",
       "articles": [
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e7559f9fff5",
+          "author": "Jesse Hamilton",
+          "description": "Figure Technologies, Inc., has pulled its application to become a federally chartered bank in the U.S., ending a three-year rollercoaster ride as regulators clamped down on crypto activity and digital assets banking suffered a black eye when regional lenders associated with the tech world cratered earlier this year.",
+          "link": "https://www.coindesk.com/policy/2023/08/03/figure-abandons-quest-to-be-us-chartered-crypto-bank-after-three-year-fight/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2023-08-05T02:12:38.000Z",
+          "wordCount": 6907,
+          "title": "Figure Abandons Quest to be U.S. Chartered Crypto Bank After Three-Year Fight",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/jpeg",
+            "url": "https://www.coindesk.com/resizer/8Ds8IUc4obED_9HWQg36M7V9uUs=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/TXXTAGJFERB7FJQ4E6OH2I76RQ"
+          },
+          "imageUrl": "https://www.coindesk.com/resizer/8Ds8IUc4obED_9HWQg36M7V9uUs=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/TXXTAGJFERB7FJQ4E6OH2I76RQ"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e7559fa7aea",
+          "author": "Kevin Helms",
+          "description": "Economist Peter Schiff has warned of an impending collapse of the U.S. dollar even though he sees Fitch’s downgrade of the U.S. rating this week as “meaningless.” While cautioning about a financial crisis and a crash, Schiff emphasized: “Given the trajectory of U.S. government deficit spending, a dollar collapse is inevitable.”\n \nSchiff on US Rating Downgrade, Crash, Dollar Collapse\n \nEconomist and gold bug Peter Schiff warned of a U.S. dollar collapse and the challenges faced by the U.S. economy in a series of tweets this week. His warnings come after Fitch Ratings downgraded the United States’ long-term foreign-currency issuer default rating from AAA to AA+. Fitch is one of the three largest credit rating agencies in the U.S.\n \nNoting that “Fitch downgrading U.S. Treasuries to AA+ from A…",
+          "link": "https://news.bitcoin.com/economist-peter-schiff-warns-us-dollar-collapse-inevitable/",
+          "publishedOn": "2023-08-05T02:05:01.000Z",
+          "wordCount": 237,
+          "title": "Economist Peter Schiff Warns US Dollar Collapse ‘Inevitable’",
+          "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2023/08/schiff-fitch.jpg"
+        },
         {
           "id": "http://www.inoreader.com/article/3a9c6e7559e118d2",
           "author": "Kevin Helms",
@@ -1130,7 +1155,7 @@
           "description": "The filing comes around the same time the firm requested permission to offer a bitcoin-future ETF.",
           "link": "https://www.coindesk.com/policy/2023/08/04/global-x-refiles-spot-bitcoin-etf-application-naming-coinbase-as-surveillance-sharing-partner/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-08-04T21:44:15.000Z",
-          "wordCount": 6163,
+          "wordCount": 6168,
           "title": "Global X Refiles Spot-Bitcoin ETF Application, Naming Coinbase as ‘Surveillance-Sharing’ Partner",
           "enclosure": {
             "length": "1337",
@@ -1175,7 +1200,7 @@
           "description": "Fitch’s downgrade of U.S. debt this week is a warning to American policymakers and r underscores why Bitcoin and other open monetary systems matter.",
           "link": "https://www.coindesk.com/consensus-magazine/2023/08/04/americas-credit-rating-helps-make-case-for-bitcoin/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-08-04T20:52:20.000Z",
-          "wordCount": 9953,
+          "wordCount": 9950,
           "title": "America’s Credit Rating Helps Make Case for Bitcoin",
           "enclosure": {
             "length": "1337",
@@ -1318,36 +1343,6 @@
             "url": "https://bitcoinist.com/wp-content/uploads/2023/08/kanchanara-vu13QDlTQyU-unsplash-631x420.jpg"
           },
           "imageUrl": "https://bitcoinist.com/wp-content/uploads/2023/08/kanchanara-vu13QDlTQyU-unsplash-631x420.jpg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e7559ce6239",
-          "author": "Bitcoin Magazine",
-          "description": "Introduction\nAn exchange-traded fund (ETF) is a type of investment that tracks a specific asset or commodity, in this case, bitcoin. ETFs can be bought and sold on stock exchanges and brokerage accounts, with the custody of the underlying asset being held by the manager of the ETF. This allows for investors to get price exposure to bitcoin without having to worry about self-custody or figuring out how to use a bitcoin exchange. This would potentially give traditional investors peace of mind since they could purchase shares of a spot bitcoin ETF directly through their familiar brokerage accounts.\nThere are many types of Bitcoin ETFs available. The futures ETFs have had most success in being approved by the Securities and Exchange Commission (SEC) thus far, but these track futures contracts …",
-          "link": "https://bitcoinmagazine.com/guides/spot-bitcoin-etf",
-          "publishedOn": "2023-08-04T17:30:04.000Z",
-          "wordCount": null,
-          "title": "What Is a Spot Bitcoin ETF?",
-          "enclosure": {
-            "length": "1337",
-            "type": "image/png",
-            "url": "http://bitcoinmagazine.com/.image/c_limit,cs_srgb,h_1200,q_auto:good,w_1200/MTkwMjQxMDY4MDAyODQ2MDM4/bitcoin-spot-etf-sec.png"
-          },
-          "imageUrl": "http://bitcoinmagazine.com/.image/c_limit,cs_srgb,h_1200,q_auto:good,w_1200/MTkwMjQxMDY4MDAyODQ2MDM4/bitcoin-spot-etf-sec.png"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e7559cfc8c0",
-          "author": "David Z. Morris",
-          "description": "“Ilya is a f***ing idiot,” says former U.S. “Most Wanted” hacker Brett Johnson, who questions yesterday’s bombshell confession.",
-          "link": "https://www.coindesk.com/consensus-magazine/2023/08/04/did-razzlekhans-husband-really-hack-bitfinex/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-          "publishedOn": "2023-08-04T17:18:01.000Z",
-          "wordCount": 7465,
-          "title": "Did Razzlekhan’s Husband Really Hack Bitfinex?",
-          "enclosure": {
-            "length": "1337",
-            "type": "image/jpeg",
-            "url": "https://www.coindesk.com/resizer/isb6wpuGUV2yzX3hPntWhTR8Jtg=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/VJZKFDFOFNFJNNEKVJR6ALCMLY.jpg"
-          },
-          "imageUrl": "https://www.coindesk.com/resizer/isb6wpuGUV2yzX3hPntWhTR8Jtg=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/VJZKFDFOFNFJNNEKVJR6ALCMLY.jpg"
         }
       ]
     }

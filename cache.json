@@ -6,12 +6,27 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=152161",
+          "author": "Tim Hakki",
+          "description": "Intellectual property, data privacy and cybersecurity are three areas that need to be addressed quickly, according to Gartner.",
+          "link": "https://decrypt.co/152161/generative-ai-a-top-emerging-risk-for-organizations-gartner-survey",
+          "publishedOn": "2023-08-11T12:22:09.000Z",
+          "wordCount": 8984,
+          "title": "Generative AI a Top Emerging Risk for Organizations: Gartner Survey",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/12/Artificial-Intelligence-gID_7.png@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/12/Artificial-Intelligence-gID_7.png@png"
+        },
+        {
           "id": "https://decrypt.co/?p=152164",
           "author": "Nivesh Rustgi",
           "description": "The new chain has entered the top five layer-2 networks by total amount bridged, while daily active users hit 136,000.",
           "link": "https://decrypt.co/152164/170m-bridged-to-coinbase-layer-2-base-as-daily-active-users-hit-136000",
           "publishedOn": "2023-08-11T11:38:46.000Z",
-          "wordCount": 8945,
+          "wordCount": 8955,
           "title": "$170M Bridged to Coinbase Layer-2 Base as Daily Active Users Hit 136,000",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/02/coinbase-free-base-nft-gID_7.png@png",
@@ -56,7 +71,7 @@
           "description": "Bitcoin supporters back the celebs’ take on CBDCs as the “digital dollar” discussion reaches mainstream audiences.",
           "link": "https://decrypt.co/152126/post-malone-disses-cbdcs-joe-rogan-podcast-bitcoiners-love",
           "publishedOn": "2023-08-11T00:03:40.000Z",
-          "wordCount": 9158,
+          "wordCount": 9191,
           "title": "Post Malone Disses CBDCs on Joe Rogan Podcast—And Bitcoiners Love It",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/08/post-malone-shutterstock-gID_7.png@png",
@@ -431,7 +446,7 @@
           "description": "Kratos Defense aims to redefine air combat and usher in a new era of AI-enhanced flight.",
           "link": "https://decrypt.co/151902/ai-unmanned-fighter-jets-uncrewed-military-valkyrie-xq-58a",
           "publishedOn": "2023-08-09T19:54:43.000Z",
-          "wordCount": 9687,
+          "wordCount": 9693,
           "title": "Meet the Company Building AI Fighter Jets for the U.S. Military",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/08/Kratos-XQ-58-Valkyrie-gID_7.jpg@png",
@@ -566,7 +581,7 @@
           "description": "CUBE3’s Protect software enables smart contract deployers to deal with cyber attacks and vulnerabilities without pausing their protocols.",
           "link": "https://decrypt.co/151849/cube3-ai-secures-8-2m-to-launch-ai-powered-blockchain-security-app",
           "publishedOn": "2023-08-09T13:01:02.000Z",
-          "wordCount": 8885,
+          "wordCount": 8852,
           "title": "Cube3.AI Secures $8.2M to Launch AI-Powered Blockchain Security App",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/03/AI-crypto-security-gID_7.jpg@png",
@@ -591,21 +606,6 @@
           "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/11/federal-reserve-sunset-gID_7.png@png"
         },
         {
-          "id": "https://decrypt.co/?p=151836",
-          "author": "Andrew Asmakov",
-          "description": "All seven tokens to be \"permanently\" suspended for trading on Bitstamp were earlier classified by the SEC as unregistered securities.",
-          "link": "https://decrypt.co/151836/bitstamp-end-trading-solana-polygon-5-other-altcoins-us-users",
-          "publishedOn": "2023-08-09T09:34:49.000Z",
-          "wordCount": 8966,
-          "title": "Bitstamp to End Trading of Solana, Polygon and 5 Other Altcoins for US Users",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/08/bitstamp-crypto-regulations-gID_7.jpg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/08/bitstamp-crypto-regulations-gID_7.jpg@png"
-        },
-        {
           "id": "https://decrypt.co/videos/interviews/BA4yE45A/many-early-blockchain-games-were-cash-grabs-says-twitch-streamer-alliestrasza",
           "author": null,
           "description": "\"I wrote them off,\" Twitch streamer Alliestrasza said of her initial thoughts on many early blockchain games. She tells Decrypt's Jason Nelson about how her perspective on Web3 games has evolved over time and now sees blockchain games getting significantly better.",
@@ -626,7 +626,7 @@
           "description": "MetalCore is an upcoming mech shooter developed by Studio 369, and it's being developed on Ethereum scaling network Immutable zkEVM. Decrypt contributor Ryan Gladwin played through the prologue and tested out the recent Alpha 3 online experience to get a sense of the NFT-infused mashup of Titanfall and Destiny.",
           "link": "https://decrypt.co/videos/live-events/tjK6i7lv/metalcore-game-preview-hands-on-with-the-titanfall-meets-destiny-nft-mashup",
           "publishedOn": "2023-08-04T19:46:06.000Z",
-          "wordCount": 6318,
+          "wordCount": 6285,
           "title": "'MetalCore' Game Preview: Hands-on With the 'Titanfall' Meets 'Destiny' NFT Mashup",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/tjK6i7lv/poster.jpg",
@@ -838,203 +838,203 @@
       "siteUrl": "https://cryptopanic.com/",
       "articles": [
         {
-          "id": "https://cryptopanic.com/news/18831878/Robinhood-Beats-Investors-Again-as-Appeal-Court-Upholds-Earlier-Rule-in-Meme-Stock-Trading-Suit",
+          "id": "https://cryptopanic.com/news/18832008/Rollbit-Coin-Continues-Supremacy-Over-Top-100-Cryptos-In-The-Last-Week",
           "author": null,
-          "description": "Coinspeaker Robinhood Beats Investors Again as Appeal Court Upholds Earlier Rule in Meme Stock Trading Suit Robinhood had earlier motioned for the arguments against it to be completely dismissed. Robinhood Beats Investors Again as Appeal Court Upholds Earlier Rule in Meme Stock Trading Suit",
-          "link": "https://cryptopanic.com/news/18831878/Robinhood-Beats-Investors-Again-as-Appeal-Court-Upholds-Earlier-Rule-in-Meme-Stock-Trading-Suit",
-          "publishedOn": "2023-08-11T12:19:31.000Z",
-          "wordCount": 595,
-          "title": "Robinhood Beats Investors Again as Appeal Court Upholds Earlier Rule in Meme Stock Trading Suit",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18831875/US-regulators-consider-regulating-political-deep-fakes-ahead-of-2024-election",
-          "author": null,
-          "description": "The Federal Election Commission in the U.S. unanimously voted to advance a petition to regulate political ads that use artificial intelligence.",
-          "link": "https://cryptopanic.com/news/18831875/US-regulators-consider-regulating-political-deep-fakes-ahead-of-2024-election",
-          "publishedOn": "2023-08-11T12:11:31.000Z",
-          "wordCount": 591,
-          "title": "US regulators consider regulating political deep fakes ahead of 2024 election",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18831856/Shiba-Inu-SHIB-Burn-Address-Value-Hits-41-Billion",
-          "author": null,
-          "description": "Biggest address on network is one that no one will ever claim",
-          "link": "https://cryptopanic.com/news/18831856/Shiba-Inu-SHIB-Burn-Address-Value-Hits-41-Billion",
-          "publishedOn": "2023-08-11T12:07:00.000Z",
-          "wordCount": 589,
-          "title": "Shiba Inu (SHIB) Burn Address Value Hits $4.1 Billion",
-          "imageUrl": "https://u.today/sites/default/files/styles/twitter/public/2023-08/e0523.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/18831858/There-Are-Several-Reasons-to-be-Bullish-on-Ethereum-Analyst",
-          "author": null,
-          "description": "It is hard not to be ridiculously bullish on Ethereum, says Mike Deutscher, a self-proclaimed crypto analyst and DeFi addict. Deutscher gave reasons for his position on the pioneer altcoin’s long-term leadership. According to Deutscher, one of the major reasons Ethereum will continue to grow is...",
-          "link": "https://cryptopanic.com/news/18831858/There-Are-Several-Reasons-to-be-Bullish-on-Ethereum-Analyst",
-          "publishedOn": "2023-08-11T12:06:49.000Z",
-          "wordCount": 590,
-          "title": "There Are Several Reasons to be Bullish on Ethereum: Analyst",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18831859/The-Price-of-XRP-Reached-50-on-This-Exchange-Market-Cap-Has-Become-Trillions-Of-Dollars",
-          "author": null,
-          "description": "Due to the pricing error of XRP's market cap, it briefly rose to trillions of dollars on this exchange, breaking a record. Continue Reading: The Price of XRP Reached $50 on This Exchange! Market Cap Has Become Trillions Of Dollars!",
-          "link": "https://cryptopanic.com/news/18831859/The-Price-of-XRP-Reached-50-on-This-Exchange-Market-Cap-Has-Become-Trillions-Of-Dollars",
-          "publishedOn": "2023-08-11T12:03:07.000Z",
-          "wordCount": 596,
-          "title": "The Price of XRP Reached $50 on This Exchange! Market Cap Has Become Trillions Of Dollars!",
-          "imageUrl": "https://www.bitcoinsistemi.com/wp-content/uploads/2022/01/xrp-yukselis.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/18831850/Aave-Community-Approves-Proposal-To-Acquire-5-Million-CRV",
-          "author": null,
-          "description": "The community behind Aave has voted in favor of a proposal that seeks to use 2 million USDT from the Aave DAO Treasury to acquire 5 million CRV to support the DeFi ecosystem.",
-          "link": "https://cryptopanic.com/news/18831850/Aave-Community-Approves-Proposal-To-Acquire-5-Million-CRV",
-          "publishedOn": "2023-08-11T12:03:05.000Z",
-          "wordCount": 589,
-          "title": "Aave Community Approves Proposal To Acquire 5 Million CRV",
-          "imageUrl": "https://en.ethereumworldnews.com/wp-content/uploads/2023/08/633ee3b889712fca0b43da1d_aave.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/18831824/Solana-Cuts-Saga-Price-By-40-But-Case-For-New-SOL-Yearly-High-Increases",
-          "author": null,
-          "description": "Solana Mobile, a subsidiary of Solana Labs, announced a significant 40% price reduction for its Saga smartphone, slashing the price from its initial $1,000 to a more affordable $599. This move comes just four months after the phone’s launch, sparking a flurry of reactions from the crypto...",
-          "link": "https://cryptopanic.com/news/18831824/Solana-Cuts-Saga-Price-By-40-But-Case-For-New-SOL-Yearly-High-Increases",
-          "publishedOn": "2023-08-11T12:00:05.000Z",
-          "wordCount": 594,
-          "title": "Solana Cuts Saga Price By 40%, But Case For New SOL Yearly High Increases",
-          "imageUrl": "https://www.newsbtc.com/wp-content/uploads/2023/08/solana.jpg?fit=1920%2C1065"
-        },
-        {
-          "id": "https://cryptopanic.com/news/18831825/Visa-unveils-experimental-solution-to-abstract-away-gas-fees",
-          "author": null,
-          "description": "Visa tested a solution to enable users to pay onchain gas fees on Ethereum’s Goerli testnet using account abstraction technology.",
-          "link": "https://cryptopanic.com/news/18831825/Visa-unveils-experimental-solution-to-abstract-away-gas-fees",
-          "publishedOn": "2023-08-11T11:55:17.000Z",
-          "wordCount": 589,
-          "title": "Visa unveils experimental solution to abstract away gas fees",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2023/08/visa-1200x675.jpeg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/18831815/How-rising-Bitcoin-dominance-invalidates-many-crypto-assumptions",
-          "author": null,
-          "description": "Key Takeaways Bitcoin dominance has risen above 50%, having started the year at 42% Traditionally, dominance falls while market prices are rising in the sector, marking the year 2023 out as unusual This hammers home how Bitcoin is still finding its feet, and why prudence needs to be taken when...",
-          "link": "https://cryptopanic.com/news/18831815/How-rising-Bitcoin-dominance-invalidates-many-crypto-assumptions",
-          "publishedOn": "2023-08-11T11:50:27.000Z",
-          "wordCount": 588,
-          "title": "How rising Bitcoin dominance invalidates many crypto assumptions",
-          "imageUrl": "https://coinjournal.net/wp-content/uploads/2022/09/1663858709624-489df696-35c7-4b9f-ae9c-24326f02ae2f.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/18831807/Canada-Pursues-a-Secure-Digital-Asset-Repository-as-Crypto-Crime-Surges",
-          "author": null,
-          "description": "As digital currency crimes escalate, the Royal Canadian Mounted Police (RCMP) and Shared Services Canada (SSC) have set their sights on a robust solution. They initiated a test for a centralized digital asset repository, aiming to safeguard seized cryptocurrencies and NFTs based on Ehereum,...",
-          "link": "https://cryptopanic.com/news/18831807/Canada-Pursues-a-Secure-Digital-Asset-Repository-as-Crypto-Crime-Surges",
-          "publishedOn": "2023-08-11T11:48:39.000Z",
-          "wordCount": 591,
-          "title": "Canada Pursues a Secure Digital Asset Repository as Crypto Crime Surges",
-          "imageUrl": "https://static.cryptobriefing.com/wp-content/uploads/2023/07/31062745/emilytonelli_someone_trying_to_steal_cartoon_cryptocurrency_fro_75dea8ff-cb2c-4113-ba1c-5a17c7d98aca-768x384.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/18831804/Blockchain-gaming-sees-300M-summer-funding-boost",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/18831804/Blockchain-gaming-sees-300M-summer-funding-boost",
-          "publishedOn": "2023-08-11T11:47:43.000Z",
-          "wordCount": null,
-          "title": "Blockchain gaming sees $300M summer funding boost",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18831810/PayPals-US-Dollar-Stablecoin-Will-Have-Massive-Impact-on-Ethereum-Says-Bloomberg-Crypto-Strategist",
-          "author": null,
-          "description": "Bloomberg Intelligence crypto market analyst Jamie Coutts predicts PayPal’s new PayPalUSD (PYUSD) stablecoin will have a huge impact on Ethereum (ETH). Coutts says that there is massive growth potential for Ethereum even if just a small percentage of PayPal’s existing customer base adopts the...",
-          "link": "https://cryptopanic.com/news/18831810/PayPals-US-Dollar-Stablecoin-Will-Have-Massive-Impact-on-Ethereum-Says-Bloomberg-Crypto-Strategist",
-          "publishedOn": "2023-08-11T11:45:54.000Z",
-          "wordCount": 594,
-          "title": "PayPal’s US Dollar Stablecoin Will Have Massive Impact on Ethereum, Says Bloomberg Crypto Strategist",
-          "imageUrl": "https://dailyhodl.com/wp-content/uploads/2023/08/Massive-Impact-on-Ethereum.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/18831814/If-You-Had-Invested-100-in-Bitcoin-When-The-Good-Wifes-Alicia-Florrick-Discovered-Its-Worth-Heres-How-Much-Would-You-Have-Now",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/18831814/If-You-Had-Invested-100-in-Bitcoin-When-The-Good-Wifes-Alicia-Florrick-Discovered-Its-Worth-Heres-How-Much-Would-You-Have-Now",
-          "publishedOn": "2023-08-11T11:41:38.000Z",
-          "wordCount": null,
-          "title": "If You Had Invested $100 in Bitcoin When The Good Wife's Alicia Florrick Discovered Its Worth, Here's How Much Would You Have Now",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18831794/29-Billion-SHIB-Transferred-to-and-From-Major-Exchanges-in-Past-Hour",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/18831794/29-Billion-SHIB-Transferred-to-and-From-Major-Exchanges-in-Past-Hour",
-          "publishedOn": "2023-08-11T11:39:00.000Z",
-          "wordCount": null,
-          "title": "29 Billion SHIB Transferred to and From Major Exchanges in Past Hour",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18831806/170M-Bridged-to-Coinbase-Layer-2-Base-as-Daily-Active-Users-Hit-136000",
-          "author": null,
-          "description": "The new chain has entered the top five layer-2 networks by total amount bridged, while daily active users hit 136,000.",
-          "link": "https://cryptopanic.com/news/18831806/170M-Bridged-to-Coinbase-Layer-2-Base-as-Daily-Active-Users-Hit-136000",
-          "publishedOn": "2023-08-11T11:38:46.000Z",
+          "description": "Within the select group of the top 100 cryptocurrencies at the moment, Rollbit Coin (RLB) stands out as the best-performing project. The token has impressively increased by an astonishing 113% in the last week alone, and its daily performance charts also show an equally impressive gain of 30%....",
+          "link": "https://cryptopanic.com/news/18832008/Rollbit-Coin-Continues-Supremacy-Over-Top-100-Cryptos-In-The-Last-Week",
+          "publishedOn": "2023-08-11T13:05:50.000Z",
           "wordCount": 592,
-          "title": "$170M Bridged to Coinbase Layer-2 Base as Daily Active Users Hit 136,000",
-          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2023/02/coinbase-free-base-nft-gID_7.png"
+          "title": "Rollbit Coin Continues Supremacy Over Top 100 Cryptos In The Last Week",
+          "imageUrl": "https://www.newsbtc.com/wp-content/uploads/2023/08/a-56.png?fit=849%2C473"
         },
         {
-          "id": "https://cryptopanic.com/news/18831784/Worldcoin-opens-up-WLD-reservations-for-unverified-users",
+          "id": "https://cryptopanic.com/news/18832005/Canadas-Central-Bank-Report-Shows-Difficulties-in-CBDC-Adoption",
           "author": null,
-          "description": "Worldcoin project has remained controversial right from its announcement and is currently facing regulatory trouble in multiple jurisdictions where it has launched.",
-          "link": "https://cryptopanic.com/news/18831784/Worldcoin-opens-up-WLD-reservations-for-unverified-users",
-          "publishedOn": "2023-08-11T11:37:00.000Z",
-          "wordCount": 588,
-          "title": "Worldcoin opens up WLD reservations for unverified users",
+          "description": "The Central Bank of Canada has released a report highlighting the bottlenecks for CBDC adoption in the pilot program.",
+          "link": "https://cryptopanic.com/news/18832005/Canadas-Central-Bank-Report-Shows-Difficulties-in-CBDC-Adoption",
+          "publishedOn": "2023-08-11T13:05:00.000Z",
+          "wordCount": 589,
+          "title": "Canada’s Central Bank Report Shows Difficulties in CBDC Adoption",
           "imageUrl": null
         },
         {
-          "id": "https://cryptopanic.com/news/18831788/Bittrexs-24-Million-Settlement-SEC-Continues-Its-Regulatory-Offensive-Against-Crypto",
+          "id": "https://cryptopanic.com/news/18832011/Crazy-Bitcoin-Cycle-Theory",
           "author": null,
-          "description": "Bittrex reaches an agreement with the SEC to avoid further legal issues. Is the SEC just strengthening its crusade?",
-          "link": "https://cryptopanic.com/news/18831788/Bittrexs-24-Million-Settlement-SEC-Continues-Its-Regulatory-Offensive-Against-Crypto",
-          "publishedOn": "2023-08-11T11:35:54.000Z",
+          "description": "Bitcoin has stalled, but here are some BTC price charts that give hope.🎧 FULL PODCAST EPISODE 👉 https://podcasters.spotify.com/pod/dashboard/episode/e27fr2f 🔥 GET MY FREE NEWSLETTER 👉 https://cryptolark.co/WEALTHMASTERY💸 BYBIT $30,030 BONUS & FEE DISCOUNT 👉 https://cryptolark.co/BYBIT💡💡💡...",
+          "link": "https://cryptopanic.com/news/18832011/Crazy-Bitcoin-Cycle-Theory",
+          "publishedOn": "2023-08-11T13:00:34.000Z",
+          "wordCount": 584,
+          "title": "Crazy Bitcoin Cycle Theory",
+          "imageUrl": "https://i3.ytimg.com/vi/Z7Oqc8uFeG4/hqdefault.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/18832002/The-next-big-leap-for-Ethereum-liquid-staking-The-staking-landscape",
+          "author": null,
+          "description": "It is essential that we engage in extensive research and relentlessly test and build solutions that help solve these challenges and build a resilient architecture.",
+          "link": "https://cryptopanic.com/news/18832002/The-next-big-leap-for-Ethereum-liquid-staking-The-staking-landscape",
+          "publishedOn": "2023-08-11T13:00:00.000Z",
           "wordCount": 591,
-          "title": "Bittrex’s $24 Million Settlement: SEC Continues Its Regulatory Offensive Against Crypto",
+          "title": "The next big leap for Ethereum liquid staking: The staking landscape",
           "imageUrl": null
         },
         {
-          "id": "https://cryptopanic.com/news/18831761/Ethereum-Statement-from-Payment-Giant-Visa",
+          "id": "https://cryptopanic.com/news/18831986/Ripple-Strike-Back-at-SEC-Appeal-Move-Predicted-by-Legal-Expert-Here-Are-Two-Options",
           "author": null,
-          "description": "Global payment technology giant Visa has announced that its test on the Ethereum network has been successful. Continue Reading: Ethereum Statement from Payment Giant Visa!",
-          "link": "https://cryptopanic.com/news/18831761/Ethereum-Statement-from-Payment-Giant-Visa",
-          "publishedOn": "2023-08-11T11:20:06.000Z",
-          "wordCount": 586,
-          "title": "Ethereum Statement from Payment Giant Visa!",
-          "imageUrl": "https://www.bitcoinsistemi.com/wp-content/uploads/2023/01/Visa-Ethereum.jpg"
+          "description": "Showdown predicted by legal expert as SEC faces hurdles in next move",
+          "link": "https://cryptopanic.com/news/18831986/Ripple-Strike-Back-at-SEC-Appeal-Move-Predicted-by-Legal-Expert-Here-Are-Two-Options",
+          "publishedOn": "2023-08-11T13:00:00.000Z",
+          "wordCount": 595,
+          "title": "Ripple Strike Back at SEC Appeal Move Predicted by Legal Expert, Here Are Two Options",
+          "imageUrl": "https://u.today/sites/default/files/styles/twitter/public/2023-08/e0521.jpg"
         },
         {
-          "id": "https://cryptopanic.com/news/18831756/Shibarium-Sentiment-Fuels-27-BAD-Rally-Heres-Next-Target",
+          "id": "https://cryptopanic.com/news/18831983/Bakkt-brings-focus-back-to-crypto-custody-in-Q2-earnings",
+          "author": null,
+          "description": "Crypto services firm Bakkt renews emphasis on crypto custody following market events and increasing client interest.",
+          "link": "https://cryptopanic.com/news/18831983/Bakkt-brings-focus-back-to-crypto-custody-in-Q2-earnings",
+          "publishedOn": "2023-08-11T12:56:23.000Z",
+          "wordCount": 590,
+          "title": "Bakkt brings focus back to crypto custody in Q2 earnings",
+          "imageUrl": "https://www.tbstat.com/wp/uploads/2019/07/safe-custody-savings-1200x675.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/18831952/PayPal-PYUSD-Stablecoin-Launch-Sparks-Response-From-Regulators",
+          "author": null,
+          "description": "Since launching on August 7, Paypal’s stablecoin PYUSD hasn’t received the best of welcomes. From centralization concerns to regulatory scrutiny, there are signs to suggest that the stablecoin might have a hard time settling in, and a recent development further cements this belief. Fed’s Warning...",
+          "link": "https://cryptopanic.com/news/18831952/PayPal-PYUSD-Stablecoin-Launch-Sparks-Response-From-Regulators",
+          "publishedOn": "2023-08-11T12:45:59.000Z",
+          "wordCount": 588,
+          "title": "PayPal PYUSD Stablecoin Launch Sparks Response From Regulators",
+          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2023/08/muhammad-asyfaul-f2tNsobMisQ-unsplash-880x660.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/18831960/SEC-decision-on-Bitcoin-ETF-may-be-announced-today-What-it-means-for-BTC",
           "author": null,
           "description": "",
-          "link": "https://cryptopanic.com/news/18831756/Shibarium-Sentiment-Fuels-27-BAD-Rally-Heres-Next-Target",
-          "publishedOn": "2023-08-11T11:12:00.000Z",
+          "link": "https://cryptopanic.com/news/18831960/SEC-decision-on-Bitcoin-ETF-may-be-announced-today-What-it-means-for-BTC",
+          "publishedOn": "2023-08-11T12:45:23.000Z",
           "wordCount": null,
-          "title": "Shibarium Sentiment Fuels 27% BAD Rally, Here's Next Target",
+          "title": "SEC decision on Bitcoin ETF may be announced today; What it means for BTC?",
           "imageUrl": null
         },
         {
-          "id": "https://cryptopanic.com/news/18831730/HSBC-Criticized-For-Limiting-Crypto-Transfers",
+          "id": "https://cryptopanic.com/news/18831956/Canada-to-Create-Solutions-for-Storing-Seized-Crypto-Assets",
           "author": null,
           "description": "",
-          "link": "https://cryptopanic.com/news/18831730/HSBC-Criticized-For-Limiting-Crypto-Transfers",
-          "publishedOn": "2023-08-11T11:05:43.000Z",
+          "link": "https://cryptopanic.com/news/18831956/Canada-to-Create-Solutions-for-Storing-Seized-Crypto-Assets",
+          "publishedOn": "2023-08-11T12:45:19.000Z",
           "wordCount": null,
-          "title": "HSBC Criticized For Limiting Crypto Transfers",
+          "title": "Canada to Create Solutions for Storing Seized Crypto Assets",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18831954/Is-Cardano-a-ghost-chain-No-Just-extremely-overvalued",
+          "author": null,
+          "description": "Cardano has been criticized as one of the biggest ghost chains in the industry. But its metrics shows that its network activity is doing well. Cardano, one of the most popular blockchains, is also a highly controversial one as concerns about its ecosystem growth remain. Some crypto watchers...",
+          "link": "https://cryptopanic.com/news/18831954/Is-Cardano-a-ghost-chain-No-Just-extremely-overvalued",
+          "publishedOn": "2023-08-11T12:44:23.000Z",
+          "wordCount": 589,
+          "title": "Is Cardano a ghost chain? No. Just extremely overvalued",
+          "imageUrl": "https://coinjournal.net/wp-content/uploads/1970/01/1676584241377-4a6c300c-577b-4bf1-9a25-850d33f24406.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/18831961/Weekly-Market-Wrap-Can-Bitcoin-close-the-week-above-US29300",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/18831961/Weekly-Market-Wrap-Can-Bitcoin-close-the-week-above-US29300",
+          "publishedOn": "2023-08-11T12:41:21.000Z",
+          "wordCount": null,
+          "title": "Weekly Market Wrap: Can Bitcoin close the week above US$29,300?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18831923/Worldcoin-Down-25-Over-Last-Week-Amid-More-Regulatory-Action",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/18831923/Worldcoin-Down-25-Over-Last-Week-Amid-More-Regulatory-Action",
+          "publishedOn": "2023-08-11T12:38:37.000Z",
+          "wordCount": null,
+          "title": "Worldcoin Down 25% Over Last Week Amid More Regulatory Action",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18831915/Billionaires-clash-Can-you-pay-in-crypto-to-watch-Musk-vs-Zuckerberg-fight",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/18831915/Billionaires-clash-Can-you-pay-in-crypto-to-watch-Musk-vs-Zuckerberg-fight",
+          "publishedOn": "2023-08-11T12:38:08.000Z",
+          "wordCount": null,
+          "title": "Billionaires’ clash: Can you pay in crypto to watch Musk vs. Zuckerberg fight?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18831916/What-if-El-Salvador-had-bought-Ethereum-over-Bitcoin",
+          "author": null,
+          "description": "El Salvador — a 21.041 km² republic in Central America — made history by being the first country to officially … Continued",
+          "link": "https://cryptopanic.com/news/18831916/What-if-El-Salvador-had-bought-Ethereum-over-Bitcoin",
+          "publishedOn": "2023-08-11T12:36:43.000Z",
+          "wordCount": 589,
+          "title": "What if El Salvador had bought Ethereum over Bitcoin?",
+          "imageUrl": "https://finbold.com/app/uploads/2023/08/NayibBukele-ElSalvador.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/18831912/VISA-Allows-Users-to-Pay-Ethereum-Gas-Fees-via-Credit-Card",
+          "author": null,
+          "description": "Coinspeaker VISA Allows Users to Pay Ethereum Gas Fees via Credit Card Visa's solution revolves around Ethereum's ERC-4337 account abstraction standard and the utilization of a \"paymaster\" smart contract feature which allows off-chain settlements of gas fees. VISA Allows Users to Pay Ethereum...",
+          "link": "https://cryptopanic.com/news/18831912/VISA-Allows-Users-to-Pay-Ethereum-Gas-Fees-via-Credit-Card",
+          "publishedOn": "2023-08-11T12:35:26.000Z",
+          "wordCount": 591,
+          "title": "VISA Allows Users to Pay Ethereum Gas Fees via Credit Card",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18831921/BREAKING-US-PPI-Data-Announced-What-Was-The-Initial-Reaction-Of-Bitcoin-And-The-Dollar",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/18831921/BREAKING-US-PPI-Data-Announced-What-Was-The-Initial-Reaction-Of-Bitcoin-And-The-Dollar",
+          "publishedOn": "2023-08-11T12:32:05.000Z",
+          "wordCount": null,
+          "title": "BREAKING! US PPI Data Announced! What Was The Initial Reaction Of Bitcoin And The Dollar?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18831908/Coinbase-Layer-2-Base-Overtakes-Optimism-in-Daily-Active-Users-as-FriendTech-Hype-Soars",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/18831908/Coinbase-Layer-2-Base-Overtakes-Optimism-in-Daily-Active-Users-as-FriendTech-Hype-Soars",
+          "publishedOn": "2023-08-11T12:30:18.000Z",
+          "wordCount": null,
+          "title": "Coinbase Layer 2 Base Overtakes Optimism in Daily Active Users as Friend.Tech Hype Soars",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18831898/Web3-Games-on-the-Rise-297-Million-Investment-Pours-Into-Gaming",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/18831898/Web3-Games-on-the-Rise-297-Million-Investment-Pours-Into-Gaming",
+          "publishedOn": "2023-08-11T12:29:00.000Z",
+          "wordCount": null,
+          "title": "Web3 Games on the Rise; $297 Million Investment Pours Into Gaming",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18831909/First-Mover-Americas-A-Head-and-Shoulders-Case-for-Altcoins",
+          "author": null,
+          "description": "The latest price moves in bitcoin (BTC) and crypto markets in context for August 2, 2023. First Mover is CoinDesk’s daily newsletter that contextualizes the latest actions in the crypto markets.",
+          "link": "https://cryptopanic.com/news/18831909/First-Mover-Americas-A-Head-and-Shoulders-Case-for-Altcoins",
+          "publishedOn": "2023-08-11T12:26:11.000Z",
+          "wordCount": 588,
+          "title": "First Mover Americas: A 'Head-and-Shoulders' Case for Altcoins",
+          "imageUrl": "https://www.coindesk.com/resizer/3-BqxFUyzu5D9_D3Z-UJnHs5as4=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/F5ZC7OLIURHE3CNUQ4KWPHJTTU.png"
+        },
+        {
+          "id": "https://cryptopanic.com/news/18831886/Binance-applies-for-Taiwan-AML-compliance-Report",
+          "author": null,
+          "description": "The world’s leading crypto exchange by trading volume has reportedly applied to register in Taiwan under the new AML compliance.",
+          "link": "https://cryptopanic.com/news/18831886/Binance-applies-for-Taiwan-AML-compliance-Report",
+          "publishedOn": "2023-08-11T12:25:37.000Z",
+          "wordCount": 587,
+          "title": "Binance applies for Taiwan AML compliance: Report",
           "imageUrl": null
         }
       ]
@@ -1045,12 +1045,57 @@
       "siteUrl": "https://www.inoreader.com/stream/user/1005336866/tag/%E6%B5%B7%E5%A4%96%E5%8A%A0%E5%AF%86%E8%B5%84%E8%AE%AF/view/html",
       "articles": [
         {
+          "id": "http://www.inoreader.com/article/3a9c6e755d8e9ee4",
+          "author": "Scott Matherson",
+          "description": "Since launching on August 7, Paypal’s stablecoin PYUSD hasn’t received the best of welcomes. From centralization concerns to regulatory scrutiny, there are signs to suggest that the stablecoin might have a hard time settling in, and a recent development further cements this belief. \n \nFed’s Warning To Banks\n \nIn a letter dated August 8, the Federal Reserve further stipulated guidelines for state member banks that may be looking to issue, offer, and trade dollar-backed stablecoins. Recall that the Fed had initially, in a press release, provided that supervised-state banks had to demonstrate to the Federal Reserve supervisors that it had put “appropriate safeguards” in place to conduct stablecoin-related transactions safely and soundly. \n \n \nAccording to the Fed, these banks must first recei…",
+          "link": "https://bitcoinist.com/paypal-pyusd-stablecoin-regulators/",
+          "publishedOn": "2023-08-11T12:49:13.000Z",
+          "wordCount": 5315,
+          "title": "PayPal PYUSD Stablecoin Launch Sparks Response From Regulators",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/jpeg",
+            "url": "https://bitcoinist.com/wp-content/uploads/2023/08/muhammad-asyfaul-f2tNsobMisQ-unsplash-560x420.jpg"
+          },
+          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2023/08/muhammad-asyfaul-f2tNsobMisQ-unsplash-560x420.jpg"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e755d8f9abd",
+          "author": "Oliver Knight",
+          "description": "A grayed-out \"airdrop\" icon at the top of the Friend.Tech app suggests the platform will release a token.",
+          "link": "https://www.coindesk.com/markets/2023/08/11/coinbase-layer-2-base-overtakes-optimism-in-daily-active-users-as-friendtech-hype-soars/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2023-08-11T12:41:17.000Z",
+          "wordCount": 6800,
+          "title": "Coinbase Layer 2 Base Overtakes Optimism in Daily Active Users as Friend.Tech Hype Soars",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/png",
+            "url": "https://www.coindesk.com/resizer/mjscfQMrJy4ef6xw0iunKTZ-N8U=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/Z66J5E72EFHHFELQFZLNUAVEA4.png"
+          },
+          "imageUrl": "https://www.coindesk.com/resizer/mjscfQMrJy4ef6xw0iunKTZ-N8U=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/Z66J5E72EFHHFELQFZLNUAVEA4.png"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e755d8f9ab6",
+          "author": "Lyllah Ledesma, Omkar Godbole",
+          "description": "The latest price moves in bitcoin (BTC) and crypto markets in context for August 2, 2023. First Mover is CoinDesk’s daily newsletter that contextualizes the latest actions in the crypto markets.",
+          "link": "https://www.coindesk.com/markets/2023/08/11/a-head-and-shoulders-case-for-altcoins/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2023-08-11T12:41:17.000Z",
+          "wordCount": 7514,
+          "title": "First Mover Americas: A 'Head-and-Shoulders' Case for Altcoins",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/png",
+            "url": "https://www.coindesk.com/resizer/aItA5BrJq1WzW8BqSp7wjsjgLzo=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/F5ZC7OLIURHE3CNUQ4KWPHJTTU.png"
+          },
+          "imageUrl": "https://www.coindesk.com/resizer/aItA5BrJq1WzW8BqSp7wjsjgLzo=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/F5ZC7OLIURHE3CNUQ4KWPHJTTU.png"
+        },
+        {
           "id": "http://www.inoreader.com/article/3a9c6e755d762ee0",
           "author": "Christian Encila",
           "description": "Worldcoin, a well-known cryptocurrency project, has been the subject of a detailed investigation by the Argentinean Agency for Access to Public Information (AAIP). This action is a part of a larger trend in which other nations around the world are looking into the project’s operations.\n \nThe AAIP’s study is primarily concerned with thoroughly assessing the data security procedures put in place by Worldcoin. The primary goal of the AAIP is to protect user privacy within Argentina’s boundaries.\n \nThe controversy surrounding Worldcoin’s practice of requesting iris scans from people in exchange for tokens has brought attention to this case. Numerous locations in Buenos Aires City and several regions have recorded these events.\n \n \nWorldcoin’s Legal Obligations\n \nOrganizations like Worldcoin ar…",
           "link": "https://bitcoinist.com/argentina-probes-worldcoin-operations/",
           "publishedOn": "2023-08-11T11:49:39.000Z",
-          "wordCount": 5410,
+          "wordCount": 5412,
           "title": "Worldcoin Faces Increased Regulatory Scrutiny As Argentina Probes Operations",
           "enclosure": {
             "length": "1337",
@@ -1075,7 +1120,7 @@
           "description": "Investors are likely indifferent to which stablecoins they hold as long as they are perceived as safe and accessible on the largest trading platforms, the report said.",
           "link": "https://www.coindesk.com/business/2023/08/11/paypals-stablecoin-unlikely-to-see-significant-adoption-in-the-near-term-bank-of-america/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-08-11T11:24:19.000Z",
-          "wordCount": 7190,
+          "wordCount": 7254,
           "title": "PayPal’s Stablecoin Unlikely to See Significant Adoption in the Near Term: Bank of America",
           "enclosure": {
             "length": "1337",
@@ -1100,7 +1145,7 @@
           "description": "Central Bank Digital Currencies (CBDCs) have been gaining prominence around the world over the last couple of years and Canada has not been left out. However, unlike some countries where these central bank-issued digital currencies seem to be picking up steam, Canadians have not been as welcoming. To this end, the Bank of Canada has carried out a new study to figure out what the hindrances are when it comes to CBDC adoption in the country.\n \nThe Roadblocks To CBDC Adoption\n \nIn the discussion paper titled “Unmet Payment Needs and a Central Bank Digital Currency,” the Bank of Canada highlights that one of the prominent factors serving as a hindrance to CBDC adoption in the country is that Canadians do not really have a need to.\n \n \nIn contrast to underdeveloped and developing countries wher…",
           "link": "https://bitcoinist.com/canadian-bank-drawbacks-to-cbdc-adoption/",
           "publishedOn": "2023-08-11T10:50:07.000Z",
-          "wordCount": 5403,
+          "wordCount": 5405,
           "title": "Canadian Bank’s Report Reveals Drawbacks To CBDC Adoption",
           "enclosure": {
             "length": "1337",
@@ -1115,7 +1160,7 @@
           "description": "An inverse head-and-shoulders pattern, one of the most trusted indicators known to presage major price rallies, is building in the altcoin market.",
           "link": "https://www.coindesk.com/markets/2023/08/11/altcoin-season-is-coming-technical-analysis-suggests/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-08-11T10:28:54.000Z",
-          "wordCount": 7501,
+          "wordCount": 7570,
           "title": "'Altcoin Season' is Coming, Technical Analysis Suggests",
           "enclosure": {
             "length": "1337",
@@ -1130,7 +1175,7 @@
           "description": "In a strategic move that mirrors recent actions by Valkyrie Funds, Bitwise Invest has filed an updated prospectus to transition its Bitcoin futures ETF (BITC) into the “Bitwise Bitcoin and Ethereum Equal Weight Strategy ETF”. This shift, set to take effect on October 9, 2023, is seen by many as a tactical play in the race to establish the first Ethereum Futures ETF in the US.\n \nBitwise Skips The Ethereum ETF Queue\n \nJames Seyffart, a Bloomberg ETF analyst, remarked on the development, stating, “Bitwise Invest just filed an updated prospectus to change BITC from a Bitcoin futures ETF to the Bitwise Bitcoin and Ether Equal Weight Strategy ETF. This is like the move that Valkyrie Funds pulled a few days ago. The effective date here would be 10/9/23.” Seyffart had previously commented on Valky…",
           "link": "https://bitcoinist.com/bitwise-valkyrie-new-era-bitcoin-ethereum-etfs/",
           "publishedOn": "2023-08-11T09:49:44.000Z",
-          "wordCount": 5522,
+          "wordCount": 5524,
           "title": "Bitwise Follows Valkyrie’s Lead: A New Era For Bitcoin And Ethereum ETFs",
           "enclosure": {
             "length": "1337",
@@ -1145,7 +1190,7 @@
           "description": "A crypto security breach has exposed a significant vulnerability within the Libbitcoin Explorer 3.x library, resulting in the illicit withdrawal of more than $900,000 from Bitcoin users’ accounts. The breach was detailed in a recent report by SlowMist, a blockchain security firm.\n \nThe targeted software, Libbitcoin Bitcoin Explorer, is a command-line tool extensively employed for various Bitcoin operations, including generating cryptographic keys and overseeing transactions. By sidestepping the requirement for a complete node, the utility facilitates engagement with the Bitcoin network, catering to developers and adept users.\n \n \nOf particular concern is the widespread reliance on the Libbitcoin Explorer by numerous cryptocurrency wallets for deriving private key entropy. This breach has e…",
           "link": "https://bitcoinist.com/crypto-breach-hackers-make-off-with-900k/",
           "publishedOn": "2023-08-11T08:49:34.000Z",
-          "wordCount": 5417,
+          "wordCount": 5419,
           "title": "Crypto Security Breach: Hackers Exploit Bitcoin Wallet Vulnerability, Make Off With $900K",
           "enclosure": {
             "length": "1337",
@@ -1170,7 +1215,7 @@
           "description": "The tokens were up as much as 5% in the past 24 hours, bucking a market-wide trend.",
           "link": "https://www.coindesk.com/markets/2023/08/11/shiba-inu-bucks-crypto-market-lull-ahead-of-shibarium-deployment/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-08-11T08:20:54.000Z",
-          "wordCount": 7553,
+          "wordCount": 7613,
           "title": "Shiba Inu Bucks Bitcoin Snoozefest Ahead of Shibarium Deployment",
           "enclosure": {
             "length": "1337",
@@ -1185,7 +1230,7 @@
           "description": "Low liquidity after the token’s relisting likely caused a temporary pricing glitch on the exchange.",
           "link": "https://www.coindesk.com/markets/2023/08/11/xrps-market-cap-momentarily-zoomed-to-trillions-of-dollars-on-gemini/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-08-11T07:43:54.000Z",
-          "wordCount": 7164,
+          "wordCount": 7220,
           "title": "XRP's Market Cap Momentarily Zoomed to Trillions of Dollars on Gemini",
           "enclosure": {
             "length": "1337",
@@ -1200,7 +1245,7 @@
           "description": "The legal battle between Ripple and the U.S. Securities and Exchange Commission (SEC) has been a focal point for the crypto community, and the recent developments have only intensified the spotlight. The SEC’s request for an interlocutory appeal has stirred a whirlwind of analysis, with legal experts weighing in on the potential outcomes and their broader implications. Drawing from the insights of the lawyers James “MetaLawMan” Murphy, Bryan Jacoutot and Bill Morgan, let’s dissect the possible scenarios that could play out.\n \nScenario 1: Ripple Opposes the Interlocutory Appeal\n \nMetaLawMan’s analysis suggests that Ripple’s first option is to oppose the motion to certify the appeal. The foundation of this stance is Ripple’s unwavering confidence in the correctness of Judge Torres’ decision.…",
           "link": "https://bitcoinist.com/ripple-sec-3-scenarios-what-could-be-next/",
           "publishedOn": "2023-08-11T06:46:41.000Z",
-          "wordCount": 5691,
+          "wordCount": 5693,
           "title": "Ripple Vs. SEC: 3 Scenarios What Could Be Next",
           "enclosure": {
             "length": "1337",
@@ -1215,7 +1260,7 @@
           "description": "The index has a solid track record of shifts in the bitcoin market trend.",
           "link": "https://www.coindesk.com/markets/2023/08/11/matrixports-bitcoin-greed-and-fear-index-indicates-upswing-ahead/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-08-11T06:43:19.000Z",
-          "wordCount": 7156,
+          "wordCount": 7221,
           "title": "Matrixport's Bitcoin Greed and Fear Index Indicates Upswing Ahead",
           "enclosure": {
             "length": "1337",
@@ -1250,7 +1295,7 @@
           "description": "Modest Consumer Price Index (CPI) numbers mean that the chance of another rate hike is dwindling.",
           "link": "https://www.coindesk.com/markets/2023/08/11/first-mover-asia-bitcoin-is-cpi-resistant/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-08-11T02:44:00.000Z",
-          "wordCount": 9337,
+          "wordCount": 9426,
           "title": "First Mover Asia: Bitcoin is CPI Resistant",
           "enclosure": {
             "length": "1337",
@@ -1268,51 +1313,6 @@
           "wordCount": 255,
           "title": "SEC Could Approve Spot Bitcoin ETF Within 6 Months, Says Mike Novogratz",
           "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2023/08/novogratz-bitcoin-etf.jpg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e755d4b07d6",
-          "author": "Ronaldo Marquez",
-          "description": "Gemini, the US-based crypto exchange, announced its support for XRP following Ripple’s recent legal breakthrough. \n \nGemini Enables XRP Deposits\n \nEffective immediately, Gemini users can deposit XRP tokens on the platform. This decision comes after a prolonged absence due to the legal battle between Ripple Labs and the U.S. Securities and Exchange Commission (SEC). \n \n \nIn December 2020, the SEC filed a lawsuit against Ripple Labs, alleging that the company conducted an unregistered securities offering by selling XRP tokens. \n \nConsequently, several leading cryptocurrency exchanges, including Gemini, decided to delist XRP from their trading platforms to mitigate any potential regulatory risks. This move left XRP holders and traders uncertain about the future of the digital asset.\n \nHowever…",
-          "link": "https://bitcoinist.com/gemini-adds-xrp-to-its-crypto-lineup-post-victory/",
-          "publishedOn": "2023-08-11T01:42:54.000Z",
-          "wordCount": 5483,
-          "title": "Gemini Adds XRP To Its Crypto Lineup Post-Court Victory",
-          "enclosure": {
-            "length": "1337",
-            "type": "image/jpeg",
-            "url": "https://bitcoinist.com/wp-content/uploads/2023/08/iStock-933090786-1-629x420.jpg"
-          },
-          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2023/08/iStock-933090786-1-629x420.jpg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e755d36deff",
-          "author": "Andrés Engler",
-          "description": "The investigation began after numerous data collections in five major jurisdictions of the country, the Argentinian Agency for Access to Public Information said.",
-          "link": "https://www.coindesk.com/policy/2023/08/10/worldcoin-regulatory-scrutiny-grows-as-argentina-opens-investigation/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-          "publishedOn": "2023-08-11T00:53:25.000Z",
-          "wordCount": 7025,
-          "title": "Worldcoin Regulatory Scrutiny Grows as Argentina Opens Investigation",
-          "enclosure": {
-            "length": "1337",
-            "type": "image/jpeg",
-            "url": "https://www.coindesk.com/resizer/Nta4bieQCxyosajDtFC4DDaGSoY=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/7YTRUWTN5RHTZPZBD5HLH4TVOQ.jpeg"
-          },
-          "imageUrl": "https://www.coindesk.com/resizer/Nta4bieQCxyosajDtFC4DDaGSoY=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/7YTRUWTN5RHTZPZBD5HLH4TVOQ.jpeg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e755d36def6",
-          "author": "Amitoj Singh",
-          "description": "The Indian Ministry of Electronics and Information Technology (MeitY) wants to have the ability to use crypto tokens to digitally sign documents in a new indigenous web browser.",
-          "link": "https://www.coindesk.com/policy/2023/08/10/india-wants-to-use-crypto-tokens-to-digitally-sign-documents/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-          "publishedOn": "2023-08-11T00:53:25.000Z",
-          "wordCount": 7122,
-          "title": "India Wants to Use Crypto Tokens to Digitally Sign Documents",
-          "enclosure": {
-            "length": "1337",
-            "type": "image/jpeg",
-            "url": "https://www.coindesk.com/resizer/Oy4Nbdq6VVmnmqNQC-2A3iGi4Ns=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/Y3B4NGQDNNGPDEASFFHGPDZMZY.jpg"
-          },
-          "imageUrl": "https://www.coindesk.com/resizer/Oy4Nbdq6VVmnmqNQC-2A3iGi4Ns=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/Y3B4NGQDNNGPDEASFFHGPDZMZY.jpg"
         }
       ]
     }

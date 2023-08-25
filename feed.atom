@@ -1,10 +1,113 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-25T18:17:39.561Z</id>
+    <id>urn:2023-08-25T19:11:24.502Z</id>
     <title>web3::cave</title>
-    <updated>2023-08-25T18:17:39.561Z</updated>
+    <updated>2023-08-25T19:11:24.502Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Jackson Hole: Where Fed Policy Is Decided on the Fly]]></title>
+        <id>http://www.inoreader.com/article/3a9c6e755530caa9</id>
+        <link href="https://www.coindesk.com/consensus-magazine/2023/08/25/jackson-hole-where-fed-policy-is-decided-on-the-fly/?utm_medium=referral&amp;utm_source=rss&amp;utm_campaign=headlines"/>
+        <updated>2023-08-25T18:58:05.000Z</updated>
+        <summary type="html"><![CDATA[Does the relative stability of Bitcoin inspire any more confidence?]]></summary>
+        <author>
+            <name>Daniel Kuhn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FTX, BlockFI and Genesis’ Customer Data Exposed in “SIM Swapping Attack”]]></title>
+        <id>http://www.inoreader.com/article/3a9c6e75553267f4</id>
+        <link href="https://www.financemagnates.com//cryptocurrency/ftx-blockfi-and-genesis-customer-data-exposed-in-sim-swapping-attack/"/>
+        <updated>2023-08-25T18:42:04.000Z</updated>
+        <summary type="html"><![CDATA[Customer  
+data of bankrupt crypto exchange, FTX, and insolvent digital asset lenders  
+BlockFi and Genesis, were exposed earlier this month, Kroll, the vendor responsible  
+for overseeing creditor claims for the insolvent businesses, confirmed  
+today (Friday).
+FTX,  
+BlockFi, Genesis Hit by Data Leak
+In a  
+statement, Kroll explained that the hack was the result of a “highly  
+sophisticated SIM swapping attack” targeted at the T-Mobile US account of one  
+of its employees. T-Mobile is a mobile network operator. 
+A SIM  
+swapping attack is a type of phone fraud in which a hacker deceives a mobile  
+service provider into redirecting their target's phone number to a SIM card  
+they control. This grants the hacker access to the victim's incoming text  
+messages and calls, including those use…]]></summary>
+        <author>
+            <name>Solomon Oladipupo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shiba Inu (SHIB) Layer-2 Protocol Shibarium Relaunch Reaches 50,000 Wallets, Spurs BONE Rally]]></title>
+        <id>https://cryptopanic.com/news/18860226/Shiba-Inu-SHIB-Layer-2-Protocol-Shibarium-Relaunch-Reaches-50000-Wallets-Spurs-BONE-Rally</id>
+        <link href="https://cryptopanic.com/news/18860226/Shiba-Inu-SHIB-Layer-2-Protocol-Shibarium-Relaunch-Reaches-50000-Wallets-Spurs-BONE-Rally"/>
+        <updated>2023-08-25T18:41:42.000Z</updated>
+        <summary type="html"><![CDATA[The relaunch of memecoin Shiba Inu’s (SHIB) layer-2 scaling solution Shibarium has reached over 50,000 wallets, sparking a rally for Bone ShibaSwap (BONE), the token associated with paying the protocol’s gas fees. Shibarium, which launched earlier this month, experienced technical difficulties...]]></summary>
+        <author>
+            <name>News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Powell: More Rate Hikes May Be Needed to Curb Inflation]]></title>
+        <id>http://www.inoreader.com/article/3a9c6e75553299cb</id>
+        <link href="https://news.bitcoin.com/powell-more-rate-hikes-may-be-needed-to-curb-inflation/"/>
+        <updated>2023-08-25T18:40:47.000Z</updated>
+        <summary type="html"><![CDATA[The chairman of the U.S. Federal Reserve, Jerome Powell, warned on Friday that inflation remains too high and signaled the central bank may continue raising interest rates to get it under control. In remarks at the Jackson Hole symposium, Powell acknowledged recent progress in lowering inflation but said there’s “substantial further ground to cover” before returning to the Fed’s 2% target.
+ 
+Powell Signals Further Rate Hikes Amid Lingering Inflation Concerns; Pledges ‘We Will Keep at It Until the Job Is Done’
+ 
+While headline inflation has fallen from its peak of 7% in June 2022, Powell focused his remarks on core inflation, which excludes volatile food and energy prices. Core inflation remains elevated at 4.3% and Powell said “sustained progress is needed” through “restrictive monetary po…]]></summary>
+        <author>
+            <name>Jamie Redman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Milk Sad Vulnerability and What It Means for Bitcoin]]></title>
+        <id>http://www.inoreader.com/article/3a9c6e75553315d5</id>
+        <link href="https://bitcoinmagazine.com/technical/the-milk-sad-vulnerability-and-what-it-means-for-bitcoin"/>
+        <updated>2023-08-25T18:36:09.000Z</updated>
+        <summary type="html"><![CDATA[In the newest episode of Bitcoin Magazine’s "Bitcoin, Explained,” hosts Aaron van Wirdum and Sjors Provoost discuss the ramifications of a newly discovered exploit dubbed “Milk Sad,” affecting Bitcoin users attempting to run the alternative Bitcoin implementation Libbitcoin when connecting to the network.
+Revealed earlier this month, the issue of an insecure Bitcoin command called "BX Seed" in the Libitcoin library has made it vulnerable to attacks, potentially allowing adversaries to guess private keys and access Bitcoin funds.
+
+As profiled, the insecure command produces only 32-bit random seeds, significantly reducing the number of possible seeds and making it relatively easy to guess a target user’s private keys.
+The podcast delves into the history of the implementation, as well as other alternatives to the most widely used Bitcoin software, Bitcoin Core. The episode also touches on the responsibility of Bitcoin developers to ensure the security of their code, especially if that code is referenced in widely read resources like books or online tutorials. In this particular case, the BX seed exploit was referenced in Andreas Antonopoulous’ widely read “Mastering Bitcoin.” 
+The hosts suggest that clear warnings should be provided in documentation to indicate that certain commands are unsafe for production use.
+Ultimately, the podcast underscores the importance of secure coding practices, thorough testing, and proper communication to prevent vulnerabilities that could potentially lead to financial losses and security breaches in the cryptocurrency space.]]></summary>
+        <author>
+            <name>Bitcoin Magazine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[As XRP, Litecoin and Shiba Inu Dips Continue, Here Are Some New Altcoins to Watch]]></title>
+        <id>https://cryptopanic.com/news/18860186/As-XRP-Litecoin-and-Shiba-Inu-Dips-Continue-Here-Are-Some-New-Altcoins-to-Watch</id>
+        <link href="https://cryptopanic.com/news/18860186/As-XRP-Litecoin-and-Shiba-Inu-Dips-Continue-Here-Are-Some-New-Altcoins-to-Watch"/>
+        <updated>2023-08-25T18:28:51.000Z</updated>
+        <author>
+            <name>News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why potential BTC and ETH ETF approvals would be game-changers]]></title>
+        <id>https://cryptopanic.com/news/18860221/Why-potential-BTC-and-ETH-ETF-approvals-would-be-game-changers</id>
+        <link href="https://cryptopanic.com/news/18860221/Why-potential-BTC-and-ETH-ETF-approvals-would-be-game-changers"/>
+        <updated>2023-08-25T18:25:51.000Z</updated>
+        <summary type="html"><![CDATA[Crypto ETF approvals could spur a risk-on, dominance declining environment that causes “big token moves,” CoinFund executive tells Blockworks]]></summary>
+        <author>
+            <name>News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Optimism, Sui, and Astar show strong 7-day gains. Borroe Finance reaches $500k raised]]></title>
+        <id>https://cryptopanic.com/news/18860187/Optimism-Sui-and-Astar-show-strong-7-day-gains-Borroe-Finance-reaches-500k-raised</id>
+        <link href="https://cryptopanic.com/news/18860187/Optimism-Sui-and-Astar-show-strong-7-day-gains-Borroe-Finance-reaches-500k-raised"/>
+        <updated>2023-08-25T18:16:18.000Z</updated>
+        <author>
+            <name>News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crypto Exchanges Under IRS Radar: New Treasury Proposal Demands Detailed Transaction Reports]]></title>
         <id>http://www.inoreader.com/article/3a9c6e75553d7923</id>
@@ -36,7 +139,6 @@ The proposed rule introduces a new tax reporting form called Form 1099-DA, which
         <id>https://cryptopanic.com/news/18860166/LUNC-Community-Declines-USTC-Repeg-Funding-Heres-the-Catch</id>
         <link href="https://cryptopanic.com/news/18860166/LUNC-Community-Declines-USTC-Repeg-Funding-Heres-the-Catch"/>
         <updated>2023-08-25T18:05:00.000Z</updated>
-        <summary type="html"><![CDATA[Terra Luna Classic drowns in boiling waters as conflicts tear the outspoken community apart.]]></summary>
         <author>
             <name>News</name>
         </author>
@@ -52,10 +154,21 @@ The proposed rule introduces a new tax reporting form called Form 1099-DA, which
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[4,300 ETH Worth $7M Was Just Burned]]></title>
+        <id>https://cryptopanic.com/news/18860175/4300-ETH-Worth-7M-Was-Just-Burned</id>
+        <link href="https://cryptopanic.com/news/18860175/4300-ETH-Worth-7M-Was-Just-Burned"/>
+        <updated>2023-08-25T18:00:08.000Z</updated>
+        <summary type="html"><![CDATA[What happened: On Thursday a total of 4,300.01 Ether (CRYPTO: ETH) worth $7,052,020, based on the current value of Ethereum at time of publication ($1,640.00), was burned from Ethereum transactions. read more]]></summary>
+        <author>
+            <name>News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[PayPal’s stablecoin sees slow uptake in first 3 weeks]]></title>
         <id>https://cryptopanic.com/news/18860133/PayPals-stablecoin-sees-slow-uptake-in-first-3-weeks</id>
         <link href="https://cryptopanic.com/news/18860133/PayPals-stablecoin-sees-slow-uptake-in-first-3-weeks"/>
         <updated>2023-08-25T17:54:18.000Z</updated>
+        <summary type="html"><![CDATA[While a host of alternatives try to fill market void, Paypal’s stablecoin is slow on the uptake]]></summary>
         <author>
             <name>News</name>
         </author>
@@ -84,6 +197,7 @@ The proposed rule introduces a new tax reporting form called Form 1099-DA, which
         <id>https://cryptopanic.com/news/18860127/Unlimited-Storage-No-More-Dropboxs-Response-to-Crypto-Cloud-Mining</id>
         <link href="https://cryptopanic.com/news/18860127/Unlimited-Storage-No-More-Dropboxs-Response-to-Crypto-Cloud-Mining"/>
         <updated>2023-08-25T17:50:00.000Z</updated>
+        <summary type="html"><![CDATA[Dropbox will sunset its unlimited data plan due to crypto miners and storage resellers abusing the service.]]></summary>
         <author>
             <name>News</name>
         </author>
@@ -103,17 +217,15 @@ The proposed rule introduces a new tax reporting form called Form 1099-DA, which
         <id>https://cryptopanic.com/news/18860134/Jackson-Hole-Where-Fed-Policy-Is-Decided-on-the-Fly</id>
         <link href="https://cryptopanic.com/news/18860134/Jackson-Hole-Where-Fed-Policy-Is-Decided-on-the-Fly"/>
         <updated>2023-08-25T17:46:48.000Z</updated>
-        <summary type="html"><![CDATA[(Karsten Winegeart/Unsplash, modified by CoinDesk)]]></summary>
         <author>
             <name>News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Judge denies stakeholders request for representation in Celsius bankruptcy case]]></title>
+        <title type="html"><![CDATA[Judge denies stakeholders’ request for representation in Celsius bankruptcy case]]></title>
         <id>https://cryptopanic.com/news/18860121/Judge-denies-stakeholders-request-for-representation-in-Celsius-bankruptcy-case</id>
         <link href="https://cryptopanic.com/news/18860121/Judge-denies-stakeholders-request-for-representation-in-Celsius-bankruptcy-case"/>
         <updated>2023-08-25T17:45:00.000Z</updated>
-        <summary type="html"><![CDATA[The judge also declined to declare CEL token “not a security,” despite related rulings in the SEC vs Ripple case.]]></summary>
         <author>
             <name>News</name>
         </author>
@@ -139,7 +251,6 @@ In a dramatic turn, Trump took to X, marking his first appearance since his ban 
         <id>https://cryptopanic.com/news/18860106/The-top-10-crypto-assets-by-highest-level-of-address-activity</id>
         <link href="https://cryptopanic.com/news/18860106/The-top-10-crypto-assets-by-highest-level-of-address-activity"/>
         <updated>2023-08-25T17:39:58.000Z</updated>
-        <summary type="html"><![CDATA[Cryptocurrencies are more than just price action, market capitalization, and tokenomics. Such innovative technology, moving a trillion-dollar market, is actually … Continued]]></summary>
         <author>
             <name>News</name>
         </author>
@@ -159,17 +270,16 @@ In a dramatic turn, Trump took to X, marking his first appearance since his ban 
         <id>https://cryptopanic.com/news/18860084/Bitcoin-Can-Drop-to-20K-in-2023-Predicts-Google-Bard</id>
         <link href="https://cryptopanic.com/news/18860084/Bitcoin-Can-Drop-to-20K-in-2023-Predicts-Google-Bard"/>
         <updated>2023-08-25T17:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin recorded the highest level of address activity earlier today. Google Bard predicts that Bitcoin’s price can go as low as $20,000 in 2023. The AI model lists rising inflation, increased regulatory scrutiny, hiked interest rates, and the ongoing bear market as potential reasons for a price...]]></summary>
         <author>
             <name>News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PayPal's PYUSD struggles with early adoption — Nansen]]></title>
+        <title type="html"><![CDATA[PayPal’s PYUSD struggles with early adoption — Nansen]]></title>
         <id>https://cryptopanic.com/news/18860071/PayPals-PYUSD-struggles-with-early-adoption-Nansen</id>
         <link href="https://cryptopanic.com/news/18860071/PayPals-PYUSD-struggles-with-early-adoption-Nansen"/>
         <updated>2023-08-25T17:30:00.000Z</updated>
-        <summary type="html"><![CDATA[PayPal's stablecoin debut raised hopes for broader adoption and an introduction of cryptocurrencies to the masses. Early adoption trends paint a different picture.]]></summary>
+        <summary type="html"><![CDATA[PayPal’s stablecoin debut raised hopes for broader adoption and an introduction of cryptocurrencies to the masses. Early adoption trends paint a different picture.]]></summary>
         <author>
             <name>News</name>
         </author>
@@ -179,6 +289,7 @@ In a dramatic turn, Trump took to X, marking his first appearance since his ban 
         <id>https://cryptopanic.com/news/18860075/Coinbases-David-Duong-Analyzes-the-BTC-and-ETH-Futures-Market</id>
         <link href="https://cryptopanic.com/news/18860075/Coinbases-David-Duong-Analyzes-the-BTC-and-ETH-Futures-Market"/>
         <updated>2023-08-25T17:24:01.000Z</updated>
+        <summary type="html"><![CDATA[In a recently published post on LinkedIn, David Duong, CFA, Head of Institutional Research at Coinbase, provided a detailed analysis of the crypto futures market, focusing on perpetual futures contracts (perps), trading volumes, and open interest across various exchanges. Perpetual Futures...]]></summary>
         <author>
             <name>News</name>
         </author>
@@ -198,53 +309,6 @@ In a dramatic turn, Trump took to X, marking his first appearance since his ban 
         <id>https://cryptopanic.com/news/18860068/Base-set-to-receive-118M-OP-tokens-over-six-years-in-governance-agreement</id>
         <link href="https://cryptopanic.com/news/18860068/Base-set-to-receive-118M-OP-tokens-over-six-years-in-governance-agreement"/>
         <updated>2023-08-25T17:18:38.000Z</updated>
-        <author>
-            <name>News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Dips Below $26K, Smaller Cryptos Head Lower on Fed's Powell's Hawkish Remarks]]></title>
-        <id>https://cryptopanic.com/news/18860070/Bitcoin-Dips-Below-26K-Smaller-Cryptos-Head-Lower-on-Feds-Powells-Hawkish-Remarks</id>
-        <link href="https://cryptopanic.com/news/18860070/Bitcoin-Dips-Below-26K-Smaller-Cryptos-Head-Lower-on-Feds-Powells-Hawkish-Remarks"/>
-        <updated>2023-08-25T17:18:37.000Z</updated>
-        <summary type="html"><![CDATA[Federal Reserve chair Powell speaking at Jackson Hole doubled down on keeping financial conditions tight, including hiking interest rates further if needed.]]></summary>
-        <author>
-            <name>News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeFi auction platform puts ‘diamond hand’ necklace under gavel]]></title>
-        <id>https://cryptopanic.com/news/18860062/DeFi-auction-platform-puts-diamond-hand-necklace-under-gavel</id>
-        <link href="https://cryptopanic.com/news/18860062/DeFi-auction-platform-puts-diamond-hand-necklace-under-gavel"/>
-        <updated>2023-08-25T17:17:43.000Z</updated>
-        <author>
-            <name>News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Continues To Consolidate Following Massive Drop: A Look At The Apex Crypto Into The Weekend]]></title>
-        <id>https://cryptopanic.com/news/18860100/Bitcoin-Continues-To-Consolidate-Following-Massive-Drop-A-Look-At-The-Apex-Crypto-Into-The-Weekend</id>
-        <link href="https://cryptopanic.com/news/18860100/Bitcoin-Continues-To-Consolidate-Following-Massive-Drop-A-Look-At-The-Apex-Crypto-Into-The-Weekend"/>
-        <updated>2023-08-25T17:17:37.000Z</updated>
-        <author>
-            <name>News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Assets Ignore Powell, is a Boom On?]]></title>
-        <id>https://cryptopanic.com/news/18860069/Assets-Ignore-Powell-is-a-Boom-On</id>
-        <link href="https://cryptopanic.com/news/18860069/Assets-Ignore-Powell-is-a-Boom-On"/>
-        <updated>2023-08-25T17:15:57.000Z</updated>
-        <author>
-            <name>News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Binance Delists Sanctioned Russian Banks From Peer-to-Peer Service]]></title>
-        <id>https://cryptopanic.com/news/18860063/Binance-Delists-Sanctioned-Russian-Banks-From-Peer-to-Peer-Service</id>
-        <link href="https://cryptopanic.com/news/18860063/Binance-Delists-Sanctioned-Russian-Banks-From-Peer-to-Peer-Service"/>
-        <updated>2023-08-25T17:06:39.000Z</updated>
-        <summary type="html"><![CDATA[Binance has cut ties with five sanctioned Russian banks that were listed on the exchange’s peer-to-peer service to let users transfer funds in rubles, the country’s native currency.]]></summary>
         <author>
             <name>News</name>
         </author>
@@ -520,102 +584,6 @@ spokesperson from the exchange told CoinDesk the move is part of the exchange’
         <summary type="html"><![CDATA[DeFi giant MakerDAO has lent $1.8 million of DAI stablecoin to the tokenized credit pool under distress.]]></summary>
         <author>
             <name>Krisztian  Sandor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin, Ethereum Technical Analysis: BTC Traders Jittery, as Federal Reserve Symposium in Jackson Hole Is Under Way]]></title>
-        <id>http://www.inoreader.com/article/3a9c6e75551aef68</id>
-        <link href="https://news.bitcoin.com/bitcoin-ethereum-technical-analysis-btc-traders-jittery-as-federal-reserve-symposium-in-jackson-hole-is-under-way/"/>
-        <updated>2023-08-25T13:19:33.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin marginally declined during Friday’s session, concurrent with the ongoing Federal Reserve symposium in Jackson Hole. The Chair of the Fed, Jerome Powell will be speaking at the annual meeting, and providing guidance on the upcoming policy decision. Ethereum also consolidated today.
- 
-Bitcoin
- 
-Bitcoin briefly fell below the $26,000 level on Friday, as traders readied themselves for Jerome Powell’s speech.
- 
-BTC/USD dropped to an intraday low of $25,914.93 earlier in the day, following a high of $26,406.15 on Thursday.
- 
-The decline saw bitcoin move one step closer to its recent support point of $25,600, a level it has tracked for most of the week.
- 
- 
-Bitcoin chart by TradingView
- 
-
- 
- 
-From the chart, the decline comes after the 14-day relative strength index (RSI) was unable to move beyond a ceiling of 30.00 during yesterday’s session.
- 
-As of writing, price strength is tracking at 25.89, which remains highly oversold, and could be heading even lower, to a floor of 20.00.
- 
- 
-Ethereum
- 
-Ethereum (ETH) also slipped today, as the world’s second largest cryptocurrency moved below a recent price floor.
- 
-After trading at a high of $1,668.82 on Thursday, ETH/USD bottomed out at $1,641.63 earlier in the day.
- 
-This resulted in ETH sliding below a support level at $1,650, which has proven to be a zone of high volatility.
- 
- 
-Ethereum chart by TradingView
- 
-
- 
- 
-
- 
-
- 
-Similar to BTC above, today’s drop comes after the RSI collided with a resistance point of 33.00 on Thursday.
- 
-The index now sits at a reading of 30.66, with the next floor over 10.00 points away.
- 
-Register your email here to get weekly price analysis updates sent to your inbox:
- 
-Will market consolidation end after the Fed’s Jackson Hole meeting? Leave your thoughts in the comments below.]]></summary>
-        <author>
-            <name>Eliman Dambell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kroll Data Breach Impacts FTX, Claimant Information Compromised]]></title>
-        <id>http://www.inoreader.com/article/3a9c6e7555041a22</id>
-        <link href="https://bitcoinist.com/kroll-data-breach-impacts-ftx/"/>
-        <updated>2023-08-25T13:10:23.000Z</updated>
-        <summary type="html"><![CDATA[Kroll, the claims agent working on the bankruptcy case for FTX, a once-prominent crypto exchange, has fallen victim to a cybersecurity breach. The breach, reported on Friday, has led to the compromise of non-sensitive customer data belonging to specific claimants. 
- 
-While FTX asserts that its core operations remain unaffected, the incident has raised concerns about the security of personal information within the crypto industry.
- 
-FTX wasted no time in addressing the breach and reassuring its customers. The exchange promptly announced that its own account passwords, systems, and funds had not been compromised.
- 
- 
-The crypto exchange remains vigilant, actively monitoring the situation while collaborating with Kroll to contain the aftermath. It is important to note that the breach has not …]]></summary>
-        <author>
-            <name>Christian Encila</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[U.S. Crypto Tax Proposal Lets Miners off the Hook, Snares ‘Some’ Decentralized Exchanges]]></title>
-        <id>http://www.inoreader.com/article/3a9c6e7555062e81</id>
-        <link href="https://www.coindesk.com/policy/2023/08/25/us-crypto-tax-proposal-lets-miners-off-hook-snares-some-decentralized-exchanges/?utm_medium=referral&amp;utm_source=rss&amp;utm_campaign=headlines"/>
-        <updated>2023-08-25T12:53:50.000Z</updated>
-        <summary type="html"><![CDATA[The U.S. Treasury Department has finally unveiled its definition of a "broker" for the crypto industry, defining how crypto companies and investors will need to meet tax reporting obligations and answering a years-old question over whether decentralized finance platforms and miners will need to gather their users' personal data.]]></summary>
-        <author>
-            <name>Jesse Hamilton, Nikhilesh De</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why The Creator Economy Needs To Run On Bitcoin]]></title>
-        <id>http://www.inoreader.com/article/3a9c6e755500665d</id>
-        <link href="https://bitcoinmagazine.com/culture/why-the-creator-economy-needs-to-run-on-bitcoin"/>
-        <updated>2023-08-25T12:36:19.000Z</updated>
-        <summary type="html"><![CDATA[This is an opinion editorial by Joël Kai Lenz, a professional content writer focused on Bitcoin and the Lightning Network, and host of the “Rabbit Hole Stories” podcast.
-In my previous life, as a professional in the legacy digital media world, I used to sit below a giant neon light. I didn’t particularly like the look of the light, but I loved its message. It was a quote by Steve Jobs. 
-You may have heard or even seen the quote online. It’s the last few words of a famous Apple commercial, where Jobs spoke to society’s outsiders:
-“The people who are crazy enough to think they can change the world are the ones who do.”
-In my earlier internet days, when I spent hours changing the CSS of my Myspace page, I was always fascinated by creators. For some weird reason, I resonated with them. Not bec…]]></summary>
-        <author>
-            <name>Joël Kai Lenz</name>
         </author>
     </entry>
     <entry>
@@ -986,16 +954,6 @@ In my earlier internet days, when I spent hours changing the CSS of my Myspace p
         <summary type="html"><![CDATA[One founder was arrested today, while the other remains at large.]]></summary>
         <author>
             <name>Mathew Di Salvo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Teenage Hacker Who Leaked 'Grand Theft Auto 6' Details Convicted in UK]]></title>
-        <id>https://decrypt.co/?p=153477</id>
-        <link href="https://decrypt.co/153477/teenage-hackers-leaked-grand-theft-auto-6-details-convicted-uk"/>
-        <updated>2023-08-23T18:01:19.000Z</updated>
-        <summary type="html"><![CDATA[Hackers from the Lapsus$ group were found liable for various attacks, including Grand Theft Auto maker Rockstar Games, Nvidia, and Uber.]]></summary>
-        <author>
-            <name>Kate Irwin</name>
         </author>
     </entry>
     <entry>

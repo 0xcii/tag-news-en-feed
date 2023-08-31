@@ -6,6 +6,21 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=150832",
+          "author": "Nathan Reiff",
+          "description": "Worldcoin has introduced a concept called “proof of personhood\" to keep AI bots out of its global financial network.",
+          "link": "https://decrypt.co/resources/what-is-worldcoin-the-app-and-token-that-protects-your-personhood",
+          "publishedOn": "2023-08-31T13:44:29.000Z",
+          "wordCount": 12269,
+          "title": "What is Worldcoin? Sam Altman's Eye-Scanning Global ID 'Orb' Project Hits Regulatory Roadblocks",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/07/4-gID_5-pID_5.png@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/07/4-gID_5-pID_5.png@png"
+        },
+        {
           "id": "https://decrypt.co/?p=154426",
           "author": "Nivesh Rustgi",
           "description": "PancakeSwap joins DeFi heavyweights like Uniswap, SushiSwap, and 1inch launching on the buzzy layer-2 network Base.",
@@ -561,21 +576,6 @@
           "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/08/Caroline-Dinenage-Parliament-16x9-1-gID_7.jpg@png"
         },
         {
-          "id": "https://decrypt.co/?p=154187",
-          "author": "Jose Antonio Lanz",
-          "description": "If people blindly follow AI guides into the forest, it's not going to end well.",
-          "link": "https://decrypt.co/154187/ai-generated-books-on-amazon-could-give-deadly-advice",
-          "publishedOn": "2023-08-29T22:54:10.000Z",
-          "wordCount": 9621,
-          "title": "AI-Generated Books on Amazon Could Give Deadly Advice",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/08/jaldps_a_happy_girl_holding_a_book_playing_in_a_dangerous_forre_aff8ac0c-a182-45ec-bf48-a462afbecf90-gID_7.png@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/08/jaldps_a_happy_girl_holding_a_book_playing_in_a_dangerous_forre_aff8ac0c-a182-45ec-bf48-a462afbecf90-gID_7.png@png"
-        },
-        {
           "id": "https://decrypt.co/videos/explainers/HQGt1Vrq/mastering-nft-trading-degen-u",
           "author": null,
           "description": "Take Degen U's new course, Mastering NFT Trading, and earn an on-chain certificate. A top instructor will help you identify trends, seize the right moment to trade, weed out scams—and have fun while doing it!",
@@ -596,7 +596,7 @@
           "description": "Jerome Wu, CEO of Space Nation, tells Decrypt's Kate Irwin about the upcoming Space Nation Online game in development and shares details on Space Nation Cofounder Roland Emmerich's role in the project.",
           "link": "https://decrypt.co/videos/interviews/LpznLhtx/space-nation-ceo-on-working-with-independence-day-director-roland-emmerich",
           "publishedOn": "2023-08-28T17:34:00.000Z",
-          "wordCount": 6606,
+          "wordCount": 6260,
           "title": "Space Nation CEO on Working With 'Independence Day' Director Roland Emmerich",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/LpznLhtx/poster.jpg",
@@ -611,7 +611,7 @@
           "description": "Champions Arena is a turn-based fantasy RPG from Gala Games, where characters can become NFTs and crypto can be used to purchase gems, one of the game's synthetic currencies. Decrypt's Kate Irwin takes us inside the game for her thoughts on the fun, mobile-first title.",
           "link": "https://decrypt.co/videos/interviews/qUE1RlDx/game-review-champions-arena-from-gala-games",
           "publishedOn": "2023-08-25T23:00:00.000Z",
-          "wordCount": 6334,
+          "wordCount": 6301,
           "title": "GAME REVIEW: Champions Arena from Gala Games",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/qUE1RlDx/poster.jpg",
@@ -641,7 +641,7 @@
           "description": "In this interview, SingularityNET COO Janet Adams explains the intricate details that went into creating the Desdemona robot AI from Hanson Robotics and future plans for the AI Diva.",
           "link": "https://decrypt.co/videos/interviews/yVQaZI71/the-future-of-ai-stardom-and-robotics-with-singularitynet-coo-janet-adams-and-desdemona",
           "publishedOn": "2023-08-23T16:45:46.000Z",
-          "wordCount": 6263,
+          "wordCount": 6296,
           "title": "The future of AI Stardom and Robotics with SingularityNET COO Janet Adams and Desdemona",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/yVQaZI71/poster.jpg",
@@ -823,6 +823,196 @@
       "siteUrl": "https://cryptopanic.com/",
       "articles": [
         {
+          "id": "https://cryptopanic.com/news/18871765/Worldcoin-Draws-Argentines-in-Droves-Despite-Privacy-Backlash",
+          "author": null,
+          "description": "The controversial “iris scan for tokens” crypto project saw record numbers of Argentines onboarded last month.",
+          "link": "https://cryptopanic.com/news/18871765/Worldcoin-Draws-Argentines-in-Droves-Despite-Privacy-Backlash",
+          "publishedOn": "2023-08-31T14:05:00.000Z",
+          "wordCount": 590,
+          "title": "Worldcoin Draws Argentines in Droves Despite Privacy Backlash",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18871772/Chainlink-LINK-Shines-in-This-Groundbreaking-Swift-Experiment",
+          "author": null,
+          "description": "Chainlink (LINK) relevance showcased in latest Swift tokenization trial",
+          "link": "https://cryptopanic.com/news/18871772/Chainlink-LINK-Shines-in-This-Groundbreaking-Swift-Experiment",
+          "publishedOn": "2023-08-31T14:03:00.000Z",
+          "wordCount": 590,
+          "title": "Chainlink (LINK) Shines in This Groundbreaking Swift Experiment",
+          "imageUrl": "https://u.today/sites/default/files/styles/twitter/public/2023-08/39684.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/18871742/Hashkey-Group-Announces-That-It-Will-Invest-The-Majority-Of-Its-Investments-In-Altcoins",
+          "author": null,
+          "description": "Hashkey Capital, the investment giant of Hashkey Group, will invest mostly in altcoins instead of Bitcoin and Ethereum. Continue Reading: Hashkey Group Announces That It Will Invest The Majority Of Its Investments In Altcoins",
+          "link": "https://cryptopanic.com/news/18871742/Hashkey-Group-Announces-That-It-Will-Invest-The-Majority-Of-Its-Investments-In-Altcoins",
+          "publishedOn": "2023-08-31T14:01:06.000Z",
+          "wordCount": 596,
+          "title": "Hashkey Group Announces That It Will Invest The Majority Of Its Investments In Altcoins",
+          "imageUrl": "https://www.bitcoinsistemi.com/wp-content/uploads/2023/08/hashkey-group.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/18871768/Bitcoin-Sentiment-Returns-To-Neutral-Will-Traders-Embrace-Greed-Next",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/18871768/Bitcoin-Sentiment-Returns-To-Neutral-Will-Traders-Embrace-Greed-Next",
+          "publishedOn": "2023-08-31T14:00:56.000Z",
+          "wordCount": null,
+          "title": "Bitcoin Sentiment Returns To Neutral, Will Traders Embrace Greed Next?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18871754/Binance-to-discontinue-BUSD-support-recommends-this-alternative",
+          "author": null,
+          "description": "This transition aligns with regulatory concerns and showcases the exchange's commitment to compliance and user satisfaction.",
+          "link": "https://cryptopanic.com/news/18871754/Binance-to-discontinue-BUSD-support-recommends-this-alternative",
+          "publishedOn": "2023-08-31T14:00:40.000Z",
+          "wordCount": 590,
+          "title": "Binance to discontinue BUSD support; recommends this alternative",
+          "imageUrl": "https://statics.ambcrypto.com/wp-content/uploads/2023/08/ambcrypto_Prompt_An_unfolding_narrative_captures_the_strategic__58ddff5e-382d-4886-ad89-dd5249aa4756_1200x900.png"
+        },
+        {
+          "id": "https://cryptopanic.com/news/18871735/Why-is-DeFi-so-important",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/18871735/Why-is-DeFi-so-important",
+          "publishedOn": "2023-08-31T13:59:02.000Z",
+          "wordCount": null,
+          "title": "Why is DeFi so important?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18871775/Base-TVL-Jumps-62-Overnight-as-New-DeFi-Platform-Takes-the-Spotlight",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/18871775/Base-TVL-Jumps-62-Overnight-as-New-DeFi-Platform-Takes-the-Spotlight",
+          "publishedOn": "2023-08-31T13:55:28.000Z",
+          "wordCount": null,
+          "title": "Base TVL Jumps 62% Overnight as New DeFi Platform Takes the Spotlight",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18871739/More-Than-Half-of-Adults-in-Turkey-Invest-in-Cryptocurrency",
+          "author": null,
+          "description": "KuCoin, one of the foremost crypto exchanges, reports that more than half of the adults in Turkey are involved in cryptocurrency investment. In a recent survey, the crypto exchange revealed a growing trend in crypto investment among Turkish adults. According to KuCoin, the number of Turkish...",
+          "link": "https://cryptopanic.com/news/18871739/More-Than-Half-of-Adults-in-Turkey-Invest-in-Cryptocurrency",
+          "publishedOn": "2023-08-31T13:55:00.000Z",
+          "wordCount": 592,
+          "title": "More Than Half of Adults in Turkey Invest in Cryptocurrency",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18871724/Elon-Musk-Officially-Denies-X-Coin-But-What-About-Dogecoin-DOGE",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/18871724/Elon-Musk-Officially-Denies-X-Coin-But-What-About-Dogecoin-DOGE",
+          "publishedOn": "2023-08-31T13:45:00.000Z",
+          "wordCount": null,
+          "title": "Elon Musk Officially Denies X Coin, But What About Dogecoin (DOGE)?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18871718/Bitget-Partners-With-CCData-to-Enhance-Data-Solutions-for-Institutional-Investors",
+          "author": null,
+          "description": "Bitget, one of the world’s leading crypto exchanges, has partnered with one of the most respected names in the crypto space. Founded in 2018, Bitget is a leading cryptocurrency exchange with copy trading services, serving over 20 million users across more than 100 countries. On the other hand,...",
+          "link": "https://cryptopanic.com/news/18871718/Bitget-Partners-With-CCData-to-Enhance-Data-Solutions-for-Institutional-Investors",
+          "publishedOn": "2023-08-31T13:43:27.000Z",
+          "wordCount": 593,
+          "title": "Bitget Partners With CCData to Enhance Data Solutions for Institutional Investors",
+          "imageUrl": "https://media.cryptoglobe.com/2023/08/crypto-trading-1-768x430.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/18871716/Bitcoin-Cash-Traders-Back-In-Profit-As-BCH-Surges-15",
+          "author": null,
+          "description": "On-chain data shows both the short-term and long-term Bitcoin Cash holders have entered into profits following the 13% rally. Bitcoin Cash Traders Return To Profits As Whales Ramp Up Activity According to data from the on-chain analytics firm Santiment, Bitcoin Cash traders who bought within the...",
+          "link": "https://cryptopanic.com/news/18871716/Bitcoin-Cash-Traders-Back-In-Profit-As-BCH-Surges-15",
+          "publishedOn": "2023-08-31T13:40:37.000Z",
+          "wordCount": 592,
+          "title": "Bitcoin Cash Traders Back In Profit As BCH Surges 15%",
+          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2023/08/iStock-1384277890-980x509.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/18871689/Binance-to-end-support-for-BUSD-encourages-conversion-to-FDUSD",
+          "author": null,
+          "description": "Binance plans to gradually reduce support for BUSD products by February 2024, according to an announcement from the crypto exchange today.",
+          "link": "https://cryptopanic.com/news/18871689/Binance-to-end-support-for-BUSD-encourages-conversion-to-FDUSD",
+          "publishedOn": "2023-08-31T13:32:44.000Z",
+          "wordCount": 592,
+          "title": "Binance to end support for BUSD, encourages conversion to FDUSD",
+          "imageUrl": "https://www.tbstat.com/wp/uploads/2023/04/20230418_Binance_Generic_3-1200x675.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/18871644/100-invested-in-XRP-10-years-ago-is-worth-this-much-today",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/18871644/100-invested-in-XRP-10-years-ago-is-worth-this-much-today",
+          "publishedOn": "2023-08-31T13:30:12.000Z",
+          "wordCount": null,
+          "title": "$100 invested in XRP 10 years ago is worth this much today",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18871690/Theres-a-New-Oil-Cartel-in-Town",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/18871690/Theres-a-New-Oil-Cartel-in-Town",
+          "publishedOn": "2023-08-31T13:30:07.000Z",
+          "wordCount": null,
+          "title": "There's a New Oil Cartel in Town",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18871678/GTA-owner-joins-Web3-Bitcoin-casino-Sunflower-Land-review-Web3-Gamer",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/18871678/GTA-owner-joins-Web3-Bitcoin-casino-Sunflower-Land-review-Web3-Gamer",
+          "publishedOn": "2023-08-31T13:30:00.000Z",
+          "wordCount": null,
+          "title": "GTA owner joins Web3, Bitcoin casino, Sunflower Land review: Web3 Gamer",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18871692/Ethereum-ETH-Price-Likely-to-Bounce-Due-to-This-Key-Factor-Report",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/18871692/Ethereum-ETH-Price-Likely-to-Bounce-Due-to-This-Key-Factor-Report",
+          "publishedOn": "2023-08-31T13:30:00.000Z",
+          "wordCount": null,
+          "title": "Ethereum (ETH) Price Likely to Bounce Due to This Key Factor: Report",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18871677/30-People-To-Watch-In-Web3-Caitlin-Long-Ride-or-Die-For-Cryptos-Future-At-A-Regulatory-Level",
+          "author": null,
+          "description": "Caitlin Long has an impressive track record fighting for crypto as an emerging asset class at a state and federal regulatory level. read more",
+          "link": "https://cryptopanic.com/news/18871677/30-People-To-Watch-In-Web3-Caitlin-Long-Ride-or-Die-For-Cryptos-Future-At-A-Regulatory-Level",
+          "publishedOn": "2023-08-31T13:20:58.000Z",
+          "wordCount": 598,
+          "title": "30 People To Watch In Web3: Caitlin Long, Ride-or-Die For Crypto's Future At A Regulatory Level",
+          "imageUrl": "https://cdn.benzinga.com/files/images/story/2023/08/30/caitlin_long_photo.jpg?width=1200&height=800&fit=crop"
+        },
+        {
+          "id": "https://cryptopanic.com/news/18871625/Global-Interbank-Sending-System-Swift-Announced-the-Successful-Completion-of-the-Project-with-This-Altcoin",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/18871625/Global-Interbank-Sending-System-Swift-Announced-the-Successful-Completion-of-the-Project-with-This-Altcoin",
+          "publishedOn": "2023-08-31T13:18:06.000Z",
+          "wordCount": null,
+          "title": "Global Interbank Sending System Swift Announced the Successful Completion of the Project with This Altcoin!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18871640/Bitget-Forms-Unparalleled-Institutional-Grade-Digital-Asset-Data-Access-with-CCData",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/18871640/Bitget-Forms-Unparalleled-Institutional-Grade-Digital-Asset-Data-Access-with-CCData",
+          "publishedOn": "2023-08-31T13:07:02.000Z",
+          "wordCount": null,
+          "title": "Bitget Forms Unparalleled Institutional-Grade Digital Asset Data Access with CCData",
+          "imageUrl": null
+        },
+        {
           "id": "https://cryptopanic.com/news/18871588/Will-Grayscales-Success-Prompt-SEC-to-Reevaluate-Bitcoin-ETFs",
           "author": null,
           "description": "",
@@ -831,196 +1021,6 @@
           "wordCount": null,
           "title": "Will Grayscale's Success Prompt SEC to Reevaluate Bitcoin ETFs?",
           "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18871577/US-officials-extend-export-curbs-on-Nvidia-AI-chip-to-some-Middle-Eastern-countries",
-          "author": null,
-          "description": "U.S. regulators have told AI chip maker Nvidia and its rival AMD to curb exports of high-level semiconductor chips used to develop AI to certain Middle Eastern countries.",
-          "link": "https://cryptopanic.com/news/18871577/US-officials-extend-export-curbs-on-Nvidia-AI-chip-to-some-Middle-Eastern-countries",
-          "publishedOn": "2023-08-31T13:04:24.000Z",
-          "wordCount": 596,
-          "title": "US officials extend export curbs on Nvidia AI chip to 'some Middle Eastern countries'",
-          "imageUrl": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-08/bc57f143-6348-426a-9a68-01acc189c90e.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/18871586/PancakeSwap-Expands-to-Coinbase-Incubated-Base-Network",
-          "author": null,
-          "description": "PancakeSwap joins DeFi heavyweights like Uniswap, SushiSwap, and 1inch launching on the buzzy layer-2 network Base.",
-          "link": "https://cryptopanic.com/news/18871586/PancakeSwap-Expands-to-Coinbase-Incubated-Base-Network",
-          "publishedOn": "2023-08-31T13:01:10.000Z",
-          "wordCount": 588,
-          "title": "PancakeSwap Expands to Coinbase-Incubated Base Network",
-          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2023/04/pancakeswap-cake-token-gID_7.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/18871578/How-AI-analysis-can-change-finance-and-crypto-trading",
-          "author": null,
-          "description": "From offering quality trade predictions to identifying real-time threats to gauging market sentiment instantaneously, here’s how AI is reshaping the future of finance.",
-          "link": "https://cryptopanic.com/news/18871578/How-AI-analysis-can-change-finance-and-crypto-trading",
-          "publishedOn": "2023-08-31T13:01:00.000Z",
-          "wordCount": 591,
-          "title": "How AI analysis can change finance and crypto trading",
-          "imageUrl": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-08/83612bba-d4e0-4670-ae66-baaf0a57beb7.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/18871532/Nexo-Taps-Mastercard-to-Launch-a-Dual-Mode-Crypto-Card",
-          "author": null,
-          "description": "Nexo users can tailor their spending to suit their preferences while accumulating up to 9% yearly interest on their holdings to be paid out daily.",
-          "link": "https://cryptopanic.com/news/18871532/Nexo-Taps-Mastercard-to-Launch-a-Dual-Mode-Crypto-Card",
-          "publishedOn": "2023-08-31T13:00:19.000Z",
-          "wordCount": 592,
-          "title": "Nexo Taps Mastercard to Launch a Dual Mode Crypto Card",
-          "imageUrl": "https://cryptopotato.com/wp-content/uploads/2023/08/Nexo_Mastercard.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/18871537/Offchain-Labs-introduces-Arbitrum-Stylus-to-expand-language-support-for-Ethereum-Layer-2-dapps",
-          "author": null,
-          "description": "Offchain Labs introduced a technical implementation called Arbitrum Stylus to support smart contract development in multiple languages.",
-          "link": "https://cryptopanic.com/news/18871537/Offchain-Labs-introduces-Arbitrum-Stylus-to-expand-language-support-for-Ethereum-Layer-2-dapps",
-          "publishedOn": "2023-08-31T13:00:04.000Z",
-          "wordCount": 596,
-          "title": "Offchain Labs introduces Arbitrum Stylus to expand language support for Ethereum Layer 2 dapps",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2022/08/20220815_Arbitrum2-1200x675.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/18871538/PancakeSwap-expands-to-Coinbase-incubated-Ethereum-layer-2-Base",
-          "author": null,
-          "description": "PancakeSwap has launched on Base — the Coinbase-incubated Ethereum layer 2 scaling network — as it continues its multichain expansion.",
-          "link": "https://cryptopanic.com/news/18871538/PancakeSwap-expands-to-Coinbase-incubated-Ethereum-layer-2-Base",
-          "publishedOn": "2023-08-31T13:00:04.000Z",
-          "wordCount": 590,
-          "title": "PancakeSwap expands to Coinbase-incubated Ethereum layer 2 Base",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2023/07/base_coinbase_mainnet-1200x675.jpeg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/18871534/Court-Says-Yes-To-Binance-Request-In-Case-Against-SEC",
-          "author": null,
-          "description": "In a new development in the ongoing case between crypto exchange Binance.US and the Security and Exchange Commission (SEC), the Court has approved Binance’s request for a new attorney. Following approval from Judge Amy Jackson, attorney Andrew Rhys Davies can now appear in court for Binance.US....",
-          "link": "https://cryptopanic.com/news/18871534/Court-Says-Yes-To-Binance-Request-In-Case-Against-SEC",
-          "publishedOn": "2023-08-31T13:00:01.000Z",
-          "wordCount": 592,
-          "title": "Court Says Yes To Binance Request In Case Against SEC",
-          "imageUrl": "https://www.newsbtc.com/wp-content/uploads/2023/08/bermix-studio-lEu6RTAajvk-unsplash.jpg?fit=6000%2C4000"
-        },
-        {
-          "id": "https://cryptopanic.com/news/18871566/ChatGPT-Analyses-Shiba-Inu-Price-for-2023-2024-2025-2030-Is-Wall-Streets-Memes-More-Likely-to-Hit-1",
-          "author": null,
-          "description": "Shiba Inu has been one of the most talked-about cryptos recently due to the launch of the Shibarium blockchain. The launch was initially unsuccessful, but the Shibairum developers issued a relaunch, and the layer 2 blockchain is now fully functional. OpenAi’s ChatGTP has weighed in on the future...",
-          "link": "https://cryptopanic.com/news/18871566/ChatGPT-Analyses-Shiba-Inu-Price-for-2023-2024-2025-2030-Is-Wall-Streets-Memes-More-Likely-to-Hit-1",
-          "publishedOn": "2023-08-31T13:00:00.000Z",
-          "wordCount": 602,
-          "title": "ChatGPT Analyses Shiba Inu Price for 2023, 2024, 2025, 2030 – Is Wall Streets Memes More Likely to Hit $1?",
-          "imageUrl": "https://s32659.pcdn.co/wp-content/uploads/2023/08/IMG_6122.png"
-        },
-        {
-          "id": "https://cryptopanic.com/news/18871579/Freedom-unleashed-Americans-deserve-the-right-to-own-their-data",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/18871579/Freedom-unleashed-Americans-deserve-the-right-to-own-their-data",
-          "publishedOn": "2023-08-31T13:00:00.000Z",
-          "wordCount": null,
-          "title": "Freedom unleashed: Americans deserve the right to own their data",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18871573/Arbitrum-Developer-Courts-Coders-Who-Already-Know-WebAssembly-Compatible-Languages",
-          "author": null,
-          "description": "The new feature \"Arbitrum Stylus\" will make it easy to write smart contracts using computer languages compatible with the WebAssembly or WASM standard – seen as far more common than the Ethereum Virtual Machine or EVM standard that many blockchain developers currently use.",
-          "link": "https://cryptopanic.com/news/18871573/Arbitrum-Developer-Courts-Coders-Who-Already-Know-WebAssembly-Compatible-Languages",
-          "publishedOn": "2023-08-31T13:00:00.000Z",
-          "wordCount": 591,
-          "title": "Arbitrum Developer Courts Coders Who Already Know WebAssembly-Compatible Languages",
-          "imageUrl": "https://www.coindesk.com/resizer/ud7289KWHeQ0pIENX1TfbzF2g_Y=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/2TEGJKC5NNGHHLF45MX5MWOQRQ.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/18871519/Arbitrum-Stylus-could-cut-costs-100x-with-two-virtual-machines",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/18871519/Arbitrum-Stylus-could-cut-costs-100x-with-two-virtual-machines",
-          "publishedOn": "2023-08-31T13:00:00.000Z",
-          "wordCount": null,
-          "title": "Arbitrum Stylus could cut costs 100x with two virtual machines",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18871574/First-Mover-Americas-Musks-X-Obtains-Payment-Licenses-in-Several-US-States",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/18871574/First-Mover-Americas-Musks-X-Obtains-Payment-Licenses-in-Several-US-States",
-          "publishedOn": "2023-08-31T12:56:23.000Z",
-          "wordCount": null,
-          "title": "First Mover Americas: Musk's X Obtains Payment Licenses in Several U.S. States",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18871540/Shiba-Inu-SHIB-Symmetrical-Triangle-Is-Here-Heres-What-Might-Happen",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/18871540/Shiba-Inu-SHIB-Symmetrical-Triangle-Is-Here-Heres-What-Might-Happen",
-          "publishedOn": "2023-08-31T12:55:00.000Z",
-          "wordCount": null,
-          "title": "Shiba Inu (SHIB) Symmetrical Triangle Is Here, Here's What Might Happen",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18871548/Analyst-Renews-Crypto-Market-Fears-with-Bitcoin-8000-Prediction",
-          "author": null,
-          "description": "Mike McGlone, Bloomberg Intelligence Senior Commodity Strategist, in a recent interview, said Bitcoin could still drop to a low of $8,000 amid the prolonged market slowdown. McGlone noted that despite its recent selloffs, Bitcoin is still the best-performing asset in the history of the world. He...",
-          "link": "https://cryptopanic.com/news/18871548/Analyst-Renews-Crypto-Market-Fears-with-Bitcoin-8000-Prediction",
-          "publishedOn": "2023-08-31T12:55:00.000Z",
-          "wordCount": 591,
-          "title": "Analyst Renews Crypto Market Fears with Bitcoin $8000 Prediction",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18871571/10-Crypto-Ideas-From-Coinbase-CEO-Brian-Armstrong-Bear-Markets-Are-For-Building",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/18871571/10-Crypto-Ideas-From-Coinbase-CEO-Brian-Armstrong-Bear-Markets-Are-For-Building",
-          "publishedOn": "2023-08-31T12:52:44.000Z",
-          "wordCount": null,
-          "title": "10 Crypto Ideas From Coinbase CEO Brian Armstrong: 'Bear Markets Are For Building'",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18871539/Swift-says-interoperability-experiment-with-Chainlinks-CCIP-was-successful",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/18871539/Swift-says-interoperability-experiment-with-Chainlinks-CCIP-was-successful",
-          "publishedOn": "2023-08-31T12:51:05.000Z",
-          "wordCount": null,
-          "title": "Swift says interoperability experiment with Chainlink’s CCIP was successful",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18871493/Swift-details-findings-in-tests-of-Chainlinks-cross-chain-interoperability",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/18871493/Swift-details-findings-in-tests-of-Chainlinks-cross-chain-interoperability",
-          "publishedOn": "2023-08-31T12:49:37.000Z",
-          "wordCount": null,
-          "title": "Swift details findings in tests of Chainlink’s cross-chain interoperability",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18871508/Bitcoin-Holds-Strong-Above-27000-as-Traders-Maintain-Bullish-Outlook",
-          "author": null,
-          "description": "Bitcoin is maintaining its recent gains, as traders remain optimistic about the bullish trajectory of...",
-          "link": "https://cryptopanic.com/news/18871508/Bitcoin-Holds-Strong-Above-27000-as-Traders-Maintain-Bullish-Outlook",
-          "publishedOn": "2023-08-31T12:48:25.000Z",
-          "wordCount": 592,
-          "title": "Bitcoin Holds Strong Above $27,000 as Traders Maintain Bullish Outlook",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18871501/MATIC-co-founder-invites-SHIB-to-use-Polygon-zkEVM-for-Shibarium",
-          "author": null,
-          "description": "Meme cryptocurrency Shiba Inu (SHIB) has recaptured attention in the digital asset sector, particularly following the relaunch of Shibarium, a … Continued",
-          "link": "https://cryptopanic.com/news/18871501/MATIC-co-founder-invites-SHIB-to-use-Polygon-zkEVM-for-Shibarium",
-          "publishedOn": "2023-08-31T12:48:01.000Z",
-          "wordCount": 592,
-          "title": "MATIC co-founder invites SHIB to use Polygon zkEVM for Shibarium",
-          "imageUrl": "https://finbold.com/app/uploads/2023/08/MATIC-co-founder-invites-SHIB-to-use-Polygon-zkEVM-for-Shibarium.jpg"
         }
       ]
     },
@@ -1030,12 +1030,52 @@
       "siteUrl": "https://www.inoreader.com/stream/user/1005336866/tag/%E6%B5%B7%E5%A4%96%E5%8A%A0%E5%AF%86%E8%B5%84%E8%AE%AF/view/html",
       "articles": [
         {
+          "id": "http://www.inoreader.com/article/3a9c6e754a412e0b",
+          "author": "Eliman Dambell",
+          "description": "Bitcoin edged lower once again on Thursday, as traders continued to capture profits following gains on Tuesday. The latest drop followed data revealing U.S. gross domestic product growth in the second quarter that undershot expectations. Ethereum likewise declined, dipping under $1,700.\n \nBitcoin\n \nBitcoin was in the red for a second consecutive session, as a mixture of profit-taking and general bearish sentiment impacted price.\n \nFollowing a peak of $27,490.77 on hump day, BTC/USD dropped to an intraday low of $27,069.21 earlier today.\n \nThe sell-off comes a few days removed from bitcoin moving above $28,000, following Grayscale’s court win against the Securities and Exchanges Commission (SEC).\n \n \nOn a technical note, the decline coincided with the 14-day relative strength index (RSI) failing to move beyond its ceiling at 53.00.\n \nAs of writing this, the index is now tracking at a reading of 47.50, with the next visible floor at the 43.00 level.\n \nShould momentum push price strength to this point, there is a good chance that the price will drop below $27,000.\n \n \nEthereum\n \nAdditionally, ethereum (ETH) was back in the red on Thursday, with price falling below the $1,700 level.\n \nETH/USD dropped to the bottom of $1,697.15 earlier in the day, which comes following a high of $1,721.62 the day prior.\n \nLike with bitcoin, the decline appears to be a result of profit-taking, after ethereum surged to a multi-week high on Tuesday.\n \n \nIn order for bulls to maintain the momentum from earlier in the week, a breakout will need to occur at the 49.00 level on the RSI.\n \nPrice strength is now tracking at 45.65, with price back above $1,700.\n \nRegister your email here to get weekly price analysis updates sent to your inbox:\n \nWill momentum continue to climb in the coming days? Leave your thoughts in the comments below.",
+          "link": "https://news.bitcoin.com/bitcoin-ethereum-technical-analysis-btc-erases-recent-gains-as-us-gdp-disappoints/",
+          "publishedOn": "2023-08-31T13:47:10.000Z",
+          "wordCount": 234,
+          "title": "Bitcoin, Ethereum Technical Analysis: BTC Erases Recent Gains as US GDP Disappoints",
+          "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2023/08/shutterstock_2227648537.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAYIWLWC3GPQWL5SMB%2F20230831%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230831T133826Z&X-Amz-SignedHeaders=host&X-Amz-Expires=600&X-Amz-Signature=361f3383025a358333e3817492d6c865afdb52678b319e5dce095da5d54741b2"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e754a43e281",
+          "author": "Sandali Handagama",
+          "description": "A New York judge declined to \"stretch the federal securities laws to cover the conduct alleged\" in a proposed class action complaint seeking to hold Uniswap accountable for \"scam tokens\" issued on the protocol.",
+          "link": "https://www.coindesk.com/policy/2023/08/31/us-court-calls-eth-a-commodity-while-tossing-investor-suit-against-uniswap/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2023-08-31T13:27:20.000Z",
+          "wordCount": 7726,
+          "title": "U.S. Court Calls ETH a Commodity While Tossing Investor Suit Against Uniswap",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/jpeg",
+            "url": "https://www.coindesk.com/resizer/yntvqnfDENgzFbmPfBgafNDljjU=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/M36D5YZNFZDP3IDQW4DXLINME4.jpg"
+          },
+          "imageUrl": "https://www.coindesk.com/resizer/yntvqnfDENgzFbmPfBgafNDljjU=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/M36D5YZNFZDP3IDQW4DXLINME4.jpg"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e754a4ced19",
+          "author": "Kent Glory",
+          "description": "A partner at K&L Gates law firm, Jeremy McLaughlin, has predicted a resurgence in the US crypto industry amid ongoing regulatory turmoil. According to the crypto-focused lawyer, the US Securities and Exchanges Commission’s recent court losses reignite hopes for the blockchain industry.\n \nSEC Recent Court Loses Reignites Hope That Clear Crypto Legislation Is Underway\n \nMcLaughlin’s remarks came after a federal appeal court ruled against the securities regulator in its case with asset manager Grayscale. \n \nNotably, McLaughlin spoke on a panel alongside the CEO of Payment service provider Novatti, Effie Dimitropoulos, and King Lueng, fintech head at Invest Hong Kong, regarding crypto regulation in Melbourne on August 30. During this panel, the lawyer bashed the SEC and its chairman Gary Gensl…",
+          "link": "https://bitcoinist.com/jeremy-mclaughlin-sees-crypto-resurgence/",
+          "publishedOn": "2023-08-31T13:19:07.000Z",
+          "wordCount": 5449,
+          "title": "Jeremy McLaughlin Forecasts Crypto Resurgence in The US – Here’s How",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/jpeg",
+            "url": "https://bitcoinist.com/wp-content/uploads/2023/08/Crypto-640x352.jpg"
+          },
+          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2023/08/Crypto-640x352.jpg"
+        },
+        {
           "id": "http://www.inoreader.com/article/3a9c6e754a4d4f96",
           "author": "Omkar Godbole",
           "description": "A death occurs when an asset's 50-day simple moving average dips below its 200-day simple moving average.",
           "link": "https://www.coindesk.com/markets/2023/08/31/ether-heads-for-death-cross/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-08-31T13:16:32.000Z",
-          "wordCount": 6662,
+          "wordCount": 6674,
           "title": "Ether Heads for 'Death Cross'",
           "enclosure": {
             "length": "1337",
@@ -1050,7 +1090,7 @@
           "description": "The new feature \"Arbitrum Stylus\" will make it easy to write smart contracts using computer languages compatible with the WebAssembly or WASM standard – seen as far more common than the Ethereum Virtual Machine or EVM standard that many blockchain developers currently use.",
           "link": "https://www.coindesk.com/tech/2023/08/31/arbitrum-developer-courts-coders-who-already-know-webassembly-compatible-languages/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-08-31T13:05:05.000Z",
-          "wordCount": 7269,
+          "wordCount": 7277,
           "title": "Arbitrum Developer Courts Coders Who Already Know WebAssembly-Compatible Languages",
           "enclosure": {
             "length": "1337",
@@ -1065,7 +1105,7 @@
           "description": "The latest price moves in bitcoin (BTC) and crypto markets in context for August 30, 2023. First Mover is CoinDesk’s daily newsletter that contextualizes the latest actions in the crypto markets.",
           "link": "https://www.coindesk.com/markets/2023/08/31/first-mover-americas-musks-x-obtains-payment-licenses-in-several-us-states/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-08-31T13:05:05.000Z",
-          "wordCount": 7589,
+          "wordCount": 7592,
           "title": "First Mover Americas: Musk's X Obtains Payment Licenses in Several U.S. States",
           "enclosure": {
             "length": "1337",
@@ -1080,7 +1120,7 @@
           "description": "Its creators hope to emulate the apparent success of Velodrome, one of Optimism network’s most used platforms which holds over $288 million in locked value.",
           "link": "https://www.coindesk.com/tech/2023/08/31/aerodrome-fanatics-deposit-150m-to-base-blockchain-on-first-day/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-08-31T12:58:30.000Z",
-          "wordCount": 7215,
+          "wordCount": 7227,
           "title": "Aerodrome Fanatics Deposit $150M to Base Blockchain on First Day",
           "enclosure": {
             "length": "1337",
@@ -1205,7 +1245,7 @@
           "description": "Swift and Chainlink announced in June they were collaborating with dozens of financial institutions to test connecting blockchains.",
           "link": "https://www.coindesk.com/tech/2023/08/31/swift-chainlink-tokenization-experiment-successfully-transfers-value-across-multiple-blockchains/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-08-31T10:22:05.000Z",
-          "wordCount": 6420,
+          "wordCount": 6546,
           "title": "Swift, Chainlink Tokenization Experiment Successfully Transfers Value Across Multiple Blockchains",
           "enclosure": {
             "length": "1337",
@@ -1235,7 +1275,7 @@
           "description": "Elon Musk's social media platform X, formerly Twitter, has obtained money or currency transmitter licenses in seven U.S. states.",
           "link": "https://www.coindesk.com/business/2023/08/31/elon-musks-x-has-licenses-in-multiple-us-states-to-process-payments-including-crypto/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-08-31T10:07:39.000Z",
-          "wordCount": 7614,
+          "wordCount": 7593,
           "title": "Elon Musk's X Has Licenses in Multiple U.S. States to Process Payments, Including Crypto",
           "enclosure": {
             "length": "1337",
@@ -1243,51 +1283,6 @@
             "url": "https://www.coindesk.com/resizer/jRHvh7cPp1v7Z7yDBjdlSRX5Cwc=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/EIVBCNR6YNCIJHWINFFBYQSI6M.jpg"
           },
           "imageUrl": "https://www.coindesk.com/resizer/jRHvh7cPp1v7Z7yDBjdlSRX5Cwc=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/EIVBCNR6YNCIJHWINFFBYQSI6M.jpg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e754a229f95",
-          "author": "Will Canny",
-          "description": "Coinbase’s potential involvement in spot bitcoin ETFs could serve as part of the SEC’s reconfigured arguments for rejecting the applications, the report said.",
-          "link": "https://www.coindesk.com/business/2023/08/31/sec-could-prepare-alternative-arguments-to-reject-spot-bitcoin-etfs-berenberg/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-          "publishedOn": "2023-08-31T09:33:19.000Z",
-          "wordCount": 6791,
-          "title": "SEC Could Prepare Alternative Arguments to Reject Spot Bitcoin ETFs: Berenberg",
-          "enclosure": {
-            "length": "1337",
-            "type": "image/jpeg",
-            "url": "https://www.coindesk.com/resizer/GuJaZwHmRHRYULHNrnpihkZcflA=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/36VE2YYH4ZHF7C4JOMMWCFTEXY.jpg"
-          },
-          "imageUrl": "https://www.coindesk.com/resizer/GuJaZwHmRHRYULHNrnpihkZcflA=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/36VE2YYH4ZHF7C4JOMMWCFTEXY.jpg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e754a2c6eef",
-          "author": "Scott Matherson",
-          "description": "Following the court’s ruling in favor of Grayscale against the US Securities and Exchange Commission (SEC), many have begun to wonder whether or not the SEC will succumb and approve Grayscale’s ETF application. However, this looks more likely as Bloomberg ETF analysts have increased the odds in favor of the asset manager. \n \nOdds For ETF Approval “75%”\n \nBloomberg Analysts Eric Balchunas and James Seyffart have increased the likelihood of Spot Bitcoin ETFs launching this year to 75%. Balchunas further stated that the odds would rise to 95% by the end of 2024 if these ETFs weren’t approved by then.\n \n \nThis latest prediction comes after both analysts had previously put the odds of ETF approval this year at 65% (pre-Grayscale’s victory). According to them, the increase in the odds is because…",
-          "link": "https://bitcoinist.com/likelihood-grayscale-spot-bitcoin-etf/",
-          "publishedOn": "2023-08-31T09:19:18.000Z",
-          "wordCount": 5405,
-          "title": "Bloomberg Increases Likelihood Of Grayscale Spot Bitcoin ETF Approval Amid Uncertainty",
-          "enclosure": {
-            "length": "1337",
-            "type": "image/jpeg",
-            "url": "https://bitcoinist.com/wp-content/uploads/2023/08/iStock-502544320-630x420.jpg"
-          },
-          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2023/08/iStock-502544320-630x420.jpg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e754a2c7edc",
-          "author": "Shaurya Malwa",
-          "description": "Falling revenues have led some market commenters to say the platform has “gone dead.” But has it?",
-          "link": "https://www.coindesk.com/tech/2023/08/31/scores-of-friendtech-users-remain-active-even-as-trading-volumes-drop-95/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-          "publishedOn": "2023-08-31T09:18:17.000Z",
-          "wordCount": 7122,
-          "title": "Scores of Friend.tech Users Remain Active Even as Trading Volumes Drop 95%",
-          "enclosure": {
-            "length": "1337",
-            "type": "image/jpeg",
-            "url": "https://www.coindesk.com/resizer/Cj9-gRG84Uy8wciW_cl_Eh82MGI=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/EQXUIV6R2NFB5DHWCNDNPCXMFA.jpg"
-          },
-          "imageUrl": "https://www.coindesk.com/resizer/Cj9-gRG84Uy8wciW_cl_Eh82MGI=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/EQXUIV6R2NFB5DHWCNDNPCXMFA.jpg"
         }
       ]
     }

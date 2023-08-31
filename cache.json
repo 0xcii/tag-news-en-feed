@@ -6,6 +6,21 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=55615",
+          "author": "Matt Hussey",
+          "description": "In this guide we explain how staking and lending works in cryptocurrencies, their benefits, but also their potential downsides.",
+          "link": "https://decrypt.co/resources/how-to-invest-in-cryptocurrencies-staking-and-lending",
+          "publishedOn": "2023-08-31T09:13:07.000Z",
+          "wordCount": 10452,
+          "title": "What are Staking and Lending? The Crypto Investment That Can Earn Interest",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/01/StakingCoins-gID_7-pID_2.png@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/01/StakingCoins-gID_7-pID_2.png@png"
+        },
+        {
           "id": "https://decrypt.co/?p=154418",
           "author": "Andrew Asmakov",
           "description": "Robinhood's self-custodial crypto wallet now lets users dive deep into the world of decentralized finance via Ethereum swaps.",
@@ -41,7 +56,7 @@
           "description": "Bringing liquid staking to Bitcoin will help solve Lightning Network’s liquidity challenges, argues the team behind the Stroom Network.",
           "link": "https://decrypt.co/154264/stroom-raises-3-5m-bring-liquid-staking-bitcoin-lightning-network",
           "publishedOn": "2023-08-31T07:01:02.000Z",
-          "wordCount": 9108,
+          "wordCount": 9075,
           "title": "Stroom Raises $3.5M to Bring Liquid Staking to Bitcoin Lightning Network",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/04/bitcoin-lightning-network-gID_7.jpeg@png",
@@ -561,21 +576,6 @@
           "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/06/bitcoin-cash-bch-logo-on-smartphone-gID_7.jpg@png"
         },
         {
-          "id": "https://decrypt.co/?p=154129",
-          "author": "Andrew Throuvalas",
-          "description": "A single Bitcoin upgrade could guarantee the network's victory over all other coins, proponents say. Others think it'll introduce shitcoins to the network.",
-          "link": "https://decrypt.co/154129/what-is-a-bitcoin-drivechain",
-          "publishedOn": "2023-08-29T18:49:22.000Z",
-          "wordCount": 10720,
-          "title": "What's a Bitcoin Drivechain and Why Are Devs At Odds Over Its Proposal?",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/08/bitcoin-btc-drivechain-devs-debate-gID_7.jpg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/08/bitcoin-btc-drivechain-devs-debate-gID_7.jpg@png"
-        },
-        {
           "id": "https://decrypt.co/videos/explainers/HQGt1Vrq/mastering-nft-trading-degen-u",
           "author": null,
           "description": "Take Degen U's new course, Mastering NFT Trading, and earn an on-chain certificate. A top instructor will help you identify trends, seize the right moment to trade, weed out scams—and have fun while doing it!",
@@ -731,7 +731,7 @@
           "description": "Decrypt's Jason Nelson talks to Aurory's Head of Marketing and Business Development Michael Natoli about the origins of the Aurory crypto games at the Solana PlayGG event.",
           "link": "https://decrypt.co/videos/interviews/O0S201TB/aurorys-origin-story-how-jrpgs-inspired-the-games",
           "publishedOn": "2023-08-14T16:57:00.000Z",
-          "wordCount": 6250,
+          "wordCount": 6563,
           "title": "Aurory's Origin Story: How JRPGs Inspired the Games",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/O0S201TB/poster.jpg",
@@ -791,7 +791,7 @@
           "description": "MetalCore is an upcoming mech shooter developed by Studio 369, and it's being developed on Ethereum scaling network Immutable zkEVM. Decrypt contributor Ryan Gladwin played through the prologue and tested out the recent Alpha 3 online experience to get a sense of the NFT-infused mashup of Titanfall and Destiny.",
           "link": "https://decrypt.co/videos/live-events/tjK6i7lv/metalcore-game-preview-hands-on-with-the-titanfall-meets-destiny-nft-mashup",
           "publishedOn": "2023-08-04T19:46:06.000Z",
-          "wordCount": 6764,
+          "wordCount": 6380,
           "title": "'MetalCore' Game Preview: Hands-on With the 'Titanfall' Meets 'Destiny' NFT Mashup",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/tjK6i7lv/poster.jpg",
@@ -806,7 +806,7 @@
           "description": "Aurory is an NFT-driven game franchise that started life on Solana and is expanding to other chains. Decrypt's Jason Nelson spoke with Aurory Head of Marketing Michael Natoli at Solana's PlayGG event, where Natoli shared his thoughts on the challenges that blockchain games face in reaching players.",
           "link": "https://decrypt.co/videos/interviews/nBNKKZdK/give-projects-a-chance-says-aurorys-michael-natoli-on-nft-game-challenges",
           "publishedOn": "2023-08-02T18:40:00.000Z",
-          "wordCount": 6687,
+          "wordCount": 6374,
           "title": "'Give Projects a Chance,' Says Aurory's Michael Natoli on NFT Game Challenges",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/nBNKKZdK/poster.jpg",
@@ -823,203 +823,203 @@
       "siteUrl": "https://cryptopanic.com/",
       "articles": [
         {
-          "id": "https://cryptopanic.com/news/18870893/Analysts-Give-Spot-Bitcoin-ETFs-75-Chance-of-2023-Approval",
+          "id": "https://cryptopanic.com/news/18871056/Machine-learning-algorithm-sets-XRP-price-for-September-30-2023",
           "author": null,
-          "description": "Analysts have increased the odds of a spot Bitcoin ETF approval by 75% following Grayscale’s win in court.",
-          "link": "https://cryptopanic.com/news/18870893/Analysts-Give-Spot-Bitcoin-ETFs-75-Chance-of-2023-Approval",
-          "publishedOn": "2023-08-31T09:05:00.000Z",
+          "description": "",
+          "link": "https://cryptopanic.com/news/18871056/Machine-learning-algorithm-sets-XRP-price-for-September-30-2023",
+          "publishedOn": "2023-08-31T10:09:53.000Z",
+          "wordCount": null,
+          "title": "Machine learning algorithm sets XRP price for September 30, 2023",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18871050/Coinbase-CEO-Unveils-10-Crypto-Concepts-to-Fuel-Developer-Creativity",
+          "author": null,
+          "description": "Coinspeaker Coinbase CEO Unveils 10 Crypto Concepts to Fuel Developer Creativity Addressing the unequal distribution of capital, Armstrong suggested the concept of \"On-Chain Capital Formation\". Coinbase CEO Unveils 10 Crypto Concepts to Fuel Developer Creativity",
+          "link": "https://cryptopanic.com/news/18871050/Coinbase-CEO-Unveils-10-Crypto-Concepts-to-Fuel-Developer-Creativity",
+          "publishedOn": "2023-08-31T10:09:44.000Z",
           "wordCount": 592,
-          "title": "Analysts Give Spot Bitcoin ETFs 75% Chance of 2023 Approval",
+          "title": "Coinbase CEO Unveils 10 Crypto Concepts to Fuel Developer Creativity",
           "imageUrl": null
         },
         {
-          "id": "https://cryptopanic.com/news/18870896/Bloomberg-Analysts-Raises-Approval-Chances-Of-Spot-Bitcoin-ETF-To-75",
+          "id": "https://cryptopanic.com/news/18871054/Uniswap-securities-violation-charges-dismissed-by-US-court",
           "author": null,
-          "description": "Bloomberg senior analysts Eric Balchunas and James Seyffart have raised their approval odds of the first Bitcoin spot exchange-traded fund (ETF) in the United States (US) to 75%.  This development comes after the US District of Columbia Circuit ruled against the US Securities and Exchange...",
-          "link": "https://cryptopanic.com/news/18870896/Bloomberg-Analysts-Raises-Approval-Chances-Of-Spot-Bitcoin-ETF-To-75",
-          "publishedOn": "2023-08-31T09:00:48.000Z",
-          "wordCount": 593,
-          "title": "Bloomberg Analysts Raises Approval Chances Of Spot Bitcoin ETF To 75%",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18870852/Bitcoin-hodlers-unfazed-by-recent-market-volatility",
-          "author": null,
-          "description": "Fresh data suggests 40% of bitcoin’s total supply has remained stationary for more than three years",
-          "link": "https://cryptopanic.com/news/18870852/Bitcoin-hodlers-unfazed-by-recent-market-volatility",
-          "publishedOn": "2023-08-31T08:58:16.000Z",
-          "wordCount": 589,
-          "title": "Bitcoin ‘hodlers’ unfazed by recent market volatility",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18870889/Coinbase-CEO-Brian-Armstrong-Shares-Top-10-Crypto-Startup-Ideas-for-Entrepreneurs",
-          "author": null,
-          "description": "Coinbase CEO Brian Armstrong has penned a blog post outlining his top 10 startup ideas for the burgeoning crypto industry. Armstrong believes that the crypto space is still in its early stages and presents a golden opportunity for entrepreneurs. He emphasizes that while Coinbase has the...",
-          "link": "https://cryptopanic.com/news/18870889/Coinbase-CEO-Brian-Armstrong-Shares-Top-10-Crypto-Startup-Ideas-for-Entrepreneurs",
-          "publishedOn": "2023-08-31T08:56:24.000Z",
-          "wordCount": 594,
-          "title": "Coinbase CEO Brian Armstrong Shares Top 10 Crypto Startup Ideas for Entrepreneurs",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18870888/Bitcoin-Holdings-on-Crypto-Exchanges-Dwindle-to-2M-Fewest-Since-January-2018",
-          "author": null,
-          "description": "The number of BTC held in wallets tied to crypto exchanges has declined by 4% this month, data tracked by CryptoQuant show.",
-          "link": "https://cryptopanic.com/news/18870888/Bitcoin-Holdings-on-Crypto-Exchanges-Dwindle-to-2M-Fewest-Since-January-2018",
-          "publishedOn": "2023-08-31T08:55:49.000Z",
-          "wordCount": 594,
-          "title": "Bitcoin Holdings on Crypto Exchanges Dwindle to 2M, Fewest Since January 2018",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18870836/Bitcoin-Loses-1K-From-the-Grayscale-Induced-Peak-Solana-Retraces-4-Market-Watch",
-          "author": null,
-          "description": "DOGE is among the few larger-cap alts in the green today.",
-          "link": "https://cryptopanic.com/news/18870836/Bitcoin-Loses-1K-From-the-Grayscale-Induced-Peak-Solana-Retraces-4-Market-Watch",
-          "publishedOn": "2023-08-31T08:47:01.000Z",
-          "wordCount": 594,
-          "title": "Bitcoin Loses $1K From the Grayscale-Induced Peak, Solana Retraces 4% (Market Watch)",
-          "imageUrl": "https://cryptopotato.com/wp-content/uploads/2023/01/Bitcoin_Solana_MW.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/18870832/Arkham-IDs-Robinhood-as-5th-largest-ETH-holder",
-          "author": null,
-          "description": "Arkham Intelligence said the wallet contains approximately $2.54 billion worth of ETH under custody for user balances.",
-          "link": "https://cryptopanic.com/news/18870832/Arkham-IDs-Robinhood-as-5th-largest-ETH-holder",
-          "publishedOn": "2023-08-31T08:45:25.000Z",
-          "wordCount": 589,
-          "title": "Arkham IDs Robinhood as 5th-largest ETH holder",
-          "imageUrl": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-08/5a6b7e78-26ff-4c5f-b4f2-513c91c72fc1.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/18870833/Bitcoin-price-holds-200-day-trend-line-as-trader-predicts-low-is-in",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/18870833/Bitcoin-price-holds-200-day-trend-line-as-trader-predicts-low-is-in",
-          "publishedOn": "2023-08-31T08:45:19.000Z",
-          "wordCount": null,
-          "title": "Bitcoin price holds 200-day trend line as trader predicts low is in",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18870842/Courts-Turning-Against-SECs-Interpretation-of-Crypto-XRP-Lawyer",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/18870842/Courts-Turning-Against-SECs-Interpretation-of-Crypto-XRP-Lawyer",
-          "publishedOn": "2023-08-31T08:44:40.000Z",
-          "wordCount": null,
-          "title": "Courts Turning Against SEC’s Interpretation of Crypto: XRP Lawyer",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18870824/Coinbase-set-to-list-PayPal-stablecoin-PYUSD",
-          "author": null,
-          "description": "Crypto exchange Coinbase will begin trading of the PayPal stablecoin PYUSD on Aug. 31 — if liquidity conditions are met.",
-          "link": "https://cryptopanic.com/news/18870824/Coinbase-set-to-list-PayPal-stablecoin-PYUSD",
-          "publishedOn": "2023-08-31T08:35:57.000Z",
-          "wordCount": 589,
-          "title": "Coinbase set to list PayPal stablecoin PYUSD",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18870817/Bloomberg-Increases-Likelihood-Of-Grayscale-Spot-Bitcoin-ETF-Approval-Amid-Uncertainty",
-          "author": null,
-          "description": "Following the court’s ruling in favor of Grayscale against the US Securities and Exchange Commission (SEC), many have begun to wonder whether or not the SEC will succumb and approve Grayscale’s ETF application. However, this looks more likely as Bloomberg ETF analysts have increased the odds in...",
-          "link": "https://cryptopanic.com/news/18870817/Bloomberg-Increases-Likelihood-Of-Grayscale-Spot-Bitcoin-ETF-Approval-Amid-Uncertainty",
-          "publishedOn": "2023-08-31T08:30:27.000Z",
-          "wordCount": 593,
-          "title": "Bloomberg Increases Likelihood Of Grayscale Spot Bitcoin ETF Approval Amid Uncertainty",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18870818/Binance-to-Gradually-End-Support-for-BUSD-Products",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/18870818/Binance-to-Gradually-End-Support-for-BUSD-Products",
-          "publishedOn": "2023-08-31T08:27:23.000Z",
-          "wordCount": null,
-          "title": "Binance to 'Gradually' End Support for BUSD Products",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18870793/Meme-Coins-Continue-To-Stumble-Through-Marketwide-Selloff",
-          "author": null,
-          "description": "The past week has not been kind to popular meme coins like Shiba Inu (SHIB) and Pepe (PEPE). While other altcoins saw their prices rise after Grayscale’s victory over the SEC, most meme coins did not share in the market-wide bliss. CoinMarketCap shared that, at press time, SHIB was worth about...",
-          "link": "https://cryptopanic.com/news/18870793/Meme-Coins-Continue-To-Stumble-Through-Marketwide-Selloff",
-          "publishedOn": "2023-08-31T08:26:48.000Z",
+          "description": "A U.S. district court on Wednesday dismissed charges against a group of five firms for alleged securities violations on the Uniswap DeFi platform.",
+          "link": "https://cryptopanic.com/news/18871054/Uniswap-securities-violation-charges-dismissed-by-US-court",
+          "publishedOn": "2023-08-31T10:08:24.000Z",
           "wordCount": 590,
-          "title": "Meme Coins Continue To Stumble Through Marketwide Selloff",
+          "title": "Uniswap securities violation charges dismissed by US court",
           "imageUrl": null
         },
         {
-          "id": "https://cryptopanic.com/news/18870776/Worldcoin-Boasts-A-New-User-Every-9-Seconds-In-Argentina-Amid-Investigation",
-          "author": null,
-          "description": "Worldcoin has gained significant traction in Argentina, verifying the World ID of 9,500 Argentinians in a single day, despite facing an investigation by a local agency.",
-          "link": "https://cryptopanic.com/news/18870776/Worldcoin-Boasts-A-New-User-Every-9-Seconds-In-Argentina-Amid-Investigation",
-          "publishedOn": "2023-08-31T08:19:23.000Z",
-          "wordCount": 594,
-          "title": "Worldcoin Boasts A New User Every 9 Seconds In Argentina Amid Investigation",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18870772/Bitcoin-Starts-to-Retrace-Grayscale-Fueled-Gain-SOL-XRP-DOT-Lead-Majors-Slide",
+          "id": "https://cryptopanic.com/news/18871055/All-top-10-cryptos-fall-except-Dogecoin-as-boost-from-Grayscale-ETF-ruling-fades",
           "author": null,
           "description": "",
-          "link": "https://cryptopanic.com/news/18870772/Bitcoin-Starts-to-Retrace-Grayscale-Fueled-Gain-SOL-XRP-DOT-Lead-Majors-Slide",
-          "publishedOn": "2023-08-31T08:07:55.000Z",
+          "link": "https://cryptopanic.com/news/18871055/All-top-10-cryptos-fall-except-Dogecoin-as-boost-from-Grayscale-ETF-ruling-fades",
+          "publishedOn": "2023-08-31T10:06:49.000Z",
           "wordCount": null,
-          "title": "Bitcoin Starts to Retrace Grayscale-Fueled Gain; SOL, XRP, DOT Lead Majors Slide",
+          "title": "All top 10 cryptos fall except Dogecoin, as boost from Grayscale ETF ruling fades",
           "imageUrl": null
         },
         {
-          "id": "https://cryptopanic.com/news/18870758/Binance-pushes-new-stablecoin-as-it-confirms-plan-to-cease-BUSD-support",
+          "id": "https://cryptopanic.com/news/18871052/Shibarium-Outperforms-ShibaSwap-in-BONE-Rewards-Says-Shiba-Inu-Marketing-Strategist",
           "author": null,
-          "description": "Paxos has earlier said it will halt support of Binance's stablecoin by February 2024, now the exchange has said it will also stop support by that time.",
-          "link": "https://cryptopanic.com/news/18870758/Binance-pushes-new-stablecoin-as-it-confirms-plan-to-cease-BUSD-support",
-          "publishedOn": "2023-08-31T08:04:59.000Z",
-          "wordCount": 594,
-          "title": "Binance pushes new stablecoin as it confirms plan to cease BUSD support",
-          "imageUrl": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-08/8cee7c0d-0494-49b4-8851-9b7aea6bc995.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/18870787/Gemini-Raises-Concerns-About-Genesis-Bankruptcy-Plan",
-          "author": null,
-          "description": "Gemini has challenged Genesis’ bankruptcy plan recently presented by Digital Currency Group (DCG). It alleges that it lacks clarity and is difficult to comprehend due to the limited information provided. “These cases must proceed towards a resolution. It has been more than nine months since the...",
-          "link": "https://cryptopanic.com/news/18870787/Gemini-Raises-Concerns-About-Genesis-Bankruptcy-Plan",
-          "publishedOn": "2023-08-31T08:02:21.000Z",
-          "wordCount": 589,
-          "title": "Gemini Raises Concerns About Genesis Bankruptcy Plan",
+          "description": "“LucieSHIB”, the Marketing Strategist for the Shiba Inu Ecosystem, has confirmed that Shibarium, their recently launched layer-2 network, offers more favorable BONE rewards than ShibaSwap, the decentralized exchange (DEX) built on the Ethereum network. Lucie provided this information to guide...",
+          "link": "https://cryptopanic.com/news/18871052/Shibarium-Outperforms-ShibaSwap-in-BONE-Rewards-Says-Shiba-Inu-Marketing-Strategist",
+          "publishedOn": "2023-08-31T10:05:18.000Z",
+          "wordCount": 593,
+          "title": "Shibarium Outperforms ShibaSwap in $BONE Rewards, Says Shiba Inu Marketing Strategist",
           "imageUrl": null
         },
         {
-          "id": "https://cryptopanic.com/news/18870761/Airline-Giant-Lufthansa-Launches-NFT-Loyalty-Program-on-Polygon",
+          "id": "https://cryptopanic.com/news/18871049/DOTUSD-price-forecast-A-descending-triangle-keeps-bulls-at-bay",
           "author": null,
-          "description": "Lufthansa’s Uptrip loyalty program offers special perks for passengers who collect sets of NFT-based trading cards.",
-          "link": "https://cryptopanic.com/news/18870761/Airline-Giant-Lufthansa-Launches-NFT-Loyalty-Program-on-Polygon",
-          "publishedOn": "2023-08-31T08:01:02.000Z",
+          "description": "DOT/USD is in a triangular consolidation The bias remains bearish Conservative traders might want to wait for the market to move first There is nothing positive in the DOT/USD chart for bulls. The price action remains constrained by a triangular pattern that formed in the last twelve months....",
+          "link": "https://cryptopanic.com/news/18871049/DOTUSD-price-forecast-A-descending-triangle-keeps-bulls-at-bay",
+          "publishedOn": "2023-08-31T10:00:30.000Z",
+          "wordCount": 592,
+          "title": "DOT/USD price forecast: A descending triangle keeps bulls at bay",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18871061/I-HOPE-You-Did-Not-Have-Your-Money-In-This-Coin",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/18871061/I-HOPE-You-Did-Not-Have-Your-Money-In-This-Coin",
+          "publishedOn": "2023-08-31T09:54:34.000Z",
+          "wordCount": null,
+          "title": "I HOPE You Did Not Have Your Money In This Coin",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18871001/First-Digital-USD-FDUSD-reaps-big-as-Binance-cease-BUSD-support",
+          "author": null,
+          "description": "Binance aims to stop support for BUSD by February 2024. The Binance USD stablecoin was being issued by Paxos before the New York Department of Financial Services ordered it to stop. Paxos has also indicated that it will stop support of the Binance stablecoin by February 2024. With plans to...",
+          "link": "https://cryptopanic.com/news/18871001/First-Digital-USD-FDUSD-reaps-big-as-Binance-cease-BUSD-support",
+          "publishedOn": "2023-08-31T09:52:20.000Z",
+          "wordCount": 593,
+          "title": "First Digital USD (FDUSD) reaps big as Binance cease BUSD support",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18870985/Grayscale-CEO-uncertain-about-spot-bitcoin-ETF-refiling-despite-huge-win",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/18870985/Grayscale-CEO-uncertain-about-spot-bitcoin-ETF-refiling-despite-huge-win",
+          "publishedOn": "2023-08-31T09:48:50.000Z",
+          "wordCount": null,
+          "title": "Grayscale CEO uncertain about spot bitcoin ETF refiling despite ‘huge win’",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18870974/Crypto-Celebrity-Endorsements-Influencers-in-the-Bitcoin-Casino-Space",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/18870974/Crypto-Celebrity-Endorsements-Influencers-in-the-Bitcoin-Casino-Space",
+          "publishedOn": "2023-08-31T09:47:58.000Z",
+          "wordCount": null,
+          "title": "Crypto Celebrity Endorsements: Influencers in the Bitcoin Casino Space",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18870980/Elon-Musk-squashes-speculation-of-an-X-crypto-token",
+          "author": null,
+          "description": "Elon Musk has quashed any possibility that his social media platform X, formerly Twitter, would not launch any cryptocurrency token in an Aug. 31 post on the site. Musk shared this insight in response to a developer’s post on the social media platform. The developer emphasized the platform’s...",
+          "link": "https://cryptopanic.com/news/18870980/Elon-Musk-squashes-speculation-of-an-X-crypto-token",
+          "publishedOn": "2023-08-31T09:45:29.000Z",
           "wordCount": 591,
-          "title": "Airline Giant Lufthansa Launches NFT Loyalty Program on Polygon",
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/08/Lufthansa-shutterstock_1918656854-gID_7.jpg@png"
+          "title": "Elon Musk squashes speculation of an X crypto token",
+          "imageUrl": null
         },
         {
-          "id": "https://cryptopanic.com/news/18870737/Cambridge-Bitcoin-Electricity-Consumption-Index-updated-to-reflect-hardware-distribution-and-hash-rate-increases",
+          "id": "https://cryptopanic.com/news/18870964/Bitcoin-retreats-to-272K-following-the-Grayscale-court-frenzy",
           "author": null,
-          "description": "Cambridge researchers have revised the widely cited index in response to evidence indicating periodic overestimation of Bitcoin mining’s electricity consumption.",
-          "link": "https://cryptopanic.com/news/18870737/Cambridge-Bitcoin-Electricity-Consumption-Index-updated-to-reflect-hardware-distribution-and-hash-rate-increases",
-          "publishedOn": "2023-08-31T08:00:00.000Z",
-          "wordCount": 596,
-          "title": "Cambridge Bitcoin Electricity Consumption Index updated to reflect hardware distribution and hash rate increases",
-          "imageUrl": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-08/dff77503-406c-4e71-8481-d198f7727b36.jpg"
+          "description": "Bitcoin (BTC) retraced from its previous day’s peak above $28,000 on Wednesday as investors deliberated the consequences of Grayscale’s legal … Continued",
+          "link": "https://cryptopanic.com/news/18870964/Bitcoin-retreats-to-272K-following-the-Grayscale-court-frenzy",
+          "publishedOn": "2023-08-31T09:37:41.000Z",
+          "wordCount": 591,
+          "title": "Bitcoin retreats to $27.2K following the Grayscale court frenzy",
+          "imageUrl": null
         },
         {
-          "id": "https://cryptopanic.com/news/18870736/Binance-scouts-art-for-Pierre-Gaslys-F1-helmet-at-Abu-Dhabi-GP",
+          "id": "https://cryptopanic.com/news/18870960/Elon-Musks-X-Has-Licenses-in-Multiple-US-States-to-Process-Payments-Including-Crypto",
           "author": null,
           "description": "",
-          "link": "https://cryptopanic.com/news/18870736/Binance-scouts-art-for-Pierre-Gaslys-F1-helmet-at-Abu-Dhabi-GP",
-          "publishedOn": "2023-08-31T07:59:42.000Z",
+          "link": "https://cryptopanic.com/news/18870960/Elon-Musks-X-Has-Licenses-in-Multiple-US-States-to-Process-Payments-Including-Crypto",
+          "publishedOn": "2023-08-31T09:31:23.000Z",
           "wordCount": null,
-          "title": "Binance scouts art for Pierre Gasly’s F1 helmet at Abu Dhabi GP",
+          "title": "Elon Musk's X Has Licenses in Multiple U.S. States to Process Payments, Including Crypto",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18870958/Worldcoin-Hits-New-Sign-Up-Record-Despite-48-Decline-In-WLD-Price",
+          "author": null,
+          "description": "Worldcoin, a cryptocurrency project co-created by Sam Altman, disclosed that there has been an increase in demand for World ID. This growing popularity is said to have resulted in a new single-day record for user sign-ups in Argentina. This feat comes despite the ongoing investigation by local...",
+          "link": "https://cryptopanic.com/news/18870958/Worldcoin-Hits-New-Sign-Up-Record-Despite-48-Decline-In-WLD-Price",
+          "publishedOn": "2023-08-31T09:30:40.000Z",
+          "wordCount": 593,
+          "title": "Worldcoin Hits New Sign-Up Record Despite 48% Decline In WLD Price",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18870954/Worldcoin-Signs-Up-Nearly-10000-Argentinians-in-Less-than-24-Hours",
+          "author": null,
+          "description": "In less than 24 hours, nearly 10,000 Argentinians registered for World ID, powered by the Worldcoin ecosystem. This surge in sign-ups sets a new record for Orb verifications, the technology behind World ID. Argentina’s crypto-savvy populace seems to have embraced Worldcoin, but does this...",
+          "link": "https://cryptopanic.com/news/18870954/Worldcoin-Signs-Up-Nearly-10000-Argentinians-in-Less-than-24-Hours",
+          "publishedOn": "2023-08-31T09:30:00.000Z",
+          "wordCount": 593,
+          "title": "Worldcoin Signs Up Nearly 10,000 Argentinians in Less than 24 Hours",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18870933/ADA-Charles-Hoskinson-Clarifies-His-Stance-on-NFTs-in-the-Cardano-Ecosystem",
+          "author": null,
+          "description": "In a video released on August 30, 2023, Charles Hoskinson, the Co-Founder and CEO of Input Output Global (IOG), took the opportunity to clarify his stance on Non-Fungible Tokens (NFTs) within the Cardano ecosystem. The video serves as a comprehensive guide to understanding Hoskinson’s personal...",
+          "link": "https://cryptopanic.com/news/18870933/ADA-Charles-Hoskinson-Clarifies-His-Stance-on-NFTs-in-the-Cardano-Ecosystem",
+          "publishedOn": "2023-08-31T09:19:19.000Z",
+          "wordCount": 594,
+          "title": "$ADA: Charles Hoskinson Clarifies His Stance on NFTs in the Cardano Ecosystem",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18870931/SEC-Could-Prepare-Alternative-Arguments-to-Reject-Spot-Bitcoin-ETFs-Berenberg",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/18870931/SEC-Could-Prepare-Alternative-Arguments-to-Reject-Spot-Bitcoin-ETFs-Berenberg",
+          "publishedOn": "2023-08-31T09:19:09.000Z",
+          "wordCount": null,
+          "title": "SEC Could Prepare Alternative Arguments to Reject Spot Bitcoin ETFs: Berenberg",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18870918/Optimism-OP-Welcomes-USDC-Stablecoin-on-Mainnet",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/18870918/Optimism-OP-Welcomes-USDC-Stablecoin-on-Mainnet",
+          "publishedOn": "2023-08-31T09:19:00.000Z",
+          "wordCount": null,
+          "title": "Optimism (OP) Welcomes USDC Stablecoin on Mainnet",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18870914/Key-US-data-to-move-the-cryptocurrency-market-this-week",
+          "author": null,
+          "description": "The US dollar is at an inflection point Core PCE data today is key The NFP report might miss expectations Today marks the last trading day of the month. As usual, it means that volatility in financial markets will increase, especially during the London and North American sessions. The US...",
+          "link": "https://cryptopanic.com/news/18870914/Key-US-data-to-move-the-cryptocurrency-market-this-week",
+          "publishedOn": "2023-08-31T09:17:10.000Z",
+          "wordCount": 592,
+          "title": "Key US data to move the cryptocurrency market this week",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18870916/Bloomberg-Analyst-Says-2024-Will-Be-Massive-Year-With-One-Catalyst-To-Spark-Billions-in-Inflows-to-Crypto",
+          "author": null,
+          "description": "A crypto market analyst at Bloomberg Intelligence thinks the upcoming year could be huge for digital assets. Jamie Coutts says on the social media platform X that the US currently accounts for 80% of total Bitcoin (BTC) fund assets despite the U.S. Securities and Exchange Commission’s (SEC)...",
+          "link": "https://cryptopanic.com/news/18870916/Bloomberg-Analyst-Says-2024-Will-Be-Massive-Year-With-One-Catalyst-To-Spark-Billions-in-Inflows-to-Crypto",
+          "publishedOn": "2023-08-31T09:15:15.000Z",
+          "wordCount": 600,
+          "title": "Bloomberg Analyst Says 2024 Will Be Massive Year With One Catalyst To Spark Billions in Inflows to Crypto",
           "imageUrl": null
         }
       ]
@@ -1030,12 +1030,72 @@
       "siteUrl": "https://www.inoreader.com/stream/user/1005336866/tag/%E6%B5%B7%E5%A4%96%E5%8A%A0%E5%AF%86%E8%B5%84%E8%AE%AF/view/html",
       "articles": [
         {
+          "id": "http://www.inoreader.com/article/3a9c6e754a26274e",
+          "author": "Sandali Handagama",
+          "description": "Elon Musk's social media platform X, formerly Twitter, has obtained money or currency transmitter licenses in seven U.S. states.",
+          "link": "https://www.coindesk.com/business/2023/08/31/elon-musks-x-has-licenses-in-multiple-us-states-to-process-payments-including-crypto/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2023-08-31T10:07:39.000Z",
+          "wordCount": 7497,
+          "title": "Elon Musk's X Has Licenses in Multiple U.S. States to Process Payments, Including Crypto",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/jpeg",
+            "url": "https://www.coindesk.com/resizer/jRHvh7cPp1v7Z7yDBjdlSRX5Cwc=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/EIVBCNR6YNCIJHWINFFBYQSI6M.jpg"
+          },
+          "imageUrl": "https://www.coindesk.com/resizer/jRHvh7cPp1v7Z7yDBjdlSRX5Cwc=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/EIVBCNR6YNCIJHWINFFBYQSI6M.jpg"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e754a229f95",
+          "author": "Will Canny",
+          "description": "Coinbase’s potential involvement in spot bitcoin ETFs could serve as part of the SEC’s reconfigured arguments for rejecting the applications, the report said.",
+          "link": "https://www.coindesk.com/business/2023/08/31/sec-could-prepare-alternative-arguments-to-reject-spot-bitcoin-etfs-berenberg/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2023-08-31T09:33:19.000Z",
+          "wordCount": 6677,
+          "title": "SEC Could Prepare Alternative Arguments to Reject Spot Bitcoin ETFs: Berenberg",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/jpeg",
+            "url": "https://www.coindesk.com/resizer/GuJaZwHmRHRYULHNrnpihkZcflA=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/36VE2YYH4ZHF7C4JOMMWCFTEXY.jpg"
+          },
+          "imageUrl": "https://www.coindesk.com/resizer/GuJaZwHmRHRYULHNrnpihkZcflA=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/36VE2YYH4ZHF7C4JOMMWCFTEXY.jpg"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e754a2c6eef",
+          "author": "Scott Matherson",
+          "description": "Following the court’s ruling in favor of Grayscale against the US Securities and Exchange Commission (SEC), many have begun to wonder whether or not the SEC will succumb and approve Grayscale’s ETF application. However, this looks more likely as Bloomberg ETF analysts have increased the odds in favor of the asset manager. \n \nOdds For ETF Approval “75%”\n \nBloomberg Analysts Eric Balchunas and James Seyffart have increased the likelihood of Spot Bitcoin ETFs launching this year to 75%. Balchunas further stated that the odds would rise to 95% by the end of 2024 if these ETFs weren’t approved by then.\n \n \nThis latest prediction comes after both analysts had previously put the odds of ETF approval this year at 65% (pre-Grayscale’s victory). According to them, the increase in the odds is because…",
+          "link": "https://bitcoinist.com/likelihood-grayscale-spot-bitcoin-etf/",
+          "publishedOn": "2023-08-31T09:19:18.000Z",
+          "wordCount": 5406,
+          "title": "Bloomberg Increases Likelihood Of Grayscale Spot Bitcoin ETF Approval Amid Uncertainty",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/jpeg",
+            "url": "https://bitcoinist.com/wp-content/uploads/2023/08/iStock-502544320-630x420.jpg"
+          },
+          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2023/08/iStock-502544320-630x420.jpg"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e754a2c7edc",
+          "author": "Shaurya Malwa",
+          "description": "Falling revenues have led some market commenters to say the platform has “gone dead.” But has it?",
+          "link": "https://www.coindesk.com/tech/2023/08/31/scores-of-friendtech-users-remain-active-even-as-trading-volumes-drop-95/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2023-08-31T09:18:17.000Z",
+          "wordCount": 7073,
+          "title": "Scores of Friend.tech Users Remain Active Even as Trading Volumes Drop 95%",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/jpeg",
+            "url": "https://www.coindesk.com/resizer/Cj9-gRG84Uy8wciW_cl_Eh82MGI=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/EQXUIV6R2NFB5DHWCNDNPCXMFA.jpg"
+          },
+          "imageUrl": "https://www.coindesk.com/resizer/Cj9-gRG84Uy8wciW_cl_Eh82MGI=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/EQXUIV6R2NFB5DHWCNDNPCXMFA.jpg"
+        },
+        {
           "id": "http://www.inoreader.com/article/3a9c6e754a2e06e4",
           "author": "Omkar Godbole",
           "description": "The number of BTC held in wallets tied to crypto exchanges has declined by 4% this month, data tracked by CryptoQuant show.",
           "link": "https://www.coindesk.com/markets/2023/08/31/bitcoin-holdings-on-crypto-exchanges-dwindle-to-2m-fewest-since-january-2018/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-08-31T09:06:11.000Z",
-          "wordCount": 7123,
+          "wordCount": 7152,
           "title": "Bitcoin Holdings on Crypto Exchanges Dwindle to 2M, Fewest Since January 2018",
           "enclosure": {
             "length": "1337",
@@ -1050,7 +1110,7 @@
           "description": "The move follows Paxos' decision to halt minting of new BUSD.",
           "link": "https://www.coindesk.com/business/2023/08/31/binance-to-gradually-end-support-for-busd-products/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-08-31T08:42:38.000Z",
-          "wordCount": 6410,
+          "wordCount": 6432,
           "title": "Binance to 'Gradually' End Support for BUSD Products",
           "enclosure": {
             "length": "1337",
@@ -1075,7 +1135,7 @@
           "description": "The CoinDesk Market Index, a weighted index of over 100 tokens, fell 0.71% in the past 24 hours, suggesting profit-taking across the board.",
           "link": "https://www.coindesk.com/markets/2023/08/31/bitcoin-starts-to-retrace-grayscale-fueled-gain-sol-xrp-dot-lead-majors-slide/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-08-31T08:28:57.000Z",
-          "wordCount": 6903,
+          "wordCount": 6931,
           "title": "Bitcoin Starts to Retrace Grayscale-Fueled Gain; SOL, XRP, DOT Lead Majors Slide",
           "enclosure": {
             "length": "1337",
@@ -1090,7 +1150,7 @@
           "description": "The mystery surrounding the identity of the founder of Shiba Inu, known as “Ryoshi,” has taken another twist. A recent theory proposed by crypto researcher @BoringSleuth suggests that the elusive Ryoshi might be a combination of two individuals: Ryo Suzuki and Tsuyoshi Maruyama, both of whom have ties to the B2C2 Group.\n \n“@BoringSleuth” tweeted, “Who do I believe Ryoshi, the anonymous Founder of $SHIB is? I believe it is a combo of 2 people: Ryo Suzuki & Tsuyoshi Maruyama – Both Advisors to B2C2 Group.” The researcher further pointed out a curious coincidence: “Ryo Suzuki resigned as an advisor from B2C2 Group on 4/27/21, the exact same day Tsuyoshi Maruyama was appointed as an advisor for B2C2 Group.”\n \nTraces To The Inventor Of Shiba Inu\n \nThe B2C2 Group connection is particularly intri…",
           "link": "https://bitcoinist.com/whos-behind-shiba-inu-new-theory-about-ryoshi/",
           "publishedOn": "2023-08-31T08:19:25.000Z",
-          "wordCount": 5577,
+          "wordCount": 5576,
           "title": "Who’s Behind Shiba Inu? Researcher Reveals New Theory About Ryoshi",
           "enclosure": {
             "length": "1337",
@@ -1105,7 +1165,7 @@
           "description": "Binance Japan has unveiled its strategy encompassing a  \nwidespread adoption of Web3 technology and a focus on stablecoins. According to  \nan online business press briefing hosted by the company, Binance Japan plans to  \nhandle up to 100 crypto assets in the region. \nTsuyoshi Chino, the  \ncompany’s representative, emphasized in a report by CoinPost the intent to  \nexpand beyond traditional cryptocurrency exchange services by collaborating  \nwith Japanese enterprises and governmental bodies. This step will be  \nfacilitated through the integration of stablecoins by the exchange.\nBinance Japan Eyes More Tokens\nCurrently, Binance Japan’s services primarily encompass  \ncryptocurrency spot trading and 'Simple Earn' cryptocurrency lending. While  \nleverage (margin) trading is not currently offere…",
           "link": "https://www.financemagnates.com//cryptocurrency/binance-japan-gears-up-for-full-service-launch-to-offer-up-to-100-crypto-assets/",
           "publishedOn": "2023-08-31T08:05:09.000Z",
-          "wordCount": 4471,
+          "wordCount": 4465,
           "title": "Binance Japan Gears Up for Full-Service Launch: To Offer Up to 100 Crypto Assets",
           "imageUrl": "https://images.financemagnates.com/images/Japan_id_c23f0330-bd0c-4899-a0fc-6ec163b20f21_size900.jpg"
         },
@@ -1115,7 +1175,7 @@
           "description": "In a recent interview on “Bloomberg Markets,” Grayscale Investments CEO Michael Sonnenshein described the US appeals court’s decision to overturn the Securities and Exchange Commission’s (SEC) block of his firm’s proposed spot Bitcoin exchange-traded fund (ETF) as a “huge win.” The ruling, which has been hailed as a significant step forward for the digital-assets industry, has rekindled hopes for the launch of the first US ETF that would invest directly in Bitcoin.\n \nWill The SEC Run Out The Clock?\n \nHowever, Sonnenshein expressed uncertainty regarding the next steps for Grayscale, stating, “We will have to see upon the final operational procedures that come through that final mandate that the court will issue.” He further added, “We don’t know what the final opinion will say until we reac…",
           "link": "https://bitcoinist.com/grayscale-ceo-timeline-bitcoin-spot-etf/",
           "publishedOn": "2023-08-31T06:17:38.000Z",
-          "wordCount": 5620,
+          "wordCount": 5619,
           "title": "Grayscale CEO Hints At Timeline For Bitcoin Spot ETF Decision",
           "enclosure": {
             "length": "1337",
@@ -1140,7 +1200,7 @@
           "description": "United States District Court judge for the Southern District of New York, Katherine Polk Failla, who is also hearing the lawsuit of the Securities and Exchange Commission (SEC) against Coinbase, has recently dismissed a class-action suit against Uniswap Labs and its CEO, foundation and venture capital backers.  \n\nUS Judge Favours Crypto  \n\nSix crypto investors filed a class action lawsuit against the decentralized cryptocurrency exchange in April 2022 after falling victim to a scam. They purchased scam tokens on Uniswap between December 2020 and March 2022.  \n\nThe plaintiffs argued that UniSwap Labs controlled its liquidity pools of the protocol, including the ones created by the scammers, adding that Uniswap held “liquidity provider funds and newly created tokens in Uniswap’s proprietary …",
           "link": "https://www.financemagnates.com//cryptocurrency/judge-scraps-lawsuit-against-uniswap-calls-ethereum-a-commodity/",
           "publishedOn": "2023-08-31T05:04:30.000Z",
-          "wordCount": 15535,
+          "wordCount": 15529,
           "title": "Judge Scraps Lawsuit against Uniswap, Calls Ethereum a Commodity",
           "imageUrl": "https://images.financemagnates.com/images/bitcoin%20hammer%20court%20law%20ruling_id_e60806fa-60ac-4ebc-afeb-c45d82d65f2d_size900.jpg"
         },
@@ -1150,7 +1210,7 @@
           "description": "The cryptocurrency exchange, Binance has launched a new platform called 'Send Cash', which allows users from nine Latin American countries to send crypto funds directly to bank accounts based in Colombia and Argentina.\nBinance Expands Services in Latin America\nAccording to Binance, its users can transfer digital funds faster through licensed providers at a reduced cost with the new product.\nFor Binance users, Send Cash will be available in the Dominican Republic, Honduras, Panama, Costa Rica, Guatemala, Colombia, Argentina, Paraguay, and Mexico to transfer their crypto to send funds to recipients with bank accounts in Colombia and Argentina.\n\nSend cash. Instant. Low fees. https://t.co/sqBnIAqABQ\n— CZ 🔶 Binance (@cz_binance) August 29, 2023\nThe move followed shortly after Binance withdrew …",
           "link": "https://www.financemagnates.com//cryptocurrency/send-cash-binance-launches-crypto-to-bank-payments-in-latin-america/",
           "publishedOn": "2023-08-31T03:55:55.000Z",
-          "wordCount": 5592,
+          "wordCount": 5586,
           "title": "Send Cash: Binance Launches Crypto-to-Bank Payments in Latin America",
           "imageUrl": "https://images.financemagnates.com/images/Binance%20header_id_c28a1a4b-1632-42c0-b85c-5896407a25ef_size900.jpg"
         },
@@ -1170,7 +1230,7 @@
           "description": "A digital wallet associated with Robinhood, the United States-based portal allowing users to trade multiple instruments, including crypto without commission, is the fifth largest holder of Ethereum (ETH). According to Arkham Intelligence, an on-chain analytics platform, Robinhood controls 1.72 million ETH, worth $2.93 billion at current prices as of August 30.\n \n \nIt could not be immediately ascertained whether Robinhood directly owned these coins or if it custody them on behalf of clients. The trading and investing platform has not come out to clarify the status of their coins, including Bitcoin and Shiba Inu (SHIB), which form a big chunk of their portfolio.\n \n However, based on on-chain data, what’s evident is that the Robinhood wallet cumulatively holds billions worth of coins.\n \nRobin…",
           "link": "https://bitcoinist.com/robinhood-5th-largest-ethereum-wallet/",
           "publishedOn": "2023-08-31T03:16:35.000Z",
-          "wordCount": 5299,
+          "wordCount": 5298,
           "title": "Robinhood Is The 5th Largest Ethereum (ETH) Wallet, Strategic Stashing?",
           "enclosure": {
             "length": "1337",
@@ -1185,7 +1245,7 @@
           "description": "In a dramatic courtroom exchange, Judge Lewis Kaplan and the defense team representing former FTX CEO Sam Bankman-Fried (SBF) discussed trial preparation challenges and looming deadlines today. \n \nThe proceedings shed light on the defense’s alleged difficulties in handling the case from within Brooklyn’s Metropolitan Detention Center (MDC) walls. At the same time, the judge offered a limited window for potential trial date adjustments.\n \nJudge Kaplan And Defense Clash In FTX Founder’s Case\n \nAs reported on X (formerly Twitter) by Inner City Press, the dialogue unfolded with Judge Kaplan setting a September 7 deadline for requesting a jury based on the trial start date of October 3. \n \nThe defense team, however, refrained from seeking a different trial date for preparation purposes, prompti…",
           "link": "https://bitcoinist.com/ftx-founder-sbfs-fate-hangs-on-september-7-request/",
           "publishedOn": "2023-08-31T02:17:09.000Z",
-          "wordCount": 5476,
+          "wordCount": 5475,
           "title": "Judge Sets Deadline: FTX Founder SBF’s Fate Hangs On September 7 Jury Request",
           "enclosure": {
             "length": "1337",
@@ -1210,7 +1270,7 @@
           "description": "Bankrupt digital asset lender BlockFi has filed a court petition requesting permission to convert the Trade Only assets of its users to stablecoins, thus allowing the withdrawal of these tokens. This development marks the company’s latest effort to repay its creditors.\n \n \nBlockFi Moves To Grants Users Access To Trade Only Assets\n \nAccording to BlockFi’s petition, the Trade-Only assets are not withdrawable tokens via normal wallet withdrawal processes. In the platform’s US market, these tokens include Algorand (ALGO), Bitcoin Cash (CASH), and Dogecoin (DOGE).\n \nHowever, On the BlockFi international platform, the Trade Only assets include Cardano (ADA), Cosmos (ATOM), Avalanche (AVAX), and Solana (SOL), among others. BlockFi has stated that its US customer wallets account for only 0.5% of a…",
           "link": "https://bitcoinist.com/blockfi-to-convert-trade-only-assets-to-stablecoins/",
           "publishedOn": "2023-08-31T01:16:46.000Z",
-          "wordCount": 5377,
+          "wordCount": 5375,
           "title": "BlockFi Seeks Permission To Convert Trade Only Assets To Stablecoins In Latest Court Petition",
           "enclosure": {
             "length": "1337",
@@ -1225,7 +1285,7 @@
           "description": "Robinhood Wallet, the popular multi-chain, self-custody, Web3 wallet, has introduced new features to meet the demands of its growing user base. In response to user feedback, Robinhood Wallet now supports Bitcoin (BTC) and Dogecoin (DOGE), allowing users to custody, send, and receive these cryptocurrencies. \n \nAdditionally, the platform has enabled on-app swaps on the Ethereum (ETH) network, with select users gaining access to over 200 tokens for swapping.\n \nRobinhood Wallet Expands Crypto Support\n \nThe introduction of Bitcoin and Dogecoin support aims to provide users with a broader range of options within the wallet. Since its public launch six months ago, Robinhood Wallet has witnessed adoption worldwide, attracting hundreds of users across more than 140 countries.\n \n \nPer the report, th…",
           "link": "https://bitcoinist.com/robinhood-wallet-swapping-bitcoin-dogecoin-ethereum/",
           "publishedOn": "2023-08-31T00:17:48.000Z",
-          "wordCount": 5454,
+          "wordCount": 5453,
           "title": "Robinhood Wallet Introduces Swapping For Bitcoin, Dogecoin, And Ethereum",
           "enclosure": {
             "length": "1337",
@@ -1233,61 +1293,6 @@
             "url": "https://bitcoinist.com/wp-content/uploads/2023/08/Downloader.la-64ef9369b8ded-420x420.jpg"
           },
           "imageUrl": "https://bitcoinist.com/wp-content/uploads/2023/08/Downloader.la-64ef9369b8ded-420x420.jpg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e754bf910e3",
-          "author": "Jamie Redman",
-          "description": "In early August 2023, Bloomberg ETF specialists Eric Balchunas and James Seyffart estimated a 65% probability for the approval of a spot bitcoin ETF. However, as August draws to its conclusion, and in light of a U.S. court siding with Grayscale over a legal tussle against the U.S. Securities and Exchange Commission (SEC), the pair have revised their prediction, now pegging the likelihood at 75%.\n \nSEC Decision Looms for Seven Spot Bitcoin ETFs\n \nBarring any delays, the U.S. Securities and Exchange Commission (SEC) is poised to either greenlight or turn down seven distinct proposals for a spot bitcoin ETF. These applications hail from notable names like Blackrock, Wisdomtree, Valkyrie, Fidelity, Vaneck, Bitwise, and Invesco. Bloomberg’s senior ETF analyst, Balchunas, conveyed that he and Se…",
-          "link": "https://news.bitcoin.com/bloomberg-analysts-boost-spot-bitcoin-etf-approval-odds-after-grayscales-court-victory/",
-          "publishedOn": "2023-08-30T23:45:20.000Z",
-          "wordCount": 279,
-          "title": "Bloomberg Analysts Boost Spot Bitcoin ETF Approval Odds After Grayscale’s Court Victory",
-          "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2023/08/btcetf.jpg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e754bfb2911",
-          "author": "Best Owie",
-          "description": "Back in 2021, the decentralized finance (DeFi) space experienced explosive growth which led to a rapid rise in total value locked (TVL). The TVL would continue to grow into 2022 and maintain a decent level even through the initial bear market triggered by the Terra collapse. However, the glory days are long over now and the DeFi TVL is barely holding up, to say the least.\n \nDeFi TVL Crashes 78% In One Year\n \nJanuary 2022 was arguably one of the best months for the DeFi TVL when the metric rose to its highest level. At this point, there was over $212 billion worth of tokens locked across various decentralized finance protocols.\n \n \nHowever, the same month would record one of the largest crashes in the TVL when it fell to $159 billion by January 31, 2023. This crash marked the end of an era …",
-          "link": "https://bitcoinist.com/defi-tvl-down-80/",
-          "publishedOn": "2023-08-30T23:18:31.000Z",
-          "wordCount": 5478,
-          "title": "DeFi TVL Is Down A Staggering 80% From Its 2022 Highs, Is A Revival Possible?",
-          "enclosure": {
-            "length": "1337",
-            "type": "image/jpeg",
-            "url": "https://bitcoinist.com/wp-content/uploads/2023/08/DeFi-TVL-630x420.jpeg"
-          },
-          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2023/08/DeFi-TVL-630x420.jpeg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e754be01d29",
-          "author": "Hououin Kyouma",
-          "description": "On-chain data shows the Bitcoin sharks and whales added to their holdings right before the latest rally in the asset’s price occurred.\n \nBitcoin Investors Holding Between 10 to 10,000 BTC Bought Ahead Of Rally\n \nAccording to data from the on-chain analytics firm Santiment, the large BTC holders scooped up a significant amount of the asset before the news of Grayscale’s win against the US Securities and Exchange Commission (SEC) broke out.\n \nThe relevant indicator here is the “BTC Supply Distribution,” which tells us about the total amount of Bitcoin each holder group in the market carries in their combined wallets.\n \nAddresses or investors are divided into these groups based on the number of coins that they are currently holding. For instance, the 1 to 10 coins cohort includes all wallets …",
-          "link": "https://bitcoinist.com/bitcoin-sharks-whales-bought-before-grayscale-rally/",
-          "publishedOn": "2023-08-30T22:19:59.000Z",
-          "wordCount": 5450,
-          "title": "Bitcoin Sharks & Whales Bought Right Before Grayscale Rally: Data",
-          "enclosure": {
-            "length": "1337",
-            "type": "image/jpeg",
-            "url": "https://bitcoinist.com/wp-content/uploads/2023/08/kanchanara-9pCV2MB65y8-unsplash-630x420.jpg"
-          },
-          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2023/08/kanchanara-9pCV2MB65y8-unsplash-630x420.jpg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e754be257e2",
-          "author": "Nikhilesh De",
-          "description": "Attorneys for crypto exchange Gemini argued that a proposed resolution for Genesis' bankruptcy doesn't have enough detail or provide any assurances for some if its largest debtors in a new filing Wednesday.",
-          "link": "https://www.coindesk.com/policy/2023/08/30/gemini-opposes-genesis-bankruptcy-plan-woefully-light-on-specifics/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-          "publishedOn": "2023-08-30T21:56:03.000Z",
-          "wordCount": 6843,
-          "title": "Gemini Opposes Genesis Bankruptcy Plan: 'Woefully Light on Specifics'",
-          "enclosure": {
-            "length": "1337",
-            "type": "image/jpeg",
-            "url": "https://www.coindesk.com/resizer/_V_zoG1MwkTm8Le-yy0N4Xzos5Q=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/NS72IX2RGJBTVHXWOT7WEIFMZM.jpg"
-          },
-          "imageUrl": "https://www.coindesk.com/resizer/_V_zoG1MwkTm8Le-yy0N4Xzos5Q=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/NS72IX2RGJBTVHXWOT7WEIFMZM.jpg"
         }
       ]
     }

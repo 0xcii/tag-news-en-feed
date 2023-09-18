@@ -6,6 +6,21 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=154993",
+          "author": "Mattis Meichler",
+          "description": "Chronicle Protocol aims to redefine the oracle space with Scribe, when it launches to the public this month.",
+          "link": "https://decrypt.co/154993/blockchains-unseen-backbone-securing-billions-of-dollars-in-value",
+          "publishedOn": "2023-09-18T12:01:04.000Z",
+          "wordCount": 10438,
+          "title": "Blockchain's Unseen Backbone Securing Billions of Dollars in Value",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/09/image3-e1694100257800-gID_7.png@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/09/image3-e1694100257800-gID_7.png@png"
+        },
+        {
           "id": "https://decrypt.co/?p=197565",
           "author": "Andrew Asmakov",
           "description": "Warren's controversial Digital Asset Anti-Money Laundering Act has received support from nine more U.S. senators.",
@@ -506,7 +521,7 @@
           "description": "Daniel Paez, executive producer on NFT card-battling game Gods Unchained, speaks with Decrypt Culture Editor Andrew Hayward about what the future of NFT game interoperability will really look like—and what it won't.",
           "link": "https://decrypt.co/videos/interviews/obt7FGYr/gods-unchaineds-daniel-paez-on-the-future-of-nft-gaming-interoperability",
           "publishedOn": "2023-09-14T20:27:35.000Z",
-          "wordCount": 6573,
+          "wordCount": 6293,
           "title": "Gods Unchained's Daniel Paez on the Future of NFT Gaming Interoperability",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/obt7FGYr/poster.jpg",
@@ -606,27 +621,12 @@
           "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/09/joy-division-album-artwork-gID_7.png@png"
         },
         {
-          "id": "https://decrypt.co/?p=156730",
-          "author": "Pedro Solimano",
-          "description": "Hong Kong requires crypto firms to register with its securities regulator. According to SFC, JPEX never applied for a license.",
-          "link": "https://decrypt.co/156730/crypto-exchange-updates-marketing-and-fees-after-hong-kong-regulator-warning",
-          "publishedOn": "2023-09-14T18:32:25.000Z",
-          "wordCount": 9182,
-          "title": "Crypto Exchange Updates Marketing and Fees After Hong Kong Regulator Warning",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/09/hong-kong-skyline-gID_7.jpg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/09/hong-kong-skyline-gID_7.jpg@png"
-        },
-        {
           "id": "https://decrypt.co/videos/interviews/SrT1Afj7/how-mino-games-is-using-artificial-intelligence",
           "author": null,
           "description": "Mino Games CEO Sasha McKinnon tells Decrypt's Kate Irwin about how the studio's upcoming game Dimensionals will use real-time AI.",
           "link": "https://decrypt.co/videos/interviews/SrT1Afj7/how-mino-games-is-using-artificial-intelligence",
           "publishedOn": "2023-09-05T22:35:00.000Z",
-          "wordCount": 6209,
+          "wordCount": 6489,
           "title": "How Mino Games is Using Artificial Intelligence",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/SrT1Afj7/poster.jpg",
@@ -656,7 +656,7 @@
           "description": "Google's Global Head of Google Cloud for Web3 James Tromans sat down with Decrypt's Jason Nelson to discuss how AI can help Web3 companies come to market faster and the real value of Web3 tools.",
           "link": "https://decrypt.co/videos/interviews/OeD4uoLj/google-clouds-james-tromans-on-the-intersection-of-ai-and-web3",
           "publishedOn": "2023-09-01T14:00:00.000Z",
-          "wordCount": 6308,
+          "wordCount": 6588,
           "title": "Google Cloud's James Tromans on the Intersection of AI and Web3",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/OeD4uoLj/poster.jpg",
@@ -761,7 +761,7 @@
           "description": "At Solana's PlayGG, Star Atlas CEO Michael Wagner shares his \"controversial take\" on crypto in games, shares the challenges of developing the upcoming scifi game, and how crypto's volatility has changed his perspective with Decrypt's Jason Nelson.",
           "link": "https://decrypt.co/videos/interviews/tc2nKeqA/michael-wagners-controversial-take-on-crypto-in-games",
           "publishedOn": "2023-08-21T16:51:00.000Z",
-          "wordCount": 6300,
+          "wordCount": 6580,
           "title": "Michael Wagner's 'Controversial Take' on Crypto in Games",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/tc2nKeqA/poster.jpg",
@@ -778,203 +778,203 @@
       "siteUrl": "https://cryptopanic.com/",
       "articles": [
         {
-          "id": "https://cryptopanic.com/news/18910455/From-Bitcoin-To-Crypto-Weekly-Guide-To-Key-Market-Events",
+          "id": "https://cryptopanic.com/news/18910655/IPO-Market-Remains-Sluggish-as-Instacart-Set-to-Go-Public",
           "author": null,
-          "description": "The Bitcoin and crypto market is holding its breath in anticipation of the week ahead, particularly due to a singular, critical event: the US Federal Reserve’s interest rate decision followed by the FOMC press conference featuring Fed Chairman Jerome Powell. This looming decision has the...",
-          "link": "https://cryptopanic.com/news/18910455/From-Bitcoin-To-Crypto-Weekly-Guide-To-Key-Market-Events",
-          "publishedOn": "2023-09-18T11:00:30.000Z",
+          "description": "",
+          "link": "https://cryptopanic.com/news/18910655/IPO-Market-Remains-Sluggish-as-Instacart-Set-to-Go-Public",
+          "publishedOn": "2023-09-18T12:12:51.000Z",
+          "wordCount": null,
+          "title": "IPO Market Remains Sluggish as Instacart Set to Go Public",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18910650/Elon-Musks-258-Billion-Dogecoin-Lawsuit-DOGE-Architects-Reject-Allegations",
+          "author": null,
+          "description": "Dogecoin creator and lead contributor reject allegations of assisting Elon Musk as lawsuit worth $258 billion progresses",
+          "link": "https://cryptopanic.com/news/18910650/Elon-Musks-258-Billion-Dogecoin-Lawsuit-DOGE-Architects-Reject-Allegations",
+          "publishedOn": "2023-09-18T12:11:00.000Z",
           "wordCount": 592,
-          "title": "From Bitcoin To Crypto: Weekly Guide To Key Market Events",
-          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2023/09/matt-howard-GH7fPDHnJyw-unsplash-980x653.jpg"
+          "title": "Elon Musk's $258 Billion Dogecoin Lawsuit: DOGE Architects Reject Allegations",
+          "imageUrl": "https://u.today/sites/default/files/styles/twitter/public/2023-09/40245.jpg"
         },
         {
-          "id": "https://cryptopanic.com/news/18910458/Binance-Charity-CZ-defend-3-million-crypto-donation-amid-critique-after-Morocco-earthquake",
+          "id": "https://cryptopanic.com/news/18910654/Arms-Shares-Continue-to-Fall-in-Premarket-Bernstein-Sets-46-Target",
           "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/18910458/Binance-Charity-CZ-defend-3-million-crypto-donation-amid-critique-after-Morocco-earthquake",
-          "publishedOn": "2023-09-18T11:00:02.000Z",
-          "wordCount": null,
-          "title": "Binance Charity, CZ defend $3 million crypto donation amid critique after Morocco earthquake",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18910447/Crypto-Markets-Endure-Worst-Month-in-Over-a-Year-as-August-2023-Brings-Sharp-Declines",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/18910447/Crypto-Markets-Endure-Worst-Month-in-Over-a-Year-as-August-2023-Brings-Sharp-Declines",
-          "publishedOn": "2023-09-18T10:57:51.000Z",
-          "wordCount": null,
-          "title": "Crypto Markets Endure Worst Month in Over a Year, as August 2023 Brings Sharp Declines",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18910442/Ethereum-Bulls-Could-Seize-Market-Control-as-ETH-Aims-at-Higher-Resistance-Levels",
-          "author": null,
-          "description": "The data suggests that Ether might be on the verge of forging a different path.",
-          "link": "https://cryptopanic.com/news/18910442/Ethereum-Bulls-Could-Seize-Market-Control-as-ETH-Aims-at-Higher-Resistance-Levels",
-          "publishedOn": "2023-09-18T10:52:57.000Z",
-          "wordCount": 595,
-          "title": "Ethereum Bulls Could Seize Market Control, as ETH Aims at Higher Resistance Levels",
-          "imageUrl": "https://cryptopotato.com/wp-content/uploads/2023/04/ethereum_bull_cover.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/18910287/Elliptic-Details-Evolution-of-Crypto-Crime-Displacement-in-Latest-Research",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/18910287/Elliptic-Details-Evolution-of-Crypto-Crime-Displacement-in-Latest-Research",
-          "publishedOn": "2023-09-18T10:45:35.000Z",
-          "wordCount": null,
-          "title": "Elliptic Details Evolution of ‘Crypto Crime Displacement’ in Latest Research",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18910296/Mark-Cuban-narrowly-avoids-25M-loss-in-900K-crypto-hack",
-          "author": null,
-          "description": "If it weren't for a crypto sleuth and DL News, Mark Cuban wouldn't have been aware of the MetaMask hack and may have lost over $3.5M.",
-          "link": "https://cryptopanic.com/news/18910296/Mark-Cuban-narrowly-avoids-25M-loss-in-900K-crypto-hack",
-          "publishedOn": "2023-09-18T10:45:16.000Z",
-          "wordCount": 592,
-          "title": "Mark Cuban narrowly avoids $2.5M loss in $900K crypto hack",
-          "imageUrl": "https://protos-media.s3.eu-west-2.amazonaws.com/wp-content/uploads/2022/01/30110040/Protos-Artwork-MarkCuban-SocialImage.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/18910436/Rootstock-Worlds-Most-SECURE-Bitcoin-Smart-Contract-Platform",
-          "author": null,
-          "description": "Let’s continue exploring the Bitcoin ecosystem - this time we take a look at Rootstock, one of the longest-standing bitcoin smart contract platforms around. Learn about its background, how it works, and more!Related Videos 📺Stacks (STX): Most PROMISING Bitcoin Layer 2?? 👉...",
-          "link": "https://cryptopanic.com/news/18910436/Rootstock-Worlds-Most-SECURE-Bitcoin-Smart-Contract-Platform",
-          "publishedOn": "2023-09-18T10:45:01.000Z",
-          "wordCount": 590,
-          "title": "Rootstock: World’s Most SECURE Bitcoin Smart Contract Platform??",
-          "imageUrl": "https://i1.ytimg.com/vi/Ti5U040v3so/hqdefault.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/18910292/New-All-Time-High-but-for-Coinbases-BASE-What-You-Need-to-Know",
-          "author": null,
-          "description": "The total number of daily transactions on Base has recently spiked above 1.8 million.",
-          "link": "https://cryptopanic.com/news/18910292/New-All-Time-High-but-for-Coinbases-BASE-What-You-Need-to-Know",
-          "publishedOn": "2023-09-18T10:44:44.000Z",
-          "wordCount": 594,
-          "title": "New All-Time High but for Coinbase’s BASE: What You Need to Know",
-          "imageUrl": "https://cryptopotato.com/wp-content/uploads/2023/09/base_cb.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/18910300/Sealed-Documents-in-the-SEC-vs-Binance-Unredacts-Court-Orders",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/18910300/Sealed-Documents-in-the-SEC-vs-Binance-Unredacts-Court-Orders",
-          "publishedOn": "2023-09-18T10:43:40.000Z",
-          "wordCount": null,
-          "title": "Sealed Documents in the SEC vs. Binance Unredacts: Court Orders",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18910298/XRP-ADA-and-SHIB-Might-Be-Top-Beneficiaries-of-Rising-Bitcoin-Open-Interest-Heres-Why",
-          "author": null,
-          "description": "Bitcoin (BTC) Open Interest rising, with top altcoins set to benefit from trend",
-          "link": "https://cryptopanic.com/news/18910298/XRP-ADA-and-SHIB-Might-Be-Top-Beneficiaries-of-Rising-Bitcoin-Open-Interest-Heres-Why",
-          "publishedOn": "2023-09-18T10:42:00.000Z",
-          "wordCount": 597,
-          "title": "XRP, ADA and SHIB Might Be Top Beneficiaries of Rising Bitcoin Open Interest, Here's Why",
-          "imageUrl": "https://u.today/sites/default/files/styles/twitter/public/2023-09/40237.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/18910281/Bitcoin-Rises-Above-27000-Ahead-of-FED-Interest-Rate-Decision-How-Will-the-FED-Decision-Affect-BTC-Analyst-Evaluated",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/18910281/Bitcoin-Rises-Above-27000-Ahead-of-FED-Interest-Rate-Decision-How-Will-the-FED-Decision-Affect-BTC-Analyst-Evaluated",
-          "publishedOn": "2023-09-18T10:40:06.000Z",
-          "wordCount": null,
-          "title": "Bitcoin Rises Above $27,000 Ahead of FED Interest Rate Decision! How Will the FED Decision Affect BTC? Analyst Evaluated!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18910276/Troubled-crypto-exchange-JPEX-says-it-could-relaunch-as-DAO-after-probe",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/18910276/Troubled-crypto-exchange-JPEX-says-it-could-relaunch-as-DAO-after-probe",
-          "publishedOn": "2023-09-18T10:34:08.000Z",
-          "wordCount": null,
-          "title": "Troubled crypto exchange JPEX says it could relaunch as DAO after probe",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18910242/Tether-Co-Founder-Sizes-Up-PayPals-Stablecoin-Ambitions",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/18910242/Tether-Co-Founder-Sizes-Up-PayPals-Stablecoin-Ambitions",
-          "publishedOn": "2023-09-18T10:19:46.000Z",
-          "wordCount": null,
-          "title": "Tether Co-Founder Sizes Up PayPal’s Stablecoin Ambitions",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18910286/Weekend-Gainers-3-Altcoins-That-Saw-Price-Increases",
-          "author": null,
-          "description": "AAVE, BNB, BakeryToken (BAKE) have all increased during the weekend. AAVE is still trading inside a bearish pattern; BAKE attempts to clear a long-term horizontal resistance, while BNB has created a bullish pattern. Despite the cryptocurrency market maintaining stability during the weekend,...",
-          "link": "https://cryptopanic.com/news/18910286/Weekend-Gainers-3-Altcoins-That-Saw-Price-Increases",
-          "publishedOn": "2023-09-18T10:12:46.000Z",
-          "wordCount": 590,
-          "title": "Weekend Gainers: 3 Altcoins That Saw Price Increases",
-          "imageUrl": "https://s32659.pcdn.co/wp-content/uploads/2023/03/bic_altcoins_positive_bat_baseball_player_break_through_wall_sky.jpg.optimal.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/18910227/JPEX-crypto-exchange-shuts-trading-amid-Hong-Kong-regulator-probe",
-          "author": null,
-          "description": "Dubai-based cryptocurrency exchange JPEX is shutting trading its platform amid a probe by the Hong Kong’s Securities and Futures Commission that said the firm was operating as an unlicensed entity, according to media reports.",
-          "link": "https://cryptopanic.com/news/18910227/JPEX-crypto-exchange-shuts-trading-amid-Hong-Kong-regulator-probe",
-          "publishedOn": "2023-09-18T10:12:36.000Z",
-          "wordCount": 592,
-          "title": "JPEX crypto exchange shuts trading amid Hong Kong regulator probe",
-          "imageUrl": "https://forkast.news/wp-content/uploads/2023/09/hong-kong-1260x840.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/18910226/Three-Chinese-AI-Firms-Launch-IPOs-in-Hong-Kong-Targeting-280M",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/18910226/Three-Chinese-AI-Firms-Launch-IPOs-in-Hong-Kong-Targeting-280M",
-          "publishedOn": "2023-09-18T10:11:38.000Z",
-          "wordCount": null,
-          "title": "Three Chinese AI Firms Launch IPOs in Hong Kong, Targeting $280M",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18910234/Ripple-CTO-Says-Company-Cant-Go-Around-Debunking-XRP-Predictions",
-          "author": null,
-          "description": "Ripple Labs Chief Technology Officer David Schwartz, in a recent post on X, said the company can’t go around debunking every XRP price prediction. According to him, doing so may also lead to them calling accurate predictions false. The post came in response to a post by a user who accused the...",
-          "link": "https://cryptopanic.com/news/18910234/Ripple-CTO-Says-Company-Cant-Go-Around-Debunking-XRP-Predictions",
-          "publishedOn": "2023-09-18T10:11:20.000Z",
-          "wordCount": 592,
-          "title": "Ripple CTO Says Company Can’t Go Around Debunking XRP Predictions",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18910215/Ben-BitBoy-Armstrong-dismissed-from-FTX-case-as-three-celebrities-settle",
-          "author": null,
-          "description": "BitBoy has been dismissed from a case relating to litigation surrounding the collapse of crypto exchange FTX as three celebrities settle.",
-          "link": "https://cryptopanic.com/news/18910215/Ben-BitBoy-Armstrong-dismissed-from-FTX-case-as-three-celebrities-settle",
-          "publishedOn": "2023-09-18T10:10:00.000Z",
+          "description": "Shares of Arm fell in premarket trading Monday following a successful debut day that valued the company at over $65 billion.",
+          "link": "https://cryptopanic.com/news/18910654/Arms-Shares-Continue-to-Fall-in-Premarket-Bernstein-Sets-46-Target",
+          "publishedOn": "2023-09-18T12:02:25.000Z",
           "wordCount": 593,
-          "title": "Ben ‘BitBoy’ Armstrong dismissed from FTX case as three celebrities settle",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2022/11/20221117_FTX_JohnJayRayIII_2-1200x675.jpg"
+          "title": "Arm’s Shares Continue to Fall in Premarket, Bernstein Sets $46 Target",
+          "imageUrl": "https://tokenist.com/wp-content/uploads/2023/09/184482437_m_normal_none-scaled.jpg"
         },
         {
-          "id": "https://cryptopanic.com/news/18910208/The-Bitcoin-Relief-Rally-Is-Finally-Over-Recession-Is-Growingly-Likely",
+          "id": "https://cryptopanic.com/news/18910619/Blockchains-Unseen-Backbone-Securing-Billions-of-Dollars-in-Value",
+          "author": null,
+          "description": "Chronicle Protocol aims to redefine the oracle space with Scribe, when it launches to the public this month.",
+          "link": "https://cryptopanic.com/news/18910619/Blockchains-Unseen-Backbone-Securing-Billions-of-Dollars-in-Value",
+          "publishedOn": "2023-09-18T12:01:04.000Z",
+          "wordCount": 591,
+          "title": "Blockchain's Unseen Backbone Securing Billions of Dollars in Value",
+          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2023/09/image3-e1694100257800-gID_7.png"
+        },
+        {
+          "id": "https://cryptopanic.com/news/18910618/Bitcoin-long-term-holders-amp-up-activity-as-LTH-SOPR-metric-surges",
           "author": null,
           "description": "",
-          "link": "https://cryptopanic.com/news/18910208/The-Bitcoin-Relief-Rally-Is-Finally-Over-Recession-Is-Growingly-Likely",
-          "publishedOn": "2023-09-18T10:03:41.000Z",
+          "link": "https://cryptopanic.com/news/18910618/Bitcoin-long-term-holders-amp-up-activity-as-LTH-SOPR-metric-surges",
+          "publishedOn": "2023-09-18T12:00:41.000Z",
           "wordCount": null,
-          "title": "The Bitcoin 'Relief Rally' Is Finally Over | Recession Is Growingly Likely",
+          "title": "Bitcoin long-term holders amp up activity as LTH-SOPR metric surges",
           "imageUrl": null
         },
         {
-          "id": "https://cryptopanic.com/news/18910209/Hong-Kong-crypto-regulation-is-very-stable",
+          "id": "https://cryptopanic.com/news/18910600/ADA-vs-SOL-Altcoin-Battle-How-One-Conquered-the-Other-in-the-Market",
           "author": null,
-          "description": "A lawmaker responds to concerns expressed by Vitalik Buterin",
-          "link": "https://cryptopanic.com/news/18910209/Hong-Kong-crypto-regulation-is-very-stable",
-          "publishedOn": "2023-09-18T10:01:56.000Z",
-          "wordCount": 589,
-          "title": "Hong Kong: crypto regulation is “very stable”",
+          "description": "Recently, Aaron Arnold, the co-founder and host of the Altcoin Daily, questioned whether Solana has the potential to succeed over Cardano. During the interview with the crypto analyst Lark Davis, they discussed how Cardano and Solana have performed over time. First talking about Cardano, Lark...",
+          "link": "https://cryptopanic.com/news/18910600/ADA-vs-SOL-Altcoin-Battle-How-One-Conquered-the-Other-in-the-Market",
+          "publishedOn": "2023-09-18T12:00:00.000Z",
+          "wordCount": 595,
+          "title": "ADA vs SOL Altcoin Battle: How One Conquered the Other in the Market",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18910641/Crypto-Analyst-Predicts-FOMC-Meeting-To-Bring-Volatility-To-Bitcoin-Anticipates-King-Crypto-To-Hover-Between-This-Range",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/18910641/Crypto-Analyst-Predicts-FOMC-Meeting-To-Bring-Volatility-To-Bitcoin-Anticipates-King-Crypto-To-Hover-Between-This-Range",
+          "publishedOn": "2023-09-18T11:57:48.000Z",
+          "wordCount": null,
+          "title": "Crypto Analyst Predicts FOMC Meeting To Bring Volatility To Bitcoin, Anticipates King Crypto To Hover Between This Range",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18910573/Bitcoin-Tops-27K-a-Week-After-Death-Cross-Formation-With-Fed-Likely-to-Extend-Rate-Pause",
+          "author": null,
+          "description": "The U.S. rates traders do not see the Fed raising rates for the rest of the year.",
+          "link": "https://cryptopanic.com/news/18910573/Bitcoin-Tops-27K-a-Week-After-Death-Cross-Formation-With-Fed-Likely-to-Extend-Rate-Pause",
+          "publishedOn": "2023-09-18T11:51:03.000Z",
+          "wordCount": 598,
+          "title": "Bitcoin Tops $27K a Week After Death Cross Formation With Fed Likely to Extend Rate Pause",
+          "imageUrl": "https://www.coindesk.com/resizer/O-UQxaCgNAd3iu4gDbfyK7gqhpk=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/33G4AYHU6BEBDBXJIQSGEAADNQ.png"
+        },
+        {
+          "id": "https://cryptopanic.com/news/18910570/Crypto-Whale-Withdraws-116000000-Worth-of-One-Altcoin-Thats-Up-222-in-Past-Month-From-Exchanges-Report",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/18910570/Crypto-Whale-Withdraws-116000000-Worth-of-One-Altcoin-Thats-Up-222-in-Past-Month-From-Exchanges-Report",
+          "publishedOn": "2023-09-18T11:45:03.000Z",
+          "wordCount": null,
+          "title": "Crypto Whale Withdraws $116,000,000 Worth of One Altcoin That’s Up 222% in Past Month From Exchanges: Report",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18910539/Shiba-Inu-Sets-Off-TimeLock-for-Shibariums-Gas-Token-BONE",
+          "author": null,
+          "description": "Shibarium developer sheds light on the status quo of Bone ShibaSwap’s smart contract.",
+          "link": "https://cryptopanic.com/news/18910539/Shiba-Inu-Sets-Off-TimeLock-for-Shibariums-Gas-Token-BONE",
+          "publishedOn": "2023-09-18T11:40:00.000Z",
+          "wordCount": 592,
+          "title": "Shiba Inu Sets Off TimeLock for Shibarium’s Gas Token BONE",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18910546/While-Outflows-from-Institutional-Bitcoin-and-Ethereum-Funds-Continue-Money-Inflows-into-These-Altcoins",
+          "author": null,
+          "description": "CoinShares stated that there were outflows of $54 million in cryptocurrency products last week. Bitcoin suffered the most. Continue Reading: While Outflows from Institutional Bitcoin and Ethereum Funds Continue, Money Inflows into These Altcoins!",
+          "link": "https://cryptopanic.com/news/18910546/While-Outflows-from-Institutional-Bitcoin-and-Ethereum-Funds-Continue-Money-Inflows-into-These-Altcoins",
+          "publishedOn": "2023-09-18T11:35:07.000Z",
+          "wordCount": 596,
+          "title": "While Outflows from Institutional Bitcoin and Ethereum Funds Continue, Money Inflows into These Altcoins!",
+          "imageUrl": "https://www.bitcoinsistemi.com/wp-content/uploads/2022/09/dolar-giris.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/18910525/Hong-Kong-Monetary-Authority-issues-warning-against-crypto-banks",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/18910525/Hong-Kong-Monetary-Authority-issues-warning-against-crypto-banks",
+          "publishedOn": "2023-09-18T11:30:00.000Z",
+          "wordCount": null,
+          "title": "Hong Kong Monetary Authority issues warning against crypto banks",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18910612/Polygon-MATIC-Road-to-Recovery-Is-a-Potential-60-Gain-Ahead",
+          "author": null,
+          "description": "The Polygon (MATIC) price broke out from a short-term descending wedge and is attempting to clear a long-term descending resistance line. Doing so could lead to a significant price increase, while a rejection from the line will likely catalyze a drop toward the closest horizontal support area....",
+          "link": "https://cryptopanic.com/news/18910612/Polygon-MATIC-Road-to-Recovery-Is-a-Potential-60-Gain-Ahead",
+          "publishedOn": "2023-09-18T11:30:00.000Z",
+          "wordCount": 593,
+          "title": "Polygon (MATIC) Road to Recovery: Is a Potential 60% Gain Ahead?",
+          "imageUrl": "https://s32659.pcdn.co/wp-content/uploads/2023/08/bic_Polygon_matic-covers_bearish.jpg.webp"
+        },
+        {
+          "id": "https://cryptopanic.com/news/18910516/IOTA-price-prediction-amid-supply-increase-announcement",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/18910516/IOTA-price-prediction-amid-supply-increase-announcement",
+          "publishedOn": "2023-09-18T11:29:35.000Z",
+          "wordCount": null,
+          "title": "IOTA price prediction amid supply increase announcement",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18910526/Top-5-Crypto-Gainers-in-the-Past-24-Hours-CoinmarketCap",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/18910526/Top-5-Crypto-Gainers-in-the-Past-24-Hours-CoinmarketCap",
+          "publishedOn": "2023-09-18T11:28:10.000Z",
+          "wordCount": null,
+          "title": "Top 5 Crypto Gainers in the Past 24 Hours: CoinmarketCap",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18910511/Bosch-EU-and-blockchain-companies-to-build-decentralized-IoT-IAA-Mobility",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/18910511/Bosch-EU-and-blockchain-companies-to-build-decentralized-IoT-IAA-Mobility",
+          "publishedOn": "2023-09-18T11:27:19.000Z",
+          "wordCount": null,
+          "title": "Bosch, EU and blockchain companies to build decentralized IoT: IAA Mobility",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18910502/Identity-of-Ripples-Fortress-Trust-Hacker-Who-Stole-15-Million-in-Crypto-Revealed",
+          "author": null,
+          "description": "Details of exploit that drained $15 million worth of crypto from Fortress Trust have emerged thanks to Retool company, here's who hacker may be",
+          "link": "https://cryptopanic.com/news/18910502/Identity-of-Ripples-Fortress-Trust-Hacker-Who-Stole-15-Million-in-Crypto-Revealed",
+          "publishedOn": "2023-09-18T11:19:00.000Z",
+          "wordCount": 595,
+          "title": "Identity of Ripple's Fortress Trust Hacker Who Stole $15 Million in Crypto Revealed",
+          "imageUrl": "https://u.today/sites/default/files/styles/twitter/public/2023-09/40239.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/18910529/Macroeconomics-On-Chain-Data-with-Nik-Bhatia-Willy-Woo-WBD-Live-in-Sydney",
+          "author": null,
+          "description": "SHOW NOTES:https://www.whatbitcoindid.com/podcast/macroeconomics-on-chain-data-with-nik-bhatia-willy-woo-wbd-live-in-sydneyOn September 9th What Bitcoin Did hosted a live show in Sydney. In this second of two podcasts, the guests were the founder of The Bitcoin Layer & Author of Layered Money...",
+          "link": "https://cryptopanic.com/news/18910529/Macroeconomics-On-Chain-Data-with-Nik-Bhatia-Willy-Woo-WBD-Live-in-Sydney",
+          "publishedOn": "2023-09-18T11:17:51.000Z",
+          "wordCount": 597,
+          "title": "Macroeconomics & On-Chain Data with Nik Bhatia & Willy Woo - WBD Live in Sydney",
+          "imageUrl": "https://i4.ytimg.com/vi/7qKyN4lyVSI/hqdefault.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/18910492/Billionaire-Mark-Cuban-Loses-870K-in-Fresh-Crypto-Scam",
+          "author": null,
+          "description": "Coinspeaker Billionaire Mark Cuban Loses $870K in Fresh Crypto Scam Luckily, Cuban was quickly alerted and managed to move over $2.5 million worth of other crypto he had on Polygon to a Coinbase exchange address. Billionaire Mark Cuban Loses $870K in Fresh Crypto Scam",
+          "link": "https://cryptopanic.com/news/18910492/Billionaire-Mark-Cuban-Loses-870K-in-Fresh-Crypto-Scam",
+          "publishedOn": "2023-09-18T11:16:50.000Z",
+          "wordCount": 591,
+          "title": "Billionaire Mark Cuban Loses $870K in Fresh Crypto Scam",
+          "imageUrl": "https://www.coinspeaker.com/wp-content/uploads/2023/09/mark-cuban-crypto-scam.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/18910459/TON-Roars-Back-from-Crypto-Obscurity-as-Top-10-Contender",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/18910459/TON-Roars-Back-from-Crypto-Obscurity-as-Top-10-Contender",
+          "publishedOn": "2023-09-18T11:05:00.000Z",
+          "wordCount": null,
+          "title": "TON Roars Back from Crypto Obscurity as Top 10 Contender",
           "imageUrl": null
         }
       ]
@@ -985,12 +985,117 @@
       "siteUrl": "https://www.inoreader.com/stream/user/1005336866/tag/%E6%B5%B7%E5%A4%96%E5%8A%A0%E5%AF%86%E8%B5%84%E8%AE%AF/view/html",
       "articles": [
         {
+          "id": "http://www.inoreader.com/article/3a9c6e7540eca440",
+          "author": "Reed Macdonald",
+          "description": "On September 17, 2015, the U.S. Commodity Futures Trading Commission (CFTC) officially declared Bitcoin a commodity, a distinction that eight years later continues to set it apart from other cryptocurrencies that have yet to earn this status.\nWhile regulatory uncertainty still looms over other more centralized, digital assets, the CFTC's classification of Bitcoin as a commodity established a regulatory framework for Bitcoin, one that allows it to be treated like other classical commodities including gold and precious metals.\nIn its ruling, the CFTC stated that Section 1a(9) of the CEA defines commodity to include \"all services, rights, and interests in which contracts for future delivery are presently or in the future dealt in.\"\n\"The definition of a 'commodity' is broad... Bitcoin and othe…",
+          "link": "https://bitcoinmagazine.com/legal/bitcoin-marks-8th-year-us-commodity-sec-crypto",
+          "publishedOn": "2023-09-18T12:18:51.000Z",
+          "wordCount": null,
+          "title": "Bitcoin Marks 8th Year of US Commodity Status",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/png",
+            "url": "http://bitcoinmagazine.com/.image/c_limit,cs_srgb,h_1200,q_auto:good,w_1200/MjAwODgzODYyMjA3NzM0OTg4/screen-shot-2023-09-18-at-71136-am.png"
+          },
+          "imageUrl": "http://bitcoinmagazine.com/.image/c_limit,cs_srgb,h_1200,q_auto:good,w_1200/MjAwODgzODYyMjA3NzM0OTg4/screen-shot-2023-09-18-at-71136-am.png"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e7540ee6879",
+          "author": "Omkar Godbole",
+          "description": "The U.S. rates traders do not see the Fed raising rates for the rest of the year.",
+          "link": "https://www.coindesk.com/markets/2023/09/18/bitcoin-tops-27k-a-week-after-death-cross-formation-with-fed-likely-to-extend-rate-pause/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2023-09-18T12:06:30.000Z",
+          "wordCount": 7616,
+          "title": "Bitcoin Tops $27K a Week After Death Cross Formation With Fed Likely to Extend Rate Pause",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/png",
+            "url": "https://www.coindesk.com/resizer/wY3A5AOQvmb8QHPsWRRogenUAEw=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/33G4AYHU6BEBDBXJIQSGEAADNQ.png"
+          },
+          "imageUrl": "https://www.coindesk.com/resizer/wY3A5AOQvmb8QHPsWRRogenUAEw=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/33G4AYHU6BEBDBXJIQSGEAADNQ.png"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e7540e86e34",
+          "author": "Shaurya Malwa",
+          "description": "Bitcoin traded just under $26,700 and ether exchanged hands at $1,630 as of Asian afternoon hours Monday, adding just 0.5% in the past 24 hours.",
+          "link": "https://www.coindesk.com/markets/2023/09/18/bitcoin-ether-remain-steady-but-analysts-have-bearish-price-predictions/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2023-09-18T11:52:37.000Z",
+          "wordCount": 7002,
+          "title": "Bitcoin Punches Above $27K, But Analysts Have Bearish Price Predictions",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/jpeg",
+            "url": "https://www.coindesk.com/resizer/jVlOczur-GrLB3L7ggo6Gd4Cpn8=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/3KMCCY62IVHNLMLCT3MHFCQMOQ.jpg"
+          },
+          "imageUrl": "https://www.coindesk.com/resizer/jVlOczur-GrLB3L7ggo6Gd4Cpn8=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/3KMCCY62IVHNLMLCT3MHFCQMOQ.jpg"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e7540e9de9e",
+          "author": "Pedro Ferreira",
+          "description": "The  \nintersection between Non-Fungible Tokens (NFTs) with the worlds of advertising  \ntechnology (adtech) and digital art is changing how we view and interact with  \ndigital material. NFTs have grown in popularity, capturing the attention of  \nartists, advertisers, and collectors alike. \nUnderstanding  \nNon-Financial Transactions\nNon-fungible  \nTokens (NFTs) are indivisible and irreplaceable digital assets. Unlike fungible  \nand interchangeable cryptocurrencies such as Bitcoin or Ethereum, each NFT has  \na unique value and ownership record maintained on a blockchain. NFTs are  \nperfect for demonstrating ownership and provenance in the digital environment  \ndue to their uniqueness and immutability.\nThe NFT  \nExpansion\nThe NFT market  \nhas grown rapidly, with high-profile sales capturing at…",
+          "link": "https://www.financemagnates.com//cryptocurrency/nfts-in-adtech-and-digital-art-everything-you-need-to-know/",
+          "publishedOn": "2023-09-18T11:42:44.000Z",
+          "wordCount": 6931,
+          "title": "NFTs in Adtech and Digital Art - Everything You Need to Know",
+          "imageUrl": "https://images.financemagnates.com/images/nft%20market_id_ba3a6c8a-dce3-4086-ae63-740baf3c52f1_size900.jpg"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e7540ea03e5",
+          "author": "Jake Simmons",
+          "description": "The Bitcoin and crypto market is holding its breath in anticipation of the week ahead, particularly due to a singular, critical event: the US Federal Reserve’s interest rate decision followed by the FOMC press conference featuring Fed Chairman Jerome Powell. This looming decision has the potential to ripple through all financial markets, from Wall Street to the decentralized corridors of Bitcoin and crypto.\n \nOther events that could have a potential impact on the market are rather rare this week. Only the already last week approved liquidation of the FTX holdings (maximum $100 million, $200 million per week under certain circumstances) could be news-worthy. However, since the liquidations do not require any announcements, there will be no big headlines.\n \nFOMC And Interest Rate Decision On…",
+          "link": "https://bitcoinist.com/bitcoin-crypto-weekly-guide-key-market-events/",
+          "publishedOn": "2023-09-18T11:41:25.000Z",
+          "wordCount": 5904,
+          "title": "From Bitcoin To Crypto: Weekly Guide To Key Market Events",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/jpeg",
+            "url": "https://bitcoinist.com/wp-content/uploads/2023/09/matt-howard-GH7fPDHnJyw-unsplash-630x420.jpg"
+          },
+          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2023/09/matt-howard-GH7fPDHnJyw-unsplash-630x420.jpg"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e7540eafd07",
+          "author": "Sergio Goschenko",
+          "description": "Welcome to Latam Insights, a compendium of Latin America’s most relevant crypto and economic news during the last week. In this issue: Brazil, Argentina, and Mexico are present in Chainalysis’ 2023 Global Crypto Adoption Index; Argentine presidential candidate Javier Milei blames socialism for Argentina’s economic decline, and Bull Bitcoin expands to Costa Rica.\nBrazil, Argentina, and Mexico Among the Countries With Most Crypto Adoption\nBrazil, Argentina, and Mexico are among the 20 countries in the world where cryptocurrencies are used most, according to the Chainalysis 2023 Global Crypto Adoption Index, a yearly report that seeks to estimate the countries where the most grassroots crypto adoption is located.\nAccording to several metrics, Chainalysis estimated that India, Nigeria, and Vie…",
+          "link": "https://news.bitcoin.com/latam-insights-crypto-adoption-booms-in-latam-nations-milei-bashes-socialism/",
+          "publishedOn": "2023-09-18T11:34:43.000Z",
+          "wordCount": 266,
+          "title": "Latam Insights: Crypto Adoption Booms in Latam Nations, Milei Bashes Socialism",
+          "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2023/09/shutterstock_1827932012-1-1-1.webp"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e7540d42979",
+          "author": "Camomile Shumba, Jack Schickler",
+          "description": "The country's financial watchdog wants to align its framework with EU-wide rules set to take effect in 2024.",
+          "link": "https://www.coindesk.com/policy/2023/09/18/malta-seeks-to-change-its-crypto-rulebook-to-get-ready-for-mica/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2023-09-18T11:26:44.000Z",
+          "wordCount": 6869,
+          "title": "Malta Seeks to Change Its Crypto Rulebook to Get Ready for MiCA",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/jpeg",
+            "url": "https://www.coindesk.com/resizer/PPNCZEm0EvIFfhP01P4ua2ycUHs=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/AGRXPX3T2VFUJPDCGZZLCINI7U.jpg"
+          },
+          "imageUrl": "https://www.coindesk.com/resizer/PPNCZEm0EvIFfhP01P4ua2ycUHs=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/AGRXPX3T2VFUJPDCGZZLCINI7U.jpg"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e7540d4c967",
+          "author": "Tareq Sikder",
+          "description": "NFL  \nquarterback Trevor Lawrence, along with popular YouTube influencers Kevin  \nPaffrath and Tom Nash, have reached a settlement in a lawsuit related to their  \nendorsements of the now-defunct FTX cryptocurrency exchange. \nHigh-Profile  \nFigures Face Similar Lawsuits\nAccording  \nto Bloomberg's report on September 16, the terms of the settlement have not  \nbeen disclosed. This development marks the first resolution among more than a  \ndozen celebrities and firms accused of assisting Sam Bankman-Fried, the Founder of FTX, in  \nalleged investor deception. He is set to face a criminal trial in Manhattan  \nnext month.\nOther  \nhigh-profile individuals, including Tom Brady, Gisele Bundchen, Steph Curry,  \nShaquille O’Neal, and Larry David, who had endorsed FTX, are also facing similar  \nlawsuit…",
+          "link": "https://www.financemagnates.com//cryptocurrency/ftx-cryptocurrency-exchange-case-trevor-lawrence-and-influencers-settle-lawsuit/",
+          "publishedOn": "2023-09-18T11:22:49.000Z",
+          "wordCount": 6676,
+          "title": "FTX Cryptocurrency Exchange Case: Trevor Lawrence and Influencers Settle Lawsuit",
+          "imageUrl": "https://images.financemagnates.com/images/FTX%E2%80%99s%20Collapse%20Troubles%20African%20Fintech%20Firms_id_39264ad0-1e79-42b2-8e73-db397291044b_size900.jpeg"
+        },
+        {
           "id": "http://www.inoreader.com/article/3a9c6e7540d7426b",
           "author": "Ian Allison",
           "description": "Tether pioneer William Quigley, who was also an early investor in PayPal, said he doubts the payments giant will bring much innovation to the stablecoin space.",
           "link": "https://www.coindesk.com/business/2023/09/18/tether-co-founder-sizes-up-paypals-stablecoin-ambitions/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-09-18T11:05:29.000Z",
-          "wordCount": 7650,
+          "wordCount": 7663,
           "title": "Tether Co-Founder Sizes Up PayPal’s Stablecoin Ambitions",
           "enclosure": {
             "length": "1337",
@@ -1015,7 +1120,7 @@
           "description": "Ripple’s XRP token is believed to boast huge potential, but many have wondered how valuable the token can become. Ripple’s CEO Brad Garlinghouse seems to have an answer as he claims the token could become the next Bitcoin.\n \nHow XRP Can Become The Next Bitcoin\n \nA prominent figure in the XRP community, JackTheRippler, shared a clip from an interview that Garlinghouse had with Bloomberg. In the interview, the CEO mentioned that the token could become the next bitcoin if his company, using the XRP token, could solve a huge financial problem, especially at a large scale running into “trillions of dollars.”\n \n \nHis statement likely stems from his company’s vision to disrupt the global financial system and become a viable alternative to the traditional system, such as the SWIFT payment system. …",
           "link": "https://bitcoinist.com/ripple-ceo-xrp-bitcoin/",
           "publishedOn": "2023-09-18T10:42:05.000Z",
-          "wordCount": 5554,
+          "wordCount": 5557,
           "title": "Ripple CEO: The Billion-Dollar Problem That Will Make XRP The Next Bitcoin",
           "enclosure": {
             "length": "1337",
@@ -1027,7 +1132,7 @@
         {
           "id": "http://www.inoreader.com/article/3a9c6e7540d82415",
           "author": "Kevin Helms",
-          "description": "Ethereum co-founder Joseph Lubin says he stands by his conviction that ether is a commodity despite the U.S. Securities and Exchange Commission (SEC) and its chairman, Gary Gensler, trying to assert authority over all crypto tokens, except bitcoin. “I anticipate that, with previous technologies like the internet, the web and cryptography, clear heads will prevail,” said Lubin.\n \nLubin Insists Ether Is a Commodity\n \nEthereum co-founder and the CEO of blockchain technology company Consensys, Joseph Lubin, is confident that ETH is a commodity despite the U.S. Securities and Exchange Commission (SEC) increasing its efforts to crack down on crypto securities. He said in an interview with CNBC on Thursday:\n \n\nI stand by my conviction that ether is a commodity.\n \nThe securities regulator has incr…",
+          "description": "Ethereum co-founder Joseph Lubin says he stands by his conviction that ether is a commodity despite the U.S. Securities and Exchange Commission (SEC) and its chairman, Gary Gensler, trying to assert authority over all crypto tokens, except bitcoin. “I anticipate that, with previous technologies like the internet, the web and cryptography, clear heads will prevail,” said Lubin.\n \nLubin Insists Ether Is a Commodity\n \n\n \nEthereum co-founder and the CEO of blockchain technology company Consensys, Joseph Lubin, is confident that ETH is a commodity despite the U.S. Securities and Exchange Commission (SEC) increasing its efforts to crack down on crypto securities. He said in an interview with CNBC on Thursday:\n \n\nI stand by my conviction that ether is a commodity.\n \n\n \nThe securities regulator ha…",
           "link": "https://news.bitcoin.com/ethereum-co-founder-insists-eth-is-a-commodity-amid-sec-crackdown-on-crypto-securities/",
           "publishedOn": "2023-09-18T10:04:26.000Z",
           "wordCount": 246,
@@ -1040,7 +1145,7 @@
           "description": "Renowned author Robert Kiyosaki, best known for his personal finance book ‘Rich Dad, Poor Dad,’ has once again underlined his conviction that traditional fiat currencies are on the path to obsolescence, while cryptocurrencies are poised to become the future of money. \n \nKiyosaki’s outspoken endorsement of cryptocurrencies has been a recurring theme in his public statements, and his recent comments on social media have reignited the debate on the future of money.\n \nRobert Kiyosaki took to the social media platform X to share his thoughts while he was coincidentally in Singapore during the TOKEN2049 conference, one of the largest annual gatherings for crypto enthusiasts and experts. \n \n \n \nIn Singapore at same time massive crypto conference is on. Very exciting. Crypto is the future. Fiat…a.…",
           "link": "https://bitcoinist.com/robert-kiyosaki-champions-crypto/",
           "publishedOn": "2023-09-18T09:43:41.000Z",
-          "wordCount": 5492,
+          "wordCount": 5495,
           "title": "Robert Kiyosaki Again Champions Crypto, Labels Fiat ‘FAKE’",
           "enclosure": {
             "length": "1337",
@@ -1065,7 +1170,7 @@
           "description": "The large flow was concentrated in the so-called out-of-the-money calls, indicating a bullish outlook on the second-largest cryptocurrency by market volume, according to Greeks.Live",
           "link": "https://www.coindesk.com/markets/2023/09/18/crypto-whale-takes-150m-bullish-bet-on-ether-trading-data-tracker-shows/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-09-18T08:34:28.000Z",
-          "wordCount": 6789,
+          "wordCount": 6794,
           "title": "Crypto Whale Takes $150M Bullish Bet on Ether, Trading Data Tracker Shows",
           "enclosure": {
             "length": "1337",
@@ -1080,7 +1185,7 @@
           "description": "The sale of tokens won’t flood the market because liquidations are bound by sell limits, the report said.",
           "link": "https://www.coindesk.com/markets/2023/09/18/ftxs-crypto-liquidation-sales-unlikely-to-cause-market-shock-coinbase/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-09-18T08:34:28.000Z",
-          "wordCount": 6519,
+          "wordCount": 6523,
           "title": "FTX’s Crypto Liquidation Sales Unlikely to Cause Market Shock: Coinbase",
           "enclosure": {
             "length": "1337",
@@ -1095,7 +1200,7 @@
           "description": "In a series of tweets that have captured the attention of the crypto community, John E Deaton, a lawyer known for his pro-XRP stance, alluded to the existence of damning information about ETH Gate that could be disclosed soon. His comments come in the wake of tweets from Steven Nerayoff, an early adviser to the Ethereum network, who recently had criminal extortion charges against him dismissed in May this year.\n \nDeaton’s statement was a response to Nerayoff’s lawyer, Michael Scotto, who tweeted, “My client Steven Nerayoff fought and won the battle of a lifetime. Steve has been advised to follow proper procedures and is fully committed to making all his facts known at a time and manor that serves the interests of justice and the people. #staytuned.”\n \nDeaton responded, “I’ve always said th…",
           "link": "https://bitcoinist.com/pro-xrp-lawyer-one-day-closer-unveiling-eth-gate/",
           "publishedOn": "2023-09-18T08:22:54.000Z",
-          "wordCount": 5733,
+          "wordCount": 5736,
           "title": "Pro-XRP Lawyer Asserts ‘One Day Closer’ To Unveiling ETH Gate",
           "enclosure": {
             "length": "1337",
@@ -1110,7 +1215,7 @@
           "description": "Binance  \nP2P, a peer-to-peer trading platform, has introduced five new automated payment  \nmethods, for cryptocurrency buyers and sellers across 15 fiat markets. With these  \nautomated payment options, users can instantly receive their purchased assets,  \nstreamlining the trading process. \nAutomated  \nMethods Streamline Cryptocurrency Trading\nThese  \nautomated methods eliminate the need for sellers to manually verify payments  \nbefore releasing assets, as the system checks for complete payments from  \nbuyers. This automated approach operates 24/7; ensuring assets are promptly  \nreleased upon confirmation of full payment, which minimizes delays and enhances overall  \ntrading efficiency.\nOnly  \nselected merchants on Binance  \nP2P, which is identifiable by a pink lightning badge, are authori…",
           "link": "https://www.financemagnates.com//cryptocurrency/binance-p2p-introduces-automated-payment-methods-for-crypto-trades/",
           "publishedOn": "2023-09-18T08:22:19.000Z",
-          "wordCount": 5559,
+          "wordCount": 5575,
           "title": "Binance P2P Introduces Automated Payment Methods for Crypto Trades",
           "imageUrl": "https://images.financemagnates.com/images/Binance%20header_id_c28a1a4b-1632-42c0-b85c-5896407a25ef_size900.jpg"
         },
@@ -1120,7 +1225,7 @@
           "description": "Binance.US,  \nthe American offshoot of the global cryptocurrency exchange Binance, is struggling  \nwith a series of unprecedented challenges that might have led to a significant  \ndecline in trading activity. \nOn  \nSeptember 16, 2023, the trading volume on Binance.US plummeted to a mere $5.09  \nmillion, according to data from Amberdata on The Tie Terminal. This marks a  \nstark contrast from September 17, 2022, when the exchange boasted a trading  \nvolume of approximately $230 million.\nThe  \nmonth of September has been particularly bleak for Binance.US, with the lowest  \npoint recorded on September 9, when trading activity dipped to just $2.97  \nmillion. This drastic drop in trading volume is anticipated for a combination  \nof external and internal factors that have shaken the exchange to i…",
           "link": "https://www.financemagnates.com//cryptocurrency/binanceuss-challenges-continue-trading-activity-hits-new-lows/",
           "publishedOn": "2023-09-18T08:12:23.000Z",
-          "wordCount": 4805,
+          "wordCount": 4818,
           "title": "Binance.US's Challenges Continue: Trading Activity Hits New Lows",
           "imageUrl": "https://images.financemagnates.com/images/Binance%20header_id_c28a1a4b-1632-42c0-b85c-5896407a25ef_size900.jpg"
         },
@@ -1130,7 +1235,7 @@
           "description": "Decentralized exchanges usually let users swap one asset for another, but a new tool claims to let users swap 300 tokens at the same time.",
           "link": "https://www.coindesk.com/tech/2023/09/18/new-avalanche-dapp-lets-traders-swap-hundreds-of-different-tokens-in-single-transaction/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-09-18T08:12:22.000Z",
-          "wordCount": 7080,
+          "wordCount": 7070,
           "title": "New Avalanche Dapp Lets Traders Swap Hundreds of Different Tokens in Single Transaction",
           "enclosure": {
             "length": "1337",
@@ -1138,106 +1243,6 @@
             "url": "https://www.coindesk.com/resizer/9aMPy_WtpPXMpF1ETwpFlRXeJf0=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/5FBAFEFHHJCPHGQKVKPMU7X6S4.jpg"
           },
           "imageUrl": "https://www.coindesk.com/resizer/9aMPy_WtpPXMpF1ETwpFlRXeJf0=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/5FBAFEFHHJCPHGQKVKPMU7X6S4.jpg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e7540c832af",
-          "author": "Omkar Godbole",
-          "description": "Ether is trading at a 27% discount to its fair value, according to research firm RXR's blended Metcalfe law-centric valuation model, which incorporates active user adoption of layer 2 scaling networks.",
-          "link": "https://www.coindesk.com/markets/2023/09/18/ether-trading-at-27-discount-to-fair-value-new-research-shows/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-          "publishedOn": "2023-09-18T08:00:17.000Z",
-          "wordCount": 7614,
-          "title": "Ether Trading at 27% Discount to Fair Value, New Research Shows",
-          "enclosure": {
-            "length": "1337",
-            "type": "image/png",
-            "url": "https://www.coindesk.com/resizer/n1h89S739Ev8-4qNjNk6Q11A0ao=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/T2MLZMYKC5F5DJL6V57CJAIRZY.png"
-          },
-          "imageUrl": "https://www.coindesk.com/resizer/n1h89S739Ev8-4qNjNk6Q11A0ao=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/T2MLZMYKC5F5DJL6V57CJAIRZY.png"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e7540b5cac9",
-          "author": "Arnab Shome",
-          "description": "Hong Kong police has arrested a social media influencer, Joseph Lam Chok this morning (Monday) for his involvement with the cryptocurrency trading platform, JPEX, which is facing allegations of fraud, according to the South China Morning Post. \nJPEX Suspends All Trading Activities\nThe arrest came hours after the troubled exchange confirmed the suspension of trading activities following a probe by Hong Kong’s Securities and Futures Commission (SFC).\n“Due to the unfair treatment by relevant institutions in Hong Kong towards JPEX, a cryptocurrency trading platform, and a series of negative news, our partnered third-party market makers have maliciously frozen funds. They demanded more information from the platform for negotiation, restricting our liquidity and significantly increasing our dail…",
-          "link": "https://www.financemagnates.com//cryptocurrency/crypto-exchange-jpex-halts-trading-hk-police-arrest-an-influencer/",
-          "publishedOn": "2023-09-18T07:13:27.000Z",
-          "wordCount": 16173,
-          "title": "Crypto Exchange JPEX Halts Trading, HK Police Arrest an Influencer",
-          "imageUrl": "https://images.financemagnates.com/images/JPEX%20crypto%20exchange_id_ebf3b08b-bae7-4069-9fc8-90bced764245_size900.jpg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e7540b1b6f9",
-          "author": "Kevin Helms",
-          "description": "A Hong Kong Legislative Council member has assured Ethereum co-founder Vitalik Buterin that the friendly cryptocurrency policies in Hong Kong are “very stable.” In response to Buterin’s comments expressing his unfamiliarity with Hong Kong and its “complicated interaction” with Mainland China, the legislator has extended an invitation for the Ethereum co-founder to visit Hong Kong and acquire a deeper understanding of the city’s crypto regulations.\n \nHong Kong’s Legislator Responds to Vitalik Buterin’s Crypto Policy Comments\n \nJohnny Ng, a member of Hong Kong’s Legislative Council, has responded to the remarks by Ethereum co-founder Vitalik Buterin regarding Hong Kong’s crypto policies. Buterin cautioned crypto projects seeking to set up operations in Hong Kong at this year’s Web3 Transitio…",
-          "link": "https://news.bitcoin.com/hong-kongs-friendly-crypto-policies-very-stable-legislator-assures-vitalik-buterin/",
-          "publishedOn": "2023-09-18T06:38:37.000Z",
-          "wordCount": 243,
-          "title": "Hong Kong’s Friendly Crypto Policies ‘Very Stable,’ Legislator Assures Vitalik Buterin",
-          "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2023/09/hong-kong-vitalik-buterin.jpg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e7540b2d94d",
-          "author": "Shaurya Malwa",
-          "description": "The billionaire said he logged in to his crypto wallets after months of inactivity but had likely clicked on a phishing link.",
-          "link": "https://www.coindesk.com/tech/2023/09/18/mark-cuban-loses-nearly-1m-to-crypto-scam/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-          "publishedOn": "2023-09-18T06:28:22.000Z",
-          "wordCount": 6526,
-          "title": "Mark Cuban Loses Nearly $1M to Crypto Scam",
-          "enclosure": {
-            "length": "1337",
-            "type": "image/jpeg",
-            "url": "https://www.coindesk.com/resizer/83xllZyM8tQM1-CnzeVUJg8KSk4=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/SVL4W3B7SRC5HILBVOWBZBRBII.jpg"
-          },
-          "imageUrl": "https://www.coindesk.com/resizer/83xllZyM8tQM1-CnzeVUJg8KSk4=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/SVL4W3B7SRC5HILBVOWBZBRBII.jpg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e7540ba0649",
-          "author": "Amitoj Singh, Sam Reynolds",
-          "description": "Three celebrity promoters of the failed FTX cryptocurrency exchange have opted to settle a case which alleged they helped dupe investors.",
-          "link": "https://www.coindesk.com/policy/2023/09/18/nfl-quarterback-trevor-lawrence-and-two-youtube-influencers-settle-ftx-case/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-          "publishedOn": "2023-09-18T05:17:59.000Z",
-          "wordCount": 7294,
-          "title": "NFL Quarterback Trevor Lawrence and Two YouTube Influencers Settle FTX Case",
-          "enclosure": {
-            "length": "1337",
-            "type": "image/jpeg",
-            "url": "https://www.coindesk.com/resizer/pjwAR9hUdflW8OrvI0dwtMnd6iY=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/Q6L6RFG6VFFATP6T73TA2QICM4.jpg"
-          },
-          "imageUrl": "https://www.coindesk.com/resizer/pjwAR9hUdflW8OrvI0dwtMnd6iY=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/Q6L6RFG6VFFATP6T73TA2QICM4.jpg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e7540ba0643",
-          "author": "Sam Reynolds",
-          "description": "SCMP reported that Hong Kong police had received 83 complaints about the platform, which was operating without a license.",
-          "link": "https://www.coindesk.com/policy/2023/09/18/hong-kong-probe-into-crypto-exchanges-jpex-results-in-arrest/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-          "publishedOn": "2023-09-18T05:17:59.000Z",
-          "wordCount": 6632,
-          "title": "Hong Kong Probe Into Crypto Exchanges JPEX Results in Arrest",
-          "enclosure": {
-            "length": "1337",
-            "type": "image/jpeg",
-            "url": "https://www.coindesk.com/resizer/5oXBOE48UUP0I2IAqCR6SbfWR4U=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/65Z7PRWGRVB2DJCGIUHQTR3SNE.jpg"
-          },
-          "imageUrl": "https://www.coindesk.com/resizer/5oXBOE48UUP0I2IAqCR6SbfWR4U=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/65Z7PRWGRVB2DJCGIUHQTR3SNE.jpg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e7540a5c23e",
-          "author": "Kevin Helms",
-          "description": "Many crypto proponents have warned that despite a small connection between Blackrock and XRP, the news of the world’s largest asset manager shifting focus from bitcoin to XRP is fake. Blackrock is currently waiting for the U.S. Securities and Exchange Commission (SEC) to greenlight its spot bitcoin ETF application.\n \nCrypto Proponents Doubt Veracity of Blackrock-XRP Rumors\n \n\n \nOver the past few days, rumors have circulated on social media that Blackrock, the world’s largest asset manager, is shifting its crypto strategy from bitcoin to XRP. One of the widely shared articles was published by Investing.com, titled “Blackrock rumored to shift crypto focus from Bitcoin to XRP.” The article explicitly disclosed that it was “generated with the support of AI and reviewed by an editor.”\n \n\n \nMany…",
-          "link": "https://news.bitcoin.com/crypto-community-skeptical-of-blackrocks-xrp-pivot-rumors/",
-          "publishedOn": "2023-09-18T04:38:49.000Z",
-          "wordCount": 223,
-          "title": "Crypto Community Skeptical of Blackrock’s XRP Pivot Rumors",
-          "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2023/09/blackrock-xrp.jpg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e7540afd75f",
-          "author": "Kevin Helms",
-          "description": "Nine U.S. lawmakers have thrown their support behind the Digital Asset Anti-Money Laundering Act, recently reintroduced in Congress by Senators Elizabeth Warren, Roger Marshall, Joe Manchin, and Lindsey Graham. Experts have warned that this crypto bill is the most direct attack on the privacy and personal freedom of cryptocurrency users.\n \nDigital Asset Anti-Money Laundering Act Gains Support\n \nNine U.S. lawmakers have joined Senators Elizabeth Warren (D-MA), Roger Marshall (R-KS), Joe Manchin (D-WV), and Lindsey Graham (R-SC) in support of the Digital Asset Anti-Money Laundering Act. The bill aims to “close loopholes in current law and bring cryptocurrency companies into greater compliance with the anti-money laundering and countering the financing of terrorism (AMF/CFT) frameworks that g…",
-          "link": "https://news.bitcoin.com/senator-elizabeth-warrens-crypto-bill-gains-support-among-us-lawmakers/",
-          "publishedOn": "2023-09-18T02:39:47.000Z",
-          "wordCount": 227,
-          "title": "Senator Elizabeth Warren’s Crypto Bill Gains Support Among US Lawmakers",
-          "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2023/09/elizabeth-warren-crypto-bill.jpg"
         }
       ]
     }

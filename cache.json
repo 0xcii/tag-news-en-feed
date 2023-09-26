@@ -6,6 +6,21 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=198681",
+          "author": "Jason Nelson",
+          "description": "Halborn COO David Schwed highlights overlooked centralized chokepoints in “decentralized” Web3 projects.",
+          "link": "https://decrypt.co/198681/defi-hacks-usually-come-down-to-poor-security-halborn-coo-david-schwed",
+          "publishedOn": "2023-09-26T02:50:37.000Z",
+          "wordCount": 10100,
+          "title": "DeFi Hacks Usually Come Down to Poor Security: Halborn COO",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/09/Decrypt-Wallpaper-Format-2023-09-25T191704.398-gID_7.png@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/09/Decrypt-Wallpaper-Format-2023-09-25T191704.398-gID_7.png@png"
+        },
+        {
           "id": "https://decrypt.co/videos/interviews/kA1Bqu4H/dave-lemke",
           "author": null,
           "description": "Dave Lemke is the CFO & CCO at Giddy, creators of a self-custody crypto wallet with decentralized private key security. Stacy Elliott interviewed him at Messari Mainnet 2023.",
@@ -41,7 +56,7 @@
           "description": "Amanda Tuminelli serves as the DeFi Education Fund's Chief Legal Officer where she leads the organization's impact litigation and policy efforts. Stacy Elliott of Decrypt interviewed her at Messari Mainnet 2023.",
           "link": "https://decrypt.co/videos/interviews/xD0CzPUF/amanda-tuminelli",
           "publishedOn": "2023-09-26T00:32:21.000Z",
-          "wordCount": 6234,
+          "wordCount": 6470,
           "title": "Amanda Tuminelli",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/xD0CzPUF/poster.jpg",
@@ -56,7 +71,7 @@
           "description": "Getty's new AI tool ensures generated visuals are clear of copyright encumbrances for commercial use, the company says.",
           "link": "https://decrypt.co/198660/getty-images-launches-safe-generative-ai-image-tool",
           "publishedOn": "2023-09-26T00:04:22.000Z",
-          "wordCount": 10905,
+          "wordCount": 10917,
           "title": "Getty Images Launches 'Safe' Generative AI Image Tool",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/09/Craig-Peters-AI-Expanded-16x9-1-scaled-gID_7.jpg@png",
@@ -71,7 +86,7 @@
           "description": "Bitwise argued that CME Bitcoin Futures are responsible for most of Bitcoin's price discovery, and thus are adequate for a surveillance sharing agreement.",
           "link": "https://decrypt.co/198662/bitwise-response-sec-rejection-bitcoin-spot-etf-cme-futures",
           "publishedOn": "2023-09-25T22:48:55.000Z",
-          "wordCount": 9266,
+          "wordCount": 9278,
           "title": "Bitwise Pushes Back Against SEC Rationale for Rejecting Bitcoin Spot ETFs",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/02/bitcoin-etf-gID_7.jpg@png",
@@ -86,7 +101,7 @@
           "description": "While no longer a part of Mojang, Notch apparently believes play-to-earn Minecraft servers are “nonsense.”",
           "link": "https://decrypt.co/198658/minecraft-creator-notch-glad-theyre-cracking-down-bitcoin-reward-servers",
           "publishedOn": "2023-09-25T22:24:25.000Z",
-          "wordCount": 9878,
+          "wordCount": 9890,
           "title": "Minecraft Creator Notch: 'Glad They're Cracking Down' on Bitcoin Reward Servers",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/07/minecraft-banner-gID_7.jpg@png",
@@ -101,7 +116,7 @@
           "description": "If the funds are returned, HTX is offering the hacker a 5% bug bounty —and a job.",
           "link": "https://decrypt.co/198650/htx-huobi-hack-justin-sun",
           "publishedOn": "2023-09-25T21:19:39.000Z",
-          "wordCount": 9570,
+          "wordCount": 9582,
           "title": "HTX Loses $7.9 Million To Hacker, Asks For Money Back",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/08/Hacker-in-Red-shutterstock_2249685481-gID_7.jpg@png",
@@ -131,7 +146,7 @@
           "description": "The SEC has said it isn't happy with the role crypto exchange Coinbase would play to make former Celsius clients whole.",
           "link": "https://decrypt.co/198647/sec-objects-coinbases-role-celsius-bankruptcy-distribution-plan",
           "publishedOn": "2023-09-25T20:55:19.000Z",
-          "wordCount": 9457,
+          "wordCount": 9469,
           "title": "SEC Objects to Coinbase's Role in Celsius Bankruptcy Distribution Plan",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/02/sec-crypto-regulations-gID_7.jpg@png",
@@ -141,13 +156,13 @@
           "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/02/sec-crypto-regulations-gID_7.jpg@png"
         },
         {
-          "id": "https://decrypt.co/videos/interviews/WTDdMnW6/david-l-schwed",
+          "id": "https://decrypt.co/videos/interviews/WTDdMnW6/most-defi-hacks-are-due-to-dumb-mistakes-not-on-chain-vulnerabilities-halborn",
           "author": null,
-          "description": "David L. Schwed is the Chief Operating Officer for Halborn. He was interviewed at Messari Mainnet 2023 by André Beganski.",
-          "link": "https://decrypt.co/videos/interviews/WTDdMnW6/david-l-schwed",
+          "description": "“I think as the ecosystem starts to mature, we'll start to see a slowdown of some of the dumb mistakes that a lot of projects are making,” Halborn COO David Schwed told Decrypt at Messari Mainnet. “This is a controversial statement, but many hacks are preventable.”",
+          "link": "https://decrypt.co/videos/interviews/WTDdMnW6/most-defi-hacks-are-due-to-dumb-mistakes-not-on-chain-vulnerabilities-halborn",
           "publishedOn": "2023-09-25T19:31:07.000Z",
-          "wordCount": 6421,
-          "title": "David L. Schwed",
+          "wordCount": 6369,
+          "title": "Most DeFi Hacks Are Due to ‘Dumb Mistakes,’ Not On-Chain Vulnerabilities: Halborn",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/WTDdMnW6/poster.jpg",
             "length": "1000000",
@@ -161,7 +176,7 @@
           "description": "Meet libbitcoinkernel—a long-running project to help devs avoid inadvertently changing mission-critical code when building on Bitcoin.",
           "link": "https://decrypt.co/198636/this-update-could-change-bitcoin-development-forever",
           "publishedOn": "2023-09-25T19:29:52.000Z",
-          "wordCount": 11791,
+          "wordCount": 11803,
           "title": "This Update Could Change Bitcoin Development Forever",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/09/bitcoin-city-building-developers-devs-gID_7.jpg@png",
@@ -173,11 +188,11 @@
         {
           "id": "https://decrypt.co/?p=198625",
           "author": "Andrew Hayward",
-          "description": "Streetwear brand BAPE appears to be teaming up with the Bored Ape Yacht Club on an as-yet-unrevealed project.",
+          "description": "Streetwear brand BAPE is teaming up with the Bored Ape Yacht Club, with an apparel drop first launching during ApeFest Hong Kong.",
           "link": "https://decrypt.co/198625/bape-collab-bored-ape-yacht-club-teased",
           "publishedOn": "2023-09-25T17:52:04.000Z",
-          "wordCount": 9102,
-          "title": "Bored Ape Yacht Club Teases BAPE Collab",
+          "wordCount": 9861,
+          "title": "Bored Ape Yacht Club Reveals BAPE Streetwear Collab",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/09/bored-ape-bape-gID_7.png@png",
             "length": "1000000",
@@ -191,7 +206,7 @@
           "description": "ChatGPT gains voice chat and can discuss images in a major upgrade from OpenAI as the company looks to dominate the industry.",
           "link": "https://decrypt.co/198611/openai-upgrades-chatgpt-the-ai-chatbot-can-now-see-hear-and-speak",
           "publishedOn": "2023-09-25T17:45:48.000Z",
-          "wordCount": 10507,
+          "wordCount": 10519,
           "title": "OpenAI Upgrades ChatGPT: The AI Chatbot Can Now “See, Hear and Speak”",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/09/refine_00024_-gID_7.png@png",
@@ -206,7 +221,7 @@
           "description": "Peter Parker and Miles Morales team up on PlayStation 5 in Spider-Man 2, which promises numerous enhancements over the previous games.",
           "link": "https://decrypt.co/198524/marvels-spider-man-2-ps5-everything-you-need-know",
           "publishedOn": "2023-09-25T17:36:30.000Z",
-          "wordCount": 12022,
+          "wordCount": 12034,
           "title": "Marvel's Spider-Man 2 (PS5): Everything You Need to Know",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/09/spider-man2-game-lead-gID_7.png@png",
@@ -221,7 +236,7 @@
           "description": "A Friend.tech clone has emerged on Solana, generating nearly half the weekly trading volume of the leading incumbent.",
           "link": "https://decrypt.co/198603/solana-friend-tech-fork-friendzy-volume-edges-towards-1m-after-just-one-week",
           "publishedOn": "2023-09-25T14:42:40.000Z",
-          "wordCount": 9248,
+          "wordCount": 9260,
           "title": "Solana Friend.tech Fork Friendzy Volume Edges Towards $1M After Just One Week",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/09/friendzy-logo-gID_7.jpg@png",
@@ -236,7 +251,7 @@
           "description": "The cloud software firm has put another $147 million into Bitcoin, increasing its cryptocurrency holdings to a total of 158,245 Bitcoin.",
           "link": "https://decrypt.co/198596/microstrategy-buys-another-147-million-worth-bitcoin",
           "publishedOn": "2023-09-25T13:36:10.000Z",
-          "wordCount": 9512,
+          "wordCount": 9524,
           "title": "MicroStrategy Buys Another $147 Million Worth of Bitcoin",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/02/MicroStrategy-gID_7.jpg@png",
@@ -251,7 +266,7 @@
           "description": "A new CoinShares report indicates that EU investors have been more bullish on crypto than their U.S. counterparts.",
           "link": "https://decrypt.co/198591/european-investors-more-bullish-crypto-than-american-says-coinshares-report",
           "publishedOn": "2023-09-25T13:06:44.000Z",
-          "wordCount": 9390,
+          "wordCount": 9402,
           "title": "European Investors More Bullish on Crypto Than American, Says CoinShares Report",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/09/eu-us-crypto-gID_7.jpg@png",
@@ -266,7 +281,7 @@
           "description": "Streamlined and user-friendly, Core is the go-to staking solution for Avalanche. Here's our simple guide to staking AVAX with Core.",
           "link": "https://decrypt.co/resources/how-to-stake-avax-on-avalanche-using-core",
           "publishedOn": "2023-09-25T12:01:02.000Z",
-          "wordCount": 14290,
+          "wordCount": 14302,
           "title": "How To Stake AVAX on Avalanche Using Core",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/09/core-avax-avalanche-gID_5-pID_3.png@png",
@@ -281,7 +296,7 @@
           "description": "Along with the cash injection, Anthropic will also have access to Amazon Web Services and assist with developing the firm's native chips.",
           "link": "https://decrypt.co/198573/amazon-invest-4b-ai-firm-anthropic",
           "publishedOn": "2023-09-25T11:01:20.000Z",
-          "wordCount": 9243,
+          "wordCount": 9255,
           "title": "Amazon to Invest up to $4 Billion in AI Firm Anthropic",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/06/amazon-crypto-defi-gID_7.jpg@png",
@@ -296,7 +311,7 @@
           "description": "After the JPEX incident, Hong Kong's SFC is tightening up, announcing it would reveal all the crypto firms vying for a license.",
           "link": "https://decrypt.co/198570/hong-kong-financial-watchdog-bring-jpex-wrong-doers-justice",
           "publishedOn": "2023-09-25T10:21:57.000Z",
-          "wordCount": 10621,
+          "wordCount": 10633,
           "title": "Hong Kong Financial Watchdog to Bring JPEX 'Wrong-Doers to Justice'",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/12/hong-kong-cryptocurrency-gID_7.jpg@png",
@@ -311,7 +326,7 @@
           "description": "Mixin Network hacked for up to $200 million, raising centralization concerns.",
           "link": "https://decrypt.co/198568/mixin-platform-suspends-deposits-withdrawals-200m-security-breach",
           "publishedOn": "2023-09-25T09:32:57.000Z",
-          "wordCount": 8788,
+          "wordCount": 8800,
           "title": "Mixin Platform Suspends Deposits, Withdrawals After $200M Security Breach",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/10/bitcoin-lightning-network-new-exploit-gID_7.jpg@png",
@@ -326,7 +341,7 @@
           "description": "About 59% of voters were in favor of the move, which comes more than a year after the original Terra Luna collapsed.",
           "link": "https://decrypt.co/198539/terra-classic-luna-ustc-halts-minting",
           "publishedOn": "2023-09-25T03:23:43.000Z",
-          "wordCount": 9442,
+          "wordCount": 9454,
           "title": "Terra Classic Community Votes to End Minting, Reminting of USTC Tokens",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/09/Terra-Classic-shutterstock_2140753155-16x9-1-gID_7.jpg@png",
@@ -341,7 +356,7 @@
           "description": "The provisional agreement is said to have \"groundbreaking additions\" related to the use of AI in film and TV writing.",
           "link": "https://decrypt.co/198561/writers-guild-strike-tentative-deal-ai-streaming-amptp",
           "publishedOn": "2023-09-25T03:02:00.000Z",
-          "wordCount": 11163,
+          "wordCount": 11175,
           "title": "Writers Guild, Studios Reach Tentative Deal Covering AI, Streaming Services",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/07/sag-aftra-strike-03-jason-nelson-decrypt-gID_7.png@png",
@@ -356,7 +371,7 @@
           "description": "South Korea’s largest cryptocurrency exchange halted deposits after detecting what it said was an abnormal amount of deposit attempts related to a scam token.",
           "link": "https://decrypt.co/198551/south-koreas-upbit-temporarily-freezes-withdrawals-following-scam-token-airdrop",
           "publishedOn": "2023-09-25T00:25:20.000Z",
-          "wordCount": 9304,
+          "wordCount": 9316,
           "title": "South Korea’s UpBit Temporarily Freezes Withdrawals Following Scam Token Airdrop",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/07/aptos-token-gID_7.jpg@png",
@@ -371,7 +386,7 @@
           "description": "The network currently has 393,000 unconfirmed transactions stretching as far back as April. For some, that’s a good thing.",
           "link": "https://decrypt.co/198540/bitcoin-mempool-transactions-congestion-ordinals-inscriptions",
           "publishedOn": "2023-09-24T23:14:35.000Z",
-          "wordCount": 9752,
+          "wordCount": 9764,
           "title": "Inscription Craze Leaves Thousands of Bitcoin Transactions Unconfirmed",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/08/bitcoin-btc-drivechain-devs-debate-gID_7.jpg@png",
@@ -386,7 +401,7 @@
           "description": "The company says that Coinbase holds the most Bitcoin on its network with an identified $25 billion in reserves.",
           "link": "https://decrypt.co/198543/coinbase-bitcoin-holdings-rival-those-of-cryptocurrency-creator-satoshi-nakamoto-arkham",
           "publishedOn": "2023-09-24T23:04:19.000Z",
-          "wordCount": 9290,
+          "wordCount": 9302,
           "title": "Coinbase Bitcoin Holdings Rival Those of Cryptocurrency Creator Satoshi Nakamoto: Arkham",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/09/Satoshi-Nakamoto-Pic-gID_7.jpg@png",
@@ -401,7 +416,7 @@
           "description": "Satlantis, a Minecraft server that pays users Bitcoin, announced that it will kill the feature. Mojang’s rules now prohibit it.",
           "link": "https://decrypt.co/198541/minecraft-server-end-bitcoin-earnings-after-mojang-demand-report",
           "publishedOn": "2023-09-24T20:45:56.000Z",
-          "wordCount": 11046,
+          "wordCount": 11058,
           "title": "Minecraft Server Will End Bitcoin Earnings After Mojang Demand: Report",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/06/minecraft-gID_7.png@png",
@@ -416,7 +431,7 @@
           "description": "An earlier raid of a suspected drug running operation in Santiago also turned up Bitcoin hardware, but the Venezuela operation was magnitudes larger.",
           "link": "https://decrypt.co/198536/this-week-on-crypto-twitter-11000-venezuelan-soldiers-bring-down-jailhouse-bitcoin-mining-operation",
           "publishedOn": "2023-09-24T20:17:26.000Z",
-          "wordCount": 11090,
+          "wordCount": 11102,
           "title": "This Week on Crypto Twitter: 11,000 Venezuelan Soldiers Bring Down Jailhouse Bitcoin Mining Operation",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/02/Venezuela-Bitcoin-shutterstock_1313296286-16x9-1-gID_7.jpg@png",
@@ -431,7 +446,7 @@
           "description": "The SEC charges against Mila Kunis' \"Stoner Cats\" has other film and TV creators on edge about their own use of NFTs to crowdfund projects.",
           "link": "https://decrypt.co/198124/will-sec-stoner-cats-action-chilling-effect-nft-media-projects",
           "publishedOn": "2023-09-24T19:37:06.000Z",
-          "wordCount": 12592,
+          "wordCount": 12604,
           "title": "Will SEC's 'Stoner Cats' Action Have a Chilling Effect on NFT Media Projects?",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/09/stoner-cats-artwork-gID_7.jpeg@png",
@@ -446,7 +461,7 @@
           "description": "Customers who connect online services to the NFT marketplace are told to swap out their keys.",
           "link": "https://decrypt.co/198496/opensea-api-users-warned-of-third-party-security-breach",
           "publishedOn": "2023-09-24T00:07:45.000Z",
-          "wordCount": 9118,
+          "wordCount": 9130,
           "title": "OpenSea API Users Warned of Third-Party Security Breach",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/09/Opensea-shutterstock_2095293679-16x9-1-gID_7.jpg@png",
@@ -461,7 +476,7 @@
           "description": "Brian Armstrong says passing laws \"has unintended consequences and kills competition.\"",
           "link": "https://decrypt.co/198491/artificial-intelligence-ai-deregulation-innovation-coinbase-brian-armstrong",
           "publishedOn": "2023-09-23T23:42:14.000Z",
-          "wordCount": 9689,
+          "wordCount": 9701,
           "title": "Coinbase CEO Calls for Deregulation of Artificial Intelligence",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/09/Brian-Armstrong-YouTube-Coinbase-gID_7.jpg@png",
@@ -476,7 +491,7 @@
           "description": "“The number one challenge is explaining these innovations,” said Kristin Smith.",
           "link": "https://decrypt.co/198476/stablecoin-crypto-legislation-regulation-kristin-smith-blockchain-association",
           "publishedOn": "2023-09-23T20:31:34.000Z",
-          "wordCount": 10215,
+          "wordCount": 10227,
           "title": "Why Has Stablecoin Legislation Stalled? Blockchain Association CEO Explains",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/09/Kristin-Smith-Blockchain-Association-gID_7.jpg@png",
@@ -491,7 +506,7 @@
           "description": "Technology has added a much-needed freshness to London Fashion Week, extending creativity into the boundless digital domain.",
           "link": "https://decrypt.co/198449/londons-digital-fashion-week-showcased-industrys-bold-future",
           "publishedOn": "2023-09-23T20:00:17.000Z",
-          "wordCount": 11397,
+          "wordCount": 11409,
           "title": "London's Digital Fashion Week Showcased the Industry's Bold Future",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/09/digital-fashion-week-1-gID_7.png@png",
@@ -506,7 +521,7 @@
           "description": "Harry Halpin said the UK’s mandate will drive people who require privacy to leave the country.",
           "link": "https://decrypt.co/198435/uk-encryption-backdoor-hurting-country-nym-ceo-harry-halpin",
           "publishedOn": "2023-09-23T19:36:40.000Z",
-          "wordCount": 9801,
+          "wordCount": 9813,
           "title": "Regulators Are 'Hurting Their Own Country' in Seeking Encryption Backdoors: Nym CEO",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/09/Decrypt-Wallpaper-Format-2023-09-22T150706.009-gID_7.png@png",
@@ -521,7 +536,7 @@
           "description": "Also, no rate hike from the Federal Reserves may stem risk-averse crypto outflows.",
           "link": "https://decrypt.co/198447/this-week-in-coins-no-news-good-news-bitcoin-ethereum-chainlink-paypal",
           "publishedOn": "2023-09-23T19:21:16.000Z",
-          "wordCount": 9847,
+          "wordCount": 9859,
           "title": "This Week in Coins: Slow News Is Good News for Bitcoin and Ethereum",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/09/Bitcoin-Ethereum-shutterstock_2111616764-16x9-1-gID_7.jpg@png",
@@ -536,7 +551,7 @@
           "description": "Authorities say the machines were found when 11,000 troops raided the Tocorón prison this week.",
           "link": "https://decrypt.co/198425/police-seize-bitcoin-mining-machines-prison-bust-venezuela",
           "publishedOn": "2023-09-22T21:23:24.000Z",
-          "wordCount": 9602,
+          "wordCount": 9614,
           "title": "Police Seize Bitcoin Mining Machines in Venezuelan Prison Bust",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/05/bitcoin-mining-farm-gID_7.jpg@png",
@@ -551,7 +566,7 @@
           "description": "Microsoft is integrating AI capabilities like Copilot and DALL-E 3 across its consumer products, aiming to lead the AI assistant race.",
           "link": "https://decrypt.co/198409/microsoft-reveals-major-ai-upgrades-windows-office-bing",
           "publishedOn": "2023-09-22T20:07:33.000Z",
-          "wordCount": 10478,
+          "wordCount": 10490,
           "title": "Microsoft Reveals Major AI Upgrades for Windows, Office, and Bing",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/03/microsoft-blockchain-scalability-gID_7.jpg@png",
@@ -566,7 +581,7 @@
           "description": "Amazon updates its guidelines mandating disclosure of AI-generated content to curb low-quality ebooks that are claimed to be written by humans.",
           "link": "https://decrypt.co/198416/amazon-adds-self-publishing-restrictions-counter-flood-ai-books",
           "publishedOn": "2023-09-22T19:54:45.000Z",
-          "wordCount": 10329,
+          "wordCount": 10341,
           "title": "Amazon Adds Self-Publishing Restrictions to Counter Flood of AI Books",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/06/amazon-crypto-defi-gID_7.jpg@png",
@@ -581,7 +596,7 @@
           "description": "Game engine giant Unity isn’t killing its despised runtime fee, but it is offering developers options to avoid it or otherwise reduce costs.",
           "link": "https://decrypt.co/198404/unity-apologizes-walks-back-fee-changes-after-game-developer-backlash",
           "publishedOn": "2023-09-22T19:35:39.000Z",
-          "wordCount": 9937,
+          "wordCount": 9949,
           "title": "Unity Apologizes, Walks Back Fee Changes After Game Developer Backlash",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/09/Untitled_design_4_50-gID_7.png@png",
@@ -596,7 +611,7 @@
           "description": "Senator Menendez, a long-time critic of Bitcoin and other crypto for its alleged association with criminals, faces up to 20 years in prison if convicted.",
           "link": "https://decrypt.co/198398/bitcoin-critic-senator-menendez-corruption-bribery",
           "publishedOn": "2023-09-22T18:39:56.000Z",
-          "wordCount": 10099,
+          "wordCount": 10111,
           "title": "Bitcoin Critic Senator Menendez Charged With Corruption, Bribery",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/09/Senator-Bob-Menendez-gID_7.jpeg@png",
@@ -611,7 +626,7 @@
           "description": "Gucci creative director Sabato de Sarno's first runway show for the fashion giant is also now in the metaverse.",
           "link": "https://decrypt.co/198384/guccis-milan-fashion-week-show-debuts-on-roblox-and-zepeto",
           "publishedOn": "2023-09-22T17:46:54.000Z",
-          "wordCount": 9751,
+          "wordCount": 9763,
           "title": "Gucci's Milan Fashion Week Show Debuts on Roblox and Zepeto",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/09/gucci-ancora-zepeto-cropped-gID_7.png@png",
@@ -626,7 +641,7 @@
           "description": "A European regulatory framework targeting digital assets should be in greater accord with global efforts, argues new research.",
           "link": "https://decrypt.co/198369/european-parliament-calls-for-tighter-oversight-of-global-cryptocurrency-market",
           "publishedOn": "2023-09-22T16:07:50.000Z",
-          "wordCount": 10100,
+          "wordCount": 10145,
           "title": "European Parliament Calls for Tighter Oversight of Global Cryptocurrency Market",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/02/shutterstock_585708452-gID_7.jpg@png",
@@ -681,21 +696,6 @@
           "imageUrl": "https://cdn.jwplayer.com/v2/media/YOHhQtWS/poster.jpg"
         },
         {
-          "id": "https://decrypt.co/?p=198356",
-          "author": "Nivesh Rustgi",
-          "description": "Analysts found that investors are actively purchasing claims with an expectation of strong returns as the settlement progresses.",
-          "link": "https://decrypt.co/198356/ftx-claims-trading-near-35-of-debt-amount-in-secondary-markets",
-          "publishedOn": "2023-09-22T12:10:20.000Z",
-          "wordCount": 9276,
-          "title": "FTX Claims Trading Near 35% of Debt Amount in Secondary Markets",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/11/ftx-market-trading-alameda-gID_7.jpeg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/11/ftx-market-trading-alameda-gID_7.jpeg@png"
-        },
-        {
           "id": "https://decrypt.co/videos/live-events/4njYsMbN/nym-ceo-harry-halpin-on-why-regulators-push-back-against-privacy-tech",
           "author": null,
           "description": "Nym CEO Harry Halpin sat down with Decrypt Markets Editor Stacy Elliott at Messari Mainnet 2023 to discuss Nym and how mixnets work, increasing regulatory pushback to privacy-protecting technologies, and why he remains optimistic in the face of such resistance.",
@@ -716,7 +716,7 @@
           "description": "Avantgarde Finance CEO and founder Mona El Isa talks about how DeFi has changed (and hasn't) changed since the collapse of FTX and what it takes to get more passively managed products onchain.",
           "link": "https://decrypt.co/videos/interviews/oSnhba7l/avantgarde-finance-defi-didnt-soar-after-ftx-but-it-hasnt-declined-either",
           "publishedOn": "2023-09-21T12:21:31.000Z",
-          "wordCount": 6540,
+          "wordCount": 6304,
           "title": "Avantgarde Finance: DeFi Didn't Soar After FTX, But It Hasn't Declined Either",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/oSnhba7l/poster.jpg",
@@ -883,6 +883,56 @@
       "siteUrl": "https://cryptopanic.com/",
       "articles": [
         {
+          "id": "https://cryptopanic.com/news/18927963/Ethereum-Clients-More-Diversified-Than-Bitcoin-Is-This-Good",
+          "author": null,
+          "description": "Justin Bons, the chief investment officer (CIO) and founder of Cyber Capital, one of Europe’s oldest crypto funds, is convinced Ethereum is the most “robust” network, considering its level of client diversity. Bons pointed out the distribution of full nodes across various Ethereum clients as...",
+          "link": "https://cryptopanic.com/news/18927963/Ethereum-Clients-More-Diversified-Than-Bitcoin-Is-This-Good",
+          "publishedOn": "2023-09-26T03:00:35.000Z",
+          "wordCount": 591,
+          "title": "Ethereum Clients More Diversified Than Bitcoin, Is This Good?",
+          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2023/09/Crypto-news-Template55.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/18927940/Bitcoin-Price-Turns-Vulnerable-As-Indicators-Point-To-More-Weakness",
+          "author": null,
+          "description": "Bitcoin price is struggling below the $26,500 resistance. BTC could accelerate lower if there is a close below the $26,000 support in the near term. Bitcoin is struggling and trading well below the $27,500 resistance. The price is trading below $26,500 and the 100 hourly Simple moving average....",
+          "link": "https://cryptopanic.com/news/18927940/Bitcoin-Price-Turns-Vulnerable-As-Indicators-Point-To-More-Weakness",
+          "publishedOn": "2023-09-26T02:39:38.000Z",
+          "wordCount": 592,
+          "title": "Bitcoin Price Turns Vulnerable As Indicators Point To More Weakness",
+          "imageUrl": "https://www.newsbtc.com/wp-content/uploads/2023/09/iStock-862006548.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/18927949/Why-Bitcoin-Ethereum-Dogecoin-Are-Soaring-Today-Analyst-Notes-When-Microstrategy-Buys-BTC-The-Market-Further-Dips",
+          "author": null,
+          "description": "Major cryptocurrencies rose on Monday evening following an announcement by software developer MicroStrategy (NASDAQ:MSTR). read more",
+          "link": "https://cryptopanic.com/news/18927949/Why-Bitcoin-Ethereum-Dogecoin-Are-Soaring-Today-Analyst-Notes-When-Microstrategy-Buys-BTC-The-Market-Further-Dips",
+          "publishedOn": "2023-09-26T02:31:44.000Z",
+          "wordCount": 599,
+          "title": "Why Bitcoin, Ethereum, Dogecoin Are Soaring Today? Analyst Notes When Microstrategy Buys BTC 'The Market Further Dips'",
+          "imageUrl": "https://cdn.benzinga.com/files/images/story/2023/Cryptocurrency_Photo_by_stockphoto-graf_on_Shutterstock_9.jpeg?width=1200&height=800&fit=crop"
+        },
+        {
+          "id": "https://cryptopanic.com/news/18927938/BTC-ETH-can-opt-for-an-unrelated-path-as-fear-grips-stock-market-Assessing",
+          "author": null,
+          "description": "US bankruptcy filings reached the same level as the 2008 recession and the 2020 pandemic. Bitcoin, however, was faring well, which looked encouraging for the crypto market. Ethereum bulls may need to buck up in the coming days.",
+          "link": "https://cryptopanic.com/news/18927938/BTC-ETH-can-opt-for-an-unrelated-path-as-fear-grips-stock-market-Assessing",
+          "publishedOn": "2023-09-26T02:30:36.000Z",
+          "wordCount": 596,
+          "title": "BTC, ETH can opt for an unrelated path as fear grips stock market. Assessing…",
+          "imageUrl": "https://statics.ambcrypto.com/wp-content/uploads/2023/09/BTC-6.png"
+        },
+        {
+          "id": "https://cryptopanic.com/news/18927954/US-Government-Shutdown-Will-Halt-Inflation-Data-Whats-the-Impact-on-Crypto",
+          "author": null,
+          "description": "Ongoing speculation suggests that the United States government may experience a shutdown at the end of the week. Furthermore, a recent report suggests that this will result in the indefinite suspension of the publication of inflation and employment data. “As a result, the September jobs report...",
+          "link": "https://cryptopanic.com/news/18927954/US-Government-Shutdown-Will-Halt-Inflation-Data-Whats-the-Impact-on-Crypto",
+          "publishedOn": "2023-09-26T02:14:50.000Z",
+          "wordCount": 594,
+          "title": "US Government Shutdown Will Halt Inflation Data, What’s the Impact on Crypto?",
+          "imageUrl": "https://s32659.pcdn.co/wp-content/uploads/2023/03/bic_United-States-_neutral_1.png"
+        },
+        {
           "id": "https://cryptopanic.com/news/18927913/Amazon-and-Anthropic-Collaborate-to-Advance-Generative-AI",
           "author": null,
           "description": "Anthropic has announced a collaboration with Amazon to use its web service for future operations. Both companies plan to accelerate the development of Anthropic’s future foundation models. Anthropic will use AWS Trainium and Inferentia chips to build, train, and deploy its future foundation...",
@@ -945,22 +995,22 @@
         {
           "id": "https://cryptopanic.com/news/18927870/Ether-ETH-Hides-Enormous-Recovery-Potential",
           "author": null,
-          "description": "",
+          "description": "Ethereum was not showing anything exceptional in terms of price performance, but recovery might be around corner",
           "link": "https://cryptopanic.com/news/18927870/Ether-ETH-Hides-Enormous-Recovery-Potential",
           "publishedOn": "2023-09-26T01:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 588,
           "title": "Ether (ETH) Hides Enormous Recovery Potential",
-          "imageUrl": null
+          "imageUrl": "https://u.today/sites/default/files/styles/twitterwithoutlogo/public/2023-09/40482.jpg"
         },
         {
           "id": "https://cryptopanic.com/news/18927869/Chainlink-LINK-and-Three-Other-Altcoins-Outperforming-Wider-Market-Says-Santiment",
           "author": null,
-          "description": "",
+          "description": "Chainlink ($LINK) and three other altcoins are poised for potential gains, powered by encouraging on-chain data, at a time in which the price of the flagship cryptocurrency Bitcoin ($BTC) is trading within a tight range between $26,000 and $27,000. According to popular on-chain analytics firm...",
           "link": "https://cryptopanic.com/news/18927869/Chainlink-LINK-and-Three-Other-Altcoins-Outperforming-Wider-Market-Says-Santiment",
           "publishedOn": "2023-09-26T01:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 593,
           "title": "Chainlink ($LINK) and Three Other Altcoins Outperforming Wider Market, Says Santiment",
-          "imageUrl": null
+          "imageUrl": "https://media.cryptoglobe.com/2022/02/dylan-calluy-JpflvzEl5cg-unsplash-614x768.jpg"
         },
         {
           "id": "https://cryptopanic.com/news/18927900/How-Bitcoin-Interoperability-Can-Threaten-Ethereums-DeFi-Dominance",
@@ -975,22 +1025,22 @@
         {
           "id": "https://cryptopanic.com/news/18927882/Dave-Lemke",
           "author": null,
-          "description": "",
+          "description": "Dave Lemke is the CFO & CCO at Giddy, creators of a self-custody crypto wallet with decentralized private key security. Stacy Elliott interviewed him at Messari Mainnet 2023.",
           "link": "https://cryptopanic.com/news/18927882/Dave-Lemke",
           "publishedOn": "2023-09-26T00:52:07.000Z",
-          "wordCount": null,
+          "wordCount": 584,
           "title": "Dave Lemke",
-          "imageUrl": null
+          "imageUrl": "https://cdn.jwplayer.com/v2/media/kA1Bqu4H/poster.jpg"
         },
         {
           "id": "https://cryptopanic.com/news/18927883/Colin-Butler",
           "author": null,
-          "description": "",
+          "description": "Colin Butler is the Global Head of Institutional Capital at Polygon Labs. He was interviewed by Decrypt at Messari Mainnet 2023.",
           "link": "https://cryptopanic.com/news/18927883/Colin-Butler",
           "publishedOn": "2023-09-26T00:52:07.000Z",
-          "wordCount": null,
+          "wordCount": 584,
           "title": "Colin Butler",
-          "imageUrl": null
+          "imageUrl": "https://cdn.jwplayer.com/v2/media/htDLDHG6/poster.jpg"
         },
         {
           "id": "https://cryptopanic.com/news/18927858/Amanda-Tuminelli",
@@ -1005,12 +1055,12 @@
         {
           "id": "https://cryptopanic.com/news/18927852/Crypto-Whales-are-SECRETLY-Buying-These-3-Altcoins",
           "author": null,
-          "description": "Crypto whales are one of the best tools to prepare your altcoin portfolio. This video shows you three tokens whales have been busy with over the last few days.Manage Your Crypto Portfolio with Regular Updates and Top Insights for only $15/ month.Sign up for Altcoin Buzz Alpha:Youtube:...",
+          "description": "",
           "link": "https://cryptopanic.com/news/18927852/Crypto-Whales-are-SECRETLY-Buying-These-3-Altcoins",
           "publishedOn": "2023-09-26T00:31:00.000Z",
-          "wordCount": 590,
+          "wordCount": null,
           "title": "Crypto Whales are SECRETLY Buying These 3 Altcoins",
-          "imageUrl": "https://i2.ytimg.com/vi/Yg6tt-yUskc/hqdefault.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/18927842/How-MakerDAO-plans-to-reap-benefits-from-interest-bearing-stablecoins",
@@ -1025,62 +1075,12 @@
         {
           "id": "https://cryptopanic.com/news/18927832/Tokenized-Real-World-Assets-RWA-Where-are-they-now",
           "author": null,
-          "description": "",
+          "description": "There is nothing in the world that is more scrutinized than money. How could it not be when money relays information on the value of…everything? And all economic activity arises from that record-keeping, if it is conducted accurately. When Bitcoin launched in 2009, it opened a new door, a new...",
           "link": "https://cryptopanic.com/news/18927832/Tokenized-Real-World-Assets-RWA-Where-are-they-now",
           "publishedOn": "2023-09-26T00:24:11.000Z",
-          "wordCount": null,
-          "title": "Tokenized Real World Assets (RWA): Where are they now?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18927839/Tether-Alters-Terms-in-Singapore-Banning-Local-Shareholders",
-          "author": null,
-          "description": "Tether has modified its terms of service, prohibiting Singapore residents’ shareholding in USDT exchanging. Julian Hosp, the CEO of Cake DeFi, disclosed an email from Tether outlining the policy change. Some speculated that this could be related to the recent money laundering case in Singapore....",
-          "link": "https://cryptopanic.com/news/18927839/Tether-Alters-Terms-in-Singapore-Banning-Local-Shareholders",
-          "publishedOn": "2023-09-26T00:22:00.000Z",
-          "wordCount": 590,
-          "title": "Tether Alters Terms in Singapore, Banning Local Shareholders",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18927815/Getty-Images-Launches-Safe-Generative-AI-Image-Tool",
-          "author": null,
-          "description": "Getty's new AI tool ensures generated visuals are clear of copyright encumbrances for commercial use, the company says.",
-          "link": "https://cryptopanic.com/news/18927815/Getty-Images-Launches-Safe-Generative-AI-Image-Tool",
-          "publishedOn": "2023-09-26T00:04:22.000Z",
-          "wordCount": 590,
-          "title": "Getty Images Launches 'Safe' Generative AI Image Tool",
-          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2023/09/Craig-Peters-AI-Expanded-16x9-1-scaled-gID_7.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/18927818/Trader-Who-Called-2022-Bitcoin-Bottom-Warns-of-Major-Pain-Coming-for-Ethereum-Heres-Downside-Target",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/18927818/Trader-Who-Called-2022-Bitcoin-Bottom-Warns-of-Major-Pain-Coming-for-Ethereum-Heres-Downside-Target",
-          "publishedOn": "2023-09-26T00:00:58.000Z",
-          "wordCount": null,
-          "title": "Trader Who Called 2022 Bitcoin Bottom Warns of ‘Major Pain’ Coming for Ethereum – Here’s Downside Target",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18927816/NEAR-Protocols-Daily-Active-Addresses-Spike-Will-Prices-Follow",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/18927816/NEAR-Protocols-Daily-Active-Addresses-Spike-Will-Prices-Follow",
-          "publishedOn": "2023-09-26T00:00:53.000Z",
-          "wordCount": null,
-          "title": "NEAR Protocol’s Daily Active Addresses Spike, Will Prices Follow?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18927812/Philippine-Blockchain-Week-Addresses-Miss-Universe-Coin-Fraud-Allegations",
-          "author": null,
-          "description": "The Miss Universe Coin created a storm of controversy at the Philippine Blockchain Week (PBW) when it came to light that the coin, touted during the event and unveiled at a prior press conference, had no affiliation with Miss Universe, the brand and pageant owned by Thailand-based JKN Holdings....",
-          "link": "https://cryptopanic.com/news/18927812/Philippine-Blockchain-Week-Addresses-Miss-Universe-Coin-Fraud-Allegations",
-          "publishedOn": "2023-09-26T00:00:41.000Z",
           "wordCount": 591,
-          "title": "Philippine Blockchain Week Addresses Miss Universe Coin Fraud Allegations",
-          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2023/09/a-87.png"
+          "title": "Tokenized Real World Assets (RWA): Where are they now?",
+          "imageUrl": "https://cryptoslate.com/wp-content/uploads/2023/09/tokenization-rwa.jpg"
         }
       ]
     },
@@ -1089,6 +1089,36 @@
       "feedUrl": "https://www.inoreader.com/stream/user/1005336866/tag/%E6%B5%B7%E5%A4%96%E5%8A%A0%E5%AF%86%E8%B5%84%E8%AE%AF",
       "siteUrl": "https://www.inoreader.com/stream/user/1005336866/tag/%E6%B5%B7%E5%A4%96%E5%8A%A0%E5%AF%86%E8%B5%84%E8%AE%AF/view/html",
       "articles": [
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e74bba7c9a4",
+          "author": "Dalmas Ngetich",
+          "description": "Ethereum, the world’s most valuable smart contract platform, has generated over $10 billion in revenue in a record seven years. At this pace, Ethereum grew to this milestone faster than most top technology firms, except Alphabet.\n \nEthereum Hit The $10 Billion Milestone Faster Than Microsoft, Zoom\n \nRecords showed that Ethereum took roughly seven years to mint $10 billion in revenue, based on spot ETH rates, and was only eclipsed by Alphabet, which took approximately six years, according to data compiled by Token Terminal, an analytics platform. \n \nComparing this performance with other technology firms, for example, Microsoft, it appears that Ethereum found rapid adoption, and its solutions were embraced faster. Microsoft took almost 19 years to achieve this milestone, while Adobe took rou…",
+          "link": "https://bitcoinist.com/ethereum-generates-10-billion-revenue-7-years/",
+          "publishedOn": "2023-09-26T02:33:18.000Z",
+          "wordCount": 5508,
+          "title": "Ethereum Generates Over $10 Billion In Revenue In 7 Years",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/jpeg",
+            "url": "https://bitcoinist.com/wp-content/uploads/2023/09/Crypto-news-Template53-640x362.jpg"
+          },
+          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2023/09/Crypto-news-Template53-640x362.jpg"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e74bba7c999",
+          "author": "Ronaldo Marquez",
+          "description": "In a recent development, the Securities and Exchange Commission (SEC) has expressed concerns regarding Coinbase involvement in the restructuring plan of Celsius Network. This crypto-lending company filed for bankruptcy over a year ago. \n \nThe federal agency responsible for regulating US securities markets, the SEC, has filed limited objections and reservations of rights in response to Celsius, citing “inconsistencies” and potential violations of federal securities laws by the US-based exchange.\n \nCoinbase Participation In Celsius Bankruptcy Plan\n \nThe SEC’s objections are rooted in a litigation filed earlier this year against Coinbase, accusing the platform of operating an unregistered securities exchange. \n \n \nConversely, the regulatory agency alleges that Celsius Network and its former C…",
+          "link": "https://bitcoinist.com/coinbase-faces-sec-scrutiny-amid-celsius-bankruptcy/",
+          "publishedOn": "2023-09-26T02:33:18.000Z",
+          "wordCount": 5577,
+          "title": "Coinbase Faces SEC Scrutiny Amid Celsius Network Bankruptcy Controversy",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/jpeg",
+            "url": "https://bitcoinist.com/wp-content/uploads/2023/09/shutterstock_download.jpg"
+          },
+          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2023/09/shutterstock_download.jpg"
+        },
         {
           "id": "http://www.inoreader.com/article/3a9c6e74bba26eaa",
           "author": "Kevin Helms",
@@ -1105,7 +1135,7 @@
           "description": "The firm has registered as a crypto exchange and custody wallet provider.",
           "link": "https://www.coindesk.com/policy/2023/09/25/coinbase-successfully-registers-with-spains-central-bank/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-09-26T01:52:25.000Z",
-          "wordCount": 6494,
+          "wordCount": 6481,
           "title": "Coinbase Successfully Registers With Spain's Central Bank",
           "enclosure": {
             "length": "1337",
@@ -1120,7 +1150,7 @@
           "description": "HTX, formerly Huobi, has been hacked with the total loss totaling 500 ether (ETH) worth around $8 million, according to HTX advisor and Tron founder Justin Sun.",
           "link": "https://www.coindesk.com/business/2023/09/25/crypto-exchange-htx-lost-8m-of-ether-due-to-a-hack-justin-sun-says/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-09-26T01:52:25.000Z",
-          "wordCount": 6836,
+          "wordCount": 6832,
           "title": "Crypto Exchange HTX Lost $8M of Ether Due to a Hack, Justin Sun Says",
           "enclosure": {
             "length": "1337",
@@ -1220,7 +1250,7 @@
           "description": "The crypto industry’s business in Washington is coming to a head just as a looming congressional budget impasse could shut down an array of federal services next week. But the digital assets sector can expect its most important matters won’t go entirely dark, experts suggest, even if they’re dragged out longer than crypto firms had hoped.",
           "link": "https://www.coindesk.com/policy/2023/09/25/us-shutdown-assuming-it-doesnt-run-long-will-slow-not-cripple-crypto-efforts/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-09-25T22:51:05.000Z",
-          "wordCount": 9321,
+          "wordCount": 9319,
           "title": "U.S. Shutdown, Assuming It Doesn’t Run Long, Will Slow, Not Cripple Crypto Efforts",
           "enclosure": {
             "length": "1337",
@@ -1325,7 +1355,7 @@
           "description": "Optimism’s native token OP has dropped over 10% in a week, the most among the largest cryptocurrencies, ahead of its unlocking date that will increase the token’s supply.",
           "link": "https://www.coindesk.com/markets/2023/09/25/optimism-slumps-most-among-crypto-majors-ahead-of-30m-token-unlock/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-09-25T20:16:02.000Z",
-          "wordCount": 6807,
+          "wordCount": 6795,
           "title": "Optimism Slumps Most Among Crypto Majors Ahead of $30M Token Unlock",
           "enclosure": {
             "length": "1337",
@@ -1333,31 +1363,6 @@
             "url": "https://www.coindesk.com/resizer/qo3hqhpS3o6YmDIL0J7Oj1b2pKs=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/P6D6F3DYJRATTJCZJWLRKC3KWM.jpg"
           },
           "imageUrl": "https://www.coindesk.com/resizer/qo3hqhpS3o6YmDIL0J7Oj1b2pKs=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/P6D6F3DYJRATTJCZJWLRKC3KWM.jpg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e74bb8d2ef4",
-          "author": "Jamie Redman",
-          "description": "Christyan Malek, the lead for EMEA energy equity research at JPMorgan, predicts that by 2026, crude oil prices could soar to $150 a barrel. Malek believes a looming energy supercycle could be the driving force pushing crude prices upward. Another significant factor, Malek points out, is the “institutional and policy-led pressures” hastening the shift from hydrocarbons.\n \nJPMorgan’s EMEA Energy Equity Strategist Flags ‘Supercycle’\n \nAfter the Organization of the Petroleum Exporting Countries’ (OPEC) decision to cut oil production, Brent and WTI crude prices have surged past the $90 per barrel mark. The year 2023 has been eventful with the unmistakable stamp of de-dollarization, the conflict between Ukraine and Russia, and energy collaborations among BRICS countries.\n \n\n \nJust a week ago, Ru…",
-          "link": "https://news.bitcoin.com/crude-oil-on-the-rise-jpmorgan-predicts-a-surge-to-150-per-barrel-amidst-global-energy-supercycle/",
-          "publishedOn": "2023-09-25T20:03:50.000Z",
-          "wordCount": 291,
-          "title": "Crude Oil on the Rise: JPMorgan Predicts a Surge to $150 per Barrel Amidst Global ‘Energy Supercycle’",
-          "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2023/09/oilllll.jpg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e74bb8913e7",
-          "author": "Christian Encila",
-          "description": "Bitcoin (BTC) analyst Willy Woo has sounded the alarm on a significant challenge that could hinder the future growth of the world’s leading cryptocurrency. In a recent revelation on the social media platform X, Woo highlighted a concerning obstacle that could hinder its potential for future growth. \n \nWoo’s analysis focused on the growing dominance of Bitcoin derivatives, often referred to as “paper” coin, and its implications for the cryptocurrency’s liquidity and price stability.\n \n \nRise Of Bitcoin Derivatives Threatens Liquidity\n \nAccording to Woo, this surge in BTC derivatives trading is gradually siphoning liquidity away from the actual coins. He emphasized the ratio between the combined futures open value of derivatives and the highly liquid real crypto that is actively traded.\n \nWo…",
-          "link": "https://bitcoinist.com/bitcoin-analyst-identifies-enemy-faced-by-btc/",
-          "publishedOn": "2023-09-25T19:29:59.000Z",
-          "wordCount": 5540,
-          "title": "Bitcoin Roadblock Unveiled: Analyst Identifies Barrier Faced By The Top Crypto",
-          "enclosure": {
-            "length": "1337",
-            "type": "image/jpeg",
-            "url": "https://bitcoinist.com/wp-content/uploads/2023/09/a-84-632x420.png"
-          },
-          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2023/09/a-84-632x420.png"
         }
       ]
     }

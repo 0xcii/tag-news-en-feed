@@ -6,6 +6,36 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/videos/interviews/kA1Bqu4H/dave-lemke",
+          "author": null,
+          "description": "Dave Lemke is the CFO & CCO at Giddy, creators of a self-custody crypto wallet with decentralized private key security. Stacy Elliott interviewed him at Messari Mainnet 2023.",
+          "link": "https://decrypt.co/videos/interviews/kA1Bqu4H/dave-lemke",
+          "publishedOn": "2023-09-26T00:52:07.000Z",
+          "wordCount": 6219,
+          "title": "Dave Lemke",
+          "enclosure": {
+            "url": "https://cdn.jwplayer.com/v2/media/kA1Bqu4H/poster.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.jwplayer.com/v2/media/kA1Bqu4H/poster.jpg"
+        },
+        {
+          "id": "https://decrypt.co/videos/interviews/htDLDHG6/colin-butler",
+          "author": null,
+          "description": "Colin Butler is the Global Head of Institutional Capital at Polygon Labs. He was interviewed by Decrypt at Messari Mainnet 2023.",
+          "link": "https://decrypt.co/videos/interviews/htDLDHG6/colin-butler",
+          "publishedOn": "2023-09-26T00:52:07.000Z",
+          "wordCount": 6184,
+          "title": "Colin Butler",
+          "enclosure": {
+            "url": "https://cdn.jwplayer.com/v2/media/htDLDHG6/poster.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.jwplayer.com/v2/media/htDLDHG6/poster.jpg"
+        },
+        {
           "id": "https://decrypt.co/videos/interviews/xD0CzPUF/amanda-tuminelli",
           "author": null,
           "description": "Amanda Tuminelli serves as the DeFi Education Fund's Chief Legal Officer where she leads the organization's impact litigation and policy efforts. Stacy Elliott of Decrypt interviewed her at Messari Mainnet 2023.",
@@ -116,7 +146,7 @@
           "description": "David L. Schwed is the Chief Operating Officer for Halborn. He was interviewed at Messari Mainnet 2023 by André Beganski.",
           "link": "https://decrypt.co/videos/interviews/WTDdMnW6/david-l-schwed",
           "publishedOn": "2023-09-25T19:31:07.000Z",
-          "wordCount": 6185,
+          "wordCount": 6421,
           "title": "David L. Schwed",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/WTDdMnW6/poster.jpg",
@@ -596,7 +626,7 @@
           "description": "A European regulatory framework targeting digital assets should be in greater accord with global efforts, argues new research.",
           "link": "https://decrypt.co/198369/european-parliament-calls-for-tighter-oversight-of-global-cryptocurrency-market",
           "publishedOn": "2023-09-22T16:07:50.000Z",
-          "wordCount": 10133,
+          "wordCount": 10100,
           "title": "European Parliament Calls for Tighter Oversight of Global Cryptocurrency Market",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/02/shutterstock_585708452-gID_7.jpg@png",
@@ -641,7 +671,7 @@
           "description": "Huddle01 co-founder and CEO Ayush Ranjan joined Decrypt reporter André Beganski at Messari Mainnet 2023 to discuss the \"people-powered communications network,\" which provides audio and video capabilities via a decentralized network and can be integrated into social media platforms.",
           "link": "https://decrypt.co/videos/live-events/YOHhQtWS/huddle01-ceo-ayush-ranjan-on-why-decentralized-audio-and-video-infrastructure-is-needed",
           "publishedOn": "2023-09-22T15:11:51.000Z",
-          "wordCount": 6669,
+          "wordCount": 6342,
           "title": "Huddle01 CEO Ayush Ranjan on Why Decentralized Audio and Video Infrastructure is Needed",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/YOHhQtWS/poster.jpg",
@@ -686,7 +716,7 @@
           "description": "Avantgarde Finance CEO and founder Mona El Isa talks about how DeFi has changed (and hasn't) changed since the collapse of FTX and what it takes to get more passively managed products onchain.",
           "link": "https://decrypt.co/videos/interviews/oSnhba7l/avantgarde-finance-defi-didnt-soar-after-ftx-but-it-hasnt-declined-either",
           "publishedOn": "2023-09-21T12:21:31.000Z",
-          "wordCount": 6304,
+          "wordCount": 6540,
           "title": "Avantgarde Finance: DeFi Didn't Soar After FTX, But It Hasn't Declined Either",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/oSnhba7l/poster.jpg",
@@ -746,7 +776,7 @@
           "description": "Update: the Bitcoin earning functionality will be removed from the Satlantis server on September 25. Full report: https://decrypt.co/198541/minecraft-server-end-bitcoin-earnings-after-mojang-demand-report\n\nOriginal description: You can now mine Bitcoin in Minecraft. Decrypt contributor Ryan S. Gladwin shows us how.\n\nSatlantis website: https://satlantis.net/\nMinecraft server address: play.satlantis.net",
           "link": "https://decrypt.co/videos/explainers/z8rit7yN/heres-how-much-bitcoin-we-earned-playing-minecraft",
           "publishedOn": "2023-09-18T16:49:32.000Z",
-          "wordCount": 6603,
+          "wordCount": 6314,
           "title": "Here's How Much Bitcoin We Earned Playing Minecraft",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/z8rit7yN/poster.jpg",
@@ -853,6 +883,116 @@
       "siteUrl": "https://cryptopanic.com/",
       "articles": [
         {
+          "id": "https://cryptopanic.com/news/18927913/Amazon-and-Anthropic-Collaborate-to-Advance-Generative-AI",
+          "author": null,
+          "description": "Anthropic has announced a collaboration with Amazon to use its web service for future operations. Both companies plan to accelerate the development of Anthropic’s future foundation models. Anthropic will use AWS Trainium and Inferentia chips to build, train, and deploy its future foundation...",
+          "link": "https://cryptopanic.com/news/18927913/Amazon-and-Anthropic-Collaborate-to-Advance-Generative-AI",
+          "publishedOn": "2023-09-26T02:05:00.000Z",
+          "wordCount": 590,
+          "title": "Amazon and Anthropic Collaborate to Advance Generative AI",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18927911/Ethereum-Generates-Over-10-Billion-In-Revenue-In-7-Years",
+          "author": null,
+          "description": "Ethereum, the world’s most valuable smart contract platform, has generated over $10 billion in revenue in a record seven years. At this pace, Ethereum grew to this milestone faster than most top technology firms, except Alphabet. Ethereum Hit The $10 Billion Milestone Faster Than Microsoft, Zoom...",
+          "link": "https://cryptopanic.com/news/18927911/Ethereum-Generates-Over-10-Billion-In-Revenue-In-7-Years",
+          "publishedOn": "2023-09-26T02:00:37.000Z",
+          "wordCount": 592,
+          "title": "Ethereum Generates Over $10 Billion In Revenue In 7 Years",
+          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2023/09/Crypto-news-Template53.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/18927892/XRP-takes-cover-as-Ripples-CTO-responds-to-this-controversy-around",
+          "author": null,
+          "description": "Ripple's CTO Schwartz mentioned that the claims around the centralization of XRP were random assertions with no evidence to back them up. However, is there more to the situation than what meets the eye?",
+          "link": "https://cryptopanic.com/news/18927892/XRP-takes-cover-as-Ripples-CTO-responds-to-this-controversy-around",
+          "publishedOn": "2023-09-26T01:30:45.000Z",
+          "wordCount": 593,
+          "title": "XRP takes cover as Ripple’s CTO responds to this controversy around…",
+          "imageUrl": "https://statics.ambcrypto.com/wp-content/uploads/2023/09/XRP_centralization_issue_1200x900.png"
+        },
+        {
+          "id": "https://cryptopanic.com/news/18927884/Bitcoin-Ether-flat-MicroStrategy-adds-to-Bitcoin-holdings",
+          "author": null,
+          "description": "Bitcoin traded flat below US$26,300 Tuesday morning in Asia. Ether edged up but remained below the US$1,600 mark.",
+          "link": "https://cryptopanic.com/news/18927884/Bitcoin-Ether-flat-MicroStrategy-adds-to-Bitcoin-holdings",
+          "publishedOn": "2023-09-26T01:30:29.000Z",
+          "wordCount": 590,
+          "title": "Bitcoin, Ether flat; MicroStrategy adds to Bitcoin holdings",
+          "imageUrl": "https://forkast.news/wp-content/uploads/2023/09/golden-bitcoin-cryptocurrency-2021-08-26-18-32-12-utc-9-1260x840.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/18927878/Fiat-is-dying-Bitcoin-is-winning-bitcoin-crypto-shorts",
+          "author": null,
+          "description": "As fiat is devalued through inflation, Bitcoin gets stronger every day. Buy bitcoin before it becomes impossible to own one!",
+          "link": "https://cryptopanic.com/news/18927878/Fiat-is-dying-Bitcoin-is-winning-bitcoin-crypto-shorts",
+          "publishedOn": "2023-09-26T01:00:07.000Z",
+          "wordCount": 592,
+          "title": "Fiat is dying, Bitcoin is winning ️ #bitcoin #crypto #shorts",
+          "imageUrl": "https://i2.ytimg.com/vi/AZvn7qiUtBY/hqdefault.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/18927868/Bitcoin-ETF-Showdown-Bitwise-Challenges-The-SECs-Stance-With-These-Academic-Insights",
+          "author": null,
+          "description": "A recent development around approving a Bitcoin spot Exchange Traded Fund (ETF) in the US saw crypto asset manager Bitwise taking a stand against the SEC’s reasons for not approving their spot Bitcoin (BTC) fund. Deciphering The “Mixed” Academic Record To strengthen its case, Bitwise submitted a...",
+          "link": "https://cryptopanic.com/news/18927868/Bitcoin-ETF-Showdown-Bitwise-Challenges-The-SECs-Stance-With-These-Academic-Insights",
+          "publishedOn": "2023-09-26T01:00:04.000Z",
+          "wordCount": 594,
+          "title": "Bitcoin ETF Showdown: Bitwise Challenges The SEC’s Stance With These Academic Insights",
+          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2023/06/Defense-lawyers-enters-ring-with-Coinbase-and-Binance-Lawsuit.webp"
+        },
+        {
+          "id": "https://cryptopanic.com/news/18927870/Ether-ETH-Hides-Enormous-Recovery-Potential",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/18927870/Ether-ETH-Hides-Enormous-Recovery-Potential",
+          "publishedOn": "2023-09-26T01:00:00.000Z",
+          "wordCount": null,
+          "title": "Ether (ETH) Hides Enormous Recovery Potential",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18927869/Chainlink-LINK-and-Three-Other-Altcoins-Outperforming-Wider-Market-Says-Santiment",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/18927869/Chainlink-LINK-and-Three-Other-Altcoins-Outperforming-Wider-Market-Says-Santiment",
+          "publishedOn": "2023-09-26T01:00:00.000Z",
+          "wordCount": null,
+          "title": "Chainlink ($LINK) and Three Other Altcoins Outperforming Wider Market, Says Santiment",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18927900/How-Bitcoin-Interoperability-Can-Threaten-Ethereums-DeFi-Dominance",
+          "author": null,
+          "description": "Blockchain technology is being stirred by a new interest in making different chains work together, especially regarding Bitcoin. Until recently, Ethereum had been stealing the spotlight due to its flexible smart contract capabilities that fostered the blossoming decentralized finance (DeFi)...",
+          "link": "https://cryptopanic.com/news/18927900/How-Bitcoin-Interoperability-Can-Threaten-Ethereums-DeFi-Dominance",
+          "publishedOn": "2023-09-26T00:54:35.000Z",
+          "wordCount": 590,
+          "title": "How Bitcoin Interoperability Can Threaten Ethereum’s DeFi Dominance",
+          "imageUrl": "https://s32659.pcdn.co/wp-content/uploads/2023/07/bic_Bitcoin_etf_ETFs_General_3-covers_neutral.png.webp"
+        },
+        {
+          "id": "https://cryptopanic.com/news/18927882/Dave-Lemke",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/18927882/Dave-Lemke",
+          "publishedOn": "2023-09-26T00:52:07.000Z",
+          "wordCount": null,
+          "title": "Dave Lemke",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18927883/Colin-Butler",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/18927883/Colin-Butler",
+          "publishedOn": "2023-09-26T00:52:07.000Z",
+          "wordCount": null,
+          "title": "Colin Butler",
+          "imageUrl": null
+        },
+        {
           "id": "https://cryptopanic.com/news/18927858/Amanda-Tuminelli",
           "author": null,
           "description": "Amanda Tuminelli serves as the DeFi Education Fund's Chief Legal Officer where she leads the organization's impact litigation and policy efforts. Stacy Elliott of Decrypt interviewed her at Messari Mainnet 2023.",
@@ -885,12 +1025,12 @@
         {
           "id": "https://cryptopanic.com/news/18927832/Tokenized-Real-World-Assets-RWA-Where-are-they-now",
           "author": null,
-          "description": "There is nothing in the world that is more scrutinized than money. How could it not be when money relays information on the value of…everything? And all economic activity arises from that record-keeping, if it is conducted accurately. When Bitcoin launched in 2009, it opened a new door, a new...",
+          "description": "",
           "link": "https://cryptopanic.com/news/18927832/Tokenized-Real-World-Assets-RWA-Where-are-they-now",
           "publishedOn": "2023-09-26T00:24:11.000Z",
-          "wordCount": 591,
+          "wordCount": null,
           "title": "Tokenized Real World Assets (RWA): Where are they now?",
-          "imageUrl": "https://cryptoslate.com/wp-content/uploads/2023/09/tokenization-rwa.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/18927839/Tether-Alters-Terms-in-Singapore-Banning-Local-Shareholders",
@@ -915,22 +1055,22 @@
         {
           "id": "https://cryptopanic.com/news/18927818/Trader-Who-Called-2022-Bitcoin-Bottom-Warns-of-Major-Pain-Coming-for-Ethereum-Heres-Downside-Target",
           "author": null,
-          "description": "A top trader who nailed Bitcoin’s (BTC) bottom last year says Ethereum (ETH) may see a deep devaluation before carving out a cycle bottom. In a new episode of the TechnicalRoundup, crypto analyst DonAlt tells his 53,300 YouTube subscribers that Ethereum may be on the verge of breaking down...",
+          "description": "",
           "link": "https://cryptopanic.com/news/18927818/Trader-Who-Called-2022-Bitcoin-Bottom-Warns-of-Major-Pain-Coming-for-Ethereum-Heres-Downside-Target",
           "publishedOn": "2023-09-26T00:00:58.000Z",
-          "wordCount": 599,
+          "wordCount": null,
           "title": "Trader Who Called 2022 Bitcoin Bottom Warns of ‘Major Pain’ Coming for Ethereum – Here’s Downside Target",
-          "imageUrl": "https://dailyhodl.com/wp-content/uploads/2023/04/Says-Ethereum-In-for-.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/18927816/NEAR-Protocols-Daily-Active-Addresses-Spike-Will-Prices-Follow",
           "author": null,
-          "description": "In the past month, there have been more daily active addresses on the NEAR Protocol than in Ethereum and its layer-2 protocols, including Arbitrum and OP Mainnet, Artemis data from September 25 reveals. Artemis, an institutional data platform for digital assets, shows that the number of daily...",
+          "description": "",
           "link": "https://cryptopanic.com/news/18927816/NEAR-Protocols-Daily-Active-Addresses-Spike-Will-Prices-Follow",
           "publishedOn": "2023-09-26T00:00:53.000Z",
-          "wordCount": 591,
+          "wordCount": null,
           "title": "NEAR Protocol’s Daily Active Addresses Spike, Will Prices Follow?",
-          "imageUrl": "https://www.newsbtc.com/wp-content/uploads/2023/09/Crypto-news-Template54.jpg?fit=1380%2C780"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/18927812/Philippine-Blockchain-Week-Addresses-Miss-Universe-Coin-Fraud-Allegations",
@@ -941,116 +1081,6 @@
           "wordCount": 591,
           "title": "Philippine Blockchain Week Addresses Miss Universe Coin Fraud Allegations",
           "imageUrl": "https://bitcoinist.com/wp-content/uploads/2023/09/a-87.png"
-        },
-        {
-          "id": "https://cryptopanic.com/news/18927774/How-To-Guide-Running-an-Ecash-Mint",
-          "author": null,
-          "description": "As seen in “The Withdrawal Issue”, Cashu allows the use of ecash on Bitcoin, empowering ordinary users to operate a mint that is connected to the Lightning Network.",
-          "link": "https://cryptopanic.com/news/18927774/How-To-Guide-Running-an-Ecash-Mint",
-          "publishedOn": "2023-09-25T23:14:55.000Z",
-          "wordCount": 588,
-          "title": "How-To Guide: Running an Ecash Mint",
-          "imageUrl": "http://bitcoinmagazine.com/.image/c_limit%2Ccs_srgb%2Cfl_progressive%2Ch_1200%2Cq_auto:good%2Cw_1200/MjAxMDU3NTMyNDMxNzA1NTQy/preview_thumbnail-1.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/18927756/Cardano-Factors-That-Could-Drive-ADA-Price-As-High-As-12",
-          "author": null,
-          "description": "The Cardano community has been one of the fastest-growing in the crypto space and this has shone a heavy spotlight on the ADA price. With expectations mounting already even amid the crypto winter, there are key factors that stakeholders believe could drive the altcoin’s price as high as $12. ADA...",
-          "link": "https://cryptopanic.com/news/18927756/Cardano-Factors-That-Could-Drive-ADA-Price-As-High-As-12",
-          "publishedOn": "2023-09-25T23:00:10.000Z",
-          "wordCount": 593,
-          "title": "Cardano: Factors That Could Drive ADA Price As High As $12",
-          "imageUrl": "https://www.newsbtc.com/wp-content/uploads/2023/09/ADA-price-bull.jpeg?fit=1200%2C900"
-        },
-        {
-          "id": "https://cryptopanic.com/news/18927763/Will-The-Upcoming-Ripple-Party-Have-A-Positive-Effect-On-The-XRP-Price",
-          "author": null,
-          "description": "Ripple has been planning a ‘Proper Victory Party’ to celebrate its victory over the United States Securities and Exchange Commission (SEC) for a while now and this could affect the XRP price. This was made public in late August when the company announced the September 29 date. Now, with the...",
-          "link": "https://cryptopanic.com/news/18927763/Will-The-Upcoming-Ripple-Party-Have-A-Positive-Effect-On-The-XRP-Price",
-          "publishedOn": "2023-09-25T23:00:07.000Z",
-          "wordCount": 595,
-          "title": "Will The Upcoming Ripple Party Have A Positive Effect On The XRP Price?",
-          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2023/09/XRP-price-bull-2.jpeg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/18927764/Vitalik-Buterins-Privacy-Pool-proposal-is-just-the-start",
-          "author": null,
-          "description": "Vitalik Buterin's September paper about Privacy Pools touched on an idea that could be the start of a new approach to privacy for crypto transactions.",
-          "link": "https://cryptopanic.com/news/18927764/Vitalik-Buterins-Privacy-Pool-proposal-is-just-the-start",
-          "publishedOn": "2023-09-25T23:00:01.000Z",
-          "wordCount": 591,
-          "title": "Vitalik Buterin’s Privacy Pool proposal is just the start",
-          "imageUrl": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-09/877bded4-3803-4499-9d9f-ac5dc01832d3.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/18927754/Bitcoin-BTC-Price-Could-Drop-Below-25000-as-It-Faces-800-Pound-Gorilla-Says-Bloomberg-Analyst",
-          "author": null,
-          "description": "Bloomberg Intelligence Senior Macro Strategist Mike McGlone has recently shared he believes that the price of the flagship cryptocurrency Bitcoin ($BTC) is now in the “process of reverting” and could move downward in the near future. In a recent Understanding Macro segment, McGlone noted that...",
-          "link": "https://cryptopanic.com/news/18927754/Bitcoin-BTC-Price-Could-Drop-Below-25000-as-It-Faces-800-Pound-Gorilla-Says-Bloomberg-Analyst",
-          "publishedOn": "2023-09-25T22:48:00.000Z",
-          "wordCount": 597,
-          "title": "Bitcoin ($BTC) Price Could Drop Below $25,000 as It Faces ‘800-Pound Gorilla’, Says Bloomberg Analyst",
-          "imageUrl": "https://media.cryptoglobe.com/2022/12/kanchanara-dRgxo-ujT2U-unsplash-1-768x511.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/18927748/Metas-Facebook-Big-Event-is-Near-Which-Altcoins-Are-Meta-Linked-and-Could-Be-Impacted-by-the-Event",
-          "author": null,
-          "description": "Meta, one of the largest companies in the world, will soon organize an artificial intelligence and VR themed event. Continue Reading: Meta’s (Facebook) Big Event is Near: Which Altcoins Are Meta-Linked and Could Be Impacted by the Event?",
-          "link": "https://cryptopanic.com/news/18927748/Metas-Facebook-Big-Event-is-Near-Which-Altcoins-Are-Meta-Linked-and-Could-Be-Impacted-by-the-Event",
-          "publishedOn": "2023-09-25T22:41:06.000Z",
-          "wordCount": 599,
-          "title": "Meta’s (Facebook) Big Event is Near: Which Altcoins Are Meta-Linked and Could Be Impacted by the Event?",
-          "imageUrl": "https://www.bitcoinsistemi.com/wp-content/uploads/2022/11/meta.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/18927718/OP_CHECKSEPARATESIG-And-Actuaries-Fixing-Multiparty-Channel-Factories",
-          "author": null,
-          "description": "With an OP code arguably simpler than CTV, Actuaries could trustlessly solve the problem of everyone needing to be online to update a channel factory.",
-          "link": "https://cryptopanic.com/news/18927718/OP_CHECKSEPARATESIG-And-Actuaries-Fixing-Multiparty-Channel-Factories",
-          "publishedOn": "2023-09-25T22:26:42.000Z",
-          "wordCount": 589,
-          "title": "OP_CHECKSEPARATESIG And Actuaries: Fixing Multiparty Channel Factories",
-          "imageUrl": "http://bitcoinmagazine.com/.image/c_limit%2Ccs_srgb%2Ch_1200%2Cq_auto:good%2Cw_1200/MTg4NzU2NzcxMDYwMzI4MDE2/bitcoin-lightning-network.png"
-        },
-        {
-          "id": "https://cryptopanic.com/news/18927726/Minecraft-Creator-Notch-Glad-Theyre-Cracking-Down-on-Bitcoin-Reward-Servers",
-          "author": null,
-          "description": "While no longer a part of Mojang, Notch apparently believes play-to-earn Minecraft servers are “nonsense.”",
-          "link": "https://cryptopanic.com/news/18927726/Minecraft-Creator-Notch-Glad-Theyre-Cracking-Down-on-Bitcoin-Reward-Servers",
-          "publishedOn": "2023-09-25T22:24:25.000Z",
-          "wordCount": 593,
-          "title": "Minecraft Creator Notch: 'Glad They're Cracking Down' on Bitcoin Reward Servers",
-          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/07/minecraft-banner-gID_7.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/18927716/Prominent-Analyst-Reveals-6-Altcoins-to-Watch-Closely-This-Week-and-Why",
-          "author": null,
-          "description": "Cryptocurrency analyst Miles Deutscher shared the list of altcoins that will be on his radar this week. Continue Reading: Prominent Analyst Reveals 6 Altcoins to Watch Closely This Week and Why",
-          "link": "https://cryptopanic.com/news/18927716/Prominent-Analyst-Reveals-6-Altcoins-to-Watch-Closely-This-Week-and-Why",
-          "publishedOn": "2023-09-25T22:16:06.000Z",
-          "wordCount": 594,
-          "title": "Prominent Analyst Reveals 6 Altcoins to Watch Closely This Week and Why",
-          "imageUrl": "https://www.bitcoinsistemi.com/wp-content/uploads/2023/04/soru-isareti-altcoin.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/18927697/Kirsten-Gillibrand-Trying-To-Convince-Other-Democrats-of-Better-Crypto-Regulation-Report",
-          "author": null,
-          "description": "US Senator Kirsten Gillibrand is reportedly attempting to convince her fellow Democrats to support legislation to increase regulatory clarity for cryptocurrencies. In a new interview with Fortune, the New York Senator says that she’s hopeful that she can have her bi-partisan cryptocurrency bill...",
-          "link": "https://cryptopanic.com/news/18927697/Kirsten-Gillibrand-Trying-To-Convince-Other-Democrats-of-Better-Crypto-Regulation-Report",
-          "publishedOn": "2023-09-25T22:01:05.000Z",
-          "wordCount": 594,
-          "title": "Kirsten Gillibrand Trying To Convince Other Democrats of Better Crypto Regulation: Report",
-          "imageUrl": "https://dailyhodl.com/wp-content/uploads/2021/11/senator-propose-accelerate.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/18927687/Ethereum-Average-Fees-Has-Hit-A-New-2023-Low-Data",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/18927687/Ethereum-Average-Fees-Has-Hit-A-New-2023-Low-Data",
-          "publishedOn": "2023-09-25T22:00:07.000Z",
-          "wordCount": null,
-          "title": "Ethereum Average Fees Has Hit A New 2023 Low: Data",
-          "imageUrl": null
         }
       ]
     },
@@ -1059,6 +1089,76 @@
       "feedUrl": "https://www.inoreader.com/stream/user/1005336866/tag/%E6%B5%B7%E5%A4%96%E5%8A%A0%E5%AF%86%E8%B5%84%E8%AE%AF",
       "siteUrl": "https://www.inoreader.com/stream/user/1005336866/tag/%E6%B5%B7%E5%A4%96%E5%8A%A0%E5%AF%86%E8%B5%84%E8%AE%AF/view/html",
       "articles": [
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e74bba26eaa",
+          "author": "Kevin Helms",
+          "description": "U.S. presidential candidate Nikki Haley has warned that China is preparing for war and Chinese President Xi Jinping intends to win. “China is an existential threat. It has spent half a century plotting to defeat us,” she stressed, cautioning that China is “building a massive cutting edge military, capable of threatening America and dominating Asia and beyond.”\n \nNikki Haley Warns of China’s Preparation for War\n \nU.S. presidential hopeful and former governor of the state of South Carolina, Nikki Haley, warned in a speech at the New Hampshire Institute of Politics on her economic policy Friday that China is preparing for war.\n \n“Strength and pride are essential to our national survival, especially in the face of Communist China,” she began, elaborating:\n \n\nChina is an existential threat. It has spent half a century plotting to defeat us.\n \n“It’s taken our manufacturing jobs. It’s taken our trade secrets. Now, it’s taking control of critical industries — from medicines to advanced technology. In record time, China has gone from an economically backward country to the second biggest economy on earth,” the Republican presidential candidate continued.\n \n“It has every intention of being the first. And the Communist Party’s motives are clear. They’re building a massive, cutting-edge military, capable of threatening America and dominating Asia and beyond,” she cautioned.\n \n \nHaley additionally said: “In some respects, China’s military is already equal to the U.S. Armed Forces. In other areas, they’re beating us. China’s leaders are so confident, they’re sending spy balloons into our skies and building a spy base just off our shores in Cuba.” She warned:\n \n\nMake no mistake: The Communist Party is preparing for war. And China’s leaders intend to win.\n \nThe former South Carolina governor also stated: “Joe Biden’s debt and deficits are weakening the dollar and empowering communist China.”\n \nDo you agree with presidential candidate Nikki Haley that China is preparing for war? Let us know in the comments section below.",
+          "link": "https://news.bitcoin.com/us-presidential-candidate-nikki-haley-china-preparing-for-war-and-xi-jinping-intends-to-win/",
+          "publishedOn": "2023-09-26T02:04:50.000Z",
+          "wordCount": 254,
+          "title": "US Presidential Candidate Nikki Haley: China Preparing for War and Xi Jinping Intends to Win",
+          "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2023/09/china-prepares-for-war.jpg"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e74bba38271",
+          "author": "Sandali Handagama",
+          "description": "The firm has registered as a crypto exchange and custody wallet provider.",
+          "link": "https://www.coindesk.com/policy/2023/09/25/coinbase-successfully-registers-with-spains-central-bank/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2023-09-26T01:52:25.000Z",
+          "wordCount": 6494,
+          "title": "Coinbase Successfully Registers With Spain's Central Bank",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/jpeg",
+            "url": "https://www.coindesk.com/resizer/qoJyYuXM1mGfERKw4YmUkcTkby0=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/EWGHDZP7GRG3PNDHBRGMOTONOI.jpg"
+          },
+          "imageUrl": "https://www.coindesk.com/resizer/qoJyYuXM1mGfERKw4YmUkcTkby0=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/EWGHDZP7GRG3PNDHBRGMOTONOI.jpg"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e74bba3826d",
+          "author": "Oliver Knight",
+          "description": "HTX, formerly Huobi, has been hacked with the total loss totaling 500 ether (ETH) worth around $8 million, according to HTX advisor and Tron founder Justin Sun.",
+          "link": "https://www.coindesk.com/business/2023/09/25/crypto-exchange-htx-lost-8m-of-ether-due-to-a-hack-justin-sun-says/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2023-09-26T01:52:25.000Z",
+          "wordCount": 6836,
+          "title": "Crypto Exchange HTX Lost $8M of Ether Due to a Hack, Justin Sun Says",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/jpeg",
+            "url": "https://www.coindesk.com/resizer/UeH8ycFKFZOjOpZpWPq3fO7_ywg=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/V42AF25WPBFHBNZBV6YQB4E224.jpg"
+          },
+          "imageUrl": "https://www.coindesk.com/resizer/UeH8ycFKFZOjOpZpWPq3fO7_ywg=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/V42AF25WPBFHBNZBV6YQB4E224.jpg"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e74bbac3114",
+          "author": "Calle",
+          "description": "This article is featured in Bitcoin Magazine’s “The Withdrawal Issue”. Click here to subscribe now.\nA PDF pamphlet of this article is available for download.\nChaumian ecash, a privacy-preserving payment system, was conceptualized in the early ’80s and known to be the first cryptocurrency ever invented. Although this technology experienced a period of dormancy, the advent of Bitcoin has revived interest in this technology. As we stride into an era increasingly concerned with digital privacy, ecash is experiencing a renaissance, primarily due to our discovery of Bitcoin as the foundational money layer for the internet.\nCashu allows the use of ecash on Bitcoin, empowering ordinary users to operate a mint that is connected to the Lightning Network. This enables everyone to offer perfectly priv…",
+          "link": "https://bitcoinmagazine.com/print/how-to-guide-running-an-ecash-mint",
+          "publishedOn": "2023-09-26T01:43:43.000Z",
+          "wordCount": null,
+          "title": "How-To Guide: Running an Ecash Mint",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/jpeg",
+            "url": "https://bitcoinmagazine.com/.image/c_fit,cs_srgb,fl_progressive,q_auto:good,w_620/MjAxMDU3NTMyNDMxNTc0NDcw/quote_1.jpg"
+          },
+          "imageUrl": "https://bitcoinmagazine.com/.image/c_fit,cs_srgb,fl_progressive,q_auto:good,w_620/MjAxMDU3NTMyNDMxNTc0NDcw/quote_1.jpg"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e74bbad341a",
+          "author": "Samuel Edyme",
+          "description": "A recent development around approving a Bitcoin spot Exchange Traded Fund (ETF) in the US saw crypto asset manager Bitwise taking a stand against the SEC’s reasons for not approving their spot Bitcoin (BTC) fund.\n \nDeciphering The “Mixed” Academic Record\n \nTo strengthen its case, Bitwise submitted a review of academic literature regarding the Bitcoin futures market and its correlation with spot pricing.\n \n \nThis decision is part of Bitwise’s amendment to its filing for a spot Bitcoin fund, a product the firm has been attempting to launch for several years.\n \nNotably, the SEC’s stance on spot BTC ETFs has often been characterized by concerns over the relationship between the Bitcoin futures market and the spot market. \n \nAccording to the document, the regulatory body previously described th…",
+          "link": "https://bitcoinist.com/bitcoin-etf-showdown-bitwise-challenges-the-sec/",
+          "publishedOn": "2023-09-26T01:32:10.000Z",
+          "wordCount": 5619,
+          "title": "Bitcoin ETF Showdown: Bitwise Challenges The SEC’s Stance With These Academic Insights",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/jpeg",
+            "url": "https://bitcoinist.com/wp-content/uploads/2023/06/Defense-lawyers-enters-ring-with-Coinbase-and-Binance-Lawsuit.webp"
+          },
+          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2023/06/Defense-lawyers-enters-ring-with-Coinbase-and-Binance-Lawsuit.webp"
+        },
         {
           "id": "http://www.inoreader.com/article/3a9c6e74bbaa7b1f",
           "author": "Christian Encila",
@@ -1225,7 +1325,7 @@
           "description": "Optimism’s native token OP has dropped over 10% in a week, the most among the largest cryptocurrencies, ahead of its unlocking date that will increase the token’s supply.",
           "link": "https://www.coindesk.com/markets/2023/09/25/optimism-slumps-most-among-crypto-majors-ahead-of-30m-token-unlock/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-09-25T20:16:02.000Z",
-          "wordCount": 6797,
+          "wordCount": 6807,
           "title": "Optimism Slumps Most Among Crypto Majors Ahead of $30M Token Unlock",
           "enclosure": {
             "length": "1337",
@@ -1258,71 +1358,6 @@
             "url": "https://bitcoinist.com/wp-content/uploads/2023/09/a-84-632x420.png"
           },
           "imageUrl": "https://bitcoinist.com/wp-content/uploads/2023/09/a-84-632x420.png"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e74bb77851d",
-          "author": "Reed Macdonald",
-          "description": "Adam Back, renowned cypherpunk and creator of Hashcash, made a bold statement on X this weekend, arguing that Bitcoin is poised to replace gold as the ultimate store of value for the next millennium. \nBack's remarks reflect his deep-rooted belief in the transformative potential of Bitcoin and its ability to outshine traditional assets like gold.\nIn his X post, Back said:\n\n\n\nThese words carry significant weight in the crypto community, as Adam Back is no stranger to the world of digital currencies. He has played a pivotal role in the development of cryptographic technologies and is widely recognized as a cypherpunk luminary. \nMore specifically, his creation, Hashcash, laid the groundwork for the concept of proof-of-work, which Bitcoin's founder, Satoshi Nakamoto, later incorporated into the cryptocurrency's underlying technology.\nAdam Back's advocacy for Bitcoin as the \"digital gold\" of the future aligns with the broader narrative that has been gaining momentum in recent years. Bitcoin has increasingly been viewed as a superior store of value compared to traditional assets like gold due to its scarcity, divisibility, and resistance to censorship.\nAs central banks continue to engage in unprecedented levels of monetary expansion, Bitcoin's appeal as a hedge against inflation and economic uncertainty has grown significantly. Investors, institutions, and individuals alike are turning to Bitcoin as a way to safeguard their wealth in an increasingly uncertain financial landscape.\nBack's perspective on Bitcoin's long-term potential also resonates with his history in the cypherpunk movement, where individuals have championed the idea of digital privacy, censorship resistance, and financial sovereignty. Bitcoin, with its decentralized nature and cryptographic security, embodies many of the principles that cypherpunks have long advocated for.\nWhile the debate over whether Bitcoin can truly replace gold as the ultimate store of value rages on, Adam Back's endorsement carries substantial weight.",
-          "link": "https://bitcoinmagazine.com/culture/cypherpunk-legend-adam-back-bitcoin-is-digital-gold-for-the-next-millennia",
-          "publishedOn": "2023-09-25T18:35:55.000Z",
-          "wordCount": null,
-          "title": "Cypherpunk Icon Adam Back: Bitcoin Is 'Digital Gold for the Next Millennia'",
-          "enclosure": {
-            "length": "1337",
-            "type": "image/png",
-            "url": "http://bitcoinmagazine.com/.image/c_limit,cs_srgb,h_1200,q_auto:good,w_1200/MjAxMDUyNDE4NDY3NzAyNDM0/screen-shot-2023-09-25-at-13700-pm.png"
-          },
-          "imageUrl": "http://bitcoinmagazine.com/.image/c_limit,cs_srgb,h_1200,q_auto:good,w_1200/MjAxMDUyNDE4NDY3NzAyNDM0/screen-shot-2023-09-25-at-13700-pm.png"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e74bb7067df",
-          "author": "Ronaldo Marquez",
-          "description": "According to a recent report by CoinPost, MUTB, a subsidiary of Mitsubishi UFJ Financial Group, one of Japan’s largest financial institutions, in partnership with Binance Japan and Progmat, has announced the start of joint consideration for the development of a new stablecoin. \n \nLeveraging the Progmat Coin platform, compliant with Japanese regulations, the collaborative effort aims to create a stablecoin that will serve as a core element in Binance’s global ecosystem and facilitate market expansion in Japan. \n \nThe proposed stablecoin is expected to be denominated in Japanese yen (JPY) and foreign currencies like the US dollar (USD).\n \nBinance Japan’s Resurgence? \n \nPer the report, stablecoins linked to legal currencies, such as JPY and USD, are anticipated to be issued in Japan post-2024…",
-          "link": "https://bitcoinist.com/binance-target-new-stablecoin-launch-in-asia/",
-          "publishedOn": "2023-09-25T18:28:53.000Z",
-          "wordCount": 5612,
-          "title": "Binance And Japan’s Largest Financial Group Target New Stablecoin Launch In Asia",
-          "enclosure": {
-            "length": "1337",
-            "type": "image/jpeg",
-            "url": "https://bitcoinist.com/wp-content/uploads/2023/09/shutterstock_download-2.jpg"
-          },
-          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2023/09/shutterstock_download-2.jpg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e74bb72a04a",
-          "author": "Jamie Redman",
-          "description": "Blockchain metrics indicate that an Ethereum-linked address tied to co-founder Vitalik Buterin transferred 400 ETH to Coinbase on September 24. Spotonchain’s data shows that over a ten-day stretch, Buterin’s address funneled a cumulative 2,421 ETH to mainstream exchanges.\n \nAddress Associated With Buterin Transfers More Than 2,400 Ether to Cex Platforms\n \nReal-time blockchain tracker Spotonchain.ai disclosed on Sunday that Vitalik Buterin dispatched 399.9 ether to Coinbase. Initially, Buterin executed a preliminary 0.1 ETH test transaction to the address, followed by the main transfer of 399.9 ETH. As of now, Buterin’s digital wallet, labeled “0x1Db3,” possesses 1,773.44 ether, valued at roughly $2.77 million. Including other crypto assets, the wallet’s total valuation stands at approximat…",
-          "link": "https://news.bitcoin.com/vitalik-buterin-shifts-400-ether-to-coinbase-ethereum-co-founder-moves-3-79m-in-10-days/",
-          "publishedOn": "2023-09-25T18:11:16.000Z",
-          "wordCount": 269,
-          "title": "Vitalik Buterin Shifts 400 Ether to Coinbase: Ethereum Co-Founder Moves $3.79M in 10 Days",
-          "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2023/09/v.jpg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e74bb7855c3",
-          "author": "Scott Matherson",
-          "description": "A Bitcoin maximalist seems to have drawn the wrath of the XRP community following a post he made on the X (formerly Twitter) platform. Max Keiser who is a staunch Bitcoin supporter shared a patent that is more than three decades old to put forward claims that XRP is centralized.\n \nKeiser Says XRP Is Centralized\n \nIn the post that Max Keiser made on X, he attaches a picture of a patent filing which he used to buttress his point that XRP is centralized. The patent is dated June 18, 1991, which means that it was filed 32 years ago. However, Keiser believes that this patent filed by Ripple co-creator and Chief Technology Officer David Schwartz proves that the altcoin is centralized.\n \n \nThe patent which would have been filed when Schwartz was a young adult, however, carries no mention of Rippl…",
-          "link": "https://bitcoinist.com/bitcoin-xrp-centralization/",
-          "publishedOn": "2023-09-25T17:28:47.000Z",
-          "wordCount": 5598,
-          "title": "Bitcoin Maximalist Draws Fire From XRP Community With Centralization Claims",
-          "enclosure": {
-            "length": "1337",
-            "type": "image/jpeg",
-            "url": "https://bitcoinist.com/wp-content/uploads/2023/09/XRP-community-640x360.jpeg"
-          },
-          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2023/09/XRP-community-640x360.jpeg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e74bb7abb48",
-          "author": "Media",
-          "description": "PRESS RELEASE. The Label Foundation recently announced an agreement with global electronics giant, LG Electronics, to launch ‘Tracks’, an innovative Web3 music streaming platform, which will be soon available on the latest version of LG Smart TVs. \n \nPositioning itself as a leading Life Background Music platform, ‘Tracks’ grants users free access to refined music playlists and visuals. Additionally, the service offers an appealing perk: earning various rewards based on listening duration. It’s crafted mainly for Generation Z, the demographic celebrated for distinctive moods through music and visuals.\n \nSet for a rollout on the newest version of LG TVs this year, Label will also release an open beta version for ‘Tracks’ on mobile devices, scheduled for September 25th.\n \nSpeaking on the collaboration, Label representatives expressed, “With the upcoming launch, numerous TV owners will be able to enjoy music for free, which resonates deeply with Label’s ethos, championing universal music accessibility without financial boundaries. We are happy that our collaboration with LG Electronics made this a reality”.\n \nIn tandem, Label is devising strategies to enhance accessibility to the ‘Tracks’ platform for Web 2.0 users by harnessing Web 3.0 technology’s prowess. In line with the company vision, Label is determined to strengthen its role as a forerunner in the music enterprise, seamlessly bridging the Web 3.0 and Web 2.0 domains.\n \nFor more information and regular updates, be sure to check out the official website and Medium, Telegram, and Twitter channels.\n \n \n \n \n \n \n \n \n \n \nThis is a press release. Readers should do their own due diligence before taking any actions related to the promoted company or any of its affiliates or services. Bitcoin.com is not responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in the press release.",
-          "link": "https://news.bitcoin.com/label-foundation-joins-hands-with-lg-electronics-for-tracks-music-streaming-service/",
-          "publishedOn": "2023-09-25T17:11:30.000Z",
-          "wordCount": 217,
-          "title": "Label Foundation Joins Hands with LG Electronics for ‘Tracks’ Music Streaming Service",
-          "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2023/09/ab625b36-4599-47ba-8e2c-434fa4e06b91-1024x577.png"
         }
       ]
     }

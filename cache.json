@@ -296,7 +296,7 @@
           "description": "The oracle platform has integrated its CCIP communication protocol with Base to enable the development of cross-chain dapps and services.",
           "link": "https://decrypt.co/198926/chainlink-extends-cross-chain-protocol-to-coinbases-base",
           "publishedOn": "2023-09-27T12:01:03.000Z",
-          "wordCount": 8956,
+          "wordCount": 8923,
           "title": "Chainlink Extends Cross-Chain Protocol to Coinbase’s Base",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/01/chainlink-logo-gID_7.jpg@png",
@@ -461,7 +461,7 @@
           "description": "Our host Reza Jafery is joined by Gareth Fenney aka 500Altcoins. They discuss the glory days of DeFi Summer and whether or not its a smart move for builders in the crypto space to relocate to Dubai.",
           "link": "https://decrypt.co/videos/interviews/cI7p8AK3/500altcoins-discusses-defi-summer-and-the-dubai-crypto-scene-this-time-will-be-different-episode-2",
           "publishedOn": "2023-09-26T20:00:00.000Z",
-          "wordCount": 6393,
+          "wordCount": 6760,
           "title": "500Altcoins discusses DeFi Summer and the Dubai Crypto Scene - This Time Will Be Different - Episode 2",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/cI7p8AK3/poster.jpg",
@@ -726,21 +726,6 @@
           "imageUrl": "https://cdn.jwplayer.com/v2/media/OvAFgxTd/poster.jpg"
         },
         {
-          "id": "https://decrypt.co/videos/interviews/xXOrNbX9/explosive-growth-ahead-for-enterprise-blockchain",
-          "author": null,
-          "description": "Paul Brody drives Ernst & Young (EY) initiatives and investments in blockchain technology across consulting, audit, and tax business lines. He says enterprise blockchain adoption is nearing an inflection point. Brody believes blockchains will one day handle 40 billion transactions daily across industries like automotive and pharma. Stacy Elliott interviewed him at Messari Mainnet 2023.",
-          "link": "https://decrypt.co/videos/interviews/xXOrNbX9/explosive-growth-ahead-for-enterprise-blockchain",
-          "publishedOn": "2023-09-26T05:41:10.000Z",
-          "wordCount": 6411,
-          "title": "Explosive Growth Ahead for Enterprise Blockchain",
-          "enclosure": {
-            "url": "https://cdn.jwplayer.com/v2/media/xXOrNbX9/poster.jpg",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.jwplayer.com/v2/media/xXOrNbX9/poster.jpg"
-        },
-        {
           "id": "https://decrypt.co/videos/interviews/axArPRp3/bitcoins-narrative-is-shifting-towards-layer-2-solutions",
           "author": null,
           "description": "Rich Rhines, original Core DAO contributor and former Coinbase engineer, discusses how the narrative around Bitcoin is shifting in 2023. While Bitcoin remains digital gold, new layer 2 solutionsare emerging to unlock more utility and value from the huge amounts of capital stored in Bitcoin. He says these innovations can benefit Bitcoin holders while keeping Bitcoin maximalists happy by building outside the base layer. André Beganski interviewed him at Messari Mainnet 2023.",
@@ -756,12 +741,27 @@
           "imageUrl": "https://cdn.jwplayer.com/v2/media/axArPRp3/poster.jpg"
         },
         {
+          "id": "https://decrypt.co/videos/interviews/xXOrNbX9/explosive-growth-ahead-for-enterprise-blockchain",
+          "author": null,
+          "description": "Paul Brody drives Ernst & Young (EY) initiatives and investments in blockchain technology across consulting, audit, and tax business lines. He says enterprise blockchain adoption is nearing an inflection point. Brody believes blockchains will one day handle 40 billion transactions daily across industries like automotive and pharma. Stacy Elliott interviewed him at Messari Mainnet 2023.",
+          "link": "https://decrypt.co/videos/interviews/xXOrNbX9/explosive-growth-ahead-for-enterprise-blockchain",
+          "publishedOn": "2023-09-26T05:41:10.000Z",
+          "wordCount": 6411,
+          "title": "Explosive Growth Ahead for Enterprise Blockchain",
+          "enclosure": {
+            "url": "https://cdn.jwplayer.com/v2/media/xXOrNbX9/poster.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.jwplayer.com/v2/media/xXOrNbX9/poster.jpg"
+        },
+        {
           "id": "https://decrypt.co/videos/live-events/PLZ0FpdC/we-need-to-start-thinking-about-how-we-make-crypto-easy-to-use-robinhood-crypto-general-manager",
           "author": null,
           "description": "Decrypt's Stacy Elliott sat down with Robinhood Crypto general manager Johann Kerbrat at Messari Mainnet 2023, to talk about the trading platform's crypto wallet, onboarding new users through simplicity, and keeping platform fees sustainable.",
           "link": "https://decrypt.co/videos/live-events/PLZ0FpdC/we-need-to-start-thinking-about-how-we-make-crypto-easy-to-use-robinhood-crypto-general-manager",
           "publishedOn": "2023-09-26T05:41:10.000Z",
-          "wordCount": 6706,
+          "wordCount": 6374,
           "title": "We Need to Start Thinking About How we Make Crypto Easy to Use: Robinhood Crypto General Manager",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/PLZ0FpdC/poster.jpg",
@@ -821,7 +821,7 @@
           "description": "Colin Butler is the Global Head of Institutional Capital at Polygon Labs. He says institutions are attracted to blockchain for cost savings, revenue increases, and risk reduction. Using zero-knowledge technology, Polygon aims to bring liquidity and users to Ethereum through scalability and interoperability between chains. He was interviewed by Decrypt's André Beganski at Messari Mainnet 2023.",
           "link": "https://decrypt.co/videos/interviews/htDLDHG6/bringing-institutions-to-ethereum-through-scalability",
           "publishedOn": "2023-09-26T00:52:07.000Z",
-          "wordCount": 6383,
+          "wordCount": 6416,
           "title": "Bringing Institutions to Ethereum Through Scalability",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/htDLDHG6/poster.jpg",
@@ -883,6 +883,36 @@
       "siteUrl": "https://cryptopanic.com/",
       "articles": [
         {
+          "id": "https://cryptopanic.com/news/18933492/From-Bank-To-Bankruptcy-How-This-Crypto-Scam-Toppled-A-US-CEOs-Empire",
+          "author": null,
+          "description": "A recent incident involving a former CEO of a local US bank has been the latest reminder of the risks tied to the crypto world. As the industry grows despite tales of fortunes made and lost abound, this particular story paints a cautionary tale of corporate responsibility gone awry. High-Risk...",
+          "link": "https://cryptopanic.com/news/18933492/From-Bank-To-Bankruptcy-How-This-Crypto-Scam-Toppled-A-US-CEOs-Empire",
+          "publishedOn": "2023-09-28T04:00:43.000Z",
+          "wordCount": 595,
+          "title": "From Bank To Bankruptcy: How This Crypto Scam Toppled A US CEO’s Empire",
+          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2023/09/How-This-Crypto-Scam-Toppled-A-US-CEOs-Empire.webp"
+        },
+        {
+          "id": "https://cryptopanic.com/news/18933476/Shiba-Inu-Burn-Rate-Explodes-1000-Overnight-As-Millions-Of-Tokens-Vanish-Whats-Happening",
+          "author": null,
+          "description": "Shiba Inu (CRYPTO: SHIB) on Wednesday experienced a significant increase in its burn rate, skyrocketing by 1000% in the last 24 hours. The surge came after a staggering 164 million SHIB tokens were permanently removed from circulation, data from Shiba Inu burn tracker Shibburn shows. read more",
+          "link": "https://cryptopanic.com/news/18933476/Shiba-Inu-Burn-Rate-Explodes-1000-Overnight-As-Millions-Of-Tokens-Vanish-Whats-Happening",
+          "publishedOn": "2023-09-28T03:26:49.000Z",
+          "wordCount": 596,
+          "title": "Shiba Inu Burn Rate Explodes 1000% Overnight As Millions Of Tokens Vanish: What's Happening?",
+          "imageUrl": "https://cdn.benzinga.com/files/images/story/2023/Shiba_Inu_Shibarium_0.jpeg?width=1200&height=800&fit=crop"
+        },
+        {
+          "id": "https://cryptopanic.com/news/18933464/Bitcoin-Bulls-Keep-Pushing-But-Faces-Rejection-100-SMA-Is-The-Key",
+          "author": null,
+          "description": "Bitcoin price attempted a fresh increase above the $26,500 resistance. However, BTC failed to settle above $26,700 and reacted to the downside. Bitcoin is still struggling to clear $26,500 and $26,700. The price is trading above $26,200 and the 100 hourly Simple moving average. There is a...",
+          "link": "https://cryptopanic.com/news/18933464/Bitcoin-Bulls-Keep-Pushing-But-Faces-Rejection-100-SMA-Is-The-Key",
+          "publishedOn": "2023-09-28T03:26:45.000Z",
+          "wordCount": 594,
+          "title": "Bitcoin Bulls Keep Pushing But Faces Rejection, 100 SMA Is The Key",
+          "imageUrl": "https://www.newsbtc.com/wp-content/uploads/2023/09/iStock-877508718.jpg"
+        },
+        {
           "id": "https://cryptopanic.com/news/18933452/Is-Bitcoin-Network-Sufficiently-Decentralized-Heres-What-The-Data-Says",
           "author": null,
           "description": "Is the Bitcoin mining network decentralized enough? Or do the big miners control a significant part of it? Here’s what the latest data says. Public Bitcoin Miners Control Around 28% Of The Total Hashrate In a new post on X, Bloomberg Intelligence market analyst Jamie Coutts discussed how the...",
@@ -891,6 +921,16 @@
           "wordCount": 592,
           "title": "Is Bitcoin Network Sufficiently Decentralized? Here’s What The Data Says",
           "imageUrl": "https://bitcoinist.com/wp-content/uploads/2023/09/dmytro-demidko-gOHvUWwN-hE-unsplash.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/18933459/Bitcoin-Ethereum-Dogecoin-Rise-After-Congress-Grills-SEC-Chair-Analyst-Sees-Up-Season-Only-After-Apex-Crypto-Drops-To-This-Level",
+          "author": null,
+          "description": "Major cryptocurrencies experienced an uptick on Wednesday evening following a statement from the U.S. Securities and Exchange Commission Chair Gary Gensler. read more",
+          "link": "https://cryptopanic.com/news/18933459/Bitcoin-Ethereum-Dogecoin-Rise-After-Congress-Grills-SEC-Chair-Analyst-Sees-Up-Season-Only-After-Apex-Crypto-Drops-To-This-Level",
+          "publishedOn": "2023-09-28T02:56:50.000Z",
+          "wordCount": 603,
+          "title": "Bitcoin, Ethereum, Dogecoin Rise After Congress Grills SEC Chair: Analyst Sees 'Up Season' Only After Apex Crypto Drops To This Level",
+          "imageUrl": "https://cdn.benzinga.com/files/images/story/2023/Bitcoin_7.jpeg?width=1200&height=800&fit=crop"
         },
         {
           "id": "https://cryptopanic.com/news/18933418/Why-Makers-RWA-portfolio-boost-could-distract-traders-from-MKRs-state",
@@ -905,22 +945,22 @@
         {
           "id": "https://cryptopanic.com/news/18933420/Ethereum-futures-ETFs-could-start-trading-next-week-Bloomberg-analyst",
           "author": null,
-          "description": "An impending U.S. government shutdown may be accelerating the launch of Ethereum futures ETFs, analysts suggest.",
+          "description": "",
           "link": "https://cryptopanic.com/news/18933420/Ethereum-futures-ETFs-could-start-trading-next-week-Bloomberg-analyst",
           "publishedOn": "2023-09-28T02:27:13.000Z",
-          "wordCount": 593,
+          "wordCount": null,
           "title": "Ethereum futures ETFs could start trading next week — Bloomberg analyst",
-          "imageUrl": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-09/3da8d626-6149-48d7-a77f-0195a81e20c3.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/18933421/Curve-Founder-Pays-Down-Debts-On-Aave-v2",
           "author": null,
-          "description": "Curve’s founder still owes $42.7M to four lending protocols",
+          "description": "",
           "link": "https://cryptopanic.com/news/18933421/Curve-Founder-Pays-Down-Debts-On-Aave-v2",
           "publishedOn": "2023-09-28T02:21:02.000Z",
-          "wordCount": 590,
+          "wordCount": null,
           "title": "Curve Founder Pays Down Debts On Aave v2",
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/74eb882c290f20e7847531c13575dbab9d8ee4c9-880x495.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/18933413/Bitcoin-Ether-edge-up-Wall-Street-on-edge-amid-government-shutdown-fears",
@@ -945,22 +985,22 @@
         {
           "id": "https://cryptopanic.com/news/18933383/Arbitrum-Reboots-Odyssey-Campaign-As-Rival-Layer-2s-Gain-Ground",
           "author": null,
-          "description": "Arbitrum Is The Leading Ethereum Layer 2 By TVL But Lags behind zkSync Era, Starknet and Base By Transaction Throughput",
+          "description": "",
           "link": "https://cryptopanic.com/news/18933383/Arbitrum-Reboots-Odyssey-Campaign-As-Rival-Layer-2s-Gain-Ground",
           "publishedOn": "2023-09-28T01:47:08.000Z",
-          "wordCount": 592,
+          "wordCount": null,
           "title": "Arbitrum Reboots Odyssey Campaign As Rival Layer 2s Gain Ground",
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/43c8f54c2e6ebb33790324dfe73f402a078b210d-880x495.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/18933367/The-Law-Must-Evolve-To-Make-CBDCs-Possible-Says-BIS-Chief",
           "author": null,
-          "description": "“It is simply unacceptable that unclear or outdated legal frameworks could hinder [CBDC] deployment,” said BIS General Manager Agustín Carstens.",
+          "description": "",
           "link": "https://cryptopanic.com/news/18933367/The-Law-Must-Evolve-To-Make-CBDCs-Possible-Says-BIS-Chief",
           "publishedOn": "2023-09-28T01:20:23.000Z",
-          "wordCount": 593,
+          "wordCount": null,
           "title": "The Law Must Evolve To Make CBDCs Possible, Says BIS Chief",
-          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/10/bank-international-settlments-digital-currency-bis-gID_7.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/18933363/Yes-the-CIA-Is-Building-an-AI-Chatbot",
@@ -1005,22 +1045,22 @@
         {
           "id": "https://cryptopanic.com/news/18933338/Do-Kwon-says-SECs-extradition-request-is-impossible",
           "author": null,
-          "description": "The Terraform Labs co-founder has pushed back against the SEC’s request to question him in the United States.",
+          "description": "",
           "link": "https://cryptopanic.com/news/18933338/Do-Kwon-says-SECs-extradition-request-is-impossible",
           "publishedOn": "2023-09-28T00:54:04.000Z",
-          "wordCount": 590,
+          "wordCount": null,
           "title": "Do Kwon says SEC's extradition request is impossible",
-          "imageUrl": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-09/d95eb1e9-12f3-4772-9365-d09f3e74b8cc.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/18933337/Meta-Quest-3-Everything-You-Need-to-Know",
           "author": null,
-          "description": "",
+          "description": "Mixed reality at a fraction of the price of the Apple Vision Pro. Will it be worth it? Here’s the latest on the Meta Quest 3.",
           "link": "https://cryptopanic.com/news/18933337/Meta-Quest-3-Everything-You-Need-to-Know",
           "publishedOn": "2023-09-28T00:44:03.000Z",
-          "wordCount": null,
+          "wordCount": 590,
           "title": "Meta Quest 3: Everything You Need to Know",
-          "imageUrl": null
+          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2023/09/meta-quest-3-lead-gID_7.png"
         },
         {
           "id": "https://cryptopanic.com/news/18933334/Super-Early-Crypto-Millionaire-Opportunity-l-Unreleased-Altcoins",
@@ -1035,51 +1075,11 @@
         {
           "id": "https://cryptopanic.com/news/18933308/SEC-Unlikely-to-Approve-a-Bitcoin-ETF-Filing-This-Year-Analyst",
           "author": null,
-          "description": "",
+          "description": "The prospects of a Bitcoin Exchange-Trust Fund approval this year were slashed after it was revealed that the U.S. Securities and Exchange Commission may not approve such actions. Bloomberg analyst James Seffyat, in a post on X, said the recent actions of the regulators show that it doesn’t...",
           "link": "https://cryptopanic.com/news/18933308/SEC-Unlikely-to-Approve-a-Bitcoin-ETF-Filing-This-Year-Analyst",
           "publishedOn": "2023-09-28T00:11:00.000Z",
-          "wordCount": null,
-          "title": "SEC Unlikely to Approve a Bitcoin ETF Filing This Year: Analyst",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18933280/Crypto-Analyst-Predicts-Breakout-Rallies-for-Chainlink-Says-Macro-Shift-Happening-for-LINK-Heres-His-Target",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/18933280/Crypto-Analyst-Predicts-Breakout-Rallies-for-Chainlink-Says-Macro-Shift-Happening-for-LINK-Heres-His-Target",
-          "publishedOn": "2023-09-28T00:00:34.000Z",
-          "wordCount": null,
-          "title": "Crypto Analyst Predicts Breakout Rallies for Chainlink, Says Macro Shift Happening for LINK – Here’s His Target",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18933291/Federal-Reserve-Embraces-Tokenization-Exploring-The-Implications-Of-Their-Latest-Paper",
-          "author": null,
-          "description": "Researchers at the Federal Reserve have delved into the world of tokenizing real-world assets (RWAs) on blockchain technology. This exploration sheds light on the transformative power of tokenization, emphasizing its potential benefits and financial stability implications. Tokenization, as...",
-          "link": "https://cryptopanic.com/news/18933291/Federal-Reserve-Embraces-Tokenization-Exploring-The-Implications-Of-Their-Latest-Paper",
-          "publishedOn": "2023-09-28T00:00:23.000Z",
           "wordCount": 593,
-          "title": "Federal Reserve Embraces Tokenization? Exploring The Implications Of Their Latest Paper",
-          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2023/09/a-96.png"
-        },
-        {
-          "id": "https://cryptopanic.com/news/18933294/Crypto-Outflows-Continue-as-LTC-XRP-and-SOL-Buck-the-Trend",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/18933294/Crypto-Outflows-Continue-as-LTC-XRP-and-SOL-Buck-the-Trend",
-          "publishedOn": "2023-09-28T00:00:00.000Z",
-          "wordCount": null,
-          "title": "Crypto Outflows Continue as $LTC, $XRP, and $SOL Buck the Trend",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18933282/Chokepoint-Across-the-Pond-Chase-UK-Says-No-Crypto-Transactions",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/18933282/Chokepoint-Across-the-Pond-Chase-UK-Says-No-Crypto-Transactions",
-          "publishedOn": "2023-09-27T23:58:49.000Z",
-          "wordCount": null,
-          "title": "Chokepoint Across the Pond: Chase UK Says No Crypto Transactions",
+          "title": "SEC Unlikely to Approve a Bitcoin ETF Filing This Year: Analyst",
           "imageUrl": null
         }
       ]
@@ -1089,6 +1089,31 @@
       "feedUrl": "https://www.inoreader.com/stream/user/1005336866/tag/%E6%B5%B7%E5%A4%96%E5%8A%A0%E5%AF%86%E8%B5%84%E8%AE%AF",
       "siteUrl": "https://www.inoreader.com/stream/user/1005336866/tag/%E6%B5%B7%E5%A4%96%E5%8A%A0%E5%AF%86%E8%B5%84%E8%AE%AF/view/html",
       "articles": [
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e74b916b517",
+          "author": "Kevin Helms",
+          "description": "U.S. authorities are seeking to recover cryptocurrencies linked to the popular pig-butchering crypto scam. “Law enforcement was able to trace cryptocurrency involved in the fraud and money laundering to two Binance accounts, where it was seized,” the United States Attorney’s Office for the District of Massachusetts has revealed.\n \nUS Continues to Crack Down on Pig-Butchering Crypto Scam\n \nThe United States Attorney’s Office for the District of Massachusetts announced Tuesday that it has filed “a civil forfeiture action to recover cryptocurrency alleged to be the proceeds of a ‘pig-butchering’ fraud scheme targeting a Massachusetts resident and involved in money laundering.” The announcement details:\n \n\nSpecifically, the government seeks to forfeit 412,543.555 tether (USDT) and 100.896 Bina…",
+          "link": "https://news.bitcoin.com/us-authorities-seize-crypto-linked-to-pig-butchering-scam-held-at-binance/",
+          "publishedOn": "2023-09-28T04:06:39.000Z",
+          "wordCount": 230,
+          "title": "US Authorities Seize Crypto Linked to Pig-Butchering Scam Held at Binance",
+          "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2023/09/doj-pig-butchering.jpg"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e74b9107d08",
+          "author": "Hououin Kyouma",
+          "description": "Is the Bitcoin mining network decentralized enough? Or do the big miners control a significant part of it? Here’s what the latest data says.\n \nPublic Bitcoin Miners Control Around 28% Of The Total Hashrate\n \nIn a new post on X, Bloomberg Intelligence market analyst Jamie Coutts discussed how the mining industry has evolved. The first thing Coutts talked about is what the share of the global Bitcoin hashrate is looking like between private and public miners.\n \nThe “hashrate” here refers to the total computing power the miners have connected to the Bitcoin network. This metric can serve as a measure of the security of the blockchain, as more mining rigs being attached means a 51% hack is harder to perform.\n \nThe security also depends, however, on how decentralized the hashrate is. A large am…",
+          "link": "https://bitcoinist.com/bitcoin-network-decentralized-what-the-data-says/",
+          "publishedOn": "2023-09-28T03:49:08.000Z",
+          "wordCount": 5635,
+          "title": "Is Bitcoin Network Sufficiently Decentralized? Here’s What The Data Says",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/jpeg",
+            "url": "https://bitcoinist.com/wp-content/uploads/2023/09/dmytro-demidko-gOHvUWwN-hE-unsplash-630x420.jpg"
+          },
+          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2023/09/dmytro-demidko-gOHvUWwN-hE-unsplash-630x420.jpg"
+        },
         {
           "id": "http://www.inoreader.com/article/3a9c6e74b91e64c6",
           "author": "Ronaldo Marquez",
@@ -1150,7 +1175,7 @@
           "description": "Researchers at the Federal Reserve have delved into the world of tokenizing real-world assets (RWAs) on blockchain technology. This exploration sheds light on the transformative power of tokenization, emphasizing its potential benefits and financial stability implications.\n \nTokenization, as elucidated in the paper, is the process of creating digital avatars, known as crypto tokens, for non-crypto assets, often referred to as reference assets. This innovative approach intertwines the digital asset ecosystem with the traditional financial system, creating a complex web of connections. \n \nAs RWAs, including stocks, bonds, real estate, and commodities, undergo tokenization, they gain the ability to harness blockchain’s advantages.\n \n \nTokenization: Bridging The Gap Between Digital And Traditi…",
           "link": "https://bitcoinist.com/federal-reserve-embraces-tokenization/",
           "publishedOn": "2023-09-28T00:46:02.000Z",
-          "wordCount": 5497,
+          "wordCount": 5496,
           "title": "Federal Reserve Embraces Tokenization? Exploring The Implications Of Their Latest Paper",
           "enclosure": {
             "length": "1337",
@@ -1190,7 +1215,7 @@
           "description": "Pro-XRP lawyer John E. Deaton has criticized the United States Securities and Exchange Commission’s (SEC) latest decision on Coinbase’s connection with the bankrupt crypto lender Celsius.\n \nPro-XRP Lawyer Baffled By SEC’s Decision\n \nRecently, Coinbase presented a restructuring plan to the SEC in which investors from the bankrupt crypto firm Celsius could be reimbursed for their losses through the reimbursement plan but the SEC expressed its objection to the plan.\n \n \nThe regulator raised concerns about the restructuring plan as it believes that it would produce brokerage services to the crypto market. The SEC’s decision might be influenced by the lawsuit the regulator filed against Coinbase back in June 2023.\n \nPro-XRP lawyer John E. Deaton was one of the people who expressed shock at the …",
           "link": "https://bitcoinist.com/pro-xrp-lawyer-sec-decision/",
           "publishedOn": "2023-09-27T22:45:31.000Z",
-          "wordCount": 5518,
+          "wordCount": 5517,
           "title": "Pro-XRP Lawyer Criticizes SEC’s Latest Decision",
           "enclosure": {
             "length": "1337",
@@ -1205,7 +1230,7 @@
           "description": "U.S. Securities and Exchange Commission (SEC) Chair Gary Gensler continued his combative stance against crypto \"hucksters\" in congressional testimony on Wednesday, declining to answer the industry's most urgent questions while arguing that digital assets companies have been dangerously careless with customer assets.",
           "link": "https://www.coindesk.com/policy/2023/09/27/secs-gensler-throws-more-crypto-punches-in-congressional-hearing/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-09-27T22:32:32.000Z",
-          "wordCount": 8275,
+          "wordCount": 8277,
           "title": "SEC’s Gensler Throws More Crypto Punches in Congressional Hearing",
           "enclosure": {
             "length": "1337",
@@ -1270,7 +1295,7 @@
           "description": "The U.S. Department of Justice said in a Wednesday court filing that Sam Bankman-Fried's latest move for a temporary release – even with severe restrictions – should be denied.",
           "link": "https://www.coindesk.com/policy/2023/09/27/us-department-of-justice-opposes-sam-bankman-frieds-latest-move-for-temporary-release/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-09-27T20:54:05.000Z",
-          "wordCount": 7090,
+          "wordCount": 7078,
           "title": "U.S. Department of Justice Opposes Sam Bankman-Fried's Latest Move for 'Temporary Release'",
           "enclosure": {
             "length": "1337",
@@ -1300,7 +1325,7 @@
           "description": "Never mind the alleged fraud. The centerpiece of the FTX empire – the exchange – really wasn’t that good, traders say.",
           "link": "https://www.coindesk.com/consensus-magazine/2023/09/27/sam-bankman-frieds-biggest-grift-his-best-in-class-exchange/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-09-27T20:27:12.000Z",
-          "wordCount": 8565,
+          "wordCount": 8574,
           "title": "Sam Bankman-Fried’s Biggest Grift? His ‘Best In Class’ Exchange",
           "enclosure": {
             "length": "1337",
@@ -1315,7 +1340,7 @@
           "description": "SEC recently extended deadlines for ARK, GlobalX spot bitcoin ETFs.",
           "link": "https://www.coindesk.com/markets/2023/09/27/sec-begins-consideration-of-franklin-hashdex-crypto-etfs-delays-decision-on-vaneck-ark-ether-etfs/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-09-27T20:27:12.000Z",
-          "wordCount": 6640,
+          "wordCount": 6639,
           "title": "SEC Begins Consideration of Franklin, Hashdex Crypto ETFs, Delays Decision on VanEck, ARK Ether ETFs",
           "enclosure": {
             "length": "1337",
@@ -1330,7 +1355,7 @@
           "description": "The crypto club Jade Protocol could become the latest DAO to die.",
           "link": "https://www.coindesk.com/markets/2023/09/27/jade-protocol-faces-calls-to-liquidate-31m-token-treasury/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-09-27T20:16:19.000Z",
-          "wordCount": 7076,
+          "wordCount": 7085,
           "title": "Jade Protocol Faces Calls to Liquidate $31M Token Treasury",
           "enclosure": {
             "length": "1337",
@@ -1338,31 +1363,6 @@
             "url": "https://www.coindesk.com/resizer/PZ85wmK61OBOqTe3A2QFqRvQ8pQ=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/GNZ36EDSCJBSHACCLFPUOFTRR4.jpg"
           },
           "imageUrl": "https://www.coindesk.com/resizer/PZ85wmK61OBOqTe3A2QFqRvQ8pQ=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/GNZ36EDSCJBSHACCLFPUOFTRR4.jpg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e74bae53ca5",
-          "author": "Jamie Redman",
-          "description": "Ordinal inscriptions have quickly consumed Bitcoin’s available block space since their debut last year, a study by blockchain analytics firm Glassnode found. These text and image files act as “packing filler,” filling any remaining space in blocks after higher-value transactions are added, the study showed.\n \nBitcoin’s Block Space: Monetary Transfers Overpower Inscriptions\n \nThough there’s been a surge in Ordinal inscriptions in 2023, a Glassnode study found that financial transactions remain the priority on Bitcoin’s blockchain. Glassnode researchers emphasized that “there’s little evidence inscriptions are pushing out monetary transfers.”\n \n“Inscriptions appear to be buying and consuming the cheapest available blockspace, and are readily displaced by more urgent monetary transfers,” the …",
-          "link": "https://news.bitcoin.com/monetary-transfers-readily-displace-inscriptions-on-bitcoin-glassnode-reveals/",
-          "publishedOn": "2023-09-27T20:12:49.000Z",
-          "wordCount": 247,
-          "title": "Monetary Transfers Readily Displace Inscriptions on Bitcoin, Glassnode Reveals",
-          "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2023/09/btcblock.jpg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e74bae08dbb",
-          "author": "Tony &quot;The Bull&quot;",
-          "description": "Chainlink has traded over 500 days in a tight range between $5 and $9. While it might feel as though there is no end in sight to the sideways price action in LINK, a high time frame momentum change could finally send prices out of this range ands soaring higher. Here’s why.\n \nChainlink On The Cusp Of Momentum Change\n \nChainlink is in the top 20 cryptocurrencies by market cap and among the “blue chip” coins from previous crypto market cycles. It was a stand out during the last bull run, and was a rare altcoin that kept up its bullish momentum throughout 2018 and 2019 when other crypto assets were locked in a bear market.\n \n \nHigh time frame momentum in LINKUSD began to turn down in late 2020 long before it made a peak. Momentum indicators like the LMACD are considered lagging in nature beca…",
-          "link": "https://bitcoinist.com/chainlink-news-poised-to-skyrocket/",
-          "publishedOn": "2023-09-27T19:43:57.000Z",
-          "wordCount": 5550,
-          "title": "Chainlink Major Momentum Change Poised To Skyrocket Prices",
-          "enclosure": {
-            "length": "1337",
-            "type": "image/jpeg",
-            "url": "https://bitcoinist.com/wp-content/uploads/2023/09/shutterstock_2012645216-640x360.jpg"
-          },
-          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2023/09/shutterstock_2012645216-640x360.jpg"
         }
       ]
     }

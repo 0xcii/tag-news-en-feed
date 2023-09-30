@@ -641,7 +641,7 @@
           "description": "David Gogel of dYdX discusses how the decentralized exchange is building a custom blockchain to fully decentralize derivatives trading. He explained how the new dYdX chain will allow validators to run order books in memory, enabling decentralized order matching at scale. This shift aims to increase security and transparency for traders while maintaining the performance of centralized exchanges.",
           "link": "https://decrypt.co/videos/live-events/lfmwAjB9/decentralize-derivatives-trading-with-custom-blockchain",
           "publishedOn": "2023-09-26T10:37:37.000Z",
-          "wordCount": 6783,
+          "wordCount": 6434,
           "title": "Decentralize Derivatives Trading with Custom Blockchain",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/lfmwAjB9/poster.jpg",
@@ -656,7 +656,7 @@
           "description": "As India figures out its regulatory approach to the crypto industry, one thing is clear to Shardeum co-founder Nischal Shetty: “If you're a high-frequency trader, you can't afford to lose a percentage every time you sell,” he told Decrypt's Andre Beganski at Messari Mainnet in New York. “That's something that's caused a lot of issues.”",
           "link": "https://decrypt.co/videos/live-events/fxygwLvH/indias-1-crypto-tax-has-been-a-nightmare-for-high-frequency-traders-says-shardeum-ceo",
           "publishedOn": "2023-09-26T05:41:11.000Z",
-          "wordCount": 6816,
+          "wordCount": 6467,
           "title": "India's 1% Crypto Tax Has Been a Nightmare for High-Frequency Traders, Says Shardeum CEO",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/fxygwLvH/poster.jpg",
@@ -671,7 +671,7 @@
           "description": "Solana has improved network reliability through upgrades like Quick and local fee markets. It recently partnered with Visa to allow settling transactions in USDC on Solana. This could enable merchants to receive instant payments and save on credit card processing fees. Stacy Elliott spoke with Austin Federa, Head of Strategy for the Solana Foundation, at Messari Mainnet 2023.",
           "link": "https://decrypt.co/videos/live-events/MZoxvulr/newly-partnered-with-visa-solana-focuses-on-reliability",
           "publishedOn": "2023-09-26T05:41:11.000Z",
-          "wordCount": 6795,
+          "wordCount": 6446,
           "title": "Newly Partnered with Visa, Solana Focuses on Reliability",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/MZoxvulr/poster.jpg",
@@ -716,7 +716,7 @@
           "description": "Coinbase's Jesse Pollak, creator of layer-2 blockchain Base, says the launch of the network has exceeded expectations, even if plans changed along the way. He believes Arbitrum One will help bring billions onto blockchain by enabling seamless user experiences. Stacy Elliott interviewed him at Messari Mainnet 2023.",
           "link": "https://decrypt.co/videos/live-events/oZPr7bzY/base-as-a-bridge-not-an-island",
           "publishedOn": "2023-09-26T05:41:10.000Z",
-          "wordCount": 6385,
+          "wordCount": 6734,
           "title": "Base as a 'Bridge, Not an Island'",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/oZPr7bzY/poster.jpg",
@@ -741,21 +741,6 @@
           "imageUrl": "https://cdn.jwplayer.com/v2/media/xXOrNbX9/poster.jpg"
         },
         {
-          "id": "https://decrypt.co/videos/live-events/OvAFgxTd/building-a-developer-friendly-zkrollup-to-scale-ethereum",
-          "author": null,
-          "description": "Daniel Helm, head of Developer Relations at Scroll, discussess how they are building a zkRollup to scale Ethereum transactions and lower fees. He explained their focus on creating a seamless developer experience by maintaining Ethereum's ethos and tooling. Scroll aims to launch their mainnet soon, providing more scalable blockspace for Ethereum developers. Stacy Elliott of Decrypt interviewed him at Messari Mainnet 2023.",
-          "link": "https://decrypt.co/videos/live-events/OvAFgxTd/building-a-developer-friendly-zkrollup-to-scale-ethereum",
-          "publishedOn": "2023-09-26T05:41:10.000Z",
-          "wordCount": 6460,
-          "title": "Building a Developer-Friendly zkRollup to Scale Ethereum",
-          "enclosure": {
-            "url": "https://cdn.jwplayer.com/v2/media/OvAFgxTd/poster.jpg",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.jwplayer.com/v2/media/OvAFgxTd/poster.jpg"
-        },
-        {
           "id": "https://decrypt.co/videos/live-events/CrpvzFjL/regulation-threatens-us-dominance-of-financial-markets-says-coinroutes-ceo",
           "author": null,
           "description": "Dave Weisberger, Co-Founder and CEO of CoinRoutes, argued that excessive regulation in the U.S. threatens to undermine the country's long-standing dominance in global financial markets. He warned that other countries are embracing blockchain and crypto to build more efficient digital markets, which could cause the US to lose its competitive edge and trillions in GDP. Weisberger said CoinRoutes is now focusing more on expanding internationally due to restrictive policies in the U.S. He was interviewed by André Beganski of Decrypt at Messari Mainnet 2023.",
@@ -769,6 +754,21 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.jwplayer.com/v2/media/CrpvzFjL/poster.jpg"
+        },
+        {
+          "id": "https://decrypt.co/videos/live-events/OvAFgxTd/building-a-developer-friendly-zkrollup-to-scale-ethereum",
+          "author": null,
+          "description": "Daniel Helm, head of Developer Relations at Scroll, discussess how they are building a zkRollup to scale Ethereum transactions and lower fees. He explained their focus on creating a seamless developer experience by maintaining Ethereum's ethos and tooling. Scroll aims to launch their mainnet soon, providing more scalable blockspace for Ethereum developers. Stacy Elliott of Decrypt interviewed him at Messari Mainnet 2023.",
+          "link": "https://decrypt.co/videos/live-events/OvAFgxTd/building-a-developer-friendly-zkrollup-to-scale-ethereum",
+          "publishedOn": "2023-09-26T05:41:10.000Z",
+          "wordCount": 6460,
+          "title": "Building a Developer-Friendly zkRollup to Scale Ethereum",
+          "enclosure": {
+            "url": "https://cdn.jwplayer.com/v2/media/OvAFgxTd/poster.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.jwplayer.com/v2/media/OvAFgxTd/poster.jpg"
         },
         {
           "id": "https://decrypt.co/videos/live-events/axArPRp3/bitcoins-narrative-is-shifting-towards-layer-2-solutions",
@@ -851,7 +851,7 @@
           "description": "Amanda Tuminelli of the Defi Education Fund discusses the need for sensible crypto regulation. She says regulators should work with the industry to understand how protocols work before proposing expansive rules that could stifle innovation. Stacy Elliott of Decrypt interviewed her at Messari Mainnet 2023.",
           "link": "https://decrypt.co/videos/live-events/xD0CzPUF/defi-education-fund-advocates-for-responsible-crypto-regulation",
           "publishedOn": "2023-09-26T00:32:21.000Z",
-          "wordCount": 6730,
+          "wordCount": 6381,
           "title": "Defi Education Fund Advocates for Responsible Crypto Regulation",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/xD0CzPUF/poster.jpg",
@@ -883,12 +883,62 @@
       "siteUrl": "https://cryptopanic.com/",
       "articles": [
         {
+          "id": "https://cryptopanic.com/news/18939366/Vitalik-Buterin-contemplates-Ethereum-staking-changes-in-blog-post",
+          "author": null,
+          "description": "The centralization of Ethereum's liquid staking providers appears to be an area of concern for the Ethereum co-founder.",
+          "link": "https://cryptopanic.com/news/18939366/Vitalik-Buterin-contemplates-Ethereum-staking-changes-in-blog-post",
+          "publishedOn": "2023-09-30T16:06:01.000Z",
+          "wordCount": 591,
+          "title": "Vitalik Buterin contemplates Ethereum staking changes in blog post",
+          "imageUrl": "https://www.tbstat.com/wp/uploads/2020/05/20200511_Vitalik-Buterin-ETH-Ethereum-1200x675.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/18939364/FTX-Hacker-Moves-1675M-ETH-Is-a-Major-Sell-Off-Incoming",
+          "author": null,
+          "description": "The FTX hacker's recent Ethereum movements raise questions about their impending token dump.",
+          "link": "https://cryptopanic.com/news/18939364/FTX-Hacker-Moves-1675M-ETH-Is-a-Major-Sell-Off-Incoming",
+          "publishedOn": "2023-09-30T16:05:00.000Z",
+          "wordCount": 593,
+          "title": "FTX Hacker Moves $16.75M ETH: Is a Major Sell Off Incoming?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18939316/Bitcoin-Payment-Service-BTCPay-Server-Now-Easier-to-Integrate-with-React-Apps",
+          "author": null,
+          "description": "Ant (TimechainStats) and TC (Timechain Calendar) both pitched in together to make BTCPay Button integration into React applications as simple as drop in and go.",
+          "link": "https://cryptopanic.com/news/18939316/Bitcoin-Payment-Service-BTCPay-Server-Now-Easier-to-Integrate-with-React-Apps",
+          "publishedOn": "2023-09-30T15:30:00.000Z",
+          "wordCount": 594,
+          "title": "Bitcoin Payment Service BTCPay Server Now Easier to Integrate with React Apps",
+          "imageUrl": "http://bitcoinmagazine.com/.image/c_limit%2Ccs_srgb%2Cfl_progressive%2Ch_1200%2Cq_auto:good%2Cw_1200/MjAxMTY2MDE2MzI2MTQ5NjU0/image1.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/18939330/Ripple-CEOs-Rousing-Speech-at-The-Proper-Party-in-NYC-This-Village-Beat-the-Bully",
+          "author": null,
+          "description": "Last night, in front of a packed, jubilant crowd consisting of Ripple employees and members of the XRP Army, Ripple CEO Brad Garlinghouse gave a rousing speech in which he gave a special shoutout to several people who had provided invaluable help/support to Ripple, himself, and the XRP...",
+          "link": "https://cryptopanic.com/news/18939330/Ripple-CEOs-Rousing-Speech-at-The-Proper-Party-in-NYC-This-Village-Beat-the-Bully",
+          "publishedOn": "2023-09-30T15:26:02.000Z",
+          "wordCount": 597,
+          "title": "Ripple CEO’s Rousing Speech at ‘The Proper Party’ in NYC: ‘This Village Beat the Bully’",
+          "imageUrl": "https://media.cryptoglobe.com/2023/09/Brad-Garlinghouse-on-29-Sep-2023-768x380.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/18939303/What-Will-Happen-to-Bitcoin-Spot-ETFs-If-the-US-Government-Shuts-Down-NYDIG-Releases-Report",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/18939303/What-Will-Happen-to-Bitcoin-Spot-ETFs-If-the-US-Government-Shuts-Down-NYDIG-Releases-Report",
+          "publishedOn": "2023-09-30T15:10:07.000Z",
+          "wordCount": null,
+          "title": "What Will Happen to Bitcoin Spot ETFs If the US Government Shuts Down? NYDIG Releases Report",
+          "imageUrl": null
+        },
+        {
           "id": "https://cryptopanic.com/news/18939297/Garlinghouse-Baits-XRP-Community-Ahead-of-Celebratory-Event",
           "author": null,
-          "description": "Ripple's CEO, Brad Garlinghouse, recently revealed his unwavering commitment to XRP through an unexpected gesture.",
+          "description": "",
           "link": "https://cryptopanic.com/news/18939297/Garlinghouse-Baits-XRP-Community-Ahead-of-Celebratory-Event",
           "publishedOn": "2023-09-30T15:05:00.000Z",
-          "wordCount": 590,
+          "wordCount": null,
           "title": "Garlinghouse Baits XRP Community Ahead of Celebratory Event",
           "imageUrl": null
         },
@@ -903,6 +953,16 @@
           "imageUrl": "https://cryptoslate.com/wp-content/uploads/2023/09/ethereum-bitwise.jpg"
         },
         {
+          "id": "https://cryptopanic.com/news/18939300/Crypto-CEO-Very-Bullish-On-XRP-Price-Sets-Make-Or-Break-Point",
+          "author": null,
+          "description": "Following its victory against the US Securities and Exchange Commission, the XRP price has been displaying bullish sentiments, effectively gaining the attention of long-term investors seeking to buy and hold to gain more profits. In light of this, a crypto CEO has disclosed his insights on XRP’s...",
+          "link": "https://cryptopanic.com/news/18939300/Crypto-CEO-Very-Bullish-On-XRP-Price-Sets-Make-Or-Break-Point",
+          "publishedOn": "2023-09-30T15:00:56.000Z",
+          "wordCount": 594,
+          "title": "Crypto CEO Very Bullish On XRP Price, Sets Make Or Break Point",
+          "imageUrl": "https://www.newsbtc.com/wp-content/uploads/2023/09/a-17.jpg?fit=2506%2C1674"
+        },
+        {
           "id": "https://cryptopanic.com/news/18939294/XRP-Price-Predictions-The-Ultra-Bullish-To-The-Most-Bearish",
           "author": null,
           "description": "The future XRP price is one topic that has been keenly debated since Judge Analisa Torres’ ruling in favor of Ripple against the US Securities and Exchange Commission (SEC), with many crypto analysts chiming in on the token’s future trajectory. Some have stated that XRP could go as high as...",
@@ -915,12 +975,12 @@
         {
           "id": "https://cryptopanic.com/news/18939278/AI-forecasts-Dogecoin-price-for-the-end-of-2023",
           "author": null,
-          "description": "Despite the extended bear market, Dogecoin (DOGE) has been able to keep its position among the 10-largest cryptocurrencies by market … Continued",
+          "description": "",
           "link": "https://cryptopanic.com/news/18939278/AI-forecasts-Dogecoin-price-for-the-end-of-2023",
           "publishedOn": "2023-09-30T15:00:14.000Z",
-          "wordCount": 591,
+          "wordCount": null,
           "title": "AI forecasts Dogecoin price for the end of 2023",
-          "imageUrl": "https://finbold.com/app/uploads/2023/09/dogecoin-price.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/18939284/Chainlink-LINK-Displays-Interesting-Q3-Growth-Trends-See-What-Data-Says",
@@ -945,12 +1005,12 @@
         {
           "id": "https://cryptopanic.com/news/18939259/Bitcoin-Could-Benefit-if-an-Economic-Recession-Hits-Says-Fidelity-Investments-Macro-Analyst-Heres-Why",
           "author": null,
-          "description": "Fidelity Investments’ global macro director Jurrien Timmer says that a recession could spark a big rally for Bitcoin (BTC). Timmer tells his 167,000 followers on the social media platform X that current high-interest rates need to decline for Bitcoin to put up big gains. “What will keep driving...",
+          "description": "",
           "link": "https://cryptopanic.com/news/18939259/Bitcoin-Could-Benefit-if-an-Economic-Recession-Hits-Says-Fidelity-Investments-Macro-Analyst-Heres-Why",
           "publishedOn": "2023-09-30T14:30:36.000Z",
-          "wordCount": 598,
+          "wordCount": null,
           "title": "Bitcoin Could Benefit if an Economic Recession Hits, Says Fidelity Investments Macro Analyst – Here’s Why",
-          "imageUrl": "https://dailyhodl.com/wp-content/uploads/2023/09/Bitcoin-Could-Benefit-.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/18939252/Whats-behind-GMXs-rising-V2-traction",
@@ -965,12 +1025,12 @@
         {
           "id": "https://cryptopanic.com/news/18939255/Chainlink-Labs-Co-Founder-Sergey-Nazarov-Only-Bitcoin-Ethereum-and-Chainlink-Achieve-True-Decentralization",
           "author": null,
-          "description": "",
+          "description": "Sergey Nazarov, co-founder of Chainlink, has reignited the longstanding debate on decentralization within the crypto industry. According to Nazarov, the term “decentralization” is often misused to attract investment rather than to describe a network’s actual structure. During an interview with...",
           "link": "https://cryptopanic.com/news/18939255/Chainlink-Labs-Co-Founder-Sergey-Nazarov-Only-Bitcoin-Ethereum-and-Chainlink-Achieve-True-Decentralization",
           "publishedOn": "2023-09-30T14:29:29.000Z",
-          "wordCount": null,
+          "wordCount": 595,
           "title": "Chainlink Labs Co-Founder Sergey Nazarov: Only Bitcoin, Ethereum, and Chainlink Achieve True Decentralization",
-          "imageUrl": null
+          "imageUrl": "https://media.cryptoglobe.com/2020/05/sergey_nazarov-768x391.png"
         },
         {
           "id": "https://cryptopanic.com/news/18939238/How-Ethereum-Can-Appeal-to-Institutional-Investors-Fidelity",
@@ -985,12 +1045,12 @@
         {
           "id": "https://cryptopanic.com/news/18939242/Shiba-Inus-Shibarium-Approaches-Major-Achievement-Details",
           "author": null,
-          "description": "",
+          "description": "SHIB Army, brace yourself as Shibarium about to hit major milestone as early as next week",
           "link": "https://cryptopanic.com/news/18939242/Shiba-Inus-Shibarium-Approaches-Major-Achievement-Details",
           "publishedOn": "2023-09-30T14:26:00.000Z",
-          "wordCount": null,
+          "wordCount": 589,
           "title": "Shiba Inu's Shibarium Approaches Major Achievement: Details",
-          "imageUrl": null
+          "imageUrl": "https://u.today/sites/default/files/styles/twitter/public/2023-09/40646.jpg"
         },
         {
           "id": "https://cryptopanic.com/news/18939248/415-Million-FTX-Hacker-Moves-ETH-Exploited-From-The-Exchange",
@@ -1021,66 +1081,6 @@
           "wordCount": null,
           "title": "Blockchain Expert Explains Why He Holds XRP",
           "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18939234/Watch-THIS-If-You-Use-Stablecoins",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/18939234/Watch-THIS-If-You-Use-Stablecoins",
-          "publishedOn": "2023-09-30T14:00:24.000Z",
-          "wordCount": null,
-          "title": "Watch THIS If You Use Stablecoins!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18939195/Ethereum-Future-ETFs-VanEck-to-Donate-10-Profit-to-Protocol-Guild-for-10-Years",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/18939195/Ethereum-Future-ETFs-VanEck-to-Donate-10-Profit-to-Protocol-Guild-for-10-Years",
-          "publishedOn": "2023-09-30T13:45:00.000Z",
-          "wordCount": null,
-          "title": "Ethereum Future ETFs: VanEck to Donate 10% Profit to Protocol Guild for 10 Years",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18939183/Unusual-Activity-Spike-in-Trading-Volumes-of-5-Altcoins-on-South-Korean-Exchanges",
-          "author": null,
-          "description": "There were unusual increases in the transaction volumes of some altcoins on Upbit, South Korea's largest cryptocurrency exchange. Continue Reading: Unusual Activity Spike in Trading Volumes of 5 Altcoins on South Korean Exchanges",
-          "link": "https://cryptopanic.com/news/18939183/Unusual-Activity-Spike-in-Trading-Volumes-of-5-Altcoins-on-South-Korean-Exchanges",
-          "publishedOn": "2023-09-30T13:34:05.000Z",
-          "wordCount": 595,
-          "title": "Unusual Activity Spike in Trading Volumes of 5 Altcoins on South Korean Exchanges",
-          "imageUrl": "https://www.bitcoinsistemi.com/wp-content/uploads/2023/04/guney-kore.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/18939167/US-dollar-lost-995-of-its-value-against-Bitcoin-in-the-last-10-years",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/18939167/US-dollar-lost-995-of-its-value-against-Bitcoin-in-the-last-10-years",
-          "publishedOn": "2023-09-30T13:27:58.000Z",
-          "wordCount": null,
-          "title": "U.S. dollar lost 99.5% of its value against Bitcoin in the last 10 years",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18939128/Biggest-Video-Games-Releasing-in-October-2023",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/18939128/Biggest-Video-Games-Releasing-in-October-2023",
-          "publishedOn": "2023-09-30T13:01:02.000Z",
-          "wordCount": null,
-          "title": "Biggest Video Games Releasing in October 2023",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18939127/AI-tech-boom-Is-the-artificial-intelligence-market-already-saturated",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/18939127/AI-tech-boom-Is-the-artificial-intelligence-market-already-saturated",
-          "publishedOn": "2023-09-30T13:01:00.000Z",
-          "wordCount": null,
-          "title": "AI tech boom: Is the artificial intelligence market already saturated?",
-          "imageUrl": null
         }
       ]
     },
@@ -1089,6 +1089,31 @@
       "feedUrl": "https://www.inoreader.com/stream/user/1005336866/tag/%E6%B5%B7%E5%A4%96%E5%8A%A0%E5%AF%86%E8%B5%84%E8%AE%AF",
       "siteUrl": "https://www.inoreader.com/stream/user/1005336866/tag/%E6%B5%B7%E5%A4%96%E5%8A%A0%E5%AF%86%E8%B5%84%E8%AE%AF/view/html",
       "articles": [
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e74b8b0247b",
+          "author": "Jamie Redman",
+          "description": "Per onchain evidence, the culprit dubbed the “FTX drainer” shifted 5,000 ethereum valued at approximately $8 million, gauged by today’s exchange rates. This marked the first movement of the funds in nearly a year, with the malefactor channeling the ether into the decentralized finance (defi) platforms Railgun and Thorchain Router.\n \n‘FTX Drainer’ Diverts $8M in Ethereum\n \nShortly after the downfall of FTX, the exchange fell victim to a cyber intrusion on November 11, 2022, parting with a substantial amount of ethereum (ETH) and ERC20 tokens. Following a handful of transfers post-hack, the funds lay dormant for almost a year.\n \nHowever, on the dawn of September 29, 2023, the malefactor opted to relocate 2,500 ether, and merely three hours ensuing, an additional 2,500 ETH was shifted from th…",
+          "link": "https://news.bitcoin.com/ftx-drainer-resurfaces-moves-8m-eth-to-defi-platforms/",
+          "publishedOn": "2023-09-30T16:06:06.000Z",
+          "wordCount": 244,
+          "title": "‘FTX Drainer’ Resurfaces: Moves $8M ETH to Defi Platforms",
+          "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2023/09/jkkkkhhggg.jpg"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e74b8b1c88a",
+          "author": "Scott Matherson",
+          "description": "The future XRP price is one topic that has been keenly debated since Judge Analisa Torres’ ruling in favor of Ripple against the US Securities and Exchange Commission (SEC), with many crypto analysts chiming in on the token’s future trajectory. \n \nSome have stated that XRP could go as high as $10,000, while others have taken a more conservative approach, setting the token’s price at around $25. Meanwhile, others have presented a bearish outlook before XRP can actualize any upward trend. \n \nThe Most Bullish XRP Price Predictions\n \nA particular crypto analyst (Bitforcoinz) stated that each XRP could cost $10,000. His assertion stems from the belief that Ripple could disrupt the global financial structure and take a huge chunk of the market share once that happens. It is believed that XRP’s m…",
+          "link": "https://bitcoinist.com/xrp-price-prediction-bullish-bearish/",
+          "publishedOn": "2023-09-30T15:50:42.000Z",
+          "wordCount": 5636,
+          "title": "XRP Price Predictions: The Ultra Bullish To The Most Bearish",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/jpeg",
+            "url": "https://bitcoinist.com/wp-content/uploads/2023/09/XRP-price-prediction-1-640x360.jpeg"
+          },
+          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2023/09/XRP-price-prediction-1-640x360.jpeg"
+        },
         {
           "id": "http://www.inoreader.com/article/3a9c6e74b8a456c4",
           "author": "Eliman Dambell",
@@ -1170,7 +1195,7 @@
           "description": "FTX was hacked in November 2022, hours after the global crypto empire declared bankruptcy and its founder Sam Bankman-Fried stepped down from running the company.",
           "link": "https://www.coindesk.com/tech/2023/09/30/millions-in-ether-tied-to-ftx-account-drainer-on-the-move/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-09-30T10:18:10.000Z",
-          "wordCount": 7070,
+          "wordCount": 7080,
           "title": "Millions in Ether Tied to FTX Account Drainer on The Move",
           "enclosure": {
             "length": "1337",
@@ -1255,7 +1280,7 @@
           "description": "Sam Bankman-Fried's attorneys objected to some of the U.S. Department of Justice's proposed voir dire questions in a late Friday filing, saying they may miss potential juror bias or otherwise lead to jurors making assumptions about the case.",
           "link": "https://www.coindesk.com/policy/2023/09/30/dojs-proposed-jury-questions-risks-tainting-bankman-frieds-panel-defense-says/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-09-30T03:13:46.000Z",
-          "wordCount": 7681,
+          "wordCount": 7669,
           "title": "DOJ's Proposed Jury Questions 'Risks Tainting' Bankman-Fried's Panel, Defense Says",
           "enclosure": {
             "length": "1337",
@@ -1313,31 +1338,6 @@
             "url": "https://bitcoinist.com/wp-content/uploads/2023/09/COMP-price-bull-630x420.webp"
           },
           "imageUrl": "https://bitcoinist.com/wp-content/uploads/2023/09/COMP-price-bull-630x420.webp"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e74b854209c",
-          "author": "Ronaldo Marquez",
-          "description": "In a significant move targeting the crypto industry, the US Commodity Futures Trading Commission (CFTC) has filed a civil enforcement action against Mosaic Exchange Limited, a Pennsylvania limited liability company, and its owner and Chief Executive Officer, Sean Michael.\n \nThe complaint alleges that the defendants operated a fraudulent digital asset commodity scheme, deceiving investors and misappropriating customer funds.\n \nAlleged Fraudulent Crypto Scheme\n \nAccording to the complaint, the defendants fraudulently solicited and induced 17 individuals from the United States and other countries to invest hundreds of thousands of dollars’ worth of Bitcoin (BTC) and other funds. \n \nThese funds were supposed to be traded on behalf of the customers in Bitcoin and other crypto assets. However, t…",
-          "link": "https://bitcoinist.com/crypto-scam-cftc-lawsuit-against-mosaic-exchange/",
-          "publishedOn": "2023-09-29T22:48:02.000Z",
-          "wordCount": 5624,
-          "title": "Crypto Scam Alert: CFTC Launches Lawsuit Against Mosaic Exchange",
-          "enclosure": {
-            "length": "1337",
-            "type": "image/jpeg",
-            "url": "https://bitcoinist.com/wp-content/uploads/2023/09/shutterstock_download-8.jpg"
-          },
-          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2023/09/shutterstock_download-8.jpg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e74b8577f17",
-          "author": "Jamie Redman",
-          "description": "Numerous reports foretell an imminent U.S. government shutdown, given the anticipated failure of a spending bill to secure passage by Saturday evening — a measure meant to sustain operations till mid-November. On the cusp of this shutdown, bitcoin (BTC) has been on an ascent, catching the eye of many. Coinshares analyst Luke Nolan notes a buoyant sentiment among some traders, who view the government’s looming closure with a favorable lens.\n \nBitcoin Rides the Wave of Uncertainty as U.S. Braces for Government Shutdown\n \n\n \nThe U.S. government could shut down this weekend if Democrats and Republican policymakers can’t come to an agreement on spending. Currently, there’s a bill on the table that aims to extend the government’s pay until mid-November, but a number of Republicans and Kevin McCa…",
-          "link": "https://news.bitcoin.com/bitcoin-traders-eye-bullish-silver-lining-in-looming-us-government-shutdown-says-analyst/",
-          "publishedOn": "2023-09-29T22:12:21.000Z",
-          "wordCount": 265,
-          "title": "Bitcoin Traders Eye Bullish Silver Lining in Looming US Government Shutdown, Says Analyst",
-          "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2023/09/shutdown.jpg"
         }
       ]
     }

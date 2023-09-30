@@ -86,7 +86,7 @@
           "description": "Timmu Tõke, co-founder and CEO of Ready Player Me, joins Decrypt contributor Ryan Gladwin to discuss the startup's approach to powering avatars that are interoperable across games and metaverse platforms—and what's needed to convince the industry to adopt standards and open up.",
           "link": "https://decrypt.co/videos/interviews/TH3KEAI0/there-are-no-real-standards-ready-player-me-ceo-timmu-tke-on-building-for-an-open-gaming-ecosystem",
           "publishedOn": "2023-09-29T17:29:40.000Z",
-          "wordCount": 6780,
+          "wordCount": 6424,
           "title": "'There Are No Real Standards': Ready Player Me CEO Timmu Tõke on Building for an Open Gaming Ecosystem",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/TH3KEAI0/poster.jpg",
@@ -651,21 +651,6 @@
           "imageUrl": "https://cdn.jwplayer.com/v2/media/lfmwAjB9/poster.jpg"
         },
         {
-          "id": "https://decrypt.co/videos/live-events/fxygwLvH/indias-1-crypto-tax-has-been-a-nightmare-for-high-frequency-traders-says-shardeum-ceo",
-          "author": null,
-          "description": "As India figures out its regulatory approach to the crypto industry, one thing is clear to Shardeum co-founder Nischal Shetty: “If you're a high-frequency trader, you can't afford to lose a percentage every time you sell,” he told Decrypt's Andre Beganski at Messari Mainnet in New York. “That's something that's caused a lot of issues.”",
-          "link": "https://decrypt.co/videos/live-events/fxygwLvH/indias-1-crypto-tax-has-been-a-nightmare-for-high-frequency-traders-says-shardeum-ceo",
-          "publishedOn": "2023-09-26T05:41:11.000Z",
-          "wordCount": 6816,
-          "title": "India's 1% Crypto Tax Has Been a Nightmare for High-Frequency Traders, Says Shardeum CEO",
-          "enclosure": {
-            "url": "https://cdn.jwplayer.com/v2/media/fxygwLvH/poster.jpg",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.jwplayer.com/v2/media/fxygwLvH/poster.jpg"
-        },
-        {
           "id": "https://decrypt.co/videos/live-events/MZoxvulr/newly-partnered-with-visa-solana-focuses-on-reliability",
           "author": null,
           "description": "Solana has improved network reliability through upgrades like Quick and local fee markets. It recently partnered with Visa to allow settling transactions in USDC on Solana. This could enable merchants to receive instant payments and save on credit card processing fees. Stacy Elliott spoke with Austin Federa, Head of Strategy for the Solana Foundation, at Messari Mainnet 2023.",
@@ -679,6 +664,21 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.jwplayer.com/v2/media/MZoxvulr/poster.jpg"
+        },
+        {
+          "id": "https://decrypt.co/videos/live-events/fxygwLvH/indias-1-crypto-tax-has-been-a-nightmare-for-high-frequency-traders-says-shardeum-ceo",
+          "author": null,
+          "description": "As India figures out its regulatory approach to the crypto industry, one thing is clear to Shardeum co-founder Nischal Shetty: “If you're a high-frequency trader, you can't afford to lose a percentage every time you sell,” he told Decrypt's Andre Beganski at Messari Mainnet in New York. “That's something that's caused a lot of issues.”",
+          "link": "https://decrypt.co/videos/live-events/fxygwLvH/indias-1-crypto-tax-has-been-a-nightmare-for-high-frequency-traders-says-shardeum-ceo",
+          "publishedOn": "2023-09-26T05:41:11.000Z",
+          "wordCount": 6467,
+          "title": "India's 1% Crypto Tax Has Been a Nightmare for High-Frequency Traders, Says Shardeum CEO",
+          "enclosure": {
+            "url": "https://cdn.jwplayer.com/v2/media/fxygwLvH/poster.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.jwplayer.com/v2/media/fxygwLvH/poster.jpg"
         },
         {
           "id": "https://decrypt.co/videos/live-events/0Sezz6pZ/crypto-accounting-challenges-and-opportunities",
@@ -716,7 +716,7 @@
           "description": "Coinbase's Jesse Pollak, creator of layer-2 blockchain Base, says the launch of the network has exceeded expectations, even if plans changed along the way. He believes Arbitrum One will help bring billions onto blockchain by enabling seamless user experiences. Stacy Elliott interviewed him at Messari Mainnet 2023.",
           "link": "https://decrypt.co/videos/live-events/oZPr7bzY/base-as-a-bridge-not-an-island",
           "publishedOn": "2023-09-26T05:41:10.000Z",
-          "wordCount": 6734,
+          "wordCount": 6385,
           "title": "Base as a 'Bridge, Not an Island'",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/oZPr7bzY/poster.jpg",
@@ -731,7 +731,7 @@
           "description": "Paul Brody drives Ernst & Young (EY) initiatives and investments in blockchain technology across consulting, audit, and tax business lines. He says enterprise blockchain adoption is nearing an inflection point. Brody believes blockchains will one day handle 40 billion transactions daily across industries like automotive and pharma. Stacy Elliott interviewed him at Messari Mainnet 2023.",
           "link": "https://decrypt.co/videos/live-events/xXOrNbX9/explosive-growth-ahead-for-enterprise-blockchain",
           "publishedOn": "2023-09-26T05:41:10.000Z",
-          "wordCount": 6419,
+          "wordCount": 6768,
           "title": "Explosive Growth Ahead for Enterprise Blockchain",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/xXOrNbX9/poster.jpg",
@@ -883,6 +883,96 @@
       "siteUrl": "https://cryptopanic.com/",
       "articles": [
         {
+          "id": "https://cryptopanic.com/news/18938906/Shiba-Inu-SHIB-Burn-Rate-Shows-Triple-Digit-Growth",
+          "author": null,
+          "description": "Shiba Inu's burn rate surges as more investors tuning to track asset's movement",
+          "link": "https://cryptopanic.com/news/18938906/Shiba-Inu-SHIB-Burn-Rate-Shows-Triple-Digit-Growth",
+          "publishedOn": "2023-09-30T10:02:00.000Z",
+          "wordCount": 590,
+          "title": "Shiba Inu (SHIB) Burn Rate Shows Triple-Digit Growth",
+          "imageUrl": "https://u.today/sites/default/files/styles/twitter/public/2023-09/40648.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/18938865/Binance-Vs-SEC-Paradigm-Files-An-Amicus-Brief-Accuses-SEC-Of-Regulatory-Overreach",
+          "author": null,
+          "description": "Crypto research firm Paradigm has filed an amicus brief in the ongoing court case between the US Securities and Exchange Commission (SEC) and Binance, its US affiliate – Binance.US – and the exchange’s global CEO Changpeng “CZ” Chao. Back in June, the US top securities watchdog launched a...",
+          "link": "https://cryptopanic.com/news/18938865/Binance-Vs-SEC-Paradigm-Files-An-Amicus-Brief-Accuses-SEC-Of-Regulatory-Overreach",
+          "publishedOn": "2023-09-30T09:39:25.000Z",
+          "wordCount": 595,
+          "title": "Binance Vs. SEC: Paradigm Files An Amicus Brief, Accuses SEC Of Regulatory Overreach",
+          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2023/09/Judge-bench-courtroom-Nevada.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/18938864/More-firms-file-for-Ethereum-spot-ETFs-amidst-increased-interest",
+          "author": null,
+          "description": "Invesco and Galaxy Digital apply for spot Ethereum ETFs, adding to the growing list of investment firms seeking regulatory clearance.",
+          "link": "https://cryptopanic.com/news/18938864/More-firms-file-for-Ethereum-spot-ETFs-amidst-increased-interest",
+          "publishedOn": "2023-09-30T09:30:22.000Z",
+          "wordCount": 592,
+          "title": "More firms file for Ethereum spot ETFs amidst increased interest",
+          "imageUrl": "https://statics.ambcrypto.com/wp-content/uploads/2023/09/ambcrypto_Ethereum_ETF_8184923b-fb35-4beb-a8e6-09c504261b83_1200x900.png"
+        },
+        {
+          "id": "https://cryptopanic.com/news/18938894/This-News-Is-MAJOR-For-Cryptocurrency-Adoption-And-Price-Movements",
+          "author": null,
+          "description": "In what could officially be one of the weirdest news stories we've gotten on this channel, it looks like Ripple has changed around one of their famous investment products and most of the public doesnt know what to do with the information. It looks like a world power might soon become a mega...",
+          "link": "https://cryptopanic.com/news/18938894/This-News-Is-MAJOR-For-Cryptocurrency-Adoption-And-Price-Movements",
+          "publishedOn": "2023-09-30T09:30:13.000Z",
+          "wordCount": 592,
+          "title": "This News Is MAJOR For Cryptocurrency Adoption And Price Movements",
+          "imageUrl": "https://i1.ytimg.com/vi/tfD91AhVfdc/hqdefault.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/18938850/FTX-drainer-moves-millions-in-ether-for-first-time-in-nearly-a-year",
+          "author": null,
+          "description": "Roughly 2,500 ether connected to the apparent exploit of FTX during last year's debacle is on the move for the first time in nearly one year.",
+          "link": "https://cryptopanic.com/news/18938850/FTX-drainer-moves-millions-in-ether-for-first-time-in-nearly-a-year",
+          "publishedOn": "2023-09-30T09:17:14.000Z",
+          "wordCount": 595,
+          "title": "FTX drainer moves millions in ether for first time in nearly a year",
+          "imageUrl": "https://www.tbstat.com/wp/uploads/2023/04/20230411_Hack_Generic_4-1200x675.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/18938851/Coinbase-CEO-Brian-Armstrong-Says-the-US-Needs-Crypto-Regulatory-Clarity-To-Maintain-the-Dollar-Based-Soft-Power",
+          "author": null,
+          "description": "Coinbase CEO Brian Armstrong says that it is “really imperative” for the US to have a regulatory framework for crypto assets. Armstrong says in a new CNBC interview that the US is an exception among other major economies with regard to achieving regulatory clarity for crypto. According to the...",
+          "link": "https://cryptopanic.com/news/18938851/Coinbase-CEO-Brian-Armstrong-Says-the-US-Needs-Crypto-Regulatory-Clarity-To-Maintain-the-Dollar-Based-Soft-Power",
+          "publishedOn": "2023-09-30T09:15:51.000Z",
+          "wordCount": 599,
+          "title": "Coinbase CEO Brian Armstrong Says the US Needs Crypto Regulatory Clarity To Maintain the Dollar-Based Soft Power",
+          "imageUrl": "https://dailyhodl.com/wp-content/uploads/2023/09/US-Needs-Crypto-Regulatory.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/18938859/Idris-Elba-Partners-with-Stellar-Development-Foundation-Amidst-Cryptos-Troubled-Waters",
+          "author": null,
+          "description": "British actor and filmmaker Idris Elba has reportedly been observing the crypto landscape closely. Idris Elba is a British actor, filmmaker, and musician, widely recognized for his versatile roles in both television and film. Born on 6 September 1972 in London, England, Elba gained international...",
+          "link": "https://cryptopanic.com/news/18938859/Idris-Elba-Partners-with-Stellar-Development-Foundation-Amidst-Cryptos-Troubled-Waters",
+          "publishedOn": "2023-09-30T09:14:25.000Z",
+          "wordCount": 593,
+          "title": "Idris Elba Partners with Stellar Development Foundation Amidst Crypto’s Troubled Waters",
+          "imageUrl": "https://media.cryptoglobe.com/2023/09/Idris-Elba-and-SDF-in-2023-768x448.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/18938836/Tron-TVL-Balloons-To-Over-15-Billion-DeFi-Growth-Evident",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/18938836/Tron-TVL-Balloons-To-Over-15-Billion-DeFi-Growth-Evident",
+          "publishedOn": "2023-09-30T09:10:11.000Z",
+          "wordCount": null,
+          "title": "Tron TVL Balloons To Over $15 Billion: DeFi Growth Evident?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18938839/Giant-Investment-Company-Paradigm-Files-Amicus-Brief-in-Favor-of-Binance-in-SEC-Binance-Case",
+          "author": null,
+          "description": "Paradigm attorneys intervened in the Binance v. SEC case and filed an amicus brief in favor of Binance. Continue Reading: Giant Investment Company Paradigm Files Amicus Brief in Favor of Binance in SEC-Binance Case",
+          "link": "https://cryptopanic.com/news/18938839/Giant-Investment-Company-Paradigm-Files-Amicus-Brief-in-Favor-of-Binance-in-SEC-Binance-Case",
+          "publishedOn": "2023-09-30T09:08:05.000Z",
+          "wordCount": 596,
+          "title": "Giant Investment Company Paradigm Files Amicus Brief in Favor of Binance in SEC-Binance Case",
+          "imageUrl": "https://en.bitcoinsistemi.com/wp-content/uploads/2019/11/bitcoinsistemi-logo.png"
+        },
+        {
           "id": "https://cryptopanic.com/news/18938820/Back-from-the-dead-Can-FTX-stage-a-comeback",
           "author": null,
           "description": "The prospect of FTX's return to the competitive exchange landscape is being keenly watched by stakeholders, reflecting on its meteoric rise, groundbreaking approach, and tumultuous fall.",
@@ -895,22 +985,22 @@
         {
           "id": "https://cryptopanic.com/news/18938831/US-Dollar-DXY-Reaches-One-Year-Peak-but-Michael-Saylor-Sees-Bitcoin-BTC-as-Lifeline",
           "author": null,
-          "description": "The US Dollar Index (DXY) has reached its highest level in almost a year. Contrary to the widely held bearish view of the dollar, this marks a strong shift, which is now entering a phase of potential consolidation. If the US Dollar confirms the start of a new uptrend, this could have major...",
+          "description": "",
           "link": "https://cryptopanic.com/news/18938831/US-Dollar-DXY-Reaches-One-Year-Peak-but-Michael-Saylor-Sees-Bitcoin-BTC-as-Lifeline",
           "publishedOn": "2023-09-30T08:46:48.000Z",
-          "wordCount": 596,
+          "wordCount": null,
           "title": "US Dollar (DXY) Reaches One-Year Peak, but Michael Saylor Sees Bitcoin (BTC) as ‘Lifeline’",
-          "imageUrl": "https://s32659.pcdn.co/wp-content/uploads/2023/01/BIC_DXY_bullish.png.webp"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/18938800/VanEck-to-donate-10-of-Ethereum-Strategy-ETF-profits-to-core-protocol-contributors",
           "author": null,
-          "description": "",
+          "description": "VanEck intends to donate 10% of its Ethereum Strategy exchange-traded fund to The Protocol Guild for at least 10 years.",
           "link": "https://cryptopanic.com/news/18938800/VanEck-to-donate-10-of-Ethereum-Strategy-ETF-profits-to-core-protocol-contributors",
           "publishedOn": "2023-09-30T08:35:44.000Z",
-          "wordCount": null,
+          "wordCount": 595,
           "title": "VanEck to donate 10% of Ethereum Strategy ETF profits to core protocol contributors",
-          "imageUrl": null
+          "imageUrl": "https://www.tbstat.com/wp/uploads/2023/08/20230602_EthereumUpgrade_News-1200x675.jpg"
         },
         {
           "id": "https://cryptopanic.com/news/18938796/Aptos-DEX-volumes-surge-678-following-fake-token-incident",
@@ -925,12 +1015,12 @@
         {
           "id": "https://cryptopanic.com/news/18938801/Crypto-Daily-Roundup-30-Sep-Signs-of-crypto-market-recovery",
           "author": null,
-          "description": "Cryptos with the Top Trending in the past 24 hoursTOP 5 Trending Coins Indices LTP Change (%) Bitcoin $26938 0.09% Contentos $0.004518 0.20% Pepe $0.0000007846 2.98% Chainlink $8.07 3.92% Terra Classic $0.00006254 1.30% Crypto News Key Highlights:In 2024, Cosmos aims to enhance modularity,...",
+          "description": "",
           "link": "https://cryptopanic.com/news/18938801/Crypto-Daily-Roundup-30-Sep-Signs-of-crypto-market-recovery",
           "publishedOn": "2023-09-30T08:30:00.000Z",
-          "wordCount": 592,
+          "wordCount": null,
           "title": "Crypto Daily Roundup, 30 Sep: Signs of crypto market recovery",
-          "imageUrl": "https://d3iuzwoiyg9qa8.cloudfront.net/webadmin/storage/public/crypto-news/thumbnail/cHSjKil8IybtWY2Ol6jfQfokKfnqs08gWQbHA3yH.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/18938799/Ripple-on-How-Businesses-Can-Unlock-Growth-with-Crypto-Enabled-Payments",
@@ -945,32 +1035,32 @@
         {
           "id": "https://cryptopanic.com/news/18938782/Bitcoin-BTC-Wobbly-at-27K-Chainlink-LINK-Charts-2-Month-Peak-Above-8-Weekend-Watch",
           "author": null,
-          "description": "",
+          "description": "LINK is among the few altcoins in the green today, alongisde XRP and LEO.",
           "link": "https://cryptopanic.com/news/18938782/Bitcoin-BTC-Wobbly-at-27K-Chainlink-LINK-Charts-2-Month-Peak-Above-8-Weekend-Watch",
           "publishedOn": "2023-09-30T08:11:12.000Z",
-          "wordCount": null,
+          "wordCount": 596,
           "title": "Bitcoin (BTC) Wobbly at $27K, Chainlink (LINK) Charts 2-Month Peak Above $8: Weekend Watch",
-          "imageUrl": null
+          "imageUrl": "https://cryptopotato.com/wp-content/uploads/2023/09/Chainlink_Bitcoin_MW.jpg"
         },
         {
           "id": "https://cryptopanic.com/news/18938756/VanEck-To-Support-Ethereum-Development-With-10-of-Ether-ETF-Profits",
           "author": null,
-          "description": "VanEck pledges funding to the Ethereum Protocol Guild for 10 years",
+          "description": "",
           "link": "https://cryptopanic.com/news/18938756/VanEck-To-Support-Ethereum-Development-With-10-of-Ether-ETF-Profits",
           "publishedOn": "2023-09-30T07:51:09.000Z",
-          "wordCount": 593,
+          "wordCount": null,
           "title": "VanEck To Support Ethereum Development With 10% of Ether ETF Profits",
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/7964798fb0cdeb98b8520cda172811c34a2eba61-880x495.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/18938751/JPEX-Scam-Hong-Kong-Cops-Nab-4-More-People-Linked-To-Crypto-Exchange",
           "author": null,
-          "description": "On Friday, officials in Hong Kong and Macao said that they had arrested four more people with ties to the cryptocurrency exchange JPEX, which is accused of bilking over 2,400 users out of about $200 million. The overall number of detentions has now reached 18 after these arrests, which the...",
+          "description": "",
           "link": "https://cryptopanic.com/news/18938751/JPEX-Scam-Hong-Kong-Cops-Nab-4-More-People-Linked-To-Crypto-Exchange",
           "publishedOn": "2023-09-30T07:51:04.000Z",
-          "wordCount": 595,
+          "wordCount": null,
           "title": "JPEX Scam: Hong Kong Cops Nab 4 More People Linked To Crypto Exchange",
-          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2023/09/a-24.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/18938745/Uppercent-to-Feature-in-XRP-Gold-Coast-Conference-in-March-2024",
@@ -985,101 +1075,11 @@
         {
           "id": "https://cryptopanic.com/news/18938737/Which-Chain-is-Most-Preferred-in-the-US-and-Europe-BNB-or-Ethereum-Here-are-the-Regional-Preferences",
           "author": null,
-          "description": "A cryptocurrency infrastructure provider company conducted an in-depth study of regional validators' chain preferences. Continue Reading: Which Chain is Most Preferred in the US and Europe: BNB or Ethereum? Here are the Regional Preferences",
+          "description": "",
           "link": "https://cryptopanic.com/news/18938737/Which-Chain-is-Most-Preferred-in-the-US-and-Europe-BNB-or-Ethereum-Here-are-the-Regional-Preferences",
           "publishedOn": "2023-09-30T07:36:05.000Z",
-          "wordCount": 600,
+          "wordCount": null,
           "title": "Which Chain is Most Preferred in the US and Europe: BNB or Ethereum? Here are the Regional Preferences",
-          "imageUrl": "https://www.bitcoinsistemi.com/wp-content/uploads/2023/05/bnb-eth.png"
-        },
-        {
-          "id": "https://cryptopanic.com/news/18938742/Millions-in-Ether-Tied-to-FTX-Account-Drainer-on-The-Move",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/18938742/Millions-in-Ether-Tied-to-FTX-Account-Drainer-on-The-Move",
-          "publishedOn": "2023-09-30T07:35:24.000Z",
-          "wordCount": null,
-          "title": "Millions in Ether Tied to FTX Account Drainer on The Move",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18938721/Analyst-Michael-van-de-Poppe-Says-Top-50-Altcoin-Thats-Exploded-Nearly-800-Year-to-Date-Ready-for-a-New-Leg-Up",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/18938721/Analyst-Michael-van-de-Poppe-Says-Top-50-Altcoin-Thats-Exploded-Nearly-800-Year-to-Date-Ready-for-a-New-Leg-Up",
-          "publishedOn": "2023-09-30T07:04:50.000Z",
-          "wordCount": null,
-          "title": "Analyst Michaël van de Poppe Says Top-50 Altcoin That’s Exploded Nearly 800% Year-to-Date Ready for a ‘New Leg Up’",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18938717/Former-Obama-Staffer-Lauren-Belive-Joins-Ripple-to-Navigate-US-Regulatory-Waters",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/18938717/Former-Obama-Staffer-Lauren-Belive-Joins-Ripple-to-Navigate-US-Regulatory-Waters",
-          "publishedOn": "2023-09-30T06:58:23.000Z",
-          "wordCount": null,
-          "title": "Former Obama Staffer Lauren Belive Joins Ripple to Navigate U.S. Regulatory Waters",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18938704/Paradigm-accuses-SEC-of-bypassing-rules-in-Binance-lawsuit",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/18938704/Paradigm-accuses-SEC-of-bypassing-rules-in-Binance-lawsuit",
-          "publishedOn": "2023-09-30T06:41:13.000Z",
-          "wordCount": null,
-          "title": "Paradigm accuses SEC of bypassing rules in Binance lawsuit",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18938698/MATIC-may-take-a-while-to-respond-to-this-Polygon-news-Heres-why",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/18938698/MATIC-may-take-a-while-to-respond-to-this-Polygon-news-Heres-why",
-          "publishedOn": "2023-09-30T06:30:41.000Z",
-          "wordCount": null,
-          "title": "MATIC may take a while to respond to this Polygon news. Here’s why…",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18938679/Peter-Schiff-Every-Day-Were-Getting-Closer-to-a-Major-Stock-Market-Crash-or-a-Financial-Crisis-or-Both",
-          "author": null,
-          "description": "In a recent episode of “The Peter Schiff Show,” Peter Schiff, the CEO of Euro Pacific Capital and a long-time critic of Bitcoin, issued a stark warning about the current economic landscape. Schiff also holds multiple positions in different financial services firms, such as Euro Pacific Asset...",
-          "link": "https://cryptopanic.com/news/18938679/Peter-Schiff-Every-Day-Were-Getting-Closer-to-a-Major-Stock-Market-Crash-or-a-Financial-Crisis-or-Both",
-          "publishedOn": "2023-09-30T06:15:37.000Z",
-          "wordCount": 601,
-          "title": "Peter Schiff: “Every Day, We’re Getting Closer to a Major Stock Market Crash, or a Financial Crisis, or Both”",
-          "imageUrl": "https://media.cryptoglobe.com/2020/05/peter_schiff_at_noic_2018-768x360.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/18938683/Trading-on-Ethereum-ETH-analysis-on-the-effectiveness-of-a-strategy-with-Bollinger-bands",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/18938683/Trading-on-Ethereum-ETH-analysis-on-the-effectiveness-of-a-strategy-with-Bollinger-bands",
-          "publishedOn": "2023-09-30T06:00:00.000Z",
-          "wordCount": null,
-          "title": "Trading on Ethereum (ETH): analysis on the effectiveness of a strategy with Bollinger bands",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18938682/David-Schwartz-Ripple-Central-banks-are-more-conservative-than-the-Catholic-Church",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/18938682/David-Schwartz-Ripple-Central-banks-are-more-conservative-than-the-Catholic-Church",
-          "publishedOn": "2023-09-30T06:00:00.000Z",
-          "wordCount": null,
-          "title": "David Schwartz, Ripple: “Central banks are more conservative than the Catholic Church”",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18938681/Texas-leads-the-way-in-Bitcoin-mining",
-          "author": null,
-          "description": "Alone it is the third largest state in the world by hashrate, surpassed only by China and Kazakhstan",
-          "link": "https://cryptopanic.com/news/18938681/Texas-leads-the-way-in-Bitcoin-mining",
-          "publishedOn": "2023-09-30T06:00:00.000Z",
-          "wordCount": 589,
-          "title": "Texas leads the way in Bitcoin mining",
           "imageUrl": null
         }
       ]
@@ -1089,6 +1089,21 @@
       "feedUrl": "https://www.inoreader.com/stream/user/1005336866/tag/%E6%B5%B7%E5%A4%96%E5%8A%A0%E5%AF%86%E8%B5%84%E8%AE%AF",
       "siteUrl": "https://www.inoreader.com/stream/user/1005336866/tag/%E6%B5%B7%E5%A4%96%E5%8A%A0%E5%AF%86%E8%B5%84%E8%AE%AF/view/html",
       "articles": [
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e74b89d1894",
+          "author": "Semilore Faleti",
+          "description": "Crypto research firm Paradigm has filed an amicus brief in the ongoing court case between the US Securities and Exchange Commission (SEC) and Binance, its US affiliate – Binance.US – and the exchange’s global CEO Changpeng “CZ” Chao.\n \nBack in June, the US top securities watchdog launched a lawsuit against the defendants, accusing them of operating unlicensed exchanges, broker-dealers, and clearing agencies among 13 charges.\n \nIn a statement released on September 29, Paradigm, who claims to have zero interest or investment in the defendants, has taken a stance against the SEC, accusing the commission of governmental overreach.\n \n \nSEC Wants To Change The Law, Paradigm Says\n \nAccording to Paradigm, the SEC is attempting to bypass the rulemaking process and rewrite the law, utilizing the “di…",
+          "link": "https://bitcoinist.com/paradigm-amicus-accuses-sec-of-regulatory-overreach/",
+          "publishedOn": "2023-09-30T09:54:16.000Z",
+          "wordCount": 5523,
+          "title": "Binance Vs. SEC: Paradigm Files An Amicus Brief, Accuses SEC Of Regulatory Overreach",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/jpeg",
+            "url": "https://bitcoinist.com/wp-content/uploads/2023/09/Judge-bench-courtroom-Nevada-564x420.jpg"
+          },
+          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2023/09/Judge-bench-courtroom-Nevada-564x420.jpg"
+        },
         {
           "id": "http://www.inoreader.com/article/3a9c6e74b899ed79",
           "author": "Sergio Goschenko",
@@ -1105,7 +1120,7 @@
           "description": "On Friday, officials in Hong Kong and Macao said that they had arrested four more people with ties to the cryptocurrency exchange JPEX, which is accused of bilking over 2,400 users out of about $200 million.\n \nThe overall number of detentions has now reached 18 after these arrests, which the authorities have described as involving those “relatively close” to the core of the issue.\n \n \nPolice in Hong Kong announced the arrest of two individuals on Friday, one of whom had been using paper shredders and laundry bleach to destroy papers.\n \nInquiry Into JPEX Operations\n \nThe most recent police investigation resulted in the seizure of cash and gold totaling approximately $9 million Hong Kong dollars ($1.15 million) from three separate apartments.\n \nFollowing increased regulatory monitoring of JP…",
           "link": "https://bitcoinist.com/jpex-scam-hong-kong-cops-nab-4-more/",
           "publishedOn": "2023-09-30T07:55:30.000Z",
-          "wordCount": 5537,
+          "wordCount": 5535,
           "title": "JPEX Scam: Hong Kong Cops Nab 4 More People Linked To Crypto Exchange",
           "enclosure": {
             "length": "1337",
@@ -1150,7 +1165,7 @@
           "description": "Sam Bankman-Fried's attorneys objected to some of the U.S. Department of Justice's proposed voir dire questions in a late Friday filing, saying they may miss potential juror bias or otherwise lead to jurors making assumptions about the case.",
           "link": "https://www.coindesk.com/policy/2023/09/30/dojs-proposed-jury-questions-risks-tainting-bankman-frieds-panel-defense-says/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-09-30T03:13:46.000Z",
-          "wordCount": 7705,
+          "wordCount": 7688,
           "title": "DOJ's Proposed Jury Questions 'Risks Tainting' Bankman-Fried's Panel, Defense Says",
           "enclosure": {
             "length": "1337",
@@ -1175,7 +1190,7 @@
           "description": "GMX, a decentralized exchange, awarded Collider Research a $1 million bug bounty in 2022. This payout was in recognition of their discovery of a critical bug in GMX’s smart contracts that directly affected how the protocol tracks outstanding debt.\n \nThe Bug Affecting GMX And GLP\n \nGMX has not provided more information on how the bug was patched and when. However, the DEX operator said the bug negatively impacted GMX v1 liquidity providers (LPs) as the code led to inaccuracies in quotes related to “the fair value of tokens.” Specifically, the bug affected the Global Liquidity Pool (GLP), causing it to deviate from its fair value. \n \nSince GMX supports up to 50X leverage, a system tracks debt borrowed by traders and how it is repaid. It is smart contract-driven, and the trader enters into de…",
           "link": "https://bitcoinist.com/gmx-paid-a-hefty-prize-because-of-this-flaw/",
           "publishedOn": "2023-09-30T00:50:13.000Z",
-          "wordCount": 5481,
+          "wordCount": 5479,
           "title": "GMX Paid A Hefty Prize Because Of This Flaw",
           "enclosure": {
             "length": "1337",
@@ -1200,7 +1215,7 @@
           "description": "This week has seen the COMP price put on one of the most impressive rallies amid the bear market. The price recovery has seen the digital asset gain more than 22% over a 7-day period, cementing its position as a top gainer. But even with such an already significant gain, one analyst believes that the rally is far from over.\n \nCOMP Price Chart Shows Promise\n \nIn the analysis that presents one of the most bullish scenarios so far for the COMP price, a pseudonymous analyst who goes by MyCryptoParadise on TradingView has put forward that the altcoin could still rise another 50% from here.\n \n \nThe chart shared by the analyst points to a double bottom that was marked between August and September. At the end of this double bottom lies incredible promise for the COMP price, making a rise to $66 po…",
           "link": "https://bitcoinist.com/crypto-analyst-comp-price-66/",
           "publishedOn": "2023-09-29T23:49:13.000Z",
-          "wordCount": 5455,
+          "wordCount": 5453,
           "title": "Crypto Analyst Says COMP Price Will Reach $66 If This Happens",
           "enclosure": {
             "length": "1337",
@@ -1215,7 +1230,7 @@
           "description": "In a significant move targeting the crypto industry, the US Commodity Futures Trading Commission (CFTC) has filed a civil enforcement action against Mosaic Exchange Limited, a Pennsylvania limited liability company, and its owner and Chief Executive Officer, Sean Michael.\n \nThe complaint alleges that the defendants operated a fraudulent digital asset commodity scheme, deceiving investors and misappropriating customer funds.\n \nAlleged Fraudulent Crypto Scheme\n \nAccording to the complaint, the defendants fraudulently solicited and induced 17 individuals from the United States and other countries to invest hundreds of thousands of dollars’ worth of Bitcoin (BTC) and other funds. \n \nThese funds were supposed to be traded on behalf of the customers in Bitcoin and other crypto assets. However, t…",
           "link": "https://bitcoinist.com/crypto-scam-cftc-lawsuit-against-mosaic-exchange/",
           "publishedOn": "2023-09-29T22:48:02.000Z",
-          "wordCount": 5631,
+          "wordCount": 5629,
           "title": "Crypto Scam Alert: CFTC Launches Lawsuit Against Mosaic Exchange",
           "enclosure": {
             "length": "1337",
@@ -1240,7 +1255,7 @@
           "description": "The Bitcoin price has been gaining momentum and steadily rising back to a more bullish price position of $30,000. Despite market downturns, long-term holders of the cryptocurrency are increasing their investments in hopes of a significant bull run. s the holder metric hits a new all-time high.\n \nBitcoin Price Rises As Holder Metric Peaks\n \nBitcoin’s price has been consolidating for a while now, pushing past the $27,000 threshold and being traded presently at $27,047. The cryptocurrency is slowly moving towardsthe $30,000 mark, defying bearish expectations.  \n \n \nCo-founder of Reflexivity Research, Will Clemente revealed a chart report illustrated by Glassnode, a blockchain data and intelligence platform, in an X (formerly Twitter) post on Thursday.\n \nThe chart revealed metrics of Bitcoin l…",
           "link": "https://bitcoinist.com/bitcoin-price-30000-all-time-high/",
           "publishedOn": "2023-09-29T21:48:21.000Z",
-          "wordCount": 5537,
+          "wordCount": 5535,
           "title": "Bitcoin Price Sets Sights On $30,000 As Holder Metric Hits New All-Time High",
           "enclosure": {
             "length": "1337",
@@ -1255,7 +1270,7 @@
           "description": "The beleaguered lender’s restructuring plan may soon be finalized, pending a bankruptcy judge’s approval, BlockFi said in a notice to creditors.",
           "link": "https://www.coindesk.com/policy/2023/09/29/blockfi-says-its-taken-major-step-toward-emerging-from-bankruptcy/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-09-29T21:01:17.000Z",
-          "wordCount": 6703,
+          "wordCount": 6682,
           "title": "BlockFi Says It's Taken Major Step Toward Emerging From Bankruptcy",
           "enclosure": {
             "length": "1337",
@@ -1270,7 +1285,7 @@
           "description": "If appetite for staking on Ethereum does not slow meaningfully over the next several months, the size of Ethereum’s validator set could become problematic for the blockchain, says Christine Kim, Vice President of Research at Galaxy Digital.",
           "link": "https://www.coindesk.com/consensus-magazine/2023/09/29/the-most-pressing-issue-on-ethereum-is-validator-size-growth/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-09-29T21:01:17.000Z",
-          "wordCount": 9308,
+          "wordCount": 9300,
           "title": "The Most Pressing Issue on Ethereum is Validator Size Growth",
           "enclosure": {
             "length": "1337",
@@ -1285,7 +1300,7 @@
           "description": "The last time BTC posted a positive return during September was in 2016.",
           "link": "https://www.coindesk.com/markets/2023/09/29/bitcoins-slips-below-27k-but-what-might-government-shutdown-mean-for-prices/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-09-29T20:49:39.000Z",
-          "wordCount": 7852,
+          "wordCount": 7835,
           "title": "Bitcoin’s Slips Below $27K, But What Might Government Shutdown Mean for Prices",
           "enclosure": {
             "length": "1337",
@@ -1300,7 +1315,7 @@
           "description": "Earlier this week, JPMorgan Chase UK, a standalone digital banking entity in the UK since 2021, delivered surprising news. They announced that their customers would no longer have the option to purchase crypto using Chase UK debit cards or via bank transfers. \n \nWhile such decisions aren’t entirely unprecedented, the rationale provided by the bank, concerns explicitly about rising digital currency-related frauds, raised eyebrows, especially within the community.\n \nBrian Armstrong, the CEO of Coinbase, one of the largest digital currency exchanges in the world, didn’t mince his words when expressing his displeasure. \n \nDuring an interview with CNBC’s “Squawk Box” on Thursday, the CEO criticized the decision, emphasizing that private entities should not be in the business of “sidelining” an …",
           "link": "https://bitcoinist.com/crypto-collision-coinbases-ceo-challenges-chase-uk/",
           "publishedOn": "2023-09-29T20:48:01.000Z",
-          "wordCount": 5656,
+          "wordCount": 5654,
           "title": "Crypto Collision: Coinbase’s CEO Brian Armstrong Challenges Chase UK’s Sudden Ban",
           "enclosure": {
             "length": "1337",
@@ -1325,7 +1340,7 @@
           "description": "Bitcoin traders and enthusiasts have been eagerly anticipating the next significant move in the cryptocurrency market, with memories of the 2019 fakeout rally still fresh in their minds. \n \nHowever, one prominent BTC trader, known as Dave the Wave on the social media platform X, is offering a reassuring perspective. According to Dave, the conditions that led to the 2019 fakeout rally are unlikely to repeat themselves in the current market cycle.\n \nThe 2019 fakeout rally left many Bitcoin investors disappointed. It was characterized by a sudden breakout that sent BTC prices soaring, only to see them crash back down just as rapidly.\n \n \nThis roller-coaster ride was attributed to Bitcoin spending only a short time in the “buy zone” before experiencing the wild price swings.\n \n \nThose that hav…",
           "link": "https://bitcoinist.com/bitcoin-metrics-point-to-a-different-scenario/",
           "publishedOn": "2023-09-29T19:48:06.000Z",
-          "wordCount": 5600,
+          "wordCount": 5598,
           "title": "Bitcoin Long-Term Metrics Point To A Different Scenario Than 2019 Fakeout: Top Analyst",
           "enclosure": {
             "length": "1337",
@@ -1333,21 +1348,6 @@
             "url": "https://bitcoinist.com/wp-content/uploads/2023/09/iStock-1365854254-630x420.jpg"
           },
           "imageUrl": "https://bitcoinist.com/wp-content/uploads/2023/09/iStock-1365854254-630x420.jpg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e74b847c1bb",
-          "author": "Jamie Crawley",
-          "description": "Gemini said it is taking the step \"due to requirements imposed by the De Nederlandsche Bank (DNB),\"",
-          "link": "https://www.coindesk.com/policy/2023/09/29/gemini-to-cease-offering-crypto-services-in-netherlands-in-november/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-          "publishedOn": "2023-09-29T19:35:00.000Z",
-          "wordCount": 6441,
-          "title": "Gemini to Cease Offering Crypto Services in Netherlands in November",
-          "enclosure": {
-            "length": "1337",
-            "type": "image/jpeg",
-            "url": "https://www.coindesk.com/resizer/rmwNlkdOz3lA-nPPtPg-JOPo8Kc=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/3OUG2MHMRFFKRHZ54CZES7PDXQ.jpg"
-          },
-          "imageUrl": "https://www.coindesk.com/resizer/rmwNlkdOz3lA-nPPtPg-JOPo8Kc=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/3OUG2MHMRFFKRHZ54CZES7PDXQ.jpg"
         }
       ]
     }

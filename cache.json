@@ -671,7 +671,7 @@
           "description": "David Gogel of dYdX discusses how the decentralized exchange is building a custom blockchain to fully decentralize derivatives trading. He explained how the new dYdX chain will allow validators to run order books in memory, enabling decentralized order matching at scale. This shift aims to increase security and transparency for traders while maintaining the performance of centralized exchanges.",
           "link": "https://decrypt.co/videos/live-events/lfmwAjB9/decentralize-derivatives-trading-with-custom-blockchain",
           "publishedOn": "2023-09-26T10:37:37.000Z",
-          "wordCount": 6434,
+          "wordCount": 6783,
           "title": "Decentralize Derivatives Trading with Custom Blockchain",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/lfmwAjB9/poster.jpg",
@@ -701,7 +701,7 @@
           "description": "Solana has improved network reliability through upgrades like Quick and local fee markets. It recently partnered with Visa to allow settling transactions in USDC on Solana. This could enable merchants to receive instant payments and save on credit card processing fees. Stacy Elliott spoke with Austin Federa, Head of Strategy for the Solana Foundation, at Messari Mainnet 2023.",
           "link": "https://decrypt.co/videos/live-events/MZoxvulr/newly-partnered-with-visa-solana-focuses-on-reliability",
           "publishedOn": "2023-09-26T05:41:11.000Z",
-          "wordCount": 6446,
+          "wordCount": 6795,
           "title": "Newly Partnered with Visa, Solana Focuses on Reliability",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/MZoxvulr/poster.jpg",
@@ -771,21 +771,6 @@
           "imageUrl": "https://cdn.jwplayer.com/v2/media/xXOrNbX9/poster.jpg"
         },
         {
-          "id": "https://decrypt.co/videos/live-events/CrpvzFjL/regulation-threatens-us-dominance-of-financial-markets-says-coinroutes-ceo",
-          "author": null,
-          "description": "Dave Weisberger, Co-Founder and CEO of CoinRoutes, argued that excessive regulation in the U.S. threatens to undermine the country's long-standing dominance in global financial markets. He warned that other countries are embracing blockchain and crypto to build more efficient digital markets, which could cause the US to lose its competitive edge and trillions in GDP. Weisberger said CoinRoutes is now focusing more on expanding internationally due to restrictive policies in the U.S. He was interviewed by André Beganski of Decrypt at Messari Mainnet 2023.",
-          "link": "https://decrypt.co/videos/live-events/CrpvzFjL/regulation-threatens-us-dominance-of-financial-markets-says-coinroutes-ceo",
-          "publishedOn": "2023-09-26T05:41:10.000Z",
-          "wordCount": 6588,
-          "title": "Regulation Threatens U.S. Dominance of Financial Markets, Says CoinRoutes CEO",
-          "enclosure": {
-            "url": "https://cdn.jwplayer.com/v2/media/CrpvzFjL/poster.jpg",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.jwplayer.com/v2/media/CrpvzFjL/poster.jpg"
-        },
-        {
           "id": "https://decrypt.co/videos/live-events/OvAFgxTd/building-a-developer-friendly-zkrollup-to-scale-ethereum",
           "author": null,
           "description": "Daniel Helm, head of Developer Relations at Scroll, discussess how they are building a zkRollup to scale Ethereum transactions and lower fees. He explained their focus on creating a seamless developer experience by maintaining Ethereum's ethos and tooling. Scroll aims to launch their mainnet soon, providing more scalable blockspace for Ethereum developers. Stacy Elliott of Decrypt interviewed him at Messari Mainnet 2023.",
@@ -799,6 +784,21 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.jwplayer.com/v2/media/OvAFgxTd/poster.jpg"
+        },
+        {
+          "id": "https://decrypt.co/videos/live-events/CrpvzFjL/regulation-threatens-us-dominance-of-financial-markets-says-coinroutes-ceo",
+          "author": null,
+          "description": "Dave Weisberger, Co-Founder and CEO of CoinRoutes, argued that excessive regulation in the U.S. threatens to undermine the country's long-standing dominance in global financial markets. He warned that other countries are embracing blockchain and crypto to build more efficient digital markets, which could cause the US to lose its competitive edge and trillions in GDP. Weisberger said CoinRoutes is now focusing more on expanding internationally due to restrictive policies in the U.S. He was interviewed by André Beganski of Decrypt at Messari Mainnet 2023.",
+          "link": "https://decrypt.co/videos/live-events/CrpvzFjL/regulation-threatens-us-dominance-of-financial-markets-says-coinroutes-ceo",
+          "publishedOn": "2023-09-26T05:41:10.000Z",
+          "wordCount": 6588,
+          "title": "Regulation Threatens U.S. Dominance of Financial Markets, Says CoinRoutes CEO",
+          "enclosure": {
+            "url": "https://cdn.jwplayer.com/v2/media/CrpvzFjL/poster.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.jwplayer.com/v2/media/CrpvzFjL/poster.jpg"
         },
         {
           "id": "https://decrypt.co/videos/live-events/axArPRp3/bitcoins-narrative-is-shifting-towards-layer-2-solutions",
@@ -881,7 +881,7 @@
           "description": "Amanda Tuminelli of the Defi Education Fund discusses the need for sensible crypto regulation. She says regulators should work with the industry to understand how protocols work before proposing expansive rules that could stifle innovation. Stacy Elliott of Decrypt interviewed her at Messari Mainnet 2023.",
           "link": "https://decrypt.co/videos/live-events/xD0CzPUF/defi-education-fund-advocates-for-responsible-crypto-regulation",
           "publishedOn": "2023-09-26T00:32:21.000Z",
-          "wordCount": 6381,
+          "wordCount": 6730,
           "title": "Defi Education Fund Advocates for Responsible Crypto Regulation",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/xD0CzPUF/poster.jpg",
@@ -912,6 +912,86 @@
       "feedUrl": "https://cryptopanic.com/news/rss/",
       "siteUrl": "https://cryptopanic.com/",
       "articles": [
+        {
+          "id": "https://cryptopanic.com/news/18940185/DWF-Labs-Seemed-to-Buy-100-PEPE-and-2-JASMY-But-Whats-the-Reality-CEO-Explained",
+          "author": null,
+          "description": "Interestingly, according to onchain data, very low amounts of memecoin were withdrawn from Binance to DWF Labs wallets. Continue Reading: DWF Labs Seemed to Buy $100 PEPE and $2 JASMY: But What’s the Reality? CEO Explained",
+          "link": "https://cryptopanic.com/news/18940185/DWF-Labs-Seemed-to-Buy-100-PEPE-and-2-JASMY-But-Whats-the-Reality-CEO-Explained",
+          "publishedOn": "2023-10-01T12:18:06.000Z",
+          "wordCount": 598,
+          "title": "DWF Labs Seemed to Buy $100 PEPE and $2 JASMY: But What’s the Reality? CEO Explained",
+          "imageUrl": "https://www.bitcoinsistemi.com/wp-content/uploads/2023/08/dwf-labs.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/18940162/Ethereums-10B-Revenue-Milestone-Reignites-Hot-Centralization-Debate",
+          "author": null,
+          "description": "In a recent tweet, Martin Hiesboeck, the Head of Research at the Uphold exchange, expressed skepticism about Ethereum’s claim of being a “decentralized blockchain.” He stated that Ethereum’s rapid growth is not indicative of true decentralization. According to Hiesboeck, Ethereum is not...",
+          "link": "https://cryptopanic.com/news/18940162/Ethereums-10B-Revenue-Milestone-Reignites-Hot-Centralization-Debate",
+          "publishedOn": "2023-10-01T12:04:00.000Z",
+          "wordCount": 590,
+          "title": "Ethereum’s $10B Revenue Milestone Reignites Hot Centralization Debate",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18940161/Sam-Bankman-Frieds-trial-is-about-to-start-Will-it-help-crypto-finally-move-on",
+          "author": null,
+          "description": "With SBF's trial about to start, The Block had a few questions we assume you might share. We did our best to answer them.",
+          "link": "https://cryptopanic.com/news/18940161/Sam-Bankman-Frieds-trial-is-about-to-start-Will-it-help-crypto-finally-move-on",
+          "publishedOn": "2023-10-01T12:01:05.000Z",
+          "wordCount": 596,
+          "title": "Sam Bankman-Fried’s trial is about to start. Will it help crypto finally move on?",
+          "imageUrl": "https://www.tbstat.com/wp/uploads/2023/09/20230922_SBF_News2-1200x675.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/18940181/Here-Is-When-I-Will-Sell-All-My-Crypto",
+          "author": null,
+          "description": "Million Dollar Selling Plan🔥 GET MY FREE NEWSLETTER 👉 https://cryptolark.co/WEALTHMASTERY💸 BYBIT $30,030 BONUS & FEE DISCOUNT 👉 https://cryptolark.co/BYBIT🔥FOLLOW THE LARK DAVIS PODCAST:🎙️Spotify: https://open.spotify.com/show/782tLUvJv0zsN7rnyetOmc?si=f66fa16b55e044d5 🎙️Apple Podcasts:...",
+          "link": "https://cryptopanic.com/news/18940181/Here-Is-When-I-Will-Sell-All-My-Crypto",
+          "publishedOn": "2023-10-01T12:00:43.000Z",
+          "wordCount": 591,
+          "title": "Here Is When I Will Sell All My Crypto",
+          "imageUrl": "https://i3.ytimg.com/vi/rsI4_89xkj8/hqdefault.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/18940150/Ripples-Schwartz-Shares-Party-Photo-With-CEO-Garlinghouse",
+          "author": null,
+          "description": "Ripple CTO David Schwartz and CEO Brad Garlinghouse offered rare, informal snapshot to crypto world",
+          "link": "https://cryptopanic.com/news/18940150/Ripples-Schwartz-Shares-Party-Photo-With-CEO-Garlinghouse",
+          "publishedOn": "2023-10-01T11:59:00.000Z",
+          "wordCount": 590,
+          "title": "Ripple's Schwartz Shares Party Photo With CEO Garlinghouse",
+          "imageUrl": "https://u.today/sites/default/files/styles/twitter/public/2023-10/IMG_0943.jpeg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/18940142/On-chain-Activity-Sparks-Speculation-as-FTX-Hack-Perpetrators-Wallet-Contains-1675-Million-in-Ether",
+          "author": null,
+          "description": "Nearly a year has passed since the infamous FTX hack, which saw cybercriminals abscond with...",
+          "link": "https://cryptopanic.com/news/18940142/On-chain-Activity-Sparks-Speculation-as-FTX-Hack-Perpetrators-Wallet-Contains-1675-Million-in-Ether",
+          "publishedOn": "2023-10-01T11:49:04.000Z",
+          "wordCount": 596,
+          "title": "On-chain Activity Sparks Speculation as FTX Hack Perpetrator’s Wallet Contains $16.75 Million in Ether",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18940141/Ethereum-Gearing-Up-To-Outperform-Bitcoin-Once-More-Predicts-Top-Trader-That-Called-May-2021-Crypto-Collapse",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/18940141/Ethereum-Gearing-Up-To-Outperform-Bitcoin-Once-More-Predicts-Top-Trader-That-Called-May-2021-Crypto-Collapse",
+          "publishedOn": "2023-10-01T11:45:13.000Z",
+          "wordCount": null,
+          "title": "Ethereum Gearing Up To Outperform Bitcoin Once More, Predicts Top Trader That Called May 2021 Crypto Collapse",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18940118/Enormous-174-Million-Worth-of-Tokens-to-Get-Unlocked-in-October-SUI-IMX-APT",
+          "author": null,
+          "description": "October shaping up to be pivotal month for several cryptocurrencies, with over $174 million worth of tokens set to be unlocked",
+          "link": "https://cryptopanic.com/news/18940118/Enormous-174-Million-Worth-of-Tokens-to-Get-Unlocked-in-October-SUI-IMX-APT",
+          "publishedOn": "2023-10-01T11:23:00.000Z",
+          "wordCount": 596,
+          "title": "Enormous $174 Million Worth of Tokens to Get Unlocked in October: SUI, IMX, APT",
+          "imageUrl": "https://u.today/sites/default/files/styles/twitterwithoutlogo/public/2023-10/s0201.jpg"
+        },
         {
           "id": "https://cryptopanic.com/news/18940086/1-Billion-XRP-Unlocked-From-Escrow-Millions-of-Tokens-Shifted-by-Ripple",
           "author": null,
@@ -945,22 +1025,22 @@
         {
           "id": "https://cryptopanic.com/news/18940052/Top-Ripple-XRP-Price-Predictions-in-September-Some-Will-Shock-You",
           "author": null,
-          "description": "",
+          "description": "Here are some of the top XRP price predictions that were made throughout the month of September.",
           "link": "https://cryptopanic.com/news/18940052/Top-Ripple-XRP-Price-Predictions-in-September-Some-Will-Shock-You",
           "publishedOn": "2023-10-01T10:18:37.000Z",
-          "wordCount": null,
+          "wordCount": 593,
           "title": "Top Ripple (XRP) Price Predictions in September (Some Will Shock You)",
-          "imageUrl": null
+          "imageUrl": "https://cryptopotato.com/wp-content/uploads/2023/10/xrp_price_predictions_cb.jpg"
         },
         {
           "id": "https://cryptopanic.com/news/18940056/Giant-Cryptocurrency-Company-Amber-Group-Has-Allegedly-Been-Accumulating-This-Altcoin-for-Nearly-a-Month",
           "author": null,
-          "description": "Amber Group, one of the largest investment companies in the cryptocurrency world, is accumulating altcoins according to onchain data. Continue Reading: Giant Cryptocurrency Company Amber Group Has Allegedly Been Accumulating This Altcoin for Nearly a Month",
+          "description": "",
           "link": "https://cryptopanic.com/news/18940056/Giant-Cryptocurrency-Company-Amber-Group-Has-Allegedly-Been-Accumulating-This-Altcoin-for-Nearly-a-Month",
           "publishedOn": "2023-10-01T10:18:05.000Z",
-          "wordCount": 597,
+          "wordCount": null,
           "title": "Giant Cryptocurrency Company Amber Group Has Allegedly Been Accumulating This Altcoin for Nearly a Month",
-          "imageUrl": "https://www.bitcoinsistemi.com/wp-content/uploads/2023/08/altcoin-soru-isareti.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/18940059/Polkadot-reveals-future-proof-scaling-updates-at-sub0-developer-conference",
@@ -975,20 +1055,20 @@
         {
           "id": "https://cryptopanic.com/news/18940057/World-Blockchain-Summit-Dubai-Empowering-Visions-Uniting-Realties-and-Redefining-the-Decentralized-Frontier",
           "author": null,
-          "description": "Dubai preparing for a web3 future with new regulatory frameworks for digital assets and issuance of commercial licenses for web3 projects.",
+          "description": "",
           "link": "https://cryptopanic.com/news/18940057/World-Blockchain-Summit-Dubai-Empowering-Visions-Uniting-Realties-and-Redefining-the-Decentralized-Frontier",
           "publishedOn": "2023-10-01T10:00:00.000Z",
-          "wordCount": 595,
+          "wordCount": null,
           "title": "World Blockchain Summit Dubai: Empowering Visions, Uniting Realties and Redefining the Decentralized Frontier",
           "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/18940024/OP-AXS-and-APT-Are-the-Biggest-Unlock-Events-for-This-October",
           "author": null,
-          "description": "Several large token unlock events will take place in the next 30 days. According to the tokenomics tracking platform Token Unlocks, Sui (SUI), Immutable (IMX), Aptos (APT), Apecoin (APE), Axie Infinity (AXS), and Optimism (OP) all have token unlock events scheduled for this October with the...",
+          "description": "",
           "link": "https://cryptopanic.com/news/18940024/OP-AXS-and-APT-Are-the-Biggest-Unlock-Events-for-This-October",
           "publishedOn": "2023-10-01T09:58:00.000Z",
-          "wordCount": 594,
+          "wordCount": null,
           "title": "OP, AXS and APT Are the Biggest Unlock Events for This October",
           "imageUrl": null
         },
@@ -1005,12 +1085,12 @@
         {
           "id": "https://cryptopanic.com/news/18940049/US-DOJ-to-Call-on-Former-FTX-Customers-SBF-Allies-to-Testify-in-Trial",
           "author": null,
-          "description": "The U.S. Department of Justice (DOJ) revealed an extensive witness list that includes FTX customers in Sam Bankman-Fried’s (SBF) trial. This is coming on the heels of the U.S. Securities and Exchange Commission (SEC) charges against the bankrupt firm auditor, Prager Metis. On September 30, the...",
+          "description": "",
           "link": "https://cryptopanic.com/news/18940049/US-DOJ-to-Call-on-Former-FTX-Customers-SBF-Allies-to-Testify-in-Trial",
           "publishedOn": "2023-10-01T09:39:43.000Z",
-          "wordCount": 596,
+          "wordCount": null,
           "title": "US DOJ to Call on Former FTX Customers, SBF Allies to Testify in Trial",
-          "imageUrl": "https://s32659.pcdn.co/wp-content/uploads/2022/11/FTX-collapse-SBF.jpg.webp"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/18940006/Solana-SOL-Breakout-Imminent-Analyst-Highlights-Interesting-Price-Movement",
@@ -1025,91 +1105,11 @@
         {
           "id": "https://cryptopanic.com/news/18940013/This-Is-Getting-OUT-OF-HAND-It-Looks-Like-We-Know-The-Truth-Now",
           "author": null,
-          "description": "Ok, so, you know how the cryptocurrency space always has weird dramatic crazy news stories... well, it looks like a battle of brewing on twitter as someone might have admitted that Ripple received unfair treatment while Ethereum got a free pass. Sony has announced their movement into the...",
+          "description": "",
           "link": "https://cryptopanic.com/news/18940013/This-Is-Getting-OUT-OF-HAND-It-Looks-Like-We-Know-The-Truth-Now",
           "publishedOn": "2023-10-01T09:30:21.000Z",
-          "wordCount": 596,
+          "wordCount": null,
           "title": "This Is Getting OUT OF HAND... It Looks Like We Know The Truth Now",
-          "imageUrl": "https://i2.ytimg.com/vi/mbsWYzH7PHo/hqdefault.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/18939999/Ethereum-at-a-Crossroads-Should-the-Protocol-Embrace-More-Features",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/18939999/Ethereum-at-a-Crossroads-Should-the-Protocol-Embrace-More-Features",
-          "publishedOn": "2023-10-01T09:25:00.000Z",
-          "wordCount": null,
-          "title": "Ethereum at a Crossroads: Should the Protocol Embrace More Features?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18939994/Shark-Tanks-Kevin-OLeary-Says-New-Regulatory-Compliant-Crypto-Exchange-Set-To-Replace-Binance-and-FTX",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/18939994/Shark-Tanks-Kevin-OLeary-Says-New-Regulatory-Compliant-Crypto-Exchange-Set-To-Replace-Binance-and-FTX",
-          "publishedOn": "2023-10-01T09:15:46.000Z",
-          "wordCount": null,
-          "title": "Shark Tank’s Kevin O’Leary Says New Regulatory-Compliant Crypto Exchange Set To Replace Binance and FTX",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18939992/FTX-exploiter-moved-over-17M-in-ETH-in-the-last-24-hours",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/18939992/FTX-exploiter-moved-over-17M-in-ETH-in-the-last-24-hours",
-          "publishedOn": "2023-10-01T09:14:39.000Z",
-          "wordCount": null,
-          "title": "FTX exploiter moved over $17M in ETH in the last 24 hours",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18940050/After-Strong-September-Growth-Are-Maker-and-Inqubeta-Top-Alternatives-to-Xrp-and-Cardano",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/18940050/After-Strong-September-Growth-Are-Maker-and-Inqubeta-Top-Alternatives-to-Xrp-and-Cardano",
-          "publishedOn": "2023-10-01T09:00:00.000Z",
-          "wordCount": null,
-          "title": "After Strong September Growth, Are Maker and Inqubeta Top Alternatives to Xrp and Cardano?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18939984/Coin-Bureaus-Analysis-of-Turkeys-Crypto-Landscape",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/18939984/Coin-Bureaus-Analysis-of-Turkeys-Crypto-Landscape",
-          "publishedOn": "2023-10-01T08:54:31.000Z",
-          "wordCount": null,
-          "title": "Coin Bureau’s Analysis of Turkey’s Crypto Landscape",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18939980/LUNC-Community-Rejects-Proposal-to-Pay-Terra-Rebels-15K-Monthly",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/18939980/LUNC-Community-Rejects-Proposal-to-Pay-Terra-Rebels-15K-Monthly",
-          "publishedOn": "2023-10-01T08:51:00.000Z",
-          "wordCount": null,
-          "title": "LUNC Community Rejects Proposal to Pay Terra Rebels $15K Monthly",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18939968/These-Are-This-Weeks-Top-Performers-as-BTC-Hovers-Above-27K-Weekend-Watch",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/18939968/These-Are-This-Weeks-Top-Performers-as-BTC-Hovers-Above-27K-Weekend-Watch",
-          "publishedOn": "2023-10-01T08:43:19.000Z",
-          "wordCount": null,
-          "title": "These Are This Week’s Top Performers as BTC Hovers Above $27K (Weekend Watch)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18939964/PEPEs-Q4-starts-on-a-promising-note-will-its-gains-continue",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/18939964/PEPEs-Q4-starts-on-a-promising-note-will-its-gains-continue",
-          "publishedOn": "2023-10-01T08:30:19.000Z",
-          "wordCount": null,
-          "title": "PEPE’s Q4 starts on a promising note, will its gains continue?",
           "imageUrl": null
         }
       ]
@@ -1119,6 +1119,16 @@
       "feedUrl": "https://www.inoreader.com/stream/user/1005336866/tag/%E6%B5%B7%E5%A4%96%E5%8A%A0%E5%AF%86%E8%B5%84%E8%AE%AF",
       "siteUrl": "https://www.inoreader.com/stream/user/1005336866/tag/%E6%B5%B7%E5%A4%96%E5%8A%A0%E5%AF%86%E8%B5%84%E8%AE%AF/view/html",
       "articles": [
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e74bf16ab6b",
+          "author": "Bitcoin.com",
+          "description": "A livestream in which Ben “Bitboy” Armstrong is hunting down his allegedly stolen Lamborghini ends up with the crypto influencer arrested. In other news this week, Rich Dad Poor Dad author Robert Kiyosaki says to purchase bitcoin before markets crash, and U.S. lawmakers push SEC Chair Gary Gensler to approve spot Bitcoin exchange-traded products “immediately.” This and more just below, in the latest Bitcoin.com News Week in Review.\n \n\n \nBitboy Ben Armstrong Arrested During Livestream Over Stolen Lambo\n \nCrypto influencer Ben “Bitboy” Armstrong has been reportedly arrested while livestreaming his attempt to confront a former business partner. Excerpts from the Youtube video released on social media show him explaining to police the reasons for his deed, including the alleged theft of his La…",
+          "link": "https://news.bitcoin.com/lambo-livestream-goes-wrong-for-bitboy-kiyosaki-says-buy-btc-lawmakers-push-etf-approval-week-in-review/",
+          "publishedOn": "2023-10-01T12:11:47.000Z",
+          "wordCount": 283,
+          "title": "Lambo Livestream Goes Wrong for Bitboy, Kiyosaki Says Buy BTC, Lawmakers Push ETF Approval — Week in Review",
+          "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2023/09/shutterstock_1172697790.jpg"
+        },
         {
           "id": "http://www.inoreader.com/article/3a9c6e74bf1a7181",
           "author": "Lubomir Tassev",
@@ -1195,7 +1205,7 @@
           "description": "The U.S. Department of Justice said it intends to call FTX customers, investors and cooperating witnesses to testify against Sam Bankman-Fried at trial next week, including a Ukrainian local who would have difficulty getting to the courthouse in-person.",
           "link": "https://www.coindesk.com/policy/2023/09/30/ftx-customers-investors-will-testify-against-sam-bankman-fried-doj-says/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-09-30T22:42:55.000Z",
-          "wordCount": 7581,
+          "wordCount": 7585,
           "title": "FTX Customers, Investors Will Testify Against Sam Bankman-Fried, DOJ Says",
           "enclosure": {
             "length": "1337",
@@ -1338,21 +1348,6 @@
           "wordCount": 241,
           "title": "Bitcoin, Ethereum Technical Analysis: Profit Takers Swoop in to Send BTC, ETH Lower",
           "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2023/09/shutterstock_751018363.jpg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e74b8a995a9",
-          "author": "Yuna Rin",
-          "description": "The surge in online scams has drawn heightened regulatory attention towards the crypto industry. A recent case serves as a vivid reminder of the risks involved, where a Connecticut resident became a victim of a significant scam, losing more than $3 million to individuals falsely purporting to be associated with Kraken, a well-known cryptocurrency exchange.\n \nThe victim, who remains unnamed, was based in Westport and followed advice to transfer funds out of a retirement account, intending to reinvest the money in an account supposedly linked to Kraken. However, their decision led to more than $3 million swiftly disappearing into crypto wallets they could not access.\n \n \nRecovery Of Stolen Crypto Funds\n \nFortunately, the victim sought help from law enforcement, and local detectives, collabor…",
-          "link": "https://bitcoinist.com/3-million-stolen-in-kraken-crypto-con/",
-          "publishedOn": "2023-09-30T11:53:08.000Z",
-          "wordCount": 5466,
-          "title": "Counting The Loot: $3 Million Stolen In ‘Kraken’ Crypto Con – Details",
-          "enclosure": {
-            "length": "1337",
-            "type": "image/jpeg",
-            "url": "https://bitcoinist.com/wp-content/uploads/2023/09/a-102-640x332.png"
-          },
-          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2023/09/a-102-640x332.png"
         }
       ]
     }

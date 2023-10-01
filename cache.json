@@ -221,7 +221,7 @@
           "description": "Timmu Tõke, co-founder and CEO of Ready Player Me, joins Decrypt contributor Ryan Gladwin to discuss the startup's approach to powering avatars that are interoperable across games and metaverse platforms—and what's needed to convince the industry to adopt standards and open up.",
           "link": "https://decrypt.co/videos/interviews/TH3KEAI0/there-are-no-real-standards-ready-player-me-ceo-timmu-tke-on-building-for-an-open-gaming-ecosystem",
           "publishedOn": "2023-09-29T17:29:40.000Z",
-          "wordCount": 6780,
+          "wordCount": 6424,
           "title": "'There Are No Real Standards': Ready Player Me CEO Timmu Tõke on Building for an Open Gaming Ecosystem",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/TH3KEAI0/poster.jpg",
@@ -506,7 +506,7 @@
           "description": "Shrapnel Studio Head Don Norbury tells Kate Irwin the reasons why the upcoming first-person shooter game will offer a wide range of NFTs. He also reveals team-based gameplay plans and shares how game maps have already changed this year.",
           "link": "https://decrypt.co/videos/interviews/fhoy7Z8f/blockchain-is-only-way-forward-for-gaming-says-shrapnel-studio-head",
           "publishedOn": "2023-09-28T21:39:00.000Z",
-          "wordCount": 6723,
+          "wordCount": 6367,
           "title": "Blockchain Is 'Only Way' Forward for Gaming, Says Shrapnel Studio Head",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/fhoy7Z8f/poster.jpg",
@@ -656,7 +656,7 @@
           "description": "Our host Reza Jafery is joined by Gareth Fenney aka 500Altcoins. They discuss the glory days of DeFi Summer and whether or not its a smart move for builders in the crypto space to relocate to Dubai.",
           "link": "https://decrypt.co/videos/interviews/cI7p8AK3/500altcoins-discusses-defi-summer-and-the-dubai-crypto-scene-this-time-will-be-different-episode-2",
           "publishedOn": "2023-09-26T20:00:00.000Z",
-          "wordCount": 6755,
+          "wordCount": 6399,
           "title": "500Altcoins discusses DeFi Summer and the Dubai Crypto Scene - This Time Will Be Different - Episode 2",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/cI7p8AK3/poster.jpg",
@@ -671,7 +671,7 @@
           "description": "David Gogel of dYdX discusses how the decentralized exchange is building a custom blockchain to fully decentralize derivatives trading. He explained how the new dYdX chain will allow validators to run order books in memory, enabling decentralized order matching at scale. This shift aims to increase security and transparency for traders while maintaining the performance of centralized exchanges.",
           "link": "https://decrypt.co/videos/live-events/lfmwAjB9/decentralize-derivatives-trading-with-custom-blockchain",
           "publishedOn": "2023-09-26T10:37:37.000Z",
-          "wordCount": 6434,
+          "wordCount": 6783,
           "title": "Decentralize Derivatives Trading with Custom Blockchain",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/lfmwAjB9/poster.jpg",
@@ -679,21 +679,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.jwplayer.com/v2/media/lfmwAjB9/poster.jpg"
-        },
-        {
-          "id": "https://decrypt.co/videos/live-events/fxygwLvH/indias-1-crypto-tax-has-been-a-nightmare-for-high-frequency-traders-says-shardeum-ceo",
-          "author": null,
-          "description": "As India figures out its regulatory approach to the crypto industry, one thing is clear to Shardeum co-founder Nischal Shetty: “If you're a high-frequency trader, you can't afford to lose a percentage every time you sell,” he told Decrypt's Andre Beganski at Messari Mainnet in New York. “That's something that's caused a lot of issues.”",
-          "link": "https://decrypt.co/videos/live-events/fxygwLvH/indias-1-crypto-tax-has-been-a-nightmare-for-high-frequency-traders-says-shardeum-ceo",
-          "publishedOn": "2023-09-26T05:41:11.000Z",
-          "wordCount": 6467,
-          "title": "India's 1% Crypto Tax Has Been a Nightmare for High-Frequency Traders, Says Shardeum CEO",
-          "enclosure": {
-            "url": "https://cdn.jwplayer.com/v2/media/fxygwLvH/poster.jpg",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.jwplayer.com/v2/media/fxygwLvH/poster.jpg"
         },
         {
           "id": "https://decrypt.co/videos/live-events/MZoxvulr/newly-partnered-with-visa-solana-focuses-on-reliability",
@@ -709,6 +694,21 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.jwplayer.com/v2/media/MZoxvulr/poster.jpg"
+        },
+        {
+          "id": "https://decrypt.co/videos/live-events/fxygwLvH/indias-1-crypto-tax-has-been-a-nightmare-for-high-frequency-traders-says-shardeum-ceo",
+          "author": null,
+          "description": "As India figures out its regulatory approach to the crypto industry, one thing is clear to Shardeum co-founder Nischal Shetty: “If you're a high-frequency trader, you can't afford to lose a percentage every time you sell,” he told Decrypt's Andre Beganski at Messari Mainnet in New York. “That's something that's caused a lot of issues.”",
+          "link": "https://decrypt.co/videos/live-events/fxygwLvH/indias-1-crypto-tax-has-been-a-nightmare-for-high-frequency-traders-says-shardeum-ceo",
+          "publishedOn": "2023-09-26T05:41:11.000Z",
+          "wordCount": 6467,
+          "title": "India's 1% Crypto Tax Has Been a Nightmare for High-Frequency Traders, Says Shardeum CEO",
+          "enclosure": {
+            "url": "https://cdn.jwplayer.com/v2/media/fxygwLvH/poster.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.jwplayer.com/v2/media/fxygwLvH/poster.jpg"
         },
         {
           "id": "https://decrypt.co/videos/live-events/0Sezz6pZ/crypto-accounting-challenges-and-opportunities",
@@ -771,6 +771,21 @@
           "imageUrl": "https://cdn.jwplayer.com/v2/media/xXOrNbX9/poster.jpg"
         },
         {
+          "id": "https://decrypt.co/videos/live-events/CrpvzFjL/regulation-threatens-us-dominance-of-financial-markets-says-coinroutes-ceo",
+          "author": null,
+          "description": "Dave Weisberger, Co-Founder and CEO of CoinRoutes, argued that excessive regulation in the U.S. threatens to undermine the country's long-standing dominance in global financial markets. He warned that other countries are embracing blockchain and crypto to build more efficient digital markets, which could cause the US to lose its competitive edge and trillions in GDP. Weisberger said CoinRoutes is now focusing more on expanding internationally due to restrictive policies in the U.S. He was interviewed by André Beganski of Decrypt at Messari Mainnet 2023.",
+          "link": "https://decrypt.co/videos/live-events/CrpvzFjL/regulation-threatens-us-dominance-of-financial-markets-says-coinroutes-ceo",
+          "publishedOn": "2023-09-26T05:41:10.000Z",
+          "wordCount": 6937,
+          "title": "Regulation Threatens U.S. Dominance of Financial Markets, Says CoinRoutes CEO",
+          "enclosure": {
+            "url": "https://cdn.jwplayer.com/v2/media/CrpvzFjL/poster.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.jwplayer.com/v2/media/CrpvzFjL/poster.jpg"
+        },
+        {
           "id": "https://decrypt.co/videos/live-events/OvAFgxTd/building-a-developer-friendly-zkrollup-to-scale-ethereum",
           "author": null,
           "description": "Daniel Helm, head of Developer Relations at Scroll, discussess how they are building a zkRollup to scale Ethereum transactions and lower fees. He explained their focus on creating a seamless developer experience by maintaining Ethereum's ethos and tooling. Scroll aims to launch their mainnet soon, providing more scalable blockspace for Ethereum developers. Stacy Elliott of Decrypt interviewed him at Messari Mainnet 2023.",
@@ -784,21 +799,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.jwplayer.com/v2/media/OvAFgxTd/poster.jpg"
-        },
-        {
-          "id": "https://decrypt.co/videos/live-events/CrpvzFjL/regulation-threatens-us-dominance-of-financial-markets-says-coinroutes-ceo",
-          "author": null,
-          "description": "Dave Weisberger, Co-Founder and CEO of CoinRoutes, argued that excessive regulation in the U.S. threatens to undermine the country's long-standing dominance in global financial markets. He warned that other countries are embracing blockchain and crypto to build more efficient digital markets, which could cause the US to lose its competitive edge and trillions in GDP. Weisberger said CoinRoutes is now focusing more on expanding internationally due to restrictive policies in the U.S. He was interviewed by André Beganski of Decrypt at Messari Mainnet 2023.",
-          "link": "https://decrypt.co/videos/live-events/CrpvzFjL/regulation-threatens-us-dominance-of-financial-markets-says-coinroutes-ceo",
-          "publishedOn": "2023-09-26T05:41:10.000Z",
-          "wordCount": 6588,
-          "title": "Regulation Threatens U.S. Dominance of Financial Markets, Says CoinRoutes CEO",
-          "enclosure": {
-            "url": "https://cdn.jwplayer.com/v2/media/CrpvzFjL/poster.jpg",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.jwplayer.com/v2/media/CrpvzFjL/poster.jpg"
         },
         {
           "id": "https://decrypt.co/videos/live-events/axArPRp3/bitcoins-narrative-is-shifting-towards-layer-2-solutions",
@@ -866,7 +866,7 @@
           "description": "Dave Lemke is the CFO & CCO at Giddy, creators of a crypto wallet with decentralized private key security. He explains how their solution allows self-custody while still being recoverable. He highlighted increasing demand for self-custody after the FTX collapse. Lemke also touched on upcoming US crypto regulations and Getty's roadmap to simplify staking and other complex processes. Stacy Elliott interviewed him at Messari Mainnet 2023.",
           "link": "https://decrypt.co/videos/live-events/kA1Bqu4H/accessible-self-custody-for-crypto",
           "publishedOn": "2023-09-26T00:52:07.000Z",
-          "wordCount": 6462,
+          "wordCount": 6811,
           "title": "Accessible Self-Custody for Crypto",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/kA1Bqu4H/poster.jpg",
@@ -881,7 +881,7 @@
           "description": "Amanda Tuminelli of the Defi Education Fund discusses the need for sensible crypto regulation. She says regulators should work with the industry to understand how protocols work before proposing expansive rules that could stifle innovation. Stacy Elliott of Decrypt interviewed her at Messari Mainnet 2023.",
           "link": "https://decrypt.co/videos/live-events/xD0CzPUF/defi-education-fund-advocates-for-responsible-crypto-regulation",
           "publishedOn": "2023-09-26T00:32:21.000Z",
-          "wordCount": 6381,
+          "wordCount": 6730,
           "title": "Defi Education Fund Advocates for Responsible Crypto Regulation",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/xD0CzPUF/poster.jpg",
@@ -896,7 +896,7 @@
           "description": "What is AI Arena? Decrypt's Kate Irwin dives into the upcoming video game in an interview with the game's founders, AI Arena CEO Brandon Da Silva and COO Wei Xie.",
           "link": "https://decrypt.co/videos/interviews/qTBh0ayt/train-your-own-ai-powered-fighter-inside-ai-arena",
           "publishedOn": "2023-09-25T20:56:00.000Z",
-          "wordCount": 6304,
+          "wordCount": 6660,
           "title": "Train Your Own AI-Powered Fighter? Inside AI Arena",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/qTBh0ayt/poster.jpg",
@@ -912,6 +912,46 @@
       "feedUrl": "https://cryptopanic.com/news/rss/",
       "siteUrl": "https://cryptopanic.com/",
       "articles": [
+        {
+          "id": "https://cryptopanic.com/news/18940471/SEC-Files-Lawsuit-Against-FTX-Auditor-Details",
+          "author": null,
+          "description": "The US Securities and Exchange Commission (SEC) has filed a lawsuit against Prager Metis, an accounting firm that had dealings with the bankrupt FTX crypto exchange. This development comes as the trial of FTX co-founder and former CEO Sam Bankman-Fried looms on the horizon. SEC Accuses Prager...",
+          "link": "https://cryptopanic.com/news/18940471/SEC-Files-Lawsuit-Against-FTX-Auditor-Details",
+          "publishedOn": "2023-10-01T17:00:21.000Z",
+          "wordCount": 590,
+          "title": "SEC Files Lawsuit Against FTX Auditor – Details",
+          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2023/10/miami.png"
+        },
+        {
+          "id": "https://cryptopanic.com/news/18940457/FTXs-Bankman-Fried-Cannot-Blame-Lawyers-in-Opening-Statement-Judge",
+          "author": null,
+          "description": "Sam Bankman-Fried cannot blame FTX's lawyers for its collapse or operations in his opening statements, though he can still try and make a so-called \"advice-of-counsel\" defense later, the federal judge overseeing his case ruled Sunday.",
+          "link": "https://cryptopanic.com/news/18940457/FTXs-Bankman-Fried-Cannot-Blame-Lawyers-in-Opening-Statement-Judge",
+          "publishedOn": "2023-10-01T16:38:24.000Z",
+          "wordCount": 591,
+          "title": "FTX's Bankman-Fried Cannot Blame Lawyers in Opening Statement: Judge",
+          "imageUrl": "https://www.coindesk.com/resizer/gJUR9TqitTCYX7rHp8Py99EYkgc=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/54MLXIQGY5G6ZN64YLL4K6GS6M.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/18940450/Microsoft-to-form-nuclear-power-team-to-support-AI-Report",
+          "author": null,
+          "description": "Microsoft is forming a new team of professionals to advance its artificial intelligence plans with Small Modular Reactors and microreactors.",
+          "link": "https://cryptopanic.com/news/18940450/Microsoft-to-form-nuclear-power-team-to-support-AI-Report",
+          "publishedOn": "2023-10-01T16:32:12.000Z",
+          "wordCount": 592,
+          "title": "Microsoft to form nuclear power team to support AI: Report",
+          "imageUrl": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-10/0803f2af-03a2-4586-ae02-ac0863e684d9.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/18940440/Watch-Out-Crypto-Market-Heading-Into-A-Critical-Week-Here-is-the-List-of-Economy-and-Altcoin-Developments-to-Follow",
+          "author": null,
+          "description": "Following the week of partial recovery in Bitcoin, altcoin and economy developments will occur in the new week. Continue Reading: Watch Out: Crypto Market Heading Into A Critical Week – Here is the List of Economy and Altcoin Developments to Follow",
+          "link": "https://cryptopanic.com/news/18940440/Watch-Out-Crypto-Market-Heading-Into-A-Critical-Week-Here-is-the-List-of-Economy-and-Altcoin-Developments-to-Follow",
+          "publishedOn": "2023-10-01T16:11:08.000Z",
+          "wordCount": 603,
+          "title": "Watch Out: Crypto Market Heading Into A Critical Week – Here is the List of Economy and Altcoin Developments to Follow",
+          "imageUrl": "https://www.bitcoinsistemi.com/wp-content/uploads/2023/04/dikkat-altcoin-1.jpg"
+        },
         {
           "id": "https://cryptopanic.com/news/18940431/Ex-FTX-Clients-Summoned-by-DOJ-for-Sam-Bankman-Frieds-Trial",
           "author": null,
@@ -935,12 +975,12 @@
         {
           "id": "https://cryptopanic.com/news/18940398/Lead-Dev-Kusama-Ends-Hiatus-Returns-With-Cryptic-Tweet",
           "author": null,
-          "description": "Following a brief absence spanning several weeks, Kusama, the leading developer of Shiba Inu, has resurfaced with a cryptic tweet. September was quite a busy month for the SHIB ecosystem, with a number of noteworthy occurrences including the SHIB burn rate increasing by more than 1300%, the...",
+          "description": "",
           "link": "https://cryptopanic.com/news/18940398/Lead-Dev-Kusama-Ends-Hiatus-Returns-With-Cryptic-Tweet",
           "publishedOn": "2023-10-01T15:30:44.000Z",
-          "wordCount": 591,
+          "wordCount": null,
           "title": "Lead Dev Kusama Ends Hiatus, Returns With Cryptic Tweet",
-          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2023/10/a-1.png"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/18940368/Ripples-CEO-Honors-Community-for-Their-Role-in-Legal-Victory",
@@ -955,12 +995,12 @@
         {
           "id": "https://cryptopanic.com/news/18940373/Where-Crypto-Has-Product-Market-Fit-And-Where-It-Doesnt",
           "author": null,
-          "description": "",
+          "description": "NLW reads \"The Barrier to Mainstream Crypto Adoption Isn’t UX — It’s Product-Market Fit\" by Li Jin. Enjoying this content?SUBSCRIBE to the Podcast: https://pod.link/1438693620Watch on YouTube: https://www.youtube.com/nathanielwhittemorecryptoSubscribe to the newsletter:...",
           "link": "https://cryptopanic.com/news/18940373/Where-Crypto-Has-Product-Market-Fit-And-Where-It-Doesnt",
           "publishedOn": "2023-10-01T15:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 591,
           "title": "Where Crypto Has Product-Market Fit (And Where It Doesn't)",
-          "imageUrl": null
+          "imageUrl": "https://megaphone.imgix.net/podcasts/53cadc42-20da-11ee-a8f1-1bd22b61356c/image/BITCOIN_BUILDERS_1.png?ixlib=rails-4.3.1&w=500&h=500"
         },
         {
           "id": "https://cryptopanic.com/news/18940365/On-chain-T-bills-And-Asset-Tokenization-Are-Revolutionizing-Financial-Ecosystems-By-Democratizing-Yield-Says-Matrixports-Benjamin-Stani",
@@ -975,22 +1015,22 @@
         {
           "id": "https://cryptopanic.com/news/18940346/Bitcoin-BTC-Price-in-October-Foreshadowed-by-This-Historical-Pattern",
           "author": null,
-          "description": "",
+          "description": "Expectations rise as Bitcoin closes first green September in seven years",
           "link": "https://cryptopanic.com/news/18940346/Bitcoin-BTC-Price-in-October-Foreshadowed-by-This-Historical-Pattern",
           "publishedOn": "2023-10-01T14:36:00.000Z",
-          "wordCount": null,
+          "wordCount": 592,
           "title": "Bitcoin (BTC) Price in October Foreshadowed by This Historical Pattern",
-          "imageUrl": null
+          "imageUrl": "https://u.today/sites/default/files/styles/twitter/public/2023-10/s0204.jpg"
         },
         {
           "id": "https://cryptopanic.com/news/18940381/Axie-Infinity-AXS-and-Optimism-OP-Drive-200M-October-Token-Release",
           "author": null,
-          "description": "Around 30 cryptocurrency projects will release over $200 million worth of tokens into circulation in October, according to Token Unlocks data. However, six projects will contribute nearly 80% of this release as they plan to unlock more than $174 million worth of tokens during this period.  Token...",
+          "description": "",
           "link": "https://cryptopanic.com/news/18940381/Axie-Infinity-AXS-and-Optimism-OP-Drive-200M-October-Token-Release",
           "publishedOn": "2023-10-01T14:34:02.000Z",
-          "wordCount": 593,
+          "wordCount": null,
           "title": "Axie Infinity (AXS) and Optimism (OP) Drive $200M October Token Release",
-          "imageUrl": "https://s32659.pcdn.co/wp-content/uploads/2023/03/bic_Bears_bearish_3.jpg.webp"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/18940345/Benjamin-Cowen-Says-Bitcoin-Bulls-and-Bears-About-To-Get-Wrecked-by-Death-Cross-Fakeout-Heres-His-Outlook",
@@ -1005,12 +1045,12 @@
         {
           "id": "https://cryptopanic.com/news/18940338/Will-Bitcoin-surprise-investors-in-Q4-2023",
           "author": null,
-          "description": "As per a latest analysis, BTC’s price is in a descending wedge pattern - a bullish signal. Will Q4 2023 be in the king coin's favor?",
+          "description": "",
           "link": "https://cryptopanic.com/news/18940338/Will-Bitcoin-surprise-investors-in-Q4-2023",
           "publishedOn": "2023-10-01T14:30:28.000Z",
-          "wordCount": 589,
+          "wordCount": null,
           "title": "Will Bitcoin surprise investors in Q4 2023?",
-          "imageUrl": "https://statics.ambcrypto.com/wp-content/uploads/2023/10/BTC.png"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/18940320/This-is-the-first-known-Satoshi-Nakamotos-email-Whats-inside",
@@ -1025,12 +1065,12 @@
         {
           "id": "https://cryptopanic.com/news/18940322/Institutional-Giant-Withdraws-a-Big-Altcoin-Chunk-from-Binance-Heres-its-Portfolio",
           "author": null,
-          "description": "",
+          "description": "Institutional cryptocurrency trading company FalconX withdrew a large amount of altcoins from Binance in its last transaction. Continue Reading: Institutional Giant Withdraws a Big Altcoin Chunk from Binance: Here’s its Portfolio",
           "link": "https://cryptopanic.com/news/18940322/Institutional-Giant-Withdraws-a-Big-Altcoin-Chunk-from-Binance-Heres-its-Portfolio",
           "publishedOn": "2023-10-01T14:13:08.000Z",
-          "wordCount": null,
+          "wordCount": 594,
           "title": "Institutional Giant Withdraws a Big Altcoin Chunk from Binance: Here’s its Portfolio",
-          "imageUrl": null
+          "imageUrl": "https://www.bitcoinsistemi.com/wp-content/uploads/2023/05/gizemli-balina-altcoin.jpg"
         },
         {
           "id": "https://cryptopanic.com/news/18940312/XRP-News-Here-Are-The-Major-Takeaways-From-The-Ripple-Victory-Party",
@@ -1045,20 +1085,20 @@
         {
           "id": "https://cryptopanic.com/news/18940314/Crypto-Experts-BOLD-Bull-Run-Forecast-shorts",
           "author": null,
-          "description": "",
+          "description": "Crypto Experts BOLD Bull Run Forecast! Crypto experts and analysis have given their predictions on what they believe will start the next bull run, and if we can follow that and watch for it, we will be in a good position for the next bull run!●▬▬▬▬▬▬Freebies▬▬▬▬▬▬▬●📖FREE WEEKLY MARKET & NFT...",
           "link": "https://cryptopanic.com/news/18940314/Crypto-Experts-BOLD-Bull-Run-Forecast-shorts",
           "publishedOn": "2023-10-01T14:00:25.000Z",
-          "wordCount": null,
+          "wordCount": 589,
           "title": "Crypto Experts BOLD Bull Run Forecast! #shorts",
-          "imageUrl": null
+          "imageUrl": "https://i4.ytimg.com/vi/g1NrHMgGQu4/hqdefault.jpg"
         },
         {
           "id": "https://cryptopanic.com/news/18940280/SEC-Charges-FTX-Auditor-for-Auditor-Independence-Breach-Report",
           "author": null,
-          "description": "",
+          "description": "The US Securities and Exchange Commission (SEC) has initiated legal scrutiny over the public accounting and consulting firm Prager Metis for allegedly breaching auditor independence rules and encouraging clients’ violation of federal securities laws. In an official statement released on...",
           "link": "https://cryptopanic.com/news/18940280/SEC-Charges-FTX-Auditor-for-Auditor-Independence-Breach-Report",
           "publishedOn": "2023-10-01T13:40:00.000Z",
-          "wordCount": null,
+          "wordCount": 591,
           "title": "SEC Charges FTX Auditor for Auditor Independence Breach: Report",
           "imageUrl": null
         },
@@ -1071,46 +1111,6 @@
           "wordCount": null,
           "title": "Why the Next US President Needs to Pardon Bitcoin Pioneer Ross Ulbricht",
           "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18940278/Shiba-Inu-SHIB-Team-Issues-Warning-to-Community-Details",
-          "author": null,
-          "description": "Important alert issued to SHIB, BONE, LEASH and Shiboshis holders",
-          "link": "https://cryptopanic.com/news/18940278/Shiba-Inu-SHIB-Team-Issues-Warning-to-Community-Details",
-          "publishedOn": "2023-10-01T13:31:00.000Z",
-          "wordCount": 591,
-          "title": "Shiba Inu (SHIB) Team Issues Warning to Community: Details",
-          "imageUrl": "https://u.today/sites/default/files/styles/twitter/public/2023-10/e1057.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/18940268/Venture-Capital-Firm-Paradigm-Criticizes-SECs-Unconventional-Approach-in-Binance-Case",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/18940268/Venture-Capital-Firm-Paradigm-Criticizes-SECs-Unconventional-Approach-in-Binance-Case",
-          "publishedOn": "2023-10-01T13:30:00.000Z",
-          "wordCount": null,
-          "title": "Venture Capital Firm Paradigm Criticizes SEC’s Unconventional Approach in Binance Case",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18940188/Accumulation-opportunity-looms-for-BTC-Time-to-ride-the-Bitcoin-train",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/18940188/Accumulation-opportunity-looms-for-BTC-Time-to-ride-the-Bitcoin-train",
-          "publishedOn": "2023-10-01T12:28:13.000Z",
-          "wordCount": null,
-          "title": "Accumulation opportunity looms for BTC; Time to ride the Bitcoin train?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18940190/23000-Bitcoin-BTC-Prediction-Changed-by-Analyst-Benjamin-Cowen",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/18940190/23000-Bitcoin-BTC-Prediction-Changed-by-Analyst-Benjamin-Cowen",
-          "publishedOn": "2023-10-01T12:27:00.000Z",
-          "wordCount": null,
-          "title": "$23,000 Bitcoin (BTC) Prediction Changed by Analyst Benjamin Cowen",
-          "imageUrl": null
         }
       ]
     },
@@ -1119,6 +1119,31 @@
       "feedUrl": "https://www.inoreader.com/stream/user/1005336866/tag/%E6%B5%B7%E5%A4%96%E5%8A%A0%E5%AF%86%E8%B5%84%E8%AE%AF",
       "siteUrl": "https://www.inoreader.com/stream/user/1005336866/tag/%E6%B5%B7%E5%A4%96%E5%8A%A0%E5%AF%86%E8%B5%84%E8%AE%AF/view/html",
       "articles": [
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e74bf336a61",
+          "author": "Jamie Redman",
+          "description": "Sales of non-fungible tokens (NFTs) have slid once more this week, dipping to 9.91% below the preceding week’s figures. Data reveals that in the span from September 24 to October 1, 2023, around $72,767,450 worth of NFT sales have been logged, marking the latest seven-day stretch.\n \nNFT Sales Continue to Slide\n \nWhile the crypto economy has risen over the past seven days, NFT sales have dropped once again for the sixth week in a row. With $72.76 million in NFT sales, the week’s aggregate is 9.91% lower than the week prior. The number of NFT buyers, however, has risen 17.77% to 569,407 buyers. The number of NFT sellers is also up 15.82% to 714,889 of them over the past week.\n \n\n \nIn the realm of NFT sales across blockchains, Ethereum emerged as the frontrunner among 22 networks, boasting $3…",
+          "link": "https://news.bitcoin.com/nft-sales-slide-9-91-continuing-a-6-week-downtrend-despite-rising-crypto-prices/",
+          "publishedOn": "2023-10-01T16:41:42.000Z",
+          "wordCount": 267,
+          "title": "NFT Sales Slide 9.91% Continuing a 6-Week Downtrend Despite Rising Crypto Prices",
+          "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2023/10/nft.jpg"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e74bf3c2b1e",
+          "author": "Reed Macdonald",
+          "description": "The story of Ross Ulbricht is one that has captivated the Bitcoin community for years – a brilliant young mind, an entrepreneur with a passion for free markets, and the creator of the Silk Road, an anonymous e-commerce platform that operated on the fringes of the internet, has now been officially behind bars for 10 years. \nTo many, it's a miscarriage of justice. Proof that our justice system was caught up in a sensational story. It sought to punish, not find the truth.\nStill, Ross Ulbricht's journey from an idealistic 26-year-old to a prisoner serving a double life sentence without parole, plus 40 years, is a stark reminder of the complexities surrounding issues of internet freedom, privacy, and drug policy. \nHis story has sparked a passionate debate about the fairness of his sentence and …",
+          "link": "https://bitcoinmagazine.com/culture/next-us-president-pardon-bitcoin-pioneer-ross-ulbricht",
+          "publishedOn": "2023-10-01T16:34:53.000Z",
+          "wordCount": null,
+          "title": "Why the Next US President Needs to Pardon Bitcoin Pioneer Ross Ulbricht",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/png",
+            "url": "http://bitcoinmagazine.com/.image/c_limit,cs_srgb,h_1200,q_auto:good,w_1200/MTkyNjc3MDIzMzk3NzE3Njkw/ross-ulbricht.png"
+          },
+          "imageUrl": "http://bitcoinmagazine.com/.image/c_limit,cs_srgb,h_1200,q_auto:good,w_1200/MTkyNjc3MDIzMzk3NzE3Njkw/ross-ulbricht.png"
+        },
         {
           "id": "http://www.inoreader.com/article/3a9c6e74bf39f4cd",
           "author": "Scott Matherson",
@@ -1165,7 +1190,7 @@
           "description": "The United States Department of Justice (DOJ) has confirmed its plans to call former FTX customers, investors, and staff as witnesses in the forthcoming trial of Sam Bankman-Fried (SBF), the co-founder of the now-defunct FTX exchange. The former FTX boss faces a statutory maximum of 110 years of jail time if found guilty of the seven counts of alleged fraud-related offenses.\n \nFTX Clients And Investors To Testify Against Sam Bankman-Fried\n \nOn Saturday, September 30, the DOJ submitted a letter motion “in limine” describing the witnesses it plans to summon during the trial of Sam Bankman-Fried. According to the court document, the government intends to call FTX customers who deposited funds on the platform, FTX investors who purchased shares in the crypto company, and certain “cooperating w…",
           "link": "https://bitcoinist.com/sam-bankman-fried-doj-call-ftx-clients-and-investor/",
           "publishedOn": "2023-10-01T13:40:21.000Z",
-          "wordCount": 5718,
+          "wordCount": 5714,
           "title": "Sam Bankman-Fried Trial: DOJ To Summon FTX Clients And Investors As Witnesses",
           "enclosure": {
             "length": "1337",
@@ -1260,7 +1285,7 @@
           "description": "The U.S. Department of Justice said it intends to call FTX customers, investors and cooperating witnesses to testify against Sam Bankman-Fried at trial next week, including a Ukrainian local who would have difficulty getting to the courthouse in-person.",
           "link": "https://www.coindesk.com/policy/2023/09/30/ftx-customers-investors-will-testify-against-sam-bankman-fried-doj-says/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-09-30T22:42:55.000Z",
-          "wordCount": 7586,
+          "wordCount": 7608,
           "title": "FTX Customers, Investors Will Testify Against Sam Bankman-Fried, DOJ Says",
           "enclosure": {
             "length": "1337",
@@ -1328,31 +1353,6 @@
             "url": "https://bitcoinmagazine.com/.image/c_fit,cs_srgb,fl_progressive,q_auto:good,w_620/MjAxMTY2MDM1MTE2NjMxNTc0/image2.jpg"
           },
           "imageUrl": "https://bitcoinmagazine.com/.image/c_fit,cs_srgb,fl_progressive,q_auto:good,w_620/MjAxMTY2MDM1MTE2NjMxNTc0/image2.jpg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e74b8b0247b",
-          "author": "Jamie Redman",
-          "description": "Per onchain evidence, the culprit dubbed the “FTX drainer” shifted 5,000 ethereum valued at approximately $8 million, gauged by today’s exchange rates. This marked the first movement of the funds in nearly a year, with the malefactor channeling the ether into the decentralized finance (defi) platforms Railgun and Thorchain Router.\n \n‘FTX Drainer’ Diverts $8M in Ethereum\n \nShortly after the downfall of FTX, the exchange fell victim to a cyber intrusion on November 11, 2022, parting with a substantial amount of ethereum (ETH) and ERC20 tokens. Following a handful of transfers post-hack, the funds lay dormant for almost a year.\n \nHowever, on the dawn of September 29, 2023, the malefactor opted to relocate 2,500 ether, and merely three hours ensuing, an additional 2,500 ETH was shifted from th…",
-          "link": "https://news.bitcoin.com/ftx-drainer-resurfaces-moves-8m-eth-to-defi-platforms/",
-          "publishedOn": "2023-09-30T16:06:06.000Z",
-          "wordCount": 244,
-          "title": "‘FTX Drainer’ Resurfaces: Moves $8M ETH to Defi Platforms",
-          "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2023/09/jkkkkhhggg.jpg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e74b8b1c88a",
-          "author": "Scott Matherson",
-          "description": "The future XRP price is one topic that has been keenly debated since Judge Analisa Torres’ ruling in favor of Ripple against the US Securities and Exchange Commission (SEC), with many crypto analysts chiming in on the token’s future trajectory. \n \nSome have stated that XRP could go as high as $10,000, while others have taken a more conservative approach, setting the token’s price at around $25. Meanwhile, others have presented a bearish outlook before XRP can actualize any upward trend. \n \nThe Most Bullish XRP Price Predictions\n \nA particular crypto analyst (Bitforcoinz) stated that each XRP could cost $10,000. His assertion stems from the belief that Ripple could disrupt the global financial structure and take a huge chunk of the market share once that happens. It is believed that XRP’s m…",
-          "link": "https://bitcoinist.com/xrp-price-prediction-bullish-bearish/",
-          "publishedOn": "2023-09-30T15:50:42.000Z",
-          "wordCount": 5636,
-          "title": "XRP Price Predictions: The Ultra Bullish To The Most Bearish",
-          "enclosure": {
-            "length": "1337",
-            "type": "image/jpeg",
-            "url": "https://bitcoinist.com/wp-content/uploads/2023/09/XRP-price-prediction-1-640x360.jpeg"
-          },
-          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2023/09/XRP-price-prediction-1-640x360.jpeg"
         }
       ]
     }

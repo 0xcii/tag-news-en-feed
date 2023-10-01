@@ -266,7 +266,7 @@
           "description": "Timmu Tõke, co-founder and CEO of Ready Player Me, joins Decrypt contributor Ryan Gladwin to discuss the startup's approach to powering avatars that are interoperable across games and metaverse platforms—and what's needed to convince the industry to adopt standards and open up.",
           "link": "https://decrypt.co/videos/interviews/TH3KEAI0/there-are-no-real-standards-ready-player-me-ceo-timmu-tke-on-building-for-an-open-gaming-ecosystem",
           "publishedOn": "2023-09-29T17:29:40.000Z",
-          "wordCount": 6780,
+          "wordCount": 6424,
           "title": "'There Are No Real Standards': Ready Player Me CEO Timmu Tõke on Building for an Open Gaming Ecosystem",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/TH3KEAI0/poster.jpg",
@@ -311,7 +311,7 @@
           "description": "Su Zhu will serve a four-month sentence behind bars for not complying with court orders during 3AC's bankruptcy process.",
           "link": "https://decrypt.co/199354/three-arrows-capital-co-founder-su-zhu-arrested-in-singapore",
           "publishedOn": "2023-09-29T15:47:31.000Z",
-          "wordCount": 9341,
+          "wordCount": 9308,
           "title": "Three Arrows Capital Co-Founder Su Zhu Arrested in Singapore",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/07/3AC-Three-Arrows-Capital-Su-Zhu-gID_7.jpeg@png",
@@ -446,7 +446,7 @@
           "description": "French authorities have raided NVIDIA's offices in Paris and Nice as part of a wider probe into the firm's competitive practices.",
           "link": "https://decrypt.co/199310/french-authorities-raid-nvidia-offices-over-suspicions-anti-competitive-practices",
           "publishedOn": "2023-09-29T10:46:55.000Z",
-          "wordCount": 9661,
+          "wordCount": 9628,
           "title": "French Authorities Raid NVIDIA Offices Over Suspicions of Anti-Competitive Practices: Report",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/09/shutterstock_1606529806-gID_7.jpg@png",
@@ -671,7 +671,7 @@
           "description": "David Gogel of dYdX discusses how the decentralized exchange is building a custom blockchain to fully decentralize derivatives trading. He explained how the new dYdX chain will allow validators to run order books in memory, enabling decentralized order matching at scale. This shift aims to increase security and transparency for traders while maintaining the performance of centralized exchanges.",
           "link": "https://decrypt.co/videos/live-events/lfmwAjB9/decentralize-derivatives-trading-with-custom-blockchain",
           "publishedOn": "2023-09-26T10:37:37.000Z",
-          "wordCount": null,
+          "wordCount": 6783,
           "title": "Decentralize Derivatives Trading with Custom Blockchain",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/lfmwAjB9/poster.jpg",
@@ -679,21 +679,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.jwplayer.com/v2/media/lfmwAjB9/poster.jpg"
-        },
-        {
-          "id": "https://decrypt.co/videos/live-events/MZoxvulr/newly-partnered-with-visa-solana-focuses-on-reliability",
-          "author": null,
-          "description": "Solana has improved network reliability through upgrades like Quick and local fee markets. It recently partnered with Visa to allow settling transactions in USDC on Solana. This could enable merchants to receive instant payments and save on credit card processing fees. Stacy Elliott spoke with Austin Federa, Head of Strategy for the Solana Foundation, at Messari Mainnet 2023.",
-          "link": "https://decrypt.co/videos/live-events/MZoxvulr/newly-partnered-with-visa-solana-focuses-on-reliability",
-          "publishedOn": "2023-09-26T05:41:11.000Z",
-          "wordCount": 6446,
-          "title": "Newly Partnered with Visa, Solana Focuses on Reliability",
-          "enclosure": {
-            "url": "https://cdn.jwplayer.com/v2/media/MZoxvulr/poster.jpg",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.jwplayer.com/v2/media/MZoxvulr/poster.jpg"
         },
         {
           "id": "https://decrypt.co/videos/live-events/fxygwLvH/indias-1-crypto-tax-has-been-a-nightmare-for-high-frequency-traders-says-shardeum-ceo",
@@ -709,6 +694,21 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.jwplayer.com/v2/media/fxygwLvH/poster.jpg"
+        },
+        {
+          "id": "https://decrypt.co/videos/live-events/MZoxvulr/newly-partnered-with-visa-solana-focuses-on-reliability",
+          "author": null,
+          "description": "Solana has improved network reliability through upgrades like Quick and local fee markets. It recently partnered with Visa to allow settling transactions in USDC on Solana. This could enable merchants to receive instant payments and save on credit card processing fees. Stacy Elliott spoke with Austin Federa, Head of Strategy for the Solana Foundation, at Messari Mainnet 2023.",
+          "link": "https://decrypt.co/videos/live-events/MZoxvulr/newly-partnered-with-visa-solana-focuses-on-reliability",
+          "publishedOn": "2023-09-26T05:41:11.000Z",
+          "wordCount": 6795,
+          "title": "Newly Partnered with Visa, Solana Focuses on Reliability",
+          "enclosure": {
+            "url": "https://cdn.jwplayer.com/v2/media/MZoxvulr/poster.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.jwplayer.com/v2/media/MZoxvulr/poster.jpg"
         },
         {
           "id": "https://decrypt.co/videos/live-events/0Sezz6pZ/crypto-accounting-challenges-and-opportunities",
@@ -776,7 +776,7 @@
           "description": "Daniel Helm, head of Developer Relations at Scroll, discussess how they are building a zkRollup to scale Ethereum transactions and lower fees. He explained their focus on creating a seamless developer experience by maintaining Ethereum's ethos and tooling. Scroll aims to launch their mainnet soon, providing more scalable blockspace for Ethereum developers. Stacy Elliott of Decrypt interviewed him at Messari Mainnet 2023.",
           "link": "https://decrypt.co/videos/live-events/OvAFgxTd/building-a-developer-friendly-zkrollup-to-scale-ethereum",
           "publishedOn": "2023-09-26T05:41:10.000Z",
-          "wordCount": 6460,
+          "wordCount": 6809,
           "title": "Building a Developer-Friendly zkRollup to Scale Ethereum",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/OvAFgxTd/poster.jpg",
@@ -821,7 +821,7 @@
           "description": "Decrypt's Stacy Elliott sat down with Robinhood Crypto general manager Johann Kerbrat at Messari Mainnet 2023, to talk about the trading platform's crypto wallet, onboarding new users through simplicity, and keeping platform fees sustainable.",
           "link": "https://decrypt.co/videos/live-events/PLZ0FpdC/we-need-to-start-thinking-about-how-we-make-crypto-easy-to-use-robinhood-crypto-general-manager",
           "publishedOn": "2023-09-26T05:41:10.000Z",
-          "wordCount": 6380,
+          "wordCount": 6729,
           "title": "We Need to Start Thinking About How we Make Crypto Easy to Use: Robinhood Crypto General Manager",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/PLZ0FpdC/poster.jpg",
@@ -866,7 +866,7 @@
           "description": "Dave Lemke is the CFO & CCO at Giddy, creators of a crypto wallet with decentralized private key security. He explains how their solution allows self-custody while still being recoverable. He highlighted increasing demand for self-custody after the FTX collapse. Lemke also touched on upcoming US crypto regulations and Getty's roadmap to simplify staking and other complex processes. Stacy Elliott interviewed him at Messari Mainnet 2023.",
           "link": "https://decrypt.co/videos/live-events/kA1Bqu4H/accessible-self-custody-for-crypto",
           "publishedOn": "2023-09-26T00:52:07.000Z",
-          "wordCount": 6462,
+          "wordCount": 6811,
           "title": "Accessible Self-Custody for Crypto",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/kA1Bqu4H/poster.jpg",
@@ -881,7 +881,7 @@
           "description": "Amanda Tuminelli of the Defi Education Fund discusses the need for sensible crypto regulation. She says regulators should work with the industry to understand how protocols work before proposing expansive rules that could stifle innovation. Stacy Elliott of Decrypt interviewed her at Messari Mainnet 2023.",
           "link": "https://decrypt.co/videos/live-events/xD0CzPUF/defi-education-fund-advocates-for-responsible-crypto-regulation",
           "publishedOn": "2023-09-26T00:32:21.000Z",
-          "wordCount": 6730,
+          "wordCount": 6381,
           "title": "Defi Education Fund Advocates for Responsible Crypto Regulation",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/xD0CzPUF/poster.jpg",
@@ -896,7 +896,7 @@
           "description": "What is AI Arena? Decrypt's Kate Irwin dives into the upcoming video game in an interview with the game's founders, AI Arena CEO Brandon Da Silva and COO Wei Xie.",
           "link": "https://decrypt.co/videos/interviews/qTBh0ayt/train-your-own-ai-powered-fighter-inside-ai-arena",
           "publishedOn": "2023-09-25T20:56:00.000Z",
-          "wordCount": 6304,
+          "wordCount": 6660,
           "title": "Train Your Own AI-Powered Fighter? Inside AI Arena",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/qTBh0ayt/poster.jpg",
@@ -912,6 +912,36 @@
       "feedUrl": "https://cryptopanic.com/news/rss/",
       "siteUrl": "https://cryptopanic.com/",
       "articles": [
+        {
+          "id": "https://cryptopanic.com/news/18940783/Here-Are-3-Sectors-for-New-Crypto-Investment-Opportunities-2024",
+          "author": null,
+          "description": "In a recent video from the YouTube channel Crypto Banter, the host discussed three major crypto sectors poised to be the driving forces of the next market cycle. According to the host, these sectors should form the foundation of any crypto investor’s portfolio. Firstly, the host emphasized the...",
+          "link": "https://cryptopanic.com/news/18940783/Here-Are-3-Sectors-for-New-Crypto-Investment-Opportunities-2024",
+          "publishedOn": "2023-10-01T22:00:00.000Z",
+          "wordCount": 592,
+          "title": "Here Are 3 Sectors for New Crypto Investment Opportunities 2024",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18940778/VC-Roundup-Investors-eyes-blockchain-analytics-gaming-and-crypto-privacy",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/18940778/VC-Roundup-Investors-eyes-blockchain-analytics-gaming-and-crypto-privacy",
+          "publishedOn": "2023-10-01T21:58:08.000Z",
+          "wordCount": null,
+          "title": "VC Roundup: Investors eyes blockchain analytics, gaming and crypto privacy",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18940784/Analyst-Reveals-5-Altcoins-to-Watch-Closely-This-Week-and-Why",
+          "author": null,
+          "description": "A popular cryptocurrency analysis account announced the altcoins it will follow closely this week and why it will follow them. Continue Reading: Analyst Reveals 5 Altcoins to Watch Closely This Week and Why",
+          "link": "https://cryptopanic.com/news/18940784/Analyst-Reveals-5-Altcoins-to-Watch-Closely-This-Week-and-Why",
+          "publishedOn": "2023-10-01T21:57:08.000Z",
+          "wordCount": 593,
+          "title": "Analyst Reveals 5 Altcoins to Watch Closely This Week and Why",
+          "imageUrl": "https://www.bitcoinsistemi.com/wp-content/uploads/2023/08/altcoin-soru-isareti.jpg"
+        },
         {
           "id": "https://cryptopanic.com/news/18940733/Watch-Out-13-Altcoins-Have-Massive-Token-Unlocks-in-the-Coming-Week-Here-is-the-List-Day-by-Day-Hour-by-Hour",
           "author": null,
@@ -935,52 +965,52 @@
         {
           "id": "https://cryptopanic.com/news/18940704/FTX-Hacker-Holding-300000000-in-Crypto-Suddenly-Moves-Millions-Worth-of-Assets-On-Chain-Data",
           "author": null,
-          "description": "A bad actor who hacked the infamous crypto exchange FTX as it was collapsing is abruptly moving millions of dollars worth of crypto assets. According to data from blockchain intelligence platform Arkham, the FTX hacker, who holds over $300 million worth of digital assets, has moved some Ethereum...",
+          "description": "",
           "link": "https://cryptopanic.com/news/18940704/FTX-Hacker-Holding-300000000-in-Crypto-Suddenly-Moves-Millions-Worth-of-Assets-On-Chain-Data",
           "publishedOn": "2023-10-01T20:00:28.000Z",
-          "wordCount": 596,
+          "wordCount": null,
           "title": "FTX Hacker Holding $300,000,000 in Crypto Suddenly Moves Millions Worth of Assets: On-Chain Data",
-          "imageUrl": "https://dailyhodl.com/wp-content/uploads/2023/04/hacker-bounty-offered-after.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/18940702/This-Week-on-Crypto-Twitter-Binances-CZ-and-the-SECs-Gary-Gensler-Face-Stiff-Criticism",
           "author": null,
-          "description": "Meanwhile, Justin Sun offered a job and $400,000 to the hacker that purloined $8 million from HTX.",
+          "description": "",
           "link": "https://cryptopanic.com/news/18940702/This-Week-on-Crypto-Twitter-Binances-CZ-and-the-SECs-Gary-Gensler-Face-Stiff-Criticism",
           "publishedOn": "2023-10-01T19:54:10.000Z",
-          "wordCount": 597,
+          "wordCount": null,
           "title": "This Week on Crypto Twitter: Binance’s CZ and the SEC’s Gary Gensler Face Stiff Criticism",
-          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/09/gary-gensler-congress-senate-sec-gID_7.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/18940700/Tokenization-is-securitization-done-on-steroids-Franklin-Templeton-CEO",
           "author": null,
-          "description": "Speaking at CNBC’s Delivering Alpha event, Jenny Johnson discussed how digital assets are disrupting securitization and the financial markets.",
+          "description": "",
           "link": "https://cryptopanic.com/news/18940700/Tokenization-is-securitization-done-on-steroids-Franklin-Templeton-CEO",
           "publishedOn": "2023-10-01T19:40:34.000Z",
-          "wordCount": 592,
+          "wordCount": null,
           "title": "Tokenization is “securitization done on steroids\" — Franklin Templeton CEO",
-          "imageUrl": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-10/c480b5cb-e086-41d7-b38f-2e3fc377bb1c.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/18940676/Whales-Collect-ETH-as-Ethereum-Futures-ETFs-Are-Almost-Certain-to-Be-Approved",
           "author": null,
-          "description": "As Ethereum futures ETFs are expected to be approved by the SEC tomorrow, whales are experiencing increased activity. Continue Reading: Whales Collect ETH as Ethereum Futures ETFs Are Almost Certain to Be Approved",
+          "description": "",
           "link": "https://cryptopanic.com/news/18940676/Whales-Collect-ETH-as-Ethereum-Futures-ETFs-Are-Almost-Certain-to-Be-Approved",
           "publishedOn": "2023-10-01T19:18:05.000Z",
-          "wordCount": 595,
+          "wordCount": null,
           "title": "Whales Collect ETH as Ethereum Futures ETFs Are Almost Certain to Be Approved",
-          "imageUrl": "https://www.bitcoinsistemi.com/wp-content/uploads/2023/04/ethereum-eth.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/18940572/Chainlink-Secures-Partnership-With-670000000000-Bank-As-Sergey-Nazarov-Says-SWIFT-Project-Going-Very-Well",
           "author": null,
-          "description": "The decentralized oracle service Chainlink (LINK) is teaming up with lending giant Australia and New Zealand Banking Group (ANZ). According to a press release from Chainlink, ANZ participated in a case study involving the oracle’s new Cross-Chain Interoperability Protocol (CCIP) technology. The...",
+          "description": "",
           "link": "https://cryptopanic.com/news/18940572/Chainlink-Secures-Partnership-With-670000000000-Bank-As-Sergey-Nazarov-Says-SWIFT-Project-Going-Very-Well",
           "publishedOn": "2023-10-01T18:45:31.000Z",
-          "wordCount": 597,
+          "wordCount": null,
           "title": "Chainlink Secures Partnership With $670,000,000,000 Bank, As Sergey Nazarov Says SWIFT Project Going ‘Very Well’",
-          "imageUrl": "https://dailyhodl.com/wp-content/uploads/2022/11/Predicts-Breakout-for-Chainlink.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/18940562/Brazil-Rolls-Out-National-Digital-ID-Powered-By-Blockchain",
@@ -995,32 +1025,32 @@
         {
           "id": "https://cryptopanic.com/news/18940560/Uniswaps-rising-user-activity-has-this-effect-on-UNI",
           "author": null,
-          "description": "Uniswap witnesses a resurgence with growing user activity and a milestone 300 million swaps, while strategic collaborations drive its evolution.",
+          "description": "",
           "link": "https://cryptopanic.com/news/18940560/Uniswaps-rising-user-activity-has-this-effect-on-UNI",
           "publishedOn": "2023-10-01T18:30:20.000Z",
-          "wordCount": 591,
+          "wordCount": null,
           "title": "Uniswap’s rising user activity has this effect on UNI",
-          "imageUrl": "https://statics.ambcrypto.com/wp-content/uploads/2023/10/ambcrypto_Unicorn_cyberpunk_a101ccc9-db83-465e-a451-374510f4a8bc-e1696155073948.png"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/18940564/Upcoming-UAE-Based-Crypto-Exchange-M2-Is-Aiming-to-Steal-Binances-Lunch-Says-Shark-Tank-Star",
           "author": null,
-          "description": "",
+          "description": "On September 29, Kevin O’Leary, Chairman of O’Leary Ventures and ‘Shark Tank’ investor, offers a detailed analysis of the government shutdown, crypto regulation, and the commercial real estate crisis on Fox Business show Varney & Co. (which is hosted by Stuart Varney). Government Shutdown: A...",
           "link": "https://cryptopanic.com/news/18940564/Upcoming-UAE-Based-Crypto-Exchange-M2-Is-Aiming-to-Steal-Binances-Lunch-Says-Shark-Tank-Star",
           "publishedOn": "2023-10-01T18:28:36.000Z",
-          "wordCount": null,
+          "wordCount": 597,
           "title": "Upcoming UAE-Based Crypto Exchange M2 Is Aiming to Steal Binance’s Lunch, Says ‘Shark Tank’ Star",
-          "imageUrl": null
+          "imageUrl": "https://media.cryptoglobe.com/2023/10/Abu-Dhabi-768x512.jpg"
         },
         {
           "id": "https://cryptopanic.com/news/18940565/Sam-Bankman-Fried-Has-Few-Pathways-to-Acquittal-Say-Legal-Experts",
           "author": null,
-          "description": "The former crypto mogul has limited defense strategies, and some could backfire.",
+          "description": "",
           "link": "https://cryptopanic.com/news/18940565/Sam-Bankman-Fried-Has-Few-Pathways-to-Acquittal-Say-Legal-Experts",
           "publishedOn": "2023-10-01T18:27:35.000Z",
-          "wordCount": 592,
+          "wordCount": null,
           "title": "Sam Bankman-Fried Has Few Pathways to Acquittal, Say Legal Experts",
-          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2023/08/DSCF7420-2-scaled-gID_7.jpeg"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/18940550/Ethereums-Ascent-Over-Bitcoin-Heres-One-Analysts-Long-term-Crypto-Forecast",
@@ -1045,22 +1075,22 @@
         {
           "id": "https://cryptopanic.com/news/18940513/Brazil-Transitions-to-a-Blockchain-Based-Digital-Identity-System",
           "author": null,
-          "description": "The Brazilian government will switch to a new blockchain-based identity system and roll it out across the country by November. Continue Reading: Brazil Transitions to a Blockchain-Based Digital Identity System",
+          "description": "",
           "link": "https://cryptopanic.com/news/18940513/Brazil-Transitions-to-a-Blockchain-Based-Digital-Identity-System",
           "publishedOn": "2023-10-01T17:33:07.000Z",
-          "wordCount": 590,
+          "wordCount": null,
           "title": "Brazil Transitions to a Blockchain-Based Digital Identity System",
-          "imageUrl": "https://www.bitcoinsistemi.com/wp-content/uploads/2022/04/blockchain.jpeg"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/18940506/Bitcoin-holders-show-renewed-confidence-in-the-king-coin",
           "author": null,
-          "description": "",
+          "description": "The confidence shown by long-term holders was also corroborated by an on-chain analyst. Consequently, Bitcoin' realized price could act as a support rather than resistance.",
           "link": "https://cryptopanic.com/news/18940506/Bitcoin-holders-show-renewed-confidence-in-the-king-coin",
           "publishedOn": "2023-10-01T17:30:57.000Z",
-          "wordCount": null,
+          "wordCount": 591,
           "title": "Bitcoin holders show renewed confidence in the king coin",
-          "imageUrl": null
+          "imageUrl": "https://statics.ambcrypto.com/wp-content/uploads/2023/10/Bitcoin_holders_long_1200x900.png"
         },
         {
           "id": "https://cryptopanic.com/news/18940497/SBF-Trial-Prosecution-Previews-the-Witnesses-It-Plans-to-Call",
@@ -1080,36 +1110,6 @@
           "publishedOn": "2023-10-01T17:24:30.000Z",
           "wordCount": null,
           "title": "Latest JPEX Arrestee Found with Shredded and Bleached Documents in Hong Kong Flat: Report",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18940474/KuCoins-Resilience-Tested-With-116-Million-Crypto-Outflow",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/18940474/KuCoins-Resilience-Tested-With-116-Million-Crypto-Outflow",
-          "publishedOn": "2023-10-01T17:05:00.000Z",
-          "wordCount": null,
-          "title": "KuCoin's Resilience Tested With $116 Million Crypto Outflow",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18940478/Brace-for-the-Impact",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/18940478/Brace-for-the-Impact",
-          "publishedOn": "2023-10-01T17:00:35.000Z",
-          "wordCount": null,
-          "title": "Brace for the Impact!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18940471/SEC-Files-Lawsuit-Against-FTX-Auditor-Details",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/18940471/SEC-Files-Lawsuit-Against-FTX-Auditor-Details",
-          "publishedOn": "2023-10-01T17:00:21.000Z",
-          "wordCount": null,
-          "title": "SEC Files Lawsuit Against FTX Auditor – Details",
           "imageUrl": null
         }
       ]
@@ -1145,7 +1145,7 @@
           "description": "Brazil is at the forefront of a new era in digital identity verification, leveraging blockchain technology to revolutionize their identification systems. This strategic move is driven by the pursuit of enhanced security, efficiency, and streamlined processes for their respective populations.\n \nIn Brazil, the government has unveiled plans to integrate blockchain technology into its national identity program, with Rio de Janeiro, Goiás, and Paraná taking the lead in this pioneering initiative.\n \nSerpro, Brazil’s national data processing service, is spearheading the development of a private blockchain platform that will underpin the revenue service’s shared registry known as b-Cadastros.\n \nThis blockchain network will facilitate the search, issuance, and modification of new ID cards and tax r…",
           "link": "https://bitcoinist.com/brazil-rolls-out-blockchain-digital-id/",
           "publishedOn": "2023-10-01T18:40:58.000Z",
-          "wordCount": 5434,
+          "wordCount": 5436,
           "title": "Brazil Rolls Out National Digital ID Powered By Blockchain",
           "enclosure": {
             "length": "1337",
@@ -1175,7 +1175,7 @@
           "description": "Sam Bankman-Fried cannot blame FTX's lawyers for its collapse or operations in his opening statements, though he can still try and make a so-called \"advice-of-counsel\" defense later, the federal judge overseeing his case ruled Sunday.",
           "link": "https://www.coindesk.com/policy/2023/10/01/ftxs-bankman-fried-cannot-blame-lawyers-in-opening-statement-judge/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-10-01T17:25:37.000Z",
-          "wordCount": 7481,
+          "wordCount": 7471,
           "title": "FTX's Bankman-Fried Cannot Blame Lawyers in Opening Statement: Judge",
           "enclosure": {
             "length": "1337",
@@ -1215,7 +1215,7 @@
           "description": "Following a brief absence spanning several weeks, Kusama, the leading developer of Shiba Inu, has resurfaced with a cryptic tweet.\n \nSeptember was quite a busy month for the SHIB ecosystem, with a number of noteworthy occurrences including the SHIB burn rate increasing by more than 1300%, the tremendous growth of Shibarium, the announcement of Shibarium IDs, and the developers of Shiba Inu relinquishing their commitment to the BONE contract. While all these was happening, nothing was heard from Shytoshi Kusama, the Shiba Inu lead developer on social media. But this silence just changed with a cryptic post on X (formerly known as Twitter).\n \n \n https://t.co/Rqa8UrfuvH\n \n— Shytoshi Kusama (@ShytoshiKusama) September 29, 2023\n \n\n \nKusama Breaks Silence\n \nKusama’s silence incited anticipation …",
           "link": "https://bitcoinist.com/lead-dev-kusama-ends-hiatus/",
           "publishedOn": "2023-10-01T15:40:06.000Z",
-          "wordCount": 5509,
+          "wordCount": 5513,
           "title": "Lead Dev Kusama Ends Hiatus, Returns With Cryptic Tweet",
           "enclosure": {
             "length": "1337",
@@ -1240,7 +1240,7 @@
           "description": "Although the legal battle between Ripple and the SEC isn’t officially over, the payments technology company has gone ahead to host a party to celebrate its partial win in court. After the court win, Ripple’s founder and CEO Brad Garlinghouse announced on social media a September 29 date for what was called a “Victory Party.” Now that the event has been held, it hasn’t gone without a mark for the XRP community.\n \n \n \n Save the Date \n \nWe’re hosting a community celebration on September 29 in New York City!\n \nStay tuned for more details to come later this week. pic.twitter.com/PlaqPoQcte\n \n— Ripple (@Ripple) August 28, 2023\n \n\n \nA Sense Of Relief And Validation\n \nAfter years of battling it out against the SEC in court, Ripple finally got some reprieve. While Ripple’s legal troubles aren’t ove…",
           "link": "https://bitcoinist.com/xrp-takeaways-from-ripple-victory-party/",
           "publishedOn": "2023-10-01T14:40:39.000Z",
-          "wordCount": 5615,
+          "wordCount": 5617,
           "title": "XRP News: Here Are The Major Takeaways From The Ripple Victory Party",
           "enclosure": {
             "length": "1337",
@@ -1350,7 +1350,7 @@
           "description": "The U.S. Department of Justice said it intends to call FTX customers, investors and cooperating witnesses to testify against Sam Bankman-Fried at trial next week, including a Ukrainian local who would have difficulty getting to the courthouse in-person.",
           "link": "https://www.coindesk.com/policy/2023/09/30/ftx-customers-investors-will-testify-against-sam-bankman-fried-doj-says/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-09-30T22:42:55.000Z",
-          "wordCount": 7594,
+          "wordCount": 7604,
           "title": "FTX Customers, Investors Will Testify Against Sam Bankman-Fried, DOJ Says",
           "enclosure": {
             "length": "1337",

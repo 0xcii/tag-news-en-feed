@@ -761,7 +761,7 @@
           "description": "Paul Brody drives Ernst & Young (EY) initiatives and investments in blockchain technology across consulting, audit, and tax business lines. He says enterprise blockchain adoption is nearing an inflection point. Brody believes blockchains will one day handle 40 billion transactions daily across industries like automotive and pharma. Stacy Elliott interviewed him at Messari Mainnet 2023.",
           "link": "https://decrypt.co/videos/live-events/xXOrNbX9/explosive-growth-ahead-for-enterprise-blockchain",
           "publishedOn": "2023-09-26T05:41:10.000Z",
-          "wordCount": 6768,
+          "wordCount": 6419,
           "title": "Explosive Growth Ahead for Enterprise Blockchain",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/xXOrNbX9/poster.jpg",
@@ -769,21 +769,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.jwplayer.com/v2/media/xXOrNbX9/poster.jpg"
-        },
-        {
-          "id": "https://decrypt.co/videos/live-events/CrpvzFjL/regulation-threatens-us-dominance-of-financial-markets-says-coinroutes-ceo",
-          "author": null,
-          "description": "Dave Weisberger, Co-Founder and CEO of CoinRoutes, argued that excessive regulation in the U.S. threatens to undermine the country's long-standing dominance in global financial markets. He warned that other countries are embracing blockchain and crypto to build more efficient digital markets, which could cause the US to lose its competitive edge and trillions in GDP. Weisberger said CoinRoutes is now focusing more on expanding internationally due to restrictive policies in the U.S. He was interviewed by André Beganski of Decrypt at Messari Mainnet 2023.",
-          "link": "https://decrypt.co/videos/live-events/CrpvzFjL/regulation-threatens-us-dominance-of-financial-markets-says-coinroutes-ceo",
-          "publishedOn": "2023-09-26T05:41:10.000Z",
-          "wordCount": 6937,
-          "title": "Regulation Threatens U.S. Dominance of Financial Markets, Says CoinRoutes CEO",
-          "enclosure": {
-            "url": "https://cdn.jwplayer.com/v2/media/CrpvzFjL/poster.jpg",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.jwplayer.com/v2/media/CrpvzFjL/poster.jpg"
         },
         {
           "id": "https://decrypt.co/videos/live-events/OvAFgxTd/building-a-developer-friendly-zkrollup-to-scale-ethereum",
@@ -799,6 +784,21 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.jwplayer.com/v2/media/OvAFgxTd/poster.jpg"
+        },
+        {
+          "id": "https://decrypt.co/videos/live-events/CrpvzFjL/regulation-threatens-us-dominance-of-financial-markets-says-coinroutes-ceo",
+          "author": null,
+          "description": "Dave Weisberger, Co-Founder and CEO of CoinRoutes, argued that excessive regulation in the U.S. threatens to undermine the country's long-standing dominance in global financial markets. He warned that other countries are embracing blockchain and crypto to build more efficient digital markets, which could cause the US to lose its competitive edge and trillions in GDP. Weisberger said CoinRoutes is now focusing more on expanding internationally due to restrictive policies in the U.S. He was interviewed by André Beganski of Decrypt at Messari Mainnet 2023.",
+          "link": "https://decrypt.co/videos/live-events/CrpvzFjL/regulation-threatens-us-dominance-of-financial-markets-says-coinroutes-ceo",
+          "publishedOn": "2023-09-26T05:41:10.000Z",
+          "wordCount": 6588,
+          "title": "Regulation Threatens U.S. Dominance of Financial Markets, Says CoinRoutes CEO",
+          "enclosure": {
+            "url": "https://cdn.jwplayer.com/v2/media/CrpvzFjL/poster.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.jwplayer.com/v2/media/CrpvzFjL/poster.jpg"
         },
         {
           "id": "https://decrypt.co/videos/live-events/axArPRp3/bitcoins-narrative-is-shifting-towards-layer-2-solutions",
@@ -821,7 +821,7 @@
           "description": "Decrypt's Stacy Elliott sat down with Robinhood Crypto general manager Johann Kerbrat at Messari Mainnet 2023, to talk about the trading platform's crypto wallet, onboarding new users through simplicity, and keeping platform fees sustainable.",
           "link": "https://decrypt.co/videos/live-events/PLZ0FpdC/we-need-to-start-thinking-about-how-we-make-crypto-easy-to-use-robinhood-crypto-general-manager",
           "publishedOn": "2023-09-26T05:41:10.000Z",
-          "wordCount": 6729,
+          "wordCount": 6380,
           "title": "We Need to Start Thinking About How we Make Crypto Easy to Use: Robinhood Crypto General Manager",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/PLZ0FpdC/poster.jpg",
@@ -896,7 +896,7 @@
           "description": "What is AI Arena? Decrypt's Kate Irwin dives into the upcoming video game in an interview with the game's founders, AI Arena CEO Brandon Da Silva and COO Wei Xie.",
           "link": "https://decrypt.co/videos/interviews/qTBh0ayt/train-your-own-ai-powered-fighter-inside-ai-arena",
           "publishedOn": "2023-09-25T20:56:00.000Z",
-          "wordCount": 6660,
+          "wordCount": 6304,
           "title": "Train Your Own AI-Powered Fighter? Inside AI Arena",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/qTBh0ayt/poster.jpg",
@@ -913,24 +913,44 @@
       "siteUrl": "https://cryptopanic.com/",
       "articles": [
         {
+          "id": "https://cryptopanic.com/news/18939824/Bitcoin-shows-bearish-signs-as-ETF-approvals-get-delayed",
+          "author": null,
+          "description": "The SEC is attempting to push the dates for Bitcoin's ETF approval until the final deadline. This is dampening the optimism around BTC, which remained under $27,000 last week.",
+          "link": "https://cryptopanic.com/news/18939824/Bitcoin-shows-bearish-signs-as-ETF-approvals-get-delayed",
+          "publishedOn": "2023-10-01T04:30:54.000Z",
+          "wordCount": 591,
+          "title": "Bitcoin shows bearish signs as ETF approvals get delayed",
+          "imageUrl": "https://statics.ambcrypto.com/wp-content/uploads/2023/09/BTC-7.png"
+        },
+        {
+          "id": "https://cryptopanic.com/news/18939820/SEC-Sues-Former-Goldman-Sachs-Analyst-for-Insider-Trading",
+          "author": null,
+          "description": "The U.S. Securities and Exchange Commission has charged a former analyst at Goldman Sachs and Blackstone, for alleged insider trading.",
+          "link": "https://cryptopanic.com/news/18939820/SEC-Sues-Former-Goldman-Sachs-Analyst-for-Insider-Trading",
+          "publishedOn": "2023-10-01T04:26:59.000Z",
+          "wordCount": 591,
+          "title": "SEC Sues Former Goldman Sachs Analyst for Insider Trading",
+          "imageUrl": "https://cryptopotato.com/wp-content/uploads/2023/02/sec.jpg"
+        },
+        {
           "id": "https://cryptopanic.com/news/18939780/Banking-Giant-To-Terminate-Accounts-en-Masse-Based-on-Physical-Address-Says-Move-Is-Irreversible",
           "author": null,
-          "description": "London-based lender Barclays says it plans to terminate the accounts of thousands of British citizens who are currently residing outside the United Kingdom. The bank says it’s contacting expatriates living outside the UK about the coming closure of their savings or current accounts. Barclays...",
+          "description": "",
           "link": "https://cryptopanic.com/news/18939780/Banking-Giant-To-Terminate-Accounts-en-Masse-Based-on-Physical-Address-Says-Move-Is-Irreversible",
           "publishedOn": "2023-10-01T03:08:54.000Z",
-          "wordCount": 597,
+          "wordCount": null,
           "title": "Banking Giant To Terminate Accounts en Masse Based on Physical Address, Says Move Is Irreversible",
-          "imageUrl": "https://dailyhodl.com/wp-content/uploads/2023/09/bank-closing-accounts-1.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/18939755/SEC-initiates-legal-action-against-FTXs-auditor",
           "author": null,
-          "description": "The SEC alleges that Prager Metis, an accounting firm engaged by bankrupt crypto exchange FTX in 2021, committed hundreds of violations related to auditor independence.",
+          "description": "",
           "link": "https://cryptopanic.com/news/18939755/SEC-initiates-legal-action-against-FTXs-auditor",
           "publishedOn": "2023-10-01T01:53:14.000Z",
-          "wordCount": 589,
+          "wordCount": null,
           "title": "SEC initiates legal action against FTX's auditor",
-          "imageUrl": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-09/4314aa5d-b9a1-464d-ba01-0cb564b574ad.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/18939742/Crypto-This-Week-Shiba-Inu-Burn-Rate-Rags-To-Riches-Story-Robert-Kiyosaki-On-Bitcoins-Future-And-More",
@@ -955,12 +975,12 @@
         {
           "id": "https://cryptopanic.com/news/18939717/Billion-Dollar-Bank-Fined-9650000-for-Misleading-Customers-Charging-186000-Accounts-With-Hidden-Fees-and-Interest",
           "author": null,
-          "description": "A bank with about $670 billion in total assets will pay a multi-million-dollar fine after admitting to misleading credit card customers for years. The Australian Securities and Investments Commission (ASIC) says Australia and New Zealand Banking Group Limited (ANZ) has agreed to pay $15 million...",
+          "description": "",
           "link": "https://cryptopanic.com/news/18939717/Billion-Dollar-Bank-Fined-9650000-for-Misleading-Customers-Charging-186000-Accounts-With-Hidden-Fees-and-Interest",
           "publishedOn": "2023-10-01T00:04:59.000Z",
-          "wordCount": 597,
+          "wordCount": null,
           "title": "Billion-Dollar Bank Fined $9,650,000 for Misleading Customers, Charging 186,000 Accounts With Hidden Fees and Interest",
-          "imageUrl": "https://dailyhodl.com/wp-content/uploads/2023/09/bank-account-cash.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/18939708/Under-the-Radar-DeFi-Altcoin-Surges-by-22-on-Friday-Amid-the-Rollout-of-New-Mining-Rewards",
@@ -975,12 +995,12 @@
         {
           "id": "https://cryptopanic.com/news/18939679/Bread-Circuses-Bitcoin-The-Historical-Cycle-of-Empires",
           "author": null,
-          "description": "",
+          "description": "Dive deep into the intriguing parallels between Ancient Rome and modern-day America. How does the debasement of currency back then mirror today's economic challenges? Max Keiser shares how central banks are playing thousand-year-old tricks with paper money! Could Bitcoin have been Rome's savior,...",
           "link": "https://cryptopanic.com/news/18939679/Bread-Circuses-Bitcoin-The-Historical-Cycle-of-Empires",
           "publishedOn": "2023-09-30T22:44:54.000Z",
-          "wordCount": null,
+          "wordCount": 591,
           "title": "Bread, Circuses & Bitcoin: The Historical Cycle of Empires",
-          "imageUrl": null
+          "imageUrl": "https://i1.ytimg.com/vi/tZAsrj3oBcg/hqdefault.jpg"
         },
         {
           "id": "https://cryptopanic.com/news/18939639/Another-Months-Comes-to-Close",
@@ -1015,12 +1035,12 @@
         {
           "id": "https://cryptopanic.com/news/18939646/FTX-Customers-Investors-Will-Testify-Against-Sam-Bankman-Fried-DOJ-Says",
           "author": null,
-          "description": "The U.S. Department of Justice said it intends to call FTX customers, investors and cooperating witnesses to testify against Sam Bankman-Fried at trial next week, including a Ukrainian local who would have difficulty getting to the courthouse in-person.",
+          "description": "",
           "link": "https://cryptopanic.com/news/18939646/FTX-Customers-Investors-Will-Testify-Against-Sam-Bankman-Fried-DOJ-Says",
           "publishedOn": "2023-09-30T21:39:50.000Z",
-          "wordCount": 592,
+          "wordCount": null,
           "title": "FTX Customers, Investors Will Testify Against Sam Bankman-Fried, DOJ Says",
-          "imageUrl": "https://www.coindesk.com/resizer/6dMFgykyOgq9h1atPNe_-6mvTd0=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/L3KTDJMSKVA7PJYRJCZXLAACZM.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/18939640/Shiba-Inu-SHIB-Negatively-Correlates-With-Bitcoin-BTC-What-This-Implies",
@@ -1035,12 +1055,12 @@
         {
           "id": "https://cryptopanic.com/news/18939638/Ethereum-Supply-Is-Starting-to-Grow-Again-as-Gas-Prices-Plummet",
           "author": null,
-          "description": "",
+          "description": "The network is deflationary over shorter time frames, but inflationary on longer ones. What gives?",
           "link": "https://cryptopanic.com/news/18939638/Ethereum-Supply-Is-Starting-to-Grow-Again-as-Gas-Prices-Plummet",
           "publishedOn": "2023-09-30T21:33:53.000Z",
-          "wordCount": null,
+          "wordCount": 593,
           "title": "Ethereum Supply Is Starting to Grow Again as Gas Prices Plummet",
-          "imageUrl": null
+          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2023/09/Ethereum-Gas-shutterstock_2299359143-16x9-1-gID_7.jpg"
         },
         {
           "id": "https://cryptopanic.com/news/18939627/Ether-futures-ETFs-launching-SBF-trial-to-begin-and-3ACs-Su-Zhu-arrested-Hodlers-Digest-Sept-24-30",
@@ -1055,12 +1075,12 @@
         {
           "id": "https://cryptopanic.com/news/18939624/Shiba-Inu-SHIB-Team-Member-Makes-Interesting-Shibarium-Analogy",
           "author": null,
-          "description": "",
+          "description": "Shibarium has set some interesting milestones since its first launch and subsequent relaunch",
           "link": "https://cryptopanic.com/news/18939624/Shiba-Inu-SHIB-Team-Member-Makes-Interesting-Shibarium-Analogy",
           "publishedOn": "2023-09-30T21:03:00.000Z",
-          "wordCount": null,
+          "wordCount": 591,
           "title": "Shiba Inu (SHIB) Team Member Makes Interesting Shibarium Analogy",
-          "imageUrl": null
+          "imageUrl": "https://u.today/sites/default/files/styles/twitter/public/2023-09/40662.jpg"
         },
         {
           "id": "https://cryptopanic.com/news/18939610/The-top-5-stories-from-last-week-in-crypto",
@@ -1085,31 +1105,11 @@
         {
           "id": "https://cryptopanic.com/news/18939607/RockX-And-Matrixports-Cactus-Custody-Revolutionize-Institutional-Crypto-Staking",
           "author": null,
-          "description": "RockX, a leading name in institutional-grade staking solutions in Asia, has teamed up with Matrixport’s Cactus Custody, Matrixport's esteemed institutional custodian brand, to redefine the landscape of crypto staking. read more",
+          "description": "",
           "link": "https://cryptopanic.com/news/18939607/RockX-And-Matrixports-Cactus-Custody-Revolutionize-Institutional-Crypto-Staking",
           "publishedOn": "2023-09-30T20:26:18.000Z",
-          "wordCount": 591,
+          "wordCount": null,
           "title": "RockX And Matrixport's Cactus Custody Revolutionize Institutional Crypto Staking",
-          "imageUrl": "https://cdn.benzinga.com/files/images/story/2023/09/30/screenshot_2023-09-30_123454.png?width=1200&height=800&fit=crop"
-        },
-        {
-          "id": "https://cryptopanic.com/news/18939586/Significant-Funding-Bill-to-Prevent-Government-Shutdown-in-the-US-Approved-by-the-House-of-Representatives",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/18939586/Significant-Funding-Bill-to-Prevent-Government-Shutdown-in-the-US-Approved-by-the-House-of-Representatives",
-          "publishedOn": "2023-09-30T20:13:06.000Z",
-          "wordCount": null,
-          "title": "Significant Funding Bill to Prevent Government Shutdown in the US Approved by the House of Representatives",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18939582/Brazil-rolls-out-blockchain-based-digital-ID",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/18939582/Brazil-rolls-out-blockchain-based-digital-ID",
-          "publishedOn": "2023-09-30T20:11:49.000Z",
-          "wordCount": null,
-          "title": "Brazil rolls out blockchain-based digital ID",
           "imageUrl": null
         }
       ]
@@ -1119,6 +1119,16 @@
       "feedUrl": "https://www.inoreader.com/stream/user/1005336866/tag/%E6%B5%B7%E5%A4%96%E5%8A%A0%E5%AF%86%E8%B5%84%E8%AE%AF",
       "siteUrl": "https://www.inoreader.com/stream/user/1005336866/tag/%E6%B5%B7%E5%A4%96%E5%8A%A0%E5%AF%86%E8%B5%84%E8%AE%AF/view/html",
       "articles": [
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e74b8fc8992",
+          "author": "Media",
+          "description": "Bitcoin.com, one of the world’s leading cryptocurrency wallet developers and news portals, has partnered with the Busan International Film Festival as a major sponsor. The Busan International Film Festival (BIFF), held annually in South Korea, is one of the most significant film festivals in all of Asia. By sponsoring the event Bitcoin.com seeks to support artistic endeavors and reach new audiences.\n \nThe 28th Busan International Film Festival will take place on October 4-13, 2023 at the Busan Cinema Center in Busan, South Korea. The festival will showcase the best of Asian cinema and feature various events and programs, such as master classes, open talks, hand-printing ceremonies, and awards ceremonies. The opening film will be Because I Hate Korea by Jang Kun-jae, and the closing film will be The Movie Emperor by Ning Hao. The festival will also honor Hong Kong star Chow Yun-fat with the Asian Filmmaker of the Year award. You can find more information about the festival on its official website www.biff.kr/eng/.\n \nAbout Bitcoin.com\n \nSince 2015, Bitcoin.com has been a global leader in introducing newcomers to crypto. Featuring accessible educational materials, timely and objective news, and intuitive self-custodial products, we make it easy for anyone to buy, spend, trade, invest, earn and stay up-to-date on cryptocurrency and the future of finance.",
+          "link": "https://news.bitcoin.com/bitcoin-com-partners-busan-international-film-festival-as-major-sponsor/",
+          "publishedOn": "2023-10-01T05:08:50.000Z",
+          "wordCount": 214,
+          "title": "Bitcoin.com Partners With Busan International Film Festival as Major Sponsor",
+          "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2023/09/img_20230929_105254_126.jpg"
+        },
         {
           "id": "http://www.inoreader.com/article/3a9c6e74b8f90ddb",
           "author": "Kevin Helms",
@@ -1155,7 +1165,7 @@
           "description": "The U.S. Department of Justice said it intends to call FTX customers, investors and cooperating witnesses to testify against Sam Bankman-Fried at trial next week, including a Ukrainian local who would have difficulty getting to the courthouse in-person.",
           "link": "https://www.coindesk.com/policy/2023/09/30/ftx-customers-investors-will-testify-against-sam-bankman-fried-doj-says/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-09-30T22:42:55.000Z",
-          "wordCount": 7590,
+          "wordCount": 7582,
           "title": "FTX Customers, Investors Will Testify Against Sam Bankman-Fried, DOJ Says",
           "enclosure": {
             "length": "1337",
@@ -1330,7 +1340,7 @@
           "description": "FTX was hacked in November 2022, hours after the global crypto empire declared bankruptcy and its founder Sam Bankman-Fried stepped down from running the company.",
           "link": "https://www.coindesk.com/tech/2023/09/30/millions-in-ether-tied-to-ftx-account-drainer-on-the-move/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-09-30T10:18:10.000Z",
-          "wordCount": 7072,
+          "wordCount": 7082,
           "title": "Millions in Ether Tied to FTX Account Drainer on The Move",
           "enclosure": {
             "length": "1337",
@@ -1353,16 +1363,6 @@
             "url": "https://bitcoinist.com/wp-content/uploads/2023/09/Judge-bench-courtroom-Nevada-564x420.jpg"
           },
           "imageUrl": "https://bitcoinist.com/wp-content/uploads/2023/09/Judge-bench-courtroom-Nevada-564x420.jpg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e74b899ed79",
-          "author": "Sergio Goschenko",
-          "description": "The Israel Land Authority has called for blockchain experts to determine the different applications of distributed ledger technology in real estate. Implementing this technology could ostensibly present several advantages compared to traditional real estate transactions, which are qualified by Israeli media as being “time-consuming” and having high operational fees.\nIsrael Examines Blockchain Real Estate Opportunities\nIsrael is mulling the application of blockchain tech in the real estate sector. According to Israeli media, the national Land Authority has called for blockchain experts to examine the various applications of blockchain in the real estate sector, and how it might benefit from such implementations.\nSome of the applications that the Israeli Land Authority believes blockchain te…",
-          "link": "https://news.bitcoin.com/israel-land-authority-examines-real-estate-tokenization-applications/",
-          "publishedOn": "2023-09-30T09:03:35.000Z",
-          "wordCount": 247,
-          "title": "Israel Land Authority Examines Real Estate Tokenization Applications",
-          "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2023/09/shutterstock_1982986151.jpg"
         }
       ]
     }

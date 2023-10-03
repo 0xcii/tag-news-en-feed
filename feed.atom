@@ -1,26 +1,258 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-03T14:14:21.584Z</id>
+    <id>urn:2023-10-03T15:16:01.639Z</id>
     <title>web3::cave</title>
-    <updated>2023-10-03T14:14:21.584Z</updated>
+    <updated>2023-10-03T15:16:01.639Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Tether (USDT) on Exchanges Jumps to 24.7% – Highest Stablecoin Buying Power in 6 Months: Data]]></title>
-        <id>https://cryptopanic.com/news/18944760/Tether-USDT-on-Exchanges-Jumps-to-247-Highest-Stablecoin-Buying-Power-in-6-Months-Data</id>
-        <link href="https://cryptopanic.com/news/18944760/Tether-USDT-on-Exchanges-Jumps-to-247-Highest-Stablecoin-Buying-Power-in-6-Months-Data"/>
-        <updated>2023-10-03T14:10:07.000Z</updated>
-        <summary type="html"><![CDATA[Tether's surging inflows could indicate investors eying fresh opportunities.]]></summary>
+        <title type="html"><![CDATA[Coming Soon: An Easier Way To Bootstrap Your Node's UTXO Set]]></title>
+        <id>http://www.inoreader.com/article/3a9c6e74be73fc71</id>
+        <link href="https://bitcoinmagazine.com/technical/coming-soon-an-easier-way-to-bootstrap-your-bitcoin-nodes-utxo-set"/>
+        <updated>2023-10-03T15:08:27.000Z</updated>
+        <summary type="html"><![CDATA[Yesterday marks coming up to the finishing line after almost four years of work. Assumeutxo was merged into the Bitcoin Core master branch by Andrew Chow yesterday. This is the first major non-consensus update to the Bitcoin reference implementation in quite a while, and is going to have a lot of interesting implications for users bootstrapping nodes. 
+To give a little context about the feature, I think it'll be useful to give a little history lesson. When a Bitcoin Core node first turns on and starts syncing the blockchain it doesn't actually validate the entire historical chain. It can, but it doesn't by default, the reason being to save time and resources when bootstrapping. It validates the entire set of blockchain headers to make sure the proof-of-work is valid, but it doesn't actuall…]]></summary>
+        <author>
+            <name>Shinobi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coinbase push abroad gaining steam but plenty of uncertainty remains]]></title>
+        <id>https://cryptopanic.com/news/18944942/Coinbase-push-abroad-gaining-steam-but-plenty-of-uncertainty-remains</id>
+        <link href="https://cryptopanic.com/news/18944942/Coinbase-push-abroad-gaining-steam-but-plenty-of-uncertainty-remains"/>
+        <updated>2023-10-03T15:06:52.000Z</updated>
+        <summary type="html"><![CDATA[With approval in Singapore, Coinbase is making good on its promise to quickly expand overseas — but can it find enough traction?]]></summary>
         <author>
             <name>News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cardano beats all crypto projects in September developer activity]]></title>
-        <id>https://cryptopanic.com/news/18944761/Cardano-beats-all-crypto-projects-in-September-developer-activity</id>
-        <link href="https://cryptopanic.com/news/18944761/Cardano-beats-all-crypto-projects-in-September-developer-activity"/>
-        <updated>2023-10-03T14:08:06.000Z</updated>
-        <summary type="html"><![CDATA[September has been largely uneventful for the majority of assets in the cryptocurrency market, but for the development team at … Continued]]></summary>
+        <title type="html"><![CDATA[Decoding Thailand’s $277M 'Pig Butchering' Crypto Scam]]></title>
+        <id>https://cryptopanic.com/news/18944935/Decoding-Thailands-277M-Pig-Butchering-Crypto-Scam</id>
+        <link href="https://cryptopanic.com/news/18944935/Decoding-Thailands-277M-Pig-Butchering-Crypto-Scam"/>
+        <updated>2023-10-03T15:05:00.000Z</updated>
+        <summary type="html"><![CDATA[Discover how Binance's collaboration with Thai law enforcement led to the exposure of a $277M crypto scam.]]></summary>
+        <author>
+            <name>News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lawyer Puzzled by SEC’s Action Against Barlinghouse and Larsen]]></title>
+        <id>https://cryptopanic.com/news/18944943/Lawyer-Puzzled-by-SECs-Action-Against-Barlinghouse-and-Larsen</id>
+        <link href="https://cryptopanic.com/news/18944943/Lawyer-Puzzled-by-SECs-Action-Against-Barlinghouse-and-Larsen"/>
+        <updated>2023-10-03T15:02:00.000Z</updated>
+        <summary type="html"><![CDATA[Bill Morgan, a lawyer and digital assets enthusiast, has expressed his curiosity over the SEC’s suit against Brad Barlinghouse and Chris Larsen, alongside Ripple. Morgan cited sections of the Memorandum of Law in support of Steven Nerayoff’s pretrial motion. He noted that unlike Vitalik Buterin,...]]></summary>
+        <author>
+            <name>News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sam Bankman-Fried’s lawyers challenge customers’ testimony on how FTX used their assets]]></title>
+        <id>https://cryptopanic.com/news/18944941/Sam-Bankman-Frieds-lawyers-challenge-customers-testimony-on-how-FTX-used-their-assets</id>
+        <link href="https://cryptopanic.com/news/18944941/Sam-Bankman-Frieds-lawyers-challenge-customers-testimony-on-how-FTX-used-their-assets"/>
+        <updated>2023-10-03T15:00:53.000Z</updated>
+        <summary type="html"><![CDATA[SBF's lawyers are contesting prosecutors’ moves to call on customers to testify on their understanding of how FTX used their assets.]]></summary>
+        <author>
+            <name>News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nomic bridge paves way for Bitcoin’s seamless entry into the Cosmos ecosystem]]></title>
+        <id>https://cryptopanic.com/news/18944934/Nomic-bridge-paves-way-for-Bitcoins-seamless-entry-into-the-Cosmos-ecosystem</id>
+        <link href="https://cryptopanic.com/news/18944934/Nomic-bridge-paves-way-for-Bitcoins-seamless-entry-into-the-Cosmos-ecosystem"/>
+        <updated>2023-10-03T15:00:45.000Z</updated>
+        <summary type="html"><![CDATA[Non-custodial Bitcoin (BTC) bridge Nomic revealed that it would soon allow the top cryptocurrency to be “universally accessible” within the Cosmos (ATOM) ecosystem through a planned upgrade scheduled for Oct. 27. Cosmos, a prominent blockchain network boasting a market capitalization exceeding...]]></summary>
+        <author>
+            <name>News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coinbase’s Legal Expert Outlines What To Expect In FTX’s Sam Bankman-Fried Jury Selection]]></title>
+        <id>https://cryptopanic.com/news/18944940/Coinbases-Legal-Expert-Outlines-What-To-Expect-In-FTXs-Sam-Bankman-Fried-Jury-Selection</id>
+        <link href="https://cryptopanic.com/news/18944940/Coinbases-Legal-Expert-Outlines-What-To-Expect-In-FTXs-Sam-Bankman-Fried-Jury-Selection"/>
+        <updated>2023-10-03T15:00:32.000Z</updated>
+        <summary type="html"><![CDATA[Coinbase’s Chief Legal Officer (CLO) Paul Grewal has weighed in on what to expect in the jury selection in the trial of the former CEO of the defunct crypto exchange FTX, Sam Bankman-Fried (SBF), which is set to take place on October 3.  FTX’s Sam Bankman-Fried Jury Selection Should Be Quick...]]></summary>
+        <author>
+            <name>News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Decentralized Exchange Bluefin’s New Version Goes Live on Sui Network]]></title>
+        <id>https://cryptopanic.com/news/18944932/Decentralized-Exchange-Bluefins-New-Version-Goes-Live-on-Sui-Network</id>
+        <link href="https://cryptopanic.com/news/18944932/Decentralized-Exchange-Bluefins-New-Version-Goes-Live-on-Sui-Network"/>
+        <updated>2023-10-03T14:53:47.000Z</updated>
+        <author>
+            <name>News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kevin O'Leary Envisions A $100K Bitcoin, But This Has To Happen First]]></title>
+        <id>https://cryptopanic.com/news/18944931/Kevin-OLeary-Envisions-A-100K-Bitcoin-But-This-Has-To-Happen-First</id>
+        <link href="https://cryptopanic.com/news/18944931/Kevin-OLeary-Envisions-A-100K-Bitcoin-But-This-Has-To-Happen-First"/>
+        <updated>2023-10-03T14:46:57.000Z</updated>
+        <summary type="html"><![CDATA["So, you're looking at the ending of the Wild West period of crypto. read more]]></summary>
+        <author>
+            <name>News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SBF Attempts to Block Witness Testimony Ahead of His Trial]]></title>
+        <id>https://cryptopanic.com/news/18944879/SBF-Attempts-to-Block-Witness-Testimony-Ahead-of-His-Trial</id>
+        <link href="https://cryptopanic.com/news/18944879/SBF-Attempts-to-Block-Witness-Testimony-Ahead-of-His-Trial"/>
+        <updated>2023-10-03T14:45:00.000Z</updated>
+        <summary type="html"><![CDATA[SBF’s attorneys have asked Judge Kaplan to deny the DOJ’s request to permit an FTX customer to testify remotely.]]></summary>
+        <author>
+            <name>News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[XRPL’s Capability To Handle 293+ Million Transactions Daily Can Make XRP A Global Utility Asset]]></title>
+        <id>http://www.inoreader.com/article/3a9c6e74be7fb58e</id>
+        <link href="https://bitcoinist.com/xrpl-capability-to-handle-293-million-trxs/"/>
+        <updated>2023-10-03T14:44:33.000Z</updated>
+        <summary type="html"><![CDATA[Regarding price, XRP still needs to meet the community’s expectations following Ripple’s partial win against the SEC. However, many enthusiasts remain optimistic about its growth potential.
+ 
+Some crypto analysts and influencers have shared different views about XRP’s long-term growth potential. In an October 2 tweet, popular XRP influencer Alex Cobb shared data about the XRP Ledger’s (XRPL) capabilities that could propel it to greater heights. 
+ 
+XRP Qualifies As A Global Utility Asset For Bank—Crypto Influencer Says
+ 
+In his tweet, Cobb revealed that XRPL can handle 3,400 transactions per second (TPS); multiplying the figure by days, hours, and minutes to show how many transactions the blockchain can process in a day. 
+ 
+ 
+Cobb wanted the crypto community to understand XRPL’s capability …]]></summary>
+        <author>
+            <name>Kent Glory</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ETH Futures ETF Debut – How Did The 1st Day Play Out?]]></title>
+        <id>http://www.inoreader.com/article/3a9c6e74be7fb583</id>
+        <link href="https://bitcoinist.com/eth-futures-etf-debut-how-the-1st-day-played-out/"/>
+        <updated>2023-10-03T14:44:33.000Z</updated>
+        <summary type="html"><![CDATA[Ethereum futures ETFs, touted as the next big thing in the world of cryptocurrency investments, made their much-anticipated debut on Oct. 2. These exchange-traded funds were designed to track futures contracts linked to the value of Ethereum’s native currency, Ether. 
+ 
+However, the initial trading activity suggests that market enthusiasm did not translate into significant investment dollars, especially when compared to the launch of their Bitcoin counterparts.
+ 
+ 
+Mixed Results For Ether ETFs 
+ 
+Of the nine ETF products introduced, five exclusively hold Ether futures contracts, while the remaining four combine both Bitcoin and ETH futures. While these ETFs entered the market with high expectations, the first day of trading saw relatively subdued volume.
+ 
+Eric Balchunas, a senior Bloomber…]]></summary>
+        <author>
+            <name>Christian Encila</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jump Trading lost more than $200 million in FTX collapse: Going Infinite]]></title>
+        <id>https://cryptopanic.com/news/18944844/Jump-Trading-lost-more-than-200-million-in-FTX-collapse-Going-Infinite</id>
+        <link href="https://cryptopanic.com/news/18944844/Jump-Trading-lost-more-than-200-million-in-FTX-collapse-Going-Infinite"/>
+        <updated>2023-10-03T14:38:06.000Z</updated>
+        <summary type="html"><![CDATA[Jump Trading was near the top of a list of losses for entities not employed by FTX or Alameda, losing over $200 million.]]></summary>
+        <author>
+            <name>News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Brazil to Revolutionize Digital Identity with Blockchain Technology for Over 214 Million Citizens]]></title>
+        <id>https://cryptopanic.com/news/18944849/Brazil-to-Revolutionize-Digital-Identity-with-Blockchain-Technology-for-Over-214-Million-Citizens</id>
+        <link href="https://cryptopanic.com/news/18944849/Brazil-to-Revolutionize-Digital-Identity-with-Blockchain-Technology-for-Over-214-Million-Citizens"/>
+        <updated>2023-10-03T14:36:17.000Z</updated>
+        <summary type="html"><![CDATA[The Brazilian government has announced a groundbreaking initiative to implement blockchain technology for digital identity,...]]></summary>
+        <author>
+            <name>News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crypto community tells Elon Musk to dump Satoshi ‘X’ account]]></title>
+        <id>https://cryptopanic.com/news/18944836/Crypto-community-tells-Elon-Musk-to-dump-Satoshi-X-account</id>
+        <link href="https://cryptopanic.com/news/18944836/Crypto-community-tells-Elon-Musk-to-dump-Satoshi-X-account"/>
+        <updated>2023-10-03T14:33:56.000Z</updated>
+        <author>
+            <name>News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin analysts still predict a BTC price crash to $20K]]></title>
+        <id>https://cryptopanic.com/news/18944837/Bitcoin-analysts-still-predict-a-BTC-price-crash-to-20K</id>
+        <link href="https://cryptopanic.com/news/18944837/Bitcoin-analysts-still-predict-a-BTC-price-crash-to-20K"/>
+        <updated>2023-10-03T14:30:52.000Z</updated>
+        <summary type="html"><![CDATA[BTC price has various reasons to return to $20,000, from a “head and shoulders” pattern to a FUD-induced cascade, Bitcoin analysis warns.]]></summary>
+        <author>
+            <name>News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crypto Trader Predicts More Rallies for Bitcoin, Says BTC Breaking Out Against Major Stock Index]]></title>
+        <id>https://cryptopanic.com/news/18944845/Crypto-Trader-Predicts-More-Rallies-for-Bitcoin-Says-BTC-Breaking-Out-Against-Major-Stock-Index</id>
+        <link href="https://cryptopanic.com/news/18944845/Crypto-Trader-Predicts-More-Rallies-for-Bitcoin-Says-BTC-Breaking-Out-Against-Major-Stock-Index"/>
+        <updated>2023-10-03T14:30:44.000Z</updated>
+        <summary type="html"><![CDATA[A closely followed crypto strategist says a bullish pattern is taking shape for Bitcoin (BTC) against the S&P 500 (SPX). Pseudonymous analyst Kaleo tells his 596,500 followers on the social media platform X that Bitcoin is starting to form a breakout pattern against the SPX that historically...]]></summary>
+        <author>
+            <name>News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin short-term holders in profit after prices briefly touch $28,500]]></title>
+        <id>https://cryptopanic.com/news/18944834/Bitcoin-short-term-holders-in-profit-after-prices-briefly-touch-28500</id>
+        <link href="https://cryptopanic.com/news/18944834/Bitcoin-short-term-holders-in-profit-after-prices-briefly-touch-28500"/>
+        <updated>2023-10-03T14:30:13.000Z</updated>
+        <summary type="html"><![CDATA[With Bitcoin's Short-Term Holder Realized Price positioned above the coin's current price, short-term holders are back in profit for the first time since June.]]></summary>
+        <author>
+            <name>News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[$28k Was the Resistance We Were Looking For!]]></title>
+        <id>https://cryptopanic.com/news/18944846/28k-Was-the-Resistance-We-Were-Looking-For</id>
+        <link href="https://cryptopanic.com/news/18944846/28k-Was-the-Resistance-We-Were-Looking-For"/>
+        <updated>2023-10-03T14:28:51.000Z</updated>
+        <author>
+            <name>News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celsius will pay back two billion in crypto]]></title>
+        <id>https://cryptopanic.com/news/18944900/Celsius-will-pay-back-two-billion-in-crypto</id>
+        <link href="https://cryptopanic.com/news/18944900/Celsius-will-pay-back-two-billion-in-crypto"/>
+        <updated>2023-10-03T14:28:25.000Z</updated>
+        <author>
+            <name>News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Trial of Sam Bankman-Fried: Live Blog, Latest News and Insights]]></title>
+        <id>https://decrypt.co/?p=199892</id>
+        <link href="https://decrypt.co/199892/trial-sam-bankman-fried-live-blog-latest-news-insights"/>
+        <updated>2023-10-03T14:28:12.000Z</updated>
+        <summary type="html"><![CDATA[FTX founder Sam Bankman-Fried faces seven criminal charges related to the dramatic collapse of his crypto empire. Here's the latest on his trial.]]></summary>
+        <author>
+            <name>Decrypt Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[El Salvador's Economy is BOOMING Because of Bitcoin | EP 837]]></title>
+        <id>https://cryptopanic.com/news/18944818/El-Salvadors-Economy-is-BOOMING-Because-of-Bitcoin-EP-837</id>
+        <link href="https://cryptopanic.com/news/18944818/El-Salvadors-Economy-is-BOOMING-Because-of-Bitcoin-EP-837"/>
+        <updated>2023-10-03T14:27:42.000Z</updated>
+        <author>
+            <name>News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SmileDirectClub Extends Losses After Bankruptcy, Down 42% Today]]></title>
+        <id>https://cryptopanic.com/news/18944920/SmileDirectClub-Extends-Losses-After-Bankruptcy-Down-42-Today</id>
+        <link href="https://cryptopanic.com/news/18944920/SmileDirectClub-Extends-Losses-After-Bankruptcy-Down-42-Today"/>
+        <updated>2023-10-03T14:26:28.000Z</updated>
+        <author>
+            <name>News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Accounting apocalypse: FTX auditor Prager Metis sued by the SEC]]></title>
+        <id>https://cryptopanic.com/news/18944799/Accounting-apocalypse-FTX-auditor-Prager-Metis-sued-by-the-SEC</id>
+        <link href="https://cryptopanic.com/news/18944799/Accounting-apocalypse-FTX-auditor-Prager-Metis-sued-by-the-SEC"/>
+        <updated>2023-10-03T14:10:45.000Z</updated>
         <author>
             <name>News</name>
         </author>
@@ -42,7 +274,7 @@ the selection of the jury and is set to reveal the complex allegations against
 him.
 Bankman-Fried's Trial
 This trial marks the beginning of the first of two separate  
-criminal proceedings against Bankman-Fried. In this initial trial, he faces s…]]></summary>
+criminal proceedings against Bankman-Fried. In the initial trial, he faces se…]]></summary>
         <author>
             <name>Jared Kirui</name>
         </author>
@@ -84,103 +316,6 @@ Cu…]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nishad Singh initially asked SBF to tell people he knew nothing about the FTX situation: Going Infinite]]></title>
-        <id>https://cryptopanic.com/news/18944766/Nishad-Singh-initially-asked-SBF-to-tell-people-he-knew-nothing-about-the-FTX-situation-Going-Infinite</id>
-        <link href="https://cryptopanic.com/news/18944766/Nishad-Singh-initially-asked-SBF-to-tell-people-he-knew-nothing-about-the-FTX-situation-Going-Infinite"/>
-        <updated>2023-10-03T14:04:33.000Z</updated>
-        <summary type="html"><![CDATA[Singh beseeched Sam Bankman-Fried to claim his innocence, despite there being "code-based evidence of what [Singh] did."]]></summary>
-        <author>
-            <name>News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ApeX Protocol Welcomes New Telegram Bot for Derivatives Trading]]></title>
-        <id>https://cryptopanic.com/news/18944756/ApeX-Protocol-Welcomes-New-Telegram-Bot-for-Derivatives-Trading</id>
-        <link href="https://cryptopanic.com/news/18944756/ApeX-Protocol-Welcomes-New-Telegram-Bot-for-Derivatives-Trading"/>
-        <updated>2023-10-03T14:02:34.000Z</updated>
-        <summary type="html"><![CDATA[Coinspeaker ApeX Protocol Welcomes New Telegram Bot for Derivatives Trading ApeX is celebrating the launch of the Telegram bot by introducing a referral campaign. ApeX Protocol Welcomes New Telegram Bot for Derivatives Trading]]></summary>
-        <author>
-            <name>News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[First Mover Americas: Slow Start for Ether Futures ETFs]]></title>
-        <id>https://cryptopanic.com/news/18944750/First-Mover-Americas-Slow-Start-for-Ether-Futures-ETFs</id>
-        <link href="https://cryptopanic.com/news/18944750/First-Mover-Americas-Slow-Start-for-Ether-Futures-ETFs"/>
-        <updated>2023-10-03T14:01:24.000Z</updated>
-        <summary type="html"><![CDATA[The latest price moves in bitcoin (BTC) and crypto markets in context for Oct. 3, 2023. First Mover is CoinDesk’s daily newsletter that contextualizes the latest actions in the crypto markets.]]></summary>
-        <author>
-            <name>News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How the actor model could enable better blockchain gaming apps]]></title>
-        <id>https://cryptopanic.com/news/18944752/How-the-actor-model-could-enable-better-blockchain-gaming-apps</id>
-        <link href="https://cryptopanic.com/news/18944752/How-the-actor-model-could-enable-better-blockchain-gaming-apps"/>
-        <updated>2023-10-03T14:01:00.000Z</updated>
-        <summary type="html"><![CDATA[Can developments in computing help fix blockchain gaming’s quality problem?]]></summary>
-        <author>
-            <name>News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[XRPL’s Capability To Handle 293+ Million Transactions Daily Can Make XRP A Global Utility Asset]]></title>
-        <id>https://cryptopanic.com/news/18944747/XRPLs-Capability-To-Handle-293-Million-Transactions-Daily-Can-Make-XRP-A-Global-Utility-Asset</id>
-        <link href="https://cryptopanic.com/news/18944747/XRPLs-Capability-To-Handle-293-Million-Transactions-Daily-Can-Make-XRP-A-Global-Utility-Asset"/>
-        <updated>2023-10-03T14:00:46.000Z</updated>
-        <author>
-            <name>News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The US Dollar Is SKYROCKETING. Will This Rally Be SHORT LIVED?]]></title>
-        <id>https://cryptopanic.com/news/18944757/The-US-Dollar-Is-SKYROCKETING-Will-This-Rally-Be-SHORT-LIVED</id>
-        <link href="https://cryptopanic.com/news/18944757/The-US-Dollar-Is-SKYROCKETING-Will-This-Rally-Be-SHORT-LIVED"/>
-        <updated>2023-10-03T14:00:22.000Z</updated>
-        <summary type="html"><![CDATA[Are a strong US dollar and weaker Bitcoin prices connected? According to historical data, the answer may not be as straightforward as you think! The dollar index DXY is currently at around 107, continuing its 12 weeks of gains, yet Bitcoin prices have remained relatively stable. Get the full...]]></summary>
-        <author>
-            <name>News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ETH Futures ETF Debut – How Did The 1st Day Play Out?]]></title>
-        <id>https://cryptopanic.com/news/18944748/ETH-Futures-ETF-Debut-How-Did-The-1st-Day-Play-Out</id>
-        <link href="https://cryptopanic.com/news/18944748/ETH-Futures-ETF-Debut-How-Did-The-1st-Day-Play-Out"/>
-        <updated>2023-10-03T14:00:10.000Z</updated>
-        <summary type="html"><![CDATA[Ethereum futures ETFs, touted as the next big thing in the world of cryptocurrency investments, made their much-anticipated debut on Oct. 2. These exchange-traded funds were designed to track futures contracts linked to the value of Ethereum’s native currency, Ether. However, the initial trading...]]></summary>
-        <author>
-            <name>News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EU Plans for Wholesale CBDC Out Within Weeks, French Central Banker Says]]></title>
-        <id>https://cryptopanic.com/news/18944751/EU-Plans-for-Wholesale-CBDC-Out-Within-Weeks-French-Central-Banker-Says</id>
-        <link href="https://cryptopanic.com/news/18944751/EU-Plans-for-Wholesale-CBDC-Out-Within-Weeks-French-Central-Banker-Says"/>
-        <updated>2023-10-03T13:54:52.000Z</updated>
-        <author>
-            <name>News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ethereum Falls Below $1,700; Pepe, Sui Among Top Losers]]></title>
-        <id>https://cryptopanic.com/news/18944749/Ethereum-Falls-Below-1700-Pepe-Sui-Among-Top-Losers</id>
-        <link href="https://cryptopanic.com/news/18944749/Ethereum-Falls-Below-1700-Pepe-Sui-Among-Top-Losers"/>
-        <updated>2023-10-03T13:54:25.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin (CRYPTO: BTC) traded lower, with the cryptocurrency prices falling below the $28,000 level on Tuesday. Ethereum (CRYPTO: ETH) also moved lower, falling below the key $1,700 mark this morning. read more]]></summary>
-        <author>
-            <name>News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[South Korean gaming titan Wemade taps Chainlink for interoperable Web3 gaming ecosystem]]></title>
-        <id>https://cryptopanic.com/news/18944702/South-Korean-gaming-titan-Wemade-taps-Chainlink-for-interoperable-Web3-gaming-ecosystem</id>
-        <link href="https://cryptopanic.com/news/18944702/South-Korean-gaming-titan-Wemade-taps-Chainlink-for-interoperable-Web3-gaming-ecosystem"/>
-        <updated>2023-10-03T13:49:28.000Z</updated>
-        <author>
-            <name>News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Solana Leaves Ethereum In The Dust As Institutional Inflows Rise]]></title>
         <id>http://www.inoreader.com/article/3a9c6e74be60f7ad</id>
         <link href="https://bitcoinist.com/solana-ethereum-institutional-inflows/"/>
@@ -204,66 +339,6 @@ Solana has been on an epic run this year and has done better than most altcoins 
         <summary type="html"><![CDATA[TKTK]]></summary>
         <author>
             <name>Nikhilesh De</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Evergrande Up 28% Amid Investigation, Bankruptcy Concerns as Trading Resumes]]></title>
-        <id>https://cryptopanic.com/news/18944707/Evergrande-Up-28-Amid-Investigation-Bankruptcy-Concerns-as-Trading-Resumes</id>
-        <link href="https://cryptopanic.com/news/18944707/Evergrande-Up-28-Amid-Investigation-Bankruptcy-Concerns-as-Trading-Resumes"/>
-        <updated>2023-10-03T13:33:39.000Z</updated>
-        <summary type="html"><![CDATA[Evergrande shares soared more than 28% in their first trading day after suspension.]]></summary>
-        <author>
-            <name>News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Singer Vérité’s fan-first approach to Web3, music NFTs and community building]]></title>
-        <id>https://cryptopanic.com/news/18944697/Singer-Verites-fan-first-approach-to-Web3-music-NFTs-and-community-building</id>
-        <link href="https://cryptopanic.com/news/18944697/Singer-Verites-fan-first-approach-to-Web3-music-NFTs-and-community-building"/>
-        <updated>2023-10-03T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Many see music as the next frontier of blockchain adoption, and musician Vérité reveals what a fan-first approach to Web3 looks like.]]></summary>
-        <author>
-            <name>News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[There's a Lot of Thefts Happening]]></title>
-        <id>https://cryptopanic.com/news/18944664/Theres-a-Lot-of-Thefts-Happening</id>
-        <link href="https://cryptopanic.com/news/18944664/Theres-a-Lot-of-Thefts-Happening"/>
-        <updated>2023-10-03T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[TKTK]]></summary>
-        <author>
-            <name>News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 100 Cryptos of 2017: 27 Scams, 79 Will Never Update ATH, Analyst Says]]></title>
-        <id>https://cryptopanic.com/news/18944640/Top-100-Cryptos-of-2017-27-Scams-79-Will-Never-Update-ATH-Analyst-Says</id>
-        <link href="https://cryptopanic.com/news/18944640/Top-100-Cryptos-of-2017-27-Scams-79-Will-Never-Update-ATH-Analyst-Says"/>
-        <updated>2023-10-03T13:29:00.000Z</updated>
-        <summary type="html"><![CDATA[X user tracked progress of largest digital assets of 2017 cryptocurrency frenzy]]></summary>
-        <author>
-            <name>News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Silver Lining? Google Cloud’s head of Web3 talks Big Tech possibilities for the blockchain]]></title>
-        <id>https://cryptopanic.com/news/18944631/Silver-Lining-Google-Clouds-head-of-Web3-talks-Big-Tech-possibilities-for-the-blockchain</id>
-        <link href="https://cryptopanic.com/news/18944631/Silver-Lining-Google-Clouds-head-of-Web3-talks-Big-Tech-possibilities-for-the-blockchain"/>
-        <updated>2023-10-03T13:28:00.000Z</updated>
-        <summary type="html"><![CDATA[At the Token 2049 crypto conference in Singapore held Sept. 13 to 14, Google Cloud's James Tromans spoke to Forkast about a possible marriage between Webs 2 and 3.]]></summary>
-        <author>
-            <name>News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EXCLUSIVE: Tim Draper Reflects On Bitcoin ETF As Grayscale Announces New Ethereum Fund]]></title>
-        <id>https://cryptopanic.com/news/18944674/EXCLUSIVE-Tim-Draper-Reflects-On-Bitcoin-ETF-As-Grayscale-Announces-New-Ethereum-Fund</id>
-        <link href="https://cryptopanic.com/news/18944674/EXCLUSIVE-Tim-Draper-Reflects-On-Bitcoin-ETF-As-Grayscale-Announces-New-Ethereum-Fund"/>
-        <updated>2023-10-03T13:20:35.000Z</updated>
-        <summary type="html"><![CDATA[A Bitcoin (CRYPTO: BTC) ETF is looking very likely, with the world's leading crypto asset manager, Grayscale, as a possible front-runner to be approved by the SEC. read more]]></summary>
-        <author>
-            <name>News</name>
         </author>
     </entry>
     <entry>
@@ -307,26 +382,6 @@ Register your email here to get weekly price analysis updates sent to your inbox
 Will ethereum fall to this floor in the coming days? Leave your thoughts in the comments below.]]></summary>
         <author>
             <name>Eliman Dambell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘I don’t really have a soul’ SBF says in Michael Lewis’ book Going Infinite]]></title>
-        <id>https://cryptopanic.com/news/18944614/I-dont-really-have-a-soul-SBF-says-in-Michael-Lewis-book-Going-Infinite</id>
-        <link href="https://cryptopanic.com/news/18944614/I-dont-really-have-a-soul-SBF-says-in-Michael-Lewis-book-Going-Infinite"/>
-        <updated>2023-10-03T13:15:07.000Z</updated>
-        <summary type="html"><![CDATA[Sam Bankman-Fried's struggles over a personal relationship with Caroline Ellison came to light in Michael Lewis' "Going Infinite" book.]]></summary>
-        <author>
-            <name>News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Binance collaborates with Royal Thai Police to seize $277M from scammers]]></title>
-        <id>https://cryptopanic.com/news/18944608/Binance-collaborates-with-Royal-Thai-Police-to-seize-277M-from-scammers</id>
-        <link href="https://cryptopanic.com/news/18944608/Binance-collaborates-with-Royal-Thai-Police-to-seize-277M-from-scammers"/>
-        <updated>2023-10-03T13:12:30.000Z</updated>
-        <summary type="html"><![CDATA[Over 3,000 victims of the alleged crypto scammers have come forward to the authorities to file for compensation claims.]]></summary>
-        <author>
-            <name>News</name>
         </author>
     </entry>
     <entry>
@@ -511,53 +566,6 @@ Kostin, who leads the second-largest bank group in Russia, recogniz…]]></summa
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Crypto Industry Workforce Reductions: Chainalysis and Beyond]]></title>
-        <id>http://www.inoreader.com/article/3a9c6e74be4f6233</id>
-        <link href="https://www.financemagnates.com//cryptocurrency/crypto-industry-workforce-reductions-chainalysis-and-beyond/"/>
-        <updated>2023-10-03T09:27:36.000Z</updated>
-        <summary type="html"><![CDATA[Chainalysis  
-has announced a significant reduction in its workforce. The company cited the  
-ongoing challenges in the crypto market as the primary reason for the cuts.
-Second  
-Round of Layoffs in 2023 Reflects Crypto Bear Market Impact
-The  
-firm confirmed the workforce cut on October 3. It made the difficult decision  
-to part ways with approximately 15% of its employees, amounting to around 135  
-staff members. Prior to these cuts, Chainalysis had a workforce of  
-approximately 900 employees.
-This  
-marks the second round of layoffs for Chainalysis in 2023. It reflects the  
-continued impact of the crypto bear market on the demand for commercial  
-products. In February of the same year, Chainalysis had to reduce its staff by  
-around 40-50 employees as part of a reorganization effort …]]></summary>
-        <author>
-            <name>Tareq Sikder</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitfarms' YTD Bitcoin Mining Figures Lower Than 2022]]></title>
-        <id>http://www.inoreader.com/article/3a9c6e74be4f622a</id>
-        <link href="https://www.financemagnates.com//cryptocurrency/bitfarms-ytd-bitcoin-mining-figures-lower-than-2022/"/>
-        <updated>2023-10-03T09:27:36.000Z</updated>
-        <summary type="html"><![CDATA[Bitfarms  
-Ltd., a publicly-listed Bitcoin (BTC) mining company, has released its  
-production and mining operations update for September 2023. The company  
-successfully mined 411 Bitcoin, representing an increase of 7.3% from the previous  
-month. Alongside this, Bitfarms expanded its total operating capacity to  
-233 MW and improved its energy efficiency metrics. However, the year-to-date  
-(YTD) results are still worse than a year ago.
-Bitfarms Mines the Most  
-BTC since May 2023
-According  
-to the Wall Street-listed company (NASDAQ: BITF) company, the September 2023  
-mining result of 411 was higher than the 383 mined in August, which was the highest number since May 2023 when Bitfarms was able to produce 459 BTC.
-However,  
-the numbers are significantly lower than seen in the previou…]]></summary>
-        <author>
-            <name>Damian Chmiel</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Bankrupt Crypto Lender Celsius Eyes Creditor Payback by Year End]]></title>
         <id>https://decrypt.co/?p=199871</id>
         <link href="https://decrypt.co/199871/bankrupt-crypto-lender-celsius-eyes-creditor-payback-year-end"/>
@@ -565,20 +573,6 @@ the numbers are significantly lower than seen in the previou…]]></summary>
         <summary type="html"><![CDATA[The bankrupt crypto lender’s restructuring plan includes the establishment of a new entity with $450 million in seed funding.]]></summary>
         <author>
             <name>Andrew Asmakov</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bank of Russia Digital Ruble Pilot Update: ‘Everything Going as Planned’]]></title>
-        <id>http://www.inoreader.com/article/3a9c6e74be33c64a</id>
-        <link href="https://news.bitcoin.com/bank-of-russia-digital-ruble-pilot-update-everything-going-as-planned/"/>
-        <updated>2023-10-03T07:54:21.000Z</updated>
-        <summary type="html"><![CDATA[The Bank of Russia offered an update about the state of the digital ruble, the Russian central bank digital currency (CBDC), which is currently in a nationwide pilot. Elvira Nabiullina, governor of the Bank of Russia, stated that the pilot was “going as planned” and that more participants and use cases would be added next year.
-Bank of Russia on Digital Ruble Pilot: ‘Everything Going as Planned’
-The Bank of Russia has offered an update about the digital ruble and the pilot testing the functionalities of the Russian central bank digital currency (CBDC). During a forum, Bank of Russia governor Elvira Nabiullina explained the project was still ongoing and that the institution was getting feedback testing the various functionalities of this new currency.
-Nabiullina stated:
-We started the pilot…]]></summary>
-        <author>
-            <name>Sergio Goschenko</name>
         </author>
     </entry>
     <entry>
@@ -912,16 +906,6 @@ We started the pilot…]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Quantum Leap: Researchers Achieve Major Milestone for Reliable Quantum Computers]]></title>
-        <id>https://decrypt.co/?p=199380</id>
-        <link href="https://decrypt.co/199380/quantum-leap-researchers-achieve-major-milestone-for-reliable-quantum-computers"/>
-        <updated>2023-09-29T19:44:11.000Z</updated>
-        <summary type="html"><![CDATA[Researchers discovered a way to bring the industry closer to more reliable, powerful quantum computers less prone to errors or inaccuracies.]]></summary>
-        <author>
-            <name>Jose Antonio Lanz</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA['There Are No Real Standards': Ready Player Me CEO Timmu Tõke on Building for an Open Gaming Ecosystem]]></title>
         <id>https://decrypt.co/videos/interviews/TH3KEAI0/there-are-no-real-standards-ready-player-me-ceo-timmu-tke-on-building-for-an-open-gaming-ecosystem</id>
         <link href="https://decrypt.co/videos/interviews/TH3KEAI0/there-are-no-real-standards-ready-player-me-ceo-timmu-tke-on-building-for-an-open-gaming-ecosystem"/>
@@ -1022,6 +1006,16 @@ We started the pilot…]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Bitcoin's Narrative Is Shifting Towards Layer-2 Solutions]]></title>
+        <id>https://decrypt.co/videos/live-events/axArPRp3/bitcoins-narrative-is-shifting-towards-layer-2-solutions</id>
+        <link href="https://decrypt.co/videos/live-events/axArPRp3/bitcoins-narrative-is-shifting-towards-layer-2-solutions"/>
+        <updated>2023-09-26T05:41:10.000Z</updated>
+        <summary type="html"><![CDATA[Rich Rines, original Core DAO contributor and former Coinbase engineer, discusses how the narrative around Bitcoin is shifting in 2023. While Bitcoin remains digital gold, new layer 2 solutions are emerging to unlock more utility and value from the huge amounts of capital stored in Bitcoin. He says these innovations can benefit Bitcoin holders while keeping Bitcoin maximalists happy by building outside the base layer. André Beganski interviewed him at Messari Mainnet 2023.]]></summary>
+        <author>
+            <name>Decrypt</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Regulation Threatens U.S. Dominance of Financial Markets, Says CoinRoutes CEO]]></title>
         <id>https://decrypt.co/videos/live-events/CrpvzFjL/regulation-threatens-us-dominance-of-financial-markets-says-coinroutes-ceo</id>
         <link href="https://decrypt.co/videos/live-events/CrpvzFjL/regulation-threatens-us-dominance-of-financial-markets-says-coinroutes-ceo"/>
@@ -1037,16 +1031,6 @@ We started the pilot…]]></summary>
         <link href="https://decrypt.co/videos/live-events/OvAFgxTd/building-a-developer-friendly-zkrollup-to-scale-ethereum"/>
         <updated>2023-09-26T05:41:10.000Z</updated>
         <summary type="html"><![CDATA[Daniel Helm, head of Developer Relations at Scroll, discussess how they are building a zkRollup to scale Ethereum transactions and lower fees. He explained their focus on creating a seamless developer experience by maintaining Ethereum's ethos and tooling. Scroll aims to launch their mainnet soon, providing more scalable blockspace for Ethereum developers. Stacy Elliott of Decrypt interviewed him at Messari Mainnet 2023.]]></summary>
-        <author>
-            <name>Decrypt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin's Narrative Is Shifting Towards Layer-2 Solutions]]></title>
-        <id>https://decrypt.co/videos/live-events/axArPRp3/bitcoins-narrative-is-shifting-towards-layer-2-solutions</id>
-        <link href="https://decrypt.co/videos/live-events/axArPRp3/bitcoins-narrative-is-shifting-towards-layer-2-solutions"/>
-        <updated>2023-09-26T05:41:10.000Z</updated>
-        <summary type="html"><![CDATA[Rich Rines, original Core DAO contributor and former Coinbase engineer, discusses how the narrative around Bitcoin is shifting in 2023. While Bitcoin remains digital gold, new layer 2 solutions are emerging to unlock more utility and value from the huge amounts of capital stored in Bitcoin. He says these innovations can benefit Bitcoin holders while keeping Bitcoin maximalists happy by building outside the base layer. André Beganski interviewed him at Messari Mainnet 2023.]]></summary>
         <author>
             <name>Decrypt</name>
         </author>

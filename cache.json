@@ -641,7 +641,7 @@
           "description": "Reza Jafery and Martin Shkreli sit down for a casual conversation about the growing movement that is E/ACC, what songs they could recite at gunpoint, and whether or not SBF will thrive or just survive during his time in prison.",
           "link": "https://decrypt.co/videos/interviews/QONaWXKZ/martin-shkreli-on-e-acc-and-sbf-in-prison",
           "publishedOn": "2023-10-03T22:03:48.000Z",
-          "wordCount": 6360,
+          "wordCount": 6686,
           "title": "Martin Shkreli on E/ACC and SBF in Prison",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/QONaWXKZ/poster.jpg",
@@ -776,7 +776,7 @@
           "description": "As India figures out its regulatory approach to the crypto industry, one thing is clear to Shardeum co-founder Nischal Shetty: “If you're a high-frequency trader, you can't afford to lose a percentage every time you sell,” he told Decrypt's Andre Beganski at Messari Mainnet in New York. “That's something that's caused a lot of issues.”",
           "link": "https://decrypt.co/videos/live-events/fxygwLvH/indias-1-crypto-tax-has-been-a-nightmare-for-high-frequency-traders-says-shardeum-ceo",
           "publishedOn": "2023-09-26T05:41:11.000Z",
-          "wordCount": 6473,
+          "wordCount": 6789,
           "title": "India's 1% Crypto Tax Has Been a Nightmare for High-Frequency Traders, Says Shardeum CEO",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/fxygwLvH/poster.jpg",
@@ -806,7 +806,7 @@
           "description": "Decrypt's Stacy Elliott sat down with Robinhood Crypto general manager Johann Kerbrat at Messari Mainnet 2023, to talk about the trading platform's crypto wallet, onboarding new users through simplicity, and keeping platform fees sustainable.",
           "link": "https://decrypt.co/videos/live-events/PLZ0FpdC/we-need-to-start-thinking-about-how-we-make-crypto-easy-to-use-robinhood-crypto-general-manager",
           "publishedOn": "2023-09-26T05:41:10.000Z",
-          "wordCount": 6735,
+          "wordCount": 6386,
           "title": "We Need to Start Thinking About How we Make Crypto Easy to Use: Robinhood Crypto General Manager",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/PLZ0FpdC/poster.jpg",
@@ -821,7 +821,7 @@
           "description": "Rich Rines, original Core DAO contributor and former Coinbase engineer, discusses how the narrative around Bitcoin is shifting in 2023. While Bitcoin remains digital gold, new layer 2 solutions are emerging to unlock more utility and value from the huge amounts of capital stored in Bitcoin. He says these innovations can benefit Bitcoin holders while keeping Bitcoin maximalists happy by building outside the base layer. André Beganski interviewed him at Messari Mainnet 2023.",
           "link": "https://decrypt.co/videos/live-events/axArPRp3/bitcoins-narrative-is-shifting-towards-layer-2-solutions",
           "publishedOn": "2023-09-26T05:41:10.000Z",
-          "wordCount": 6870,
+          "wordCount": 6521,
           "title": "Bitcoin's Narrative Is Shifting Towards Layer-2 Solutions",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/axArPRp3/poster.jpg",
@@ -898,34 +898,54 @@
       "siteUrl": "https://cryptopanic.com/",
       "articles": [
         {
+          "id": "https://cryptopanic.com/news/18955886/Crypto-exchange-Upbit-was-targeted-by-hackers-159K-times-in-H1-Report",
+          "author": null,
+          "description": "The figure is more than double recorded in the first half of 2022 and a massive 1800% increase from the same period in 2020, according to the operating firm.",
+          "link": "https://cryptopanic.com/news/18955886/Crypto-exchange-Upbit-was-targeted-by-hackers-159K-times-in-H1-Report",
+          "publishedOn": "2023-10-09T04:52:32.000Z",
+          "wordCount": 594,
+          "title": "Crypto exchange Upbit was targeted by hackers 159K times in H1: Report",
+          "imageUrl": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-10/3ab309d2-3f50-4f44-9e7f-3f89b021c606.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/18955882/How-Will-Wiping-US-Student-Debt-Impact-the-Crypto-Market",
+          "author": null,
+          "description": "United States President Joe Biden recently announced the cancelation of a substantial $127 billion student debt burden for approximately 3.6 million citizens in the United States. The announcement received a varied response, with some speculating about crypto’s price. Meanwhile, others...",
+          "link": "https://cryptopanic.com/news/18955882/How-Will-Wiping-US-Student-Debt-Impact-the-Crypto-Market",
+          "publishedOn": "2023-10-09T04:36:12.000Z",
+          "wordCount": 592,
+          "title": "How Will Wiping US Student Debt Impact the Crypto Market?",
+          "imageUrl": "https://s32659.pcdn.co/wp-content/uploads/2023/09/bic_US_Presidential_Candidates_Biden-covers_negative-850x478.jpg.optimal.jpg"
+        },
+        {
           "id": "https://cryptopanic.com/news/18955851/SBFs-prosecutors-seek-to-forbid-any-mention-of-Anthropic",
           "author": null,
-          "description": "With news of massive new investments in Anthropic from Google and Amazon, FTX creditors are celebrating. SBF's prosecutors are not.",
+          "description": "",
           "link": "https://cryptopanic.com/news/18955851/SBFs-prosecutors-seek-to-forbid-any-mention-of-Anthropic",
           "publishedOn": "2023-10-09T04:03:45.000Z",
-          "wordCount": 591,
+          "wordCount": null,
           "title": "SBF’s prosecutors seek to forbid any mention of Anthropic",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2023/10/20231003_FTX_4_News-1-1200x675.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/18955847/Gitcoin-screws-up-transfer-sends-460K-to-unrecoverable-address",
           "author": null,
-          "description": "Gitcoin’s project lead said the snafu has resulted in nearly half a million in funds being forever locked in a one-way contract address.",
+          "description": "",
           "link": "https://cryptopanic.com/news/18955847/Gitcoin-screws-up-transfer-sends-460K-to-unrecoverable-address",
           "publishedOn": "2023-10-09T04:02:28.000Z",
-          "wordCount": 591,
+          "wordCount": null,
           "title": "Gitcoin screws up transfer, sends $460K to unrecoverable address",
-          "imageUrl": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-10/42914866-7b73-4d17-a91a-019d6c566211.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/18955837/Dogecoin-Co-Creator-Elon-Musk-Blast-SEC-For-Denying-Inherent-Value-Of-Cryptos-Return-All-The-TaxesYou-Horrific-Evil-Hypocrites",
           "author": null,
-          "description": "In a federal court case against Coinbase (NASDAQ:COIN), the Securities and Exchange Commission (SEC) has contended that cryptocurrencies lack any “innate or inherent value.” This argument has drawn criticism from Tesla CEO Elon Musk and Dogecoin read more",
+          "description": "",
           "link": "https://cryptopanic.com/news/18955837/Dogecoin-Co-Creator-Elon-Musk-Blast-SEC-For-Denying-Inherent-Value-Of-Cryptos-Return-All-The-TaxesYou-Horrific-Evil-Hypocrites",
           "publishedOn": "2023-10-09T03:39:55.000Z",
-          "wordCount": 601,
+          "wordCount": null,
           "title": "Dogecoin Co-Creator, Elon Musk Blast SEC For Denying Inherent Value Of Cryptos: 'Return All The Taxes…You Horrific Evil Hypocrites'",
-          "imageUrl": "https://cdn.benzinga.com/files/images/story/2023/Dogecoin,Doge,Included,With,Cryptocurrency,In,Suit,Bag,Business,Man_1.jpeg?width=1200&height=800&fit=crop"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/18955826/US-consumer-watchdog-mulls-applying-e-banking-laws-to-crypto",
@@ -960,22 +980,22 @@
         {
           "id": "https://cryptopanic.com/news/18955823/New-Self-Proclaimed-Dogecoin-Killer-SHIBA-Skyrockets-Over-750-In-A-Single-Day-Time-For-The-Birth-Of-A-New-King",
           "author": null,
-          "description": "Shiba ( SHIBA), the self-proclaimed “Dogecoin (CRYPTO: DOGE) killer,” has experienced a massive surge in value, rising by 750% in the past 24 hours. read more",
+          "description": "",
           "link": "https://cryptopanic.com/news/18955823/New-Self-Proclaimed-Dogecoin-Killer-SHIBA-Skyrockets-Over-750-In-A-Single-Day-Time-For-The-Birth-Of-A-New-King",
           "publishedOn": "2023-10-09T03:17:37.000Z",
-          "wordCount": 602,
+          "wordCount": null,
           "title": "New Self-Proclaimed 'Dogecoin Killer' SHIBA Skyrockets Over 750% In A Single Day: 'Time For The Birth Of A New King'",
-          "imageUrl": "https://cdn.benzinga.com/files/images/story/2023/Cryptocurrency_Photo_by_Avi_Rozen_on_Shutterstock_9.jpeg?width=1200&height=800&fit=crop"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/18955798/JPMorgan-Chase-Bank-of-America-and-Goldman-Sachs-Hit-With-53000000-Fine-for-Failing-to-Properly-Report-Millions-of-Derivatives-Transactions",
           "author": null,
-          "description": "",
+          "description": "Three of America’s biggest banks are getting hit by the Commodity Futures Trading Commission (CFTC) for failing to properly report millions of transactions in the swaps market. JPMorgan Chase, Bank of America, and Goldman Sachs have been ordered to pay $15 million, $8 million and $30 million in...",
           "link": "https://cryptopanic.com/news/18955798/JPMorgan-Chase-Bank-of-America-and-Goldman-Sachs-Hit-With-53000000-Fine-for-Failing-to-Properly-Report-Millions-of-Derivatives-Transactions",
           "publishedOn": "2023-10-09T03:08:12.000Z",
-          "wordCount": null,
+          "wordCount": 603,
           "title": "JPMorgan Chase, Bank of America and Goldman Sachs Hit With $53,000,000 Fine for Failing to Properly Report Millions of Derivatives Transactions",
-          "imageUrl": null
+          "imageUrl": "https://dailyhodl.com/wp-content/uploads/2023/10/vault-bank-violation.jpg"
         },
         {
           "id": "https://cryptopanic.com/news/18955791/FTX-used-Python-code-to-fake-its-insurance-fund-figure-Gary-Wang",
@@ -990,22 +1010,22 @@
         {
           "id": "https://cryptopanic.com/news/18955790/Bitcoin-Ethereum-Dogecoin-Decline-Amid-Israel-Hamas-Conflict-Analyst-Predicts-King-Crypto-To-Reach-30K-As-Worldwide-Uncertainty-Grows",
           "author": null,
-          "description": "Major cryptocurrencies experienced a decline on Sunday evening, amid the attack on Israel by Hamas. This event has introduced geopolitical risk into an already delicate market grappling with inflation and surging interest rates. read more",
+          "description": "",
           "link": "https://cryptopanic.com/news/18955790/Bitcoin-Ethereum-Dogecoin-Decline-Amid-Israel-Hamas-Conflict-Analyst-Predicts-King-Crypto-To-Reach-30K-As-Worldwide-Uncertainty-Grows",
           "publishedOn": "2023-10-09T02:25:13.000Z",
-          "wordCount": 600,
+          "wordCount": null,
           "title": "Bitcoin, Ethereum, Dogecoin Decline Amid Israel-Hamas Conflict: Analyst Predicts King Crypto To Reach $30K As 'Worldwide Uncertainty Grows'",
-          "imageUrl": "https://cdn.benzinga.com/files/images/story/2023/Cryptocurrency_Photo_by_CMP_NZ_on_Shutterstock_22.jpeg?width=1200&height=800&fit=crop"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/18955775/Bitcoin-is-a-super-logical-step-on-the-tech-tree-OpenAI-CEO",
           "author": null,
-          "description": "During an episode of The Joe Rogan Experience, Altman expressed his excitement for Bitcoin and also said he was “super against” CBDCs.",
+          "description": "",
           "link": "https://cryptopanic.com/news/18955775/Bitcoin-is-a-super-logical-step-on-the-tech-tree-OpenAI-CEO",
           "publishedOn": "2023-10-09T02:18:03.000Z",
-          "wordCount": 594,
+          "wordCount": null,
           "title": "Bitcoin is a ‘super logical’ step on the tech tree: OpenAI CEO",
-          "imageUrl": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-10/4772d333-1b53-4135-a75c-41a4234dcee6.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/18955774/Cross-Chain-Crypto-Laundering-Reaches-7B-Elliptic",
@@ -1020,12 +1040,12 @@
         {
           "id": "https://cryptopanic.com/news/18955741/Dismal-Third-Quarter-for-Bitcoin-Lands-It-Second-to-Last-in-Returns-Analyst",
           "author": null,
-          "description": "",
+          "description": "The cryptocurrency registered a 11.1% drop over the past three months, only beating long-term treasuries.",
           "link": "https://cryptopanic.com/news/18955741/Dismal-Third-Quarter-for-Bitcoin-Lands-It-Second-to-Last-in-Returns-Analyst",
           "publishedOn": "2023-10-09T01:22:24.000Z",
-          "wordCount": null,
+          "wordCount": 593,
           "title": "Dismal Third Quarter for Bitcoin Lands It Second-to-Last in Returns: Analyst",
-          "imageUrl": null
+          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2023/10/Bitcoin-Ice-Blue-shutterstock_2127032996-16x9-1-gID_7.jpg"
         },
         {
           "id": "https://cryptopanic.com/news/18955733/US-Finance-is-Lurching-Toward-a-China-Surveillance-Model-Rohit-Chopra",
@@ -1040,12 +1060,12 @@
         {
           "id": "https://cryptopanic.com/news/18955734/XRP-Heavily-Squeezed-Volatility-Surge-Imminent",
           "author": null,
-          "description": "",
+          "description": "Crypto market review: XRP might get launched in either direction following EMA squeeze",
           "link": "https://cryptopanic.com/news/18955734/XRP-Heavily-Squeezed-Volatility-Surge-Imminent",
           "publishedOn": "2023-10-09T01:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 588,
           "title": "XRP Heavily Squeezed: Volatility Surge Imminent",
-          "imageUrl": null
+          "imageUrl": "https://u.today/sites/default/files/styles/twitterwithoutlogo/public/2023-10/XRP%20%284%29.jpg"
         },
         {
           "id": "https://cryptopanic.com/news/18955704/Tron-Founder-Justin-Sun-Abruptly-Moves-132000000-Worth-of-Ethereum-ETH-Heres-Where-the-Crypto-Is-Going",
@@ -1060,12 +1080,12 @@
         {
           "id": "https://cryptopanic.com/news/18955699/These-2-Blockchains-Dominated-Transaction-Fees-Over-Past-12-Months-Bloomberg-Analyst",
           "author": null,
-          "description": "",
+          "description": "Bloomberg crypto analyst Jamie Coutts declares that two blockchains have taken the lion’s share of transaction fees among all smart contract and Proof-of-Stake (PoS) blockchains over the last twelve months. Ethereum and Tron Network account for a substantial 88% of the total transaction fees,...",
           "link": "https://cryptopanic.com/news/18955699/These-2-Blockchains-Dominated-Transaction-Fees-Over-Past-12-Months-Bloomberg-Analyst",
           "publishedOn": "2023-10-08T23:49:10.000Z",
-          "wordCount": null,
+          "wordCount": 594,
           "title": "These 2 Blockchains Dominated Transaction Fees Over Past 12 Months: Bloomberg Analyst",
-          "imageUrl": null
+          "imageUrl": "https://s32659.pcdn.co/wp-content/uploads/2023/08/BIC_BIC_maker-trader_trading_fees_cover.jpg.optimal.jpg"
         },
         {
           "id": "https://cryptopanic.com/news/18955636/Roughly-7B-in-Crypto-Laundered-Through-DEXs-Cross-Chain-Bridges-and-Coin-Swaps-Report",
@@ -1075,26 +1095,6 @@
           "publishedOn": "2023-10-08T22:04:24.000Z",
           "wordCount": null,
           "title": "Roughly $7B in Crypto Laundered Through DEXs, Cross-Chain Bridges, and Coin Swaps: Report",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18955637/Preston-Pysh-Interview-Backstage-Pacific-Bitcoin-2023",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/18955637/Preston-Pysh-Interview-Backstage-Pacific-Bitcoin-2023",
-          "publishedOn": "2023-10-08T22:04:02.000Z",
-          "wordCount": null,
-          "title": "Preston Pysh Interview Backstage Pacific Bitcoin 2023",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18955635/Crypto-Has-No-Innate-or-Inherent-Value-SEC-Argues-in-Coinbase-Case",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/18955635/Crypto-Has-No-Innate-or-Inherent-Value-SEC-Argues-in-Coinbase-Case",
-          "publishedOn": "2023-10-08T21:56:46.000Z",
-          "wordCount": null,
-          "title": "Crypto Has ‘No Innate or Inherent Value’, SEC Argues in Coinbase Case",
           "imageUrl": null
         }
       ]

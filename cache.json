@@ -6,6 +6,21 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=200689",
+          "author": "Matt Hussey",
+          "description": "These new technologies are helping to overcome blockchain’s early UX challenges and onboard new users to crypto, DeFi and Web3.",
+          "link": "https://decrypt.co/200689/5-key-technologies-streamlining-the-crypto-user-experience",
+          "publishedOn": "2023-10-10T11:35:34.000Z",
+          "wordCount": 14535,
+          "title": "5 Key Technologies Streamlining the Crypto User Experience",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/10/simplify-gID_7.jpg@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/10/simplify-gID_7.jpg@png"
+        },
+        {
           "id": "https://decrypt.co/?p=200837",
           "author": "Mattis Meichler",
           "description": "Israeli authorities, in coordination with the crypto exchange Binance, froze accounts suspected with suspected links to Hamas.",
@@ -561,21 +576,6 @@
           "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/10/john-hamon-nft-gID_7.png@png"
         },
         {
-          "id": "https://decrypt.co/?p=200491",
-          "author": "Andrew Throuvalas",
-          "description": "The company's new machines should ship before the April 2024 Bitcoin halving.",
-          "link": "https://decrypt.co/200491/bitcoin-miner-iris-energy-jumps-9-as-it-boosts-mining-capacity-ahead-of-bitcoin-halving",
-          "publishedOn": "2023-10-06T21:16:14.000Z",
-          "wordCount": 10527,
-          "title": "Bitcoin Miner Iris Energy Jumps 9% as It Boosts Mining Capacity Ahead of Bitcoin Halving",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/06/bitcoin-mining-operations-gID_7.jpg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/06/bitcoin-mining-operations-gID_7.jpg@png"
-        },
-        {
           "id": "https://decrypt.co/videos/interviews/F5RQCmvH/inside-shrapnels-marketplace-new-map-and-ai-director-feature",
           "author": null,
           "description": "Decrypt's Kate Irwin chats with Shrapnel's Head of Studio Don Norbury to get the latest updates on how the NFT-powered first-person sci-fi extraction shooter's development is progressing.",
@@ -656,7 +656,7 @@
           "description": "Timmu Tõke, co-founder and CEO of Ready Player Me, joins Decrypt contributor Ryan Gladwin to discuss the startup's approach to powering avatars that are interoperable across games and metaverse platforms—and what's needed to convince the industry to adopt standards and open up.",
           "link": "https://decrypt.co/videos/interviews/TH3KEAI0/there-are-no-real-standards-ready-player-me-ceo-timmu-tke-on-building-for-an-open-gaming-ecosystem",
           "publishedOn": "2023-09-29T17:29:40.000Z",
-          "wordCount": 6755,
+          "wordCount": 6429,
           "title": "'There Are No Real Standards': Ready Player Me CEO Timmu Tõke on Building for an Open Gaming Ecosystem",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/TH3KEAI0/poster.jpg",
@@ -671,7 +671,7 @@
           "description": "Shrapnel Studio Head Don Norbury tells Kate Irwin the reasons why the upcoming first-person shooter game will offer a wide range of NFTs. He also reveals team-based gameplay plans and shares how game maps have already changed this year.",
           "link": "https://decrypt.co/videos/interviews/fhoy7Z8f/blockchain-is-only-way-forward-for-gaming-says-shrapnel-studio-head",
           "publishedOn": "2023-09-28T21:39:00.000Z",
-          "wordCount": 6372,
+          "wordCount": 6698,
           "title": "Blockchain Is 'Only Way' Forward for Gaming, Says Shrapnel Studio Head",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/fhoy7Z8f/poster.jpg",
@@ -701,7 +701,7 @@
           "description": "Our host Reza Jafery is joined by Gareth Fenney aka 500Altcoins. They discuss the glory days of DeFi Summer and whether or not its a smart move for builders in the crypto space to relocate to Dubai.",
           "link": "https://decrypt.co/videos/interviews/cI7p8AK3/500altcoins-discusses-defi-summer-and-the-dubai-crypto-scene-this-time-will-be-different-episode-2",
           "publishedOn": "2023-09-26T20:00:00.000Z",
-          "wordCount": 6730,
+          "wordCount": 6404,
           "title": "500Altcoins discusses DeFi Summer and the Dubai Crypto Scene - This Time Will Be Different - Episode 2",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/cI7p8AK3/poster.jpg",
@@ -761,7 +761,7 @@
           "description": "As India figures out its regulatory approach to the crypto industry, one thing is clear to Shardeum co-founder Nischal Shetty: “If you're a high-frequency trader, you can't afford to lose a percentage every time you sell,” he told Decrypt's Andre Beganski at Messari Mainnet in New York. “That's something that's caused a lot of issues.”",
           "link": "https://decrypt.co/videos/live-events/fxygwLvH/indias-1-crypto-tax-has-been-a-nightmare-for-high-frequency-traders-says-shardeum-ceo",
           "publishedOn": "2023-09-26T05:41:11.000Z",
-          "wordCount": 6472,
+          "wordCount": 6821,
           "title": "India's 1% Crypto Tax Has Been a Nightmare for High-Frequency Traders, Says Shardeum CEO",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/fxygwLvH/poster.jpg",
@@ -866,7 +866,7 @@
           "description": "Coinbase's Jesse Pollak, creator of layer-2 blockchain Base, says the launch of the network has exceeded expectations, even if plans changed along the way. He believes Arbitrum One will help bring billions onto blockchain by enabling seamless user experiences. Stacy Elliott interviewed him at Messari Mainnet 2023.",
           "link": "https://decrypt.co/videos/live-events/oZPr7bzY/base-as-a-bridge-not-an-island",
           "publishedOn": "2023-09-26T05:41:10.000Z",
-          "wordCount": 6739,
+          "wordCount": 6390,
           "title": "Base as a 'Bridge, Not an Island'",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/oZPr7bzY/poster.jpg",
@@ -883,203 +883,203 @@
       "siteUrl": "https://cryptopanic.com/",
       "articles": [
         {
-          "id": "https://cryptopanic.com/news/18958957/Binance-and-OKX-Adjust-Operations-in-Response-to-UKs-New-FinProm-Regulations",
+          "id": "https://cryptopanic.com/news/18959152/Israeli-authorities-redirects-frozen-Hamas-cryptocurrency-funding-to-state-treasury",
           "author": null,
-          "description": "Major global cryptocurrency exchanges, Binance and OKX, are adjusting their operations to adhere to the...",
-          "link": "https://cryptopanic.com/news/18958957/Binance-and-OKX-Adjust-Operations-in-Response-to-UKs-New-FinProm-Regulations",
-          "publishedOn": "2023-10-10T10:59:46.000Z",
-          "wordCount": 594,
-          "title": "Binance and OKX Adjust Operations in Response to U.K.’s New FinProm Regulations",
+          "description": "Israeli authorities reportedly “located and froze” cryptocurrency accounts belonging to the Hamas group with assistance from Binance, local media outlet Calcalist reported on Oct. 10. As per the report, Israel’s Lahav 433 police unit collaborated with the nation’s defense ministry and other...",
+          "link": "https://cryptopanic.com/news/18959152/Israeli-authorities-redirects-frozen-Hamas-cryptocurrency-funding-to-state-treasury",
+          "publishedOn": "2023-10-10T12:18:09.000Z",
+          "wordCount": 592,
+          "title": "Israeli authorities redirects frozen Hamas cryptocurrency funding to state treasury",
+          "imageUrl": "https://cryptoslate.com/wp-content/uploads/2023/07/israel-crypto-.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/18959160/Shiba-Inu-SHIB-Sets-Two-Key-Targets-Amid-Price-Drawdown",
+          "author": null,
+          "description": "Shiba Inu eyes beating total transaction and wallet address count milestones despite ongoing market slowdown",
+          "link": "https://cryptopanic.com/news/18959160/Shiba-Inu-SHIB-Sets-Two-Key-Targets-Amid-Price-Drawdown",
+          "publishedOn": "2023-10-10T12:17:00.000Z",
+          "wordCount": 592,
+          "title": "Shiba Inu (SHIB) Sets Two Key Targets Amid Price Drawdown",
+          "imageUrl": "https://u.today/sites/default/files/styles/twitter/public/2023-10/40953.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/18959153/Friendtech-Bolsters-Security-Against-SIM-Swap-Exploits",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/18959153/Friendtech-Bolsters-Security-Against-SIM-Swap-Exploits",
+          "publishedOn": "2023-10-10T12:15:00.000Z",
+          "wordCount": null,
+          "title": "Friend.tech Bolsters Security Against SIM Swap Exploits",
           "imageUrl": null
         },
         {
-          "id": "https://cryptopanic.com/news/18958944/These-Meme-Coins-Are-Bleeding-Out-Amid-the-Latest-Crypto-Market-Crash",
+          "id": "https://cryptopanic.com/news/18959131/Santiment-Draws-Attention-to-These-Two-Altcoins-Warned-About-Volatility",
           "author": null,
-          "description": "DOGE, SHIBA, BONE, PEPE, and LEASH have dropped significantly in the past month, whereas FLOKI is among the few in the green.",
-          "link": "https://cryptopanic.com/news/18958944/These-Meme-Coins-Are-Bleeding-Out-Amid-the-Latest-Crypto-Market-Crash",
-          "publishedOn": "2023-10-10T10:53:36.000Z",
-          "wordCount": 594,
-          "title": "These Meme Coins Are Bleeding Out Amid the Latest Crypto Market Crash",
-          "imageUrl": "https://cryptopotato.com/wp-content/uploads/2023/09/shib_v_doge_cover.jpg"
+          "description": "",
+          "link": "https://cryptopanic.com/news/18959131/Santiment-Draws-Attention-to-These-Two-Altcoins-Warned-About-Volatility",
+          "publishedOn": "2023-10-10T12:03:06.000Z",
+          "wordCount": null,
+          "title": "Santiment Draws Attention to These Two Altcoins! Warned About Volatility!",
+          "imageUrl": null
         },
         {
-          "id": "https://cryptopanic.com/news/18958937/Cyprus-to-tighten-crypto-regulations-in-accordance-with-FATF",
+          "id": "https://cryptopanic.com/news/18959098/Whos-Caroline-Ellison-the-star-witness-testifying-against-Sam-Bankman-Fried",
           "author": null,
-          "description": "The Ministry of Finance intends to amend the existing Prevention and Suppression of Money Laundering Law.",
-          "link": "https://cryptopanic.com/news/18958937/Cyprus-to-tighten-crypto-regulations-in-accordance-with-FATF",
-          "publishedOn": "2023-10-10T10:52:11.000Z",
-          "wordCount": 591,
-          "title": "Cyprus to tighten crypto regulations in accordance with FATF",
-          "imageUrl": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-10/7b529616-3e5f-4788-835d-6c7d71c0f134.jpg"
+          "description": "",
+          "link": "https://cryptopanic.com/news/18959098/Whos-Caroline-Ellison-the-star-witness-testifying-against-Sam-Bankman-Fried",
+          "publishedOn": "2023-10-10T12:00:45.000Z",
+          "wordCount": null,
+          "title": "Who’s Caroline Ellison, the star witness testifying against Sam Bankman-Fried?",
+          "imageUrl": null
         },
         {
-          "id": "https://cryptopanic.com/news/18958912/Der-transformative-Einfluss-der-Blockchain-Technologie-auf-iGaming",
+          "id": "https://cryptopanic.com/news/18959121/Ethereum-Foundation-Under-Attack-Selling-1700-ETH-Cost-Them-This-Much",
           "author": null,
-          "description": "Die Blockchain-Technologie sorgt durch den Einsatz von Zufallszahlengeneratoren für faires Spielen. Der globale Online-Glücksspielmarkt wurde im Jahr 2022 auf 63,53 Mrd. $ geschätzt. Der Online-Glücksspielmarkt wird laut Daten von Statista im Jahr 2023 voraussichtlich 95,05 Mrd. $ erreichen. Die...",
-          "link": "https://cryptopanic.com/news/18958912/Der-transformative-Einfluss-der-Blockchain-Technologie-auf-iGaming",
-          "publishedOn": "2023-10-10T10:50:11.000Z",
-          "wordCount": 589,
-          "title": "Der transformative Einfluss der Blockchain-Technologie auf iGaming",
-          "imageUrl": "https://coinjournal.net/wp-content/uploads/2023/10/1695734775305-44f59365-48d7-4283-a979-d55d6257f40c.jpg"
+          "description": "",
+          "link": "https://cryptopanic.com/news/18959121/Ethereum-Foundation-Under-Attack-Selling-1700-ETH-Cost-Them-This-Much",
+          "publishedOn": "2023-10-10T12:00:10.000Z",
+          "wordCount": null,
+          "title": "Ethereum Foundation Under Attack, Selling 1,700 ETH Cost Them This Much",
+          "imageUrl": null
         },
         {
-          "id": "https://cryptopanic.com/news/18958928/Binance-CEOs-1-Billion-IRI-Project-Fails-to-Raise-Estimated-Fund",
+          "id": "https://cryptopanic.com/news/18959096/Ripple-moves-60m-tokens-from-October-unlock-Will-it-impact-XRP",
           "author": null,
-          "description": "According to a recent Bloomberg report, the Industry Recovery Initiative (IRI), a proposal initiated by Binance CEO Changpeng Zhao following the FTX debacle, has not been successful. Failing to achieve the anticipated fund for industry stabilization, Zhao has reportedly decided to step back from...",
-          "link": "https://cryptopanic.com/news/18958928/Binance-CEOs-1-Billion-IRI-Project-Fails-to-Raise-Estimated-Fund",
-          "publishedOn": "2023-10-10T10:48:00.000Z",
+          "description": "Ripple moved 60 million XRP ($30 million) on October 9, from the 200 million kept from this month’s 1 billion … Continued",
+          "link": "https://cryptopanic.com/news/18959096/Ripple-moves-60m-tokens-from-October-unlock-Will-it-impact-XRP",
+          "publishedOn": "2023-10-10T11:59:54.000Z",
           "wordCount": 593,
-          "title": "Binance CEO’s $1 Billion IRI Project Fails to Raise Estimated Fund",
-          "imageUrl": null
+          "title": "Ripple moves 60m tokens from October unlock; Will it impact XRP?",
+          "imageUrl": "https://finbold.com/app/uploads/2023/10/Ripple-60M-XRP.jpg"
         },
         {
-          "id": "https://cryptopanic.com/news/18958925/Binances-1-billion-crypto-recovery-fund-deployed-less-than-30-million-Bloomberg",
+          "id": "https://cryptopanic.com/news/18959075/Hacken-and-Radix-Join-Forces-for-More-Secure-Blockchain",
           "author": null,
-          "description": "Binance's post-FTX Industry Recovery Initiative raised over $1 billion but deployed less than $30 million so far.",
-          "link": "https://cryptopanic.com/news/18958925/Binances-1-billion-crypto-recovery-fund-deployed-less-than-30-million-Bloomberg",
-          "publishedOn": "2023-10-10T10:46:03.000Z",
-          "wordCount": 594,
-          "title": "Binance’s $1 billion crypto recovery fund deployed less than $30 million: Bloomberg",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2023/02/20230215_Binance-1200x675.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/18958913/Reserve-Bank-of-Zimbabwe-launches-gold-backed-digital-token-ZiG",
-          "author": null,
-          "description": "RBZ has launched a gold-backed ZiG digital token to address currency instability and inflation. ZiG offers a stable and versatile investment option, gaining investor interest. Investors have purchased 350kg of gold through ZiG, signalling a shift from the US dollar. The Reserve Bank of Zimbabwe...",
-          "link": "https://cryptopanic.com/news/18958913/Reserve-Bank-of-Zimbabwe-launches-gold-backed-digital-token-ZiG",
-          "publishedOn": "2023-10-10T10:43:22.000Z",
+          "description": "Hacken partners with Radix to conduct comprehensive code audits, aiming to bolster the security of the Radix ecosystem.",
+          "link": "https://cryptopanic.com/news/18959075/Hacken-and-Radix-Join-Forces-for-More-Secure-Blockchain",
+          "publishedOn": "2023-10-10T11:50:00.000Z",
           "wordCount": 591,
-          "title": "Reserve Bank of Zimbabwe launches gold-backed digital token ZiG",
-          "imageUrl": "https://coinjournal.net/wp-content/uploads/2023/04/1682331872253-f19e148a-6acf-4581-b618-289d25bee033.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/18958890/Ethereum-Foundation-Attacked-During-1700-ETH-Sale",
-          "author": null,
-          "description": "Ethereum Foundation's sale not as smooth as expected",
-          "link": "https://cryptopanic.com/news/18958890/Ethereum-Foundation-Attacked-During-1700-ETH-Sale",
-          "publishedOn": "2023-10-10T10:40:00.000Z",
-          "wordCount": 589,
-          "title": "Ethereum Foundation Attacked During 1,700 ETH Sale",
-          "imageUrl": "https://u.today/sites/default/files/styles/twitter/public/2023-10/40949.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/18958959/Unity-Jumps-77-in-Premarket-After-CEO-Steps-Down",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/18958959/Unity-Jumps-77-in-Premarket-After-CEO-Steps-Down",
-          "publishedOn": "2023-10-10T10:37:07.000Z",
-          "wordCount": null,
-          "title": "Unity Jumps 7.7% in Premarket After CEO Steps Down",
+          "title": "Hacken and Radix Join Forces for More Secure Blockchain",
           "imageUrl": null
         },
         {
-          "id": "https://cryptopanic.com/news/18958887/What-is-a-metaverse-A-beginners-guide-to-virtual-worlds",
+          "id": "https://cryptopanic.com/news/18959087/BREAKING-US-Speaker-of-the-House-is-a-Bitcoiner-EP-842",
           "author": null,
-          "description": "Here's a guide to the concept of a metaverse and how virtual worlds might incorporate blockchain technology in them.",
-          "link": "https://cryptopanic.com/news/18958887/What-is-a-metaverse-A-beginners-guide-to-virtual-worlds",
-          "publishedOn": "2023-10-10T10:36:17.000Z",
-          "wordCount": 592,
-          "title": "What is a metaverse? A beginner’s guide to virtual worlds",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2022/07/20220725_Metaverse_Book-1200x675.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/18958876/Rise-of-the-shrimp-and-crabs-Small-scale-bitcoin-owners-on-the-rise",
-          "author": null,
-          "description": "Quick Take Recent data analysis reveals that, as the BTC on exchange balance continues to dwindle, now currently sitting at roughly 2.3 million, there’s a concurrent rise in the balance size of the smaller ownership groups, specifically the “shrimps” and “crabs.” These crypto creatures own less...",
-          "link": "https://cryptopanic.com/news/18958876/Rise-of-the-shrimp-and-crabs-Small-scale-bitcoin-owners-on-the-rise",
-          "publishedOn": "2023-10-10T10:30:42.000Z",
+          "description": "The acting intern speaker of the house of representatives is a massive supporter of Bitcoin✓ SUBSCRIBE - https://bit.ly/3QbgqTQ✓ LEAVE A LIKE & COMMENT LIMITED MERCH DROP:► https://simplybitcoin.com/collections/allSPONSORS:► Foundation's Bitcoin Hardware Wallet Passport:...",
+          "link": "https://cryptopanic.com/news/18959087/BREAKING-US-Speaker-of-the-House-is-a-Bitcoiner-EP-842",
+          "publishedOn": "2023-10-10T11:47:38.000Z",
           "wordCount": 594,
-          "title": "Rise of the shrimp and crabs: Small-scale bitcoin owners on the rise",
-          "imageUrl": "https://cryptoslate.com/wp-content/uploads/2023/10/insights-bitcoin-balance-1.jpg"
+          "title": "BREAKING: U.S. Speaker of the House is a Bitcoiner | EP 842",
+          "imageUrl": "https://i2.ytimg.com/vi/Y-itxibGfFU/hqdefault.jpg"
         },
         {
-          "id": "https://cryptopanic.com/news/18958868/Crypto-exchange-Upbit-blocked-159k-hacks-in-H1-2023-Report",
+          "id": "https://cryptopanic.com/news/18959088/Ethereum-Based-Altcoin-Explodes-40-in-24-Hours-As-Crypto-Whale-Rapidly-Accumulates-On-Chain-Data",
           "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/18958868/Crypto-exchange-Upbit-blocked-159k-hacks-in-H1-2023-Report",
-          "publishedOn": "2023-10-10T10:30:19.000Z",
-          "wordCount": null,
-          "title": "Crypto exchange Upbit blocked 159k hacks in H1 2023: Report",
-          "imageUrl": null
+          "description": "One altcoin project soared over a 24-hour period as a crypto whale accumulated a massive amount of its tokens, according to on-chain data. Blockchain tracking firm Lookonchain says that the native token of the automated market maker (AMM) Bancor Network (BNT) witnessed a big burst to the upside...",
+          "link": "https://cryptopanic.com/news/18959088/Ethereum-Based-Altcoin-Explodes-40-in-24-Hours-As-Crypto-Whale-Rapidly-Accumulates-On-Chain-Data",
+          "publishedOn": "2023-10-10T11:45:07.000Z",
+          "wordCount": 596,
+          "title": "Ethereum-Based Altcoin Explodes 40% in 24 Hours As Crypto Whale Rapidly Accumulates: On-Chain Data",
+          "imageUrl": "https://dailyhodl.com/wp-content/uploads/2023/10/Crypto-Whale-Rapidly-Accumulates.jpg"
         },
         {
-          "id": "https://cryptopanic.com/news/18958934/Top-3-Bitcoin-BTC-Price-Peak-Predictions-for-This-Cycle",
+          "id": "https://cryptopanic.com/news/18959122/Alameda-Held-47-of-Minted-Tether-Supply-Claims-Coinbase-Boss",
           "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/18958934/Top-3-Bitcoin-BTC-Price-Peak-Predictions-for-This-Cycle",
-          "publishedOn": "2023-10-10T10:30:00.000Z",
-          "wordCount": null,
-          "title": "Top 3 Bitcoin (BTC) Price Peak Predictions for This Cycle",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18958873/Ether-Bitcoin-Ratio-Drops-to-15-Month-Low-as-ETFs-Fail-to-Uplift-Sentiment",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/18958873/Ether-Bitcoin-Ratio-Drops-to-15-Month-Low-as-ETFs-Fail-to-Uplift-Sentiment",
-          "publishedOn": "2023-10-10T10:29:26.000Z",
-          "wordCount": null,
-          "title": "Ether-Bitcoin Ratio Drops to 15-Month Low as ETFs Fail to Uplift Sentiment",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18958859/Another-Friendtech-User-Loses-Entire-Portfolio-to-Phishing-Scam",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/18958859/Another-Friendtech-User-Loses-Entire-Portfolio-to-Phishing-Scam",
-          "publishedOn": "2023-10-10T10:22:00.000Z",
-          "wordCount": null,
-          "title": "Another Friend.tech User Loses Entire Portfolio to Phishing Scam",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18958861/Why-Is-Ethereum-Performing-Poorly-Compared-to-Bitcoin-Experts-Answer",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/18958861/Why-Is-Ethereum-Performing-Poorly-Compared-to-Bitcoin-Experts-Answer",
-          "publishedOn": "2023-10-10T10:21:05.000Z",
-          "wordCount": null,
-          "title": "Why Is Ethereum Performing Poorly Compared to Bitcoin? Experts Answer",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18958839/SECs-Grayscale-Bitcoin-ETF-Appeal-Window-Closes-Friday-What-Analysts-Expect",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/18958839/SECs-Grayscale-Bitcoin-ETF-Appeal-Window-Closes-Friday-What-Analysts-Expect",
-          "publishedOn": "2023-10-10T10:20:03.000Z",
-          "wordCount": null,
-          "title": "SEC’s Grayscale Bitcoin ETF Appeal Window Closes Friday: What Analysts Expect",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18958827/Hamas-Linked-Crypto-Accounts-Frozen-by-Israeli-Police-With-Binances-Help-Report",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/18958827/Hamas-Linked-Crypto-Accounts-Frozen-by-Israeli-Police-With-Binances-Help-Report",
-          "publishedOn": "2023-10-10T10:10:02.000Z",
-          "wordCount": null,
-          "title": "Hamas-Linked Crypto Accounts Frozen by Israeli Police, With Binance's Help: Report",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18958830/Tezos-Jumps-7-on-South-Korean-Volume-Spike-Futures-Liquidations",
-          "author": null,
-          "description": "The 24-hour trading volume for Tezos' native token XTZ jumped more than seven times its monthly average amid the latest rally.",
-          "link": "https://cryptopanic.com/news/18958830/Tezos-Jumps-7-on-South-Korean-Volume-Spike-Futures-Liquidations",
-          "publishedOn": "2023-10-10T10:05:44.000Z",
+          "description": "Coinbase’s head of product and business operations, Conor Grogan, estimated that Alameda Research (Alameda) minted $39.5 billion in USDT (Tether) before its bankruptcy. At its peak, Alameda’s Tether made up about half of its assets under management. Former Alameda executive Sam Trabucco said...",
+          "link": "https://cryptopanic.com/news/18959122/Alameda-Held-47-of-Minted-Tether-Supply-Claims-Coinbase-Boss",
+          "publishedOn": "2023-10-10T11:45:00.000Z",
           "wordCount": 592,
-          "title": "Tezos Jumps 7% on South Korean Volume Spike, Futures Liquidations",
-          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/03/tezos-price-rally-gID_7.jpg"
+          "title": "Alameda Held 47% of Minted Tether Supply, Claims Coinbase Boss",
+          "imageUrl": "https://s32659.pcdn.co/wp-content/uploads/2023/01/bic_tether_neutral_2.jpg.optimal.jpg"
         },
         {
-          "id": "https://cryptopanic.com/news/18958806/FriendTech-rolls-out-two-factor-authentication-in-response-to-sim-swap-attacks",
+          "id": "https://cryptopanic.com/news/18959091/Dogecoin-Payment-Mention-Found-In-Tesla-Cybertruck-Checkout-Pages-Source-Code-Whats-Happening",
           "author": null,
           "description": "",
-          "link": "https://cryptopanic.com/news/18958806/FriendTech-rolls-out-two-factor-authentication-in-response-to-sim-swap-attacks",
-          "publishedOn": "2023-10-10T10:00:55.000Z",
+          "link": "https://cryptopanic.com/news/18959091/Dogecoin-Payment-Mention-Found-In-Tesla-Cybertruck-Checkout-Pages-Source-Code-Whats-Happening",
+          "publishedOn": "2023-10-10T11:44:29.000Z",
           "wordCount": null,
-          "title": "FriendTech rolls out two-factor authentication in response to sim-swap attacks",
+          "title": "Dogecoin Payment Mention Found In Tesla Cybertruck Checkout Page's Source Code: What's Happening?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18959092/Bitcoin-Could-Fall-Due-to-Israel-Hamas-Tensions-Traders-Worry",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/18959092/Bitcoin-Could-Fall-Due-to-Israel-Hamas-Tensions-Traders-Worry",
+          "publishedOn": "2023-10-10T11:42:23.000Z",
+          "wordCount": null,
+          "title": "Bitcoin Could Fall Due to Israel-Hamas Tensions, Traders Worry",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18959052/5-Key-Technologies-Streamlining-the-Crypto-User-Experience",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/18959052/5-Key-Technologies-Streamlining-the-Crypto-User-Experience",
+          "publishedOn": "2023-10-10T11:35:34.000Z",
+          "wordCount": null,
+          "title": "5 Key Technologies Streamlining the Crypto User Experience",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18959050/Shiba-Inu-News-Ethereum-L2-Shibarium-Crosses-Another-Important-Milestone",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/18959050/Shiba-Inu-News-Ethereum-L2-Shibarium-Crosses-Another-Important-Milestone",
+          "publishedOn": "2023-10-10T11:30:38.000Z",
+          "wordCount": null,
+          "title": "Shiba Inu News: Ethereum L2 Shibarium Crosses Another Important Milestone",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18959046/Ripple-Will-waning-whale-activity-affect-XRP",
+          "author": null,
+          "description": "Despite Ripple's recent legal victory, XRP has experienced a decline in whale activity, leaving uncertainties about the token's trajectory.",
+          "link": "https://cryptopanic.com/news/18959046/Ripple-Will-waning-whale-activity-affect-XRP",
+          "publishedOn": "2023-10-10T11:30:35.000Z",
+          "wordCount": 589,
+          "title": "Ripple: Will waning whale activity affect XRP?",
+          "imageUrl": "https://statics.ambcrypto.com/wp-content/uploads/2023/10/ambcrypto_Ethereum_token_surrounded_by_whales_ocean_e8a5675c-a284-4de6-831b-58f9fa6f4930-e1696919500842.png"
+        },
+        {
+          "id": "https://cryptopanic.com/news/18959030/Tezos-XTZ-Shows-937-Increase-in-Volume-as-Price-Jumps-Heres-Why",
+          "author": null,
+          "description": "Tezos sees sharp price spike, triggering 937% volume rise",
+          "link": "https://cryptopanic.com/news/18959030/Tezos-XTZ-Shows-937-Increase-in-Volume-as-Price-Jumps-Heres-Why",
+          "publishedOn": "2023-10-10T11:25:00.000Z",
+          "wordCount": 594,
+          "title": "Tezos (XTZ) Shows 937% Increase in Volume as Price Jumps; Here's Why",
+          "imageUrl": "https://u.today/sites/default/files/styles/twitter/public/2023-10/e1208.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/18959021/Ethereums-bull-run-at-risk-Inside-ETH-whales-8-billion-sell-off",
+          "author": null,
+          "description": "Ethereum (ETH), the second-largest cryptocurrency by market cap, has been at the forefront of the crypto bull run, amassing significant … Continued",
+          "link": "https://cryptopanic.com/news/18959021/Ethereums-bull-run-at-risk-Inside-ETH-whales-8-billion-sell-off",
+          "publishedOn": "2023-10-10T11:23:31.000Z",
+          "wordCount": 593,
+          "title": "Ethereum’s bull run at risk? Inside ETH whales’ $8 billion sell-off",
+          "imageUrl": "https://finbold.com/app/uploads/2023/10/Ethereums-bull-run-at-risk-Inside-ETH-whales-8-billion-sell-off-.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/18959040/Binance-Added-Support-to-This-Altcoin-Price-Jumped",
+          "author": null,
+          "description": "Bitcoin exchange Binance announced in a statement that it will launch futures transactions for the altcoin called STRAX. Continue Reading: Binance Added Support to This Altcoin, Price Jumped!",
+          "link": "https://cryptopanic.com/news/18959040/Binance-Added-Support-to-This-Altcoin-Price-Jumped",
+          "publishedOn": "2023-10-10T11:22:05.000Z",
+          "wordCount": 590,
+          "title": "Binance Added Support to This Altcoin, Price Jumped!",
+          "imageUrl": "https://www.bitcoinsistemi.com/wp-content/uploads/2021/10/bitcoin-roket-boga.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/18959123/Bitcoin-Ordinals-Marketplace-Ordswap-Loses-Control-of-Domain-Users-Warned-of-Phishing-Attacks",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/18959123/Bitcoin-Ordinals-Marketplace-Ordswap-Loses-Control-of-Domain-Users-Warned-of-Phishing-Attacks",
+          "publishedOn": "2023-10-10T11:15:00.000Z",
+          "wordCount": null,
+          "title": "Bitcoin Ordinals Marketplace Ordswap Loses Control of Domain, Users Warned of Phishing Attacks",
           "imageUrl": null
         }
       ]
@@ -1090,12 +1090,72 @@
       "siteUrl": "https://www.inoreader.com/stream/user/1005336866/tag/%E6%B5%B7%E5%A4%96%E5%8A%A0%E5%AF%86%E8%B5%84%E8%AE%AF/view/html",
       "articles": [
         {
+          "id": "http://www.inoreader.com/article/3a9c6e74b2cac233",
+          "author": "Shaurya Malwa",
+          "description": "Several analysts have weighed in on the impact of the ongoing conflict on crypto markets, particularly bitcoin.",
+          "link": "https://www.coindesk.com/markets/2023/10/10/bitcoin-could-fall-due-to-israel-hamas-tensions-traders-worry/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2023-10-10T12:03:44.000Z",
+          "wordCount": 7418,
+          "title": "Bitcoin Could Fall Due to Israel-Hamas Tensions, Traders Worry",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/jpeg",
+            "url": "https://www.coindesk.com/resizer/-Ee-8rXnGhEmPMaAf7RPdc4o8dI=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/KIVZCAEDHRHVZBJHTUFJF5ZTUA.jpg"
+          },
+          "imageUrl": "https://www.coindesk.com/resizer/-Ee-8rXnGhEmPMaAf7RPdc4o8dI=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/KIVZCAEDHRHVZBJHTUFJF5ZTUA.jpg"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e74b2b44107",
+          "author": "Arnab Shome",
+          "description": "“FTX creditors,” appealed Sunil Kavuri on Twitter days after the ongoing trial of Sam Bankman-Fried started, adding: “never forget all the CT influencers that fawned over SBF, posted their FTX ref links, posted their fake screenshot P&Ls on FTX and never talked about FTX bankruptcy/creditors again.”\nKavuri lost about $2.1 million to FTX and has now become one of the vocal champions of FTX creditors. He describes himself as an FTX creditor activist for his newfound role and is now making rounds of media outlets to share his thoughts on the trial.\n\nhttps://t.co/XNbcsr1KCk\n— Sunil (FTX Creditor Champion) (@sunil_trades) October 8, 2023\n\"Sam Bankman-Fried has literally destroyed so many people's lives,\" said Kavuri, who is now receiving dozens of queries every day from fellow FTX creditors, to…",
+          "link": "https://www.financemagnates.com//cryptocurrency/top-ftx-victim-points-at-influencers-roles-as-sbf-faces-trial/",
+          "publishedOn": "2023-10-10T11:54:12.000Z",
+          "wordCount": 8296,
+          "title": "Top FTX Victim Points at Influencers' Roles as SBF Faces Trial",
+          "imageUrl": "https://images.financemagnates.com/images/Troubled%20FTX%20Files%20for%20Bankruptcy%20as%20CEO%20Bankman-Fried%20Resigns_id_7e22f4f2-d4d3-49a1-a861-e9c0774af6f4_size900.jpg"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e74b2b511ed",
+          "author": "Scott Matherson",
+          "description": "Shiba Inu’s Ethereum-based layer 2 blockchain solution Shibarium, achieves yet another important milestone in blocks and transactions which shows the attraction of the network.\n \nShiba Inu: Shibarium’s Latest Milestone\n \nShiba Inu’s Shibarium has recently reached a significant milestone, recording over a million blocks and over 3 million transactions since it was introduced to the public in late August 2023.\n \n \nThe platform’s latest achievement might be traced back to the collective Shiba Inu token burn movement. Last month, a prominent Shiba Inu team member Lucie urged investors to migrate from using centralized exchanges and start using Shibarium as it will help with the Shiba Inu token burns.\n \nAccording to blockchain explorer Shibariumscan, Shibarium blocks currently sit at 1,063,594 …",
+          "link": "https://bitcoinist.com/shiba-inu-ethereum-l2-shibarium/",
+          "publishedOn": "2023-10-10T11:48:46.000Z",
+          "wordCount": 5551,
+          "title": "Shiba Inu News: Ethereum L2 Shibarium Crosses Another Important Milestone",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/jpeg",
+            "url": "https://bitcoinist.com/wp-content/uploads/2023/10/Shiba-Inu-Shibarium.jpeg"
+          },
+          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2023/10/Shiba-Inu-Shibarium.jpeg"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e74b2b6cfdc",
+          "author": "Terence Zimwara",
+          "description": "According to the findings of a research study by Elliptic, cybercriminals are believed to have used crypto cross-chain bridges and coin swap services to launder $7 billion worth of “illicit or high-risk funds.” The Lazarus Group, a cybercriminal organization said to be backed by North Korea, is “responsible for $900 million of cross-chain crime.”\n \nBad Actors Exploiting Dexs and Cross-Chain Bridges\n \nIn the period between July 2022 and July 2023, cross-chain and cross-asset services were used to “launder $7 billion worth of illicit or high-risk funds,” the latest research by the blockchain analytics firm Elliptic has shown. The value of crypto assets laundered via such channels exceeds the firm’s prediction of $6.5 billion by the end of 2023.\n \nIn a press statement issued on Oct. 5, Ellipt…",
+          "link": "https://news.bitcoin.com/cybercriminals-use-dexs-and-crypto-cross-chain-services-to-launder-7-billion-elliptic/",
+          "publishedOn": "2023-10-10T11:37:21.000Z",
+          "wordCount": 248,
+          "title": "Cybercriminals Use Dexs and Crypto Cross-Chain Services to Launder $7 Billion — Elliptic",
+          "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2023/10/shutterstock_1818881450.jpg"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e74b2b276bb",
+          "author": "Tareq Sikder",
+          "description": "Bitmain,  \na manufacturer of Bitcoin application-specific integrated circuits (ASICs), has  \ntemporarily suspended employee salary payments for September and beyond. The  \nmove was made as the company is facing financial difficulties. This includes a lack of  \npositive cash flow for September and a decline in orders for new ASICs.\nInternal Message from Bitmain:  \nThe Reasons behind September Salary Pause\nMultiple  \nemployees at Bitmain  disclosed these developments anonymously. They stated that  \nthe firm has cut all \"bonuses and incentives\" for its staff. It also  \nimposed a reduction of 50%  in their base salaries. \nBitmain allegedly stated in an internal message: \"For  \nthe month of September, the company has yet to achieve a net positive cash  \nflow, especially in the orders of [new] A…",
+          "link": "https://www.financemagnates.com//cryptocurrency/bitmain-faces-salary-payment-suspension-amid-financial-struggles/",
+          "publishedOn": "2023-10-10T11:13:38.000Z",
+          "wordCount": 4212,
+          "title": "Bitmain Faces Salary Payment Suspension amid Financial Struggles",
+          "imageUrl": "https://images.financemagnates.com/images/Bitmain_id_91bd8f66-eb53-4c1d-bd70-04dea8a3d2dd_size900.jpg"
+        },
+        {
           "id": "http://www.inoreader.com/article/3a9c6e74b2bca748",
           "author": "Omkar Godbole",
           "description": "The ratio has declined nearly 30% since Ethereum's Merge upgrade in September 2022.",
           "link": "https://www.coindesk.com/markets/2023/10/10/ether-bitcoin-ratio-drops-to-15-month-low-as-etfs-fail-to-uplift-sentiment/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-10-10T11:00:03.000Z",
-          "wordCount": 7615,
+          "wordCount": 7633,
           "title": "Ether-Bitcoin Ratio Drops to 15-Month Low as ETFs Fail to Uplift Sentiment",
           "enclosure": {
             "length": "1337",
@@ -1110,7 +1170,7 @@
           "description": "The clock is ticking down to this Friday (October 13), when the window for the US Securities and Exchange Commission (SEC) to appeal the Grayscale Bitcoin spot ETF ruling by the US District of Columbia Circuit will shut. As this deadline looms, the crypto community is abuzz with speculation, predictions, and hopes for what the outcome might entail for the larger digital currency ecosystem.\n \nWhat Will Happen On Friday?\n \nProminent ETF analyst from Bloomberg, Eric Balchunas, recently shed light on the current situation in a conversation on X (formerly Twitter).\n \nHe emphasized the SEC’s deviation from its traditional methods, stating:\n \n\nThe fact that they are actively engaging with issuers on their current filings (via comments, which hasn’t ever happened before) we think appeal [is] unlik…",
           "link": "https://bitcoinist.com/sec-grayscale-bitcoin-etf-appeal-friday/",
           "publishedOn": "2023-10-10T10:49:16.000Z",
-          "wordCount": 5678,
+          "wordCount": 5671,
           "title": "SEC’s Grayscale Bitcoin ETF Appeal Window Closes Friday: What Analysts Expect",
           "enclosure": {
             "length": "1337",
@@ -1125,7 +1185,7 @@
           "description": "Israeli authorities had previously seized around 190 Binance accounts with alleged ties to terrorist groups.",
           "link": "https://www.coindesk.com/policy/2023/10/10/hamas-linked-crypto-accounts-frozen-by-israeli-police-with-binances-help-report/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-10-10T10:31:11.000Z",
-          "wordCount": 6936,
+          "wordCount": 7185,
           "title": "Hamas-Linked Crypto Accounts Frozen by Israeli Police, With Binance's Help: Report",
           "enclosure": {
             "length": "1337",
@@ -1140,7 +1200,7 @@
           "description": "FTX co-founder and former Chief Technology Officer Gary Wang began testifying in earnest last Friday in Sam Bankman-Fried’s trial. Later on Tuesday, Caroline Ellison is expected to take the stand.",
           "link": "https://www.coindesk.com/policy/2023/10/10/gary-wang-caroline-ellison-looking-at-day-5-of-sam-bankman-frieds-trial/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-10-10T10:11:48.000Z",
-          "wordCount": 7434,
+          "wordCount": 7441,
           "title": "Gary Wang, Caroline Ellison: Looking at Day 5 of Sam Bankman-Fried's Trial",
           "enclosure": {
             "length": "1337",
@@ -1165,7 +1225,7 @@
           "description": "The bitcoin market, notorious for its rollercoaster-like volatility, has once again plunged into a tumultuous phase, leaving traders and investors on edge as prices oscillate unpredictably. \n \nCrypto strategist Benjamin Cowen, a prominent voice in the digital asset arena, has declared that the market is now entering one of its most “brutal” stages within its cyclical nature.\n \n \nCowen, sharing his insights on the social media platform X, pointed out that Bitcoin’s (BTC) dominance, which represents its total share of the crypto market capitalization, is on the rise. This phenomenon comes as risk appetite for the broader asset class appears to be waning.\n \n“We’ve been discussing this phase of the market cycle for a while,” Cowen wrote. “Namely, where BTC drops, but BTC dominance (BTC.D) goes…",
           "link": "https://bitcoinist.com/bitcoin-carnage-the-most-brutal-phase/",
           "publishedOn": "2023-10-10T09:49:21.000Z",
-          "wordCount": 5622,
+          "wordCount": 5615,
           "title": "Bitcoin Carnage: Crypto Strategist Unveils The ‘Most Brutal’ Market Phase",
           "enclosure": {
             "length": "1337",
@@ -1180,7 +1240,7 @@
           "description": "In an X (formerly Twitter) thread, Coinbase’s director of product strategy & business operations at Coinbase and on-chain sleuth Conor Grogan has revealed how FTX’s Alameda Research allegedly contributed to Tether’s USDT dominance. \n \nAlameda Minted $39.55B of USDT\n \nOn-chain data gathered by Grogan revealed that the trading firm minted $39.55 Billion worth of USDT, a figure said to account for “475 of Tether’s circulating supply today.” According to data from CoinMarketCap, Tether’s circulating supply currently stands at 83,494,944,358 USDT.\n \n \nWhile a previous report had estimated the total number of USDT, which Alameda minted, at $36.7 Billion, Grogan was able to come up with the additional figures with the additional wallets he found on-chain.\n \n\n \n \nInterestingly, Grogan noted that t…",
           "link": "https://bitcoinist.com/ftx-collapse-alameda-usdt/",
           "publishedOn": "2023-10-10T08:50:46.000Z",
-          "wordCount": 5547,
+          "wordCount": 5540,
           "title": "FTX Collapse: On-Chain Investigator Reveals How Alameda Boosted USDT’s Market Cap",
           "enclosure": {
             "length": "1337",
@@ -1195,7 +1255,7 @@
           "description": "As the Israel-Gaza war entered the fourth day, the cyber unit of Israel Police's Lahav 433 is now focused on crippling the channels through which Hamas receives financial support. The cyber unit also received support from the National Headquarters for Economic Combating Terrorism (METL) at the Ministry of Defense, the General Security Service, and other intelligence bodies, local media 0404 reported.\nStopping the Terror Group from Raising Funds\nThe action came as the terror group launched a fundraising campaign on social media for financial support from the public. Because of the heavy economic sanctions, they are asking for cryptocurrency donations.\nIsrael's cyber unit is also receiving cooperation from crypto exchange Binance to locate the Hamas-linked accounts and withdraw the funds int…",
           "link": "https://www.financemagnates.com//cryptocurrency/israel-strikes-on-hamas-financial-backbone-seizes-crypto-donations/",
           "publishedOn": "2023-10-10T08:44:49.000Z",
-          "wordCount": 4090,
+          "wordCount": 4081,
           "title": "Israel Strikes on Hamas' Financial Backbone: Seizes Crypto Donations",
           "imageUrl": "https://images.financemagnates.com/images/Israel%20880x400_id_631a28db-5819-42a7-af6d-4ed0d93a73f3_size900.jpg"
         },
@@ -1215,7 +1275,7 @@
           "description": "Bitstamp  \nhas disclosed its ongoing discussions with three prominent European banks about  \nassisting them in launching cryptocurrency services. These discussions are  \npoised to bear fruit in the first quarter of the coming year.\nBitstamp's Advanced  \nNegotiations with Major European Banks\nBitstamp’s  \nnegotiations underscore the growing acceptance of digital assets within the  \nEuropean financial sector. This news comes at a time when the European Union is  \nactively advancing its regulatory framework for cryptocurrencies, known as Markets  \nin Crypto Assets (MiCA). It aims at facilitating the entry of traditional  \nfinancial institutions into the digital asset space.\nRobert  \nZagotta, the Global Chief Commercial Officer of Bitstamp and the CEO of its US  \ndivision, shared this informat…",
           "link": "https://www.financemagnates.com//cryptocurrency/news/bitstamp-in-talks-with-european-banks-to-offer-crypto-services-amidst-regulatory-ease/",
           "publishedOn": "2023-10-10T07:52:15.000Z",
-          "wordCount": 4763,
+          "wordCount": 4769,
           "title": "Bitstamp in Talks with European Banks to Offer Crypto Services amidst Regulatory Ease",
           "imageUrl": "https://images.financemagnates.com/images/institutional%20cryptocurrency%20storage_id_431f3eaf-b65a-474a-ab7f-d71a9fbda061_size900.jpg"
         },
@@ -1225,7 +1285,7 @@
           "description": "The Bitcoin developer community is no stranger to innovation. To the end, Robin Linus, the leader of ZeroSync, which is behind the development of a zk-proof light client for Bitcoin, unveiled the “BitVM: Compute Anything on Bitcoin” white paper yesterday. This paper presents a groundbreaking methodology that could potentially redefine the perception of Bitcoin’s capabilities.\n \nBitVM introduces a computing paradigm that can express Turing-complete Bitcoin contracts. The significance here is that it does not necessitate any modifications to the network’s consensus rules. Instead of executing computations directly on Bitcoin, these computations are merely verified, drawing parallels with the process of optimistic rollups.\n \nOnline forums, particularly the community on Reddit, have been buzzi…",
           "link": "https://bitcoinist.com/bitvm-bitcoin-ethereum-all-altcoins-useless/",
           "publishedOn": "2023-10-10T07:50:54.000Z",
-          "wordCount": 5867,
+          "wordCount": 5860,
           "title": "BitVM Turns Bitcoin Into Ethereum Without Fork, All Altcoins Useless?",
           "enclosure": {
             "length": "1337",
@@ -1240,7 +1300,7 @@
           "description": "The defendant in a multi-billion fraud trial is pressing to blame legal advice, despite judicial reluctance to let him.",
           "link": "https://www.coindesk.com/policy/2023/10/10/bankman-fried-seeks-to-probe-lawyers-involvement-in-200m-sham-alameda-loans/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-10-10T07:49:27.000Z",
-          "wordCount": 7158,
+          "wordCount": 7516,
           "title": "Bankman-Fried Seeks to Probe Lawyers’ Involvement in $200M ‘Sham’ Alameda Loans",
           "enclosure": {
             "length": "1337",
@@ -1255,7 +1315,7 @@
           "description": "The bid-ask ratio in bitcoin and ether options markets leans below one, signaling a bias for volatility selling, one observer said.",
           "link": "https://www.coindesk.com/markets/2023/10/10/bitcoin-ether-options-order-books-signal-calm-amid-mounting-risks/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-10-10T07:49:27.000Z",
-          "wordCount": 7344,
+          "wordCount": 7342,
           "title": "Bitcoin, Ether Options Order Books Signal Calm Amid Mounting Risks",
           "enclosure": {
             "length": "1337",
@@ -1267,10 +1327,10 @@
         {
           "id": "http://www.inoreader.com/article/3a9c6e74b2914bab",
           "author": "Arnab Shome",
-          "description": "Binance users in Hong Kong have become the latest target of fraudsters, which have even forced the local police to issue a warning. In the last two weeks, at least 11 Binance customers in Hong Kong lost more than $446,000 (HKD 3.5 million) in a wave of phishing scams sent through text messages.\nA Wave of Phishing Scam in Hong Kong\nAccording to Hong Kong police, Binance customers received a text message to verify their account before the deadline with a phishing link in it.\n“Recently, fraudsters posing as Binance sent text messages claiming that users must click the link in the message to verify their identity details before a deadline, otherwise their account would be deactivated,” the warning of Hong Kong police from its Facebook page dubbed “CyberDefender” stated.\nWhen the victims click …",
+          "description": "Binance users in Hong Kong have become the latest target of fraudsters, which has even forced the local police to issue a warning. In the last two weeks, at least 11 Binance customers in Hong Kong lost more than $446,000 (HKD 3.5 million) in a wave of phishing scams sent through text messages.\nA Wave of Phishing Scams in Hong Kong\nAccording to Hong Kong police, Binance customers received a text message to verify their account before the deadline with a phishing link in it.\n“Recently, fraudsters posing as Binance sent text messages claiming that users must click the link in the message to verify their identity details before a deadline, otherwise their account would be deactivated,” the warning of Hong Kong police from its Facebook page dubbed “CyberDefender” stated.\nWhen the victims click …",
           "link": "https://www.financemagnates.com//cryptocurrency/hk-police-warn-against-a-wave-of-phishing-scam-binance-users-lost-446k/",
           "publishedOn": "2023-10-10T07:42:55.000Z",
-          "wordCount": 4178,
+          "wordCount": 4181,
           "title": "HK Police Warn against a Wave of Phishing Scam: Binance Users Lost $446K",
           "imageUrl": "https://images.financemagnates.com/images/phishing-attacks_id_bf4ea108-9ffe-46dd-a3e5-e41793818eec_size900.jpg"
         },
@@ -1280,7 +1340,7 @@
           "description": "Attackers were able to steal nearly $400 million worth of various tokens after FTX was hacked in November 2022. But it could have been worse.",
           "link": "https://www.coindesk.com/tech/2023/10/10/ftx-could-have-lost-over-1b-due-to-lax-security-practices-report/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-10-10T07:35:48.000Z",
-          "wordCount": 7157,
+          "wordCount": 7549,
           "title": "FTX Could Have Lost Over $1B Due to Lax Security Practices: Report",
           "enclosure": {
             "length": "1337",
@@ -1288,66 +1348,6 @@
             "url": "https://www.coindesk.com/resizer/knKSy2emkYGUY1rAAHBi9rxbzTQ=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/A6DZFPLJIZFTBF6774ULCYUOII.jpg"
           },
           "imageUrl": "https://www.coindesk.com/resizer/knKSy2emkYGUY1rAAHBi9rxbzTQ=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/A6DZFPLJIZFTBF6774ULCYUOII.jpg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e74b293443a",
-          "author": "Shaurya Malwa",
-          "description": "The ongoing conflict in the Middle East impacted prices of riskier assets, such as bitcoin, on Monday.",
-          "link": "https://www.coindesk.com/markets/2023/10/10/bitcoin-hovers-over-275k-crypto-bulls-face-100m-liquidations-as-altcoins-drop/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-          "publishedOn": "2023-10-10T07:28:02.000Z",
-          "wordCount": 6803,
-          "title": "Bitcoin Hovers Over $27.5K, Crypto Bulls Face $100M Liquidations as Altcoins Drop",
-          "enclosure": {
-            "length": "1337",
-            "type": "image/jpeg",
-            "url": "https://www.coindesk.com/resizer/xgGcNm5se0dOHHgfFaRN1pLGamY=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/QKTX2RJ3VZH3POXVLCZOZBCWDI.jpg"
-          },
-          "imageUrl": "https://www.coindesk.com/resizer/xgGcNm5se0dOHHgfFaRN1pLGamY=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/QKTX2RJ3VZH3POXVLCZOZBCWDI.jpg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e74b2990ca7",
-          "author": "Jamie Redman",
-          "description": "When Satoshi Nakamoto created Bitcoin, many viewed it as a solution to the drawbacks of fiat money. Historically, about 800 fiat currencies have come and gone, with many ultimately failing. Intriguingly, the fundamental reasons for establishing the fiat system remain elusive to many. Some argue that it was designed by governments to perpetuate corruption and fund endless global conflicts. In a nutshell, most fiat currencies have either supported military pursuits or protected financial magnates who benefit from such endeavors.\n \nUnraveling the Shadows: The War-Driven Legacy of Fiat Currencies\n \nNotably, U.S. presidential hopeful Robert Kennedy Jr. recently remarked, “fiat currency was invented to fund the cause of war.” A bold claim, but history does lend credence to Kennedy’s assertion. A…",
-          "link": "https://news.bitcoin.com/the-economic-engine-of-war-tracing-fiat-currencys-role-in-global-conflicts/",
-          "publishedOn": "2023-10-10T06:40:35.000Z",
-          "wordCount": 275,
-          "title": "The Economic Engine of War — Tracing Fiat Currency’s Role in Global Conflicts",
-          "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2023/10/war.jpg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e74b28f1a5d",
-          "author": "Lubomir Tassev",
-          "description": "Bad actors exploited Estonia’s once liberal licensing regime for crypto companies to defraud investors and commit other crimes, an investigative report claims. The authors say they discovered dozens of such cases, including scams and schemes for sanctions evasion and money laundering. Since Tallinn tightened its rules, many of these entities have left Estonia, whose banking sector was accused of similar sins in recent years, and on a larger scale.\n \nCrypto Platforms Registered in Estonia Facilitated Fraud, Russian Payments, Report Alleges\n \nEstonia’s previously lax requirements for crypto businesses seeking to provide EU-licensed services, turned the small Baltic nation into a “hub of financial crime,” according to research conducted by Vsquare, a network of media outlets focused on cross-…",
-          "link": "https://news.bitcoin.com/estonia-licensed-crypto-firms-blamed-for-e1-billion-in-damages/",
-          "publishedOn": "2023-10-10T04:32:28.000Z",
-          "wordCount": 225,
-          "title": "Estonia-Licensed Crypto Firms Blamed for €1 Billion in Damages",
-          "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2023/10/shutterstock_2264066747.jpg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e74b2706ba0",
-          "author": "Dalmas Ngetich",
-          "description": "Shytoshi Kusama, while replying to a message, now says Shibarium plans to change how the layer-2 solution onboard their validators in light of recent changes that saw the platform increase rewards. Kusama, the anonymous co-founder of Shiba Inu, the network supporting Shibarium, said the plan is to onboard the “right folks to scale” but will “remain quite behind the scenes” as they didn’t want to reveal their complete strategy.\n \nChanging Validator Onboarding Strategy\n \nKusama’s comments were shared on X by Shibarium’s representative, who claims to be their marketing strategist, going by the handle “LucieSHIB.” When writing on October 9, it remains unclear what Shibarium has in the works to scale. It is already a layer-2 scaling platform designed to scale and process transactions speedily a…",
-          "link": "https://bitcoinist.com/shibarium-changing-tact-onboard-right-validators/",
-          "publishedOn": "2023-10-10T02:54:03.000Z",
-          "wordCount": 5595,
-          "title": "Shibarium Changing Tact, Plans To Onboard “The Right” Validators",
-          "enclosure": {
-            "length": "1337",
-            "type": "image/jpeg",
-            "url": "https://bitcoinist.com/wp-content/uploads/2023/10/Crypto-news-Template65-640x362.jpg"
-          },
-          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2023/10/Crypto-news-Template65-640x362.jpg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e74b271e934",
-          "author": "Kevin Helms",
-          "description": "Global financial services firm Jefferies has warned of “the collapse of the U.S.-dollar paper standard to the benefit of both gold bullion owners and also owners of bitcoin.” He explained that the Federal Reserve, and other G7 central banks, “will not be able to exit from unconventional monetary policy in a benign manner and will ultimately remain committed to ongoing central bank balance-sheet expansion in one form or another.”\n \nBitcoin to Benefit From US Dollar Collapse, Analyst Says\n \n\n \nGlobal investment bank Jefferies has cautioned about the potential collapse of the U.S. dollar, which could prove advantageous for bitcoin holders. Jefferies is a leading global, full-service investment banking and capital markets firm headquartered in the U.S. The firm operates across the Americas, Eu…",
-          "link": "https://news.bitcoin.com/analyst-warns-of-us-dollar-collapse-predicts-bitcoin-owners-to-benefit/",
-          "publishedOn": "2023-10-10T02:38:20.000Z",
-          "wordCount": 234,
-          "title": "Analyst Warns of US Dollar Collapse, Predicts Bitcoin Owners to Benefit",
-          "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2023/10/chris-wood-dollar-collapsing.jpg"
         }
       ]
     }

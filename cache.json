@@ -756,21 +756,6 @@
           "imageUrl": "https://cdn.jwplayer.com/v2/media/lfmwAjB9/poster.jpg"
         },
         {
-          "id": "https://decrypt.co/videos/live-events/0kYf2Qed/most-crypto-users-dont-trust-themselves-to-keep-their-seed-phrase-safe-ledger-ceo",
-          "author": null,
-          "description": "Decrypt's Stacy Elliott sat down with Ledger CEO Pascal Gauthier to discuss crypto custody post-FTX, and the hardware wallet manufacturer's controversial Ledger Recover service.",
-          "link": "https://decrypt.co/videos/live-events/0kYf2Qed/most-crypto-users-dont-trust-themselves-to-keep-their-seed-phrase-safe-ledger-ceo",
-          "publishedOn": "2023-09-26T05:41:11.000Z",
-          "wordCount": 6319,
-          "title": "Most Crypto Users Don't Trust Themselves to Keep Their Seed Phrase Safe: Ledger CEO",
-          "enclosure": {
-            "url": "https://cdn.jwplayer.com/v2/media/0kYf2Qed/poster.jpg",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.jwplayer.com/v2/media/0kYf2Qed/poster.jpg"
-        },
-        {
           "id": "https://decrypt.co/videos/live-events/0Sezz6pZ/crypto-accounting-challenges-and-opportunities",
           "author": null,
           "description": "As crypto matures, accounting and tax regulations are evolving. Amy Kalnoki of Bitwave explains how her company helps crypto companies properly account for digital assets. She notes the importance of flexibility as new crypto assets emerge and regulations change. Stacy Elliott interviewed her at Messari Mainnet 2023.",
@@ -784,6 +769,21 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.jwplayer.com/v2/media/0Sezz6pZ/poster.jpg"
+        },
+        {
+          "id": "https://decrypt.co/videos/live-events/0kYf2Qed/most-crypto-users-dont-trust-themselves-to-keep-their-seed-phrase-safe-ledger-ceo",
+          "author": null,
+          "description": "Decrypt's Stacy Elliott sat down with Ledger CEO Pascal Gauthier to discuss crypto custody post-FTX, and the hardware wallet manufacturer's controversial Ledger Recover service.",
+          "link": "https://decrypt.co/videos/live-events/0kYf2Qed/most-crypto-users-dont-trust-themselves-to-keep-their-seed-phrase-safe-ledger-ceo",
+          "publishedOn": "2023-09-26T05:41:11.000Z",
+          "wordCount": 6319,
+          "title": "Most Crypto Users Don't Trust Themselves to Keep Their Seed Phrase Safe: Ledger CEO",
+          "enclosure": {
+            "url": "https://cdn.jwplayer.com/v2/media/0kYf2Qed/poster.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.jwplayer.com/v2/media/0kYf2Qed/poster.jpg"
         },
         {
           "id": "https://decrypt.co/videos/live-events/fxygwLvH/indias-1-crypto-tax-has-been-a-nightmare-for-high-frequency-traders-says-shardeum-ceo",
@@ -851,7 +851,7 @@
           "description": "Dave Weisberger, Co-Founder and CEO of CoinRoutes, argued that excessive regulation in the U.S. threatens to undermine the country's long-standing dominance in global financial markets. He warned that other countries are embracing blockchain and crypto to build more efficient digital markets, which could cause the US to lose its competitive edge and trillions in GDP. Weisberger said CoinRoutes is now focusing more on expanding internationally due to restrictive policies in the U.S. He was interviewed by André Beganski of Decrypt at Messari Mainnet 2023.",
           "link": "https://decrypt.co/videos/live-events/CrpvzFjL/regulation-threatens-us-dominance-of-financial-markets-says-coinroutes-ceo",
           "publishedOn": "2023-09-26T05:41:10.000Z",
-          "wordCount": 6595,
+          "wordCount": 6944,
           "title": "Regulation Threatens U.S. Dominance of Financial Markets, Says CoinRoutes CEO",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/CrpvzFjL/poster.jpg",
@@ -883,6 +883,46 @@
       "siteUrl": "https://cryptopanic.com/",
       "articles": [
         {
+          "id": "https://cryptopanic.com/news/18966046/Mastercard-creates-tech-to-tokenize-CBDCs-on-multiple-blockchains",
+          "author": null,
+          "description": "Mastercard announced the successful demonstration of a central bank digital currency (CBDC) technology designed to integrate CBDCs with multiple blockchain networks, according to a press release. The technology aims to facilitate the tokenization, or “wrapping,” of CBDCs onto different...",
+          "link": "https://cryptopanic.com/news/18966046/Mastercard-creates-tech-to-tokenize-CBDCs-on-multiple-blockchains",
+          "publishedOn": "2023-10-13T02:07:25.000Z",
+          "wordCount": 591,
+          "title": "Mastercard creates tech to tokenize CBDCs on multiple blockchains",
+          "imageUrl": "https://cryptoslate.com/wp-content/uploads/2023/10/mastercard.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/18966009/US-senators-draft-NO-FAKES-bill-to-ban-unauthorized-AI-copycats",
+          "author": null,
+          "description": "The proposed act came just hours after talks broke down between actors and Hollywood studios, with AI replicas a major friction point in negotiations.",
+          "link": "https://cryptopanic.com/news/18966009/US-senators-draft-NO-FAKES-bill-to-ban-unauthorized-AI-copycats",
+          "publishedOn": "2023-10-13T01:20:30.000Z",
+          "wordCount": 593,
+          "title": "US senators draft NO FAKES bill to ban unauthorized AI copycats",
+          "imageUrl": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-10/2fc2e280-2fe5-4fd7-bed6-7a2286e49fdc.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/18966007/Is-Joe-Rogan-OFFICIALLY-a-Bitcoiner-bitcoin-crypto-shorts",
+          "author": null,
+          "description": "Joe Rogan has been talking about Bitcoin for some time now. If he's buying some, shouldn't you?",
+          "link": "https://cryptopanic.com/news/18966007/Is-Joe-Rogan-OFFICIALLY-a-Bitcoiner-bitcoin-crypto-shorts",
+          "publishedOn": "2023-10-13T01:00:16.000Z",
+          "wordCount": 591,
+          "title": "Is Joe Rogan OFFICIALLY a Bitcoiner? #bitcoin #crypto #shorts",
+          "imageUrl": "https://i4.ytimg.com/vi/ktDhEmMo8yg/hqdefault.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/18966002/XRP-Finally-Reaches-This-Substantial-Support-Level",
+          "author": null,
+          "description": "XRP's dive towards this support level can change the current trend on the market",
+          "link": "https://cryptopanic.com/news/18966002/XRP-Finally-Reaches-This-Substantial-Support-Level",
+          "publishedOn": "2023-10-13T01:00:00.000Z",
+          "wordCount": 589,
+          "title": "XRP Finally Reaches This Substantial Support Level",
+          "imageUrl": "https://u.today/sites/default/files/styles/twitterwithoutlogo/public/2023-10/44045.jpg"
+        },
+        {
           "id": "https://cryptopanic.com/news/18965997/Cardano-Founder-Equates-FTXs-Bankman-Fried-to-Bernie-Madoff-Amid-Controversial-Trial",
           "author": null,
           "description": "Charles Hoskinson, founder of Cardano, has equated Sam “SBF” Bankman-Fried, ex-CEO of FTX, to the...",
@@ -905,12 +945,12 @@
         {
           "id": "https://cryptopanic.com/news/18965986/NFTs-Potential-Shines-Bright-For-Mastercard-in-CBDC-Pilot",
           "author": null,
-          "description": "Mastercard has detailed its latest findings regarding non-fungible tokens (NFTs) following its participation in Australia’s central bank digital currency (CBDC) pilot project. “It also unlocks new opportunities for collaboration between the public and private networks to drive genuine impact in...",
+          "description": "",
           "link": "https://cryptopanic.com/news/18965986/NFTs-Potential-Shines-Bright-For-Mastercard-in-CBDC-Pilot",
           "publishedOn": "2023-10-13T00:07:01.000Z",
-          "wordCount": 591,
+          "wordCount": null,
           "title": "NFT’s Potential Shines Bright For Mastercard in CBDC Pilot",
-          "imageUrl": "https://s32659.pcdn.co/wp-content/uploads/2023/05/bic_CBDC_digital_bank_currency_neutral_positive_phone_hand.jpg.webp"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/18965947/Binance-vs-SEC-How-Will-Circles-Contribution-Impact-the-Lawsuit",
@@ -983,42 +1023,42 @@
           "imageUrl": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-10/5c9a8e4b-938d-4cd9-beb8-08721f4ca510.jpg"
         },
         {
-          "id": "https://cryptopanic.com/news/18965890/BitVMs-goal-is-to-scale-Bitcoin-not-be-a-pseudo-Ethereum-says-dev",
+          "id": "https://cryptopanic.com/news/18965890/BitVM-wasnt-created-to-make-Bitcoin-a-pseudo-Ethereum-says-developer",
           "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/18965890/BitVMs-goal-is-to-scale-Bitcoin-not-be-a-pseudo-Ethereum-says-dev",
+          "description": "Building a decentralized exchange on Bitcoin would be a “step backward,” for example, said Bitcoin developer Super Testnet.",
+          "link": "https://cryptopanic.com/news/18965890/BitVM-wasnt-created-to-make-Bitcoin-a-pseudo-Ethereum-says-developer",
           "publishedOn": "2023-10-12T22:54:57.000Z",
-          "wordCount": null,
-          "title": "BitVM’s goal is to scale Bitcoin, not be a pseudo-Ethereum, says dev",
-          "imageUrl": null
+          "wordCount": 592,
+          "title": "BitVM wasn't created to make Bitcoin a pseudo-Ethereum, says developer",
+          "imageUrl": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-10/11af8605-3ad4-453b-814a-f8d98613b6e1.jpg"
         },
         {
           "id": "https://cryptopanic.com/news/18965882/Cardano-Scammers-Impersonate-Influencers-How-to-Stay-Safe",
           "author": null,
-          "description": "",
+          "description": "Cardano influencers sound the alarms on scammers trying to use their likeness for pump-and-dump schemes.",
           "link": "https://cryptopanic.com/news/18965882/Cardano-Scammers-Impersonate-Influencers-How-to-Stay-Safe",
           "publishedOn": "2023-10-12T22:50:00.000Z",
-          "wordCount": null,
+          "wordCount": 590,
           "title": "Cardano Scammers Impersonate Influencers: How to Stay Safe",
           "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/18965881/AI-Sparks-Security-Fears-at-US-Space-Force",
           "author": null,
-          "description": "The U.S. Space Force put a stop to personal AI use on duty, joining companies wary of generative AI's implications on privacy and security.",
+          "description": "",
           "link": "https://cryptopanic.com/news/18965881/AI-Sparks-Security-Fears-at-US-Space-Force",
           "publishedOn": "2023-10-12T22:45:43.000Z",
-          "wordCount": 590,
+          "wordCount": null,
           "title": "AI Sparks Security Fears at US Space Force",
-          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2023/10/us-space-force-shutterstock-gID_7.png"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/18965887/Crypto-Selling-Pressure-Intensifies-Following-Higher-Than-Expected-CPI",
           "author": null,
-          "description": "The crypto market has taken a significant hit recently, with major cryptocurrencies alongside Bitcoin incurring near-double-digit losses. This bearish trend comes following the release of U.S. Consumer Price Index (CPI) data today, October 12. Notably, the September CPI, as the U.S. Bureau of...",
+          "description": "",
           "link": "https://cryptopanic.com/news/18965887/Crypto-Selling-Pressure-Intensifies-Following-Higher-Than-Expected-CPI",
           "publishedOn": "2023-10-12T22:45:00.000Z",
-          "wordCount": 589,
+          "wordCount": null,
           "title": "Crypto Selling Pressure Intensifies Following Higher-Than-Expected CPI",
           "imageUrl": null
         },
@@ -1035,51 +1075,11 @@
         {
           "id": "https://cryptopanic.com/news/18965870/MetaMask-expands-crypto-on-ramp-options-with-Stripe-integration",
           "author": null,
-          "description": "MetaMask, a popular Ethereum and multi-coin wallet, announced support for the major payment processor Stripe on Oct. 11. That addition will allow users to deposit fiat and receive cryptocurrency through a new on-ramp. MetaMask said that the Stripe on-ramp feature is available through its mobile...",
+          "description": "",
           "link": "https://cryptopanic.com/news/18965870/MetaMask-expands-crypto-on-ramp-options-with-Stripe-integration",
           "publishedOn": "2023-10-12T22:30:28.000Z",
-          "wordCount": 590,
+          "wordCount": null,
           "title": "MetaMask expands crypto on-ramp options with Stripe integration",
-          "imageUrl": "https://cryptoslate.com/wp-content/uploads/2023/04/metamask-1.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/18965868/XRP-Price-Marks-Six-Consecutive-Loss-Day-Heres-What-Happened-Last-Time",
-          "author": null,
-          "description": "On Wednesday, the XRP price marked its sixth consecutive loss day after closing in the red below $0.48. Like any digital asset, this continuous close in a loss has significant implications that could be reflected in the asset’s price in the short term. XRP Price Sees Six Consecutive Red Closes...",
-          "link": "https://cryptopanic.com/news/18965868/XRP-Price-Marks-Six-Consecutive-Loss-Day-Heres-What-Happened-Last-Time",
-          "publishedOn": "2023-10-12T22:30:07.000Z",
-          "wordCount": 594,
-          "title": "XRP Price Marks Six Consecutive Loss Day: Here’s What Happened Last Time",
-          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2023/10/XRP-price.jpeg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/18965869/USDT-on-Exchanges-Nears-10-Billion-as-Crypto-Buyers-Eye-Opportunities",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/18965869/USDT-on-Exchanges-Nears-10-Billion-as-Crypto-Buyers-Eye-Opportunities",
-          "publishedOn": "2023-10-12T22:25:00.000Z",
-          "wordCount": null,
-          "title": "USDT on Exchanges Nears $10 Billion as Crypto Buyers Eye Opportunities",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18965855/You-Can-Now-Add-Thomas-the-Tank-Engine-to-StarfieldYes-Really",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/18965855/You-Can-Now-Add-Thomas-the-Tank-Engine-to-StarfieldYes-Really",
-          "publishedOn": "2023-10-12T22:24:08.000Z",
-          "wordCount": null,
-          "title": "You Can Now Add Thomas the Tank Engine to Starfield—Yes, Really",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18965851/Alpaca-Gears-Up-for-Asian-Expansion-With-15M-Boost-From-SBI-Group",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/18965851/Alpaca-Gears-Up-for-Asian-Expansion-With-15M-Boost-From-SBI-Group",
-          "publishedOn": "2023-10-12T22:13:18.000Z",
-          "wordCount": null,
-          "title": "Alpaca Gears Up for Asian Expansion With $15M Boost From SBI Group",
           "imageUrl": null
         }
       ]
@@ -1089,6 +1089,16 @@
       "feedUrl": "https://www.inoreader.com/stream/user/1005336866/tag/%E6%B5%B7%E5%A4%96%E5%8A%A0%E5%AF%86%E8%B5%84%E8%AE%AF",
       "siteUrl": "https://www.inoreader.com/stream/user/1005336866/tag/%E6%B5%B7%E5%A4%96%E5%8A%A0%E5%AF%86%E8%B5%84%E8%AE%AF/view/html",
       "articles": [
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e74b098a63e",
+          "author": "Kevin Helms",
+          "description": "Seven U.S. senators have called on the Treasury Department and the Internal Revenue Service (IRS) to “implement the proposed crypto broker reporting rule as rapidly as possible.” The lawmakers stressed: “We are alarmed by the self-inflicted two-year delay for the rule’s implementation.”\n \nSenators Want Crypto Tax Reporting Rule Implemented Swiftly\n \nSenators Elizabeth Warren, Angus King, Richard Blumenthal, Gary Peters, Bernie Sanders, Sheldon Whitehouse, and Brian Schatz sent a letter to Treasury Secretary Janet Yellen and Internal Revenue Service (IRS) Commissioner Daniel Werfel on Oct. 10 concerning cryptocurrency taxation. “We write regarding the Treasury Department and Internal Revenue Service’s (IRS) recently proposed rule concerning tax reporting requirements for crypto brokers,” th…",
+          "link": "https://news.bitcoin.com/7-senators-urge-treasury-and-irs-to-rapidly-implement-crypto-tax-reporting-rule/",
+          "publishedOn": "2023-10-13T01:41:07.000Z",
+          "wordCount": 244,
+          "title": "7 Senators Urge Treasury and IRS to Rapidly Implement Crypto Tax Reporting Rule",
+          "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2023/10/yellen-irs.jpg"
+        },
         {
           "id": "http://www.inoreader.com/article/3a9c6e74b086ce4d",
           "author": "Samuel Edyme",
@@ -1175,7 +1185,7 @@
           "description": "ETH dropped to its lowest price since March, while most cryptocurrencies struggled as risk-off sentiment took over markets following a slightly hotter-than-expected inflation report and surging rates.",
           "link": "https://www.coindesk.com/markets/2023/10/12/ether-drops-19-to-7-month-low-as-crypto-buckles-further-following-inflation-data/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-10-12T21:24:24.000Z",
-          "wordCount": 7446,
+          "wordCount": 7433,
           "title": "Ether Drops 1.9% to 7-Month Low as Crypto Buckles Further Following Inflation Data",
           "enclosure": {
             "length": "1337",
@@ -1190,7 +1200,7 @@
           "description": "As the U.S. crypto exchange called the recent IRS proposal for taxing crypto “incomprehensible,” the tax agency flagged that the industry isn’t paying its fair share.",
           "link": "https://www.coindesk.com/policy/2023/10/12/coinbase-sounds-alarm-on-irs-crypto-tax-proposal/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-10-12T21:01:50.000Z",
-          "wordCount": 7213,
+          "wordCount": 7203,
           "title": "Coinbase Sounds Alarm on IRS Crypto Tax Proposal",
           "enclosure": {
             "length": "1337",
@@ -1265,7 +1275,7 @@
           "description": "The waiting time to deploy new validators to the Ethereum network has diminished to just five hours from a peak of 45 days in early June.",
           "link": "https://www.coindesk.com/markets/2023/10/12/ethereum-has-nearly-cleared-out-validator-queue-a-sign-of-weak-staking-demand/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-10-12T20:04:59.000Z",
-          "wordCount": 7501,
+          "wordCount": 7495,
           "title": "Ethereum Has Nearly Cleared Out Validator Queue, a Sign of Weak Staking Demand",
           "enclosure": {
             "length": "1337",
@@ -1290,7 +1300,7 @@
           "description": "Designed to dismantle barriers to financial services for marijuana businesses, the bill would be beneficial to crypto companies stripped of banking access, says Cody Carbone.",
           "link": "https://www.coindesk.com/consensus-magazine/2023/10/12/the-safer-banking-act-can-end-discriminatory-banking-practices/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-10-12T19:17:30.000Z",
-          "wordCount": 7458,
+          "wordCount": 7451,
           "title": "The SAFER Banking Act Can End Discriminatory Banking Practices",
           "enclosure": {
             "length": "1337",
@@ -1305,7 +1315,7 @@
           "description": "And are bad men made or molded by circumstance?",
           "link": "https://www.coindesk.com/consensus-magazine/2023/10/12/is-sam-bankman-fried-a-sociopath/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-10-12T19:13:08.000Z",
-          "wordCount": 9130,
+          "wordCount": 9123,
           "title": "Is Sam Bankman-Fried a Sociopath?",
           "enclosure": {
             "length": "1337",
@@ -1330,7 +1340,7 @@
           "description": "The new Ethereum layer-2 network's debut adds to the competition among rival providers of so-called \"zkEVMs,\" including Polygon and Matter Labs.",
           "link": "https://www.coindesk.com/tech/2023/10/12/scroll-zkevm-launches-blockchain-data-shows-competing-with-polygon-matter-labs/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-10-12T19:01:21.000Z",
-          "wordCount": 6577,
+          "wordCount": 6572,
           "title": "Scroll zkEVM Launches, Blockchain Data Shows, Competing With Polygon, Matter Labs",
           "enclosure": {
             "length": "1337",
@@ -1338,21 +1348,6 @@
             "url": "https://www.coindesk.com/resizer/krqq7eZ_FT0TlYWxul5m468gVdQ=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/W75IUIBN4FHDBOXRWYETHSTYXU.jpeg"
           },
           "imageUrl": "https://www.coindesk.com/resizer/krqq7eZ_FT0TlYWxul5m468gVdQ=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/W75IUIBN4FHDBOXRWYETHSTYXU.jpeg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e74b06276b6",
-          "author": "Jonathan  Martin",
-          "description": "While Bitcoin adoption has been slow since the Central American country made BTC legal tender, expats see the outlines of a whole new financial order, says Jonathan Martin.",
-          "link": "https://www.coindesk.com/consensus-magazine/2023/10/12/westerners-see-el-salvador-as-a-template-for-a-new-monetary-system/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-          "publishedOn": "2023-10-12T18:54:25.000Z",
-          "wordCount": 8190,
-          "title": "Westerners See El Salvador as a Template for a New Monetary System",
-          "enclosure": {
-            "length": "1337",
-            "type": "image/jpeg",
-            "url": "https://www.coindesk.com/resizer/ylf_qcrCUlkkSDagIt9mzJKyXJk=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/SSDNYYYZQJDYBJHJYQ3DGSSO3A.jpg"
-          },
-          "imageUrl": "https://www.coindesk.com/resizer/ylf_qcrCUlkkSDagIt9mzJKyXJk=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/SSDNYYYZQJDYBJHJYQ3DGSSO3A.jpg"
         }
       ]
     }

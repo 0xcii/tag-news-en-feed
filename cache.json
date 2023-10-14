@@ -251,7 +251,7 @@
           "description": "The U.S. Space Force put a stop to personal AI use on duty, joining companies wary of generative AI's implications on privacy and security.",
           "link": "https://decrypt.co/201321/ai-sparks-security-fears-us-space-force",
           "publishedOn": "2023-10-12T22:45:43.000Z",
-          "wordCount": 10297,
+          "wordCount": 10330,
           "title": "AI Sparks Security Fears at US Space Force",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/10/us-space-force-shutterstock-gID_7.png@png",
@@ -461,7 +461,7 @@
           "description": "AI Arena CEO Brandon Da Silva and COO Wei Xie discuss the challenges that come with building on Ethereum, ETH sidechains, and layer-two blockchains.",
           "link": "https://decrypt.co/videos/interviews/Gl80TQOm/why-ai-arena-is-building-on-arbitrum",
           "publishedOn": "2023-10-12T14:22:00.000Z",
-          "wordCount": 6552,
+          "wordCount": 6275,
           "title": "Why AI Arena is Building on Arbitrum",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/Gl80TQOm/poster.jpg",
@@ -626,7 +626,7 @@
           "description": "Art Blocks founder and CEO Erick Calderon sat down with Sander Lutz, lead culture reporter at Decrypt's SCENE, at Art Blocks Marfa Weekend 2023. They discuss the evolution of the company and the generative art world, along with what draws art enthusiasts to be an active part of the community.",
           "link": "https://decrypt.co/videos/interviews/zSjfRrl5/art-of-the-times-art-blocks-founder-erick-calderon-on-the-state-of-generative-art",
           "publishedOn": "2023-10-05T18:10:41.000Z",
-          "wordCount": 6730,
+          "wordCount": 6453,
           "title": "'Art of the Times': Art Blocks Founder Erick Calderon on the State of Generative Art",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/zSjfRrl5/poster.jpg",
@@ -656,7 +656,7 @@
           "description": "Reza Jafery and Martin Shkreli sit down for a casual conversation about the growing movement that is E/ACC, what songs they could recite at gunpoint, and whether or not SBF will thrive or just survive during his time in prison.",
           "link": "https://decrypt.co/videos/interviews/QONaWXKZ/martin-shkreli-on-e-acc-and-sbf-in-prison",
           "publishedOn": "2023-10-03T22:03:48.000Z",
-          "wordCount": 6328,
+          "wordCount": 6361,
           "title": "Martin Shkreli on E/ACC and SBF in Prison",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/QONaWXKZ/poster.jpg",
@@ -756,21 +756,6 @@
           "imageUrl": "https://cdn.jwplayer.com/v2/media/lfmwAjB9/poster.jpg"
         },
         {
-          "id": "https://decrypt.co/videos/live-events/0Sezz6pZ/crypto-accounting-challenges-and-opportunities",
-          "author": null,
-          "description": "As crypto matures, accounting and tax regulations are evolving. Amy Kalnoki of Bitwave explains how her company helps crypto companies properly account for digital assets. She notes the importance of flexibility as new crypto assets emerge and regulations change. Stacy Elliott interviewed her at Messari Mainnet 2023.",
-          "link": "https://decrypt.co/videos/live-events/0Sezz6pZ/crypto-accounting-challenges-and-opportunities",
-          "publishedOn": "2023-09-26T05:41:11.000Z",
-          "wordCount": 6380,
-          "title": "Crypto Accounting Challenges and Opportunities",
-          "enclosure": {
-            "url": "https://cdn.jwplayer.com/v2/media/0Sezz6pZ/poster.jpg",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.jwplayer.com/v2/media/0Sezz6pZ/poster.jpg"
-        },
-        {
           "id": "https://decrypt.co/videos/live-events/0kYf2Qed/most-crypto-users-dont-trust-themselves-to-keep-their-seed-phrase-safe-ledger-ceo",
           "author": null,
           "description": "Decrypt's Stacy Elliott sat down with Ledger CEO Pascal Gauthier to discuss crypto custody post-FTX, and the hardware wallet manufacturer's controversial Ledger Recover service.",
@@ -784,6 +769,21 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.jwplayer.com/v2/media/0kYf2Qed/poster.jpg"
+        },
+        {
+          "id": "https://decrypt.co/videos/live-events/0Sezz6pZ/crypto-accounting-challenges-and-opportunities",
+          "author": null,
+          "description": "As crypto matures, accounting and tax regulations are evolving. Amy Kalnoki of Bitwave explains how her company helps crypto companies properly account for digital assets. She notes the importance of flexibility as new crypto assets emerge and regulations change. Stacy Elliott interviewed her at Messari Mainnet 2023.",
+          "link": "https://decrypt.co/videos/live-events/0Sezz6pZ/crypto-accounting-challenges-and-opportunities",
+          "publishedOn": "2023-09-26T05:41:11.000Z",
+          "wordCount": 6380,
+          "title": "Crypto Accounting Challenges and Opportunities",
+          "enclosure": {
+            "url": "https://cdn.jwplayer.com/v2/media/0Sezz6pZ/poster.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.jwplayer.com/v2/media/0Sezz6pZ/poster.jpg"
         },
         {
           "id": "https://decrypt.co/videos/live-events/fxygwLvH/indias-1-crypto-tax-has-been-a-nightmare-for-high-frequency-traders-says-shardeum-ceo",
@@ -806,7 +806,7 @@
           "description": "Solana has improved network reliability through upgrades like Quick and local fee markets. It recently partnered with Visa to allow settling transactions in USDC on Solana. This could enable merchants to receive instant payments and save on credit card processing fees. Stacy Elliott spoke with Austin Federa, Head of Strategy for the Solana Foundation, at Messari Mainnet 2023.",
           "link": "https://decrypt.co/videos/live-events/MZoxvulr/newly-partnered-with-visa-solana-focuses-on-reliability",
           "publishedOn": "2023-09-26T05:41:11.000Z",
-          "wordCount": 6802,
+          "wordCount": 6453,
           "title": "Newly Partnered with Visa, Solana Focuses on Reliability",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/MZoxvulr/poster.jpg",
@@ -836,7 +836,7 @@
           "description": "Daniel Helm, head of Developer Relations at Scroll, discussess how they are building a zkRollup to scale Ethereum transactions and lower fees. He explained their focus on creating a seamless developer experience by maintaining Ethereum's ethos and tooling. Scroll aims to launch their mainnet soon, providing more scalable blockspace for Ethereum developers. Stacy Elliott of Decrypt interviewed him at Messari Mainnet 2023.",
           "link": "https://decrypt.co/videos/live-events/OvAFgxTd/building-a-developer-friendly-zkrollup-to-scale-ethereum",
           "publishedOn": "2023-09-26T05:41:10.000Z",
-          "wordCount": 6434,
+          "wordCount": 6467,
           "title": "Building a Developer-Friendly zkRollup to Scale Ethereum",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/OvAFgxTd/poster.jpg",
@@ -851,7 +851,7 @@
           "description": "Dave Weisberger, Co-Founder and CEO of CoinRoutes, argued that excessive regulation in the U.S. threatens to undermine the country's long-standing dominance in global financial markets. He warned that other countries are embracing blockchain and crypto to build more efficient digital markets, which could cause the US to lose its competitive edge and trillions in GDP. Weisberger said CoinRoutes is now focusing more on expanding internationally due to restrictive policies in the U.S. He was interviewed by André Beganski of Decrypt at Messari Mainnet 2023.",
           "link": "https://decrypt.co/videos/live-events/CrpvzFjL/regulation-threatens-us-dominance-of-financial-markets-says-coinroutes-ceo",
           "publishedOn": "2023-09-26T05:41:10.000Z",
-          "wordCount": 6944,
+          "wordCount": 6595,
           "title": "Regulation Threatens U.S. Dominance of Financial Markets, Says CoinRoutes CEO",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/CrpvzFjL/poster.jpg",
@@ -883,12 +883,102 @@
       "siteUrl": "https://cryptopanic.com/",
       "articles": [
         {
+          "id": "https://cryptopanic.com/news/18968992/The-Most-Shocking-Details-of-Caroline-Ellisons-Damning-SBF-Testimony",
+          "author": null,
+          "description": "Caroline Ellison is the prosecutions star witness in the case against Sam Bankman-Fried, and after this week it's not hard to see why. NLW covers the most shocking details, including massive bribes to Chinese officials and more. Today's Sponsor: Kraken Kraken Pro is the one-stop destination for...",
+          "link": "https://cryptopanic.com/news/18968992/The-Most-Shocking-Details-of-Caroline-Ellisons-Damning-SBF-Testimony",
+          "publishedOn": "2023-10-14T12:04:28.000Z",
+          "wordCount": 592,
+          "title": "The Most Shocking Details of Caroline Ellison's Damning SBF Testimony",
+          "imageUrl": "https://megaphone.imgix.net/podcasts/53cadc42-20da-11ee-a8f1-1bd22b61356c/image/BITCOIN_BUILDERS_1.png?ixlib=rails-4.3.1&w=500&h=500"
+        },
+        {
+          "id": "https://cryptopanic.com/news/18968974/FTX-Estate-stakes-122M-Solana-SOL-tokens-alleviating-investor-concerns",
+          "author": null,
+          "description": "FTX Estate stakes $122 million worth of Solana (SOL) tokens. The FTX Estate has strategically delegated 5.5 million SOL with a Solana network validator. The move alleviates concerns about the estate’s potential liquidation of SOL holdings. In a significant move within the cryptocurrency...",
+          "link": "https://cryptopanic.com/news/18968974/FTX-Estate-stakes-122M-Solana-SOL-tokens-alleviating-investor-concerns",
+          "publishedOn": "2023-10-14T11:53:15.000Z",
+          "wordCount": 592,
+          "title": "FTX Estate stakes $122M Solana (SOL) tokens, alleviating investor concerns",
+          "imageUrl": "https://coinjournal.net/wp-content/uploads/2017/06/1665688840123-fdeb2804-5d08-44b1-8049-4c80b1a606d7.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/18968971/Crypto-Analyst-Says-Its-Inevitable-Bitcoin-Will-Soar-by-Over-150-Updates-Outlook-on-Chainlink-and-Avalanche",
+          "author": null,
+          "description": "A closely followed crypto strategist says that it is only a matter of time before Bitcoin (BTC) revisits its all-time high (ATH). Pseudonymous analyst Altcoin Sherpa tells his 196,700 followers on the social media platform X that BTC will eventually soar and work its way back up its all-time...",
+          "link": "https://cryptopanic.com/news/18968971/Crypto-Analyst-Says-Its-Inevitable-Bitcoin-Will-Soar-by-Over-150-Updates-Outlook-on-Chainlink-and-Avalanche",
+          "publishedOn": "2023-10-14T11:45:36.000Z",
+          "wordCount": 599,
+          "title": "Crypto Analyst Says It’s ‘Inevitable’ Bitcoin Will Soar by Over 150%, Updates Outlook on Chainlink and Avalanche",
+          "imageUrl": "https://dailyhodl.com/wp-content/uploads/2023/10/Bitcoin-Will-Soar-150.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/18968991/Check-out-Onyx-An-Innovative-and-user-friendly-DeFi-Protocol",
+          "author": null,
+          "description": "Check out Onyx, a user-friendly DeFi ProtocolOnyx Protocol, the trailblazing force in the world of blockchain technology, was created with the aim of revolutionizing financial services on a global scale. Onyx Protocol is a decentralized finance (DeFi) platform that makes it easy and accessible...",
+          "link": "https://cryptopanic.com/news/18968991/Check-out-Onyx-An-Innovative-and-user-friendly-DeFi-Protocol",
+          "publishedOn": "2023-10-14T11:30:00.000Z",
+          "wordCount": 591,
+          "title": "Check out Onyx, An Innovative and user-friendly DeFi Protocol",
+          "imageUrl": "https://d3iuzwoiyg9qa8.cloudfront.net/webadmin/storage/public/crypto-news/thumbnail/MZ140jv2hSBoVFOaKTXgCKPXotEJs7BAv032cu39.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/18968950/Shytoshi-Kusama-Posts-Mysterious-Tweet-Heres-What-Hint-May-Be-for-SHIB-Army",
+          "author": null,
+          "description": "The lead developer of Shiba Inu just may be once again hinting at the far going plans of SHIB for using AI and overall expansion of its adoption",
+          "link": "https://cryptopanic.com/news/18968950/Shytoshi-Kusama-Posts-Mysterious-Tweet-Heres-What-Hint-May-Be-for-SHIB-Army",
+          "publishedOn": "2023-10-14T11:28:00.000Z",
+          "wordCount": 596,
+          "title": "Shytoshi Kusama Posts Mysterious Tweet – Here’s What Hint May Be for SHIB Army",
+          "imageUrl": "https://u.today/sites/default/files/styles/twitter/public/2023-10/41103.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/18968945/Ferrari-embraces-crypto-payments-partners-with-BitPay-in-the-US",
+          "author": null,
+          "description": "The luxury carmaker partners with BitPay to facilitate cryptocurrency transactions. Ferrari is responding to growing customer demand and dealer requests. The luxury car maker will start by accepting crypto payments in the US and later Europe. In some interesting crypto news, Ferrari, the iconic...",
+          "link": "https://cryptopanic.com/news/18968945/Ferrari-embraces-crypto-payments-partners-with-BitPay-in-the-US",
+          "publishedOn": "2023-10-14T11:22:51.000Z",
+          "wordCount": 592,
+          "title": "Ferrari embraces crypto payments, partners with BitPay in the US",
+          "imageUrl": "https://coinjournal.net/wp-content/uploads/2023/10/1697282080390-c33d2f3e-373b-4320-8f5a-69f0351ea0aa.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/18968941/Here-are-6-Reasons-to-be-Bullish-on-Bitcoin-Crypto-Analyst",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/18968941/Here-are-6-Reasons-to-be-Bullish-on-Bitcoin-Crypto-Analyst",
+          "publishedOn": "2023-10-14T11:15:00.000Z",
+          "wordCount": null,
+          "title": "Here are 6 Reasons to be Bullish on Bitcoin: Crypto Analyst",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18968944/Ethereums-ETH-Shifting-Tide-Price-Drop-to-7-Month-Low-as-Gas-Fee-Dips",
+          "author": null,
+          "description": "Ethereum faced a significant setback last week, with its price plummeting to a seven-month low. Interestingly, the price decline coincided with the blockchain network total gas fee dropping to a three-year low. Over the past week, the broader crypto market experienced more volatility amid the...",
+          "link": "https://cryptopanic.com/news/18968944/Ethereums-ETH-Shifting-Tide-Price-Drop-to-7-Month-Low-as-Gas-Fee-Dips",
+          "publishedOn": "2023-10-14T11:13:36.000Z",
+          "wordCount": 595,
+          "title": "Ethereum’s (ETH) Shifting Tide: Price Drop to 7-Month Low as Gas Fee Dips",
+          "imageUrl": "https://beincrypto.com/wp-content/uploads/2023/06/bic_Ethereum_1-covers_bearish.png"
+        },
+        {
+          "id": "https://cryptopanic.com/news/18968929/Sleeping-Giant-Cryptocurrency-Whale-Wakes-Up-Opens-Trades-on-Ethereum",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/18968929/Sleeping-Giant-Cryptocurrency-Whale-Wakes-Up-Opens-Trades-on-Ethereum",
+          "publishedOn": "2023-10-14T11:03:05.000Z",
+          "wordCount": null,
+          "title": "Sleeping Giant Cryptocurrency Whale Wakes Up: Opens Trades on Ethereum",
+          "imageUrl": null
+        },
+        {
           "id": "https://cryptopanic.com/news/18968903/Should-You-Short-or-Long-BIGTIME-Expert-Suggests-Watching-This-Metric",
           "author": null,
-          "description": "In a recent tweet, Lookonchain, a well-known crypto market on-chain resource, highlighted the remarkable upswing in the price of the freshly listed cryptocurrency Big Time (BIGTIME). Specifically, Lookonchain raised a critical query for traders concerning assessing BIGTIME’s price changes,...",
+          "description": "",
           "link": "https://cryptopanic.com/news/18968903/Should-You-Short-or-Long-BIGTIME-Expert-Suggests-Watching-This-Metric",
           "publishedOn": "2023-10-14T10:43:00.000Z",
-          "wordCount": 593,
+          "wordCount": null,
           "title": "Should You Short or Long BIGTIME? Expert Suggests Watching This Metric",
           "imageUrl": null
         },
@@ -905,12 +995,12 @@
         {
           "id": "https://cryptopanic.com/news/18968872/Ferrari-to-accept-crypto-for-luxury-car-purchases-Reuters",
           "author": null,
-          "description": "Ferrari will accept cryptocurrency as a payment method for its luxury cars in the U.S., according to a Reuters report.",
+          "description": "",
           "link": "https://cryptopanic.com/news/18968872/Ferrari-to-accept-crypto-for-luxury-car-purchases-Reuters",
           "publishedOn": "2023-10-14T10:20:46.000Z",
-          "wordCount": 591,
+          "wordCount": null,
           "title": "Ferrari to accept crypto for luxury car purchases: Reuters",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2023/10/ferrari-final-1200x675.jpeg"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/18968859/National-security-concerns-emerge-over-Chinese-Bitcoin-mine-in-Wyoming",
@@ -925,52 +1015,52 @@
         {
           "id": "https://cryptopanic.com/news/18968858/Ferrari-to-accept-crypto-payments-in-the-US",
           "author": null,
-          "description": "Ferrari’s decision to accept cryptocurrency payments was driven by market demand and dealer requests, with numerous clients investing in digital currencies.",
+          "description": "",
           "link": "https://cryptopanic.com/news/18968858/Ferrari-to-accept-crypto-payments-in-the-US",
           "publishedOn": "2023-10-14T10:19:05.000Z",
-          "wordCount": 590,
+          "wordCount": null,
           "title": "Ferrari to accept crypto payments in the US",
-          "imageUrl": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-10/2c35a6c4-8f84-4756-adca-57feb7de5ea5.JPG"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/18968861/FTX-estate-stakes-122-million-of-Solana-on-chain-data-shows",
           "author": null,
-          "description": "The FTX estate has staked over 5.5 million Solana (SOL) coins, valued at $122 million, with a network validator.",
+          "description": "",
           "link": "https://cryptopanic.com/news/18968861/FTX-estate-stakes-122-million-of-Solana-on-chain-data-shows",
           "publishedOn": "2023-10-14T10:18:42.000Z",
-          "wordCount": 592,
+          "wordCount": null,
           "title": "FTX estate stakes $122 million of Solana, on-chain data shows",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2023/10/20231003_FTX_2_News-1200x675.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/18968835/FTX-Estate-is-Staking-55M-Solana-Tokens-Whale-Alert",
           "author": null,
-          "description": "According to Ashpool, an X account renowned for crypto research, FTX estate is staking 5.5 million SOL. In its post, Ashpool referenced another post from Whale Alert showing an SOL transaction between two unknown wallets to the tune of 5,546,217 SOL, equivalent to $121,255,031. Ashpool’s alert...",
+          "description": "",
           "link": "https://cryptopanic.com/news/18968835/FTX-Estate-is-Staking-55M-Solana-Tokens-Whale-Alert",
           "publishedOn": "2023-10-14T10:08:00.000Z",
-          "wordCount": 591,
+          "wordCount": null,
           "title": "FTX Estate is Staking 5.5M Solana Tokens: Whale Alert",
           "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/18968834/Dormant-Ethereum-Whale-Sells-Millions-in-ETH-on-Binance-With-Massive-Profit-Details",
           "author": null,
-          "description": "Old Ethereum whale has stirred, sending large amount of ETH to world's largest exchange immediately",
+          "description": "",
           "link": "https://cryptopanic.com/news/18968834/Dormant-Ethereum-Whale-Sells-Millions-in-ETH-on-Binance-With-Massive-Profit-Details",
           "publishedOn": "2023-10-14T10:03:00.000Z",
-          "wordCount": 595,
+          "wordCount": null,
           "title": "Dormant Ethereum Whale Sells Millions in ETH on Binance With Massive Profit: Details",
-          "imageUrl": "https://u.today/sites/default/files/styles/twitter/public/2023-10/44094.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/18968826/US-gets-ammunition-against-crypto-as-Hamas-link-is-revealed",
           "author": null,
-          "description": "",
+          "description": "The cryptocurrency sector faces growing scrutiny and challenges as links to Hamas funding and a prominent fraud trial draw attention.",
           "link": "https://cryptopanic.com/news/18968826/US-gets-ammunition-against-crypto-as-Hamas-link-is-revealed",
           "publishedOn": "2023-10-14T10:00:54.000Z",
-          "wordCount": null,
+          "wordCount": 592,
           "title": "U.S. gets ammunition against crypto as Hamas link is revealed",
-          "imageUrl": null
+          "imageUrl": "https://statics.ambcrypto.com/wp-content/uploads/2023/10/ambcrypto_Bitcoin_in_crosshairs_42b31ac9-ea29-4b9d-a7d6-f7e9ca64a8ca_1200x900.png"
         },
         {
           "id": "https://cryptopanic.com/news/18968808/Ferrari-Now-Accepts-Payment-in-BTC-ETH-XRP",
@@ -985,102 +1075,12 @@
         {
           "id": "https://cryptopanic.com/news/18968810/Experienced-Cryptocurrency-Analyst-Made-a-Rise-Prediction-for-This-Altcoin",
           "author": null,
-          "description": "",
+          "description": "Experienced crypto analyst Michaël van de Poppe explained the bullish outlook for this altcoin on the chart. Continue Reading: Experienced Cryptocurrency Analyst Made a Rise Prediction for This Altcoin!",
           "link": "https://cryptopanic.com/news/18968810/Experienced-Cryptocurrency-Analyst-Made-a-Rise-Prediction-for-This-Altcoin",
           "publishedOn": "2023-10-14T09:42:06.000Z",
-          "wordCount": null,
+          "wordCount": 592,
           "title": "Experienced Cryptocurrency Analyst Made a Rise Prediction for This Altcoin!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18968799/This-is-Not-the-Right-Time-to-Acquire-LUNC-Crypto-Analyst",
-          "author": null,
-          "description": "According to Classy Crypto, a renowned Terra Luna Classic analyst on YouTube, this is not the right time to acquire LUNC, the native token of Terra Classic. Classy Crypto noted his reason to be because LUNC’s current situation is very concerning. The LUNC analyst observed a couple of proposals...",
-          "link": "https://cryptopanic.com/news/18968799/This-is-Not-the-Right-Time-to-Acquire-LUNC-Crypto-Analyst",
-          "publishedOn": "2023-10-14T09:35:00.000Z",
-          "wordCount": 593,
-          "title": "This is Not the Right Time to Acquire LUNC: Crypto Analyst",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18968797/SECs-Green-Light-Allows-Grayscales-Quest-For-Bitcoin-ETF",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/18968797/SECs-Green-Light-Allows-Grayscales-Quest-For-Bitcoin-ETF",
-          "publishedOn": "2023-10-14T09:35:00.000Z",
-          "wordCount": null,
-          "title": "SEC's Green Light Allows Grayscale's Quest For Bitcoin ETF",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18968801/SEC-Opts-Not-to-Appeal-Ruling-Favoring-Grayscales-Bitcoin-ETF-Application",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/18968801/SEC-Opts-Not-to-Appeal-Ruling-Favoring-Grayscales-Bitcoin-ETF-Application",
-          "publishedOn": "2023-10-14T09:33:00.000Z",
-          "wordCount": null,
-          "title": "SEC Opts Not to Appeal Ruling Favoring Grayscale’s Bitcoin ETF Application",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18968807/Bitcoin-To-Make-A-SIGNIFICANT-Move-VERY-SOON",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/18968807/Bitcoin-To-Make-A-SIGNIFICANT-Move-VERY-SOON",
-          "publishedOn": "2023-10-14T09:30:12.000Z",
-          "wordCount": null,
-          "title": "Bitcoin To Make A SIGNIFICANT Move VERY SOON",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18968796/Anthony-Scaramucci-Optimistic-On-Bitcoins-Future-And-15-Trillion-Potential",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/18968796/Anthony-Scaramucci-Optimistic-On-Bitcoins-Future-And-15-Trillion-Potential",
-          "publishedOn": "2023-10-14T09:24:56.000Z",
-          "wordCount": null,
-          "title": "Anthony Scaramucci Optimistic On Bitcoin's Future And $15-Trillion Potential",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18968789/Bitcoin-Holds-Steady-at-26800-as-SECs-Grayscale-Decision-Looms",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/18968789/Bitcoin-Holds-Steady-at-26800-as-SECs-Grayscale-Decision-Looms",
-          "publishedOn": "2023-10-14T09:20:23.000Z",
-          "wordCount": null,
-          "title": "Bitcoin Holds Steady at $26,800 as SEC’s Grayscale Decision Looms",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18968773/Ferrari-to-officially-accept-crypto-as-payment-for-its-supercars",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/18968773/Ferrari-to-officially-accept-crypto-as-payment-for-its-supercars",
-          "publishedOn": "2023-10-14T09:18:26.000Z",
-          "wordCount": null,
-          "title": "Ferrari to officially accept crypto as payment for its supercars",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18968774/Rising-Whale-Activity-on-These-Three-Ethereum-Based-Altcoins-a-Sign-of-Potential-Bullish-Turnaround-Santiment",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/18968774/Rising-Whale-Activity-on-These-Three-Ethereum-Based-Altcoins-a-Sign-of-Potential-Bullish-Turnaround-Santiment",
-          "publishedOn": "2023-10-14T09:15:40.000Z",
-          "wordCount": null,
-          "title": "Rising Whale Activity on These Three Ethereum-Based Altcoins a Sign of Potential Bullish Turnaround: Santiment",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18968744/Ferraris-Groundbreaking-Move-Accepts-Payment-in-Crypto",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/18968744/Ferraris-Groundbreaking-Move-Accepts-Payment-in-Crypto",
-          "publishedOn": "2023-10-14T08:50:42.000Z",
-          "wordCount": null,
-          "title": "Ferrari’s Groundbreaking Move: Accepts Payment in Crypto",
-          "imageUrl": null
+          "imageUrl": "https://www.bitcoinsistemi.com/wp-content/uploads/2023/10/LINK.jpeg"
         }
       ]
     },
@@ -1089,6 +1089,31 @@
       "feedUrl": "https://www.inoreader.com/stream/user/1005336866/tag/%E6%B5%B7%E5%A4%96%E5%8A%A0%E5%AF%86%E8%B5%84%E8%AE%AF",
       "siteUrl": "https://www.inoreader.com/stream/user/1005336866/tag/%E6%B5%B7%E5%A4%96%E5%8A%A0%E5%AF%86%E8%B5%84%E8%AE%AF/view/html",
       "articles": [
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e74b77fbf57",
+          "author": "Eliman Dambell",
+          "description": "Bitcoin retreated from a brief spell above $27,000 on Saturday, as uncertainty in the market remained high to start the weekend. The global cryptocurrency market was marginally higher to start the weekend, trading 0.42% higher as of writing. Ethereum continued to consolidate above a recent floor of $1,535.\n \nBitcoin\n \nBitcoin (BTC) retreated below the $27,000 level to start the weekend, after a late surge in price on Friday.\n \nFollowing a low of $26,686.32 earlier in Friday’s session, BTC/USD peaked at a high of $27,092.70 as the day progressed.\n \nAlthough BTC has since slipped, and is currently trading at $26,866.74, it is still higher than yesterday’s bottom.\n \n \nThe consolidation comes as the relative strength index (RSI) continues to hover above a floor at the 45.00 mark.\n \nWhilst now tracking at 46.72, the next target is likely to be at a ceiling of 50.00, and if hit, bitcoin will be back above $27,000.\n \nOverall, bitcoin is trading 4% lower than at the same point last week.\n \n \nEthereum\n \nEthereum (ETH) is largely unchanged at the time of writing, as the cryptocurrency consolidated to start the weekend.\n \nETH/USD reached a high of $1,571.75 on Friday, however has since fallen to a current reading of $1,546.80.\n \nThis is slightly higher than yesterday’s low at $1,538.09, which was marginally above a support point at $1,535.\n \n \nThe drop in price coincides with the RSI failing to breach its own point of resistance at the 40.00 mark.\n \nCurrently, price strength is at the 37.46 level, with the 10-day moving average continuing to trend downwards.\n \nRegister your email here to get weekly price analysis updates sent to your inbox:\n \nCould ethereum fall under $1,700 this weekend? Leave your thoughts in the comments below.",
+          "link": "https://news.bitcoin.com/bitcoin-ethereum-technical-analysis-btc-falls-on-saturday-following-brief-spell-above-27000/",
+          "publishedOn": "2023-10-14T12:20:12.000Z",
+          "wordCount": 239,
+          "title": "Bitcoin, Ethereum Technical Analysis: BTC Falls on Saturday, Following Brief Spell Above $27,000",
+          "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2023/10/shutterstock_1933385030-2.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAYIWLWC3GPQWL5SMB%2F20231014%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231014T120720Z&X-Amz-SignedHeaders=host&X-Amz-Expires=600&X-Amz-Signature=1d7692e26dd3d2851e3f2cf161e5673a5f84c67e1d64bbcc774d860dd731e0ee"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e74b76506b2",
+          "author": "Semilore Faleti",
+          "description": "The United States Securities and Exchange Commission (SEC) has reportedly decided not to appeal the recent court’s decision regarding a case between the federal securities regulator and Grayscale Investments. \n \nIn a high-profile ruling on August 29, the US District of Columbia Court of Appeals granted the prominent asset manager’s request to convert its Grayscale Bitcoin Trust into a spot Bitcoin exchange-traded fund (ETF) following an initial denial by the SEC.\n \nWhile there may have been speculations about the US regulator potentially mounting a challenge to this ruling, a Friday report by Reuters states that the SEC would not be taking that route, according to a source close to the matter. \n \n \nSEC Accepts To Review Grayscale ETF Application\n \nBased on the report quoted above, the SEC …",
+          "link": "https://bitcoinist.com/sec-opts-not-to-appeal-ruling-grayscale-bitcoin-etf/",
+          "publishedOn": "2023-10-14T11:25:59.000Z",
+          "wordCount": 5665,
+          "title": "SEC Opts Not To Appeal Court Ruling On Grayscale Bitcoin ETF: Report",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/jpeg",
+            "url": "https://bitcoinist.com/wp-content/uploads/2023/10/court-ruling-640x366.jpg"
+          },
+          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2023/10/court-ruling-640x366.jpg"
+        },
         {
           "id": "http://www.inoreader.com/article/3a9c6e74b761d298",
           "author": "Sergio Goschenko",
@@ -1155,7 +1180,7 @@
           "description": "In a recent report, The New York Times has uncovered alleged national security concerns surrounding Chinese-owned Bitcoin (BTC) mining operations on US soil. \n \nThe focus is on a crypto-mining facility in Cheyenne, Wyoming, which raised alarm bells due to its proximity to a Microsoft data center supporting the Pentagon and an Air Force base responsible for nuclear-armed intercontinental ballistic missiles.\n \nGrowing Presence Of Chinese Bitcoin Mines In The US\n \nPer the report, Microsoft’s national security threat assessment team expressed deep concerns about the potential for “full-spectrum intelligence collection operations” that could be carried out by the Chinese company in such a strategic location. \n \nFollowing Microsoft’s warning, US government officials said anonymously that they ha…",
           "link": "https://bitcoinist.com/chinese-bitcoin-mines-us-national-security-alarms/",
           "publishedOn": "2023-10-14T02:27:47.000Z",
-          "wordCount": 5687,
+          "wordCount": 5686,
           "title": "Bitcoin Mining Fears: Chinese-Owned Operations In The US Raise National Security Concerns",
           "enclosure": {
             "length": "1337",
@@ -1170,7 +1195,7 @@
           "description": "Although the overall crypto market has displayed bearish sentiment throughout 2023, investments in blockchain gaming projects painted a contrasting picture. \n \nData from the decentralized app tracking platform DappRadar reveals some intriguing insights about the flow of capital into the blockchain gaming sector. Even as crypto markets remained volatile, the commitment from investors toward gaming projects persisted.\n \n \nA Deep Dive Into The Investment Trends\n \nBlockchain gaming has attracted significant capital this year with the potential to make changes in the financial and entertainment sectors. DappRadar reported that the blockchain gaming space witnessed an influx of approximately $2.3 billion in investments in the first three quarters of 2023.\n \nBreaking this down quarterly: the firs…",
           "link": "https://bitcoinist.com/2023s-blockchain-gaming-investments-riding-high/",
           "publishedOn": "2023-10-14T01:27:40.000Z",
-          "wordCount": 5547,
+          "wordCount": 5546,
           "title": "2023’s Blockchain Gaming Investments: Riding High Or Losing Steam?",
           "enclosure": {
             "length": "1337",
@@ -1195,7 +1220,7 @@
           "description": "In an interesting turn of events, one altcoin has seemingly come out of nowhere to dominate the discussions around crypto over the last week. Loom Network, with its native token LOOM, has barreled ahead of the likes of Bitcoin in this metric.\n \nLoom Network (LOOM) Takes The Spotlight\n \nIn an X (formerly Twitter) post on Friday, October 13, on-chain data tracker Santiment revealed that a little-known altcoin has been dominating crypto discussions on social media. According to the image shared by Santiment, LOOM is currently leading the list of trending tokens in the last day.\n \n \nThe discussions have been driven by the altcoin’s incredible performance over the last month. While most of the crypto market has succumbed to the bearish pressures over this time, LOOM put up a significant rally t…",
           "link": "https://bitcoinist.com/altcoin-crypto-discussion/",
           "publishedOn": "2023-10-13T23:27:30.000Z",
-          "wordCount": 5588,
+          "wordCount": 5587,
           "title": "Sub-$500 Million Altcoin Dominates Crypto Discussion Following 573% Surge",
           "enclosure": {
             "length": "1337",
@@ -1235,7 +1260,7 @@
           "description": "Jacob Creech, Solana’s Head of Developer, reminds the broader community that the team will reward anyone with $400,000 in SOL, the platform’s native currency, if “switch off” or halt the high throughput network. Taking to X on October 13, Creech encouraged interested white hacks and coders to head over to their repository and begin penetration tests. \n \nSolana Bug Bounty Program\n \nThe executive also linked Solana’s GitHub, where interested coders could learn more about the bug bounty program. The Solana bounty program rewards different amounts to white hacks depending on the severity of the vulnerability. Those who successfully halt the blockchain’s consensus will receive $400,000 in locked SOL for a year.\n \n \nSolana is a highly scalable network and one of Ethereum’s top competitors. Throu…",
           "link": "https://bitcoinist.com/switch-off-solana-6-figure-reward-waiting/",
           "publishedOn": "2023-10-13T22:27:48.000Z",
-          "wordCount": 5665,
+          "wordCount": 5664,
           "title": "Can You Switch Off Solana? There Is A 6-Figure Reward Waiting For You",
           "enclosure": {
             "length": "1337",
@@ -1250,7 +1275,7 @@
           "description": "The decision, reported by Reuters, boosts the odds that Grayscale Investments will be able to turn its Grayscale Bitcoin Trust (GBTC) into a more investor-friendly ETF.",
           "link": "https://www.coindesk.com/policy/2023/10/13/sec-reportedly-decides-not-to-appeal-its-bitcoin-etf-court-loss-against-grayscale/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-10-13T21:32:36.000Z",
-          "wordCount": 7809,
+          "wordCount": 7806,
           "title": "SEC Reportedly Decides Not to Appeal Its Bitcoin ETF Court Loss Against Grayscale",
           "enclosure": {
             "length": "1337",
@@ -1285,7 +1310,7 @@
           "description": "Amid the decline in crypto interest, reports have shown that American-based crypto exchange Coinbase, one of the world’s largest cryptocurrency exchanges experienced, a sharp drop in spot trading volume during the third quarter of 2023.\n \nCoinbase Spot Trading Volume Dropped by Half\n \nAccording to the report, the cryptocurrency platform’s spot trading volume fell by more than half during the recently completed third quarter of 2023.\n \n \nData from researcher CCData showed that the platform recorded about $76 billion in spot trading volume in the Q3 of 2023, which represents a 52% drop in its spot trading volume of $158 billion from the Q3 of the previous year.\n \nThe figure is likely the least the platform has seen in its spot trading volume since 2020, before it was listed on the Nasdaq Sto…",
           "link": "https://bitcoinist.com/coinbase-decline-crypto-interest/",
           "publishedOn": "2023-10-13T20:28:39.000Z",
-          "wordCount": 5588,
+          "wordCount": 5587,
           "title": "How Has Coinbase Fared Amid The Decline In Crypto Interest?",
           "enclosure": {
             "length": "1337",
@@ -1308,36 +1333,6 @@
             "url": "http://bitcoinmagazine.com/.image/c_limit,cs_srgb,fl_progressive,h_1200,q_auto:good,w_1200/MjAxNDY5NDQ3OTgwOTgzOTI5/20books.jpg"
           },
           "imageUrl": "http://bitcoinmagazine.com/.image/c_limit,cs_srgb,fl_progressive,h_1200,q_auto:good,w_1200/MjAxNDY5NDQ3OTgwOTgzOTI5/20books.jpg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e74b710165c",
-          "author": "Ronaldo Marquez",
-          "description": "In a shocking revelation, blockchain intelligence firm Elliptic has provided an in-depth analysis of the infamous FTX theft, shedding light on the complex web of events surrounding the hack, subsequent money laundering, and the ongoing quest to uncover the identity of the perpetrators. \n \nBased on blockchain analysis, the report exposes the sophisticated techniques employed to move and conceal stolen assets worth hundreds of millions of dollars.\n \nUnraveling The FTX Hack\n \nThe FTX theft in November 2022 involved $477 million stolen from the Bahamas-based cryptocurrency exchange. The incident coincided with FTX’s bankruptcy filing and the subsequent arrest and charges against its CEO, Sam Bankman-Fried.\n \n \nThe thief’s identity behind the hack remains a mystery as the stolen assets continue…",
-          "link": "https://bitcoinist.com/ftx-heist-russian-connection-in-477-million-theft/",
-          "publishedOn": "2023-10-13T19:28:16.000Z",
-          "wordCount": 5684,
-          "title": "FTX Heist: Russian Connection Unveiled In $477 Million Theft",
-          "enclosure": {
-            "length": "1337",
-            "type": "image/jpeg",
-            "url": "https://bitcoinist.com/wp-content/uploads/2023/10/shutterstock_download-18.jpg"
-          },
-          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2023/10/shutterstock_download-18.jpg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e74b7107dec",
-          "author": "Lyllah Ledesma",
-          "description": "The LQTY token has almost doubled in price. Factors cited included growth in activity and an A rating from Bluechip.",
-          "link": "https://www.coindesk.com/tech/2023/10/13/stablecoin-lender-liquitys-token-gains-80-in-month-as-activity-increases/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-          "publishedOn": "2023-10-13T19:24:44.000Z",
-          "wordCount": 6286,
-          "title": "Stablecoin Lender Liquity’s Token Gains 80% in Month as Activity Increases",
-          "enclosure": {
-            "length": "1337",
-            "type": "image/jpeg",
-            "url": "https://www.coindesk.com/resizer/rRQyLvfomkxe-8WBq_coaFzqtpI=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/CNUJF3JEJZBWTCQ3ZQJ7ORBEN4.jpg"
-          },
-          "imageUrl": "https://www.coindesk.com/resizer/rRQyLvfomkxe-8WBq_coaFzqtpI=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/CNUJF3JEJZBWTCQ3ZQJ7ORBEN4.jpg"
         }
       ]
     }

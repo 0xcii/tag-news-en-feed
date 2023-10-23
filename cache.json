@@ -6,6 +6,21 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=5684",
+          "author": "Matt Hussey,Tim Copeland,Daniel Phillips",
+          "description": "Lightning Network is a scaling solution that attempts to address Bitcoin's slow transaction speeds and high transaction costs.",
+          "link": "https://decrypt.co/resources/bitcoin-lightning-network",
+          "publishedOn": "2023-10-23T14:00:02.000Z",
+          "wordCount": 19950,
+          "title": "What is the Lightning Network? Bitcoin's Scalability Solution.",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2019/03/lightning_network_litepaper-gID_1-pID_3.png@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2019/03/lightning_network_litepaper-gID_1-pID_3.png@png"
+        },
+        {
           "id": "https://decrypt.co/?p=202791",
           "author": "Andrew Throuvalas",
           "description": "Crypto activity saw a sharp drop following Silicon Valley Bank and crypto-friendly banks Signature and Silvergate shutting down.",
@@ -591,21 +606,6 @@
           "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/10/Shutterstock_2268386283-gID_7.jpg@png"
         },
         {
-          "id": "https://decrypt.co/?p=202414",
-          "author": "Nathan Reiff",
-          "description": "Generative artificial intelligence (AI) has numerous applications in the world of fashion, including the creation of new designs, as a way of tailoring marketing campaigns, and as a tool to help personalize a customer’s shopping experience, among others.",
-          "link": "https://decrypt.co/resources/how-the-fashion-industry-uses-generative-ai-2",
-          "publishedOn": "2023-10-19T17:41:29.000Z",
-          "wordCount": 14996,
-          "title": "How the Fashion Industry Uses Generative AI",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/09/4-B-gID_7-pID_5.png@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/09/4-B-gID_7-pID_5.png@png"
-        },
-        {
           "id": "https://decrypt.co/videos/interviews/QI1uDwQv/phantom-galaxies-a-look-inside-the-mech-shooter-nft-game",
           "author": null,
           "description": "Animoca Brands and game studio Blowfish are developing Phantom Galaxies, an upcoming sci-fi mech shooter game inspired by mech battlers like Transformers. Decrypt's Kate Irwin asks Blowfish Studios Cofounder and Managing Director Ben Lee about what it's like to play the game.",
@@ -626,7 +626,7 @@
           "description": "A clip showcasing how DeepMedia's DeepID deepfake detection tool works. Courtesy: DeepMedia",
           "link": "https://decrypt.co/videos/live-events/m4Vy4vhC/clip-deepmedias-deepid-deepfake-detection-tool-at-work",
           "publishedOn": "2023-10-18T16:48:31.000Z",
-          "wordCount": 6494,
+          "wordCount": 6224,
           "title": "Clip: DeepMedia's DeepID Deepfake Detection Tool at Work",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/m4Vy4vhC/poster.jpg",
@@ -656,7 +656,7 @@
           "description": "Our host Reza Jafery sits down with BackTheBunny to dive deep into money, the fight against crypto that we're witnessing in real-time, and milady culture. \n\nOur Host: https://twitter.com/rezajafery\nOur Guest: https://twitter.com/BackTheBunny\n\nOur Sponsors\nhttps://decrypt.co/1000x",
           "link": "https://decrypt.co/videos/interviews/BRoKZzer/backthebunny-money-conspiracy-milady",
           "publishedOn": "2023-10-17T19:48:39.000Z",
-          "wordCount": 6598,
+          "wordCount": 6305,
           "title": "BackTheBunny - Money, Conspiracy, Milady",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/BRoKZzer/poster.jpg",
@@ -671,7 +671,7 @@
           "description": "How much of Shrapnel's in-game items are tradeable NFTs? Don Norbury, Studio Head at Shrapnel and CTO at game studio NEON, tells Decrypt's Kate Irwin about Shrapnel's approach to game economics, including different game pricing models and how NFT game economies create different challenges for developers.",
           "link": "https://decrypt.co/videos/interviews/Z2OMMsC5/a-grand-experiment-shrapnel-studio-head-don-norbury-talks-game-economics",
           "publishedOn": "2023-10-17T17:22:00.000Z",
-          "wordCount": 6703,
+          "wordCount": 6410,
           "title": "'A Grand Experiment': Shrapnel Studio Head Don Norbury Talks Game Economics",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/Z2OMMsC5/poster.jpg",
@@ -776,7 +776,7 @@
           "description": "Reza Jafery and Martin Shkreli sit down for a casual conversation about the growing movement that is E/ACC, what songs they could recite at gunpoint, and whether or not SBF will thrive or just survive during his time in prison.",
           "link": "https://decrypt.co/videos/interviews/QONaWXKZ/martin-shkreli-on-e-acc-and-sbf-in-prison",
           "publishedOn": "2023-10-03T22:03:48.000Z",
-          "wordCount": 6362,
+          "wordCount": 6655,
           "title": "Martin Shkreli on E/ACC and SBF in Prison",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/QONaWXKZ/poster.jpg",
@@ -791,7 +791,7 @@
           "description": "AI Arena CEO Brandon Da Silva and COO Wei Xie discuss how artificial intelligence can shape the video game experience.",
           "link": "https://decrypt.co/videos/interviews/JKuqCMao/what-can-ai-do-in-gaming",
           "publishedOn": "2023-10-03T17:04:00.000Z",
-          "wordCount": 6543,
+          "wordCount": 6250,
           "title": "What Can AI Do in Gaming?",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/JKuqCMao/poster.jpg",
@@ -806,7 +806,7 @@
           "description": "Timmu Tõke, co-founder and CEO of Ready Player Me, joins Decrypt contributor Ryan Gladwin to discuss the startup's approach to powering avatars that are interoperable across games and metaverse platforms—and what's needed to convince the industry to adopt standards and open up.",
           "link": "https://decrypt.co/videos/interviews/TH3KEAI0/there-are-no-real-standards-ready-player-me-ceo-timmu-tke-on-building-for-an-open-gaming-ecosystem",
           "publishedOn": "2023-09-29T17:29:40.000Z",
-          "wordCount": 6432,
+          "wordCount": 6725,
           "title": "'There Are No Real Standards': Ready Player Me CEO Timmu Tõke on Building for an Open Gaming Ecosystem",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/TH3KEAI0/poster.jpg",
@@ -821,7 +821,7 @@
           "description": "Shrapnel Studio Head Don Norbury tells Kate Irwin the reasons why the upcoming first-person shooter game will offer a wide range of NFTs. He also reveals team-based gameplay plans and shares how game maps have already changed this year.",
           "link": "https://decrypt.co/videos/interviews/fhoy7Z8f/blockchain-is-only-way-forward-for-gaming-says-shrapnel-studio-head",
           "publishedOn": "2023-09-28T21:39:00.000Z",
-          "wordCount": 6375,
+          "wordCount": 6668,
           "title": "Blockchain Is 'Only Way' Forward for Gaming, Says Shrapnel Studio Head",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/fhoy7Z8f/poster.jpg",
@@ -868,204 +868,204 @@
       "siteUrl": "https://cryptopanic.com/",
       "articles": [
         {
-          "id": "https://cryptopanic.com/news/18987807/A-furious-judge-and-damning-testimonies-A-firsthand-account-of-the-SBF-trial",
+          "id": "https://cryptopanic.com/news/18988002/Blockchain-Dev-Calls-for-Radical-Changes-to-Counter-Critical-Lightning-Network-Attacks",
           "author": null,
-          "description": "Week 3: Inside the FTX trial courtroom with Blockworks reporter Casey Wagner",
-          "link": "https://cryptopanic.com/news/18987807/A-furious-judge-and-damning-testimonies-A-firsthand-account-of-the-SBF-trial",
-          "publishedOn": "2023-10-23T13:09:31.000Z",
-          "wordCount": 595,
-          "title": "A furious judge and ‘damning’ testimonies: A firsthand account of the SBF trial",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18987817/BlackRock-CEO-forecasts-future-for-Bitcoin-Associates-its-value-with-human-freedom",
-          "author": null,
-          "description": "In recent times, Bitcoin has experienced immense growth, both in its value and in its significance in the global financial landscape. A host of factors are propelling its rise. Among the most notable of these endorsements comes from Larry Fink, CEO of BlackRock, the world’s most prominent asset...",
-          "link": "https://cryptopanic.com/news/18987817/BlackRock-CEO-forecasts-future-for-Bitcoin-Associates-its-value-with-human-freedom",
-          "publishedOn": "2023-10-23T13:09:29.000Z",
+          "description": "Blockchain dev Antoine Riard warns of vulnerabilities in Bitcoin's Lightning Network, including the theft of funds through \"replacement cycling\" attacks.",
+          "link": "https://cryptopanic.com/news/18988002/Blockchain-Dev-Calls-for-Radical-Changes-to-Counter-Critical-Lightning-Network-Attacks",
+          "publishedOn": "2023-10-23T14:09:09.000Z",
           "wordCount": 594,
-          "title": "BlackRock CEO forecasts future for Bitcoin, Associates its value with human freedom",
-          "imageUrl": null
+          "title": "Blockchain Dev Calls for Radical Changes to Counter Critical Lightning Network Attacks",
+          "imageUrl": "https://cryptopotato.com/wp-content/uploads/2022/04/Bitcoin_Network.jpg"
         },
         {
-          "id": "https://cryptopanic.com/news/18987830/Did-Gold-Trigger-the-Rise-in-Bitcoin-Analysts-Evaluated",
+          "id": "https://cryptopanic.com/news/18988005/Reddit-mods-fired-over-suspected-MOON-token-insider-trading",
           "author": null,
-          "description": "While Bitcoin is currently above $30,000, analysts evaluated the reasons behind the rise in BTC. Continue Reading: Did Gold Trigger the Rise in Bitcoin? Analysts Evaluated!",
-          "link": "https://cryptopanic.com/news/18987830/Did-Gold-Trigger-the-Rise-in-Bitcoin-Analysts-Evaluated",
-          "publishedOn": "2023-10-23T13:05:08.000Z",
+          "description": "Reddit moderators accused of insider trading reportedly sold $92,000 in MOON tokens before the platform canceled its crypto rewards program.",
+          "link": "https://cryptopanic.com/news/18988005/Reddit-mods-fired-over-suspected-MOON-token-insider-trading",
+          "publishedOn": "2023-10-23T14:08:20.000Z",
           "wordCount": 591,
-          "title": "Did Gold Trigger the Rise in Bitcoin? Analysts Evaluated!",
-          "imageUrl": "https://www.bitcoinsistemi.com/wp-content/uploads/2020/09/bitcoin-gold-altin-.jpg"
+          "title": "Reddit mods fired over suspected MOON token insider trading",
+          "imageUrl": "http://protos.com/wp-content/uploads/2023/10/Protos-Artwork-OhanianNFTs-SIMG.jpg"
         },
         {
-          "id": "https://cryptopanic.com/news/18987816/Crypto-Hits-12T-in-Market-Cap-After-Huge-7-Day-Influx",
-          "author": null,
-          "description": "Sentiment flips bullish as the crypto narrative turns positive, despite macroeconomic and geopolitical headwinds.",
-          "link": "https://cryptopanic.com/news/18987816/Crypto-Hits-12T-in-Market-Cap-After-Huge-7-Day-Influx",
-          "publishedOn": "2023-10-23T13:05:00.000Z",
-          "wordCount": 592,
-          "title": "Crypto Hits $1.2T in Market Cap After Huge 7-Day Influx",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18987808/FOMO-pushes-Shiba-Memu-to-near-4M-as-presale-inches-to-a-close",
-          "author": null,
-          "description": "Investor FOMO drives Shiba Memu to $4 million presale What makes Shiba Memu unique compared to other meme tokens? Is Shiba Memu a good investment? Shiba Memu extended its presale after an initial offering saw massive demand from an excited community. Now with cryoto in bullish mood and the...",
-          "link": "https://cryptopanic.com/news/18987808/FOMO-pushes-Shiba-Memu-to-near-4M-as-presale-inches-to-a-close",
-          "publishedOn": "2023-10-23T13:03:01.000Z",
-          "wordCount": 595,
-          "title": "FOMO pushes Shiba Memu to near $4M as presale inches to a close",
-          "imageUrl": "https://coinjournal.net/wp-content/uploads/2023/10/1697721569424-a8bca156-3df5-4108-ad35-633d4a546d7d.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/18987806/Top-5-Bitcoin-And-Crypto-Events-To-Watch-Out-For-This-Week",
+          "id": "https://cryptopanic.com/news/18988001/Binance-Integrates-USDC-on-Polygon-to-Boost-Interoperability",
           "author": null,
           "description": "",
-          "link": "https://cryptopanic.com/news/18987806/Top-5-Bitcoin-And-Crypto-Events-To-Watch-Out-For-This-Week",
-          "publishedOn": "2023-10-23T13:00:44.000Z",
+          "link": "https://cryptopanic.com/news/18988001/Binance-Integrates-USDC-on-Polygon-to-Boost-Interoperability",
+          "publishedOn": "2023-10-23T14:05:00.000Z",
           "wordCount": null,
-          "title": "Top 5 Bitcoin And Crypto Events To Watch Out For This Week",
+          "title": "Binance Integrates USDC on Polygon to Boost Interoperability",
           "imageUrl": null
         },
         {
-          "id": "https://cryptopanic.com/news/18987813/Former-Goldman-Exec-Raoul-Pal-Predicts-Retail-Investors-Will-Lead-the-Way-in-Upcoming-Crypto-Surge",
+          "id": "https://cryptopanic.com/news/18987995/Blockchain-A-21-Trillion-Boost-To-Global-GDP-By-2030-Report",
           "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/18987813/Former-Goldman-Exec-Raoul-Pal-Predicts-Retail-Investors-Will-Lead-the-Way-in-Upcoming-Crypto-Surge",
-          "publishedOn": "2023-10-23T13:00:21.000Z",
-          "wordCount": null,
-          "title": "Former Goldman Exec Raoul Pal Predicts Retail Investors Will Lead the Way in Upcoming Crypto Surge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18987772/Bukele-Likely-To-Step-Down-As-President-To-Seek-A-Second-Term",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/18987772/Bukele-Likely-To-Step-Down-As-President-To-Seek-A-Second-Term",
-          "publishedOn": "2023-10-23T13:00:00.000Z",
-          "wordCount": null,
-          "title": "Bukele Likely To Step Down As President To Seek A Second Term",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18987809/The-evolution-of-decentralized-exchanges-A-comparative-analysis",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/18987809/The-evolution-of-decentralized-exchanges-A-comparative-analysis",
-          "publishedOn": "2023-10-23T13:00:00.000Z",
-          "wordCount": null,
-          "title": "The evolution of decentralized exchanges: A comparative analysis",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18987784/Chainlink-Whales-Keep-Stacking-LINK-as-Network-Activity-Soars-to-3-Month-Highs-Data",
-          "author": null,
-          "description": "LINK's price hit $10 amid whale accumulation.",
-          "link": "https://cryptopanic.com/news/18987784/Chainlink-Whales-Keep-Stacking-LINK-as-Network-Activity-Soars-to-3-Month-Highs-Data",
-          "publishedOn": "2023-10-23T12:58:41.000Z",
-          "wordCount": 595,
-          "title": "Chainlink Whales Keep Stacking LINK as Network Activity Soars to 3-Month Highs: Data",
-          "imageUrl": "https://cryptopotato.com/wp-content/uploads/2022/01/Chainlink_Rocket.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/18987773/Solanas-Largest-Defi-Protocol-Marinade-Starts-Blocking-UK-Users",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/18987773/Solanas-Largest-Defi-Protocol-Marinade-Starts-Blocking-UK-Users",
-          "publishedOn": "2023-10-23T12:58:20.000Z",
-          "wordCount": null,
-          "title": "Solana's Largest Defi Protocol Marinade Starts Blocking UK Users",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18987805/Meet-Pierce-Crosby-Of-TradingView-Building-A-Full-Stack-Solution-For-Traders",
-          "author": null,
-          "description": "TradingView's Pierce Crosby will participate in a panel titled \"From Trading Floors to Digital Screens: The Transformation of Trading.\" read more",
-          "link": "https://cryptopanic.com/news/18987805/Meet-Pierce-Crosby-Of-TradingView-Building-A-Full-Stack-Solution-For-Traders",
-          "publishedOn": "2023-10-23T12:52:00.000Z",
+          "description": "In the age of growing digitalization, blockchain has emerged as a pivotal force propelling the progress of developing nations. This transformative shift is powered by the integration of cutting-edge technologies, including blockchain, with the capacity to revolutionize traditional economic...",
+          "link": "https://cryptopanic.com/news/18987995/Blockchain-A-21-Trillion-Boost-To-Global-GDP-By-2030-Report",
+          "publishedOn": "2023-10-23T14:00:55.000Z",
           "wordCount": 594,
-          "title": "Meet Pierce Crosby Of TradingView: Building A Full Stack Solution For Traders",
-          "imageUrl": "https://cdn.benzinga.com/files/images/story/2023/Pierce_Crosby__TradingView.jpeg?width=1200&height=800&fit=crop"
+          "title": "Blockchain: A $2.1 Trillion Boost To Global GDP By 2030 – Report",
+          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2023/10/a-71.png"
         },
         {
-          "id": "https://cryptopanic.com/news/18987800/Worldcoin-to-WLD-Token-to-Reward-Orb-Operators-Report",
+          "id": "https://cryptopanic.com/news/18987984/FTX-Users-Warned-of-Phishing-Scam-Targeting-Asset-Withdrawals",
           "author": null,
-          "description": "In a recent announcement dated October 22, the Worldcoin Foundation revealed its decision to use the platform’s native token, WLD, to reward Orb operators, replacing Circle’s USD Coin (USDC). The announcement also sheds light on the unavailability of the Worldcoin (WLD) tokens to individuals or...",
-          "link": "https://cryptopanic.com/news/18987800/Worldcoin-to-WLD-Token-to-Reward-Orb-Operators-Report",
-          "publishedOn": "2023-10-23T12:51:00.000Z",
-          "wordCount": 591,
-          "title": "Worldcoin to WLD Token to Reward Orb Operators: Report",
+          "description": "",
+          "link": "https://cryptopanic.com/news/18987984/FTX-Users-Warned-of-Phishing-Scam-Targeting-Asset-Withdrawals",
+          "publishedOn": "2023-10-23T13:58:25.000Z",
+          "wordCount": null,
+          "title": "FTX Users Warned of Phishing Scam Targeting Asset Withdrawals",
           "imageUrl": null
         },
         {
-          "id": "https://cryptopanic.com/news/18987819/Worldcoin-stops-paying-in-USDC-will-pay-in-WLD-crypto",
+          "id": "https://cryptopanic.com/news/18987962/An-Important-Update-for-Shiba-Inu-SHIB-Ecosystem",
           "author": null,
-          "description": "Policy change has already been initiated, but will not be fully live until November",
-          "link": "https://cryptopanic.com/news/18987819/Worldcoin-stops-paying-in-USDC-will-pay-in-WLD-crypto",
-          "publishedOn": "2023-10-23T12:46:03.000Z",
-          "wordCount": 592,
-          "title": "Worldcoin stops paying in USDC: will pay in WLD crypto",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/18987818/Elon-Musk-eyes-Wikimedia-and-questions-funding-needs",
-          "author": null,
-          "description": "Elon Musk, tech mogul and owner of the X app, recently scrutinized the Wikimedia Foundation’s financial appeals, sparking intense online dialogue. Musk confronted the nonprofit, questioning why Wikipedia, hosted by Wikimedia, solicits extensive funds from its patrons. This move comes amid...",
-          "link": "https://cryptopanic.com/news/18987818/Elon-Musk-eyes-Wikimedia-and-questions-funding-needs",
-          "publishedOn": "2023-10-23T12:44:29.000Z",
+          "description": "The Australian-based crypto exchange GroveX said it is \"in the process of integrating the Shibarium chain.\"",
+          "link": "https://cryptopanic.com/news/18987962/An-Important-Update-for-Shiba-Inu-SHIB-Ecosystem",
+          "publishedOn": "2023-10-23T13:57:55.000Z",
           "wordCount": 590,
-          "title": "Elon Musk eyes Wikimedia and questions funding needs",
-          "imageUrl": null
+          "title": "An Important Update for Shiba Inu (SHIB) Ecosystem",
+          "imageUrl": "https://cryptopotato.com/wp-content/uploads/2023/10/ShibariumAustralianExchange.jpg"
         },
         {
-          "id": "https://cryptopanic.com/news/18987737/Data-Emerges-as-the-New-Currency-in-the-AI-Era-Says-Analyst",
+          "id": "https://cryptopanic.com/news/18987950/Coinbase-Poised-to-Make-Final-Pitch-in-Bid-to-Kill-SEC-Accusations-Quickly",
           "author": null,
-          "description": "In a recent industry update, GlobalData analyst Natasha Ryback aptly describes data as the “diamonds in the rough” of the digital world. Ryback’s analysis underscores the pivotal role data is set to play as the new currency in an era driven by Artificial Intelligence (AI). She highlights that...",
-          "link": "https://cryptopanic.com/news/18987737/Data-Emerges-as-the-New-Currency-in-the-AI-Era-Says-Analyst",
-          "publishedOn": "2023-10-23T12:36:39.000Z",
-          "wordCount": 594,
-          "title": "Data Emerges as the New Currency in the AI Era, Says Analyst",
-          "imageUrl": null
+          "description": "Coinbase Global Inc. (COIN) is set to make its final case on Tuesday that a judge should spring it from the clutches of the U.S. Securities and Exchange Commission (SEC) in its unregistered-securities dispute.",
+          "link": "https://cryptopanic.com/news/18987950/Coinbase-Poised-to-Make-Final-Pitch-in-Bid-to-Kill-SEC-Accusations-Quickly",
+          "publishedOn": "2023-10-23T13:51:08.000Z",
+          "wordCount": 595,
+          "title": "Coinbase Poised to Make Final Pitch in Bid to Kill SEC Accusations Quickly",
+          "imageUrl": "https://www.coindesk.com/resizer/kvooDV5Z4FoXgT5mrrOjnqNNHaY=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/UNV3KYGGZVCJFKYFMQGS3W2ZX4.jpg"
         },
         {
-          "id": "https://cryptopanic.com/news/18987769/Scaling-Bitcoin-with-Christian-Decker",
+          "id": "https://cryptopanic.com/news/18987938/Ethereums-Scroll-scaling-project-surges-with-a-staggering-1520-million-TVL",
           "author": null,
           "description": "",
-          "link": "https://cryptopanic.com/news/18987769/Scaling-Bitcoin-with-Christian-Decker",
-          "publishedOn": "2023-10-23T12:34:17.000Z",
+          "link": "https://cryptopanic.com/news/18987938/Ethereums-Scroll-scaling-project-surges-with-a-staggering-1520-million-TVL",
+          "publishedOn": "2023-10-23T13:50:30.000Z",
           "wordCount": null,
-          "title": "Scaling Bitcoin with Christian Decker",
+          "title": "Ethereum’s Scroll scaling project surges with a staggering $15.20 million TVL",
           "imageUrl": null
         },
         {
-          "id": "https://cryptopanic.com/news/18987724/Led-by-ETH-BNB-and-XRP-altcoins-chart-a-new-course",
+          "id": "https://cryptopanic.com/news/18987937/Uniswap-CEO-Burns-999-HayCoin-Supply-Sparking-36M-Price",
           "author": null,
-          "description": "The altcoin market is excited about a falling wedge pattern, which has historically resulted in bull rallies. A check of ETH, BNB, and XRP’s states also gave a bullish notion.",
-          "link": "https://cryptopanic.com/news/18987724/Led-by-ETH-BNB-and-XRP-altcoins-chart-a-new-course",
-          "publishedOn": "2023-10-23T12:30:57.000Z",
-          "wordCount": 593,
-          "title": "Led by ETH, BNB, and XRP, altcoins chart a new course",
-          "imageUrl": "https://statics.ambcrypto.com/wp-content/uploads/2023/10/Altcoin-1.webp"
-        },
-        {
-          "id": "https://cryptopanic.com/news/18987759/Bitcoin-Spark-To-List-On-XTcom-Exchange-This-November",
-          "author": null,
-          "description": "New and hyped altcoins offer lucrative opportunities for investors, and seeing them listed on a reputable crypto exchange can often be a sign of success. read more",
-          "link": "https://cryptopanic.com/news/18987759/Bitcoin-Spark-To-List-On-XTcom-Exchange-This-November",
-          "publishedOn": "2023-10-23T12:25:42.000Z",
+          "description": "HayCoin price has shot to over $3 million following the destruction of 99.99% of the token’s supply by Uniswap's founder.",
+          "link": "https://cryptopanic.com/news/18987937/Uniswap-CEO-Burns-999-HayCoin-Supply-Sparking-36M-Price",
+          "publishedOn": "2023-10-23T13:50:00.000Z",
           "wordCount": 591,
-          "title": "Bitcoin Spark To List On XT.com Exchange This November",
-          "imageUrl": "https://cdn.benzinga.com/files/images/story/2023/10/23/screenshot_2023-10-23_at_5.52.27_pm.png?width=1200&height=800&fit=crop"
+          "title": "Uniswap CEO Burns 99.9% HayCoin Supply, Sparking $3.6M Price",
+          "imageUrl": null
         },
         {
-          "id": "https://cryptopanic.com/news/18987716/90M-in-Crypto-Used-to-Fund-Hamas-Patently-False-WSJ-Data-off-by-Over-99-Analyst",
+          "id": "https://cryptopanic.com/news/18987949/What-is-SocialFi-Unpacking-cryptos-answer-to-social-media",
           "author": null,
           "description": "",
-          "link": "https://cryptopanic.com/news/18987716/90M-in-Crypto-Used-to-Fund-Hamas-Patently-False-WSJ-Data-off-by-Over-99-Analyst",
-          "publishedOn": "2023-10-23T12:25:00.000Z",
+          "link": "https://cryptopanic.com/news/18987949/What-is-SocialFi-Unpacking-cryptos-answer-to-social-media",
+          "publishedOn": "2023-10-23T13:44:20.000Z",
           "wordCount": null,
-          "title": "$90M in Crypto Used to Fund Hamas ‘Patently False,’ WSJ Data off by Over 99%: Analyst",
+          "title": "What is SocialFi? Unpacking crypto’s answer to social media",
           "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18987942/ETF-Will-Break-Bitcoin",
+          "author": null,
+          "description": "Bitcoin ETF is more bullish for BTC price than most realize. Here's why. Bybit Lucky Draw https://www.bybit.com/en-US/promo/affiliates-campaign/iphone15-pro-lucky-draw/?affiliate_id=1378🔥 GET MY FREE NEWSLETTER 👉 https://cryptolark.co/WEALTHMASTERY💸 BYBIT $30,030 BONUS & FEE DISCOUNT 👉...",
+          "link": "https://cryptopanic.com/news/18987942/ETF-Will-Break-Bitcoin",
+          "publishedOn": "2023-10-23T13:42:29.000Z",
+          "wordCount": 586,
+          "title": "ETF Will Break Bitcoin",
+          "imageUrl": "https://i1.ytimg.com/vi/pmeCMrf4hsU/hqdefault.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/18987948/Bitcoin-Tops-This-Key-Level-Fantom-Emerges-As-Top-Gainer",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/18987948/Bitcoin-Tops-This-Key-Level-Fantom-Emerges-As-Top-Gainer",
+          "publishedOn": "2023-10-23T13:40:53.000Z",
+          "wordCount": null,
+          "title": "Bitcoin Tops This Key Level; Fantom Emerges As Top Gainer",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18987912/The-Evolution-of-Video-Games-Through-Generative-AI",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/18987912/The-Evolution-of-Video-Games-Through-Generative-AI",
+          "publishedOn": "2023-10-23T13:38:02.000Z",
+          "wordCount": null,
+          "title": "The Evolution of Video Games Through Generative AI",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18987910/Hong-Kong-Reverses-Anti-Crypto-Stance-Adds-Investor-Tests",
+          "author": null,
+          "description": "Hong Kong's financial regulator has updated its crypto policies, allowing retail investors to engage in spot-crypto and ETFs, with conditions.",
+          "link": "https://cryptopanic.com/news/18987910/Hong-Kong-Reverses-Anti-Crypto-Stance-Adds-Investor-Tests",
+          "publishedOn": "2023-10-23T13:35:00.000Z",
+          "wordCount": 590,
+          "title": "Hong Kong Reverses Anti-Crypto Stance, Adds Investor Tests",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18987947/MicroStrategys-Position-Now-in-Profit-as-BTC-Holds-Above-30k",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/18987947/MicroStrategys-Position-Now-in-Profit-as-BTC-Holds-Above-30k",
+          "publishedOn": "2023-10-23T13:33:49.000Z",
+          "wordCount": null,
+          "title": "MicroStrategy’s Position Now in Profit as BTC Holds Above $30k",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18987906/Bitget-releases-MPC-wallet-includes-23-private-key-sharding",
+          "author": null,
+          "description": "Cryptocurrency exchange Bitget has released a multiparty computation wallet to improve asset security and user experience.",
+          "link": "https://cryptopanic.com/news/18987906/Bitget-releases-MPC-wallet-includes-23-private-key-sharding",
+          "publishedOn": "2023-10-23T13:33:01.000Z",
+          "wordCount": 591,
+          "title": "Bitget releases MPC wallet, includes 2/3 private key sharding",
+          "imageUrl": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-10/24aeebcc-53fe-4952-bfbb-01e74a371b0b.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/18987913/The-Visual-Revolution-in-Gaming-Over-the-Past-Decade",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/18987913/The-Visual-Revolution-in-Gaming-Over-the-Past-Decade",
+          "publishedOn": "2023-10-23T13:31:41.000Z",
+          "wordCount": null,
+          "title": "The Visual Revolution in Gaming Over the Past Decade",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18987982/Ripple-Gains-Edge-in-SEC-Lawsuit-Charges-Dropped",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/18987982/Ripple-Gains-Edge-in-SEC-Lawsuit-Charges-Dropped",
+          "publishedOn": "2023-10-23T13:30:00.000Z",
+          "wordCount": null,
+          "title": "Ripple Gains Edge in SEC Lawsuit, Charges Dropped",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18987895/FTM-SOL-DOT-DYDX-and-BTC-Related-Tokens-on-Analysts-Watchlist",
+          "author": null,
+          "description": "A prominent crypto analyst named “The DeFi Investor” on the X (formerly Twitter) platform has released a crypto watchlist for the upcoming weeks. In his view, the list embodies tokens expected to make substantial gains in the coming weeks. First on the list is Fantom (FTM), the filthy...",
+          "link": "https://cryptopanic.com/news/18987895/FTM-SOL-DOT-DYDX-and-BTC-Related-Tokens-on-Analysts-Watchlist",
+          "publishedOn": "2023-10-23T13:26:00.000Z",
+          "wordCount": 592,
+          "title": "FTM, SOL, DOT, DYDX, and BTC-Related Tokens on Analyst’s Watchlist",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/18987904/Bitcoin-Enjoys-Bullish-Moment-As-Weekly-Gains-Of-11-Push-Digital-Asset-Beyond-30K",
+          "author": null,
+          "description": "Bitcoin (CRYPTO: BTC), in the past 24 hours, saw trading volume increase 36% to $17.6 billion. read more",
+          "link": "https://cryptopanic.com/news/18987904/Bitcoin-Enjoys-Bullish-Moment-As-Weekly-Gains-Of-11-Push-Digital-Asset-Beyond-30K",
+          "publishedOn": "2023-10-23T13:24:10.000Z",
+          "wordCount": 596,
+          "title": "Bitcoin Enjoys Bullish Moment As Weekly Gains Of 11% Push Digital Asset Beyond $30K",
+          "imageUrl": "https://cdn.benzinga.com/files/images/story/2023/10/23/bull_bitcoin.jpg?width=1200&height=800&fit=crop"
         }
       ]
     },
@@ -1075,12 +1075,87 @@
       "siteUrl": "https://www.inoreader.com/stream/user/1005336866/tag/%E6%B5%B7%E5%A4%96%E5%8A%A0%E5%AF%86%E8%B5%84%E8%AE%AF/view/html",
       "articles": [
         {
+          "id": "http://www.inoreader.com/article/3a9c6e74aaf62492",
+          "author": "Jamie Redman",
+          "description": "Crypto mining rig manufacturer Bitmain plans to release a new Antminer supporting the proof-of-work (PoW) blockchain network Aleo. The announcement comes after Bitmain’s recent launches of filecoin and kaspa machines and the company’s latest series of bitcoin miners.\n \nAleo’s L1 Blockchain to Get Bitmain Mining Support\n \nAccording to a recent Bitmain post, the company intends to introduce a miner compatible with the forthcoming blockchain network Aleo. The Aleo PoW blockchain is currently in testnet mode and hasn’t fully launched. It’s a layer one (L1) blockchain that employs zero-knowledge proofs to bolster privacy while retaining programmability. Aleo uses a statically typed programming language inspired by Rust named Leo.\n \n“To support the prosperity of the Aleo ecosystem, Bitmain plans…",
+          "link": "https://news.bitcoin.com/bitmain-to-support-aleos-pow-blockchain-with-latest-antminer-release/",
+          "publishedOn": "2023-10-23T14:05:05.000Z",
+          "wordCount": 251,
+          "title": "Bitmain to Support Aleo’s PoW Blockchain With Latest Antminer Release",
+          "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2023/10/antminer.jpg"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e74aaf62833",
+          "author": "Jared Kirui",
+          "description": "FTX's creditors are facing phishing attacks amidst  \nthe ongoing legal turmoil surrounding the collapse of the cryptocurrency  \nexchange. These fraudulent emails promise expedited withdrawals for assets  \nlocked following the exchange's insolvency. \nAccording to a report by Cointelegraph, these  \ndeceptive emails encourage creditors to transfer their crypto holdings to  \nspecified wallets, bypassing the protracted waiting period and the ongoing  \nlegal complexities of the bankruptcy proceedings.\nAdditionally, the fraudulent emails deceive  \ncreditors, stating that as \"priority clients\", they can expedite  \ntheir crypto asset withdrawal process directly from the FTX platform. These  \nmalicious actions have prompted advocates for FTX creditors to issue a warning  \nagainst clicking on any sus…",
+          "link": "https://www.financemagnates.com//cryptocurrency/ftx-creditors-face-new-threat-phishing-attacks-amidst-legal-turmoil/",
+          "publishedOn": "2023-10-23T14:04:55.000Z",
+          "wordCount": 4418,
+          "title": "FTX Creditors Face New Threat: Phishing Attacks amidst Legal Turmoil",
+          "imageUrl": "https://images.financemagnates.com/images/FTX_id_80b574c3-4e00-4ffa-adcd-4837677567b5_size900.jpg"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e74aaf035ad",
+          "author": "Jesse Hamilton",
+          "description": "Coinbase Global Inc. (COIN) is set to make its final case on Tuesday that a judge should spring it from the clutches of the U.S. Securities and Exchange Commission (SEC) in its unregistered-securities dispute.",
+          "link": "https://www.coindesk.com/policy/2023/10/23/coinbase-poised-to-make-final-pitch-in-bid-to-kill-sec-accusations-quickly/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2023-10-23T13:52:47.000Z",
+          "wordCount": 8866,
+          "title": "Coinbase Poised to Make Final Pitch in Bid to Kill SEC Accusations Quickly",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/jpeg",
+            "url": "https://www.coindesk.com/resizer/PI33R4LQejUp-twHzMWm3dsiWD8=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/UNV3KYGGZVCJFKYFMQGS3W2ZX4.jpg"
+          },
+          "imageUrl": "https://www.coindesk.com/resizer/PI33R4LQejUp-twHzMWm3dsiWD8=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/UNV3KYGGZVCJFKYFMQGS3W2ZX4.jpg"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e74aaf03576",
+          "author": "Shaurya Malwa",
+          "description": "Michael Saylor’s software company has invested billions of dollars into the world’s largest token by market capitalization. And the bet is slowly paying off.",
+          "link": "https://www.coindesk.com/markets/2023/10/23/michael-saylors-47b-bitcoin-bet-back-in-the-green/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2023-10-23T13:52:47.000Z",
+          "wordCount": 7188,
+          "title": "Michael Saylor's $4.7B Bitcoin Bet Back in the Green",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/jpeg",
+            "url": "https://www.coindesk.com/resizer/AW5GLXwVhz1GUt7Jpbed-69oTeo=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/V4OZRLYPNFGH3GNQ7ZJCHGOR5U.jpg"
+          },
+          "imageUrl": "https://www.coindesk.com/resizer/AW5GLXwVhz1GUt7Jpbed-69oTeo=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/V4OZRLYPNFGH3GNQ7ZJCHGOR5U.jpg"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e74aaf35215",
+          "author": "Pedro Ferreira",
+          "description": "Crypto adoption  \ncontinues to grow at an exponential rate. This digital financial revolution has  \nbrought with it both benefits and challenges, with one of the most serious  \nworries being the possible misuse of cryptocurrencies for money laundering and  \nillegal activity. \nConcerns about  \nmoney laundering and the rise of cryptocurrency\nCryptocurrencies  \nprovide privacy and pseudonymity that traditional financial systems do not.  \nWhile this feature has been lauded for its privacy benefits, it has also  \nprompted worries regarding potential abuse. Criminals and money launderers have  \ntaken use of this anonymity to conduct a variety of unlawful operations,  \nincluding money laundering, tax evasion, and terrorism financing.\nRegulatory  \nReaction to Cryptocurrency Money Laundering\nRegula…",
+          "link": "https://www.financemagnates.com//cryptocurrency/are-regulators-doing-enough-to-deter-crypto-as-a-money-laundering-tool/",
+          "publishedOn": "2023-10-23T13:33:25.000Z",
+          "wordCount": 6281,
+          "title": "Are Regulators Doing Enough to Deter Crypto as a Money Laundering Tool?",
+          "imageUrl": "https://images.financemagnates.com/images/blackrock%20scam_id_19180305-f001-4d2f-b528-116c95c3be90_size900.jpg"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e74aafdd669",
+          "author": "Jake Simmons",
+          "description": "As the Bitcoin and crypto landscape continues its rapid evolution, this week stands out as a pivotal juncture filled with events that have the potential to reshape market sentiments and dynamics. From Bitcoin’s price performance to macroeconomic indicators and significant documentaries, here’s a closer look at the key events that every enthusiast and investor should be keenly observing this week:\n \n#1 Can Bitcoin Hold Above $30,000?\n \nBitcoin, as in previous early stages of a bull market, is currently the driving force in the entire crypto market. The escalating hope that a spot Bitcoin ETF could be approved by the US Securities and Exchange Commission by the end of this year has brought back the bullish momentum. As Google Trends shows, interest in a Bitcoin ETF has returned among retail …",
+          "link": "https://bitcoinist.com/top-5-bitcoin-crypto-events-this-week/",
+          "publishedOn": "2023-10-23T13:17:54.000Z",
+          "wordCount": 6061,
+          "title": "Top 5 Bitcoin And Crypto Events To Watch Out For This Week",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/jpeg",
+            "url": "https://bitcoinist.com/wp-content/uploads/2023/10/shutterstock_1461426554-640x362.jpg"
+          },
+          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2023/10/shutterstock_1461426554-640x362.jpg"
+        },
+        {
           "id": "http://www.inoreader.com/article/3a9c6e74aaf8cb08",
           "author": "Oliver Knight",
           "description": "Solana's largest decentralized finance (DeFi) protocol, Marinade Finance, has blocked users in the United Kingdom from accessing the site due to \"compliance concerns\" over Financial Conduct Authority (FCA) regulations.",
           "link": "https://www.coindesk.com/business/2023/10/23/solanas-largest-defi-protocol-marinade-starts-blocking-uk-users/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-10-23T13:00:01.000Z",
-          "wordCount": 6712,
+          "wordCount": 6751,
           "title": "Solana's Largest Defi Protocol Marinade Starts Blocking UK Users",
           "enclosure": {
             "length": "1337",
@@ -1095,7 +1170,7 @@
           "description": "The latest price moves in bitcoin (BTC) and crypto markets in context for Oct. 23, 2023. First Mover is CoinDesk’s daily newsletter that contextualizes the latest actions in the crypto markets.",
           "link": "https://www.coindesk.com/markets/2023/10/23/first-mover-americas-bitcoin-gains-as-trading-volume-surges/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-10-23T13:00:01.000Z",
-          "wordCount": 7875,
+          "wordCount": 7910,
           "title": "First Mover Americas: Bitcoin Gains as Trading Volume Surges",
           "enclosure": {
             "length": "1337",
@@ -1110,7 +1185,7 @@
           "description": "The firm is looking for a \"reliable income stream ... that is uncorrelated to bitcoin prices.\"",
           "link": "https://www.coindesk.com/business/2023/10/23/bitcoin-miner-bit-digital-diversifies-into-ai-for-substantially-higher-margin-than-mining/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-10-23T13:00:01.000Z",
-          "wordCount": 8290,
+          "wordCount": 8320,
           "title": "Bitcoin Miner Bit Digital Diversifies Into AI for 'Substantially Higher Margin' Than Mining",
           "enclosure": {
             "length": "1337",
@@ -1135,7 +1210,7 @@
           "description": "The trial of the former CEO of the defunct crypto exchange FTX, Sam Bankman-Fried (SBF), is fast approaching the verdict stage as the prosecution closed its case last week. Following this, Bankman-Fried and his lawyers are set to open their defense (or maybe not) this week in what could prove very pivotal as to the direction of the case and SBF’s fate. \n \nWhat Will Sam Bankman-Fried’s Lawyers Do?\n \nSpecifically, SBF’s trial will continue on October 26, when he and his lawyers will need to inform the court on what step they intend to take next. As to the next steps they can take, they can either choose to open a defense and present witnesses and evidence to the jury. They can also choose to waive the case and not put up any defense. \n \nThey will most likely have to put up a defense, conside…",
           "link": "https://bitcoinist.com/sam-bankman-fried-trial-ftx/",
           "publishedOn": "2023-10-23T12:18:21.000Z",
-          "wordCount": 5664,
+          "wordCount": 5661,
           "title": "Sam Bankman-Fried Trial: Why This Week Is Very Important For The FTX Founder",
           "enclosure": {
             "length": "1337",
@@ -1150,7 +1225,7 @@
           "description": "The New York and Tel Aviv-based company said it would use the funding to scale its product, customer base and team to address the industry’s security challenges.",
           "link": "https://www.coindesk.com/business/2023/10/23/web3-security-firm-blockaid-raises-27m-to-help-tackle-industrys-never-ending-challenges/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-10-23T12:01:41.000Z",
-          "wordCount": 6703,
+          "wordCount": 6729,
           "title": "Web3 Security Firm Blockaid Raises $27M to Help Tackle Industry's 'Never-Ending' Challenges",
           "enclosure": {
             "length": "1337",
@@ -1175,7 +1250,7 @@
           "description": "Bitcoin (BTC) has come under intense selling pressure, with crypto analyst Nicholas Merten, known as the host of DataDash, predicting a significant downward leg for the leading cryptocurrency. In a recent strategy session, Merten expressed concerns that BTC is primed for a bearish move.\n \nMerten’s analysis revolves around the persistent resistance that Bitcoin has encountered at a critical channel. \n \n“The question here is whether or not we’re going to be able to clear through this channel of resistance, which each and every time has proven as resistance for Bitcoin,” the analyst said. He emphasized that this recurrent resistance could pave the way for a substantial downward move.\n \n \nBitcoin Faces Strong Selling Pressure\n \nMerten believes that Bitcoin may face even greater challenges than…",
           "link": "https://bitcoinist.com/is-bitcoin-in-danger-analyst-shares-views/",
           "publishedOn": "2023-10-23T11:18:30.000Z",
-          "wordCount": 5532,
+          "wordCount": 5529,
           "title": "Bitcoin In Danger? Analyst Fears BTC Resistance Could Trigger A Downward Spiral",
           "enclosure": {
             "length": "1337",
@@ -1190,7 +1265,7 @@
           "description": "Uniswap creator Hayden Adams burned his token holdings over the weekend, effectively destroying 99.99% of the outstanding supply.",
           "link": "https://www.coindesk.com/markets/2023/10/23/first-uniswap-token-haycoin-price-jumps-to-3m-per-token/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-10-23T11:01:43.000Z",
-          "wordCount": 7369,
+          "wordCount": 7412,
           "title": "‘First Uniswap Token’ HayCoin Price Jumps to $3M Per Token",
           "enclosure": {
             "length": "1337",
@@ -1205,7 +1280,7 @@
           "description": "To get a courtroom seat, you gotta show up early: at least 7:30 a.m. The overflow room is more relaxed, but there’s no Sam, just his televised image.",
           "link": "https://www.coindesk.com/policy/2023/10/23/the-sam-bankman-fried-trial-its-the-courthouse-life-for-us/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-10-23T11:01:43.000Z",
-          "wordCount": 8741,
+          "wordCount": 8749,
           "title": "The Sam Bankman-Fried Trial: It’s the Courthouse Life for Us",
           "enclosure": {
             "length": "1337",
@@ -1220,7 +1295,7 @@
           "description": "Hong Kong's financial regulators have overturned previous guidance that limited the sale of spot crypto products to professional investors. But there's a catch.",
           "link": "https://www.coindesk.com/policy/2023/10/23/hong-kong-reverses-stance-on-spot-crypto-etf-investing-with-a-catch/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-10-23T10:01:50.000Z",
-          "wordCount": 7690,
+          "wordCount": 7728,
           "title": "Hong Kong Reverses Stance on Spot-Crypto, ETF Investing, With a Catch",
           "enclosure": {
             "length": "1337",
@@ -1235,7 +1310,7 @@
           "description": "Users will receive WLD tokens, instead of USDC, starting Tuesday, as per a new developer document.",
           "link": "https://www.coindesk.com/markets/2023/10/23/sam-altmans-worldcoin-switches-orb-rewards-plan-to-boost-wld-supply/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-10-23T09:42:55.000Z",
-          "wordCount": 7236,
+          "wordCount": 7274,
           "title": "Sam Altman's Worldcoin Switches Orb Rewards Plan to Boost WLD Supply",
           "enclosure": {
             "length": "1337",
@@ -1260,89 +1335,9 @@
           "description": "In  \na year marked by the resurgence of cryptocurrencies, the global interest in  \ncryptocurrency storage applications has experienced a notable decline. Recent  \ndata reveals that cryptocurrency wallets witnessed a total of 73.6 million  \ndownloads in the first nine months of this year, reflecting a decrease of 32% compared to the same period last year.\nDeclining  \nInterest in Crypto Wallets\nThis  \ndrop in downloads marks the second consecutive year of declining interest in  \ncrypto wallets. The number of cryptocurrency wallet downloads has now fallen  \nsignificantly below the peak levels observed during the crypto market's boom in  \n2021. The immense growth of the cryptocurrency market, coupled with Bitcoin's  \nprice rally throughout 2021, led to a surge in cryptocurrency wallet users.\nA…",
           "link": "https://www.financemagnates.com//cryptocurrency/crypto-wallet-downloads-declines-for-second-consecutive-year-32-down-in-2023/",
           "publishedOn": "2023-10-23T09:27:21.000Z",
-          "wordCount": 4348,
+          "wordCount": 4342,
           "title": "Crypto Wallet Downloads Declines for Second Consecutive Year: 32% Down in 2023",
           "imageUrl": "https://images.financemagnates.com/images/crypto%20wallet_id_7c4397de-b558-4240-be9e-b141476366cb_size900.jpg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e74aac42c46",
-          "author": "Jake Simmons",
-          "description": "John E Deaton, a prominent lawyer known for representing XRP holders and vocalizing his criticisms of Jay Clayton’s tenure as the SEC Chairman, recently took to Twitter to highlight what he believes to be glaring conflicts of interest surrounding the SEC’s enforcement action against Ripple, its CEO Brad Garlinghouse, and co-founder Chris Larsen.\n \nDeaton tweeted, “When the XRP case was filed on Clayton’s last day in charge at the SEC, I immediately pointed out the massive conflicts of interest by him voting to bring an enforcement action against Ripple, Brad Garlinghouse and Chris Larsen.”\n \nThis tweet comes in the wake of a statement made by Brian Costello, who lambasted the SEC’s role in allegedly concealing financial misdeeds connected to Chinese executives.\n \nCostello remarked that und…",
-          "link": "https://bitcoinist.com/pro-xrp-deaton-clayton-hidden-agenda-vs-ripple/",
-          "publishedOn": "2023-10-23T09:17:35.000Z",
-          "wordCount": 5785,
-          "title": "Pro-XRP Lawyer Deaton Exposes Clayton’s Hidden Agenda Against Ripple",
-          "enclosure": {
-            "length": "1337",
-            "type": "image/jpeg",
-            "url": "https://bitcoinist.com/wp-content/uploads/2023/10/1_bYNgQuJnHIldhI7_C9iyYA-640x360.jpg"
-          },
-          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2023/10/1_bYNgQuJnHIldhI7_C9iyYA-640x360.jpg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e74aac5752f",
-          "author": "Damian Chmiel",
-          "description": "The third  \nquarter of 2023 has been challenging for the non-fungible tokens (NFTs) market,  \nwith sales hitting their lowest point since the last quarter of 2020. September  \nalone recorded a dismal sales figure of around $300 million. This downturn is primarily  \nattributed to a significant drop in average sales prices and floor prices of  \npopular collections.\nThe Downward Spiral of NFT  \nSales\nThe NFT  \nmarket has been on a downward trajectory, particularly in September, which saw  \nthe worst sales figures since January 2021. The average sales price in September  \nplummeted to $38.17, a stark contrast to its peak of $791.84 in August 2021.  \nCollections like Azuki, BAYC, and MAYC have seen their floor prices decline by  \nmore than 25% quarter-over-quarter.\nThe newest  \nBinance Research…",
-          "link": "https://www.financemagnates.com//cryptocurrency/september-marks-the-worst-month-in-nft-history-the-industry-loses-buyers/",
-          "publishedOn": "2023-10-23T09:08:52.000Z",
-          "wordCount": 25799,
-          "title": "September Marks the Worst Month in NFT History. The Industry Loses Buyers",
-          "imageUrl": "https://images.financemagnates.com/images/nft%20market_id_ba3a6c8a-dce3-4086-ae63-740baf3c52f1_size900.jpg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e74aac3a6c3",
-          "author": "Damian Chmiel",
-          "description": "The  \nSecurities and Futures Commission (SFC) and the Hong Kong Monetary Authority  \n(HKMA) are responding to the changing landscape of virtual assets. The  \nregulators have updated their policies with increasing inquiries from intermediaries  \nabout distributing crypto-related products and services. \nFrom the  \nreading of the latest circular, it appears that cryptocurrencies are  \n\"complex products\" that should be available only to professional  \ninvestors, while others should undergo appropriate training to trade them.  \nHowever, the problem is that such products' definitions are quite vague.\nSFC Changes Its Stance on  \nCryptos\nIn 2018,  \nthe SFC's initial approach towards virtual assets included restrictions aimed  \nprimarily at \"professional investors.\" However, the rise of virtual  \na…",
-          "link": "https://www.financemagnates.com//cryptocurrency/is-crypto-now-for-pros-only-hong-kongs-leaves-investors-guessing/",
-          "publishedOn": "2023-10-23T08:27:36.000Z",
-          "wordCount": 15854,
-          "title": "Is Crypto Now for Pros Only? Hong Kongs Leaves Investors Guessing",
-          "imageUrl": "https://images.financemagnates.com/images/bank%20runs%20in%20Hong%20Kong_id_a69da31b-daa0-4257-9666-eff7e8ff10df_size900.jpg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e74aac3cdba",
-          "author": "Nikhilesh De",
-          "description": "Congressman Tom Emmer, who's sponsored a number of crypto-related bills over the past few years and is a member of the Congressional Blockchain Caucus, said he's considering a bid for the vacant Speaker of the House position.",
-          "link": "https://www.coindesk.com/policy/2023/10/23/lawmaker-tom-emmer-throws-hat-in-ring-for-house-speaker-role/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-          "publishedOn": "2023-10-23T08:26:43.000Z",
-          "wordCount": 7545,
-          "title": "Lawmaker Tom Emmer Throws Hat in Ring for House Speaker Role",
-          "enclosure": {
-            "length": "1337",
-            "type": "image/jpeg",
-            "url": "https://www.coindesk.com/resizer/5OrTFM9EDRoKNsQcwTUWHvcuzpY=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/4HT6MF56FZGPNL2BOMEVBSC7TA.jpg"
-          },
-          "imageUrl": "https://www.coindesk.com/resizer/5OrTFM9EDRoKNsQcwTUWHvcuzpY=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/4HT6MF56FZGPNL2BOMEVBSC7TA.jpg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e74aacc6926",
-          "author": "Omkar Godbole",
-          "description": "The MOON token is here to stay, r/CryptoCurrency subreddit said.",
-          "link": "https://www.coindesk.com/markets/2023/10/23/reddit-crypto-community-removes-moderators-accused-of-moon-insider-trading/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-          "publishedOn": "2023-10-23T08:22:41.000Z",
-          "wordCount": 7464,
-          "title": "Reddit Crypto Community Removes Moderators Accused of MOON Insider Trading",
-          "enclosure": {
-            "length": "1337",
-            "type": "image/jpeg",
-            "url": "https://www.coindesk.com/resizer/gVcKUTcBgusPl7eNrN4eM712a-w=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/TJ7PIOBN6REHPHXY7LV3INAV7U.jpg"
-          },
-          "imageUrl": "https://www.coindesk.com/resizer/gVcKUTcBgusPl7eNrN4eM712a-w=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/TJ7PIOBN6REHPHXY7LV3INAV7U.jpg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e74aacd27a5",
-          "author": "Christian Encila",
-          "description": "Ethereum (ETH) has witnessed a notable resurgence, reclaiming ground after hitting a crucial support level at $1,500. As traders analyze the daily time frame, it becomes evident that this resurgence may signify the formation of a bullish reversal pattern, known as a double bottom. \n \nA double bottom is a classic technical analysis pattern that often signals a potential trend reversal. It consists of two troughs or valleys formed on a price chart. In this case, Ethereum touched the $1,500 support level twice, suggesting strong buying interest at this price point. \n \nThis pattern indicates that bears may have exhausted their selling pressure, and buyers are gaining control, potentially setting the stage for a bullish move.\n \n \nAs of the latest data available from CoinGecko, Ethereum is tradi…",
-          "link": "https://bitcoinist.com/ethereum-rebound-trail-will-eth-hit-2000-again/",
-          "publishedOn": "2023-10-23T08:17:35.000Z",
-          "wordCount": 5491,
-          "title": "Ethereum Rebound Trail: Will ETH Hit $2,000 Again?",
-          "enclosure": {
-            "length": "1337",
-            "type": "image/jpeg",
-            "url": "https://bitcoinist.com/wp-content/uploads/2023/10/a-63.png"
-          },
-          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2023/10/a-63.png"
         }
       ]
     }

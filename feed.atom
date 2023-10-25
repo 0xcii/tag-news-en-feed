@@ -1,84 +1,306 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-25T16:18:42.292Z</id>
+    <id>urn:2023-10-25T17:12:18.465Z</id>
     <title>web3::cave</title>
-    <updated>2023-10-25T16:18:42.292Z</updated>
+    <updated>2023-10-25T17:12:18.465Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Ripple Triumphs as Judge Dismisses Charges Against Top Execs, Peter Schiff Predicts BTC Crash Ahead of ETF Verdict, Shibarium Gets New Feature: Crypto News Digest by U.Today]]></title>
-        <id>https://cryptopanic.com/news/18993912/Ripple-Triumphs-as-Judge-Dismisses-Charges-Against-Top-Execs-Peter-Schiff-Predicts-BTC-Crash-Ahead-of-ETF-Verdict-Shibarium-Gets-New-Feature-Crypto-News-Digest-by-UToday</id>
-        <link href="https://cryptopanic.com/news/18993912/Ripple-Triumphs-as-Judge-Dismisses-Charges-Against-Top-Execs-Peter-Schiff-Predicts-BTC-Crash-Ahead-of-ETF-Verdict-Shibarium-Gets-New-Feature-Crypto-News-Digest-by-UToday"/>
-        <updated>2023-10-25T16:05:00.000Z</updated>
-        <summary type="html"><![CDATA[Afraid of missing out on the crypto world's latest events? Read U.Today's news digest to stay tuned!]]></summary>
+        <title type="html"><![CDATA[Payment Splitting And Switching: Improving Privacy And Payment Success Simultaneously]]></title>
+        <id>http://www.inoreader.com/article/3a9c6e74a893c982</id>
+        <link href="https://bitcoinmagazine.com/technical/payment-splitting-and-switching-improving-privacy-and-payment-success-simultaneously"/>
+        <updated>2023-10-25T17:09:51.000Z</updated>
+        <summary type="html"><![CDATA[One of the fundamental limitations of the Lightning protocol is how payment routing is handled and accomplished. It is entirely source routed, meaning that the sender of a payment is the one who constructs the entire route from themselves to the receiver in order to facilitate the payment. This presents an issue when it comes to the changing balances of channels over time as they are routing payments between numerous different users across the network, once a sender "locks in" and decides on a specific route, that route cannot be changed until a failure message makes it way back to the sender, allowing them to construct an entirely new route going around the point where the initial attempt failed. 
+This necessitates either dealing with a cumbersome and annoying UX, or the use of payment pr…]]></summary>
+        <author>
+            <name>Shinobi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin ETF Will Send BTC Back To $44,000, Why This Trading Firm Is Betting On This Scenario]]></title>
+        <id>https://cryptopanic.com/news/18994026/Bitcoin-ETF-Will-Send-BTC-Back-To-44000-Why-This-Trading-Firm-Is-Betting-On-This-Scenario</id>
+        <link href="https://cryptopanic.com/news/18994026/Bitcoin-ETF-Will-Send-BTC-Back-To-44000-Why-This-Trading-Firm-Is-Betting-On-This-Scenario"/>
+        <updated>2023-10-25T17:00:05.000Z</updated>
+        <summary type="html"><![CDATA[The price of BTC continues to push higher, and the bullish momentum remains intact as news around the Bitcoin ETF (Exchange Traded Fund) improves overall sentiment. In the wake of the recent rally, some trading firms doubled down on their bullish positions. Related Reading: Galaxy Foresees...]]></summary>
         <author>
             <name>News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[iSun CEO Urges Practical Crypto Regulation via Collaboration]]></title>
-        <id>https://cryptopanic.com/news/18993908/iSun-CEO-Urges-Practical-Crypto-Regulation-via-Collaboration</id>
-        <link href="https://cryptopanic.com/news/18993908/iSun-CEO-Urges-Practical-Crypto-Regulation-via-Collaboration"/>
-        <updated>2023-10-25T16:05:00.000Z</updated>
-        <summary type="html"><![CDATA[iSun CEO Ieva Trinkūnaitė calls for practical crypto regulations ahead of Web3 Summit Vilnius 2023.]]></summary>
+        <title type="html"><![CDATA[Community Citadel Building]]></title>
+        <id>https://cryptopanic.com/news/18994049/Community-Citadel-Building</id>
+        <link href="https://cryptopanic.com/news/18994049/Community-Citadel-Building"/>
+        <updated>2023-10-25T17:00:04.000Z</updated>
+        <summary type="html"><![CDATA[Maya Parbhoe of Twentyone, Tom van Lamoen of Libertaire Partij (Dutch Libertarian Party), Erik Dale of Kongerik.et and George Mekhail of Bitcoin Magazine host a panel discussion about community citadel building. Lower your time preference and lock-in your Bitcoin 2024 conference tickets today!!!...]]></summary>
+        <author>
+            <name>News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LayerZero introduces omnichain token to move Lido’s wstETH across Avalanche, BNB Chain and Scroll]]></title>
+        <id>https://cryptopanic.com/news/18994027/LayerZero-introduces-omnichain-token-to-move-Lidos-wstETH-across-Avalanche-BNB-Chain-and-Scroll</id>
+        <link href="https://cryptopanic.com/news/18994027/LayerZero-introduces-omnichain-token-to-move-Lidos-wstETH-across-Avalanche-BNB-Chain-and-Scroll"/>
+        <updated>2023-10-25T17:00:03.000Z</updated>
+        <author>
+            <name>News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FTX Selling the Pump? Estate Moves $8.6M Ethereum, Chainlink, Aave and Maker to Binance]]></title>
+        <id>https://decrypt.co/?p=203262</id>
+        <link href="https://decrypt.co/203262/ftx-moves-8-6-million-ethereum-chainlink-aave-maker-to-binance"/>
+        <updated>2023-10-25T16:58:37.000Z</updated>
+        <summary type="html"><![CDATA[The funds are on the move again—this time to the collapsed exchange’s rival]]></summary>
+        <author>
+            <name>Mathew Di Salvo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BlackRock Seeding Spot-Based Bitcoin ETF As Financial Giant Gears Up To Launch BTC Trust: Bloomberg Analyst]]></title>
+        <id>https://cryptopanic.com/news/18994029/BlackRock-Seeding-Spot-Based-Bitcoin-ETF-As-Financial-Giant-Gears-Up-To-Launch-BTC-Trust-Bloomberg-Analyst</id>
+        <link href="https://cryptopanic.com/news/18994029/BlackRock-Seeding-Spot-Based-Bitcoin-ETF-As-Financial-Giant-Gears-Up-To-Launch-BTC-Trust-Bloomberg-Analyst"/>
+        <updated>2023-10-25T16:55:29.000Z</updated>
+        <summary type="html"><![CDATA[A Bloomberg analyst is reporting that BlackRock is “seeding” its spot Bitcoin (BTC) exchange-traded fund (ETF). Bloomberg senior ETF analyst Eric Balchunas notes that BlackRock announced the seeding in a recent amendment to their spot BTC ETF filing with the U.S. Securities and Exchange...]]></summary>
+        <author>
+            <name>News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NFT collection size and rarity explained]]></title>
+        <id>https://cryptopanic.com/news/18994010/NFT-collection-size-and-rarity-explained</id>
+        <link href="https://cryptopanic.com/news/18994010/NFT-collection-size-and-rarity-explained"/>
+        <updated>2023-10-25T16:50:02.000Z</updated>
+        <summary type="html"><![CDATA[Discover the significance of collection size and rarity in the world of collecting.]]></summary>
+        <author>
+            <name>News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crypto X keeps getting the Bitcoin ETF wrong]]></title>
+        <id>https://cryptopanic.com/news/18994009/Crypto-X-keeps-getting-the-Bitcoin-ETF-wrong</id>
+        <link href="https://cryptopanic.com/news/18994009/Crypto-X-keeps-getting-the-Bitcoin-ETF-wrong"/>
+        <updated>2023-10-25T16:49:59.000Z</updated>
+        <summary type="html"><![CDATA[Outlets and influencers have latched onto the fact that the ETF was listed at the Depository Trust & Clearing Corporation. But, so what?]]></summary>
+        <author>
+            <name>News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SEC’s Gensler stays true to form, uses Wednesday speech to say crypto is full of ‘fraud, scams, bankruptcies and money laundering’]]></title>
+        <id>https://cryptopanic.com/news/18994011/SECs-Gensler-stays-true-to-form-uses-Wednesday-speech-to-say-crypto-is-full-of-fraud-scams-bankruptcies-and-money-laundering</id>
+        <link href="https://cryptopanic.com/news/18994011/SECs-Gensler-stays-true-to-form-uses-Wednesday-speech-to-say-crypto-is-full-of-fraud-scams-bankruptcies-and-money-laundering"/>
+        <updated>2023-10-25T16:45:03.000Z</updated>
+        <author>
+            <name>News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Polygon launches POL token contract on Ethereum to eventually replace MATIC]]></title>
+        <id>https://cryptopanic.com/news/18994004/Polygon-launches-POL-token-contract-on-Ethereum-to-eventually-replace-MATIC</id>
+        <link href="https://cryptopanic.com/news/18994004/Polygon-launches-POL-token-contract-on-Ethereum-to-eventually-replace-MATIC"/>
+        <updated>2023-10-25T16:40:20.000Z</updated>
+        <author>
+            <name>News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Hits $35,000, Reaching 16-Month High Amid ETF Hype]]></title>
+        <id>https://decrypt.co/?p=203274</id>
+        <link href="https://decrypt.co/203274/bitcoin-hits-35000-reaching-16-month-high-amid-spot-etf-hype"/>
+        <updated>2023-10-25T16:36:19.000Z</updated>
+        <summary type="html"><![CDATA[Bitcoin continues its climb amid speculation of an imminent ETF approval, this time breaching a key milestone not seen since May 2022.]]></summary>
+        <author>
+            <name>Liam J. Kelly</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin = Anti-Totalitarianism]]></title>
+        <id>http://www.inoreader.com/article/3a9c6e74a8993861</id>
+        <link href="https://bitcoinmagazine.com/legal/bitcoin-anti-totalitarianism"/>
+        <updated>2023-10-25T16:35:55.000Z</updated>
+        <summary type="html"><![CDATA[In the face of ongoing challenges to our cherished freedoms, it is imperative to critically examine the forces at play that threaten the very fabric of democracy. The ideals of freedom and open markets are at risk of being undermined by influential political forces seeking to impose oppressive order and control in the name of security. This article delves into the pressing need to fix our manipulated markets, protect Bitcoin and its inherent anti-totalitarian qualities, and inform US policymakers that democratic values are what’s at stake. 
+The Erosion of Free Markets and Capitalism
+People who think we currently have capitalism and free and open markets haven’t been paying attention. The American economic landscape, once a paragon of capitalism, has undergone a seismic shift, particularly …]]></summary>
+        <author>
+            <name>Preston Pysh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Delist and Relist of BlackRock's ETF Sparks BTC Oscillation]]></title>
+        <id>https://cryptopanic.com/news/18993985/Delist-and-Relist-of-BlackRocks-ETF-Sparks-BTC-Oscillation</id>
+        <link href="https://cryptopanic.com/news/18993985/Delist-and-Relist-of-BlackRocks-ETF-Sparks-BTC-Oscillation"/>
+        <updated>2023-10-25T16:35:00.000Z</updated>
+        <summary type="html"><![CDATA[BlackRock's IBTC vanishes and reappears on DTCC's website, causing seismic shifts in Bitcoin's price and ETF anticipation.]]></summary>
+        <author>
+            <name>News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[$0.001 SHIB Price In View As Shiba Inu Sees Explosive Volume Amid Bitcoin’s Charge To $35,000]]></title>
+        <id>https://cryptopanic.com/news/18994014/0001-SHIB-Price-In-View-As-Shiba-Inu-Sees-Explosive-Volume-Amid-Bitcoins-Charge-To-35000</id>
+        <link href="https://cryptopanic.com/news/18994014/0001-SHIB-Price-In-View-As-Shiba-Inu-Sees-Explosive-Volume-Amid-Bitcoins-Charge-To-35000"/>
+        <updated>2023-10-25T16:30:44.000Z</updated>
+        <summary type="html"><![CDATA[Shiba Inu surged by 6% in the past 24 hours, riding the wave of Bitcoin's rise to $35,000, fueled by market excitement over the possible...]]></summary>
+        <author>
+            <name>News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is FTM reacting to the launch of Fantom Sonic?]]></title>
+        <id>https://cryptopanic.com/news/18993978/Is-FTM-reacting-to-the-launch-of-Fantom-Sonic</id>
+        <link href="https://cryptopanic.com/news/18993978/Is-FTM-reacting-to-the-launch-of-Fantom-Sonic"/>
+        <updated>2023-10-25T16:30:37.000Z</updated>
+        <summary type="html"><![CDATA[Fantom has announced "Sonic" as the next major upgrade, which will introduce new features and replace Opera.]]></summary>
+        <author>
+            <name>News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arbitrum to integrate its Orbit stack with Celestia for data availability]]></title>
+        <id>https://cryptopanic.com/news/18993958/Arbitrum-to-integrate-its-Orbit-stack-with-Celestia-for-data-availability</id>
+        <link href="https://cryptopanic.com/news/18993958/Arbitrum-to-integrate-its-Orbit-stack-with-Celestia-for-data-availability"/>
+        <updated>2023-10-25T16:30:03.000Z</updated>
+        <summary type="html"><![CDATA[The Arbitrum Foundation announced the integration of Celestia, the first modular data availability network, into its Orbit software stack.]]></summary>
         <author>
             <name>News</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[Shiba Inu Signal That Preceded Rallies Of At Least 71% Is Back]]></title>
-        <id>https://cryptopanic.com/news/18993860/Shiba-Inu-Signal-That-Preceded-Rallies-Of-At-Least-71-Is-Back</id>
-        <link href="https://cryptopanic.com/news/18993860/Shiba-Inu-Signal-That-Preceded-Rallies-Of-At-Least-71-Is-Back"/>
-        <updated>2023-10-25T15:53:09.000Z</updated>
+        <id>http://www.inoreader.com/article/3a9c6e74a89a7e2c</id>
+        <link href="https://bitcoinist.com/shiba-inu-signal-preceded-rallies-at-least-71-back/"/>
+        <updated>2023-10-25T16:28:54.000Z</updated>
+        <summary type="html"><![CDATA[Shiba Inu has just observed a buy signal that led to the memecoin seeing 71% and 118% rallies the last two times it appeared.
+ 
+Shiba Inu Has Seen A TD Sequential Buy Signal Recently
+ 
+As explained by analyst Ali in a new post on X, the SHIB weekly chart has observed a buy signal recently. The “TD (Tom Demark) Sequential” is a tool in technical analysis that’s used to time reversals in the price of an asset.
+ 
+There are two phases of the indicator: a 9 candle setup phase and a 13 candle countdown phase. The former of these starts when the price observes a flip and continues until the ninth candle is hit. At that point, the price hits a bottom or a top (depending on the surrounding price trend).
+ 
+ 
+Following the setup phase, the countdown phase begins. Once this TD Sequential phase hits th…]]></summary>
+        <author>
+            <name>Keshav Verma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Biggest Movers: LINK, SOL Race to Highest Levels Since 2022]]></title>
+        <id>http://www.inoreader.com/article/3a9c6e74a89a9fc8</id>
+        <link href="https://news.bitcoin.com/biggest-movers-link-sol-race-to-highest-levels-since-2022/"/>
+        <updated>2023-10-25T16:27:57.000Z</updated>
+        <summary type="html"><![CDATA[Chainlink extended recent gains on Wednesday, as the cryptocurrency rose to its highest point since last year. Prices rose by as much as 9% today, taking the total gain to 50% over the last seven days. Solana was another notable gainer, surging over the $33.00 mark.
+ 
+Chainlink (LINK)
+ 
+Chainlink (LINK) was a notable gainer on Wednesday, as the token rose to a by as much as 9% in today’s session.
+ 
+Following a low of $9.84 on Tuesday, LINK/USD rallied to an intraday peak at $11.55 earlier in the day.
+ 
+As a result of the move, the cryptocurrency climbed to its strongest point since last year, when price peaked over $12.00.
+ 
+ 
+Looking at the chart, the latest surge in price has kept the relative strength index (RSI) above the 80.00 level.
+ 
+At the time of writing, the index is tracking at 81.87, which is its highest point since August 2020, which is deep in overbought territory.
+ 
+LINK is trading at $11.13, as of writing.
+ 
+ 
+Solana (SOL)
+ 
+Solana (SOL) also rallied higher in today’s session, after climbing above the $33.00 level earlier in the day.
+ 
+SOL/USD climbed to a high at the $33.69 on Wednesday, which comes a day after falling to a low of $29.70.
+ 
+Today’s surge in price pushed solana to its highest level since last November, and comes after a breakout on the RSI.
+ 
+ 
+Price strength broke out of a ceiling at the 73.00 mark, with the index now tracking at a reading of 77.05.
+ 
+This is a marginal decline from a high of 82.00 earlier this week, which was also a key point of resistance.
+ 
+In order to move towards a possible target at $35.00, bulls will need to force a surge past the aforementioned 82.00 point.
+ 
+Register your email here to get weekly price analysis updates sent to your inbox:
+ 
+Could solana reach $35.00 in the coming days? Let us know your thoughts in the comments.]]></summary>
+        <author>
+            <name>Eliman Dambell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uniswap Foundation Sells Off $43M Worth of UNI Tokens in Three Days]]></title>
+        <id>https://cryptopanic.com/news/18993968/Uniswap-Foundation-Sells-Off-43M-Worth-of-UNI-Tokens-in-Three-Days</id>
+        <link href="https://cryptopanic.com/news/18993968/Uniswap-Foundation-Sells-Off-43M-Worth-of-UNI-Tokens-in-Three-Days"/>
+        <updated>2023-10-25T16:27:00.000Z</updated>
         <author>
             <name>News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Unprecedented series of Bitcoin inflows and outflows observed across exchanges]]></title>
-        <id>https://cryptopanic.com/news/18993868/Unprecedented-series-of-Bitcoin-inflows-and-outflows-observed-across-exchanges</id>
-        <link href="https://cryptopanic.com/news/18993868/Unprecedented-series-of-Bitcoin-inflows-and-outflows-observed-across-exchanges"/>
-        <updated>2023-10-25T15:50:19.000Z</updated>
-        <summary type="html"><![CDATA[Quick Take On Oct. 24, significant Bitcoin (BTC) exchange movements were recorded, signaling a potential market shift. Binance experienced its third major inflow of 2023, amassing approximately $320 million, a figure only surpassed on Apr. 21 and May. 25. Notably, transactions of $1 million or...]]></summary>
+        <title type="html"><![CDATA[Shiba Inu Whales Wake up, With Trillions of SHIB Moved]]></title>
+        <id>https://cryptopanic.com/news/18993988/Shiba-Inu-Whales-Wake-up-With-Trillions-of-SHIB-Moved</id>
+        <link href="https://cryptopanic.com/news/18993988/Shiba-Inu-Whales-Wake-up-With-Trillions-of-SHIB-Moved"/>
+        <updated>2023-10-25T16:25:00.000Z</updated>
         <author>
             <name>News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Polygon’s new ZK-based token is live on Ethereum mainnet]]></title>
-        <id>https://cryptopanic.com/news/18993853/Polygons-new-ZK-based-token-is-live-on-Ethereum-mainnet</id>
-        <link href="https://cryptopanic.com/news/18993853/Polygons-new-ZK-based-token-is-live-on-Ethereum-mainnet"/>
-        <updated>2023-10-25T15:48:06.000Z</updated>
-        <summary type="html"><![CDATA[The transition from MATIC to POL is part of the Polygon ecosystem’s 2.0 plans]]></summary>
+        <title type="html"><![CDATA[Coinbase To Delist Over 80 Trading Pairs, What It Could Mean For Bitcoin Spark]]></title>
+        <id>https://cryptopanic.com/news/18993983/Coinbase-To-Delist-Over-80-Trading-Pairs-What-It-Could-Mean-For-Bitcoin-Spark</id>
+        <link href="https://cryptopanic.com/news/18993983/Coinbase-To-Delist-Over-80-Trading-Pairs-What-It-Could-Mean-For-Bitcoin-Spark"/>
+        <updated>2023-10-25T16:22:01.000Z</updated>
         <author>
             <name>News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Crypto's Darkest Hour, and the Bright Day Ahead]]></title>
-        <id>https://cryptopanic.com/news/18993900/Cryptos-Darkest-Hour-and-the-Bright-Day-Ahead</id>
-        <link href="https://cryptopanic.com/news/18993900/Cryptos-Darkest-Hour-and-the-Bright-Day-Ahead"/>
-        <updated>2023-10-25T15:45:00.000Z</updated>
-        <summary type="html"><![CDATA[There really is a crypto future worth fighting for if we can just leave the crypto clowns behind.]]></summary>
+        <title type="html"><![CDATA[Listing Bitcoin ETF In Eligibility File Is Standard Practice, DTCC Claims: Report]]></title>
+        <id>https://cryptopanic.com/news/18993984/Listing-Bitcoin-ETF-In-Eligibility-File-Is-Standard-Practice-DTCC-Claims-Report</id>
+        <link href="https://cryptopanic.com/news/18993984/Listing-Bitcoin-ETF-In-Eligibility-File-Is-Standard-Practice-DTCC-Claims-Report"/>
+        <updated>2023-10-25T16:19:50.000Z</updated>
+        <summary type="html"><![CDATA[BlackRock's iShares Bitcoin Trust (IBTC) was included on the DTCC list on Monday, but it read more]]></summary>
         <author>
             <name>News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Are Rising Yields Putting the Squeeze on DeFi?]]></title>
-        <id>https://cryptopanic.com/news/18993901/Are-Rising-Yields-Putting-the-Squeeze-on-DeFi</id>
-        <link href="https://cryptopanic.com/news/18993901/Are-Rising-Yields-Putting-the-Squeeze-on-DeFi"/>
-        <updated>2023-10-25T15:45:00.000Z</updated>
-        <summary type="html"><![CDATA[In this week’s “Crypto Long & Short,” Todd Groth investigates the interplay between TradFi and DeFi yields and why comparisons across markets are often overly simplified apples vs oranges.]]></summary>
+        <title type="html"><![CDATA[Friend.tech sees record outflows as top user jumps ship]]></title>
+        <id>https://cryptopanic.com/news/18993931/Friendtech-sees-record-outflows-as-top-user-jumps-ship</id>
+        <link href="https://cryptopanic.com/news/18993931/Friendtech-sees-record-outflows-as-top-user-jumps-ship"/>
+        <updated>2023-10-25T16:16:02.000Z</updated>
         <author>
             <name>News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bitcoin ETF May Be A Catalyst For 74% Price Surge In 2024, Galaxy Researchers Say]]></title>
-        <id>https://cryptopanic.com/news/18993861/Bitcoin-ETF-May-Be-A-Catalyst-For-74-Price-Surge-In-2024-Galaxy-Researchers-Say</id>
-        <link href="https://cryptopanic.com/news/18993861/Bitcoin-ETF-May-Be-A-Catalyst-For-74-Price-Surge-In-2024-Galaxy-Researchers-Say"/>
-        <updated>2023-10-25T15:38:27.000Z</updated>
+        <title type="html"><![CDATA[82% of Bitcoin holders are ‘in the money’]]></title>
+        <id>https://cryptopanic.com/news/18993937/82-of-Bitcoin-holders-are-in-the-money</id>
+        <link href="https://cryptopanic.com/news/18993937/82-of-Bitcoin-holders-are-in-the-money"/>
+        <updated>2023-10-25T16:14:08.000Z</updated>
+        <summary type="html"><![CDATA[Bitcoin (BTC) is trading at $34,795 by press time, in a strong momentum for the leading cryptocurrency, with more than … Continued]]></summary>
+        <author>
+            <name>News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PEPE's Best Attribute Is Not Its 25% Surge, Here's What It Is]]></title>
+        <id>https://cryptopanic.com/news/18993940/PEPEs-Best-Attribute-Is-Not-Its-25-Surge-Heres-What-It-Is</id>
+        <link href="https://cryptopanic.com/news/18993940/PEPEs-Best-Attribute-Is-Not-Its-25-Surge-Heres-What-It-Is"/>
+        <updated>2023-10-25T16:10:00.000Z</updated>
+        <summary type="html"><![CDATA[PEPE price now up 25% to keep meme coin hype sustained]]></summary>
+        <author>
+            <name>News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ripple Triumphs as Judge Dismisses Charges Against Top Execs, Peter Schiff Predicts BTC Crash Ahead of ETF Verdict, Shibarium Gets New Feature: Crypto News Digest by U.Today]]></title>
+        <id>https://cryptopanic.com/news/18993912/Ripple-Triumphs-as-Judge-Dismisses-Charges-Against-Top-Execs-Peter-Schiff-Predicts-BTC-Crash-Ahead-of-ETF-Verdict-Shibarium-Gets-New-Feature-Crypto-News-Digest-by-UToday</id>
+        <link href="https://cryptopanic.com/news/18993912/Ripple-Triumphs-as-Judge-Dismisses-Charges-Against-Top-Execs-Peter-Schiff-Predicts-BTC-Crash-Ahead-of-ETF-Verdict-Shibarium-Gets-New-Feature-Crypto-News-Digest-by-UToday"/>
+        <updated>2023-10-25T16:05:00.000Z</updated>
+        <summary type="html"><![CDATA[Afraid of missing out on the crypto world's latest events? Read U.Today's news digest to stay tuned!]]></summary>
         <author>
             <name>News</name>
         </author>
@@ -109,15 +331,6 @@ What do you think about SBF testifying at his trial this week? Share your though
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Airdrop Alert: ChainGPT to Drop $50,000 with CoinMarketCap]]></title>
-        <id>https://cryptopanic.com/news/18993823/Airdrop-Alert-ChainGPT-to-Drop-50000-with-CoinMarketCap</id>
-        <link href="https://cryptopanic.com/news/18993823/Airdrop-Alert-ChainGPT-to-Drop-50000-with-CoinMarketCap"/>
-        <updated>2023-10-25T15:35:00.000Z</updated>
-        <author>
-            <name>News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Sam Bankman-Fried's Defense Wants to Highlight 'Inconsistent Statements' by FTX Insiders Gary Wang, Nishad Singh]]></title>
         <id>http://www.inoreader.com/article/3a9c6e74a8839833</id>
         <link href="https://www.coindesk.com/policy/2023/10/25/sam-bankman-frieds-defense-wants-to-highlight-inconsistent-statements-by-ftx-insiders-gary-wang-nishad-singh/?utm_medium=referral&amp;utm_source=rss&amp;utm_campaign=headlines"/>
@@ -135,110 +348,6 @@ What do you think about SBF testifying at his trial this week? Share your though
         <summary type="html"><![CDATA[Parallel is releasing new cards for its game via blind bundles. While little is known about the cards so far, some new art has been revealed.]]></summary>
         <author>
             <name>Kate Irwin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['Parallel' Game Adds Over 120 New NFT Cards in Planetfall Expansion]]></title>
-        <id>https://cryptopanic.com/news/18993822/Parallel-Game-Adds-Over-120-New-NFT-Cards-in-Planetfall-Expansion</id>
-        <link href="https://cryptopanic.com/news/18993822/Parallel-Game-Adds-Over-120-New-NFT-Cards-in-Planetfall-Expansion"/>
-        <updated>2023-10-25T15:31:02.000Z</updated>
-        <summary type="html"><![CDATA[Parallel is releasing new cards for its game via blind bundles. While little is known about the cards so far, some new art has been revealed.]]></summary>
-        <author>
-            <name>News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mike Higgins (Hidden Road) on Digital Asset Prime Brokerage (EP.464)]]></title>
-        <id>https://cryptopanic.com/news/18993825/Mike-Higgins-Hidden-Road-on-Digital-Asset-Prime-Brokerage-EP464</id>
-        <link href="https://cryptopanic.com/news/18993825/Mike-Higgins-Hidden-Road-on-Digital-Asset-Prime-Brokerage-EP464"/>
-        <updated>2023-10-25T15:28:36.000Z</updated>
-        <author>
-            <name>News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morgan Creek Digital Assets Co-Founder: Bitcoin Is the ‘Most Disciplined Central Bank in the World’]]></title>
-        <id>https://cryptopanic.com/news/18993820/Morgan-Creek-Digital-Assets-Co-Founder-Bitcoin-Is-the-Most-Disciplined-Central-Bank-in-the-World</id>
-        <link href="https://cryptopanic.com/news/18993820/Morgan-Creek-Digital-Assets-Co-Founder-Bitcoin-Is-the-Most-Disciplined-Central-Bank-in-the-World"/>
-        <updated>2023-10-25T15:27:59.000Z</updated>
-        <summary type="html"><![CDATA[On 25 October 2023, Anthony Pompliano, the founder of Pomp Investments and co-founder of Morgan Creek Digital Assets, appeared on CNBC’s “Squawk Box” to discuss various aspects of Bitcoin with co-anchor Joe Kernen. The conversation touched on Bitcoin’s recent price surge past $35,000, the...]]></summary>
-        <author>
-            <name>News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uncertainty abounds as generative AI use grows- ISACA poll reveals]]></title>
-        <id>https://cryptopanic.com/news/18993783/Uncertainty-abounds-as-generative-AI-use-grows-ISACA-poll-reveals</id>
-        <link href="https://cryptopanic.com/news/18993783/Uncertainty-abounds-as-generative-AI-use-grows-ISACA-poll-reveals"/>
-        <updated>2023-10-25T15:22:37.000Z</updated>
-        <summary type="html"><![CDATA[A recent poll conducted by ISACA, the global digital trust association, has shed light on the growing uncertainty surrounding generative artificial intelligence (AI). The poll, titled “Generative AI 2023: An ISACA Pulse Poll,” surveyed over 2,300 professionals working in fields such as...]]></summary>
-        <author>
-            <name>News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sam Bankman-Fried To Testify In Court: Crypto Market Holds Its Breath]]></title>
-        <id>https://cryptopanic.com/news/18993815/Sam-Bankman-Fried-To-Testify-In-Court-Crypto-Market-Holds-Its-Breath</id>
-        <link href="https://cryptopanic.com/news/18993815/Sam-Bankman-Fried-To-Testify-In-Court-Crypto-Market-Holds-Its-Breath"/>
-        <updated>2023-10-25T15:22:25.000Z</updated>
-        <author>
-            <name>News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Polygon 2.0 Witnesses Milestone: POL Contracts To Replace MATIC On Ethereum Mainnet]]></title>
-        <id>https://cryptopanic.com/news/18993816/Polygon-20-Witnesses-Milestone-POL-Contracts-To-Replace-MATIC-On-Ethereum-Mainnet</id>
-        <link href="https://cryptopanic.com/news/18993816/Polygon-20-Witnesses-Milestone-POL-Contracts-To-Replace-MATIC-On-Ethereum-Mainnet"/>
-        <updated>2023-10-25T15:21:26.000Z</updated>
-        <author>
-            <name>News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[dYdX Chain Finally Kicks off in Open Source, Welcomes dApps]]></title>
-        <id>https://cryptopanic.com/news/18993762/dYdX-Chain-Finally-Kicks-off-in-Open-Source-Welcomes-dApps</id>
-        <link href="https://cryptopanic.com/news/18993762/dYdX-Chain-Finally-Kicks-off-in-Open-Source-Welcomes-dApps"/>
-        <updated>2023-10-25T15:20:00.000Z</updated>
-        <summary type="html"><![CDATA[dYdX, one of oldest DeFi ecosystems, invites developers and users to try its original blockchain on Tendermint]]></summary>
-        <author>
-            <name>News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UK Regulator Warns About “Common Issues” in Crypto Marketing]]></title>
-        <id>https://cryptopanic.com/news/18993758/UK-Regulator-Warns-About-Common-Issues-in-Crypto-Marketing</id>
-        <link href="https://cryptopanic.com/news/18993758/UK-Regulator-Warns-About-Common-Issues-in-Crypto-Marketing"/>
-        <updated>2023-10-25T15:20:00.000Z</updated>
-        <author>
-            <name>News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pigeons Demonstrate AI-Like Problem Solving Skills in Recent Study]]></title>
-        <id>https://cryptopanic.com/news/18993759/Pigeons-Demonstrate-AI-Like-Problem-Solving-Skills-in-Recent-Study</id>
-        <link href="https://cryptopanic.com/news/18993759/Pigeons-Demonstrate-AI-Like-Problem-Solving-Skills-in-Recent-Study"/>
-        <updated>2023-10-25T15:18:47.000Z</updated>
-        <summary type="html"><![CDATA[In a groundbreaking study, researchers have discovered that pigeons, often regarded as simple creatures, exhibit problem-solving abilities akin to artificial intelligence (AI) systems. This revelation challenges conventional notions of avian cognition and suggests that pigeons employ a form of...]]></summary>
-        <author>
-            <name>News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Over 1,000 Indian police caught up in $240M crypto scam]]></title>
-        <id>https://cryptopanic.com/news/18993761/Over-1000-Indian-police-caught-up-in-240M-crypto-scam</id>
-        <link href="https://cryptopanic.com/news/18993761/Over-1000-Indian-police-caught-up-in-240M-crypto-scam"/>
-        <updated>2023-10-25T15:18:15.000Z</updated>
-        <author>
-            <name>News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Payments Platform Triple-A Announces $10 Million In Funding]]></title>
-        <id>https://cryptopanic.com/news/18993767/Crypto-Payments-Platform-Triple-A-Announces-10-Million-In-Funding</id>
-        <link href="https://cryptopanic.com/news/18993767/Crypto-Payments-Platform-Triple-A-Announces-10-Million-In-Funding"/>
-        <updated>2023-10-25T15:18:00.000Z</updated>
-        <author>
-            <name>News</name>
         </author>
     </entry>
     <entry>
@@ -520,75 +629,6 @@ Spencer Hallarn, global head of OTC trading at GSR, in a Blockworks report highl
         <summary type="html"><![CDATA[The Financial Conduct Authority has blocked Binance's chosen ad approver and added 221 firms to its warnings list since a new crypto marketing regime took effect on Oct.8.]]></summary>
         <author>
             <name>Sandali Handagama</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vodafone, Chainlink Show Blockchain Can Support Global Trade Processes]]></title>
-        <id>http://www.inoreader.com/article/3a9c6e74a86e7684</id>
-        <link href="https://www.coindesk.com/business/2023/10/25/vodafone-chainlink-show-blockchain-can-support-global-trade-processes/?utm_medium=referral&amp;utm_source=rss&amp;utm_campaign=headlines"/>
-        <updated>2023-10-25T11:57:17.000Z</updated>
-        <summary type="html"><![CDATA[The proof of concept enabled devices to act autonomously and produce accurate information to support global trade processes, the companies said.]]></summary>
-        <author>
-            <name>Camomile Shumba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zero Hash and Shift4 Collaborate on Fiat-to-Crypto On-Ramp for Web3]]></title>
-        <id>http://www.inoreader.com/article/3a9c6e74a86e7ca3</id>
-        <link href="https://www.financemagnates.com//cryptocurrency/zero-hash-and-shift4-collaborate-on-fiat-to-crypto-on-ramp-for-web3/"/>
-        <updated>2023-10-25T11:56:33.000Z</updated>
-        <summary type="html"><![CDATA[Zero  
-Hash, a crypto infrastructure platform, has unveiled its collaboration with  
-Shift4, an integrated payments and commerce technology platform. This  
-partnership aims to empower web3 merchants by building a fiat-to-crypto on-ramp  
-using Zero Hash's full-stack API.
-Customizable Fiat-to-Crypto  
-On-Ramp Enabled by Zero Hash's API Stack
-Key  
-highlights of the collaboration are as follows:
-
-Comprehensive  
-Solution:  
-Shift4 has integrated Zero Hash's turnkey crypto infrastructure, offering web3  
-merchants a unified solution that combines fiat and crypto capabilities.
-Identity  
-Verification:  
-Shift4 has harnessed Zero Hash's customer identity verification-as-a-service,  
-ensuring secure and compliant onboarding of users for crypto services.
-Customizable  
-On-Ramp: Using  
-Zero Hash…]]></summary>
-        <author>
-            <name>Tareq Sikder</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Binance Crypto Withdrawals Temporarily Unavailable Due to Technical Issues]]></title>
-        <id>http://www.inoreader.com/article/3a9c6e74a86fbaae</id>
-        <link href="https://www.coindesk.com/business/2023/10/25/binance-crypto-withdrawals-temporarily-unavailable-due-to-technical-issues/?utm_medium=referral&amp;utm_source=rss&amp;utm_campaign=headlines"/>
-        <updated>2023-10-25T11:49:17.000Z</updated>
-        <summary type="html"><![CDATA[Withdrawals on cryptocurrency exchange Binance are temporarily unavailable due to a "technical issue," according to a post on the exchange's X account.]]></summary>
-        <author>
-            <name>Oliver Knight</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Israeli Crypto-Based Aid Organization Says Nearly $200,000 Raised for October 7 Terror Victims]]></title>
-        <id>http://www.inoreader.com/article/3a9c6e74a869d44f</id>
-        <link href="https://news.bitcoin.com/israeli-crypto-based-aid-organization-says-nearly-200000-raised-for-october-7-terror-victims/"/>
-        <updated>2023-10-25T11:35:53.000Z</updated>
-        <summary type="html"><![CDATA[Nearly $200,000 has been raised by a non-profit organization launched by members of Israel’s Web3 community. More than 30 Web3 companies have since joined the campaign while the accounting firm KPMG is said to be assisting with fundraising and distribution. 
- 
-Web3 Companies Join Campaign
- 
-Crypto Aid Israel, a non-profit organization launched by influential leaders within the Israeli Web3 community, said nearly $200,000 has been raised as part of the Emergency Relief Initiative. Some of the funds raised have been distributed to organizations leading relief efforts for victims of the Oct. 7 attacks by Hamas.
- 
- 
-.@CryptoAidIsrael with almost $200K in Donations as 30+ Global Web3 Companies Join The Initiative  Am Israel Chai  #StandWithIsrael pic.twitter.com/WAU5FpTj5N
- 
-— CryptoAidIsrael (…]]></summary>
-        <author>
-            <name>Terence Zimwara</name>
         </author>
     </entry>
     <entry>
@@ -909,36 +949,6 @@ Crypto Aid Israel, a non-profit organization launched by influential leaders wit
         <summary type="html"><![CDATA[The last time the asset was this high was back in July.]]></summary>
         <author>
             <name>Mathew Di Salvo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin ETF Coming Soon? Delays Have SEC’s Hester Peirce ‘Mystified’]]></title>
-        <id>https://decrypt.co/?p=202826</id>
-        <link href="https://decrypt.co/202826/bitcoin-etf-coming-soon-delays-have-secs-hester-peirce-mystified"/>
-        <updated>2023-10-23T16:56:57.000Z</updated>
-        <summary type="html"><![CDATA[After Grayscale's court victory, Hester Peirce doesn't know what her agency is waiting for.]]></summary>
-        <author>
-            <name>Andrew Throuvalas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microstrategy’s Bitcoin Billions Back in Profit as ‘Digital Gold’ Nears $31K]]></title>
-        <id>https://decrypt.co/?p=202813</id>
-        <link href="https://decrypt.co/202813/microstrategys-bitcoin-in-the-green-digital-gold-rallies"/>
-        <updated>2023-10-23T16:37:27.000Z</updated>
-        <summary type="html"><![CDATA[BTC is fast closing in on $31,000 per coin—which means the largest public owner of the asset is making a return on its investment.]]></summary>
-        <author>
-            <name>Mathew Di Salvo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is the Lightning Network? Bitcoin's Scalability Solution.]]></title>
-        <id>https://decrypt.co/?p=5684</id>
-        <link href="https://decrypt.co/resources/bitcoin-lightning-network"/>
-        <updated>2023-10-23T14:00:02.000Z</updated>
-        <summary type="html"><![CDATA[Lightning Network is a scaling solution that attempts to address Bitcoin's slow transaction speeds and high transaction costs.]]></summary>
-        <author>
-            <name>Matt Hussey,Tim Copeland,Daniel Phillips</name>
         </author>
     </entry>
     <entry>

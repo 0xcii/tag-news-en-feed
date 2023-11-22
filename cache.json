@@ -611,7 +611,7 @@
           "description": "The founder of privacy-preserving mixnet Nym sat down with Decrypt at Web Summit to talk about its new decentralized VPN, the Web3 privacy landscape and why \"devs should be defended\" in the wake of the Tornado Cash crackdown.",
           "link": "https://decrypt.co/videos/interviews/aLTtY2aq/nym-ceo-harry-halpin-on-privacy-decentralized-vpns-and-tornado-cash",
           "publishedOn": "2023-11-16T18:08:52.000Z",
-          "wordCount": 6017,
+          "wordCount": 6050,
           "title": "Nym CEO Harry Halpin on Privacy, Decentralized VPNs and Tornado Cash",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/aLTtY2aq/poster.jpg",
@@ -731,7 +731,7 @@
           "description": "Artistic duo LoVid, aka Tali Hinkis and Kyle Lapidus, joins 5 Questions with SCENE to answer burning questions about art, lettuce, and the hellscape (in someone’s opinion) that is Miami.\n\nVideo shot and edited by Vincent Roazzi Jr.",
           "link": "https://decrypt.co/videos/interviews/E8BZZBWX/5-questions-with-scene-lovid",
           "publishedOn": "2023-11-08T21:47:02.000Z",
-          "wordCount": 5978,
+          "wordCount": 6011,
           "title": "5 Questions With SCENE: LoVid",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/E8BZZBWX/poster.jpg",
@@ -746,7 +746,7 @@
           "description": "This week our host is joined by Barney the founder of Vega Protocol. \n\nThey discuss the current state of DeFi, what's wrong with the apps being built today, whether or not privacy matters when its only applied to an L2, and most importantly-- which form of sales tax is the sexiest.",
           "link": "https://decrypt.co/videos/interviews/hgDzjboU/barney-on-defi-privacy-and-vega",
           "publishedOn": "2023-11-08T18:27:45.000Z",
-          "wordCount": 6214,
+          "wordCount": 6085,
           "title": "Barney on DeFi, Privacy, and Vega",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/hgDzjboU/poster.jpg",
@@ -868,54 +868,174 @@
       "siteUrl": "https://cryptopanic.com/",
       "articles": [
         {
+          "id": "https://cryptopanic.com/news/19054904/S14-E21-Rafael-Cordon-on-How-Bitcoin-Saved-the-Elections-in-Guatemala-with-OpenTimeStamps",
+          "author": null,
+          "description": "Bitcoin has recently fixed the presidential elections in Guatemala. How so? Rafael Cordon of Simple Proof is here to explain all about the power of OpenTimeStamps and how they can leverage the Bitcoin blockchain to prove that something really happened.",
+          "link": "https://cryptopanic.com/news/19054904/S14-E21-Rafael-Cordon-on-How-Bitcoin-Saved-the-Elections-in-Guatemala-with-OpenTimeStamps",
+          "publishedOn": "2023-11-22T06:52:39.000Z",
+          "wordCount": 596,
+          "title": "S14 E21: Rafael Cordon on How Bitcoin Saved the Elections in Guatemala with OpenTimeStamps",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/19054931/Wipro-and-NVIDIA-Forge-Alliance-to-Revolutionize-Healthcare-with-AI",
+          "author": null,
+          "description": "In a landmark development for healthcare technology, Wipro has announced a strategic collaboration with NVIDIA. This partnership is set to revolutionize the healthcare sector by accelerating the adoption of generative artificial intelligence (AI). Focused on implementing NVIDIA’s cutting-edge AI...",
+          "link": "https://cryptopanic.com/news/19054931/Wipro-and-NVIDIA-Forge-Alliance-to-Revolutionize-Healthcare-with-AI",
+          "publishedOn": "2023-11-22T06:49:34.000Z",
+          "wordCount": 592,
+          "title": "Wipro and NVIDIA Forge Alliance to Revolutionize Healthcare with AI",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/19054898/Binance-CEO-Pleads-Guilty-To-Criminal-Charges-Faces-10-Years-In-Jail-Details",
+          "author": null,
+          "description": "Binance, the world’s biggest cryptocurrency exchange, and billionaire Changpeng Zhao, have jointly confessed guilt in response to government accusations, representing a significant milestone in the effort to establish regulatory oversight in the frequently volatile cryptocurrency sector. Binance...",
+          "link": "https://cryptopanic.com/news/19054898/Binance-CEO-Pleads-Guilty-To-Criminal-Charges-Faces-10-Years-In-Jail-Details",
+          "publishedOn": "2023-11-22T06:40:50.000Z",
+          "wordCount": 596,
+          "title": "Binance CEO Pleads Guilty To Criminal Charges, Faces 10 Years In Jail – Details",
+          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2023/11/a-119.png"
+        },
+        {
+          "id": "https://cryptopanic.com/news/19054907/Upstart-Layer-2-Blast-Draws-In-100M-With-Airdrop-Scheme",
+          "author": null,
+          "description": "BLUR rallies as traders stake tokens for future BLAST rewards.",
+          "link": "https://cryptopanic.com/news/19054907/Upstart-Layer-2-Blast-Draws-In-100M-With-Airdrop-Scheme",
+          "publishedOn": "2023-11-22T06:40:41.000Z",
+          "wordCount": 592,
+          "title": "Upstart Layer 2 Blast Draws In $100M With Airdrop Scheme",
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/1cfcc732c8db65a462026b7ade33e62d02502a68-1920x1080.png"
+        },
+        {
+          "id": "https://cryptopanic.com/news/19054933/OpenAI-Unveils-Voice-Feature-for-ChatGPT-Amidst-Leadership-Upheaval",
+          "author": null,
+          "description": "OpenAI has unveiled a voice feature for its renowned ChatGPT chatbot. This advancement allows users to interact with ChatGPT using natural speech, marking a pivotal moment in the evolution of AI communication. The feature, previously available only to subscribers, is now accessible to all users...",
+          "link": "https://cryptopanic.com/news/19054933/OpenAI-Unveils-Voice-Feature-for-ChatGPT-Amidst-Leadership-Upheaval",
+          "publishedOn": "2023-11-22T06:21:19.000Z",
+          "wordCount": 591,
+          "title": "OpenAI Unveils Voice Feature for ChatGPT Amidst Leadership Upheaval",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/19054855/OpenAI-to-rehire-Sam-Altman-as-CEO-with-new-initial-board-members",
+          "author": null,
+          "description": "OpenAI says it has reached an agreement in principle for Sam Altman to return as CEO, with a new board including Bret Taylor as chairman, Larry Summers, and Adam D'Angelo.",
+          "link": "https://cryptopanic.com/news/19054855/OpenAI-to-rehire-Sam-Altman-as-CEO-with-new-initial-board-members",
+          "publishedOn": "2023-11-22T06:21:02.000Z",
+          "wordCount": 594,
+          "title": "OpenAI to rehire Sam Altman as CEO with new initial board members",
+          "imageUrl": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-11/6e41a649-b3bf-421b-b45e-f055d18728e6.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/19054886/Over-83-of-Bitcoin-Now-Profitable-After-Recent-BTC-Price-Surge",
+          "author": null,
+          "description": "Bitcoin has surged back into profitability, with over 83% of its circulating supply now in the green",
+          "link": "https://cryptopanic.com/news/19054886/Over-83-of-Bitcoin-Now-Profitable-After-Recent-BTC-Price-Surge",
+          "publishedOn": "2023-11-22T06:20:59.000Z",
+          "wordCount": 593,
+          "title": "Over 83% of Bitcoin Now Profitable After Recent BTC Price Surge",
+          "imageUrl": "https://u.today/sites/default/files/styles/twitter/public/2023-11/23534532453.jpeg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/19054854/Sam-Altman-to-Return-as-OpenAI-CEO-Following-In-Principle-Agreement",
+          "author": null,
+          "description": "\"I’m looking forward to returning to openai, and building on our strong partnership with msft (Microsoft),\" Altman said in a post early Wednesday.",
+          "link": "https://cryptopanic.com/news/19054854/Sam-Altman-to-Return-as-OpenAI-CEO-Following-In-Principle-Agreement",
+          "publishedOn": "2023-11-22T06:17:16.000Z",
+          "wordCount": 592,
+          "title": "Sam Altman to Return as OpenAI CEO Following In-Principle Agreement",
+          "imageUrl": "https://www.coindesk.com/resizer/GKgdvPXev186lwE2Tq9HZfDpAik=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/KHNFFQ3CINBZ3PKEG4ZPWXKEMI.png"
+        },
+        {
+          "id": "https://cryptopanic.com/news/19054856/Rethinking-Bitcoin-dominance-at-51-A-misleading-metric",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/19054856/Rethinking-Bitcoin-dominance-at-51-A-misleading-metric",
+          "publishedOn": "2023-11-22T06:16:18.000Z",
+          "wordCount": null,
+          "title": "Rethinking Bitcoin 'dominance' at 51% — A misleading metric?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/19054932/Grayscales-strategic-meeting-with-SEC-signals-progress-in-Bitcoin-ETF-ambitions",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/19054932/Grayscales-strategic-meeting-with-SEC-signals-progress-in-Bitcoin-ETF-ambitions",
+          "publishedOn": "2023-11-22T06:03:04.000Z",
+          "wordCount": null,
+          "title": "Grayscale’s strategic meeting with SEC signals progress in Bitcoin ETF ambitions",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/19054934/The-Rising-Tide-of-AI-Generated-Deepfake-Abuse-in-Schools",
+          "author": null,
+          "description": "In recent months, an alarming trend has emerged in American high schools, where the misuse of artificial intelligence (AI) to create realistic deepfake images has escalated. A notable case from a school outside Dallas, Texas, exemplifies this disturbing phenomenon. Ellis, a 14-year-old student,...",
+          "link": "https://cryptopanic.com/news/19054934/The-Rising-Tide-of-AI-Generated-Deepfake-Abuse-in-Schools",
+          "publishedOn": "2023-11-22T06:02:01.000Z",
+          "wordCount": 591,
+          "title": "The Rising Tide of AI-Generated Deepfake Abuse in Schools",
+          "imageUrl": null
+        },
+        {
           "id": "https://cryptopanic.com/news/19054824/Over-200M-in-Crypto-Futures-Bets-Liquidated-as-Bitcoin-Slumped-Under-36K-on-Binance-Settlement",
           "author": null,
-          "description": "The overnight price volatility in bitcoin and other cryptocurrencies washed out a notable chunk of leverage from the market, with bitcoin alone seeing more than $65 million worth of liquidations in futures markets.",
+          "description": "",
           "link": "https://cryptopanic.com/news/19054824/Over-200M-in-Crypto-Futures-Bets-Liquidated-as-Bitcoin-Slumped-Under-36K-on-Binance-Settlement",
           "publishedOn": "2023-11-22T05:55:19.000Z",
-          "wordCount": 597,
+          "wordCount": null,
           "title": "Over $200M in Crypto Futures Bets Liquidated as Bitcoin Slumped Under $36K on Binance Settlement",
-          "imageUrl": "https://www.coindesk.com/resizer/egijSOP7jgQARWU1p5SHn1dum-I=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/E26RCH2YLFBETAFYAP6KJTOF2Q.jpg"
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/19054852/Circles-Bridged-USDC-Standard-Boosts-New-Blockchains",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/19054852/Circles-Bridged-USDC-Standard-Boosts-New-Blockchains",
+          "publishedOn": "2023-11-22T05:39:16.000Z",
+          "wordCount": null,
+          "title": "Circle’s Bridged USDC Standard Boosts New Blockchains",
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/19054818/Over-225M-Worth-Of-Crypto-Positions-Liquidated-Amid-Binance-Shake-Up-Changpeng-Zhao-Exit",
           "author": null,
-          "description": "The cryptocurrency market has experienced a significant blow, with more than $225 million worth of positions being liquidated within a 24-hour timeframe. read more",
+          "description": "",
           "link": "https://cryptopanic.com/news/19054818/Over-225M-Worth-Of-Crypto-Positions-Liquidated-Amid-Binance-Shake-Up-Changpeng-Zhao-Exit",
           "publishedOn": "2023-11-22T05:30:24.000Z",
-          "wordCount": 595,
+          "wordCount": null,
           "title": "Over $225M Worth Of Crypto Positions Liquidated Amid Binance Shake-Up, Changpeng Zhao Exit",
-          "imageUrl": "https://cdn.benzinga.com/files/images/story/2023/Bitcoin-And-Cryptocurrency-Investing-Con.jpeg?width=1200&height=800&fit=crop"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/19054812/Ethereum-ETH-Price-Nears-Key-Support-Level",
           "author": null,
-          "description": "Despite the recent Ethereum price dip, investors remain in \"greed\" mode",
+          "description": "",
           "link": "https://cryptopanic.com/news/19054812/Ethereum-ETH-Price-Nears-Key-Support-Level",
           "publishedOn": "2023-11-22T05:26:22.000Z",
-          "wordCount": 589,
+          "wordCount": null,
           "title": "Ethereum (ETH) Price Nears Key Support Level",
-          "imageUrl": "https://u.today/sites/default/files/styles/twitter/public/2023-11/435353433.jpeg"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/19054796/Apple-CEO-Tim-Cook-Advocates-for-AI-Regulatory-Guardrails",
           "author": null,
-          "description": "In a candid conversation with singer Dua Lipa on the At Your Service podcast, Apple CEO Tim Cook delved into the realm of artificial intelligence, highlighting its life-changing potential while advocating for essential regulations and guardrails. Cook’s optimism about AI’s future was tempered by...",
+          "description": "",
           "link": "https://cryptopanic.com/news/19054796/Apple-CEO-Tim-Cook-Advocates-for-AI-Regulatory-Guardrails",
           "publishedOn": "2023-11-22T05:26:00.000Z",
-          "wordCount": 591,
+          "wordCount": null,
           "title": "Apple CEO Tim Cook Advocates for AI Regulatory Guardrails",
           "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/19054810/Bitcoin-Ethereum-Reel-From-Binance-CEO-Departure-FTX-Scars-As-Thanksgiving-Approaches-Heres-Why-Crypto-Dreads-November",
           "author": null,
-          "description": "As families in the United States warm up their homes for Thanksgiving festivities, the temperature in the cryptocurrency market seems to be moving in the opposite direction, symbolizing the financial chills that November has historically brought upon the crypto sector. read more",
+          "description": "",
           "link": "https://cryptopanic.com/news/19054810/Bitcoin-Ethereum-Reel-From-Binance-CEO-Departure-FTX-Scars-As-Thanksgiving-Approaches-Heres-Why-Crypto-Dreads-November",
           "publishedOn": "2023-11-22T05:23:53.000Z",
-          "wordCount": 600,
+          "wordCount": null,
           "title": "Bitcoin, Ethereum Reel From Binance CEO Departure, FTX Scars As Thanksgiving Approaches — Here's Why Crypto Dreads November",
-          "imageUrl": "https://cdn.benzinga.com/files/images/story/2023/Cryptocurrency-Photo-by-FellowNeko-on-Sh.jpeg?width=1200&height=800&fit=crop"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/19054798/Bittrex-Global-Announces-Winding-Down-of-Operations",
@@ -930,12 +1050,12 @@
         {
           "id": "https://cryptopanic.com/news/19054783/Jack-Dorsey-Scraps-Performance-Reviews-PIPs-For-Block-Employees",
           "author": null,
-          "description": "These changes come at a time when Block saw a 37.5% growth in Bitcoin revenue. read more",
+          "description": "",
           "link": "https://cryptopanic.com/news/19054783/Jack-Dorsey-Scraps-Performance-Reviews-PIPs-For-Block-Employees",
           "publishedOn": "2023-11-22T04:48:23.000Z",
-          "wordCount": 591,
+          "wordCount": null,
           "title": "Jack Dorsey Scraps Performance Reviews, PIPs For Block Employees",
-          "imageUrl": "https://cdn.benzinga.com/files/images/story/2023/Jack-Dorsey--Photo-courtesy-TED-Conferen.jpeg?width=1200&height=800&fit=crop"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/19054797/Circle-introduces-bridged-USDC-standard-to-enhance-network-deployments",
@@ -946,126 +1066,6 @@
           "wordCount": 591,
           "title": "Circle introduces ‘bridged USDC standard’ to enhance network deployments",
           "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/19054760/Chainlink-whales-make-waves-Is-a-surge-on-the-way",
-          "author": null,
-          "description": "Chainlink whales held over 8% of the Supply on Exchanges. LINK maintained a bull trend as of press time. Chainlink [LINK] whales executed strategic maneuvers before a notable price surge. Ha",
-          "link": "https://cryptopanic.com/news/19054760/Chainlink-whales-make-waves-Is-a-surge-on-the-way",
-          "publishedOn": "2023-11-22T04:30:37.000Z",
-          "wordCount": 592,
-          "title": "Chainlink whales make waves: Is a surge on the way?",
-          "imageUrl": "https://engamb.sfo2.digitaloceanspaces.com/wp-content/uploads/2023/11/21161400/ambcrypto_An_electrifying_digital_oceanic_scene_with_colossal_C_c7b2a08e-397e-4f06-b328-2ba33641d418-1.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/19054750/Ethereum-Price-Recovery-In-Trouble-Here-Are-Key-Hurdles-To-Fresh-Increase",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/19054750/Ethereum-Price-Recovery-In-Trouble-Here-Are-Key-Hurdles-To-Fresh-Increase",
-          "publishedOn": "2023-11-22T04:30:22.000Z",
-          "wordCount": null,
-          "title": "Ethereum Price Recovery In Trouble? Here Are Key Hurdles To Fresh Increase",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/19054762/Bitcoin-and-BNB-Recover-as-Binance-Plea-Seen-Boosting-Spot-ETF-Odds",
-          "author": null,
-          "description": "Some observers believe Binance's downfall has boosted the spot-ETF approval odds.",
-          "link": "https://cryptopanic.com/news/19054762/Bitcoin-and-BNB-Recover-as-Binance-Plea-Seen-Boosting-Spot-ETF-Odds",
-          "publishedOn": "2023-11-22T04:27:06.000Z",
-          "wordCount": 594,
-          "title": "Bitcoin and BNB Recover as Binance Plea Seen Boosting Spot ETF Odds",
-          "imageUrl": "https://www.coindesk.com/resizer/k4eZxinbZ3vMSeHmc64cWEIqVYg=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/EIW5CWDH7ZCXTHVND2CBAF5CVU.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/19054791/SEC-Continues-to-Drag-Feet-on-Coinbase-Call-For-Crypto-Clarity",
-          "author": null,
-          "description": "The US Securities and Exchange Commission has responded again to Coinbase’s call for crypto clarity with more procrastination and feet-dragging. Meanwhile, the agency continues to target digital asset exchanges for failing to register as securities brokers.  On Nov. 21, the SEC filed an update...",
-          "link": "https://cryptopanic.com/news/19054791/SEC-Continues-to-Drag-Feet-on-Coinbase-Call-For-Crypto-Clarity",
-          "publishedOn": "2023-11-22T04:21:21.000Z",
-          "wordCount": 593,
-          "title": "SEC Continues to Drag Feet on Coinbase Call For Crypto Clarity",
-          "imageUrl": "https://beincrypto.com/wp-content/uploads/2023/01/bic_Brian_Armstrong_Coinbase_neutral_2.png"
-        },
-        {
-          "id": "https://cryptopanic.com/news/19054741/Grayscale-met-with-SEC-to-discuss-spot-Bitcoin-ETF-details",
-          "author": null,
-          "description": "Grayscale executives and lawyers met with the SEC to discuss a rule change to list the Grayscale Bitcoin Trust (GBTC).",
-          "link": "https://cryptopanic.com/news/19054741/Grayscale-met-with-SEC-to-discuss-spot-Bitcoin-ETF-details",
-          "publishedOn": "2023-11-22T04:10:48.000Z",
-          "wordCount": 592,
-          "title": "Grayscale met with SEC to discuss spot Bitcoin ETF details",
-          "imageUrl": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-11/5107b82c-676e-4456-a0c1-ca1c99a98eac.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/19054638/CZ-pleads-Guilty-Binance-pays-43-Billion-Fine-Bullish",
-          "author": null,
-          "description": "CZ pleads Guilty, Binance pays $4.3 Billion Fine (Bullish)🌼 GET $30,000 in rewards on Bybit: https://partner.bybit.com/b/boxyt●▬▬▬▬▬▬▬Recommendations▬▬▬▬▬▬▬●📲Binance Exchange: http://boxmining.co/binance📖 Guides, tutorials and insights: https://boxmining.com/🔒Hardware Wallet:...",
-          "link": "https://cryptopanic.com/news/19054638/CZ-pleads-Guilty-Binance-pays-43-Billion-Fine-Bullish",
-          "publishedOn": "2023-11-22T03:53:12.000Z",
-          "wordCount": 591,
-          "title": "CZ pleads Guilty, Binance pays $4.3 Billion Fine (Bullish)",
-          "imageUrl": "https://i2.ytimg.com/vi/YdaBU9irjPU/hqdefault.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/19054716/Binance-ex-CEO-CZ-released-on-175-million-bond-after-US-criminal-charges",
-          "author": null,
-          "description": "Changpeng Zhao must agree to return to a Seattle court in February next year for sentence hearings, a bond document shows.",
-          "link": "https://cryptopanic.com/news/19054716/Binance-ex-CEO-CZ-released-on-175-million-bond-after-US-criminal-charges",
-          "publishedOn": "2023-11-22T03:50:50.000Z",
-          "wordCount": 594,
-          "title": "Binance ex-CEO CZ released on $175 million bond after U.S. criminal charges",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2021/12/20211208_Changpeng-Zhao-CZ-Binance-1200x675.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/19054712/Bitcoin-Price-Plunge-Due-to-Binances-Settlement-Could-Be-Buy-Dips-Heres-Why",
-          "author": null,
-          "description": "Bitcoin price declined over 4% and traded below the $36,500 support. BTC is still holding the key $35,650 support zone and dips might attract buyers. Bitcoin started a fresh decline after reports of Binance’s settlement and CZ stepping down. The price is trading below $37,000 and the 100 hourly...",
-          "link": "https://cryptopanic.com/news/19054712/Bitcoin-Price-Plunge-Due-to-Binances-Settlement-Could-Be-Buy-Dips-Heres-Why",
-          "publishedOn": "2023-11-22T03:31:51.000Z",
-          "wordCount": 596,
-          "title": "Bitcoin Price Plunge Due to Binance’s Settlement Could Be ‘Buy Dips’ – Here’s Why",
-          "imageUrl": "https://www.newsbtc.com/wp-content/uploads/2021/05/shutterstock_552258877.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/19054709/Can-AI-Images-Win-Elections-Mileis-Victory-Raises-Generative-AI-Questions",
-          "author": null,
-          "description": "In the Argentine presidential election, the ascent of Javier Milei to the presidency was not just a triumph of political strategy but also marked a paradigm shift in the use of technology. The deployment of generative AI became a pivotal tool for Milei and his rival, Sergio Massa, as they...",
-          "link": "https://cryptopanic.com/news/19054709/Can-AI-Images-Win-Elections-Mileis-Victory-Raises-Generative-AI-Questions",
-          "publishedOn": "2023-11-22T03:26:09.000Z",
-          "wordCount": 593,
-          "title": "Can AI Images Win Elections? Milei’s Victory Raises Generative AI Questions",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/19054730/ChatGPT-Launches-Voice-Feature-Free-for-Everyone",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/19054730/ChatGPT-Launches-Voice-Feature-Free-for-Everyone",
-          "publishedOn": "2023-11-22T03:12:40.000Z",
-          "wordCount": null,
-          "title": "ChatGPT Launches Voice Feature, Free for Everyone",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/19054710/Nvidias-Revenue-Surges-as-AI-Chip-Demand-Continues-to-Skyrocket",
-          "author": null,
-          "description": "Nvidia has reported an astounding triple-digit growth in its third-quarter revenue, reaching $18.12 billion. The driving force behind this unprecedented surge is the relentless demand for AI chips, primarily in the data center, powering tasks ranging from training large language models to...",
-          "link": "https://cryptopanic.com/news/19054710/Nvidias-Revenue-Surges-as-AI-Chip-Demand-Continues-to-Skyrocket",
-          "publishedOn": "2023-11-22T03:06:33.000Z",
-          "wordCount": 592,
-          "title": "Nvidia’s Revenue Surges as AI Chip Demand Continues to Skyrocket",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/19054675/Well-Capitalized-Trader-Triggers-300-Million-Market-Cap-Wipeout-Through-Intentional-Market-Manipulation",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/19054675/Well-Capitalized-Trader-Triggers-300-Million-Market-Cap-Wipeout-Through-Intentional-Market-Manipulation",
-          "publishedOn": "2023-11-22T03:00:00.000Z",
-          "wordCount": null,
-          "title": "‘Well-Capitalized’ Trader Triggers $300 Million Market Cap Wipeout Through ‘Intentional Market Manipulation’",
-          "imageUrl": null
         }
       ]
     },
@@ -1075,12 +1075,52 @@
       "siteUrl": "https://www.inoreader.com/stream/user/1005336866/tag/%E6%B5%B7%E5%A4%96%E5%8A%A0%E5%AF%86%E8%B5%84%E8%AE%AF/view/html",
       "articles": [
         {
+          "id": "http://www.inoreader.com/article/3a9c6e749e6ff846",
+          "author": "Christian Encila",
+          "description": "Binance, the world’s biggest cryptocurrency exchange, and billionaire Changpeng Zhao, have jointly confessed guilt in response to government accusations, representing a significant milestone in the effort to establish regulatory oversight in the frequently volatile cryptocurrency sector.\n \nBinance has agreed to pay more than $4 billion in fines and other charges as part of a settlement in which the whole federal government works together. Zhao is one of the most powerful people in the cryptocurrency world. He has decided to quit as CEO of the exchange he started and pay $200 million in fines.\n \nThe acknowledgment of culpability concerns the crypto exchange’s admittance of participation in illicit money transmission, anti-money laundering operations, and sanctions violations.\n \nBinance Situ…",
+          "link": "https://bitcoinist.com/binance-ceo-pleads-guilty-to-criminal-charges/",
+          "publishedOn": "2023-11-22T06:46:03.000Z",
+          "wordCount": 6169,
+          "title": "Binance CEO Pleads Guilty To Criminal Charges, Faces 10 Years In Jail – Details",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/jpeg",
+            "url": "https://bitcoinist.com/wp-content/uploads/2023/11/a-119.png?fit=631,420"
+          },
+          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2023/11/a-119.png?fit=631,420"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e749e6994ab",
+          "author": "Terence Zimwara",
+          "description": "According to Greece’s former finance minister, Yanis Varoufakis, Argentina’s president-elect Javier Milei is “no anarcho-capitalist.” The former finance minister said Milei’s plan to fight inflation with dollarization “is like nuking a country to get rid of Covid-19.”\n \nMilei a Dictator in Libertarian Clothing\n \nFormer Greece finance minister and anti-capitalist, Yanis Varoufakis, has warned that Argentina’s incoming president Javier Milei is “no anarcho-capitalist” as many libertarians would like to believe. Instead, Varoufakis, now an economics professor, said he sees the far-right winner of the Nov. 19 poll as another (Jorge Rafael) Videla but in libertarian clothing. Videla was Argentina’s military ruler between 1976 and 1981.\n \nThe remarks by Varoufakis, who led Greece’s debt renegoti…",
+          "link": "https://news.bitcoin.com/argentinas-president-elect-javier-milei-no-anarcho-capitalist-says-former-greek-finance-minister/",
+          "publishedOn": "2023-11-22T06:32:31.000Z",
+          "wordCount": 237,
+          "title": "Argentina’s President-Elect Javier Milei ‘No Anarcho-Capitalist’ Says Former Greek Finance Minister",
+          "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2023/11/shutterstock_331503632.jpg"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e749e6a0df9",
+          "author": "Shaurya Malwa",
+          "description": "\"I’m looking forward to returning to openai, and building on our strong partnership with msft (Microsoft),\" Altman said in a post early Wednesday.",
+          "link": "https://www.coindesk.com/tech/2023/11/22/sam-altman-to-return-as-openai-ceo-following-in-principle-agreement/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2023-11-22T06:28:36.000Z",
+          "wordCount": 9894,
+          "title": "Sam Altman to Return as OpenAI CEO Following In-Principle Agreement",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/png",
+            "url": "https://www.coindesk.com/resizer/7-14aLtPawFavJ-5zlR2ekCQQOI=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/KHNFFQ3CINBZ3PKEG4ZPWXKEMI.png"
+          },
+          "imageUrl": "https://www.coindesk.com/resizer/7-14aLtPawFavJ-5zlR2ekCQQOI=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/KHNFFQ3CINBZ3PKEG4ZPWXKEMI.png"
+        },
+        {
           "id": "http://www.inoreader.com/article/3a9c6e749e6b387e",
           "author": "Shaurya Malwa",
           "description": "The overnight price volatility in bitcoin and other cryptocurrencies washed out a notable chunk of leverage from the market, with bitcoin alone seeing more than $65 million worth of liquidations in futures markets.",
           "link": "https://www.coindesk.com/markets/2023/11/22/over-200m-in-crypto-futures-bets-liquidated-as-bitcoin-slumped-under-36k-on-binance-settlement/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-11-22T06:18:59.000Z",
-          "wordCount": 10571,
+          "wordCount": 10573,
           "title": "Over $200M in Crypto Futures Bets Liquidated as Bitcoin Slumped Under $36K on Binance Settlement",
           "enclosure": {
             "length": "1337",
@@ -1095,7 +1135,7 @@
           "description": "Some observers believe Binance's downfall has boosted the spot-ETF approval odds.",
           "link": "https://www.coindesk.com/markets/2023/11/22/bitcoin-and-bnb-recovery-as-binance-plea-seen-boosting-spot-etf-odds/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-11-22T04:59:48.000Z",
-          "wordCount": 10275,
+          "wordCount": 10293,
           "title": "Bitcoin and BNB Recovery as Binance Plea Seen Boosting Spot ETF Odds",
           "enclosure": {
             "length": "1337",
@@ -1130,7 +1170,7 @@
           "description": "The \"historic\" settlement with the DOJ, CFTC and U.S. Treasury many finally allow the firm to come into compliance. But if it does, can the world's largest crypto exchange still grow?",
           "link": "https://www.coindesk.com/consensus-magazine/2023/11/22/is-binance-big-enough-to-survive-a-43b-fine-and-founder-czs-ousting/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-11-22T02:12:01.000Z",
-          "wordCount": 13284,
+          "wordCount": 13273,
           "title": "Is Binance Big Enough to Survive a $4.3B Fine and Founder CZ’s Ousting?",
           "enclosure": {
             "length": "1337",
@@ -1145,7 +1185,7 @@
           "description": "Binance is paying one of the largest fines in corporate history to the U.S. Department of Justice, while its founder and CEO, Changpeng \"CZ\" Zhao, stepped down from his role running the platform as part of a settlement with multiple federal agencies. Meanwhile, Kraken is facing a lawsuit from the U.S. Securities and Exchange Commission that echoes the SEC's previous wave of suits.",
           "link": "https://www.coindesk.com/policy/2023/11/22/binances-busy-day-krakens-second-sec-fight/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-11-22T01:44:41.000Z",
-          "wordCount": 15012,
+          "wordCount": 15023,
           "title": "Binance's Busy Day, Kraken's Second SEC Fight",
           "enclosure": {
             "length": "1337",
@@ -1170,7 +1210,7 @@
           "description": "Binance founder and former CEO Changpeng \"CZ\" Zhao has been released from custody on a $175 million personal recognizance bond.",
           "link": "https://www.coindesk.com/policy/2023/11/22/binance-founder-changpeng-cz-zhao-released-on-175m-bond-will-be-sentenced-in-february/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-11-22T01:12:29.000Z",
-          "wordCount": 10339,
+          "wordCount": 10354,
           "title": "Binance Founder Changpeng 'CZ' Zhao Released on $175M Bond, Will Be Sentenced in February",
           "enclosure": {
             "length": "1337",
@@ -1195,7 +1235,7 @@
           "description": "We probably will never see another company quite like Binance. Crypto itself might be borderless, but crypto companies are not beyond the reach of US law.",
           "link": "https://www.coindesk.com/consensus-magazine/2023/11/21/binances-cz-and-the-end-of-the-borderless-crypto-company/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-11-22T00:20:02.000Z",
-          "wordCount": 11334,
+          "wordCount": 11346,
           "title": "Binance's CZ and the End of the 'Borderless' Crypto Company",
           "enclosure": {
             "length": "1337",
@@ -1235,7 +1275,7 @@
           "description": "Crypto exchange Binance and its founder, Changpeng \"CZ\" Zhao will pay nearly $3 billion in fines to the Commodity Futures Trading Commission to settling the regulator's lawsuit against it. The company is also settling with the U.S. Department of Justice and Treasury Department in parallel actions on Tuesday.",
           "link": "https://www.coindesk.com/policy/2023/11/21/binance-changpeng-cz-zhao-to-pay-285b-fine-in-cftc-settlement/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-11-21T22:38:49.000Z",
-          "wordCount": 11078,
+          "wordCount": 11100,
           "title": "Binance, Changpeng 'CZ' Zhao to Pay $2.85B Fine in CFTC Settlement",
           "enclosure": {
             "length": "1337",
@@ -1265,7 +1305,7 @@
           "description": "The former Binance CEO will remain a shareholder and a consultant for the company.",
           "link": "https://www.coindesk.com/business/2023/11/21/whats-next-for-ex-binance-ceo-cz-passive-investing-defi/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-11-21T21:32:56.000Z",
-          "wordCount": 10085,
+          "wordCount": 10097,
           "title": "What's Next for Ex-Binance CEO CZ? Passive Investing, DeFi",
           "enclosure": {
             "length": "1337",
@@ -1297,47 +1337,7 @@
           "publishedOn": "2023-11-21T21:04:50.000Z",
           "wordCount": 264,
           "title": "DOJ Announces $4.3 Billion Settlement With Binance; CZ to Step Down as Part of Plea Deal",
-          "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2023/11/dojbibabbbbb.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAYIWLWC3GPQWL5SMB%2F20231121%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231121T210007Z&X-Amz-SignedHeaders=host&X-Amz-Expires=600&X-Amz-Signature=431b9be3ec96ca4c63330ccc7afccfb2bc6934624a0d96b2b02e41f25e269f8c"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e749e2d3a4d",
-          "author": "Nikhilesh De",
-          "description": "Crypto exchange Binance will leave the U.S., pay billions in fines and appoint a monitor for five years to settle charges with the Financial Crimes Enforcement Network (FinCEN) and Office of Foreign Asset Control (OFAC), the U.S. Treasury Department's money laundering and sanctions watchdogs, according to press releases shared Tuesday.",
-          "link": "https://www.coindesk.com/policy/2023/11/21/binance-to-make-complete-exit-from-us-pay-billions-to-fincen-ofac-on-top-of-doj-settlement/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-          "publishedOn": "2023-11-21T20:55:13.000Z",
-          "wordCount": 10903,
-          "title": "Binance to Make 'Complete Exit' From U.S., Pay Billions to FinCEN, OFAC on Top of DOJ Settlement",
-          "enclosure": {
-            "length": "1337",
-            "type": "image/jpeg",
-            "url": "https://www.coindesk.com/resizer/lN6TpvwARKDmPe0kyiq4CcTIoZA=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/2ACUZMITE5AVHBOB6H4T2LSZXQ.jpg"
-          },
-          "imageUrl": "https://www.coindesk.com/resizer/lN6TpvwARKDmPe0kyiq4CcTIoZA=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/2ACUZMITE5AVHBOB6H4T2LSZXQ.jpg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e749e2f11b3",
-          "author": "Danny Nelson",
-          "description": "Charging documents unsealed Tuesday against the crypto exchange and founder Changpeng \"CZ\" Zhao detail years of compliance failures and obfuscation in the name of protecting Binance's most valuable – and off-limits – users.",
-          "link": "https://www.coindesk.com/business/2023/11/21/binance-got-huge-due-to-us-customers-that-was-illegal-us-says/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-          "publishedOn": "2023-11-21T20:39:45.000Z",
-          "wordCount": 11166,
-          "title": "Binance Got Huge Due to U.S. Customers. That Was Illegal, U.S. Says",
-          "enclosure": {
-            "length": "1337",
-            "type": "image/jpeg",
-            "url": "https://www.coindesk.com/resizer/XuFdZQfimwxIM2Ad2FYVpck33_A=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/4VTBM4GPTFFDDNFTMVBQGK6FYE.jpg"
-          },
-          "imageUrl": "https://www.coindesk.com/resizer/XuFdZQfimwxIM2Ad2FYVpck33_A=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/4VTBM4GPTFFDDNFTMVBQGK6FYE.jpg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e749e2fec02",
-          "author": "Terence Zimwara",
-          "description": "An Africa-focused remittances firm, Zazuu, has become the latest fintech startup to close shop after it failed to raise extra funding. Zazuu and other African fintechs’ funding problems are said to be linked to the collapse of Silicon Valley Bank in the U.S.\n \nZazuu Shuts Down Just Over a Year After Raising $2 Million\n \nZazuu, an Africa-focused cross-border remittances fintech startup, recently said its inability to secure additional funding had forced it to shut down. The startup’s decision to close shop come just over a year after it raised $2 million from investors that included Launch Africa, Founders Factory, and rapper Tinie Tempah.\n \nIn a Linkedin post explaining the “difficult news,” Zazuu said it had worked hard to make cross-border money transfers “fair.” However, the funding cli…",
-          "link": "https://news.bitcoin.com/africa-focused-remittances-fintech-zazuu-shut-downs-after-failing-to-secure-additional-funding/",
-          "publishedOn": "2023-11-21T20:32:40.000Z",
-          "wordCount": 242,
-          "title": "Africa-Focused Remittances Fintech Zazuu Shut Downs After Failing to Secure Additional Funding",
-          "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2023/11/shutterstock_1725814660.jpg"
+          "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2023/11/dojbibabbbbb.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAYIWLWC3GPQWL5SMB%2F20231121%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231121T210520Z&X-Amz-SignedHeaders=host&X-Amz-Expires=600&X-Amz-Signature=f3fba9d55f2dfa3ae261280c5640bd51f5121d18a04623f20c7556ce77516af6"
         }
       ]
     }

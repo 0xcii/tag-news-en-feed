@@ -251,7 +251,7 @@
           "description": "Artist Jeff Davis joins 5 Questions with SCENE to answer burning questions about his artistic practice, the path that brought him to Art Blocks, and his quietly sophisticated DJ abilities.\n\nVideo shot and edited by Vincent Roazzi Jr.",
           "link": "https://decrypt.co/videos/interviews/PChJu1R8/5-questions-with-scene-jeff-davis",
           "publishedOn": "2023-11-17T21:30:00.000Z",
-          "wordCount": 6704,
+          "wordCount": 6542,
           "title": "5 Questions With SCENE: Jeff Davis",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/PChJu1R8/poster.jpg",
@@ -281,7 +281,7 @@
           "description": "”The board no longer has confidence in his ability to continue leading OpenAI,” a company statement read.",
           "link": "https://decrypt.co/206531/sam-altman-out-as-ceo-of-openai-was-not-consistently-candid-with-company-board",
           "publishedOn": "2023-11-17T20:47:49.000Z",
-          "wordCount": 9912,
+          "wordCount": 9945,
           "title": "Sam Altman Out as CEO of OpenAI, Was 'Not Consistently Candid' With Company Board",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/05/Decrypt-Wallpaper-Format-22-gID_7.png@png",
@@ -371,7 +371,7 @@
           "description": "Ed Newton-Rex resigned from Stability AI, contesting the company's assertion that using copyrighted content in AI training is \"fair use.\"",
           "link": "https://decrypt.co/206307/former-vp-leaves-stability-ai-over-copyright-concerns",
           "publishedOn": "2023-11-16T03:11:30.000Z",
-          "wordCount": 10553,
+          "wordCount": 10586,
           "title": "Former VP Leaves Stability AI Over Copyright Concerns",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/11/Decrypt-Wallpaper-Format-2023-11-15T185533.936-gID_7.png@png",
@@ -913,6 +913,46 @@
       "siteUrl": "https://cryptopanic.com/",
       "articles": [
         {
+          "id": "https://cryptopanic.com/news/19060170/Justin-Sun-Could-Be-the-Next-Sam-Bankman-Fried-Analyst-Claims",
+          "author": null,
+          "description": "A prominent crypto YouTube channel, “Discover Crypto,” has argued that the HTX exchange, under the advisory of Tron founder Justin Sun, could be the next FTX amid the alleged scandals surrounding Justin Sun. The channel host contented that Justin Sun is no different from Sam Bankman-Fried, the...",
+          "link": "https://cryptopanic.com/news/19060170/Justin-Sun-Could-Be-the-Next-Sam-Bankman-Fried-Analyst-Claims",
+          "publishedOn": "2023-11-24T05:45:48.000Z",
+          "wordCount": 592,
+          "title": "Justin Sun Could Be the Next Sam Bankman-Fried, Analyst Claims",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/19060161/Binance-Bitcoin-Reserves-Shed-200-Million-Amid-Ex-CEOs-US-Detainment-Threat",
+          "author": null,
+          "description": "After the cryptocurrency exchange and its former CEO, Changpeng Zhao, entered a guilty plea to federal charges in the United States, Binance’s Bitcoin reserves were reduced by $200 million. Although CZ has paid his bond, prosecutors are attempting to have him stay in the US until he is...",
+          "link": "https://cryptopanic.com/news/19060161/Binance-Bitcoin-Reserves-Shed-200-Million-Amid-Ex-CEOs-US-Detainment-Threat",
+          "publishedOn": "2023-11-24T05:36:16.000Z",
+          "wordCount": 593,
+          "title": "Binance Bitcoin Reserves Shed $200 Million Amid Ex-CEO’s US Detainment Threat",
+          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2023/11/a-127.png"
+        },
+        {
+          "id": "https://cryptopanic.com/news/19060176/Australians-Receive-Major-Crypto-Warning-from-Top-Regulator",
+          "author": null,
+          "description": "The Australian Securities and Investments Commission (ASIC) is ramping up its vigilance on the cryptocurrency market with fresh warnings",
+          "link": "https://cryptopanic.com/news/19060176/Australians-Receive-Major-Crypto-Warning-from-Top-Regulator",
+          "publishedOn": "2023-11-24T05:31:49.000Z",
+          "wordCount": 590,
+          "title": "Australians Receive Major Crypto Warning from Top Regulator",
+          "imageUrl": "https://u.today/sites/default/files/styles/twitter/public/2023-11/30589.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/19060152/FTX-Token-Rallies-Again-Outperforms-BTC-by-255-In-3-Weeks",
+          "author": null,
+          "description": "Santiment, the blockchain intelligence platform, revealed in an X post today that the native token for the collapsed FTX exchange, FTX Token (FTT), underwent another rally over the past 24 hours. In the post, Santiment listed the recent Binance news as the main catalyst for the altcoin’s strong...",
+          "link": "https://cryptopanic.com/news/19060152/FTX-Token-Rallies-Again-Outperforms-BTC-by-255-In-3-Weeks",
+          "publishedOn": "2023-11-24T05:14:14.000Z",
+          "wordCount": 593,
+          "title": "FTX Token Rallies Again, Outperforms BTC by 255% In 3 Weeks",
+          "imageUrl": null
+        },
+        {
           "id": "https://cryptopanic.com/news/19060133/SBF-turns-to-trading-Mackerel-to-afford-prison-services-Its-fishy",
           "author": null,
           "description": "Looks like Sam Bankman-Fried’s (SBF) crypto days are over following reports of the former CEO of the collapsed FTX crypto exchange trading mackerel for services in prison. Clearly, the crypto-billionaire has decided to become resourceful and take advantage of the prison currency in order to...",
@@ -1005,30 +1045,30 @@
         {
           "id": "https://cryptopanic.com/news/19060071/Binance-Slapped-With-Hefty-43B-Fine-Can-It-Actually-Pay-It",
           "author": null,
-          "description": "",
+          "description": "The world’s largest cryptocurrency exchange has been charged with one of the largest corporate penalties in U.S. history.",
           "link": "https://cryptopanic.com/news/19060071/Binance-Slapped-With-Hefty-43B-Fine-Can-It-Actually-Pay-It",
           "publishedOn": "2023-11-24T03:20:55.000Z",
-          "wordCount": null,
+          "wordCount": 594,
           "title": "Binance Slapped With Hefty $4.3B Fine – Can It Actually Pay It?",
-          "imageUrl": null
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/d2952cc145d72a95c95f17f62087ddf218b160c9-828x466.webp"
         },
         {
           "id": "https://cryptopanic.com/news/19060057/AI-Driven-Lung-Cancer-Detection-Offers-Hope-to-Non-Smokers",
           "author": null,
-          "description": "",
+          "description": "At the Radiological Society of North America (RSNA) annual meeting, AI-driven lung cancer detection revolutionized the paradigm of lung cancer detection in a groundbreaking development. The focus of this pioneering approach lies in identifying non-smokers at high risk for lung cancer through the...",
           "link": "https://cryptopanic.com/news/19060057/AI-Driven-Lung-Cancer-Detection-Offers-Hope-to-Non-Smokers",
           "publishedOn": "2023-11-24T03:20:16.000Z",
-          "wordCount": null,
+          "wordCount": 590,
           "title": "AI-Driven Lung Cancer Detection Offers Hope to Non-Smokers",
           "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/19060058/AI-Generated-Scams-Amherst-Expert-Exposes-Dark-Side-of-AI",
           "author": null,
-          "description": "In a chilling revelation, Amherst attorney Steve Weisman has unveiled the dark underbelly of artificial intelligence, exposing the growing threat posed by scammers utilizing AI-generated content to deceive unsuspecting victims. The recent surge in a cryptocurrency investment scam, where an...",
+          "description": "",
           "link": "https://cryptopanic.com/news/19060058/AI-Generated-Scams-Amherst-Expert-Exposes-Dark-Side-of-AI",
           "publishedOn": "2023-11-24T03:15:00.000Z",
-          "wordCount": 592,
+          "wordCount": null,
           "title": "AI-Generated Scams – Amherst Expert Exposes Dark Side of AI",
           "imageUrl": null
         },
@@ -1071,46 +1111,6 @@
           "wordCount": null,
           "title": "Spanish Influencer Agency Shuns Humans for AI Influencer Aitana Lopez",
           "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/19060033/Bitcoin-Ethereum-Dogecoin-Trade-Mixed-On-Thanksgiving-Eve-Analyst-Predicts-Inevitable-Surge-Above-40K-For-Apex-Crypto-Following-Binance-Settlement",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/19060033/Bitcoin-Ethereum-Dogecoin-Trade-Mixed-On-Thanksgiving-Eve-Analyst-Predicts-Inevitable-Surge-Above-40K-For-Apex-Crypto-Following-Binance-Settlement",
-          "publishedOn": "2023-11-24T02:43:13.000Z",
-          "wordCount": null,
-          "title": "Bitcoin, Ethereum, Dogecoin Trade Mixed On Thanksgiving Eve: Analyst Predicts 'Inevitable' Surge Above $40K For Apex Crypto Following Binance Settlement",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/19060028/BNB-Chain-L2-opBNB-The-next-destination-for-GameFi",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/19060028/BNB-Chain-L2-opBNB-The-next-destination-for-GameFi",
-          "publishedOn": "2023-11-24T02:30:01.000Z",
-          "wordCount": null,
-          "title": "BNB Chain L2 opBNB: The next destination for GameFi?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/19060015/Strap-yourselves-in-Bull-market-coming-early-2024-say-crypto-exchange-heads",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/19060015/Strap-yourselves-in-Bull-market-coming-early-2024-say-crypto-exchange-heads",
-          "publishedOn": "2023-11-24T02:27:00.000Z",
-          "wordCount": null,
-          "title": "‘Strap yourselves in’ — Bull market coming early 2024, say crypto exchange heads",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/19059958/Bitcoin-Oh-Sht-He-Lost-MILLIONS",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/19059958/Bitcoin-Oh-Sht-He-Lost-MILLIONS",
-          "publishedOn": "2023-11-24T02:09:37.000Z",
-          "wordCount": null,
-          "title": "Bitcoin, Oh Sh*t! He Lost MILLIONS",
-          "imageUrl": null
         }
       ]
     },
@@ -1119,6 +1119,21 @@
       "feedUrl": "https://www.inoreader.com/stream/user/1005336866/tag/%E6%B5%B7%E5%A4%96%E5%8A%A0%E5%AF%86%E8%B5%84%E8%AE%AF",
       "siteUrl": "https://www.inoreader.com/stream/user/1005336866/tag/%E6%B5%B7%E5%A4%96%E5%8A%A0%E5%AF%86%E8%B5%84%E8%AE%AF/view/html",
       "articles": [
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e749dba5900",
+          "author": "Christian Encila",
+          "description": "After the cryptocurrency exchange and its former CEO, Changpeng Zhao, entered a guilty plea to federal charges in the United States, Binance’s Bitcoin reserves were reduced by $200 million.\n \nAlthough CZ has paid his bond, prosecutors are attempting to have him stay in the US until he is sentenced.\n \nBased on on-chain data collected by CryptoQuant, Bitcoin is moving from Binance to Coinbase since yesterday. The research firm recently noted that, compared to Binance, Coinbase’s reserves have reduced by 5,000 BTC, whereas Coinbase’s have grown by approximately 12,000 BTC.\n \nAs a result of legal concerns, analysts believe that individual investors are pulling their money out of Binance, which is driving this movement.\n \n \nA CryptoQuant analyst disclosed that retail investors are shifting thei…",
+          "link": "https://bitcoinist.com/binance-bitcoin-reserves-shed-200-million/",
+          "publishedOn": "2023-11-24T05:42:51.000Z",
+          "wordCount": 5619,
+          "title": "Binance Bitcoin Reserves Shed $200 Million Amid Ex-CEO’s US Detainment Threat",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/jpeg",
+            "url": "https://bitcoinist.com/wp-content/uploads/2023/11/a-127.png?fit=636,420"
+          },
+          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2023/11/a-127.png?fit=636,420"
+        },
         {
           "id": "http://www.inoreader.com/article/3a9c6e749da0aa37",
           "author": "Jamie Redman",
@@ -1175,7 +1190,7 @@
           "description": "In a scathing critique, former US Securities and Exchange Commission (SEC) official John Reed Stark has brought attention to the alleged criminal violations of cryptocurrency exchange Binance and its CEO, Changpeng Zhao (CZ). \n \nStark’s comments shed light on the serious ramifications of these alleged violations, dismissing attempts by what he refers to as the “Big Crypto Cartel” to “downplay” the significance of the Department of Justice (DOJ), Financial Crimes Enforcement Network (FinCEN), and Commodity Futures Trading Commission (CFTC) prosecutions.\n \nBinance Accused Of Facilitating Crime\n \nIn his remarks on X (formerly Twitter), Stark emphasizes that the charges against Binance and CZ extend far beyond mere “grift and chicanery”. According to Stark, they encompass matters of “life, dea…",
           "link": "https://bitcoinist.com/former-sec-official-binance-as-big-crypto-cartel/",
           "publishedOn": "2023-11-24T01:06:34.000Z",
-          "wordCount": 5599,
+          "wordCount": 5598,
           "title": "Former SEC Official Exposes Binance As ‘Big Crypto Cartel’ In Scathing Verdict",
           "enclosure": {
             "length": "1337",
@@ -1295,7 +1310,7 @@
           "description": "On-chain data shows a Bitcoin whale has just made a transaction with a network fee of a whopping $3.1 million attached.\n \nA Bitcoin Transaction With A Fee Of 83 BTC Has Occurred On The Chain Today\n \nAccording to data from the cryptocurrency transaction tracker service Whale Alert, someone has executed a transfer with a record amount of fees on the BTC blockchain today.\n \nThe transaction, which involved a movement of 55.76 BTC (worth just under $2.1 million at the time of the transfer), paid a fee of 83.65 BTC (over $3.1 million) to the network.\n \n\n \n \nThe fees here naturally refer to the transaction fees that all senders on the Bitcoin network have to attach with their transfers as a reward for the miners who process them.\n \nHow much fees a user might have to attach with their transfer for…",
           "link": "https://bitcoinist.com/oops-a-bitcoin-whale-just-paid-3-1-million-in-fees/",
           "publishedOn": "2023-11-23T19:05:56.000Z",
-          "wordCount": 5645,
+          "wordCount": 5641,
           "title": "Oops: A Bitcoin Whale Just Paid $3.1 Million In Fees",
           "enclosure": {
             "length": "1337",
@@ -1345,7 +1360,7 @@
           "description": "How does bitcoin fit in your portfolio? Zach Pandl from Grayscale takes us through the investment thesis.",
           "link": "https://www.coindesk.com/business/2023/11/23/crypto-for-advisors-is-bitcoin-for-you/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-11-23T17:02:51.000Z",
-          "wordCount": 12711,
+          "wordCount": 12712,
           "title": "Crypto for Advisors: Is Bitcoin for You?",
           "enclosure": {
             "length": "1337",
@@ -1368,21 +1383,6 @@
             "url": "https://bitcoinist.com/wp-content/uploads/2023/11/a-124.png?fit=640,385"
           },
           "imageUrl": "https://bitcoinist.com/wp-content/uploads/2023/11/a-124.png?fit=640,385"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e749d68672f",
-          "author": "Amitoj Singh",
-          "description": "The Monetary Authority of Singapore (MAS) has released the final tranche of its responses to feedback on a consultation paper of proposed regulations for crypto service providers.",
-          "link": "https://www.coindesk.com/policy/2023/11/23/singapore-central-bank-rules-to-discourage-crypto-speculation-ease-investment-qualifications/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-          "publishedOn": "2023-11-23T16:26:21.000Z",
-          "wordCount": 10912,
-          "title": "Singapore Central Bank Rules to Discourage Crypto Speculation, Ease Investment Qualifications",
-          "enclosure": {
-            "length": "1337",
-            "type": "image/jpeg",
-            "url": "https://www.coindesk.com/resizer/WJ9FN5XrmFHkKCKwqbTzD7lY7ZY=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/LE2MPISZ7JGF5MUSKMQGXHSXFY.jpg"
-          },
-          "imageUrl": "https://www.coindesk.com/resizer/WJ9FN5XrmFHkKCKwqbTzD7lY7ZY=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/LE2MPISZ7JGF5MUSKMQGXHSXFY.jpg"
         }
       ]
     }

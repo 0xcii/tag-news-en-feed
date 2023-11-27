@@ -41,7 +41,7 @@
           "description": "Terra ecosystem coins have spiked following the injection of $15 million into the network's DeFi ecosystem by Terraform Labs.",
           "link": "https://decrypt.co/207561/terra-ecosystems-luna-lunc-surge-by-double-digits",
           "publishedOn": "2023-11-27T12:44:33.000Z",
-          "wordCount": 9482,
+          "wordCount": 9500,
           "title": "Terra Ecosystem's LUNA, LUNC Surge By Double-Digits",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/09/Terra-Classic-shutterstock_2140753155-16x9-1-gID_7.jpg@png",
@@ -596,7 +596,7 @@
           "description": "Artist Jeff Davis joins 5 Questions with SCENE to answer burning questions about his artistic practice, the path that brought him to Art Blocks, and his quietly sophisticated DJ abilities.\n\nVideo shot and edited by Vincent Roazzi Jr.",
           "link": "https://decrypt.co/videos/interviews/PChJu1R8/5-questions-with-scene-jeff-davis",
           "publishedOn": "2023-11-17T21:30:00.000Z",
-          "wordCount": 6708,
+          "wordCount": 6546,
           "title": "5 Questions With SCENE: Jeff Davis",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/PChJu1R8/poster.jpg",
@@ -656,7 +656,7 @@
           "description": "Decrypt sat down with The Sandbox co-founder Sebastien Borget at Web Summit to talk about AI, the open metaverse and the creative challenges of interoperability.",
           "link": "https://decrypt.co/videos/interviews/HlARjhG1/the-sandbox-co-founder-sebastien-borget-were-already-integrating-ai",
           "publishedOn": "2023-11-15T16:09:01.000Z",
-          "wordCount": 6502,
+          "wordCount": 6664,
           "title": "The Sandbox Co-Founder Sebastien Borget: 'We're Already Integrating AI'",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/HlARjhG1/poster.jpg",
@@ -686,7 +686,7 @@
           "description": "Avalon Chief Product Officer Jeffrey Butler speaks with Decrypt reporter Jason Nelson and details his studio's new MMO game with interoperable assets—and how it will enable players to create and monetize their own content.",
           "link": "https://decrypt.co/videos/interviews/XDz9vsvT/avalons-jeffrey-butler-on-designing-a-metaverse-mmo-that-lets-players-co-create",
           "publishedOn": "2023-11-15T00:30:00.000Z",
-          "wordCount": 6727,
+          "wordCount": 6565,
           "title": "Avalon's Jeffrey Butler on Designing a Metaverse MMO That Lets Players Co-Create",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/XDz9vsvT/poster.jpg",
@@ -883,54 +883,194 @@
       "siteUrl": "https://cryptopanic.com/",
       "articles": [
         {
+          "id": "https://cryptopanic.com/news/19066702/Tether-gives-FBI-peek-behind-the-curtain",
+          "author": null,
+          "description": "Tether shared that it's deepening its ties with the FBI and the Secret Service, onboarding them to its platform.",
+          "link": "https://cryptopanic.com/news/19066702/Tether-gives-FBI-peek-behind-the-curtain",
+          "publishedOn": "2023-11-27T17:10:06.000Z",
+          "wordCount": 589,
+          "title": "Tether gives FBI peek behind the curtain",
+          "imageUrl": "https://protos-media.s3.eu-west-2.amazonaws.com/wp-content/uploads/2023/11/27173827/Protos-Artwork-TetherReveals-SIMG.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/19066699/Shibburn-Explodes-by-499416-Placing-SHIB-on-Verge-of-Breakout",
+          "author": null,
+          "description": "Gearing for a breakout? SHIB dwells around the $0.000008 support area as Shibburn goes parabolic.",
+          "link": "https://cryptopanic.com/news/19066699/Shibburn-Explodes-by-499416-Placing-SHIB-on-Verge-of-Breakout",
+          "publishedOn": "2023-11-27T17:05:00.000Z",
+          "wordCount": 592,
+          "title": "Shibburn Explodes by 499,416%, Placing SHIB on Verge of Breakout",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/19066696/Hounax-Scandal-Hong-Kong-Police-Probe-15-Million-Crypto-Fraud-Investors-In-Turmoil",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/19066696/Hounax-Scandal-Hong-Kong-Police-Probe-15-Million-Crypto-Fraud-Investors-In-Turmoil",
+          "publishedOn": "2023-11-27T17:00:09.000Z",
+          "wordCount": null,
+          "title": "Hounax Scandal: Hong Kong Police Probe $15 Million Crypto Fraud, Investors In Turmoil",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/19066700/AI-in-Surveillance-Bridging-Reality-and-Fiction",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/19066700/AI-in-Surveillance-Bridging-Reality-and-Fiction",
+          "publishedOn": "2023-11-27T16:49:12.000Z",
+          "wordCount": null,
+          "title": "AI in Surveillance: Bridging Reality and Fiction",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/19066634/Introducing-Pre-Funded-Xumm-Tangem-Cards-A-Gateway-to-the-XRP-Ledger",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/19066634/Introducing-Pre-Funded-Xumm-Tangem-Cards-A-Gateway-to-the-XRP-Ledger",
+          "publishedOn": "2023-11-27T16:39:44.000Z",
+          "wordCount": null,
+          "title": "Introducing Pre-Funded Xumm Tangem Cards: A Gateway to the XRP Ledger",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/19066635/Accenture-Chief-AI-Officer-Lan-Guan-Shares-Insights-on-the-Defining-Moment-in-AI",
+          "author": null,
+          "description": "In a recent interview with HealthLeaders Media, Accenture’s Chief AI Officer, Lan Guan, shed light on the pivotal role of artificial intelligence (AI) in the current landscape of innovation. Guan’s perspectives offer a unique glimpse into the evolving intersection of healthcare and AI,...",
+          "link": "https://cryptopanic.com/news/19066635/Accenture-Chief-AI-Officer-Lan-Guan-Shares-Insights-on-the-Defining-Moment-in-AI",
+          "publishedOn": "2023-11-27T16:34:51.000Z",
+          "wordCount": 596,
+          "title": "Accenture Chief AI Officer Lan Guan Shares Insights on the Defining Moment in AI",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/19066628/Crypto-Funds-Attract-Largest-Weekly-Inflow-in-2023-as-Bitcoin-Short-Sellers-Capitulate-CoinShares",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/19066628/Crypto-Funds-Attract-Largest-Weekly-Inflow-in-2023-as-Bitcoin-Short-Sellers-Capitulate-CoinShares",
+          "publishedOn": "2023-11-27T16:29:38.000Z",
+          "wordCount": null,
+          "title": "Crypto Funds Attract Largest Weekly Inflow in 2023 as Bitcoin 'Short-Sellers Capitulate': CoinShares",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/19066592/Crypto-Sees-Largest-Fund-Inflows-Since-2021-Amid-Bitcoin-ETF-Expectations",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/19066592/Crypto-Sees-Largest-Fund-Inflows-Since-2021-Amid-Bitcoin-ETF-Expectations",
+          "publishedOn": "2023-11-27T16:29:28.000Z",
+          "wordCount": null,
+          "title": "Crypto Sees Largest Fund Inflows Since 2021 Amid Bitcoin ETF Expectations",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/19066595/Crypto-Industry-and-Regulations-in-Greece-Complexities-and-Opportunities",
+          "author": null,
+          "description": "The cryptocurrency landscape in Greece represents a fascinating amalgamation of innovation, economic dynamics, and evolving regulatory approaches. In the heart of Southeast Europe, Greece’s crypto market has gradually emerged as a significant player, reflecting a broader global trend toward...",
+          "link": "https://cryptopanic.com/news/19066595/Crypto-Industry-and-Regulations-in-Greece-Complexities-and-Opportunities",
+          "publishedOn": "2023-11-27T16:26:40.000Z",
+          "wordCount": 591,
+          "title": "Crypto Industry and Regulations in Greece: Complexities and Opportunities",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/19066586/Binance-CEO-Richard-Teng-We-Maintain-11-Backing-for-Every-User-Asset",
+          "author": null,
+          "description": "In a significant leadership shift on 21 November 2023, Changpeng Zhao (CZ), co-founder of Binance, stepped down as CEO, passing the reins to Richard Teng. Teng, who joined Binance Singapore as CEO in August 2021, stepped into his new role with a blend of humility and honor, recognizing the...",
+          "link": "https://cryptopanic.com/news/19066586/Binance-CEO-Richard-Teng-We-Maintain-11-Backing-for-Every-User-Asset",
+          "publishedOn": "2023-11-27T16:17:29.000Z",
+          "wordCount": 594,
+          "title": "Binance CEO Richard Teng: We ‘Maintain 1:1 Backing for Every User Asset’",
+          "imageUrl": "https://media.cryptoglobe.com/2023/11/Richard-Teng-Nov-2023-768x400.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/19066572/Bitcoin-Hater-Peter-Schiff-Slams-CNBC-for-Ignoring-Gold-Rally",
+          "author": null,
+          "description": "Renowned financial commentator and Bitcoin skeptic Peter Schiff publicly criticized CNBC for its alleged oversight in covering recent surge in gold prices",
+          "link": "https://cryptopanic.com/news/19066572/Bitcoin-Hater-Peter-Schiff-Slams-CNBC-for-Ignoring-Gold-Rally",
+          "publishedOn": "2023-11-27T16:15:00.000Z",
+          "wordCount": 592,
+          "title": "Bitcoin Hater Peter Schiff Slams CNBC for Ignoring Gold Rally",
+          "imageUrl": "https://u.today/sites/default/files/styles/twitter/public/2023-11/42413.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/19066569/Putin-Unveils-Plans-for-Russian-AI-to-Counter-Western-Influence",
+          "author": null,
+          "description": "Russian President Vladimir Putin has announced a bold initiative to develop a robust artificial intelligence (AI) model to rival what he perceives as “dangerous” Western technology. Speaking at an AI conference in Moscow, Putin urged the country’s tech sector to establish an advanced AI strategy...",
+          "link": "https://cryptopanic.com/news/19066569/Putin-Unveils-Plans-for-Russian-AI-to-Counter-Western-Influence",
+          "publishedOn": "2023-11-27T16:14:22.000Z",
+          "wordCount": 592,
+          "title": "Putin Unveils Plans for Russian AI to Counter Western Influence",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/19066577/Haberturk-Presenter-Mehmet-Akif-Ersoy-Told-the-LUNA-Story",
+          "author": null,
+          "description": "Mehmet Akif Ersoy, one of the presenters of Habertürk, said that he was a victim of Terra (LUNA) while presenting the evening news. Continue Reading: Habertürk Presenter Mehmet Akif Ersoy Told the LUNA Story!",
+          "link": "https://cryptopanic.com/news/19066577/Haberturk-Presenter-Mehmet-Akif-Ersoy-Told-the-LUNA-Story",
+          "publishedOn": "2023-11-27T16:13:06.000Z",
+          "wordCount": 591,
+          "title": "Habertürk Presenter Mehmet Akif Ersoy Told the LUNA Story!",
+          "imageUrl": "https://www.bitcoinsistemi.com/wp-content/uploads/2023/11/mehmet-akif-ersoy.jpg"
+        },
+        {
           "id": "https://cryptopanic.com/news/19066551/Volatile-Week-Sees-Many-Top-Tokens-Lose-Their-November-Gains",
           "author": null,
-          "description": "Top Cryptos Lose Big, Creating 'Buy the Dip' Opportunities",
+          "description": "",
           "link": "https://cryptopanic.com/news/19066551/Volatile-Week-Sees-Many-Top-Tokens-Lose-Their-November-Gains",
           "publishedOn": "2023-11-27T16:10:00.000Z",
-          "wordCount": 592,
+          "wordCount": null,
           "title": "Volatile Week Sees Many Top Tokens Lose Their November Gains",
           "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/19066540/New-Binance-CEO-Promises-Greater-Transparency",
           "author": null,
-          "description": "Coinspeaker New Binance CEO Promises Greater Transparency The new Binance CEO has noted that Binance will begin operating a conventional corporate structure under his leadership. New Binance CEO Promises Greater Transparency",
+          "description": "",
           "link": "https://cryptopanic.com/news/19066540/New-Binance-CEO-Promises-Greater-Transparency",
           "publishedOn": "2023-11-27T16:05:08.000Z",
-          "wordCount": 588,
+          "wordCount": null,
           "title": "New Binance CEO Promises Greater Transparency",
-          "imageUrl": "https://www.coinspeaker.com/wp-content/uploads/2023/11/new-binance-ceo-transparency.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/19066544/OKX-Taps-into-Brazils-Vast-Potential-with-Exchange-Launch",
           "author": null,
-          "description": "OKX launches a crypto exchange and Web3 wallet in Brazil, hoping to transform the country's DeFi and trading landscape.",
+          "description": "",
           "link": "https://cryptopanic.com/news/19066544/OKX-Taps-into-Brazils-Vast-Potential-with-Exchange-Launch",
           "publishedOn": "2023-11-27T16:05:00.000Z",
-          "wordCount": 591,
+          "wordCount": null,
           "title": "OKX Taps into Brazil's Vast Potential with Exchange Launch",
           "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/19066552/Coinbase-CEO-Speaks-About-Binance-USA-Agreement-and-the-Future-of-Bitcoin",
           "author": null,
-          "description": "As it is known, Binance and its CEO CZ admitted to the charges of preventing money laundering and violating US sanctions within the scope of the agreement they made with the US government. Binance signed one of the largest corporate agreements in US history and agreed to pay $4.3 billion within...",
+          "description": "",
           "link": "https://cryptopanic.com/news/19066552/Coinbase-CEO-Speaks-About-Binance-USA-Agreement-and-the-Future-of-Bitcoin",
           "publishedOn": "2023-11-27T16:03:06.000Z",
-          "wordCount": 593,
+          "wordCount": null,
           "title": "Coinbase CEO Speaks About Binance-USA Agreement and the Future of Bitcoin!",
-          "imageUrl": "https://www.bitcoinsistemi.com/wp-content/uploads/2023/06/brian-armstrong-coinbase.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/19066538/Binance-CEO-outlines-plan-for-crypto-exchange-after-CZ-steps-down",
           "author": null,
-          "description": "Richard Teng became CEO of crypto exchange Binance after Changpeng Zhao agreed to step down as part of a settlement with the U.S. Department of Justice announced on Nov. 21.",
+          "description": "",
           "link": "https://cryptopanic.com/news/19066538/Binance-CEO-outlines-plan-for-crypto-exchange-after-CZ-steps-down",
           "publishedOn": "2023-11-27T16:03:02.000Z",
-          "wordCount": 593,
+          "wordCount": null,
           "title": "Binance CEO outlines plan for crypto exchange after CZ steps down",
-          "imageUrl": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-11/8e46124f-243f-451b-8a4f-3de98f1c3ed1.jpg"
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/19066564/Would-the-US-arrest-Satoshi-Nakamoto-if-they-returned-today",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/19066564/Would-the-US-arrest-Satoshi-Nakamoto-if-they-returned-today",
+          "publishedOn": "2023-11-27T16:02:18.000Z",
+          "wordCount": null,
+          "title": "Would the US arrest Satoshi Nakamoto if they returned today?",
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/19066537/Sam-Bankman-Fried-Author-Reveals-Absurd-Fact-About-SBF-And-Donald-Trump",
@@ -941,146 +1081,6 @@
           "wordCount": 593,
           "title": "Sam Bankman-Fried: Author Reveals ‘Absurd’ Fact About SBF And Donald Trump",
           "imageUrl": "https://bitcoinist.com/wp-content/uploads/2023/11/Sam-Bankman-Fried-Donald-Trump-FTX.jpeg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/19066536/Coinbase-Reignites-Hiring-In-India-A-New-Chapter-In-Tech-Product-Innovation",
-          "author": null,
-          "description": "After facing discontinuation of services in its Indian operations and conducting multiple rounds of layoffs in 2022 continuing into 2023, global crypto exchange, Coinbase Global Inc (NASDAQ: COIN) has now indicated signs of hiring in India for its produ read more",
-          "link": "https://cryptopanic.com/news/19066536/Coinbase-Reignites-Hiring-In-India-A-New-Chapter-In-Tech-Product-Innovation",
-          "publishedOn": "2023-11-27T15:52:53.000Z",
-          "wordCount": 594,
-          "title": "Coinbase Reignites Hiring In India: A New Chapter In Tech, Product Innovation",
-          "imageUrl": "https://cdn.benzinga.com/files/images/story/2023/11/27/coinbase_india_shutter.jpg?width=1200&height=800&fit=crop"
-        },
-        {
-          "id": "https://cryptopanic.com/news/19066499/Bitcoin-price-dips-as-US-stocks-pull-back",
-          "author": null,
-          "description": "Bitcoin has seen an almost 2% decline in the past 24 hours, coinciding with a pullback in the U.S. stock market.",
-          "link": "https://cryptopanic.com/news/19066499/Bitcoin-price-dips-as-US-stocks-pull-back",
-          "publishedOn": "2023-11-27T15:46:46.000Z",
-          "wordCount": 590,
-          "title": "Bitcoin price dips as US stocks pull back",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2023/10/20231019_NewBitcoinCity_News-1200x675.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/19066500/New-Binance-CEO-Makes-Extremely-Bullish-Prediction",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/19066500/New-Binance-CEO-Makes-Extremely-Bullish-Prediction",
-          "publishedOn": "2023-11-27T15:45:00.000Z",
-          "wordCount": null,
-          "title": "New Binance CEO Makes Extremely Bullish Prediction",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/19066494/Crypto-exchange-grace-period-to-remain-unchanged-in-Hong-Kong-despite-scandals",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/19066494/Crypto-exchange-grace-period-to-remain-unchanged-in-Hong-Kong-despite-scandals",
-          "publishedOn": "2023-11-27T15:42:23.000Z",
-          "wordCount": null,
-          "title": "Crypto exchange grace period to remain unchanged in Hong Kong despite scandals",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/19066477/Analysts-Debate-Bitcoins-Next-Move-Bullish-Surge-or-Bearish",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/19066477/Analysts-Debate-Bitcoins-Next-Move-Bullish-Surge-or-Bearish",
-          "publishedOn": "2023-11-27T15:38:00.000Z",
-          "wordCount": null,
-          "title": "Analysts Debate Bitcoin’s Next Move: Bullish Surge or Bearish?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/19066470/Animoca-Brands-reveals-sold-out-Season-2-of-TinyTap-Publisher-NFTs",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/19066470/Animoca-Brands-reveals-sold-out-Season-2-of-TinyTap-Publisher-NFTs",
-          "publishedOn": "2023-11-27T15:37:21.000Z",
-          "wordCount": null,
-          "title": "Animoca Brands reveals sold-out Season 2 of TinyTap Publisher NFTs",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/19066492/Investors-Fume-Over-Hounax-Scam-Blame-Fraudsters-On-YouTube-And-WhatsApp-Groups",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/19066492/Investors-Fume-Over-Hounax-Scam-Blame-Fraudsters-On-YouTube-And-WhatsApp-Groups",
-          "publishedOn": "2023-11-27T15:33:47.000Z",
-          "wordCount": null,
-          "title": "Investors Fume Over Hounax Scam, Blame Fraudsters On YouTube And WhatsApp Groups",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/19066447/Zhongzhi-One-of-Chinas-Biggest-Asset-Manager-Declares-Insolvency",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/19066447/Zhongzhi-One-of-Chinas-Biggest-Asset-Manager-Declares-Insolvency",
-          "publishedOn": "2023-11-27T15:30:24.000Z",
-          "wordCount": null,
-          "title": "Zhongzhi, One of China’s Biggest Asset Manager Declares Insolvency",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/19066462/Will-Bitcoin-hit-45k-Its-up-to-the-short-term-holders",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/19066462/Will-Bitcoin-hit-45k-Its-up-to-the-short-term-holders",
-          "publishedOn": "2023-11-27T15:30:14.000Z",
-          "wordCount": null,
-          "title": "Will Bitcoin hit $45k? It's up to the short-term holders",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/19066436/eToro-Receives-Approval-to-Operate-in-UAE",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/19066436/eToro-Receives-Approval-to-Operate-in-UAE",
-          "publishedOn": "2023-11-27T15:30:08.000Z",
-          "wordCount": null,
-          "title": "eToro Receives Approval to Operate in UAE",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/19066446/524000-Bitcoin-Price-Possible-Over-Next-Four-Years-According-to-On-Chain-Analyst-PlanB-Heres-Why",
-          "author": null,
-          "description": "On-chain analyst PlanB says that he wouldn’t surprised if Bitcoin (BTC) went as high as $524,000 at some point in the next four years. PlanB shares with his 1.8 million followers on the social media platform X a chart depicting which price the majority of BTC was distributed at each halving,...",
-          "link": "https://cryptopanic.com/news/19066446/524000-Bitcoin-Price-Possible-Over-Next-Four-Years-According-to-On-Chain-Analyst-PlanB-Heres-Why",
-          "publishedOn": "2023-11-27T15:30:00.000Z",
-          "wordCount": 598,
-          "title": "$524,000 Bitcoin Price Possible Over Next Four Years, According to On-Chain Analyst PlanB – Here’s Why",
-          "imageUrl": "https://dailyhodl.com/wp-content/uploads/2023/06/Bitcoin-and-Crypto-Could-.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/19066430/DEMAND-Launches-Worlds-First-Stratum-V2-Bitcoin-Mining-Pool",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/19066430/DEMAND-Launches-Worlds-First-Stratum-V2-Bitcoin-Mining-Pool",
-          "publishedOn": "2023-11-27T15:25:11.000Z",
-          "wordCount": null,
-          "title": "DEMAND Launches World’s First Stratum V2 Bitcoin Mining Pool",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/19066421/Bitcoin-spot-ETF-anticipation-fuels-largest-crypto-fund-inflows-for-two-years-CoinShares",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/19066421/Bitcoin-spot-ETF-anticipation-fuels-largest-crypto-fund-inflows-for-two-years-CoinShares",
-          "publishedOn": "2023-11-27T15:17:42.000Z",
-          "wordCount": null,
-          "title": "Bitcoin spot ETF anticipation fuels largest crypto fund inflows for two years: CoinShares",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/19066422/XRP-Top-Wallet-Makes-Big-New-Reveal-Details",
-          "author": null,
-          "description": "Launch of big reveal marks monumental step",
-          "link": "https://cryptopanic.com/news/19066422/XRP-Top-Wallet-Makes-Big-New-Reveal-Details",
-          "publishedOn": "2023-11-27T15:15:00.000Z",
-          "wordCount": 590,
-          "title": "XRP Top Wallet Makes Big New Reveal: Details",
-          "imageUrl": "https://u.today/sites/default/files/styles/twitter/public/2023-11/42411.jpg"
         }
       ]
     },
@@ -1090,12 +1090,52 @@
       "siteUrl": "https://www.inoreader.com/stream/user/1005336866/tag/%E6%B5%B7%E5%A4%96%E5%8A%A0%E5%AF%86%E8%B5%84%E8%AE%AF/view/html",
       "articles": [
         {
+          "id": "http://www.inoreader.com/article/3a9c6e7493bafba0",
+          "author": "Samuel Edyme",
+          "description": "Hong Kong’s Securities and Futures Commission (SFC) has taken decisive action against what it suspects to be a fraudulent crypto asset trading platform. The SFC flagged the company at the center of these allegations, Hounax, earlier this month, marking a crucial step in the city’s ongoing efforts to combat crypto-related scams.\n \nThe case gained further momentum as the Hong Kong Police Force initiated an investigation following reports from numerous individuals who claimed significant financial losses.\n \nNews outlet, The South China Morning Post highlighted that the police, having received complaints from 131 victims, are now actively probing the alleged scam that purportedly swindled investors out of HK$120 million ($15.4 million).\n \n \nHounax’s Dubious Operations And Regulatory Oversight\n…",
+          "link": "https://bitcoinist.com/hounax-scandal-hong-kong-police-probe-crypto-fraud/",
+          "publishedOn": "2023-11-27T17:04:00.000Z",
+          "wordCount": 5645,
+          "title": "Hounax Scandal: Hong Kong Police Probe $15 Million Crypto Fraud, Investors In Turmoil",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/jpeg",
+            "url": "https://bitcoinist.com/wp-content/uploads/2023/04/Bitcoin-BTC-Fraud-Case.jpeg?fit=560,308"
+          },
+          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2023/04/Bitcoin-BTC-Fraud-Case.jpeg?fit=560,308"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e7493a543ad",
+          "author": "Krisztian  Sandor",
+          "description": "Crypto investment funds last week attracted their largest inflow this year, extending their strongest run since the 2021 bull market as anticipation for a spot bitcoin [BTC] exchange-traded fund (ETF) continued to entice investors.",
+          "link": "https://www.coindesk.com/markets/2023/11/27/crypto-funds-attract-largest-weekly-inflow-in-2023-as-bitcoin-short-sellers-capitulate-coinshares/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2023-11-27T16:50:02.000Z",
+          "wordCount": 10387,
+          "title": "Crypto Funds Attract Largest Weekly Inflow in 2023 as Bitcoin 'Short-Sellers Capitulate': CoinShares",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/png",
+            "url": "https://www.coindesk.com/resizer/dkIl_4P6yQQ-FCB6VKkV_2CIE3o=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/BVSO7W62L5DCHD4ZGQ46JVSWUY.png"
+          },
+          "imageUrl": "https://www.coindesk.com/resizer/dkIl_4P6yQQ-FCB6VKkV_2CIE3o=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/BVSO7W62L5DCHD4ZGQ46JVSWUY.png"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e7493a695c0",
+          "author": "Jamie Redman",
+          "description": "Amid the rapidly evolving landscape of Ethereum layer two (L2) solutions, Blast, a new entrant, has sparked a wave of discussions in the crypto community. Spearheaded by Pacman, known for his work on the non-fungible token (NFT) marketplace Blur, Blast has garnered both significant funding and scrutiny. Despite being a lead investor in the project, Paradigm’s head of research, Dan Robinson, highlighted issues with “the messaging and execution” of Blast’s launch strategy, while Pacman defends the platform’s mechanics and vision.\n \nParadigm Addresses Blast Launch\n \nDan Robinson of Paradigm, a key investor in the Ethereum L2 platform Blast, has recently discussed the project’s launch via the social media platform X. Robinson cited issues with the messaging and execution, particularly the deci…",
+          "link": "https://news.bitcoin.com/paradigm-says-blast-launch-crossed-lines-in-messaging-and-execution-pacman-defends-platform-amid-criticism/",
+          "publishedOn": "2023-11-27T16:42:05.000Z",
+          "wordCount": 266,
+          "title": "Paradigm Says Blast Launch ‘Crossed Lines’ in Messaging and Execution, Pacman Defends Platform Amid Criticism",
+          "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2023/11/pac.jpg"
+        },
+        {
           "id": "http://www.inoreader.com/article/3a9c6e7493a2af7d",
           "author": "Jamie Crawley",
           "description": "The bank will give customers access to the digital RBM's interconnection platform, offering recharge and redemption.",
           "link": "https://www.coindesk.com/business/2023/11/27/standard-chartered-china-offering-exchange-services-for-digital-yuan/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-11-27T16:18:04.000Z",
-          "wordCount": 9476,
+          "wordCount": 9437,
           "title": "Standard Chartered China Offering Exchange Services for Digital Yuan",
           "enclosure": {
             "length": "1337",
@@ -1140,7 +1180,7 @@
           "description": "Binance's Former CEO, Changpeng  Zhao (CZ), is  \nembroiled in a contentious debate with the US Department of Justice (DOJ)  \nfollowing his guilty plea for breaking anti-money laundering laws in the US.\n  \nAlthough the DOJ is not advocating immediate  \nincarceration, it has opposed CZ's departure from the United States, Coindesk  \nreported. The Justice Department has cited him as a \"flight risk that could be  \nmanaged.\" This stance arises despite CZ's voluntary appearance in court, where he argued that his presence is proof of non-flight tendencies.\n  \nCZ's counsel has highlighted his voluntary  \nself-surrender, intent to resolve the case, and a proposal for a significant bail package. However, US Attorneys contend that the severity of potential  \nsentencing could force him to flee back to …",
           "link": "https://www.financemagnates.com//cryptocurrency/binances-former-ceo-faces-sentencing-us-doj-addresses-flight-risk-concerns/",
           "publishedOn": "2023-11-27T15:55:11.000Z",
-          "wordCount": 15963,
+          "wordCount": 15959,
           "title": "Binance's Former CEO Faces Sentencing: US DOJ Addresses Flight Risk Concerns",
           "imageUrl": "https://images.financemagnates.com/images/Crypto-king%20-%20Edited_id_970f818a-a260-4697-947d-86c095adeb2e_size900.jpg"
         },
@@ -1150,7 +1190,7 @@
           "description": "Ethereum co-founder Vitalik Buterin has outlined an ambitious set of proposals for the Ethereum network, focusing on addressing crucial issues such as staking centralization, scalability, and enhancing security. During an interview with the NFT platform Defiant in Turkey, Buterin highlighted the need for an overhaul of Ethereum’s staking mechanism to improve decentralization.\n \n“We need to foster healthier staking pools,” he emphasized, adding that one of the biggest changes “is the realization that there needs to something done about staking centralization, the status quo of the different pools […] is not very healthy, and I think there is a big opportunity to do some redesigns in the staking system to alleviate some of these issues.”\n \nMajor Changes For Ethereum\n \nButerin also discussed …",
           "link": "https://bitcoinist.com/ethereum-buterin-plans-major-changes/",
           "publishedOn": "2023-11-27T15:01:00.000Z",
-          "wordCount": 5711,
+          "wordCount": 5710,
           "title": "Ethereum Founder Buterin Discloses Plans For Major Changes",
           "enclosure": {
             "length": "1337",
@@ -1165,7 +1205,7 @@
           "description": "In recent years, the African continent has been at the forefront of a financial revolution marked by the exponential growth of mobile money. This growth has paved the way for a series of dynamic partnerships between Mobile Network Operators, cryptocurrency exchanges, and payment solution providers.\nAfrica's Vast Digital Potential\nOne such example, and a noteworthy milestone in this evolving landscape, was the agreement by Mastercard to acquire a minority stake in the fintech division of MTN Group, Africa's largest cell phone provider, with an astounding valuation of $5.2 billion. This partnership serves as a testament to the vast potential within Africa's digital finance sector.\nAt the epicenter of this transformative trend lies South Africa, where two prominent cryptocurrency exchanges, V…",
           "link": "https://www.financemagnates.com//cryptocurrency/south-africas-crypto-revolution-valr-and-luno-lead-the-way/",
           "publishedOn": "2023-11-27T14:44:25.000Z",
-          "wordCount": 7826,
+          "wordCount": 7827,
           "title": "South Africa's Crypto Revolution: VALR and Luno Lead the Way",
           "imageUrl": "https://images.financemagnates.com/images/crypto_id_efc3e1ed-5db4-4d4c-8ee7-aefd52915238_size900.jpg"
         },
@@ -1175,7 +1215,7 @@
           "description": "The latest in blockchain tech upgrades, funding announcements and deals. For the period of Nov. 23-29, with live updates throughout.",
           "link": "https://www.coindesk.com/tech/2023/11/27/protocol-latest-tech-news-crypto-blockchain/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-11-27T14:38:57.000Z",
-          "wordCount": 10191,
+          "wordCount": 10089,
           "title": "Protocol Village: Movement Labs Says 'Move Virtual Machine' to Use Celestia, Snowman",
           "enclosure": {
             "length": "1337",
@@ -1200,7 +1240,7 @@
           "description": "Nine Blocks, which follows a market neutral strategy, also made Dubai its global headquarters.",
           "link": "https://www.coindesk.com/business/2023/11/27/crypto-hedge-fund-nine-blocks-snags-dubai-digital-assets-license/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-11-27T14:17:11.000Z",
-          "wordCount": 9594,
+          "wordCount": 9551,
           "title": "Crypto Hedge Fund Nine Blocks Snags Dubai Digital Assets License",
           "enclosure": {
             "length": "1337",
@@ -1225,7 +1265,7 @@
           "description": "On-chain data shows the Bitcoin transaction fee surpassed that of Ethereum during the last week as it hit a total of $61 million.\n \nBitcoin Transaction Fees Has Been Higher Than Ethereum Recently\n \nAccording to data from the market intelligence platform IntoTheBlock, BTC transaction fees have recently surpassed that of ETH. The “transaction fees” here refer to the amount that every sender on the respective network has to attach with their transfer as a reward for the chain validator who processes the move.\n \nHow much fees the average user would attach depends on the traffic conditions on the blockchain at the time. When there is a high amount of traffic on the network, some transfers can get stuck for a while, as the chain validators have only a limited capacity to handle them.\n \n \nSince t…",
           "link": "https://bitcoinist.com/bitcoin-total-fees-overtook-ethereum-last-week-why/",
           "publishedOn": "2023-11-27T14:02:45.000Z",
-          "wordCount": 5676,
+          "wordCount": 5675,
           "title": "Bitcoin Total Fees Overtook Ethereum Last Week, Here’s Why",
           "enclosure": {
             "length": "1337",
@@ -1240,7 +1280,7 @@
           "description": "OKX has launched its cryptocurrency exchange and  \nWeb3 wallet in Brazil. This move aims to offer access  \nto decentralized finance services and cryptocurrency trading to users in the country. OKX will provide  \naccess to hundreds of cryptocurrencies for trading in Brazil. \n  \nOKX's President, Hong Fang, mentioned: \"Our  \nexchange now offers BRL rails, deep liquidity, tools, security and transparency  \nthat Brazilian traders want. Our OKX Wallet provides simplified access to DeFi,  \nNFTs, dApps, and more. We look forward to driving innovation and growth of the  \nWeb3 and crypto economy with millions of users as the market matures in  \nBrazil.\"\n  \nOKX's Strategic Global  \nExpansion\n  \nAccording to a recent study by OKX Brazil, security  \nis a top priority for Brazilian crypto users. OKX aim…",
           "link": "https://www.financemagnates.com//cryptocurrency/okx-announces-rollout-of-crypto-exchange-web3-wallet-in-brazil/",
           "publishedOn": "2023-11-27T13:54:11.000Z",
-          "wordCount": 6582,
+          "wordCount": 6583,
           "title": "OKX Announces Rollout of Crypto Exchange, Web3 Wallet in Brazil",
           "imageUrl": "https://images.financemagnates.com/images/Brazil%20Flag_id_55946c70-286b-4d95-8586-48a4b0b2bb3e_size900.jpg"
         },
@@ -1260,7 +1300,7 @@
           "description": "Almost two-thirds of Israel's Tron seizures were in 2023, including 39 from wallets Israel said in June were owned by Lebanon's Hezbollah and 26 in July from Hamas ally Palestinian Islamic Jihad.",
           "link": "https://www.coindesk.com/business/2023/11/27/hamas-hezbollah-now-prefer-tron-to-bitcoin-reuters/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-11-27T13:08:34.000Z",
-          "wordCount": 9771,
+          "wordCount": 9725,
           "title": "Hamas, Hezbollah Now Prefer Tron to Bitcoin: Reuters",
           "enclosure": {
             "length": "1337",
@@ -1275,7 +1315,7 @@
           "description": "The latest price moves in bitcoin [BTC] and crypto markets in context for Nov. 27, 2023. First Mover is CoinDesk’s daily newsletter that contextualizes the latest actions in the crypto markets.",
           "link": "https://www.coindesk.com/markets/2023/11/27/first-mover-americas-gbtc-discount-to-nav-shrinks-to-narrowest-since-july-2021/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-11-27T13:08:34.000Z",
-          "wordCount": 10779,
+          "wordCount": 10676,
           "title": "First Mover Americas: GBTC Discount to NAV Shrinks to Narrowest Since July 2021",
           "enclosure": {
             "length": "1337",
@@ -1290,7 +1330,7 @@
           "description": "The Bitcoin network recently underwent a difficulty adjustment, leading to a further increase in the mining difficulty. The adjustment also marked the sixth consecutive rise in BTC mining difficulty as it reached a record high. With this becoming a trend, it could affect the price of the flagship cryptocurrency, Bitcoin. \n \nThe Latest Bitcoin Difficulty Adjustment\n \nThe latest adjustment took place at block 818,496, with the current Bitcoin mining difficulty standing at an all-time high of 67.96T. The network saw a mining difficulty increase of 3.40% in the last 24 hours alone. This follows a rising trend in the Bitcoin mining difficulty average that dates back to the last 90 days. \n \n \nThe network has seen an overall 22.18% increase in the last 90 days. In the last 30 days, it has seen an…",
           "link": "https://bitcoinist.com/bitcoin-mining-difficulty-40000/",
           "publishedOn": "2023-11-27T13:01:27.000Z",
-          "wordCount": 5660,
+          "wordCount": 5659,
           "title": "Bitcoin Mining Difficulty Adjustment Triggers Record High, Time For $40,000?",
           "enclosure": {
             "length": "1337",
@@ -1305,44 +1345,9 @@
           "description": "SBI \nHoldings, Inc. located in Tokyo has officially entered into a Memorandum of \nUnderstanding (MOU) with Circle Internet Financial, which has headquarters in Boston, \nMassachusetts. This collaboration aims to facilitate the circulation of USDC \nstablecoins, establish a banking relationship, and promote the use of Circle's \nWeb3 Services within Japan.\n \nSBI \nGroup Adopts Circle's Web3 Services\n \nThe \nJapanese government, recognizing the significance of the digital asset economy, \nrevised the Payment Services Act on June 3, 2023. This revision has established \nregulations for stablecoins, anticipating a boost in the issuance and \ncirculation of stablecoins in Japan, consequently advancing the country's \ntransition towards a Web3 economy.\n \nUnder \nthe Revised Payment Services Act, \"collater…",
           "link": "https://www.financemagnates.com//cryptocurrency/tokyo-meets-boston-sbi-forges-partnership-with-circle-for-usdc-expansion/",
           "publishedOn": "2023-11-27T12:42:51.000Z",
-          "wordCount": 5292,
+          "wordCount": 5293,
           "title": "Tokyo Meets Boston: SBI Forges Partnership with Circle for USDC Expansion",
           "imageUrl": "https://images.financemagnates.com/images/Japan%20flag%20against%20the%20skyline%20of%20Tokyo_id_e9d900bd-5f49-417a-9485-f3e453057e76_size900.jpg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e74938cf9c0",
-          "author": "Terence Zimwara",
-          "description": "The crypto industry can stop the so-called Cantillon Effect from occurring by establishing large enough “Bitcoin only” companies that will sit on the negotiating table with the U.S. Federal Reserve and major financial institutions, Swan Bitcoin’s Terrance Yang has said. According to Yang, the U.S. Department of Justice’s settlement with Binance has increased the likelihood of such an institution joining the negotiation table.\n \nThe Cantillon Effect\n \nTerrance Yang, the managing director (MD) of the bitcoin exchange platform Swan Bitcoin, has defended the proposal to create enough “Bitcoin-only” companies saying this is the only way the crypto industry will be fairly represented at the negotiating table. According to Yang, the U.S. Department of Justice (DOJ)’s recent settlement with Binanc…",
-          "link": "https://news.bitcoin.com/cantillon-effect-can-be-countered-by-having-bitcoin-only-companies-present-at-the-negotiating-table-swan-bitcoin-md/",
-          "publishedOn": "2023-11-27T12:40:30.000Z",
-          "wordCount": 284,
-          "title": "‘Cantillon Effect’ Can Be Countered by Having ‘Bitcoin Only’ Companies Present at the Negotiating Table — Swan Bitcoin MD",
-          "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2023/11/shutterstock_1655890180.jpg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e7493890460",
-          "author": "Pedro Ferreira",
-          "description": "In the ever-evolving realm of cryptocurrencies, nations are charting \ndistinct courses that signal transformative shifts in fiscal and investment \nlandscapes.\n \nJapan's Crypto Renaissance: A Web3 Powerhouse in the Making\n \nRecent developments in Japan underscore the profound impact of decentralized \nfinancial technologies, prompting a global rethink of regulatory approaches. \nJapan, long-standing economic rivals with South Korea, has emerged as a \npotential \"crypto and Web3 El Dorado,\" a term coined by South Korean \nanalysts from Chosun Ilbo, the country's largest newspaper.\n \nPrime Minister Kishida's Crypto Commitment: A Paradigm Shift\n \nPrime Minister Fumio Kishida's proactive stance on fostering Web3 \ntechnologies and easing crypto regulations positions Japan as a powerhouse in \nthis sp…",
-          "link": "https://www.financemagnates.com//cryptocurrency/the-global-crypto-landscape-japans-ascent-and-argentinas-unconventional-path/",
-          "publishedOn": "2023-11-27T12:13:15.000Z",
-          "wordCount": 7039,
-          "title": "The Global Crypto Landscape: Japan's Ascent and Argentina's Unconventional Path",
-          "imageUrl": "https://images.financemagnates.com/images/crypto_id_7dcbb49e-2f97-4ef2-97bb-fb0bcd0dbd88_size900.jpg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e7493898cdb",
-          "author": "Camomile Shumba",
-          "description": "The FCA is currently exploring whether it could determine money laundering registration applications more quickly for firms already authorized, the report said.",
-          "link": "https://www.coindesk.com/policy/2023/11/27/uk-regulator-welcomes-fund-tokenization-plan-proposed-by-industry-leaders/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-          "publishedOn": "2023-11-27T12:09:28.000Z",
-          "wordCount": 10413,
-          "title": "UK Regulator Welcomes Fund Tokenization Plan Proposed by Industry Leaders",
-          "enclosure": {
-            "length": "1337",
-            "type": "image/jpeg",
-            "url": "https://www.coindesk.com/resizer/W-XBEYLP_ElB_YGL4TiqKvrKSEU=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/7ZUWWHXEQJFSHC7WP6BW36LFUQ.jpg"
-          },
-          "imageUrl": "https://www.coindesk.com/resizer/W-XBEYLP_ElB_YGL4TiqKvrKSEU=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/7ZUWWHXEQJFSHC7WP6BW36LFUQ.jpg"
         }
       ]
     }

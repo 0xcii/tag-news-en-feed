@@ -746,7 +746,7 @@
           "description": "Decrypt joined Dacoco CEO Sarojini McKenna at Web Summit 2023 to talk about Alien Worlds' new Lore DAO and its AI-powered collaboration with sci-fi author Kevin J Anderson.",
           "link": "https://decrypt.co/videos/interviews/QrQTrsjH/dacoco-ceo-saro-mckenna-how-alien-worlds-is-creating-an-ai-powered-lore-dao-with-kevin-j-anderson",
           "publishedOn": "2023-11-15T16:06:48.000Z",
-          "wordCount": 6539,
+          "wordCount": 6406,
           "title": "Dacoco CEO Saro McKenna: How Alien Worlds is Creating an AI-Powered 'Lore DAO' with Kevin J Anderson",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/QrQTrsjH/poster.jpg",
@@ -836,7 +836,7 @@
           "description": "This week our host is joined by Barney the founder of Vega Protocol. \n\nThey discuss the current state of DeFi, what's wrong with the apps being built today, whether or not privacy matters when its only applied to an L2, and most importantly-- which form of sales tax is the sexiest.",
           "link": "https://decrypt.co/videos/interviews/hgDzjboU/barney-on-defi-privacy-and-vega",
           "publishedOn": "2023-11-08T18:27:45.000Z",
-          "wordCount": 6588,
+          "wordCount": 6455,
           "title": "Barney on DeFi, Privacy, and Vega",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/hgDzjboU/poster.jpg",
@@ -852,6 +852,36 @@
       "feedUrl": "https://cryptopanic.com/news/rss/",
       "siteUrl": "https://cryptopanic.com/",
       "articles": [
+        {
+          "id": "https://cryptopanic.com/news/19091335/AMD-Launches-Instinct-MI300-Series-AI-Chips-Gears-Up-for-a-Face-Off-with-Nvidia",
+          "author": null,
+          "description": "In a move challenging Nvidia’s AI computing supremacy, AMD has launched its Instinct MI300X data center GPU, boasting superior memory capabilities and outperforming Nvidia’s flagship H100 in key AI metrics. The company’s strategic push into the AI arena has garnered support from major players...",
+          "link": "https://cryptopanic.com/news/19091335/AMD-Launches-Instinct-MI300-Series-AI-Chips-Gears-Up-for-a-Face-Off-with-Nvidia",
+          "publishedOn": "2023-12-07T02:54:22.000Z",
+          "wordCount": 596,
+          "title": "AMD Launches Instinct MI300 Series AI Chips, Gears Up for a Face-Off with Nvidia",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/19091315/Meta-Enhances-Transparency-with-Invisible-Watermarking-in-AI-Products",
+          "author": null,
+          "description": "Meta Platforms, the parent company of Facebook, is set to introduce invisible watermarking to its AI products, beginning with the text-to-image generation tool called imagine with Meta AI chatbot. This strategic step, announced on Wednesday (Dec 6), is geared towards augmenting transparency and...",
+          "link": "https://cryptopanic.com/news/19091315/Meta-Enhances-Transparency-with-Invisible-Watermarking-in-AI-Products",
+          "publishedOn": "2023-12-07T02:37:49.000Z",
+          "wordCount": 591,
+          "title": "Meta Enhances Transparency with Invisible Watermarking in AI Products",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/19091314/Binance-SBF-ETH-and-Gensler-Get-Mentions-at-Republican-Presidential-Debate",
+          "author": null,
+          "description": "Republican leadership contender Vivek Ramaswamy got the first crypto question.",
+          "link": "https://cryptopanic.com/news/19091314/Binance-SBF-ETH-and-Gensler-Get-Mentions-at-Republican-Presidential-Debate",
+          "publishedOn": "2023-12-07T02:37:03.000Z",
+          "wordCount": 593,
+          "title": "Binance, SBF, ETH and Gensler Get Mentions at Republican Presidential Debate",
+          "imageUrl": "https://www.coindesk.com/resizer/kQmm59Y_GR2b9_wxQJ4TVjXN4aU=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/CTK3LB5WDVBSJKQCR6QI7QQD2I.jpg"
+        },
         {
           "id": "https://cryptopanic.com/news/19091297/Rising-Bitcoin-Fees-Prompt-Renewed-Battle-Over-Ordinals-BRC-20-Tokens",
           "author": null,
@@ -871,6 +901,16 @@
           "wordCount": 593,
           "title": "Solana Dominates Ethereum In Daily Active Wallets, SOL Back To $140?",
           "imageUrl": "https://www.newsbtc.com/wp-content/uploads/2023/12/Crypto-news-Template135.jpg?fit=1380%2C780"
+        },
+        {
+          "id": "https://cryptopanic.com/news/19091312/This-US-State-Is-Mulling-Over-a-Stringent-Crypto-Law",
+          "author": null,
+          "description": "In a move that could have far-reaching implications for the cryptocurrency market, New Jersey recently introduced a new bill to change how cryptocurrencies are treated in the state. The bill seeks to classify all crypto issued and sold to institutional investors as securities. Security...",
+          "link": "https://cryptopanic.com/news/19091312/This-US-State-Is-Mulling-Over-a-Stringent-Crypto-Law",
+          "publishedOn": "2023-12-07T01:52:20.000Z",
+          "wordCount": 592,
+          "title": "This US State Is Mulling Over a Stringent Crypto Law",
+          "imageUrl": "https://beincrypto.com/wp-content/uploads/2023/02/bic_USA_liberty_general_neutral.jpg.webp"
         },
         {
           "id": "https://cryptopanic.com/news/19091268/Dont-AI-Wash-Investment-Pitches-SEC-Chair-Gary-Gensler",
@@ -915,12 +955,12 @@
         {
           "id": "https://cryptopanic.com/news/19091240/Is-This-the-Last-Bitcoin-Bull-Run-Before-It-Becomes-Just-Another-Ticker-Symbol",
           "author": null,
-          "description": "The recent surge in Bitcoin prices has sparked speculation that it could be the last bull market before it becomes a mainstream asset class. Taking to X on December 5, Eugene Ng, a developer, believes that the current Bitcoin rally could be the last “degenerate bull market” before the coin...",
+          "description": "",
           "link": "https://cryptopanic.com/news/19091240/Is-This-the-Last-Bitcoin-Bull-Run-Before-It-Becomes-Just-Another-Ticker-Symbol",
           "publishedOn": "2023-12-07T01:00:12.000Z",
-          "wordCount": 596,
+          "wordCount": null,
           "title": "Is This the Last Bitcoin Bull Run Before It Becomes “Just Another Ticker Symbol”?",
-          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2023/12/Crypto-news-Template137.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/19091235/Crypto-Strategist-Flips-Bullish-on-Gala-dYdX-and-One-Red-Hot-Altcoin-Heres-His-Outlook",
@@ -945,10 +985,10 @@
         {
           "id": "https://cryptopanic.com/news/19091222/Do-Kwon-appeals-extradition-order-amidst-allegations-of-financial-crimes",
           "author": null,
-          "description": "Do Kwon, the co-founder of Terraform Labs, is currently embroiled in a legal battle as he appeals the Montenegrin High Court’s decision to extradite him to face criminal charges related to alleged financial crimes. Kwon, who had been on the run for several months, was arrested in Montenegro in...",
+          "description": "",
           "link": "https://cryptopanic.com/news/19091222/Do-Kwon-appeals-extradition-order-amidst-allegations-of-financial-crimes",
           "publishedOn": "2023-12-07T00:31:30.000Z",
-          "wordCount": 592,
+          "wordCount": null,
           "title": "Do Kwon appeals extradition order amidst allegations of financial crimes",
           "imageUrl": null
         },
@@ -965,10 +1005,10 @@
         {
           "id": "https://cryptopanic.com/news/19091223/European-Central-Bank-report-highlights-the-role-of-crypto",
           "author": null,
-          "description": "",
+          "description": "The European Central Bank (ECB) has released a report shedding light on the growing adoption of cryptocurrencies, particularly Bitcoin (BTC), in emerging and developing economies (EMDEs).  The report identifies three key factors driving this trend and underscores the significance of...",
           "link": "https://cryptopanic.com/news/19091223/European-Central-Bank-report-highlights-the-role-of-crypto",
           "publishedOn": "2023-12-07T00:24:45.000Z",
-          "wordCount": null,
+          "wordCount": 591,
           "title": "European Central Bank report highlights the role of crypto",
           "imageUrl": null
         },
@@ -1005,52 +1045,12 @@
         {
           "id": "https://cryptopanic.com/news/19091181/JPMorgan-CEO-Condemns-Crypto-Calls-For-Government-Shutdown",
           "author": null,
-          "description": "",
+          "description": "JPMorgan Chase CEO Jamie Dimon has once again expressed his strong opposition to crypto, advocating for a ban on digital assets such as Bitcoin (BTC). During a Senate Banking Committee hearing, Dimon made these remarks in response to questions from Senator Elizabeth Warren. Jamie Dimon’s Senate...",
           "link": "https://cryptopanic.com/news/19091181/JPMorgan-CEO-Condemns-Crypto-Calls-For-Government-Shutdown",
           "publishedOn": "2023-12-07T00:00:04.000Z",
-          "wordCount": null,
+          "wordCount": 590,
           "title": "JPMorgan CEO Condemns Crypto, Calls For Government Shutdown",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/19091157/Coinbase-adds-support-for-Solana-based-JTO-token",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/19091157/Coinbase-adds-support-for-Solana-based-JTO-token",
-          "publishedOn": "2023-12-06T23:45:16.000Z",
-          "wordCount": null,
-          "title": "Coinbase adds support for Solana-based $JTO token",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/19091160/How-Many-Solana-SOL-to-Become-a-Crypto-Millionaire",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/19091160/How-Many-Solana-SOL-to-Become-a-Crypto-Millionaire",
-          "publishedOn": "2023-12-06T23:45:00.000Z",
-          "wordCount": null,
-          "title": "How Many Solana SOL to Become a Crypto Millionaire?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/19091156/Ordinals-Test-Bitcoins-Core-Values-Security-Debate-Ensues",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/19091156/Ordinals-Test-Bitcoins-Core-Values-Security-Debate-Ensues",
-          "publishedOn": "2023-12-06T23:41:48.000Z",
-          "wordCount": null,
-          "title": "Ordinals Test Bitcoin’s Core Values, Security Debate Ensues",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/19091124/Solanas-Saga-smartphone-sales-dramatically-underperform-despite-positive-reviews",
-          "author": null,
-          "description": "Solana Labs co-founder Anatoly Yakovenko responded to underwhelming sales of his firm’s smartphone in an interview with Unchained Crypto on Dec 5. The firm unveiled its Android smartphone, Saga, in June 2022 and launched the device in 2023. The company aimed to provide users with a device...",
-          "link": "https://cryptopanic.com/news/19091124/Solanas-Saga-smartphone-sales-dramatically-underperform-despite-positive-reviews",
-          "publishedOn": "2023-12-06T23:35:45.000Z",
-          "wordCount": 591,
-          "title": "Solana’s Saga smartphone sales dramatically underperform despite positive reviews",
-          "imageUrl": "https://cryptoslate.com/wp-content/uploads/2023/12/DALL·E-2023-12-06-17.20.53-Create-an-even-more-detailed-and-hyperrealistic-close-up-image-of-a-high-end-smartphone-for-a-tech-publication-cover.-The-entire-frame-is-filled-with-.jpg"
+          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2023/12/shutterstock_download-1-10.jpg"
         }
       ]
     },
@@ -1059,6 +1059,31 @@
       "feedUrl": "https://www.inoreader.com/stream/user/1005336866/tag/%E6%B5%B7%E5%A4%96%E5%8A%A0%E5%AF%86%E8%B5%84%E8%AE%AF",
       "siteUrl": "https://www.inoreader.com/stream/user/1005336866/tag/%E6%B5%B7%E5%A4%96%E5%8A%A0%E5%AF%86%E8%B5%84%E8%AE%AF/view/html",
       "articles": [
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e7495d6fd3f",
+          "author": "Sam Reynolds",
+          "description": "Republican leadership contender Vivek Ramaswamy got the first crypto question.",
+          "link": "https://www.coindesk.com/policy/2023/12/07/binance-sbf-eth-and-gensler-get-mentions-at-republican-debate/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2023-12-07T02:38:43.000Z",
+          "wordCount": 9948,
+          "title": "Binance, SBF, ETH and Gensler Get Mentions at Republican Presidential Debate",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/jpeg",
+            "url": "https://www.coindesk.com/resizer/R5Ab0LCRv0qEWWJRDO2L1OMnEOU=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/CTK3LB5WDVBSJKQCR6QI7QQD2I.jpg"
+          },
+          "imageUrl": "https://www.coindesk.com/resizer/R5Ab0LCRv0qEWWJRDO2L1OMnEOU=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/CTK3LB5WDVBSJKQCR6QI7QQD2I.jpg"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e7495d7ba6e",
+          "author": "Kevin Helms",
+          "description": "A bill has been introduced in the U.S. state of New Jersey to classify all cryptocurrencies issued and sold directly to institutional investors as securities. In contrast, the U.S. Securities and Exchange Commission (SEC) has previously stated that bitcoin is not a security, but SEC Chairman Gary Gensler views all other crypto tokens as securities.\n \nNew Jersey Bill 5747\n \nNew Jersey Assembly Bill 5747, sponsored by Representative Herbert Conway, was introduced on Nov. 30 in the New Jersey State Assembly to classify all cryptocurrencies issued and sold to institutional investors as securities. According to the text of the bill:\n \n\nThis bill classifies all virtual currencies issued and sold to institutional investors as securities.\n \nUnder the proposed rules, virtual currencies issued and s…",
+          "link": "https://news.bitcoin.com/new-jersey-bill-proposes-classifying-all-crypto-tokens-sold-to-institutional-investors-as-securities/",
+          "publishedOn": "2023-12-07T02:31:18.000Z",
+          "wordCount": 250,
+          "title": "New Jersey Bill Proposes Classifying All Crypto Tokens Sold to Institutional Investors as Securities",
+          "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2023/12/nj-bill.jpg"
+        },
         {
           "id": "http://www.inoreader.com/article/3a9c6e7495df5fa0",
           "author": "Dalmas Ngetich",
@@ -1090,7 +1115,7 @@
           "description": "The latest in blockchain tech upgrades, funding announcements and deals. For the period of Dec 7-Dec. 13, with live updates throughout.",
           "link": "https://www.coindesk.com/tech/2023/12/06/protocol-latest-tech-news-crypto-blockchain/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-12-07T00:08:53.000Z",
-          "wordCount": 10187,
+          "wordCount": 10156,
           "title": "Protocol Village: Beam to Launch on Immutable zkEVM, Gaming-Focused L2 With Polygon Tech",
           "enclosure": {
             "length": "1337",
@@ -1145,7 +1170,7 @@
           "description": "A federal judge accepted Binance founder Changpeng \"CZ\" Zhao's guilty plea to one count of violating the Bank Secrecy Act, but has not yet weighed in on whether Zhao can go back to the United Arab Emirates before he is sentenced in February.",
           "link": "https://www.coindesk.com/policy/2023/12/06/czs-guilty-plea-accepted-by-judge-has-yet-to-decide-if-binance-founder-can-go-home/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-12-06T22:31:58.000Z",
-          "wordCount": 10007,
+          "wordCount": 9970,
           "title": "CZ's Guilty Plea Accepted by Judge, Has Yet to Decide If Binance Founder Can Go Home",
           "enclosure": {
             "length": "1337",
@@ -1185,7 +1210,7 @@
           "description": "Anatoly Legkodymov, a co-founder of Hong Kong-based crypto exchange Bitzlato, pleaded guilty to operating an unlicensed money transmitter. Bitzlato was sanctioned by the U.S government in January.",
           "link": "https://www.coindesk.com/policy/2023/12/06/crypto-exchange-bitzlato-co-founder-pleads-guilty-to-us-money-transmitter-charge/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-12-06T22:01:16.000Z",
-          "wordCount": 9980,
+          "wordCount": 9961,
           "title": "Crypto Exchange Bitzlato Co-Founder Pleads Guilty to U.S. Money Transmitter Charge",
           "enclosure": {
             "length": "1337",
@@ -1200,7 +1225,7 @@
           "description": "Another crypto bill has cleared the goal posts of a committee in the U.S. House of Representatives, with the unanimous approval of legislation that would direct the U.S. Secretary of Commerce to support blockchain technology.",
           "link": "https://www.coindesk.com/policy/2023/12/06/pro-blockchain-bill-clears-hurdle-in-us-house/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-12-06T21:54:43.000Z",
-          "wordCount": 10060,
+          "wordCount": 10023,
           "title": "Pro-Blockchain Bill Clears Hurdle in U.S. House",
           "enclosure": {
             "length": "1337",
@@ -1215,7 +1240,7 @@
           "description": "The unknown seed investor agreed to purchase $100,000 shares on October 27, 2023, BlackRock’s latest filing reveals.",
           "link": "https://www.coindesk.com/business/2023/12/05/blackrock-received-100k-seed-funding-for-spot-bitcoin-etf/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-12-06T21:24:54.000Z",
-          "wordCount": 13111,
+          "wordCount": 13076,
           "title": "BlackRock Received $100K Seed Funding for Spot Bitcoin ETF",
           "enclosure": {
             "length": "1337",
@@ -1265,7 +1290,7 @@
           "description": "JPMorgan Chase CEO Jamie Dimon has never been shy about trashing crypto, even while his giant Wall Street bank became a leader in using blockchain technology to move billions. At a U.S. Senate hearing Wednesday, he slammed the industry again, to the delight of Sen. Elizabeth Warren (D-Mass.), who is trying to impose restrictions to combat illicit digital transactions.",
           "link": "https://www.coindesk.com/policy/2023/12/06/jpmorgans-jamie-dimon-and-sen-elizabeth-warren-team-up-to-bash-crypto/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-12-06T20:12:49.000Z",
-          "wordCount": 10363,
+          "wordCount": 10330,
           "title": "JPMorgan's Jamie Dimon and Sen. Elizabeth Warren Team Up to Bash Crypto",
           "enclosure": {
             "length": "1337",
@@ -1303,36 +1328,6 @@
             "url": "https://bitcoinmagazine.com/.image/c_fit,cs_srgb,fl_progressive,q_auto:good,w_620/MjAyNTQwMDQ0ODE1MTgwODEy/primary-inline-cta.jpg"
           },
           "imageUrl": "https://bitcoinmagazine.com/.image/c_fit,cs_srgb,fl_progressive,q_auto:good,w_620/MjAyNTQwMDQ0ODE1MTgwODEy/primary-inline-cta.jpg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e7495b97b74",
-          "author": "Nik Hoffman",
-          "description": "Testifying before the U.S. Congress today, Jamie Dimon, the CEO of JPMorgan Chase, stirred controversy by expressing his negative opinions on the Bitcoin and crypto market. The renowned banking executive stated that if he held a position in the government, he would \"close down\" Bitcoin and cryptocurrencies.\n\n\n\nDimon, who has been historically critical about Bitcoin and cryptocurrencies, reiterated his concerns regarding how the assets can be used. He emphasized that the government has the power to enforce strict regulations or even shut down the entire crypto space.\n\"I've always been deeply opposed to crypto, Bitcoin, etc,\" said Dimon. \"The true use case for it is criminals, drug traffickers, anti-money laundering, tax avoidance. And that is a use case.\" \nDimon's stance echoes his previous sentiments regarding Bitcoin, as he once labeled it a \"fraud\" and warned investors about its speculative nature. However, he has also acknowledged the underlying technology, blockchain, as having potential applications in various industries.\n\"It is some what anonymous, not fully. And because you can move money instantaneously because it doesn't go through know you customer, sanctions, OFAC — they can bypass all of that,\" Dimon continued. \"If I were the government I'd close it down.\"\nBitcoin has faced criticism from several influential financial figures such as Dimon due to its decentralized nature and perceived risks. It is important to note that while the government could be hostile towards the industry working in the United States, no government could close down the decentralized Bitcoin network.",
-          "link": "https://bitcoinmagazine.com/markets/jpmorgan-ceo-jamie-dimon-tells-congress-hed-close-down-bitcoin-and-crypto",
-          "publishedOn": "2023-12-06T19:48:58.000Z",
-          "wordCount": null,
-          "title": "JPMorgan CEO Jamie Dimon Tells Congress He'd \"Close Down\" Bitcoin And Crypto",
-          "enclosure": {
-            "length": "1337",
-            "type": "image/jpeg",
-            "url": "http://bitcoinmagazine.com/.image/c_limit,cs_srgb,fl_progressive,h_1200,q_auto:good,w_1200/MjAyNzIzNDg2ODk0OTI0ODEy/jamiedimon.jpg"
-          },
-          "imageUrl": "http://bitcoinmagazine.com/.image/c_limit,cs_srgb,fl_progressive,h_1200,q_auto:good,w_1200/MjAyNzIzNDg2ODk0OTI0ODEy/jamiedimon.jpg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e7495a4c205",
-          "author": "Bradley Keoun",
-          "description": "In this week's issue of The Protocol newsletter, we're highlight blockchain developers named in CoinDesk's Most Influential list just out, including Blockstream's Lisa Neigut, Polygon's Jordi Baylina, Base's Jesse Pollak and Optimism's Karl Floersch.",
-          "link": "https://www.coindesk.com/tech/2023/12/06/the-protocol-bitcoin-censorship-or-just-spam-filtering/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-          "publishedOn": "2023-12-06T19:22:49.000Z",
-          "wordCount": 13752,
-          "title": "The Protocol: Bitcoin Censorship, or Just 'Spam Filtering?'",
-          "enclosure": {
-            "length": "1337",
-            "type": "image/jpeg",
-            "url": "https://www.coindesk.com/resizer/q_yH1FrJ5yMYYF0ntFELRB14Mc4=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/AF4QHHYGONAI3PJ52I2HO4P3XM.jpg"
-          },
-          "imageUrl": "https://www.coindesk.com/resizer/q_yH1FrJ5yMYYF0ntFELRB14Mc4=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/AF4QHHYGONAI3PJ52I2HO4P3XM.jpg"
         }
       ]
     }

@@ -581,7 +581,7 @@
           "description": "At the 2023 Film3 Summit, Jordan Bayne—director and founder of The Squad—spoke with Decrypt's Sander Lutz about how the Film3 world has progressed over the last year and what decentralized technologies can offer to creators that want to buck the Hollywood system.",
           "link": "https://decrypt.co/videos/interviews/ZLoEDkL9/director-jordan-bayne-on-the-state-of-film3",
           "publishedOn": "2023-12-05T00:11:59.000Z",
-          "wordCount": 6452,
+          "wordCount": 6323,
           "title": "Director Jordan Bayne on the State of Film3",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/ZLoEDkL9/poster.jpg",
@@ -626,7 +626,7 @@
           "description": "Animoca Brands CEO Robby Yung, EndeavorXR CEO Amy Peck and Gamee co-founder CEO Bozena Rezab joined Decrypt's Stephen Graves on stage at Web Summit to talk about the future of Web3 gaming.",
           "link": "https://decrypt.co/videos/interviews/OvVWhGbW/web-summit-will-web3-gaming-ever-be-mainstream",
           "publishedOn": "2023-11-27T19:08:00.000Z",
-          "wordCount": 6402,
+          "wordCount": 6273,
           "title": "Web Summit: Will Web3 Gaming Ever be Mainstream?",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/OvVWhGbW/poster.jpg",
@@ -673,14 +673,94 @@
       "siteUrl": "https://cryptopanic.com/",
       "articles": [
         {
+          "id": "https://cryptopanic.com/news/19114478/Security-breach-hits-NFT-trader-resulting-in-major-losses",
+          "author": null,
+          "description": "In a significant security breach, the peer-to-peer trading platform NFT Trader experienced a cyberattack on, resulting in the theft of millions of dollars worth of nonfungible tokens (NFTs).  The breach targeted outdated smart contracts, leading NFT Trader to urge its users to revoke delegations...",
+          "link": "https://cryptopanic.com/news/19114478/Security-breach-hits-NFT-trader-resulting-in-major-losses",
+          "publishedOn": "2023-12-16T22:07:40.000Z",
+          "wordCount": 591,
+          "title": "Security breach hits NFT trader, resulting in major losses",
+          "imageUrl": "https://img.cryptopolitan.com/wp-content/uploads/2023/12/photo1702761975.jpeg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/19114477/3-Wishes-for-MiCA-20-as-EU-Draws-Up-Second-Regulatory-Wave",
+          "author": null,
+          "description": "Crypto industry participants, and community members want greater input in the creation of MiCA 2.0.",
+          "link": "https://cryptopanic.com/news/19114477/3-Wishes-for-MiCA-20-as-EU-Draws-Up-Second-Regulatory-Wave",
+          "publishedOn": "2023-12-16T22:05:00.000Z",
+          "wordCount": 594,
+          "title": "3 Wishes for MiCA 2.0 as EU Draws Up Second Regulatory Wave",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/19114479/BNB-chains-game-changing-recovery-from-2022-security-breach",
+          "author": null,
+          "description": "BNB Chain Core has unveiled a comprehensive strategy to recover from a security breach that occurred in October 2022, resulting in significant losses. The attacker managed to exploit the BNB Bridge, accumulating 630,240 BNB supply and borrowing 58,440,000 USDT and 37,440,000 USDC. After more...",
+          "link": "https://cryptopanic.com/news/19114479/BNB-chains-game-changing-recovery-from-2022-security-breach",
+          "publishedOn": "2023-12-16T22:00:53.000Z",
+          "wordCount": 590,
+          "title": "BNB chain’s game-changing recovery from 2022 security breach",
+          "imageUrl": "https://img.cryptopolitan.com/wp-content/uploads/2023/12/photo1702762277.jpeg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/19114476/Shiba-Inu-Team-Member-Addresses-Questions-Of-When-Massive-12-Million-In-SHIB-Will-Be-Burned",
+          "author": null,
+          "description": "A member of the Shiba Inu (SHIB) team has come out to provide an update to the community following a ‘failed promise’. This comes as the team has come under fire for failing to carry out certain transactions that could have been bullish for SHIB’s price. Shiba Inu Team Addresses Burns Delay In a post […]",
+          "link": "https://cryptopanic.com/news/19114476/Shiba-Inu-Team-Member-Addresses-Questions-Of-When-Massive-12-Million-In-SHIB-Will-Be-Burned",
+          "publishedOn": "2023-12-16T22:00:12.000Z",
+          "wordCount": 598,
+          "title": "Shiba Inu Team Member Addresses Questions Of When Massive $1.2 Million In SHIB Will Be Burned",
+          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2023/12/Shiba-Inu-3.jpeg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/19114473/FTXs-revised-reorganization-plan-values-crypto-claims-at-time-of-bankruptcy",
+          "author": null,
+          "description": "The global cryptocurrency market has nearly doubled in the time since FTX filed for bankruptcy, but creditors could miss out.",
+          "link": "https://cryptopanic.com/news/19114473/FTXs-revised-reorganization-plan-values-crypto-claims-at-time-of-bankruptcy",
+          "publishedOn": "2023-12-16T21:56:17.000Z",
+          "wordCount": 593,
+          "title": "FTX’s revised reorganization plan values crypto claims at time of bankruptcy",
+          "imageUrl": "https://www.tbstat.com/wp/uploads/2022/11/20221109_FTX-1200x675.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/19114462/Senator-Elizabeth-Warren-faces-criticism-over-crypto-stance",
+          "author": null,
+          "description": "Renowned lawyer and cryptocurrency supporter, John E. Deaton, has taken to social media to express his disappointment in Senator Elizabeth Warren, accusing her of prioritizing political gains over genuine concerns about cryptocurrency regulation. In a recent tweet, Deaton criticized Warren for...",
+          "link": "https://cryptopanic.com/news/19114462/Senator-Elizabeth-Warren-faces-criticism-over-crypto-stance",
+          "publishedOn": "2023-12-16T21:53:14.000Z",
+          "wordCount": 590,
+          "title": "Senator Elizabeth Warren faces criticism over crypto stance",
+          "imageUrl": "https://img.cryptopolitan.com/wp-content/uploads/2023/12/photo1702762363.jpeg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/19114459/First-Trust-Files-for-Innovative-Bitcoin-Buffer-ETF-with-SEC",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/19114459/First-Trust-Files-for-Innovative-Bitcoin-Buffer-ETF-with-SEC",
+          "publishedOn": "2023-12-16T21:44:00.000Z",
+          "wordCount": null,
+          "title": "First Trust Files for Innovative Bitcoin Buffer ETF with SEC",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/19114439/Crypto-Analyst-Warns-Of-Possible-Bitcoin-Downturn-The-Next-Stop-Is-38K-On-A-Sustained-Break",
+          "author": null,
+          "description": "Cryptocurrency analyst Justin Bennett has warned about a possible downturn in Bitcoin's (CRYPTO: BTC) value. Following a significant uptrend, Bennett suggests that Bitcoin might be heading towards a bearish trend, potentially dropping to the $38,000 mark. read more",
+          "link": "https://cryptopanic.com/news/19114439/Crypto-Analyst-Warns-Of-Possible-Bitcoin-Downturn-The-Next-Stop-Is-38K-On-A-Sustained-Break",
+          "publishedOn": "2023-12-16T21:00:49.000Z",
+          "wordCount": 598,
+          "title": "Crypto Analyst Warns Of Possible Bitcoin Downturn: 'The Next Stop Is $38K On A Sustained Break'",
+          "imageUrl": "https://cdn.benzinga.com/files/images/story/2023/12/16/shutterstock_2153437793.jpg?width=1200&height=800&fit=crop"
+        },
+        {
           "id": "https://cryptopanic.com/news/19114427/Stablecoin-Market-Cap-Flashing-Positive-Sign-for-Crypto-Liquidity-According-to-Analytics-Firm-IntoTheBlock",
           "author": null,
-          "description": "Prominent analytics firm IntoTheBlock says the market capitalization of all stablecoins is on the rise, signaling an increase in the buying power of crypto market participants. The total value of all stablecoins looks primed to rise in December for the second month in a row after declining for a...",
+          "description": "",
           "link": "https://cryptopanic.com/news/19114427/Stablecoin-Market-Cap-Flashing-Positive-Sign-for-Crypto-Liquidity-According-to-Analytics-Firm-IntoTheBlock",
           "publishedOn": "2023-12-16T21:00:39.000Z",
-          "wordCount": 596,
+          "wordCount": null,
           "title": "Stablecoin Market Cap Flashing Positive Sign for Crypto Liquidity, According to Analytics Firm IntoTheBlock",
-          "imageUrl": "https://dailyhodl.com/wp-content/uploads/2023/12/market-cap-sign-firm.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/19114408/BONK-falls-by-20-Is-the-bull-run-over",
@@ -705,22 +785,22 @@
         {
           "id": "https://cryptopanic.com/news/19113421/Live-Exploring-Bitcoin-Self-Sovereignty-with-Graham-Wardle-BTC-Sessions",
           "author": null,
-          "description": "Welcome to our live coverage of 'The Saturday SAT Market' from the heart of Calgary! Today, we're featuring an exclusive Fireside Chat and Q&A session with Graham Wardle, celebrated actor from 'Heartland', and BTC Sessions, a renowned figure in the Bitcoin community. Tune in at 11am to delve...",
+          "description": "",
           "link": "https://cryptopanic.com/news/19113421/Live-Exploring-Bitcoin-Self-Sovereignty-with-Graham-Wardle-BTC-Sessions",
           "publishedOn": "2023-12-16T20:10:00.000Z",
-          "wordCount": 593,
+          "wordCount": null,
           "title": "Live: Exploring Bitcoin & Self-Sovereignty with Graham Wardle & BTC Sessions",
-          "imageUrl": "https://i1.ytimg.com/vi/TiMeiU3-Fvs/hqdefault.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/19114388/Scholars-and-Innovators-Collaborate-to-Transform-Quranic-Understanding-with-AI",
           "author": null,
-          "description": "KUALA LUMPUR – The Federal Territories Islamic Religious Council (MAIWP) has extended an invitation to Islamic scholars and technology investors, particularly those in the field of artificial intelligence (AI), to collaborate in the development of an AI-powered Quran. This initiative aims to...",
+          "description": "",
           "link": "https://cryptopanic.com/news/19114388/Scholars-and-Innovators-Collaborate-to-Transform-Quranic-Understanding-with-AI",
           "publishedOn": "2023-12-16T20:06:00.000Z",
-          "wordCount": 592,
+          "wordCount": null,
           "title": "Scholars and Innovators Collaborate to Transform Quranic Understanding with AI",
-          "imageUrl": "https://img.cryptopolitan.com/wp-content/uploads/2023/12/image-2023-12-16T164249.612.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/19114387/Ripples-CLO-Anticipates-Historic-Resolution-in-SEC-Lawsuit",
@@ -745,12 +825,12 @@
         {
           "id": "https://cryptopanic.com/news/19114400/Hacker-Who-Stole-Millions-Worth-of-NFTs-Demands-a-Ransom",
           "author": null,
-          "description": "In a brazen cyber heist, the peer-to-peer trading platform NFT Trader fell victim to a sophisticated hack. It resulted in the theft of millions of dollars worth of high-value Non-Fungible Tokens (NFTs). Among the stolen digital assets were rare tokens from prominent collections like Bored Ape...",
+          "description": "",
           "link": "https://cryptopanic.com/news/19114400/Hacker-Who-Stole-Millions-Worth-of-NFTs-Demands-a-Ransom",
           "publishedOn": "2023-12-16T20:01:00.000Z",
-          "wordCount": 592,
+          "wordCount": null,
           "title": "Hacker Who Stole Millions Worth of NFTs Demands a Ransom",
-          "imageUrl": "https://beincrypto.com/wp-content/uploads/2022/10/bic_artwork_Hacker_chain.png"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/19114380/Google-Releases-Gemini-Pro-for-Developers-and-Enterprises",
@@ -765,12 +845,12 @@
         {
           "id": "https://cryptopanic.com/news/19114373/Tether-takes-an-unconventional-approach-with-US-market-regulators",
           "author": null,
-          "description": "Tether, the corporation behind the Tether stablecoin, published letters to US politicians addressing calls for involvement by the Department of Justice (DOJ) with respect to the criminal usage of its stablecoin. On November 16 and December 15, letters were made to United States Senate Committee...",
+          "description": "",
           "link": "https://cryptopanic.com/news/19114373/Tether-takes-an-unconventional-approach-with-US-market-regulators",
           "publishedOn": "2023-12-16T19:48:29.000Z",
-          "wordCount": 591,
+          "wordCount": null,
           "title": "Tether takes an unconventional approach with US market regulators",
-          "imageUrl": "https://img.cryptopolitan.com/wp-content/uploads/2023/12/Tether.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/19114377/Steps-from-Tether-to-Cooperate-with-the-US-They-Incorporated-the-FBI-and-the-US-Secret-Service-into-their-Platform",
@@ -791,86 +871,6 @@
           "wordCount": null,
           "title": "Crypto Company SafeMoon Files for Bankruptcy Following Founder and Executives’ Indictment on Fraud Charges Last Month",
           "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/19114374/VanEck-is-highly-bullish-on-Bitcoin",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/19114374/VanEck-is-highly-bullish-on-Bitcoin",
-          "publishedOn": "2023-12-16T19:35:07.000Z",
-          "wordCount": null,
-          "title": "VanEck is highly bullish on Bitcoin",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/19114366/OpenAI-Launches-Converge-2-1-Million-Investment-for-15-AI-Startups-Worldwide",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/19114366/OpenAI-Launches-Converge-2-1-Million-Investment-for-15-AI-Startups-Worldwide",
-          "publishedOn": "2023-12-16T19:33:00.000Z",
-          "wordCount": null,
-          "title": "OpenAI Launches Converge 2: $1 Million Investment for 15 AI Startups Worldwide",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/19114364/Tether-Weve-onboarded-FBI-Secret-Service-to-our-platform",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/19114364/Tether-Weve-onboarded-FBI-Secret-Service-to-our-platform",
-          "publishedOn": "2023-12-16T19:32:57.000Z",
-          "wordCount": null,
-          "title": "Tether: We’ve onboarded FBI, Secret Service to our platform",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/19114350/Mysterious-Ethereum-Whale-emerges-from-shadows-triggers-massive-sell-off",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/19114350/Mysterious-Ethereum-Whale-emerges-from-shadows-triggers-massive-sell-off",
-          "publishedOn": "2023-12-16T19:15:39.000Z",
-          "wordCount": null,
-          "title": "Mysterious Ethereum Whale emerges from shadows, triggers massive sell-off",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/19114340/TRON-Founder-Justin-Sun-Accumulated-4-Altcoins-on-Binance-Today",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/19114340/TRON-Founder-Justin-Sun-Accumulated-4-Altcoins-on-Binance-Today",
-          "publishedOn": "2023-12-16T19:07:05.000Z",
-          "wordCount": null,
-          "title": "TRON Founder Justin Sun Accumulated 4 Altcoins on Binance Today",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/19114338/Ripple-CBDCs-Were-in-Focus-in-2023-Community-Expert-Says",
-          "author": null,
-          "description": "Here's why retail and business payments might not be core focus for Ripple any longer",
-          "link": "https://cryptopanic.com/news/19114338/Ripple-CBDCs-Were-in-Focus-in-2023-Community-Expert-Says",
-          "publishedOn": "2023-12-16T19:06:00.000Z",
-          "wordCount": 592,
-          "title": "Ripple CBDCs Were in Focus in 2023, Community Expert Says",
-          "imageUrl": "https://u.today/sites/default/files/styles/twitter/public/2023-12/43015.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/19114337/Would-you-go-back-in-time-to-buy-bitcoin-part-4-bitcoin-crypto-shorts",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/19114337/Would-you-go-back-in-time-to-buy-bitcoin-part-4-bitcoin-crypto-shorts",
-          "publishedOn": "2023-12-16T19:00:12.000Z",
-          "wordCount": null,
-          "title": "Would you go back in time to buy bitcoin? (part 4) #bitcoin #crypto #shorts",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/19114325/Inflation-has-a-new-challenger-and-it-is-the-US-housing-market",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/19114325/Inflation-has-a-new-challenger-and-it-is-the-US-housing-market",
-          "publishedOn": "2023-12-16T18:53:33.000Z",
-          "wordCount": null,
-          "title": "Inflation has a new challenger – and it is the U.S. housing market",
-          "imageUrl": null
         }
       ]
     },
@@ -879,6 +879,31 @@
       "feedUrl": "https://www.inoreader.com/stream/user/1005336866/tag/%E6%B5%B7%E5%A4%96%E5%8A%A0%E5%AF%86%E8%B5%84%E8%AE%AF",
       "siteUrl": "https://www.inoreader.com/stream/user/1005336866/tag/%E6%B5%B7%E5%A4%96%E5%8A%A0%E5%AF%86%E8%B5%84%E8%AE%AF/view/html",
       "articles": [
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e748ff02c80",
+          "author": "Jamie Redman",
+          "description": "In a recent announcement, Shakepay, the Canadian crypto app, disclosed a data breach involving unauthorized access to personal information of a select group of its customers. The breach, detected on Dec. 13, 2023, compromised data but did not affect any bank accounts, crypto wallets, or customer credentials.\n \nShakepay Addresses Data Breach Concerns, Offers Free Credit Monitoring to Impacted Users\n \nThe breach at Shakepay, which offers commission-free services for trading bitcoin (BTC) and ethereum (ETH), was identified following unusual activity on an employee’s work device. Shakepay’s security team quickly responded, deauthenticating and removing the compromised device from their network. This action was part of the company’s incident response protocol, aimed at minimizing the impact of …",
+          "link": "https://news.bitcoin.com/crypto-app-shakepay-reveals-data-breach-affecting-a-small-number-of-customers/",
+          "publishedOn": "2023-12-16T22:06:40.000Z",
+          "wordCount": 265,
+          "title": "Crypto App Shakepay Reveals Data Breach Affecting a ‘Small Number’ of Customers",
+          "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2023/12/jup.jpg"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e748ff042cd",
+          "author": "Scott Matherson",
+          "description": "A member of the Shiba Inu (SHIB) team has come out to provide an update to the community following a ‘failed promise’. This comes as the team has come under fire for failing to carry out certain transactions that could have been bullish for SHIB’s price.\n \nShiba Inu Team Addresses Burns Delay\n \nIn a post on his X (formerly Twitter) platform, Digarch shared an update on the SHIB burns from the Shibarium development team. The post contained a screenshotted Telegram message from DaVinci, who highlighted the fact that the burn didn’t take place as scheduled. He further mentioned that there was no exact timing for when these burns will now take place. \n \n \nMany in the Shiba Inu community, however, seemed displeased with the update. One X user alluded to the poor communication from the team. The…",
+          "link": "https://bitcoinist.com/shiba-inu-team-1-2-million-burned/",
+          "publishedOn": "2023-12-16T22:05:51.000Z",
+          "wordCount": 5639,
+          "title": "Shiba Inu Team Member Addresses Questions Of When Massive $1.2 Million In SHIB Will Be Burned",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/jpeg",
+            "url": "https://bitcoinist.com/wp-content/uploads/2023/12/Shiba-Inu-3.jpeg?fit=640,360"
+          },
+          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2023/12/Shiba-Inu-3.jpeg?fit=640,360"
+        },
         {
           "id": "http://www.inoreader.com/article/3a9c6e748fff1d71",
           "author": "Jamie Redman",
@@ -995,7 +1020,7 @@
           "description": "An unidentified decentralized crypto exchange and Nirvana Financial, a decentralized financial yield protocol, were both compromised in a hacking incident, which a software engineer admitted to.\n \nA maximum five-year prison term awaits him for wire fraud and money laundering charges. According to the US Attorney’s Office, this was the first smart contract hacking case to result in a conviction.\n \nShakeeb Ahmed has agreed to turn over $12.3 million, including $5.6 million in unlawfully obtained cryptocurrencies, as part of his guilty plea.\n \n \nExploiting Smart Contracts: Ahmed’s Crypto Heist\n \nThis appeal is a result of his role in taking advantage of flaws in Nirvana Finance’s and another anonymous decentralized digital currency exchange’s smart contracts.\n \nAhmed hacked two decentralized …",
           "link": "https://bitcoinist.com/crypto-security-engineer-guilty-of-12m-hack/",
           "publishedOn": "2023-12-16T11:34:54.000Z",
-          "wordCount": 5584,
+          "wordCount": 5585,
           "title": "Security Engineer Pleads Guilty To $12 Million Crypto Exchange Hack",
           "enclosure": {
             "length": "1337",
@@ -1060,7 +1085,7 @@
           "description": "In an interesting turn in the long-lasting regulatory saga between Coinbase and the US Securities and Exchange Commission (SEC), the US securities regulator has formally denied the American exchange’s request for the creation of new rules guiding the use of digital assets. In a swift response, Coinbase has moved to counter this development, filing a petition in court to reverse the SEC’s decision.\n \n \nSEC Denies Regulations Request, Citing Existing Applicability To Crypto\n \nOn Friday, December 15, the SEC rejected Coinbase’s petition for rulemaking in regard to digital asset regulations. Expressing clear support for this decision, the Commission’s chairman Gary Gensler explained that existing securities law, such as the Howey Test, already applies to cryptocurrencies.\n \nThe SEC chief said:…",
           "link": "https://bitcoinist.com/coinbase-responds-to-sec-denial-of-rules-request/",
           "publishedOn": "2023-12-16T07:40:32.000Z",
-          "wordCount": 5549,
+          "wordCount": 5550,
           "title": "Coinbase Responds To SEC Denial Of Regulations Request – Details",
           "enclosure": {
             "length": "1337",
@@ -1098,31 +1123,6 @@
           "wordCount": 244,
           "title": "IMF Chief Calls for Clear Crypto Regulation — Warns High Crypto Adoption Could Undermine Financial Stability",
           "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2023/12/imf-crypto.jpg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e748f9fb089",
-          "author": "Kevin Helms",
-          "description": "A finance professor at Georgetown University has urged the U.S. Securities and Exchange Commission (SEC) to avoid micromanaging the creation/redemption process for spot bitcoin exchange-traded funds (ETFs). While the SEC proposed the cash creation method, applicants like Blackrock and Fidelity have advocated for the in-kind creation method. “Now that the Commission has seemingly become comfortable with allowing spot bitcoin ETFs to trade in the U.S., it should not squander this positive development by forcing a suboptimal product (cash-only creation/redemption) to come to market,” said the professor.\n \nGeorgetown Professor Urges SEC to Let Spot Bitcoin ETFs Use In-Kind Creation Method\n \nJames Angel, an Associate Professor of Finance at Georgetown University, penned a letter to the U.S. Sec…",
-          "link": "https://news.bitcoin.com/finance-professor-blasts-secs-potential-cash-only-rule-for-spot-bitcoin-etfs-citing-benefits-of-in-kind-model/",
-          "publishedOn": "2023-12-16T02:39:02.000Z",
-          "wordCount": 260,
-          "title": "Finance Professor Blasts SEC’s Potential Cash-Only Rule for Spot Bitcoin ETFs Citing Benefits of In-Kind Model",
-          "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2023/12/georgetown-professor.jpg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e748f86a5cc",
-          "author": "Ronaldo Marquez",
-          "description": "According to a report by the Financial Times, Meta (formerly known as Facebook) has publicly apologized to Qatari billionaire Wissam al Mana and pledged to provide additional safeguards after his image was exploited in crypto scam advertisements on the platform.\n \nThe prominent businessman, also known as the former husband of pop star Janet Jackson, took legal action against Meta in Dublin, Ireland, over the past three years, alleging significant reputational damage, distress, and embarrassment caused by the fraudulent ads.\n \nMeta Admits Publishing False And Defamatory Crypto Ads\n \nDuring a court hearing in Dublin on Friday, Meta admitted that “false, misleading, and defamatory advertisements” featuring Wissam al Mana’s image were published on Facebook without his knowledge or consent. The…",
-          "link": "https://bitcoinist.com/meta-reaches-settlement-with-qatari-crypto-scam-ad/",
-          "publishedOn": "2023-12-16T01:08:38.000Z",
-          "wordCount": 5670,
-          "title": "Meta Reaches Settlement With Qatari Billionaire In Crypto Scam Ad Case",
-          "enclosure": {
-            "length": "1337",
-            "type": "image/jpeg",
-            "url": "https://bitcoinist.com/wp-content/uploads/2023/12/shutterstock_download-2-6.jpg?fit=417,260"
-          },
-          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2023/12/shutterstock_download-2-6.jpg?fit=417,260"
         }
       ]
     }

@@ -191,7 +191,7 @@
           "description": "Decrypt and Rug Radio have announced their intent to merge, creating the world’s biggest decentralized publishing company. Codenamed [REDACTED], the alliance is aimed at revolutionizing tech-media, bringing together the forces of content creation and consumption.",
           "link": "https://decrypt.co/videos/live-events/VTEBYFD8/decrypt-and-rug-radio-merge-to-create-global-web3-publishing-company",
           "publishedOn": "2023-12-21T17:04:32.000Z",
-          "wordCount": 6896,
+          "wordCount": 6734,
           "title": "Decrypt and Rug Radio Merge to Create Global Web3 Publishing Company",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/VTEBYFD8/poster.jpg",
@@ -671,7 +671,7 @@
           "description": "Ember Sword CEO Mark Laursen shares why some big game studios \"irk\" him—and why he got into game development.",
           "link": "https://decrypt.co/videos/interviews/M9OHCVpA/interview-ember-sword-ceo-says-nft-games-are-more-transparent",
           "publishedOn": "2023-12-07T21:58:58.000Z",
-          "wordCount": 6613,
+          "wordCount": 6646,
           "title": "INTERVIEW: Ember Sword CEO Says NFT Games Are More 'Transparent'",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/M9OHCVpA/poster.jpg",
@@ -748,24 +748,84 @@
       "siteUrl": "https://cryptopanic.com/",
       "articles": [
         {
+          "id": "https://cryptopanic.com/news/19128664/The-Graph-the-on-chain-data-indexing-protocol-aims-to-expand-its-services-in-the-crypto-world",
+          "author": null,
+          "description": "On December 20th, the indexing protocol for crypto The Graph celebrated its third anniversary.",
+          "link": "https://cryptopanic.com/news/19128664/The-Graph-the-on-chain-data-indexing-protocol-aims-to-expand-its-services-in-the-crypto-world",
+          "publishedOn": "2023-12-23T07:00:00.000Z",
+          "wordCount": 600,
+          "title": "The Graph: the on-chain data indexing protocol aims to expand its services in the crypto world.",
+          "imageUrl": "https://cryptonomist.ch/wp-content/uploads/2023/12/the-graph-crypto.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/19128663/The-blockchain-aligned-with-GDPR-is-coming",
+          "author": null,
+          "description": "A subnet of Internet Computer with all nodes located in the EU and that allows data processing in compliance with the law.",
+          "link": "https://cryptopanic.com/news/19128663/The-blockchain-aligned-with-GDPR-is-coming",
+          "publishedOn": "2023-12-23T07:00:00.000Z",
+          "wordCount": 591,
+          "title": "The blockchain aligned with GDPR is coming.",
+          "imageUrl": "https://cryptonomist.ch/wp-content/uploads/2023/12/blockchain-gdpr.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/19128639/OpenAI-Aims-High-Targets-100-Billion-Valuation-in-Fresh-Funding-Negotiations",
+          "author": null,
+          "description": "In a move that could redefine the landscape of artificial intelligence (AI) startups, OpenAI, under the leadership of Sam Altman, is actively engaging in early talks to secure new funds, targeting a valuation of no less than $100 billion. This potential development, with a minimum $10 billion...",
+          "link": "https://cryptopanic.com/news/19128639/OpenAI-Aims-High-Targets-100-Billion-Valuation-in-Fresh-Funding-Negotiations",
+          "publishedOn": "2023-12-23T06:28:11.000Z",
+          "wordCount": 596,
+          "title": "OpenAI Aims High – Targets $100 Billion Valuation in Fresh Funding Negotiations",
+          "imageUrl": "https://img.cryptopolitan.com/wp-content/uploads/2023/12/DALL·E-2023-12-23-11.26.13-A-futuristic-office-scene-with-a-diverse-group-of-business-professionals-men-and-women-of-various-descents-engaged-in-an-animated-discussion-around.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/19128640/Ripple-vs-SEC-XRP-case-intensifies-as-Kraken-defends-user-privacy",
+          "author": null,
+          "description": "In a significant development in the ongoing legal battle between Ripple and its plaintiffs, the cryptocurrency exchange Kraken has filed a motion to intervene. This move comes in response to a court order demanding US-based exchanges to disclose private trading data, including the identities of...",
+          "link": "https://cryptopanic.com/news/19128640/Ripple-vs-SEC-XRP-case-intensifies-as-Kraken-defends-user-privacy",
+          "publishedOn": "2023-12-23T06:24:13.000Z",
+          "wordCount": 595,
+          "title": "Ripple vs. SEC: XRP case intensifies as Kraken defends user privacy",
+          "imageUrl": "https://img.cryptopolitan.com/wp-content/uploads/2023/12/DALL·E-2023-12-23-09.06.55-A-highly-detailed-and-artistic-representation-of-the-XRP-cryptocurrency.-The-image-features-a-large-shimmering-coin-in-the-center-embossed-with-the-.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/19128634/BitMEX-Co-Founder-Predicts-the-Death-of-Bitcoin-Following-ETF-Launch",
+          "author": null,
+          "description": "BitMEX co-founder Arthur Hayes predicts the destruction of Bitcoin following the ETF launch. Hayes asserts that the success of traditional finance platforms’ ETFs will result in the death of BTC. The prediction is based on the findings that Bitcoin’s existence is completely dependent on its use....",
+          "link": "https://cryptopanic.com/news/19128634/BitMEX-Co-Founder-Predicts-the-Death-of-Bitcoin-Following-ETF-Launch",
+          "publishedOn": "2023-12-23T06:18:00.000Z",
+          "wordCount": 594,
+          "title": "BitMEX Co-Founder Predicts the Death of Bitcoin Following ETF Launch",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/19128632/LINE-NEXT-Raises-140-Million-to-Expand-Web3-Presence-and-Launch-NFT-Marketplace",
+          "author": null,
+          "description": "LINE NEXT, a South Korea-based social media platform, has completed a $140 million funding round led by Peter Thiel-backed private equity firm Crescendo Equity Partners. This funding round, described as Asia’s largest Web3 investment in 2023, signifies a significant step forward for LINE NEXT’s...",
+          "link": "https://cryptopanic.com/news/19128632/LINE-NEXT-Raises-140-Million-to-Expand-Web3-Presence-and-Launch-NFT-Marketplace",
+          "publishedOn": "2023-12-23T06:12:59.000Z",
+          "wordCount": 597,
+          "title": "LINE NEXT Raises $140 Million to Expand Web3 Presence and Launch NFT Marketplace",
+          "imageUrl": "https://img.cryptopolitan.com/wp-content/uploads/2023/12/DALL·E-2023-12-23-09.11.46-A-digital-painting-representing-LINE-NEXT-Raises-140-Million-to-Expand-Web3-Presence-and-Launch-NFT-Marketplace-without-a-futuristic-digital-market.jpg"
+        },
+        {
           "id": "https://cryptopanic.com/news/19128626/Study-Reveals-RehabChats-Potential-in-Traumatic-Brain-Injury-Rehabilitation",
           "author": null,
-          "description": "",
+          "description": "In a study conducted by Flinders University, the potential of chatbot technology in aiding the rehabilitation journey of individuals recovering from traumatic brain injuries (TBI) has been unveiled. This innovative study marks a significant step forward in the integration of digital tools into...",
           "link": "https://cryptopanic.com/news/19128626/Study-Reveals-RehabChats-Potential-in-Traumatic-Brain-Injury-Rehabilitation",
           "publishedOn": "2023-12-23T05:55:40.000Z",
-          "wordCount": null,
+          "wordCount": 593,
           "title": "Study Reveals RehabChat’s Potential in Traumatic Brain Injury Rehabilitation",
-          "imageUrl": null
+          "imageUrl": "https://img.cryptopolitan.com/wp-content/uploads/2023/12/DALL·E-2023-12-23-08.55.07-A-digital-painting-depicting-the-concept-of-RehabChat-a-chatbot-aiding-traumatic-brain-injury-recovery.-The-image-shows-a-cozy-home-setting-with-a-.jpg"
         },
         {
           "id": "https://cryptopanic.com/news/19128623/Ripple-CLO-Stuart-Alderoty-discloses-SEC-settlement-offer",
           "author": null,
-          "description": "",
+          "description": "Stuart Alderoty, the Chief Legal Officer of Ripple, has disclosed a significant development in the long-standing legal dispute between Ripple and the U.S. Securities and Exchange Commission (SEC). Three years after the SEC filed a lawsuit against Ripple, its co-founder Christian Larsen, and CEO...",
           "link": "https://cryptopanic.com/news/19128623/Ripple-CLO-Stuart-Alderoty-discloses-SEC-settlement-offer",
           "publishedOn": "2023-12-23T05:46:51.000Z",
-          "wordCount": null,
+          "wordCount": 592,
           "title": "Ripple CLO Stuart Alderoty discloses SEC settlement offer",
-          "imageUrl": null
+          "imageUrl": "https://img.cryptopolitan.com/wp-content/uploads/2023/12/DALL·E-2023-12-23-08.19.29-A-symbolic-representation-of-a-legal-battle-between-XRP-cryptocurrency-and-the-SEC.-On-one-side-a-giant-gleaming-gold-coin-with-the-XRP-logo-emblazo.jpg"
         },
         {
           "id": "https://cryptopanic.com/news/19128624/Amazon-Faces-Controversy-as-AI-Generated-Book-Mimics-Grieving-Mothers-Work",
@@ -800,32 +860,32 @@
         {
           "id": "https://cryptopanic.com/news/19128609/Michael-Saylor-Predicts-Demand-Shock-As-Bitcoins-Market-Cap-Skyrockets-160-In-2023-Gaining-530B-On-ETF-Hopes",
           "author": null,
-          "description": "Bitcoin’s (CRYPTO: BTC) market capitalization has surged by 160% in 2023, an increase of $530 billion, after suffering a $1.5 trillion depreciation the previous year. read more",
+          "description": "",
           "link": "https://cryptopanic.com/news/19128609/Michael-Saylor-Predicts-Demand-Shock-As-Bitcoins-Market-Cap-Skyrockets-160-In-2023-Gaining-530B-On-ETF-Hopes",
           "publishedOn": "2023-12-23T05:14:20.000Z",
-          "wordCount": 602,
+          "wordCount": null,
           "title": "Michael Saylor Predicts 'Demand Shock' As Bitcoin's Market Cap Skyrockets 160% In 2023, Gaining $530B On ETF Hopes",
-          "imageUrl": "https://cdn.benzinga.com/files/images/story/2023/BITCOIN-ETF_11.jpeg?width=1200&height=800&fit=crop"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/19128602/Ripple-SVP-Predicts-Banks-Will-Embrace-Cryptos-Revenue-Growth-And-Customer-Benefits",
           "author": null,
-          "description": "In a series of predictions, Ripple’s Senior Vice Presidents (SVPs) Eric van Miltenburg and Aaron Sears foresee a transformative shift in the financial landscape, with traditional finance institutions embracing cryptocurrencies and regulatory alignment taking place. Financial Institutions...",
+          "description": "",
           "link": "https://cryptopanic.com/news/19128602/Ripple-SVP-Predicts-Banks-Will-Embrace-Cryptos-Revenue-Growth-And-Customer-Benefits",
           "publishedOn": "2023-12-23T05:00:14.000Z",
-          "wordCount": 596,
+          "wordCount": null,
           "title": "Ripple SVP Predicts Banks Will Embrace Crypto’s Revenue Growth And Customer Benefits",
-          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2023/12/shutterstock_download-2-18.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/19120320/WHY-ARE-WE-BULLISH-Christmas-Special-2023",
           "author": null,
-          "description": "WELCOME to the 3rd annual Sessions XMAS Special! This year's guests include (but are not limited to):Joe Hall, Mike Peterson (Bitcoin Beach), Brian DeMint, Peter St Onge, James Lavish, Francis Pouliot, Vortex, Wicked, Will Casarin, Rockstar Dev, Guy Swann, Ben Carman, Nate G, Blue Collar...",
+          "description": "",
           "link": "https://cryptopanic.com/news/19120320/WHY-ARE-WE-BULLISH-Christmas-Special-2023",
           "publishedOn": "2023-12-23T04:48:16.000Z",
-          "wordCount": 591,
+          "wordCount": null,
           "title": "WHY ARE WE BULLISH? Christmas Special 2023",
-          "imageUrl": "https://i2.ytimg.com/vi/5YksTPx3c6g/hqdefault.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/19128591/Spot-Bitcoin-ETFs-Game-Changing-Catalysts-or-Market-Realities",
@@ -860,22 +920,22 @@
         {
           "id": "https://cryptopanic.com/news/19128564/Free-Bitcoin-BTC-Nasdaq-Correlation-Dips-Into-Negative",
           "author": null,
-          "description": "Data shows the Bitcoin correlation to Nasdaq has plunged recently, suggesting that the cryptocurrency is moving more independently now. Bitcoin 60-Day Correlation With Nasdaq Is Now Underwater According to data from the analytics firm Kaiko, BTC has recently become less correlated to traditional...",
+          "description": "",
           "link": "https://cryptopanic.com/news/19128564/Free-Bitcoin-BTC-Nasdaq-Correlation-Dips-Into-Negative",
           "publishedOn": "2023-12-23T03:30:04.000Z",
-          "wordCount": 591,
+          "wordCount": null,
           "title": "Free Bitcoin: BTC-Nasdaq Correlation Dips Into Negative",
-          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2023/12/andre-francois-mckenzie-JrjhtBJ-pGU-unsplash-1.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/19128562/Can-AI-in-Weather-Forecasts-Weather-the-Storm-of-Climate-Change-in-India",
           "author": null,
-          "description": "In a bid to confront the escalating challenges posed by erratic weather patterns, India is embarking on a groundbreaking initiative, leveraging the power of AI in weather forecasts, to integrate artificial intelligence into its weather forecasting systems. Torrential rains, floods, and droughts...",
+          "description": "",
           "link": "https://cryptopanic.com/news/19128562/Can-AI-in-Weather-Forecasts-Weather-the-Storm-of-Climate-Change-in-India",
           "publishedOn": "2023-12-23T03:22:13.000Z",
-          "wordCount": 597,
+          "wordCount": null,
           "title": "Can AI in Weather Forecasts Weather the Storm of Climate Change in India?",
-          "imageUrl": "https://img.cryptopolitan.com/wp-content/uploads/2023/12/DALL·E-2023-12-23-08.19.12-An-illustration-depicting-Indias-use-of-AI-for-weather-forecasting.-The-image-features-a-map-of-India-in-the-center-overlaid-with-digital-holograph.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/19128556/Ripples-Bold-Move-Exploring-AI-Integration-XRP-Price-Holds-Steady",
@@ -885,66 +945,6 @@
           "publishedOn": "2023-12-23T03:02:25.000Z",
           "wordCount": null,
           "title": "Ripple’s Bold Move – Exploring AI Integration, XRP Price Holds Steady",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/19128554/There-Is-a-Crypto-Museum-Being-Built-and-You-Need-To-Pay-Attention",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/19128554/There-Is-a-Crypto-Museum-Being-Built-and-You-Need-To-Pay-Attention",
-          "publishedOn": "2023-12-23T03:01:57.000Z",
-          "wordCount": null,
-          "title": "There Is a Crypto Museum Being Built and You Need To Pay Attention",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/19128534/FTX-Strikes-Settlement-Over-Embed-Acquisition-Amid-Bankruptcy-With-Founder-Sam-Bankman-Fried-And-Others",
-          "author": null,
-          "description": "FTX, amidst bankruptcy, reaches a settlement related to their acquisition of Embed, ensuring recovery for debtors but still pursuing claims against founder Sam Bankman-Fried and others, following a series of lawsuits. read more",
-          "link": "https://cryptopanic.com/news/19128534/FTX-Strikes-Settlement-Over-Embed-Acquisition-Amid-Bankruptcy-With-Founder-Sam-Bankman-Fried-And-Others",
-          "publishedOn": "2023-12-23T02:35:25.000Z",
-          "wordCount": 598,
-          "title": "FTX Strikes Settlement Over Embed Acquisition Amid Bankruptcy With Founder Sam Bankman-Fried And Others",
-          "imageUrl": "https://media.cryptopanic.com//next-assets/images/schema-image-default.png"
-        },
-        {
-          "id": "https://cryptopanic.com/news/19128528/Ethereums-Dencun-upgrade-set-for-launch-in-2024-details-here",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/19128528/Ethereums-Dencun-upgrade-set-for-launch-in-2024-details-here",
-          "publishedOn": "2023-12-23T02:30:49.000Z",
-          "wordCount": null,
-          "title": "Ethereum’s Dencun upgrade set for launch in 2024, details here",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/19128514/Crypto-Cases-Epic-Flaws-Exposed-SECs-Bold-Plea-For-Sanction-Waiver-Uncovers-Critical-Insights",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/19128514/Crypto-Cases-Epic-Flaws-Exposed-SECs-Bold-Plea-For-Sanction-Waiver-Uncovers-Critical-Insights",
-          "publishedOn": "2023-12-23T02:00:39.000Z",
-          "wordCount": null,
-          "title": "Crypto Case’s Epic Flaws Exposed: SEC’s Bold Plea For Sanction Waiver Uncovers Critical Insights",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/19128506/Crypto-Alarm-XRPs-Trade-Volume-Hits-Six-Year-Low-A-Cause-For-Concern",
-          "author": null,
-          "description": "A significant dip in XRP daily trading volume has caught the attention of investors and analysts alike. On Thursday, XRP’s trading volume plummeted to levels not seen in the past six years, a development that has raised eyebrows among crypto enthusiasts. On this day, December 21st, #XRP :...",
-          "link": "https://cryptopanic.com/news/19128506/Crypto-Alarm-XRPs-Trade-Volume-Hits-Six-Year-Low-A-Cause-For-Concern",
-          "publishedOn": "2023-12-23T02:00:30.000Z",
-          "wordCount": 596,
-          "title": "Crypto Alarm: XRP’s Trade Volume Hits Six-Year Low, A Cause For Concern?",
-          "imageUrl": "https://www.newsbtc.com/wp-content/uploads/2023/03/XRP-2.jpeg?fit=1140%2C815"
-        },
-        {
-          "id": "https://cryptopanic.com/news/19128504/OpenAI-eyes-potential-funding-round-exceeding-100B-Report",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/19128504/OpenAI-eyes-potential-funding-round-exceeding-100B-Report",
-          "publishedOn": "2023-12-23T01:53:41.000Z",
-          "wordCount": null,
-          "title": "OpenAI eyes potential funding round exceeding $100B: Report",
           "imageUrl": null
         }
       ]
@@ -1075,7 +1075,7 @@
           "description": "Would-be bitcoin exchange-traded fund (ETF) issuer Hashdex changed its paperwork Friday, naming BitGo as its bitcoin custodian and changing the name of its Bitcoin Futures ETF to the Hashdex Bitcoin ETF as it – and other companies – continue to hope for an approval for the U.S.'s first spot bitcoin ETF early in the new year.",
           "link": "https://www.coindesk.com/policy/2023/12/22/hashdex-names-bitgo-as-bitcoin-etf-custodian-as-applicants-continue-sec-meetings/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-12-22T23:43:23.000Z",
-          "wordCount": 9910,
+          "wordCount": 9907,
           "title": "Hashdex Names BitGo as Bitcoin ETF Custodian as Applicants Continue SEC Meetings",
           "enclosure": {
             "length": "1337",
@@ -1140,7 +1140,7 @@
           "description": "Stablecoins, tokenized treasuries, decentralized private credit, physical-backed NFTs, DeFi in climate and regenerative finance – these are just some of the trends set to remake capital markets in the coming year.",
           "link": "https://www.coindesk.com/consensus-magazine/2023/12/22/7-real-world-asset-trends-in-2024-that-will-unlock-the-future-of-finance/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-12-22T21:08:35.000Z",
-          "wordCount": 15369,
+          "wordCount": 15365,
           "title": "7 Real World Asset Trends in 2024 That Will Unlock the Future of Finance",
           "enclosure": {
             "length": "1337",
@@ -1155,7 +1155,7 @@
           "description": "Convergence is more than just a blending of technologies: It is a harmonization that enhances, expands, and redefines our experience of the digital world, says the co-founder of Decentraland Foundation.",
           "link": "https://www.coindesk.com/consensus-magazine/2023/12/22/the-unified-future-of-ai-blockchain-and-virtual-worlds-in-2024/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-12-22T20:54:30.000Z",
-          "wordCount": 15754,
+          "wordCount": 15750,
           "title": "The Unified Future of AI, Blockchain and Virtual Worlds in 2024",
           "enclosure": {
             "length": "1337",
@@ -1170,7 +1170,7 @@
           "description": "The Bulgarian Prosecutor's Office reported to have said that it found “no evidence of criminal activity,” adding that “no evidence of tax offenses or computer fraud was found against the defendants, either.”",
           "link": "https://www.coindesk.com/policy/2023/12/22/nexos-money-laundering-investigation-in-bulgaria-closed-due-to-lack-of-evidence-report/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-12-22T20:46:23.000Z",
-          "wordCount": 9889,
+          "wordCount": 9877,
           "title": "Nexo's Money Laundering Investigation in Bulgaria Closed Due to Lack of Evidence: Report",
           "enclosure": {
             "length": "1337",
@@ -1210,7 +1210,7 @@
           "description": "With spot Bitcoin ETFs set to be approved, and a halving on the way in April, everyone expects bitcoin to rise in 2024. But history suggests that might not be the case, says Frank Corva.",
           "link": "https://www.coindesk.com/consensus-magazine/2023/12/22/is-it-really-up-only-for-bitcoin/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-12-22T20:11:09.000Z",
-          "wordCount": 16231,
+          "wordCount": 16234,
           "title": "Is it Really ‘Up Only’ for Bitcoin?",
           "enclosure": {
             "length": "1337",

@@ -733,64 +733,164 @@
       "siteUrl": "https://cryptopanic.com/",
       "articles": [
         {
+          "id": "https://cryptopanic.com/news/19131562/zkSync-Era-Hit-by-Third-Outage-Layer-2-Halts-for-4-Hours",
+          "author": null,
+          "description": "zkSync Era records another outage, failing to produce blocks for four hours.",
+          "link": "https://cryptopanic.com/news/19131562/zkSync-Era-Hit-by-Third-Outage-Layer-2-Halts-for-4-Hours",
+          "publishedOn": "2023-12-25T17:05:00.000Z",
+          "wordCount": 596,
+          "title": "zkSync Era Hit by Third Outage, Layer 2 Halts for 4 Hours",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/19131560/A-Perfect-Fight-The-Battle-Against-The-Machine",
+          "author": null,
+          "description": "Through all of human history people have been fighting the machine, technology, as it evolves. Through all of human history people have been losing.",
+          "link": "https://cryptopanic.com/news/19131560/A-Perfect-Fight-The-Battle-Against-The-Machine",
+          "publishedOn": "2023-12-25T17:01:16.000Z",
+          "wordCount": 592,
+          "title": "A Perfect Fight: The Battle Against The Machine",
+          "imageUrl": "http://bitcoinmagazine.com/.image/c_limit%2Ccs_srgb%2Cfl_progressive%2Ch_1200%2Cq_auto:good%2Cw_1200/MjAzMTYyMjY0NTExOTgxMTIz/chess.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/19131545/Russia-Sets-Date-for-Bitcoin-Law-BTC-Payments-Will-Be-Legal-on-This-Date",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/19131545/Russia-Sets-Date-for-Bitcoin-Law-BTC-Payments-Will-Be-Legal-on-This-Date",
+          "publishedOn": "2023-12-25T16:43:05.000Z",
+          "wordCount": null,
+          "title": "Russia Sets Date for Bitcoin Law! \"BTC Payments Will Be Legal on This Date!\"",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/19131540/Solana-altcoin-market-showdown-SOL-to-150",
+          "author": null,
+          "description": "As 2023 markets come to a close, what are you investing in, Solana or AVAX? Among the intriguing events currently in the crypto market is the Avalanche of on-chain data that highlights various shifts in the staking dynamics in the currently consolidating phase. In light of this, it is possible...",
+          "link": "https://cryptopanic.com/news/19131540/Solana-altcoin-market-showdown-SOL-to-150",
+          "publishedOn": "2023-12-25T16:41:40.000Z",
+          "wordCount": 591,
+          "title": "Solana altcoin market showdown- SOL to $150?",
+          "imageUrl": "https://img.cryptopolitan.com/wp-content/uploads/2023/12/Solana-3.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/19131533/Wildfire-Pollutants-Pose-Heightened-Health-Risks-AI-Modeling-Study",
+          "author": null,
+          "description": "A groundbreaking study, supported by the Climate Program Office’s Atmospheric Chemistry, Carbon Cycle and Climate (AC4) Program, has cast new light on the significant impact of wildfires on air quality and public health in the continental United States. Spanning two decades, from 2000 to 2020,...",
+          "link": "https://cryptopanic.com/news/19131533/Wildfire-Pollutants-Pose-Heightened-Health-Risks-AI-Modeling-Study",
+          "publishedOn": "2023-12-25T16:37:21.000Z",
+          "wordCount": 593,
+          "title": "Wildfire Pollutants Pose Heightened Health Risks: AI Modeling Study",
+          "imageUrl": "https://img.cryptopolitan.com/wp-content/uploads/2023/12/DALL·E-2023-12-25-20.31.55-A-graphic-illustration-for-the-title-Wildfire-Pollutants-Pose-Heightened-Health-Risks_-AI-Modeling-Study.-The-image-depicts-the-dual-themes-of-wildf.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/19131526/Cardano-Is-this-the-start-of-a-new-rally",
+          "author": null,
+          "description": "Cardano's price movements and TVL trends have shown more positive trends ahead for the network.",
+          "link": "https://cryptopanic.com/news/19131526/Cardano-Is-this-the-start-of-a-new-rally",
+          "publishedOn": "2023-12-25T16:30:51.000Z",
+          "wordCount": 593,
+          "title": "Cardano: Is this the start of a new rally?",
+          "imageUrl": "https://statics.ambcrypto.com/wp-content/uploads/2023/12/ambcrypto_Prompt_A_dynamic_digital_scene_with_the_Cardano_logo__a48eef8f-3217-4e78-b835-5481c36e8b81-1.png"
+        },
+        {
+          "id": "https://cryptopanic.com/news/19131529/Shiba-Inu-Is-Fast-Leaving-Exchanges-What-Does-It-Mean",
+          "author": null,
+          "description": "On-chain data shows Shiba Inu has seen some substantial withdrawals from exchanges recently. Here’s what this could mean for SHIB’s price. Shiba Inu Balance On Exchange Has Been Falling Since November As pointed out by analyst Ali in a new post on X, a large amount of Shiba Inu has left...",
+          "link": "https://cryptopanic.com/news/19131529/Shiba-Inu-Is-Fast-Leaving-Exchanges-What-Does-It-Mean",
+          "publishedOn": "2023-12-25T16:30:27.000Z",
+          "wordCount": 594,
+          "title": "Shiba Inu Is Fast Leaving Exchanges, What Does It Mean?",
+          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2023/12/shutterstock_2115844940-1.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/19131516/ETH-Could-Be-Headed-to-3400-in-Run-Up-to-Potential-Spot-ETF-Launch-in-2024-Says-Prominent-Crypto-Analyst",
+          "author": null,
+          "description": "In a post on social media platform X (formerly known as Twitter) on 23 December 2023, Pentoshi, a prominent pseudonymous crypto analyst working with Merit Circle, shared their perspective on the potential launch of spot Ethereum (ETH) Exchange-Traded Fund (ETF) in the U.S. and its likely impact...",
+          "link": "https://cryptopanic.com/news/19131516/ETH-Could-Be-Headed-to-3400-in-Run-Up-to-Potential-Spot-ETF-Launch-in-2024-Says-Prominent-Crypto-Analyst",
+          "publishedOn": "2023-12-25T16:20:16.000Z",
+          "wordCount": 603,
+          "title": "$ETH Could Be Headed to $3,400 in Run-Up to Potential Spot ETF Launch in 2024, Says Prominent Crypto Analyst",
+          "imageUrl": "https://media.cryptoglobe.com/2021/05/money-5511316_1920-768x512.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/19131512/Emirates-Post-and-MBZUAI-Unveil-AI-Designed-National-Day-Stamps",
+          "author": null,
+          "description": "Emirates Post Group Company (EPG), in collaboration with the Mohamed Bin Zayed University of Artificial Intelligence (MBZUAI), has unveiled the first edition of the 52nd National Day stamps, designed using generative artificial intelligence (AI). This innovative initiative combines technology...",
+          "link": "https://cryptopanic.com/news/19131512/Emirates-Post-and-MBZUAI-Unveil-AI-Designed-National-Day-Stamps",
+          "publishedOn": "2023-12-25T16:10:52.000Z",
+          "wordCount": 593,
+          "title": "Emirates Post and MBZUAI Unveil AI-Designed National Day Stamps",
+          "imageUrl": "https://img.cryptopolitan.com/wp-content/uploads/2023/12/Palmer.webp"
+        },
+        {
+          "id": "https://cryptopanic.com/news/19131515/Dogecoin-Killer-Shiba-Inu-Burn-Rate-Spikes-Over-5000-Analyst-Points-To-Massive-Withdrawal-Of-8-Trillion-SHIB-From-Crypto-Exchange-Wallets",
+          "author": null,
+          "description": "Self-proclaimed ‘Dogecoin (CRYPTO: DOGE) killer' Shiba Inu’s (CRYPTO: SHIB), burn rate spiked over 5000% within the past 24 hours. A total of 53 million SHIB tokens have been permanently withdrawn from circulation. read more",
+          "link": "https://cryptopanic.com/news/19131515/Dogecoin-Killer-Shiba-Inu-Burn-Rate-Spikes-Over-5000-Analyst-Points-To-Massive-Withdrawal-Of-8-Trillion-SHIB-From-Crypto-Exchange-Wallets",
+          "publishedOn": "2023-12-25T16:08:57.000Z",
+          "wordCount": 606,
+          "title": "'Dogecoin Killer' Shiba Inu Burn Rate Spikes Over 5000%: Analyst Points To 'Massive Withdrawal' Of 8 Trillion SHIB From Crypto Exchange Wallets",
+          "imageUrl": "https://cdn.benzinga.com/files/images/story/2023/Shiba-Inu-Shibarium_6.jpeg?width=1200&height=800&fit=crop"
+        },
+        {
           "id": "https://cryptopanic.com/news/19131501/MEXC-Spurns-FUD-Over-CEO-X-Account-and-Frozen-Asset-Claims",
           "author": null,
-          "description": "The exchange emphasized that the account had been inactive since the departure of its CEO in July 2022.",
+          "description": "",
           "link": "https://cryptopanic.com/news/19131501/MEXC-Spurns-FUD-Over-CEO-X-Account-and-Frozen-Asset-Claims",
           "publishedOn": "2023-12-25T16:05:00.000Z",
-          "wordCount": 595,
+          "wordCount": null,
           "title": "MEXC Spurns FUD Over CEO X Account and Frozen Asset Claims",
           "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/19131499/Crypto-Products-of-the-Year-2023",
           "author": null,
-          "description": "Web3 gets physical with this selection of Decrypt's favorite crypto products of 2023, from hardware wallets to NFT art frames.",
+          "description": "",
           "link": "https://cryptopanic.com/news/19131499/Crypto-Products-of-the-Year-2023",
           "publishedOn": "2023-12-25T16:00:02.000Z",
-          "wordCount": 590,
+          "wordCount": null,
           "title": "Crypto Products of the Year 2023",
-          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2023/12/product-of-the-year-gID_7.jpeg"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/19131496/Whats-on-your-mind-A-year-of-crypto-opinions",
           "author": null,
-          "description": "2023 has seen its fair share of crypto turmoil — and everyone who’s anyone has had their own take in our opinion section",
+          "description": "",
           "link": "https://cryptopanic.com/news/19131496/Whats-on-your-mind-A-year-of-crypto-opinions",
           "publishedOn": "2023-12-25T16:00:00.000Z",
-          "wordCount": 593,
+          "wordCount": null,
           "title": "What’s on your mind? A year of crypto opinions",
           "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/19131484/The-Sandbox-SAND-Soars-Over-10-as-Top-Analyst-Targets-135",
           "author": null,
-          "description": "Renowned crypto analyst sees bullish opportunity for SAND, targeting $1.35",
+          "description": "",
           "link": "https://cryptopanic.com/news/19131484/The-Sandbox-SAND-Soars-Over-10-as-Top-Analyst-Targets-135",
           "publishedOn": "2023-12-25T15:55:00.000Z",
-          "wordCount": 595,
+          "wordCount": null,
           "title": "The Sandbox (SAND) Soars Over 10% as Top Analyst Targets $1.35",
-          "imageUrl": "https://u.today/sites/default/files/styles/twitter/public/2023-12/43291.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/19131488/Smart-Investor-Became-a-Millionaire-in-Five-Days-Thanks-to-This-Solana-Based-Altcoin-Here-are-his-actions",
           "author": null,
-          "description": "Lookonchain shared that an investor became a millionaire in five days from the Solana (SOL)-based altcoin called ANALOS. Continue Reading: Smart Investor Became a Millionaire in Five Days Thanks to This Solana-Based Altcoin! Here are his actions!",
+          "description": "",
           "link": "https://cryptopanic.com/news/19131488/Smart-Investor-Became-a-Millionaire-in-Five-Days-Thanks-to-This-Solana-Based-Altcoin-Here-are-his-actions",
           "publishedOn": "2023-12-25T15:53:06.000Z",
-          "wordCount": 601,
+          "wordCount": null,
           "title": "Smart Investor Became a Millionaire in Five Days Thanks to This Solana-Based Altcoin! Here are his actions!",
-          "imageUrl": "https://www.bitcoinsistemi.com/wp-content/uploads/2022/01/solana-fiyat-3-dolar.jpeg"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/19131495/CoinExs-6th-Anniversary-Special-Unlocking-the-Secrets-of-User-Centric-Success",
           "author": null,
-          "description": "CoinEx, a big global crypto exchange, marks its 6th anniversary this December, celebrating with the theme “You Raise Me Up”. This occasion isn’t just a celebration but a symbol of the platform’s enduring dedication and innovation in the crypto trading world. For over six years, CoinEx has been...",
+          "description": "",
           "link": "https://cryptopanic.com/news/19131495/CoinExs-6th-Anniversary-Special-Unlocking-the-Secrets-of-User-Centric-Success",
           "publishedOn": "2023-12-25T15:49:46.000Z",
-          "wordCount": 594,
+          "wordCount": null,
           "title": "CoinEx’s 6th Anniversary Special: Unlocking the Secrets of User-Centric Success",
-          "imageUrl": "https://beincrypto.com/wp-content/uploads/2023/12/bic_CoinEx_1-covers_neutral.jpg.webp"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/19131471/FTX-debtors-propose-separate-deal-with-Sam-Bankman-Fried-over-Embed-acquisition",
@@ -825,111 +925,11 @@
         {
           "id": "https://cryptopanic.com/news/19131454/Coinbase-Strongly-Denies-Senator-Warrens-Allegations-of-Regulatory-Manipulation",
           "author": null,
-          "description": "",
+          "description": "Coinbase, the prominent cryptocurrency exchange, has firmly refuted allegations made by Massachusetts Senator Elizabeth Warren...",
           "link": "https://cryptopanic.com/news/19131454/Coinbase-Strongly-Denies-Senator-Warrens-Allegations-of-Regulatory-Manipulation",
           "publishedOn": "2023-12-25T15:28:39.000Z",
-          "wordCount": null,
+          "wordCount": 593,
           "title": "Coinbase Strongly Denies Senator Warren’s Allegations of Regulatory Manipulation",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/19131444/Christmas-dinner-crypto-talk-The-menu-promises-to-be-much-better-this-year",
-          "author": null,
-          "description": "This year’s Christmas dinner could offer a chance at redemption for many crypto proponents who were stumped for answers in 2022.",
-          "link": "https://cryptopanic.com/news/19131444/Christmas-dinner-crypto-talk-The-menu-promises-to-be-much-better-this-year",
-          "publishedOn": "2023-12-25T15:25:00.000Z",
-          "wordCount": 597,
-          "title": "Christmas dinner crypto talk: The menu promises to be much better this year",
-          "imageUrl": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2023-12/2143ea36-61c5-4c5f-a4a1-57085d2409fd.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/19131446/Interactive-AI-Set-to-Revolutionize-Human-Machine-Interaction-in-2024",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/19131446/Interactive-AI-Set-to-Revolutionize-Human-Machine-Interaction-in-2024",
-          "publishedOn": "2023-12-25T15:24:04.000Z",
-          "wordCount": null,
-          "title": "Interactive AI Set to Revolutionize Human-Machine Interaction in 2024",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/19131447/Why-Is-AI-Startup-Data-Preparation-Crucial-for-Model-Training",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/19131447/Why-Is-AI-Startup-Data-Preparation-Crucial-for-Model-Training",
-          "publishedOn": "2023-12-25T15:21:43.000Z",
-          "wordCount": null,
-          "title": "Why Is AI Startup Data Preparation Crucial for Model Training?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/19131436/84-Trillion-SHIB-Exchange-Hands-as-Shibarium-Smashes-New-Big-Milestone",
-          "author": null,
-          "description": "A tremendous amount of Shiba Inu meme coins has been moved by anonymous cryptocurrency whales within 22 hours",
-          "link": "https://cryptopanic.com/news/19131436/84-Trillion-SHIB-Exchange-Hands-as-Shibarium-Smashes-New-Big-Milestone",
-          "publishedOn": "2023-12-25T15:14:00.000Z",
-          "wordCount": 595,
-          "title": "8.4 Trillion SHIB Exchange Hands as Shibarium Smashes New Big Milestone",
-          "imageUrl": "https://u.today/sites/default/files/styles/twitter/public/2023-12/43286.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/19131442/XRP-Expert-Praises-DeFi-Technologies-Solana-Trading-IP-Acquisition",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/19131442/XRP-Expert-Praises-DeFi-Technologies-Solana-Trading-IP-Acquisition",
-          "publishedOn": "2023-12-25T15:12:00.000Z",
-          "wordCount": null,
-          "title": "XRP Expert Praises DeFi Technologies Solana Trading IP Acquisition",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/19131412/Transforming-Edge-AI-with-Model-Quantization-Bridging-the-Gap-for-Real-Time-Intelligence",
-          "author": null,
-          "description": "In the rapidly evolving landscape of artificial intelligence (AI) and edge computing, model quantization emerges as a pivotal technique bridging the divide between computational constraints and the demand for highly accurate, real-time AI applications. This article explores the significance of...",
-          "link": "https://cryptopanic.com/news/19131412/Transforming-Edge-AI-with-Model-Quantization-Bridging-the-Gap-for-Real-Time-Intelligence",
-          "publishedOn": "2023-12-25T15:07:58.000Z",
-          "wordCount": 596,
-          "title": "Transforming Edge AI with Model Quantization: Bridging the Gap for Real-Time Intelligence",
-          "imageUrl": "https://img.cryptopolitan.com/wp-content/uploads/2023/12/AlbedoBase_XL_Transforming_Edge_-1.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/19131411/A-Painful-Ride-Polygon-Founder-Puts-2023-in-Review",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/19131411/A-Painful-Ride-Polygon-Founder-Puts-2023-in-Review",
-          "publishedOn": "2023-12-25T15:05:00.000Z",
-          "wordCount": null,
-          "title": "“A Painful Ride”: Polygon Founder Puts 2023 in Review",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/19131428/Polkadot-Rises-More-Than-3-In-24-hours",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/19131428/Polkadot-Rises-More-Than-3-In-24-hours",
-          "publishedOn": "2023-12-25T15:03:47.000Z",
-          "wordCount": null,
-          "title": "Polkadot Rises More Than 3% In 24 hours",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/19131419/Token-Burning-Continues-in-the-Popular-Memecoin-There-is-an-increase-in-whale-movements",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/19131419/Token-Burning-Continues-in-the-Popular-Memecoin-There-is-an-increase-in-whale-movements",
-          "publishedOn": "2023-12-25T15:03:06.000Z",
-          "wordCount": null,
-          "title": "Token Burning Continues in the Popular Memecoin! There is an increase in whale movements!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/19131431/Cryptocurrency-NEAR-Protocols-Price-Increased-More-Than-5-Within-24-hours",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/19131431/Cryptocurrency-NEAR-Protocols-Price-Increased-More-Than-5-Within-24-hours",
-          "publishedOn": "2023-12-25T15:02:38.000Z",
-          "wordCount": null,
-          "title": "Cryptocurrency NEAR Protocol's Price Increased More Than 5% Within 24 hours",
           "imageUrl": null
         }
       ]
@@ -939,6 +939,21 @@
       "feedUrl": "https://www.inoreader.com/stream/user/1005336866/tag/%E6%B5%B7%E5%A4%96%E5%8A%A0%E5%AF%86%E8%B5%84%E8%AE%AF",
       "siteUrl": "https://www.inoreader.com/stream/user/1005336866/tag/%E6%B5%B7%E5%A4%96%E5%8A%A0%E5%AF%86%E8%B5%84%E8%AE%AF/view/html",
       "articles": [
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e748118c0f9",
+          "author": "Keshav Verma",
+          "description": "On-chain data shows Shiba Inu has seen some substantial withdrawals from exchanges recently. Here’s what this could mean for SHIB’s price.\n \nShiba Inu Balance On Exchange Has Been Falling Since November\n \nAs pointed out by analyst Ali in a new post on X, a large amount of Shiba Inu has left exchanges since November. The relevant metric here is the “Balance on Exchanges,” which keeps track of the total amount of SHIB that’s sitting in the wallets of all centralized exchanges.\n \nWhen the value of this metric goes up, it means that the investors are depositing a net number of coins to these platforms right now. As one of the main reasons why investors would make such transfers is for selling purposes, this kind of trend can have bearish implications for the asset’s price.\n \n \nOn the other han…",
+          "link": "https://bitcoinist.com/shiba-inu-is-fast-leaving-exchanges-what-it-mean/",
+          "publishedOn": "2023-12-25T16:32:04.000Z",
+          "wordCount": 5655,
+          "title": "Shiba Inu Is Fast Leaving Exchanges, What Does It Mean?",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/jpeg",
+            "url": "https://bitcoinist.com/wp-content/uploads/2023/12/shutterstock_2115844940-1.jpg?fit=640,361"
+          },
+          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2023/12/shutterstock_2115844940-1.jpg?fit=640,361"
+        },
         {
           "id": "http://www.inoreader.com/article/3a9c6e748106af7a",
           "author": "Jamie Redman",
@@ -1005,7 +1020,7 @@
           "description": "Prime Minister Fumio Kishida’s government has been considering submissions on how best to encourage the industry's development, which it sees as a pillar of economic reform.",
           "link": "https://www.coindesk.com/policy/2023/12/25/japans-cabinet-proposes-scrapping-corporate-tax-on-unrealized-crypto-gains/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-12-25T12:08:44.000Z",
-          "wordCount": 9872,
+          "wordCount": 9876,
           "title": "Japan's Cabinet Proposes Scrapping Corporate Tax on Unrealized Crypto Gains",
           "enclosure": {
             "length": "1337",
@@ -1045,7 +1060,7 @@
           "description": "A blockchain update can make or break a fortune in the digital world of cryptocurrency. Amid all the technical terms and academic white papers, one thing stands out: the names. Forget about Ethereums and Zcashes; the crypto sphere is full of coins with names that are so strange that they would make Shakespeare scratch his head.\n \nBut it’s not just funny that things are so strange. Within the crypto community, these strange names often show how the culture is changing, inside jokes, and sometimes bad intentions. On this trip through the strangest parts of the crypto universe, we’ll look at the top five weirdest names and the stories behind them. So put on your spacesuit and join us:\n \n \nTop Five Weirdest Crypto Names\n \n5 – Doge Gay Son\n \nWith its name as the “first LGBTQ+ token for all peop…",
           "link": "https://bitcoinist.com/top-5-strangest-crypto-names/",
           "publishedOn": "2023-12-25T10:06:56.000Z",
-          "wordCount": 5750,
+          "wordCount": 5743,
           "title": "Top 5 Strangest Crypto Names: Where Humor Meets High Finance (or Doesn’t)",
           "enclosure": {
             "length": "1337",
@@ -1158,21 +1173,6 @@
           "wordCount": 280,
           "title": "Brandt Bucks BTC Halving Hype, Vitalik’s Big Transfer, Spot Bitcoin ETF Developments, and More — Week in Review",
           "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2023/12/shutterstock_2314848451.jpg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e748286a446",
-          "author": "Q Ghaemi",
-          "description": "This article is featured in Bitcoin Magazine’s “The Primary Issue”. Click here to get your Annual Bitcoin Magazine Subscription.\nClick here to download a PDF of this article.\nCome with me to the land of saffron and rosewater for a story lost in the annals of history. This ancient kingdom, rich in history and once the mightiest empire in the world, is a forgotten desert in the eyes of much of the West. Yet those who choose to ignore the Persian empire seem to have forgotten their role in shaping its modern history. Much like the women of Iran removing their hijabs today, let us remove the veil of ignorance that has clouded this murky history and explore a chapter of its history that set the course for the world we know today. \nThe Persian empire has had dynasties come and go. In 1794, Agha …",
-          "link": "https://bitcoinmagazine.com/culture/desert-mysteries-the-great-oil-game",
-          "publishedOn": "2023-12-24T14:00:10.000Z",
-          "wordCount": null,
-          "title": "Desert Mysteries: The Great Oil Game",
-          "enclosure": {
-            "length": "1337",
-            "type": "image/jpeg",
-            "url": "https://bitcoinmagazine.com/.image/c_fit,cs_srgb,fl_progressive,q_auto:good,w_620/MjAyNTQwMDQ0ODE1MTgwODEy/primary-inline-cta.jpg"
-          },
-          "imageUrl": "https://bitcoinmagazine.com/.image/c_fit,cs_srgb,fl_progressive,q_auto:good,w_620/MjAyNTQwMDQ0ODE1MTgwODEy/primary-inline-cta.jpg"
         }
       ]
     }

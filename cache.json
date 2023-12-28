@@ -6,6 +6,21 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=211114",
+          "author": "Sander Lutz",
+          "description": "India's Financial Intelligence Unit said the crypto exchanges were operating illegally in the country. Now their websites will be blocked.",
+          "link": "https://decrypt.co/211114/india-block-binance-kraken-other-exchanges-crypto-crackdown",
+          "publishedOn": "2023-12-28T20:32:41.000Z",
+          "wordCount": 9480,
+          "title": "India Will Block Binance, Kraken, and Other Exchanges in Crypto Crackdown",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/02/india-crypto-bitcoin-ethereum-gID_7.jpg@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/02/india-crypto-bitcoin-ethereum-gID_7.jpg@png"
+        },
+        {
           "id": "https://decrypt.co/?p=211113",
           "author": "Stacy Elliott",
           "description": "There's $14 billion worth of Bitcoin options expiring on Friday. The split between puts and call shows investors are feeling bullish.",
@@ -561,21 +576,6 @@
           "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/07/altcoins-gID_7.jpg@png"
         },
         {
-          "id": "https://decrypt.co/?p=210653",
-          "author": "Kate Irwin",
-          "description": "Gaming jobs dwindled in 2023 while more and more studios embraced generative AI tools—and gamers hate it. Here's what's on the horizon.",
-          "link": "https://decrypt.co/210653/gg-2023-story-year-ai-rocks-gaming-industry",
-          "publishedOn": "2023-12-23T15:01:02.000Z",
-          "wordCount": 15273,
-          "title": "GG's 2023 Story of the Year: AI Rocks Gaming Industry",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/12/gg-story-year-2023-gID_7.png@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/12/gg-story-year-2023-gID_7.png@png"
-        },
-        {
           "id": "https://decrypt.co/videos/live-events/TI3aFBhO/wildcards-plans-for-2024-with-founders-paul-and-katy-bettner",
           "author": null,
           "description": "Wildcard developers Paul and Katy Bettner tell Decrypt's Kate Irwin about why they see their game as a \"Web3 game,\" not a crypto game, and share why they've stuck with their initial vision despite the challenging broader market.",
@@ -611,7 +611,7 @@
           "description": "Roll1ng Thund3rz co-founder Valentin Cobelea and Zilliqa CEO Matt Dyer joined Decrypt to discuss how the new FPS game Web3War is shaking up the crypto gaming space with a novel \"skill to earn\" mechanic that rewards players for high-quality gameplay.",
           "link": "https://decrypt.co/videos/interviews/Jl5AEFuD/if-you-play-well-youre-gonna-be-rewarded-how-fps-web3war-is-bringing-skill-to-earn-to-crypto-gaming",
           "publishedOn": "2023-12-15T10:20:32.000Z",
-          "wordCount": 6933,
+          "wordCount": 6795,
           "title": "'If You Play Well, You're Gonna be Rewarded': How FPS Web3War is Bringing 'Skill-to-Earn' to Crypto Gaming",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/Jl5AEFuD/poster.jpg",
@@ -626,7 +626,7 @@
           "description": "This week our host Reza Jafery is joined by Joseph Schiarizzi, founder of OpenDollar and prolific solidity developer. \n\n\nWe discuss: \n- Onchain beer\n- Taking over your local government\n- His Emmy and 3 patents?!?",
           "link": "https://decrypt.co/videos/interviews/zb0VG27G/creating-peaceful-money-taking-over-your-local-government-w-joseph-schiarizzi",
           "publishedOn": "2023-12-11T23:23:25.000Z",
-          "wordCount": 6732,
+          "wordCount": 6870,
           "title": "Creating peaceful money & taking over your local government w/ Joseph Schiarizzi",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/zb0VG27G/poster.jpg",
@@ -656,7 +656,7 @@
           "description": "At the 2023 Film3 Summit, Jordan Bayne—director and founder of The Squad—spoke with Decrypt's Sander Lutz about how the Film3 world has progressed over the last year and what decentralized technologies can offer to creators that want to buck the Hollywood system.",
           "link": "https://decrypt.co/videos/interviews/ZLoEDkL9/director-jordan-bayne-on-the-state-of-film3",
           "publishedOn": "2023-12-05T00:11:59.000Z",
-          "wordCount": 6887,
+          "wordCount": 6749,
           "title": "Director Jordan Bayne on the State of Film3",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/ZLoEDkL9/poster.jpg",
@@ -688,6 +688,116 @@
       "siteUrl": "https://cryptopanic.com/",
       "articles": [
         {
+          "id": "https://cryptopanic.com/news/19138296/ZachXBT-alleges-Gamegear-dev-039scaredofboobs039-is-scammer-NFT-Machine",
+          "author": null,
+          "description": "In a Telegram post, the on-chain sleuth warned users to beware of X account scaredofboobs.",
+          "link": "https://cryptopanic.com/news/19138296/ZachXBT-alleges-Gamegear-dev-039scaredofboobs039-is-scammer-NFT-Machine",
+          "publishedOn": "2023-12-28T21:06:29.000Z",
+          "wordCount": 593,
+          "title": "ZachXBT alleges Gamegear dev &#039;scaredofboobs&#039; is scammer NFT Machine",
+          "imageUrl": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2023-12/a1930eb0-f8bd-48fa-9ced-96ca0efd4e24.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/19138293/Bitcoin-Loses-Its-Low-Fees-Feature-Amid-Rising-Network-Costs",
+          "author": null,
+          "description": "Bitcoin transaction fees rise 35x in 2023, beating Ethereum, driven by high demand and new Inscriptions trend.",
+          "link": "https://cryptopanic.com/news/19138293/Bitcoin-Loses-Its-Low-Fees-Feature-Amid-Rising-Network-Costs",
+          "publishedOn": "2023-12-28T21:00:23.000Z",
+          "wordCount": 594,
+          "title": "Bitcoin Loses Its Low Fees Feature Amid Rising Network Costs",
+          "imageUrl": "https://a.storyblok.com/f/182479/1792x1024/eeb4441940/dall-e-2023-12-28-21-58-31-a-realistic-image-of-a-scientist-examining-a-bitcoin-with-a-stethoscope-the-scientist-dressed-in-a-lab-coat-and-wearing-protective-eyewear-is-inten.webp"
+        },
+        {
+          "id": "https://cryptopanic.com/news/19138286/Fundstrats-Tom-Lee-Says-Bitcoin-Likely-To-Have-Very-Strong-2024-Amid-Two-Bullish-Tailwinds",
+          "author": null,
+          "description": "Tom Lee thinks 2024 could be a big year for Bitcoin (BTC). Lee, the managing partner at equity research firm Fundstrat Global Advisors, says in a new interview on The Julia La Roche Show that two major tailwinds will prime BTC for success next year. “The first is monetary policy’s flipping....",
+          "link": "https://cryptopanic.com/news/19138286/Fundstrats-Tom-Lee-Says-Bitcoin-Likely-To-Have-Very-Strong-2024-Amid-Two-Bullish-Tailwinds",
+          "publishedOn": "2023-12-28T21:00:08.000Z",
+          "wordCount": 599,
+          "title": "Fundstrat’s Tom Lee Says Bitcoin Likely To Have Very Strong 2024 Amid Two Bullish Tailwinds",
+          "imageUrl": "https://dailyhodl.com/wp-content/uploads/2023/12/tom-lee-likely-to-have.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/19138283/TravelX-and-Viva-Aerobus-collaborate-to-digitize-airline-tickets-on-the-Algorand-blockchain",
+          "author": null,
+          "description": "According to a recent announcement on X, TravelX, a company that uses blockchain to help airlines expand their retailing abilities, has partnered with Viva Aerobus, a Mexican airline giant, to convert tickets into digital assets using the Algorand blockchain. TravelX’s partnership with Viva...",
+          "link": "https://cryptopanic.com/news/19138283/TravelX-and-Viva-Aerobus-collaborate-to-digitize-airline-tickets-on-the-Algorand-blockchain",
+          "publishedOn": "2023-12-28T20:58:23.000Z",
+          "wordCount": 597,
+          "title": "TravelX and Viva Aerobus collaborate to digitize airline tickets on the Algorand blockchain",
+          "imageUrl": "https://img.cryptopolitan.com/wp-content/uploads/2023/12/TravelX-and-Viva-Aerobus-collaborate-to-digitize-airline-tickets-on-the-Algorand-blockchain.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/19138287/Crypto-Analyst-Weighs-In-on-Bitcoin-BTC-Two-Top-Ethereum-Layer-2-Solutions-and-One-ETH-Competitor",
+          "author": null,
+          "description": "A widely followed crypto analyst says that there’s a chance that Bitcoin’s (BTC) recent rally may be tapped out. Crypto analyst Michaël van de Poppe tells his 679,000 followers on the social media platform X that the buzz surrounding BTC generated by rumors of an exchange-traded fund (ETF)...",
+          "link": "https://cryptopanic.com/news/19138287/Crypto-Analyst-Weighs-In-on-Bitcoin-BTC-Two-Top-Ethereum-Layer-2-Solutions-and-One-ETH-Competitor",
+          "publishedOn": "2023-12-28T20:55:17.000Z",
+          "wordCount": 600,
+          "title": "Crypto Analyst Weighs In on Bitcoin (BTC), Two Top Ethereum Layer-2 Solutions and One ETH Competitor",
+          "imageUrl": "https://dailyhodl.com/wp-content/uploads/2021/07/btc-eth-buys.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/19138279/ARK-Invest-CEO-Cathie-Wood-Explains-ARKs-Strategic-Shift-in-Crypto-Investments",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/19138279/ARK-Invest-CEO-Cathie-Wood-Explains-ARKs-Strategic-Shift-in-Crypto-Investments",
+          "publishedOn": "2023-12-28T20:43:01.000Z",
+          "wordCount": null,
+          "title": "ARK Invest CEO Cathie Wood Explains ARK’s Strategic Shift in Crypto Investments",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/19138280/EXCLUSIVE-CoinDesk-Is-Ready-For-Mass-Adoption-Of-Digital-Assets-Managing-Director-Andrew-Baehr-Says",
+          "author": null,
+          "description": "Following Bullish's acquisition of CoinDesk, Benzinga sat down with CoinDesk Indices managing director Andrew Baehr to reflect on this year and set the expectations for 2024. read more",
+          "link": "https://cryptopanic.com/news/19138280/EXCLUSIVE-CoinDesk-Is-Ready-For-Mass-Adoption-Of-Digital-Assets-Managing-Director-Andrew-Baehr-Says",
+          "publishedOn": "2023-12-28T20:40:02.000Z",
+          "wordCount": 599,
+          "title": "EXCLUSIVE: CoinDesk Is Ready For Mass Adoption Of Digital Assets, Managing Director Andrew Baehr Says",
+          "imageUrl": "https://cdn.benzinga.com/files/images/story/2023/Stuttgart--Germany---12-04-2022-Smartpho.jpeg?width=1200&height=800&fit=crop"
+        },
+        {
+          "id": "https://cryptopanic.com/news/19138273/Cryptocurrency-Friendly-Congressman-to-Introduce-Bill-to-Fire-SEC-Chair-Gary-Gensler",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/19138273/Cryptocurrency-Friendly-Congressman-to-Introduce-Bill-to-Fire-SEC-Chair-Gary-Gensler",
+          "publishedOn": "2023-12-28T20:33:05.000Z",
+          "wordCount": null,
+          "title": "Cryptocurrency-Friendly Congressman to Introduce Bill to Fire SEC Chair Gary Gensler",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/19138252/Crypto-Analyst-Advises-Exit-Strategy-for-BONK-and-Other-Solana-Meme-Tokens-Amid-Bearish-Trend",
+          "author": null,
+          "description": "A popular pseudonymous crypto strategist, Altcoin Sherpa, has shared insights with his over 200K followers on social media platform X (formerly known as Twitter), indicating a bearish trend for Bonk (BONK), a Solana-powered Dogecoin rival. The analyst predicts a ‘dead cat bounce’ for Bonk, a...",
+          "link": "https://cryptopanic.com/news/19138252/Crypto-Analyst-Advises-Exit-Strategy-for-BONK-and-Other-Solana-Meme-Tokens-Amid-Bearish-Trend",
+          "publishedOn": "2023-12-28T20:20:31.000Z",
+          "wordCount": 599,
+          "title": "Crypto Analyst Advises Exit Strategy for BONK and Other Solana Meme Tokens Amid Bearish Trend",
+          "imageUrl": "https://media.cryptoglobe.com/2023/12/BONK-token-768x628.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/19138244/Monex-acquires-majority-stake-in-Canadian-digital-asset-manager",
+          "author": null,
+          "description": "The Japanese business Monex includes asset management, online brokerage and a crypto exchange",
+          "link": "https://cryptopanic.com/news/19138244/Monex-acquires-majority-stake-in-Canadian-digital-asset-manager",
+          "publishedOn": "2023-12-28T20:17:25.000Z",
+          "wordCount": 593,
+          "title": "Monex acquires majority stake in Canadian digital asset manager",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/19138246/Celsius-scraps-Fahrenheit-consortium-gets-court-approval-for-Bitcoin-mining-company",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/19138246/Celsius-scraps-Fahrenheit-consortium-gets-court-approval-for-Bitcoin-mining-company",
+          "publishedOn": "2023-12-28T20:11:21.000Z",
+          "wordCount": null,
+          "title": "Celsius scraps Fahrenheit consortium, gets court approval for Bitcoin mining company",
+          "imageUrl": null
+        },
+        {
           "id": "https://cryptopanic.com/news/19138234/DeFi-protocol-Dolomite-launches-vARB-to-bring-dual-functionality-to-ARB-holders",
           "author": null,
           "description": "Dolomite says vARB is a “vote-enabled ARB” token that will allow holders to participate in Arbitrum’s governance through voting. While it cannot be lent or borrowed, vARB means users can use their ARB collateral to vote. DeFi protocol Dolomite has launched vARB, a “vote-enabled ARB” token that...",
@@ -696,6 +806,16 @@
           "wordCount": 596,
           "title": "DeFi protocol Dolomite launches vARB to bring dual functionality to ARB holders",
           "imageUrl": "https://coinjournal.net/wp-content/uploads/1970/01/1675177122158-8202db09-c8fc-43c6-acc1-3c14a5ecf384.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/19138245/Crypto-Winter-Deepens-In-India-As-Financial-Intelligence-Targets-Binance-KuCoin",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/19138245/Crypto-Winter-Deepens-In-India-As-Financial-Intelligence-Targets-Binance-KuCoin",
+          "publishedOn": "2023-12-28T20:05:12.000Z",
+          "wordCount": null,
+          "title": "Crypto Winter Deepens In India As Financial Intelligence Targets Binance, KuCoin",
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/19138232/Bitcoin-No-Longer-Cheap-Fees-Jumped-35x-In-2023",
@@ -710,12 +830,12 @@
         {
           "id": "https://cryptopanic.com/news/19138218/Researchers-see-2024-as-cryptos-airdrop-season",
           "author": null,
-          "description": "In 2024, analysts expect an incentive season in crypto, consisting of airdrops. Projects like Arbitrum, Celestia, Pyth Network, and Jito have raised awareness around incentives paid to users who interact with blockchains and decentralized applications (dApps) in their early stages. The average...",
+          "description": "",
           "link": "https://cryptopanic.com/news/19138218/Researchers-see-2024-as-cryptos-airdrop-season",
           "publishedOn": "2023-12-28T20:00:05.000Z",
-          "wordCount": 591,
+          "wordCount": null,
           "title": "Researchers see 2024 as crypto’s ‘airdrop season’",
-          "imageUrl": "https://static.cryptobriefing.com/wp-content/uploads/2023/12/28145229/ezgif.com-webp-to-jpg-converter-1-1024x585.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/19138215/India-Cracks-Down-On-9-Overseas-Crypto-Exchanges-Binance-And-Kraken-Among-Targets",
@@ -730,32 +850,32 @@
         {
           "id": "https://cryptopanic.com/news/19138212/Indian-Authorities-Request-Blocking-of-9-Cryptocurrency-Exchanges-Including-Binance",
           "author": null,
-          "description": "Indian authorities are targeting exchanges, including Binance, the world's largest cryptocurrency exchange. Continue Reading: Indian Authorities Request Blocking of 9 Cryptocurrency Exchanges Including Binance",
+          "description": "",
           "link": "https://cryptopanic.com/news/19138212/Indian-Authorities-Request-Blocking-of-9-Cryptocurrency-Exchanges-Including-Binance",
           "publishedOn": "2023-12-28T19:51:06.000Z",
-          "wordCount": 594,
+          "wordCount": null,
           "title": "Indian Authorities Request Blocking of 9 Cryptocurrency Exchanges Including Binance",
-          "imageUrl": "https://www.bitcoinsistemi.com/wp-content/uploads/2022/03/bitcoin-hindistan.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/19138205/5-data-points-suggest-a-crypto-bull-market-began-in-2023-Whats-next-for-2024",
           "author": null,
-          "description": "Data suggests that a crypto bull market started in 2023 and is set to continue throughout 2024.",
+          "description": "",
           "link": "https://cryptopanic.com/news/19138205/5-data-points-suggest-a-crypto-bull-market-began-in-2023-Whats-next-for-2024",
           "publishedOn": "2023-12-28T19:47:22.000Z",
-          "wordCount": 600,
+          "wordCount": null,
           "title": "5 data points suggest a crypto bull market began in 2023 — What’s next for 2024",
-          "imageUrl": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2023-12/b8ca18a1-f156-4f86-9430-c8b0fad8cbb1.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/19138206/Binance-says-its-039truly-compliance-led-in-positive-year-end-report",
           "author": null,
-          "description": "The world’s largest crypto exchange made progress on a number of fronts in 2023 and only has one U.S. regulator still pursuing it.",
+          "description": "",
           "link": "https://cryptopanic.com/news/19138206/Binance-says-its-039truly-compliance-led-in-positive-year-end-report",
           "publishedOn": "2023-12-28T19:45:00.000Z",
-          "wordCount": 593,
+          "wordCount": null,
           "title": "Binance says it’s &#039;truly compliance-led’ in positive year-end report",
-          "imageUrl": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2023-12/870cac03-b18b-4302-a5b0-1f1067443a77.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/19138210/Decentralized-Exchange-Altcoin-Soars-Nearly-70-in-a-Week-Amid-Massive-Support-for-Proposed-Cuts-in-Token-Supply",
@@ -766,126 +886,6 @@
           "wordCount": null,
           "title": "Decentralized Exchange Altcoin Soars Nearly 70% in a Week Amid Massive Support for Proposed Cuts in Token Supply",
           "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/19138190/Binance-Kraken-and-7-other-crypto-exchanges-URLs-to-be-blocked-in-India",
-          "author": null,
-          "description": "Nine crypto exchanges will have their URLs blocked in India as per FIU IND directions […]",
-          "link": "https://cryptopanic.com/news/19138190/Binance-Kraken-and-7-other-crypto-exchanges-URLs-to-be-blocked-in-India",
-          "publishedOn": "2023-12-28T19:37:59.000Z",
-          "wordCount": 597,
-          "title": "Binance, Kraken, and 7 other crypto exchanges URLs to be blocked in India",
-          "imageUrl": "https://statics.ambcrypto.com/wp-content/uploads/2023/12/naveed-ahmed-9Dt4WutvwDs-unsplash.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/19138193/AIs-Groundbreaking-Journey-in-2023-Transforming-Healthcare-Business-and-Media",
-          "author": null,
-          "description": "Artificial Intelligence (AI) has been making significant strides in various fields, and 2023 has been a pivotal year in showcasing its potential and impact. From healthcare innovations to advancements in entertainment and business, AI has demonstrated its versatility and transformative power....",
-          "link": "https://cryptopanic.com/news/19138193/AIs-Groundbreaking-Journey-in-2023-Transforming-Healthcare-Business-and-Media",
-          "publishedOn": "2023-12-28T19:31:28.000Z",
-          "wordCount": 594,
-          "title": "AI’s Groundbreaking Journey in 2023: Transforming Healthcare, Business, and Media”",
-          "imageUrl": "https://img.cryptopolitan.com/wp-content/uploads/2023/12/c4ee8483-d0ab-41c0-b91c-9026fc67f786.webp"
-        },
-        {
-          "id": "https://cryptopanic.com/news/19138173/International-payments-are-a-complete-mess",
-          "author": null,
-          "description": "After the destruction caused by a typhoon, the reality of sending money to my family in the Philippines was a fee-heavy and delay-filled nightmare",
-          "link": "https://cryptopanic.com/news/19138173/International-payments-are-a-complete-mess",
-          "publishedOn": "2023-12-28T19:28:24.000Z",
-          "wordCount": 590,
-          "title": "International payments are a complete mess",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/19138166/FTX-debtors-propose-16871-Bitcoin-price-for-creditor-claims",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/19138166/FTX-debtors-propose-16871-Bitcoin-price-for-creditor-claims",
-          "publishedOn": "2023-12-28T19:12:36.000Z",
-          "wordCount": null,
-          "title": "FTX debtors propose $16,871 Bitcoin price for creditor claims",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/19138172/Forget-The-Magnificent-7-Did-Anyone-Back-These-1000-Gainers-In-2023",
-          "author": null,
-          "description": "Baron Fifth Avenue Growth Fund gained nearly 60% over the year, while the Fidelity Blue Chip Growth ETF climbed 59%. read more",
-          "link": "https://cryptopanic.com/news/19138172/Forget-The-Magnificent-7-Did-Anyone-Back-These-1000-Gainers-In-2023",
-          "publishedOn": "2023-12-28T19:09:49.000Z",
-          "wordCount": 596,
-          "title": "Forget The Magnificent 7: Did Anyone Back These 1,000% Gainers In 2023?",
-          "imageUrl": "https://cdn.benzinga.com/files/images/story/2023/Bajaj-Electricals-shares-are-surging-tod_0.jpeg?width=1200&height=800&fit=crop"
-        },
-        {
-          "id": "https://cryptopanic.com/news/19138156/Terra-LUNA-Developers-Report-That-the-Network-Experiencing-an-Issue",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/19138156/Terra-LUNA-Developers-Report-That-the-Network-Experiencing-an-Issue",
-          "publishedOn": "2023-12-28T19:09:06.000Z",
-          "wordCount": null,
-          "title": "Terra (LUNA) Developers Report That the Network Experiencing an Issue",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/19138146/Celsius-Network-granted-approval-to-pivot-to-Bitcoin-mining",
-          "author": null,
-          "description": "The US Bankruptcy Court for the Southern District of New York approved Celsius Network’s restructuring plans for bitcoin mining on Wednesday. Celsius filed for Chapter 11 bankruptcy protection in July 2022. A US bankruptcy court has approved Celsius Network’s bitcoin mining shift as part of the...",
-          "link": "https://cryptopanic.com/news/19138146/Celsius-Network-granted-approval-to-pivot-to-Bitcoin-mining",
-          "publishedOn": "2023-12-28T19:05:54.000Z",
-          "wordCount": 593,
-          "title": "Celsius Network granted approval to pivot to Bitcoin mining",
-          "imageUrl": "https://coinjournal.net/wp-content/uploads/2023/06/1686163441703-2f4587dd-14cd-4692-83b3-06238e4388e9.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/19138152/Dead-Cat-Bounce-Coming-Crypto-Trader-Issues-Warning-on-Dogecoin-Rival-Thats-Exploded-7400-in-Two-Months",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/19138152/Dead-Cat-Bounce-Coming-Crypto-Trader-Issues-Warning-on-Dogecoin-Rival-Thats-Exploded-7400-in-Two-Months",
-          "publishedOn": "2023-12-28T19:05:42.000Z",
-          "wordCount": null,
-          "title": "‘Dead Cat Bounce Coming’ – Crypto Trader Issues Warning on Dogecoin Rival That’s Exploded 7,400%+ in Two Months",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/19138150/Trump-Sells-25M-ETH-Upon-Disappointing-Mugshot-NFT-Sales",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/19138150/Trump-Sells-25M-ETH-Upon-Disappointing-Mugshot-NFT-Sales",
-          "publishedOn": "2023-12-28T19:05:00.000Z",
-          "wordCount": null,
-          "title": "Trump Sells $2.5M ETH Upon Disappointing Mugshot NFT Sales",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/19138149/This-Popular-Crypto-is-Set-to-Pump-Next",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/19138149/This-Popular-Crypto-is-Set-to-Pump-Next",
-          "publishedOn": "2023-12-28T19:03:39.000Z",
-          "wordCount": null,
-          "title": "This Popular Crypto is Set to Pump Next",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/19138169/ONLY-Bitcoin-is-Censorship-Resistant-bitcoin-crypto-shorts",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/19138169/ONLY-Bitcoin-is-Censorship-Resistant-bitcoin-crypto-shorts",
-          "publishedOn": "2023-12-28T19:00:31.000Z",
-          "wordCount": null,
-          "title": "ONLY Bitcoin is Censorship Resistant #bitcoin #crypto #shorts",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/19138165/Cryptocurrency-MultiversX-Decreases-More-Than-4-Within-24-hours",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/19138165/Cryptocurrency-MultiversX-Decreases-More-Than-4-Within-24-hours",
-          "publishedOn": "2023-12-28T19:00:10.000Z",
-          "wordCount": null,
-          "title": "Cryptocurrency MultiversX Decreases More Than 4% Within 24 hours",
-          "imageUrl": null
         }
       ]
     },
@@ -894,6 +894,16 @@
       "feedUrl": "https://www.inoreader.com/stream/user/1005336866/tag/%E6%B5%B7%E5%A4%96%E5%8A%A0%E5%AF%86%E8%B5%84%E8%AE%AF",
       "siteUrl": "https://www.inoreader.com/stream/user/1005336866/tag/%E6%B5%B7%E5%A4%96%E5%8A%A0%E5%AF%86%E8%B5%84%E8%AE%AF/view/html",
       "articles": [
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e7480ecd706",
+          "author": "Jamie Redman",
+          "description": "In a significant shift within the bitcoin mining landscape, Antpool’s resurgence in 2023 has marked a notable trend in the consolidation of bitcoin rewards, surpassing Foundry USA in blocks mined. The Miner Mag’s recent analysis reveals that Antpool, along with other major pools, has centralized coinbase block rewards, reflecting a deeper, more interconnected mining ecosystem. This consolidation hints at unknown and strategic financial arrangements and evolving power dynamics among leading mining pools.\n \nReport Highlights Rising Consolidation in Bitcoin Mining Pool Rewards\n \nAccording to The Miner Mag, ten of the fifteen largest mining pools have been merging their coinbase block rewards since early 2022. This trend includes prominent names like Binance Pool, BTC.com, and Braiins Pool, am…",
+          "link": "https://news.bitcoin.com/study-observes-consolidation-of-bitcoin-mining-rewards-with-antpool/",
+          "publishedOn": "2023-12-28T20:40:22.000Z",
+          "wordCount": 252,
+          "title": "Study Observes Consolidation of Bitcoin Mining Rewards With Antpool",
+          "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2023/12/btcant.jpg"
+        },
         {
           "id": "http://www.inoreader.com/article/3a9c6e7480e8055a",
           "author": "Keshav Verma",
@@ -930,7 +940,7 @@
           "description": "India has intensified its efforts to regulate the crypto sector by clamping down on overseas exchanges, including Binance, that are allegedly operating illegally within the country.\n \nThe Financial Intelligence Unit (FIU) has issued compliance show-cause notices to several platforms, urging them to demonstrate adherence to Indian laws. Additionally, the information ministry has been requested to block the uniform resource locators (URLs) or web addresses of nine entities, restricting local access to their websites. \n \nThese measures come as the Indian government strengthens its oversight of digital assets, implementing anti-money laundering (AML) provisions and imposing taxes on crypto transactions. \n \nOffshore Crypto Exchanges Under Scrutiny\n \nAccording to a Bloomberg report, The FIU, res…",
           "link": "https://bitcoinist.com/india-cracks-down-on-9-overseas-crypto-exchanges/",
           "publishedOn": "2023-12-28T19:58:28.000Z",
-          "wordCount": 5662,
+          "wordCount": 5661,
           "title": "India Cracks Down On 9 Overseas Crypto Exchanges, Binance And Kraken Among Targets",
           "enclosure": {
             "length": "1337",
@@ -980,7 +990,7 @@
           "description": "Traders were moving capital from SOL to stablecoins suggesting profit taking, one analyst said in an interview.",
           "link": "https://www.coindesk.com/markets/2023/12/28/solanas-sol-dips-below-100-slips-back-behind-bnb-in-crypto-ranking/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-12-28T18:14:44.000Z",
-          "wordCount": 10308,
+          "wordCount": 10317,
           "title": "Solana's SOL Dips Below $100, Slips Back Behind BNB in Crypto Ranking",
           "enclosure": {
             "length": "1337",
@@ -995,7 +1005,7 @@
           "description": "The largest cryptocurrency trading venue added 40 million accounts to 170 million.",
           "link": "https://www.coindesk.com/business/2023/12/28/binance-user-base-grew-30-this-year-expanding-even-after-us-legal-settlements/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-12-28T17:54:49.000Z",
-          "wordCount": 9863,
+          "wordCount": 9861,
           "title": "Binance User Base Grew 30% This Year, Expanding Even After U.S. Legal Settlements",
           "enclosure": {
             "length": "1337",
@@ -1040,7 +1050,7 @@
           "description": "Kunal Bhasin, co-leader of KPMG Canada’s crypto asset and blockchain practice, debunks many of the bitcoin myths in the final Crypto for Advisors issue of the year.",
           "link": "https://www.coindesk.com/business/2023/12/28/crypto-for-advisors-bitcoin-myth-busting/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-12-28T16:56:11.000Z",
-          "wordCount": 13838,
+          "wordCount": 13827,
           "title": "Crypto for Advisors: Bitcoin Myth Busting",
           "enclosure": {
             "length": "1337",
@@ -1055,7 +1065,7 @@
           "description": "Binance, KuCoin, Huobi, Kraken, Gate.io, Bittrex, Bitstamp, MEXC Global and Bitfinex are the nine exchanges.",
           "link": "https://www.coindesk.com/policy/2023/12/28/india-issues-compliance-show-cause-notices-to-9-offshore-exchanges-including-binance-and-kucoin/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-12-28T16:56:11.000Z",
-          "wordCount": 13592,
+          "wordCount": 13604,
           "title": "India Issues Compliance 'Show Cause' Notices to 9 Offshore Exchanges Including Binance and KuCoin",
           "enclosure": {
             "length": "1337",
@@ -1070,7 +1080,7 @@
           "description": "Bitcoin [BTC] is expected to experience a period of downside following a potential ETF approval over the coming weeks as trader's unrealized profits linger at a level that historically precedes a correction, according to data provider CryptoQuant.",
           "link": "https://www.coindesk.com/markets/2023/12/28/bitcoin-etf-approval-tipped-to-be-sell-the-news-event-cryptoquant/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-12-28T16:41:50.000Z",
-          "wordCount": 10307,
+          "wordCount": 10308,
           "title": "Bitcoin ETF Approval Tipped to Be 'Sell The News' Event: CryptoQuant",
           "enclosure": {
             "length": "1337",
@@ -1150,7 +1160,7 @@
           "description": "Crypto is captured in an asset-regularization regime included in a wide-ranging bill that's facing mounting backlash from citizens.",
           "link": "https://www.coindesk.com/policy/2023/12/28/argentinas-milei-proposes-incentives-for-declaring-domestic-foreign-crypto-holdings-in-draft-bill/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2023-12-28T14:01:59.000Z",
-          "wordCount": 9848,
+          "wordCount": 9840,
           "title": "Argentina's Milei Proposes Incentives for Declaring Domestic, Foreign Crypto Holdings in Draft Bill",
           "enclosure": {
             "length": "1337",
@@ -1158,21 +1168,6 @@
             "url": "https://www.coindesk.com/resizer/XMmQGgHmJ6epcbuUq4h6iKqbm0E=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/5KILQGVZHJDNZC4RDRFGXOHX6M.jpg"
           },
           "imageUrl": "https://www.coindesk.com/resizer/XMmQGgHmJ6epcbuUq4h6iKqbm0E=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/5KILQGVZHJDNZC4RDRFGXOHX6M.jpg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e7480b9fae1",
-          "author": "Lyllah Ledesma",
-          "description": "The latest price moves in bitcoin [BTC] and crypto markets in context for Dec. 28, 2023. First Mover is CoinDesk’s daily newsletter that contextualizes the latest actions in the crypto markets.",
-          "link": "https://www.coindesk.com/markets/2023/12/28/first-mover-americas-microstrategy-buys-more-btc-and-ark-invest-buys-bito/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-          "publishedOn": "2023-12-28T13:17:43.000Z",
-          "wordCount": 10633,
-          "title": "First Mover Americas: MicroStrategy Buys More BTC and ARK Invest Buys BITO",
-          "enclosure": {
-            "length": "1337",
-            "type": "image/jpeg",
-            "url": "https://www.coindesk.com/resizer/AW5GLXwVhz1GUt7Jpbed-69oTeo=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/V4OZRLYPNFGH3GNQ7ZJCHGOR5U.jpg"
-          },
-          "imageUrl": "https://www.coindesk.com/resizer/AW5GLXwVhz1GUt7Jpbed-69oTeo=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/V4OZRLYPNFGH3GNQ7ZJCHGOR5U.jpg"
         }
       ]
     }

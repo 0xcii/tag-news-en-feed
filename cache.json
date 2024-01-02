@@ -6,6 +6,21 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=12006",
+          "author": "Robert Stevens,Ki Chong Tran,Daniel Roberts,Stephen Graves",
+          "description": "A spot Bitcoin ETF creates a simple, legally compliant way to trade the price of Bitcoin, accessible on markets that investors are already familiar with.",
+          "link": "https://decrypt.co/resources/what-is-bitcoin-etf-explained-guide-learn-easy",
+          "publishedOn": "2024-01-02T11:40:56.000Z",
+          "wordCount": 14772,
+          "title": "What Is a Bitcoin ETF, and Why Does Everyone from BlackRock to Grayscale Want One?",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2019/11/bitcoin-investment_2-gID_1-pID_1.png@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2019/11/bitcoin-investment_2-gID_1-pID_1.png@png"
+        },
+        {
           "id": "https://decrypt.co/?p=211436",
           "author": "Stephen Graves",
           "description": "Orbit Chain said that it would use \"all available methods\" to recover the stolen funds, which have yet to be moved by the attacker.",
@@ -576,21 +591,6 @@
           "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/11/pancakeswap-cake-shutterstock-gID_7.png@png"
         },
         {
-          "id": "https://decrypt.co/?p=211064",
-          "author": "Sander Lutz",
-          "description": "The former president has cashed out $2.4 million worth of ETH in the last three weeks, Arkham reports.",
-          "link": "https://decrypt.co/211064/trump-dumps-millions-in-eth-after-disastrous-nft-redux",
-          "publishedOn": "2023-12-28T00:53:13.000Z",
-          "wordCount": 9881,
-          "title": "Trump Dumps Millions in Ethereum After Disastrous NFT Redux",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/12/donald-trump-shutterstock_2379870027-gID_7.jpg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/12/donald-trump-shutterstock_2379870027-gID_7.jpg@png"
-        },
-        {
           "id": "https://decrypt.co/videos/live-events/TI3aFBhO/wildcards-plans-for-2024-with-founders-paul-and-katy-bettner",
           "author": null,
           "description": "Wildcard developers Paul and Katy Bettner tell Decrypt's Kate Irwin about why they see their game as a \"Web3 game,\" not a crypto game, and share why they've stuck with their initial vision despite the challenging broader market.",
@@ -641,7 +641,7 @@
           "description": "This week our host Reza Jafery is joined by Joseph Schiarizzi, founder of OpenDollar and prolific solidity developer. \n\n\nWe discuss: \n- Onchain beer\n- Taking over your local government\n- His Emmy and 3 patents?!?",
           "link": "https://decrypt.co/videos/interviews/zb0VG27G/creating-peaceful-money-taking-over-your-local-government-w-joseph-schiarizzi",
           "publishedOn": "2023-12-11T23:23:25.000Z",
-          "wordCount": 6870,
+          "wordCount": 6732,
           "title": "Creating peaceful money & taking over your local government w/ Joseph Schiarizzi",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/zb0VG27G/poster.jpg",
@@ -688,24 +688,194 @@
       "siteUrl": "https://cryptopanic.com/",
       "articles": [
         {
+          "id": "https://cryptopanic.com/news/19145195/Ripple-and-SEC-Have-Court-Dates-Slated-for-Feb-Mar-and-Apr-2024",
+          "author": null,
+          "description": "In a recent YouTube update, crypto analyst Zach Humphries outlined the anticipated timeline for the ongoing legal battle between Ripple Labs and the U.S. Securities and Exchange Commission (SEC) in 2024. Humphries believes court developments in Ripple vs. SEC this year could shape the industry’s...",
+          "link": "https://cryptopanic.com/news/19145195/Ripple-and-SEC-Have-Court-Dates-Slated-for-Feb-Mar-and-Apr-2024",
+          "publishedOn": "2024-01-02T12:15:00.000Z",
+          "wordCount": 597,
+          "title": "Ripple and SEC Have Court Dates Slated for Feb, Mar, and Apr 2024",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/19145167/Azure-Ray-Announces-Major-Roster-Shake-up",
+          "author": null,
+          "description": "In a stunning turn of events, Chinese esports organization Azure Ray has announced significant changes to its Dota 2 roster for the upcoming 2024 season. The organization, known for its prowess in bringing players out of retirement, has welcomed back three iconic players to its lineup: Zeng...",
+          "link": "https://cryptopanic.com/news/19145167/Azure-Ray-Announces-Major-Roster-Shake-up",
+          "publishedOn": "2024-01-02T12:03:07.000Z",
+          "wordCount": 590,
+          "title": "Azure Ray Announces Major Roster Shake-up",
+          "imageUrl": "https://img.cryptopolitan.com/wp-content/uploads/2024/01/photo_2024-01-02_12-29-52.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/19145172/Polkadots-Astar-ASTR-Jumps-25-Heres-Potential-Reason",
+          "author": null,
+          "description": "Astar (ASTR) makes stellar start to 2024 with 25% price surge",
+          "link": "https://cryptopanic.com/news/19145172/Polkadots-Astar-ASTR-Jumps-25-Heres-Potential-Reason",
+          "publishedOn": "2024-01-02T12:03:00.000Z",
+          "wordCount": 592,
+          "title": "Polkadot's Astar (ASTR) Jumps 25%, Here's Potential Reason",
+          "imageUrl": "https://u.today/sites/default/files/styles/twitter/public/2024-01/43511.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/19145181/Legal-Expert-Warns-This-is-Why-FTXs-Bankruptcy-Case-May-Last-for-Years",
+          "author": null,
+          "description": "According to legal experts, the process of the cryptocurrency exchange FTX, which is bankrupt and whose case is still ongoing, may take years. Continue Reading: Legal Expert Warns, This is Why FTX's Bankruptcy Case May Last for Years!",
+          "link": "https://cryptopanic.com/news/19145181/Legal-Expert-Warns-This-is-Why-FTXs-Bankruptcy-Case-May-Last-for-Years",
+          "publishedOn": "2024-01-02T12:02:06.000Z",
+          "wordCount": 597,
+          "title": "Legal Expert Warns, This is Why FTX's Bankruptcy Case May Last for Years!",
+          "imageUrl": "https://www.bitcoinsistemi.com/wp-content/uploads/2021/07/FTX.png"
+        },
+        {
+          "id": "https://cryptopanic.com/news/19145138/Crypto-Expert-Shares-Ultimate-Crypto-Portfolio-Guide-To-Make-It-In-2024",
+          "author": null,
+          "description": "The crypto industry is now set for a strong bullish run in 2024, with most analysts predicting assets to reach new all-time highs. As a result, investors are always on the lookout hoping to jump on cryptocurrencies that offer the potential for substantial returns. A recent social media post by a...",
+          "link": "https://cryptopanic.com/news/19145138/Crypto-Expert-Shares-Ultimate-Crypto-Portfolio-Guide-To-Make-It-In-2024",
+          "publishedOn": "2024-01-02T12:00:31.000Z",
+          "wordCount": 596,
+          "title": "Crypto Expert Shares Ultimate Crypto Portfolio Guide To Make It In 2024",
+          "imageUrl": "https://www.newsbtc.com/wp-content/uploads/2024/01/Crypto-portfolio.jpeg?fit=1200%2C800"
+        },
+        {
+          "id": "https://cryptopanic.com/news/19145179/Three-Crypto-Pioneers-on-Cryptos-Monolithic-vs-Modular-Debate-Ep-589",
+          "author": null,
+          "description": "In this episode of Unchained, Anatoly Yakovenko, co-founder of Solana Labs, Nick White, COO at Celestia, and Chris Burniske, partner at VC firm Placeholder discuss the differences between modular and monolithic, or integrated, blockchains, with Solana epitomizing the monolithic approach and...",
+          "link": "https://cryptopanic.com/news/19145179/Three-Crypto-Pioneers-on-Cryptos-Monolithic-vs-Modular-Debate-Ep-589",
+          "publishedOn": "2024-01-02T12:00:00.000Z",
+          "wordCount": 596,
+          "title": "Three Crypto Pioneers on Crypto’s Monolithic vs. Modular Debate - Ep. 589",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/19145134/This-Will-Be-Bitcoins-Highest-Price-in-2024-According-to-Matrixport",
+          "author": null,
+          "description": "Bitcoin's dominance indicator was on the decline until today, but its price could still catch investors off guard this year.",
+          "link": "https://cryptopanic.com/news/19145134/This-Will-Be-Bitcoins-Highest-Price-in-2024-According-to-Matrixport",
+          "publishedOn": "2024-01-02T11:53:42.000Z",
+          "wordCount": 595,
+          "title": "This Will Be Bitcoin’s Highest Price in 2024, According to Matrixport",
+          "imageUrl": "https://cryptopotato.com/wp-content/uploads/2024/01/Bitcoin_High.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/19145116/Binance-Maintains-Top-Spot-in-Trade-Volume-Despite-2023-Troubles",
+          "author": null,
+          "description": "Cryptocurrency trading platform Binance remains the cryptocurrency exchange with the largest trading volume despite the tumultuous events that marked its 2023. According to a chart posted by the crypto educational platform Bitining, Binance currently has 43.8% of crypto exchanges’ trade volume....",
+          "link": "https://cryptopanic.com/news/19145116/Binance-Maintains-Top-Spot-in-Trade-Volume-Despite-2023-Troubles",
+          "publishedOn": "2024-01-02T11:48:00.000Z",
+          "wordCount": 594,
+          "title": "Binance Maintains Top Spot in Trade Volume Despite 2023 Troubles",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/19145104/Lawyer-on-Mickey-Mouse-NFTs-You-cannot-suddenly-make-your-own-Mickey-products",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/19145104/Lawyer-on-Mickey-Mouse-NFTs-You-cannot-suddenly-make-your-own-Mickey-products",
+          "publishedOn": "2024-01-02T11:47:50.000Z",
+          "wordCount": null,
+          "title": "Lawyer on Mickey Mouse NFTs: ‘You cannot suddenly make your own Mickey products’",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/19145108/Valves-Decision-CSGO-Legacy-Status-and-the-Rise-of-CS2",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/19145108/Valves-Decision-CSGO-Legacy-Status-and-the-Rise-of-CS2",
+          "publishedOn": "2024-01-02T11:47:46.000Z",
+          "wordCount": null,
+          "title": "Valve’s Decision: CS:GO Legacy Status and the Rise of CS2",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/19145111/Machine-learning-algorithm-sets-SHIB-price-for-January-31-2024",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/19145111/Machine-learning-algorithm-sets-SHIB-price-for-January-31-2024",
+          "publishedOn": "2024-01-02T11:41:24.000Z",
+          "wordCount": null,
+          "title": "Machine learning algorithm sets SHIB price for January 31, 2024",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/19145112/Dogecoin-Founder-Issues-Notable-Bitcoin-BTC-Statement",
+          "author": null,
+          "description": "Dogecoin co-creator mentioned Bitcoin in tweet about billionaires and passive income",
+          "link": "https://cryptopanic.com/news/19145112/Dogecoin-Founder-Issues-Notable-Bitcoin-BTC-Statement",
+          "publishedOn": "2024-01-02T11:41:00.000Z",
+          "wordCount": 591,
+          "title": "Dogecoin Founder Issues Notable Bitcoin (BTC) Statement",
+          "imageUrl": "https://u.today/sites/default/files/styles/twitter/public/2024-01/43513.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/19145095/Analyst-Predicts-Bitcoin-to-Hit-a-New-All-Time-High-Post-Halving",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/19145095/Analyst-Predicts-Bitcoin-to-Hit-a-New-All-Time-High-Post-Halving",
+          "publishedOn": "2024-01-02T11:32:43.000Z",
+          "wordCount": null,
+          "title": "Analyst Predicts Bitcoin to Hit a New All-Time High Post-Halving",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/19145077/10-Crypto-Predictions-For-2024-Investors-Need-To-Know-Analyst",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/19145077/10-Crypto-Predictions-For-2024-Investors-Need-To-Know-Analyst",
+          "publishedOn": "2024-01-02T11:30:23.000Z",
+          "wordCount": null,
+          "title": "10 Crypto Predictions For 2024 Investors Need To Know: Analyst",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/19145055/We-asked-ChatGPT-what-will-be-the-XRP-price-in-2024-Heres-what-it-said",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/19145055/We-asked-ChatGPT-what-will-be-the-XRP-price-in-2024-Heres-what-it-said",
+          "publishedOn": "2024-01-02T11:30:19.000Z",
+          "wordCount": null,
+          "title": "We asked ChatGPT what will be the XRP price in 2024; Here’s what it said",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/19145157/Bitcoin-BTC-Breaks-Through-45000-as-ETF-Decision-Nears-Is-50000-Next",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/19145157/Bitcoin-BTC-Breaks-Through-45000-as-ETF-Decision-Nears-Is-50000-Next",
+          "publishedOn": "2024-01-02T11:30:00.000Z",
+          "wordCount": null,
+          "title": "Bitcoin (BTC) Breaks Through $45,000 as ETF Decision Nears – Is $50,000 Next?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/19145054/Bitcoin-ETF-approval-unlikely-in-current-SEC-review-says-expert",
+          "author": null,
+          "description": "The possibility of a spot in the Bitcoin Exchange-Traded Fund (ETF) gaining approval from the U.S. Securities and Exchange Commission (SEC) has been of significant interest as the January deadline for the SEC to decide on Bitcoin ETF applications approaches. SEC reviews critical for Bitcoin ETF...",
+          "link": "https://cryptopanic.com/news/19145054/Bitcoin-ETF-approval-unlikely-in-current-SEC-review-says-expert",
+          "publishedOn": "2024-01-02T11:24:36.000Z",
+          "wordCount": 594,
+          "title": "Bitcoin ETF approval unlikely in current SEC review says expert",
+          "imageUrl": "https://img.cryptopolitan.com/wp-content/uploads/2023/12/DALL·E-2023-12-30-23.49.29-A-conceptual-digital-art-representing-a-Bitcoin-ETF.-The-image-features-a-large-shiny-golden-Bitcoin-symbol-in-the-center-surrounded-by-various-fina.jpg"
+        },
+        {
           "id": "https://cryptopanic.com/news/19145021/World-Economic-Forum-2024-Rebuilding-Trust-in-Focus",
           "author": null,
-          "description": "The 54th Annual Meeting of the World Economic Forum (WEF) in Davos, Switzerland, is set to convene in January 2024 under the overarching theme of “Rebuilding Trust.” This prestigious event, which gathers leaders and influencers from various sectors worldwide, aims to address some of the most...",
+          "description": "",
           "link": "https://cryptopanic.com/news/19145021/World-Economic-Forum-2024-Rebuilding-Trust-in-Focus",
           "publishedOn": "2024-01-02T11:09:36.000Z",
-          "wordCount": 592,
+          "wordCount": null,
           "title": "World Economic Forum 2024: “Rebuilding Trust” in Focus",
-          "imageUrl": "https://img.cryptopolitan.com/wp-content/uploads/2024/01/photo_5807932147095420723_y.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/19145008/US-Supreme-Court-Chief-Justice-predicts-AI-will-039significantly039-impact-legal-work",
           "author": null,
-          "description": "U.S. Supreme Court Chief Justice John Roberts predicts AI will “significantly” impact legal work at the trial level while saying AI usage by legal teams requires “caution and humility.”",
+          "description": "",
           "link": "https://cryptopanic.com/news/19145008/US-Supreme-Court-Chief-Justice-predicts-AI-will-039significantly039-impact-legal-work",
           "publishedOn": "2024-01-02T11:02:58.000Z",
-          "wordCount": 596,
+          "wordCount": null,
           "title": "US Supreme Court Chief Justice predicts AI will &#039;significantly&#039; impact legal work",
-          "imageUrl": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2024-01/8665bc65-5ba6-49e2-acfa-04af31bbda6a.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/19145014/Bitcoins-early-2024-rally-stokes-anticipation-for-potential-ETF-green-light",
@@ -716,176 +886,6 @@
           "wordCount": 595,
           "title": "Bitcoin’s early 2024 rally stokes anticipation for potential ETF green light",
           "imageUrl": "https://cryptoslate.com/wp-content/uploads/2024/01/bitcoin-green.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/19144983/Web3-loses-17-billion-from-hacker-attacks-in-2023-says-Salus-report",
-          "author": null,
-          "description": "2023 marked a pivotal moment in the security dynamics of Web3, highlighting advancements in resilience alongside enduring challenges. Despite this, … Continued",
-          "link": "https://cryptopanic.com/news/19144983/Web3-loses-17-billion-from-hacker-attacks-in-2023-says-Salus-report",
-          "publishedOn": "2024-01-02T10:58:18.000Z",
-          "wordCount": 596,
-          "title": "Web3 loses $1.7 billion from hacker attacks in 2023, says Salus report",
-          "imageUrl": "https://finbold.com/app/uploads/2024/01/Web3-loses-1.7-billion-from-hacker-attacks-in-2023-says-Salus-report.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/19144997/5-Top-Altcoins-to-Invest-In-in-2024-Q1-According-to-Expert",
-          "author": null,
-          "description": "Analyst Michaël van de Poppe has disclosed the five altcoins he believes will perform well in the first quarter of 2024. Van de Poppe noted in his post on X that the altcoin season was already in play. However, he opined that chasing cryptocurrencies with 100x potential might not be the way to...",
-          "link": "https://cryptopanic.com/news/19144997/5-Top-Altcoins-to-Invest-In-in-2024-Q1-According-to-Expert",
-          "publishedOn": "2024-01-02T10:56:22.000Z",
-          "wordCount": 596,
-          "title": "5 Top Altcoins to Invest In in 2024 Q1, According to Expert",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/19144971/Coinbase-MicroStrategy-shares-surge-in-pre-market-trading-amid-bitcoin-breakout",
-          "author": null,
-          "description": "The stock gains come amid a breakout in the price of bitcoin, up around 7% over the last 24 hours to approach $46,000.",
-          "link": "https://cryptopanic.com/news/19144971/Coinbase-MicroStrategy-shares-surge-in-pre-market-trading-amid-bitcoin-breakout",
-          "publishedOn": "2024-01-02T10:50:10.000Z",
-          "wordCount": 594,
-          "title": "Coinbase, MicroStrategy shares surge in pre-market trading amid bitcoin breakout",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2023/08/20230817_LearnCategory_Markets-1200x675.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/19144965/Artificial-intelligence-predicts-crypto-in-2024",
-          "author": null,
-          "description": "2023 ushered in the generative AI trend, and 2024 may see it go mainstream. But what does AI think will happen with crypto in 2024?",
-          "link": "https://cryptopanic.com/news/19144965/Artificial-intelligence-predicts-crypto-in-2024",
-          "publishedOn": "2024-01-02T10:50:00.000Z",
-          "wordCount": 590,
-          "title": "Artificial intelligence predicts crypto in 2024",
-          "imageUrl": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2023-12/16a4792f-0619-4ef0-af2f-7bc690cdc17b.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/19144973/Mickey-Mouse-Takes-Over-OpenSea-Marketplace",
-          "author": null,
-          "description": "1928's Mickey Mouse enters the public domain; Steamboat Willie NFTs boom on OpenSea, but Disney keeps rights to modern Mickey.",
-          "link": "https://cryptopanic.com/news/19144973/Mickey-Mouse-Takes-Over-OpenSea-Marketplace",
-          "publishedOn": "2024-01-02T10:44:16.000Z",
-          "wordCount": 590,
-          "title": "Mickey Mouse Takes Over OpenSea Marketplace",
-          "imageUrl": "https://a.storyblok.com/f/182479/1536x768/c092efc5e2/miles2_34_mickey_mouse_hyper_realistic_c9b177dc-ab44-426f-a2ca-bd7470fccd47.webp"
-        },
-        {
-          "id": "https://cryptopanic.com/news/19144942/MicroStrategys-bold-Bitcoin-bet-ahead-of-2024-halving",
-          "author": null,
-          "description": "As 2024 dawns, the cryptocurrency space is poised for significant developments, with the potential approval of a spot Bitcoin ETF and the anticipated Bitcoin Halving event. These milestones are expected to indelibly mark the year as a historic period for digital currencies. Michael Saylor, a...",
-          "link": "https://cryptopanic.com/news/19144942/MicroStrategys-bold-Bitcoin-bet-ahead-of-2024-halving",
-          "publishedOn": "2024-01-02T10:35:16.000Z",
-          "wordCount": 592,
-          "title": "MicroStrategy’s bold Bitcoin bet ahead of 2024 halving",
-          "imageUrl": "https://img.cryptopolitan.com/wp-content/uploads/2023/11/IMG_4539.jpeg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/19144944/Bitcoin-BTC-Price-Set-to-Hit-50000-Matrixport-Points-to-ETF-Approvals-and-Institutional-Interest",
-          "author": null,
-          "description": "With Bitcoin already at 21-month high, Matrixport's forecast creates intrigue",
-          "link": "https://cryptopanic.com/news/19144944/Bitcoin-BTC-Price-Set-to-Hit-50000-Matrixport-Points-to-ETF-Approvals-and-Institutional-Interest",
-          "publishedOn": "2024-01-02T10:33:00.000Z",
-          "wordCount": 599,
-          "title": "Bitcoin (BTC) Price Set to Hit $50,000, Matrixport Points to ETF Approvals and Institutional Interest",
-          "imageUrl": "https://u.today/sites/default/files/styles/twitter/public/2024-01/43512.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/19145018/Bitcoin-News-Will-BlackRock-acquire-another-10-million-worth-of-BTC-on-January-3-2024",
-          "author": null,
-          "description": "The forecast concerns the initial funding for its spot Bitcoin ETF.",
-          "link": "https://cryptopanic.com/news/19145018/Bitcoin-News-Will-BlackRock-acquire-another-10-million-worth-of-BTC-on-January-3-2024",
-          "publishedOn": "2024-01-02T10:30:31.000Z",
-          "wordCount": 599,
-          "title": "Bitcoin News: Will BlackRock acquire another $10 million worth of BTC on January 3, 2024?",
-          "imageUrl": "https://en.cryptonomist.ch/wp-content/uploads/2024/01/bitcoin-news-blackrock.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/19144972/Crypto-News-MAJOR-Cardano-ADA-Partnership-HUGE-Expectations-Ethereum-Upgrade-Coming-Soon",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/19144972/Crypto-News-MAJOR-Cardano-ADA-Partnership-HUGE-Expectations-Ethereum-Upgrade-Coming-Soon",
-          "publishedOn": "2024-01-02T10:30:03.000Z",
-          "wordCount": null,
-          "title": "Crypto News: MAJOR Cardano ADA Partnership, HUGE Expectations & Ethereum Upgrade Coming Soon",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/19144940/Bitcoin-Related-Companies-Show-Pre-Market-Gains-as-BTC-Nears-46K",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/19144940/Bitcoin-Related-Companies-Show-Pre-Market-Gains-as-BTC-Nears-46K",
-          "publishedOn": "2024-01-02T10:29:31.000Z",
-          "wordCount": null,
-          "title": "Bitcoin-Related Companies Show Pre-Market Gains as BTC Nears $46K",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/19145019/Bitcoin-and-Ethereum-kick-off-2024-with-a-price-rally-50000-for-BTC-and-3000-for-ETH-are-on-the-way",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/19145019/Bitcoin-and-Ethereum-kick-off-2024-with-a-price-rally-50000-for-BTC-and-3000-for-ETH-are-on-the-way",
-          "publishedOn": "2024-01-02T10:28:17.000Z",
-          "wordCount": null,
-          "title": "Bitcoin and Ethereum kick off 2024 with a price rally: $50,000 for BTC and $3,000 for ETH are on the way.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/19144905/2024-Will-Be-Incredibly-Powerful-for-Crypto-Says-Morgan-Creeks-Mark-Yusko-Heres-Why",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/19144905/2024-Will-Be-Incredibly-Powerful-for-Crypto-Says-Morgan-Creeks-Mark-Yusko-Heres-Why",
-          "publishedOn": "2024-01-02T10:15:35.000Z",
-          "wordCount": null,
-          "title": "2024 Will Be ‘Incredibly Powerful’ for Crypto, Says Morgan Creek’s Mark Yusko – Here’s Why",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/19144883/VanEck-Adviser-Foresees-Trillions-Pouring-into-Cryptocurrency-Sector-with-Bitcoin-ETFs",
-          "author": null,
-          "description": "The impending launch of Bitcoin exchange-traded funds (ETFs) is generating a buzz, but VanEck advisor...",
-          "link": "https://cryptopanic.com/news/19144883/VanEck-Adviser-Foresees-Trillions-Pouring-into-Cryptocurrency-Sector-with-Bitcoin-ETFs",
-          "publishedOn": "2024-01-02T10:08:28.000Z",
-          "wordCount": 595,
-          "title": "VanEck Adviser Foresees Trillions Pouring into Cryptocurrency Sector with Bitcoin ETFs",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/19144882/XRP-Price-Action-Absolutely-Demolishes-Bears",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/19144882/XRP-Price-Action-Absolutely-Demolishes-Bears",
-          "publishedOn": "2024-01-02T10:05:00.000Z",
-          "wordCount": null,
-          "title": "XRP Price Action Absolutely Demolishes Bears",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/19144878/The-Rise-of-Human-Quandary-in-Post-OpenAI-Controversy",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/19144878/The-Rise-of-Human-Quandary-in-Post-OpenAI-Controversy",
-          "publishedOn": "2024-01-02T10:01:08.000Z",
-          "wordCount": null,
-          "title": "The Rise of Human Quandary in Post-OpenAI Controversy",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/19144876/Why-Bitcoin-ETF-Approval-Wont-Happen-This-Week-According-To-This-Journalist",
-          "author": null,
-          "description": "The US Securities and Exchange Commission may approve a spot Bitcoin ETF, according to recent speculations that rocked the digital asset market. Due to these conjectures, Bitcoin surged to over 6% on the second day of 2024, breaking beyond $45,000 for the first time since early April 2022. The...",
-          "link": "https://cryptopanic.com/news/19144876/Why-Bitcoin-ETF-Approval-Wont-Happen-This-Week-According-To-This-Journalist",
-          "publishedOn": "2024-01-02T10:00:31.000Z",
-          "wordCount": 596,
-          "title": "Why Bitcoin ETF Approval Won’t Happen This Week, According To This Journalist",
-          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2024/01/a-4.png"
-        },
-        {
-          "id": "https://cryptopanic.com/news/19144880/Can-the-Bitcoin-ETF-Take-Bitcoin-to-1M-in-2024-EP-895",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/19144880/Can-the-Bitcoin-ETF-Take-Bitcoin-to-1M-in-2024-EP-895",
-          "publishedOn": "2024-01-02T09:58:10.000Z",
-          "wordCount": null,
-          "title": "Can the Bitcoin ETF Take Bitcoin to $1M in 2024? | EP 895",
-          "imageUrl": null
         }
       ]
     },
@@ -894,6 +894,46 @@
       "feedUrl": "https://www.inoreader.com/stream/user/1005336866/tag/%E6%B5%B7%E5%A4%96%E5%8A%A0%E5%AF%86%E8%B5%84%E8%AE%AF",
       "siteUrl": "https://www.inoreader.com/stream/user/1005336866/tag/%E6%B5%B7%E5%A4%96%E5%8A%A0%E5%AF%86%E8%B5%84%E8%AE%AF/view/html",
       "articles": [
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e748526c103",
+          "author": "Jamie Crawley",
+          "description": "U.S.-listed companies rode bitcoin's bullish momentum to show significant gains in pre-market trading, including COIN, MSTR, MARA and RIOT.",
+          "link": "https://www.coindesk.com/markets/2024/01/02/bitcoin-related-companies-show-pre-market-gains-as-btc-nears-46k/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2024-01-02T11:46:45.000Z",
+          "wordCount": 10049,
+          "title": "Bitcoin-Related Companies Show Pre-Market Gains as BTC Nears $46K",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/jpeg",
+            "url": "https://www.coindesk.com/resizer/elkhughVC8DnOqi4E-SMtbPo0fo=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/E26RCH2YLFBETAFYAP6KJTOF2Q.jpg"
+          },
+          "imageUrl": "https://www.coindesk.com/resizer/elkhughVC8DnOqi4E-SMtbPo0fo=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/E26RCH2YLFBETAFYAP6KJTOF2Q.jpg"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e748520c8d8",
+          "author": "Jake Simmons",
+          "description": "Renowned crypto analyst Miles Deutscher has presented his predictions for the cryptocurrency market in 2024. Following a reflective look at his past forecasts, Deutscher shared a thread on X, outlining what he believes will be the key trends and shifts in the crypto sphere for the coming year.\n \nDeutscher began his revelation by acknowledging the mixed accuracy of his previous predictions for 2023. He candidly remarked, “Exactly one year ago, at the outset of 2023, I published a thread outlining my crypto predictions for the year. Looking back, I got a lot right – but also a lot wrong.” He highlighted his successful predictions for Coinbase, SOL, and BTC while admitting to miscalculations regarding ETH and being overly pessimistic about the market’s first half in 2023.\n \nTop 10 Crypto Pred…",
+          "link": "https://bitcoinist.com/10-crypto-predictions-2024-analyst/",
+          "publishedOn": "2024-01-02T11:30:29.000Z",
+          "wordCount": 5798,
+          "title": "10 Crypto Predictions For 2024 Investors Need To Know: Analyst",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/jpeg",
+            "url": "https://bitcoinist.com/wp-content/uploads/2024/01/iStock-157533216.jpg?fit=640,370"
+          },
+          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2024/01/iStock-157533216.jpg?fit=640,370"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e748520fa60",
+          "author": "Tareq Sikder",
+          "description": "To  \nenhance cryptocurrency services, eToro, the global trading and investment  \nplatform, has announced a partnership with Tangany, a Munich-based fintech  \nspecializing in crypto custody solutions. The collaboration aims to provide  \nsecure and transparent crypto asset custody services for eToro users in Germany.\nTangany  \nto Provide Crypto Custody Solutions for eToro's German Users\nStarting  \nfrom the end of January 2024, Tangany, a BaFin-licensed crypto custodian, will  \nextend its white-label expertise to eToro's Germany-based clientele. This  \ncollaboration marks a milestone for both companies, leveraging Tangany's  \ntechnological foundations developed entirely in-house at its Munich  \nheadquarters.\nAn  \neToro spokesperson expressed enthusiasm about teaming up with Tangany,  \nemphasi…",
+          "link": "https://www.financemagnates.com//cryptocurrency/etoro-teams-up-with-tangany-for-crypto-custody-solutions-in-germany/",
+          "publishedOn": "2024-01-02T11:28:48.000Z",
+          "wordCount": 4527,
+          "title": "eToro Teams Up with Tangany for Crypto Custody Solutions in Germany",
+          "imageUrl": "https://images.financemagnates.com/images/Germany%20880x400_id_27813ac3-7341-4ae4-9f8b-2ec410468010_size900.jpg"
+        },
         {
           "id": "http://www.inoreader.com/article/3a9c6e74852f45ef",
           "author": "Sergio Goschenko",
@@ -910,7 +950,7 @@
           "description": "The crypto gambling platform Stake.com has ramped up its marketing efforts by securing the naming rights of Sauber’s Formula One car for the next two years. The sports sponsorship kicked off in 2024 ahead of the launch of the new racing season on 5 February in London.\nStake.com Gains F1 Team’s Naming Rights\nNow known as Stake F1 Team Kick Sauber, the partnership with the crypto platform came after the F1 team competed under the Alfa Romeo name for five racing seasons. From 2026, the F1 team will be rebranded as Audi’s factory team.\n“Last season represented the start of Stake’s journey in Formula 1, and the brand’s new role headlining Stake F1 Team represents the natural and exciting next step on this path,” said Sauber’s Team Representative, Alessandro Alunni Bravi.\n\nView this post on Inst…",
           "link": "https://www.financemagnates.com//cryptocurrency/crypto-and-racing-stake-gains-naming-rights-of-saubers-f1-team/",
           "publishedOn": "2024-01-02T10:27:36.000Z",
-          "wordCount": 4750,
+          "wordCount": 4747,
           "title": "Crypto and Racing: Stake Gains Naming Rights of Sauber’s F1 Team",
           "imageUrl": "https://images.financemagnates.com/images/Stake%20F1%20Team%20Kick%20Sauber_id_c2c3b080-eeb5-4d11-8adf-1530b1f1a802_size900.jpg"
         },
@@ -920,7 +960,7 @@
           "description": "The US Securities and Exchange Commission may approve a spot Bitcoin ETF, according to recent speculations that rocked the digital asset market. Due to these conjectures, Bitcoin surged to over 6% on the second day of 2024, breaking beyond $45,000 for the first time since early April 2022.\n \nThe excitement surrounding the ETF clearance suggested that Bitcoin will soon be institutionally and widely accepted, which in turn spurred a spike in traders’ and investors’ buying attitude.\n \nPredictions that the SEC will approve the introduction of many spot bitcoin ETFs seem to be driving the increase, as they have been doing for the last few weeks.\n \n \nSEC Decision On Bitcoin ETF Approvals Uncertain\n \nAccording to a Reuters story published over the weekend, the regulatory body might start informin…",
           "link": "https://bitcoinist.com/bitcoin-etf-nod-wont-happen-this-week-journalist/",
           "publishedOn": "2024-01-02T10:08:49.000Z",
-          "wordCount": 5689,
+          "wordCount": 5686,
           "title": "Why Bitcoin ETF Approval Won’t Happen This Week, According To This Journalist",
           "enclosure": {
             "length": "1337",
@@ -935,7 +975,7 @@
           "description": "Meme coin SEIYAN – apparently a cult term for holders  of the SEI token – has gained 400% in the past week, serving as a proxy for the growth of the broader Sei ecosystem.",
           "link": "https://www.coindesk.com/markets/2024/01/02/sei-network-emerges-as-latest-crypto-favorite-meme-coin-seiyan-leads-bets/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2024-01-02T09:54:53.000Z",
-          "wordCount": 11232,
+          "wordCount": 11223,
           "title": "Sei Network Emerges as Latest Crypto Favorite; Meme Coin SEIYAN Leads Bets",
           "enclosure": {
             "length": "1337",
@@ -950,7 +990,7 @@
           "description": "Futures tracking the lesser-known token saw $68 million evaporate in leveraged bets in a 24-hour period.",
           "link": "https://www.coindesk.com/markets/2024/01/02/wild-trading-session-sees-tellors-trb-token-slide-from-720-to-180-in-hours/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2024-01-02T08:53:51.000Z",
-          "wordCount": 10559,
+          "wordCount": 10568,
           "title": "Wild Trading Session Sees Tellor’s TRB Token Slide From $720 to $180 in Hours",
           "enclosure": {
             "length": "1337",
@@ -965,7 +1005,7 @@
           "description": "Tuesday saw Bitcoin surpass $45,000 for the first time since April 2022. BTC had a strong start to 2024 thanks to hopes for the introduction of exchange-traded spot bitcoin funds.\n \nAt $45,355, the largest and most well-known cryptocurrency in the world experienced a 4.3% increase, reaching its highest level since April 6, 2022. Other tokens saw gains as well; Ether, the second-largest, increased by 2.6%.\n \nAs a result of the change, Bitcoin is still 34% away from its peak of $69,000 in November 2021.\n \nAnticipation On Bitcoin ETF Approval Fuels Rally\n \nThe US Securities and Exchange Commission’s expected approval of numerous spot bitcoin ETF launches, as has been the case for some weeks, seems to be driving the price increase.\n \n \nCrypto YouTuber Lark Davis stated, “rumors flying that the…",
           "link": "https://bitcoinist.com/bitcoin-blasts-past-45000-as-etf-hype-heats-up/",
           "publishedOn": "2024-01-02T08:37:09.000Z",
-          "wordCount": 5640,
+          "wordCount": 5637,
           "title": "Bitcoin Blasts Past $45,000 As ETF Hype Heats Up: Get Ready For Liftoff",
           "enclosure": {
             "length": "1337",
@@ -990,7 +1030,7 @@
           "description": "As the January 10 deadline for the approval of the much-anticipated spot Bitcoin exchange-traded fund (ETF) draws near, the United States Securities and Exchange Commission (SEC) is reportedly grappling with an overwhelming amount of paperwork. An approval by the end of today seems rather unlikely, although the latest surge in the Bitcoin price shows that market participants are of a different opinion.\n \nEleanor Terrett, a journalist for FOX Business, shared insights on the situation via X (formerly known as Twitter), noting the unpredictable nature of the SEC’s decision-making process. She remarked, “While the SEC is surely unpredictable, it would surprise me if approvals were to happen tomorrow.”\n \nBitcoin ETF Approval By The End Of The Week?\n \nTerrett added, “From what I understand thro…",
           "link": "https://bitcoinist.com/bitcoin-etf-deadline-sec-paperwork/",
           "publishedOn": "2024-01-02T07:14:08.000Z",
-          "wordCount": 5676,
+          "wordCount": 5673,
           "title": "Bitcoin ETF Deadline Approaches: SEC Struggles With Paperwork",
           "enclosure": {
             "length": "1337",
@@ -1005,7 +1045,7 @@
           "description": "Data tracked by Matrixport show global average perpetual funding rates rose to a record 66% annualized early Monday.",
           "link": "https://www.coindesk.com/markets/2024/01/02/bitcoin-bullish-bets-costlier-than-ever-as-funding-rates-hit-record-66/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2024-01-02T06:45:44.000Z",
-          "wordCount": 10196,
+          "wordCount": 10223,
           "title": "Bitcoin Bullish Bets Costlier Than Ever as Funding Rates Hit Record 66%",
           "enclosure": {
             "length": "1337",
@@ -1040,7 +1080,7 @@
           "description": "Speculation has been ramping up that regulatory approval for a U.S.-based spot bitcoin ETF is coming this week.",
           "link": "https://www.coindesk.com/markets/2024/01/02/bitcoin-begins-2024-with-a-push-toward-45k/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2024-01-02T01:27:20.000Z",
-          "wordCount": 10522,
+          "wordCount": 10541,
           "title": "Bitcoin Starts the New Year Rising Past $45K, Highest Level Since April 2022",
           "enclosure": {
             "length": "1337",
@@ -1108,46 +1148,6 @@
             "url": "https://bitcoinist.com/wp-content/uploads/2023/07/Bitcoin-ETD-750x536-1.jpeg?fit=588,420"
           },
           "imageUrl": "https://bitcoinist.com/wp-content/uploads/2023/07/Bitcoin-ETD-750x536-1.jpeg?fit=588,420"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e7486dd461f",
-          "author": "Keshav Verma",
-          "description": "On-chain data shows the Bitcoin inflows to cryptocurrency exchange Binance have shot up, a sign that whale selling may be happening.\n \nBitcoin Netflow To Binance Has Been Highly Positive During Past Day\n \nCryptoQuant Netherlands community manager Maartunn explained in a new post on X that the exchange reserve on Binance has registered a sharp increase during the past day.\n \nThe indicator of interest here is the “exchange netflow,” which keeps track of the net amount of Bitcoin entering into or exiting the wallets of any given centralized exchange. The metric’s value is calculated by subtracting the outflows from the inflows.\n \n \nWhen the indicator has a positive value, the inflows overwhelm the outflows, and the platform is receiving transfers of a net number of coins right now. As one of …",
-          "link": "https://bitcoinist.com/bitcoin-inflows-binance-spike-whales-2024-selloff/",
-          "publishedOn": "2024-01-01T19:05:26.000Z",
-          "wordCount": 5639,
-          "title": "Bitcoin Inflows To Binance Spike: Whales Starting 2024 With Selloff?",
-          "enclosure": {
-            "length": "1337",
-            "type": "image/jpeg",
-            "url": "https://bitcoinist.com/wp-content/uploads/2024/01/thomas-lipke-kkXDhAUnxYI-unsplash-1.jpg?fit=640,394"
-          },
-          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2024/01/thomas-lipke-kkXDhAUnxYI-unsplash-1.jpg?fit=640,394"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e7486dfcb98",
-          "author": "Jamie Redman",
-          "description": "As 2023 drew to a close on New Year’s Eve, the Bitcoin network eclipsed yet another record by verifying a significant 731,351 transactions in a single day. This achievement outstripped the previous high set on Dec. 24, 2023, or Christmas Eve, where miners confirmed a total of 723,459 transactions.\n \nBitcoin Ends 2023 With Record-Breaking 731K Transactions\n \nThe year 2023 saw a series of benchmarks surpassed in Bitcoin’s network and onchain activities as both the mining difficulty and hashrate soared to unprecedented levels, alongside a daily increase in transaction confirmations. On the cusp of the new year, miners cemented a record with 731,351 transactions verified on Dec. 31, 2023, largely propelled by Ordinal inscriptions.\n \n\n \nOn the same day, 314,003 inscriptions were processed, maki…",
-          "link": "https://news.bitcoin.com/new-years-eve-sees-bitcoin-network-break-daily-transfer-record-with-over-731000-transactions/",
-          "publishedOn": "2024-01-01T18:36:38.000Z",
-          "wordCount": 276,
-          "title": "New Year’s Eve Sees Bitcoin Network Break Daily Transfer Record With Over 731,000 Transactions",
-          "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2024/01/btctx.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAYIWLWC3GPQWL5SMB%2F20240101%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240101T182935Z&X-Amz-SignedHeaders=host&X-Amz-Expires=600&X-Amz-Signature=a57fbda6bcd61b132c2a0ece9395a93f4c5ebda89fd2df2d180c313cf1ede1b8"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e7486da842f",
-          "author": "Seth Cantey,Jack Evans,Anonymous",
-          "description": "One of us is from Kentucky and the other from China. We both attend Washington and Lee University in Virginia. Last summer, we assisted Professor Seth Cantey, also a co-author of this piece, with research on the roles of bitcoin and Tether in Lebanon. To help with that work, first we had to learn a lot. What is bitcoin, and what are the problems it’s trying to solve? How is it being used in Lebanon? Could bitcoin adoption mitigate the economic crisis? For two months, we wrestled with these questions.\nBut another question came up too. What does our generation, Gen Z, think of bitcoin?\nGen Z, the demographic cohort succeeding Millennials, includes those born from the mid-1990s to the early 2010s. Basically, we’re digital natives in our teens and twenties. We’re already entering adulthood, ta…",
-          "link": "https://bitcoinmagazine.com/culture/what-gen-z-thinks-about-bitcoin",
-          "publishedOn": "2024-01-01T18:05:26.000Z",
-          "wordCount": null,
-          "title": "What Gen Z Thinks About Bitcoin",
-          "enclosure": {
-            "length": "1337",
-            "type": "image/jpeg",
-            "url": "http://bitcoinmagazine.com/.image/c_limit,cs_srgb,fl_progressive,h_1200,q_auto:good,w_1200/MjAzMzI1MTcyNjIxNTE4MDA2/genz.jpg"
-          },
-          "imageUrl": "http://bitcoinmagazine.com/.image/c_limit,cs_srgb,fl_progressive,h_1200,q_auto:good,w_1200/MjAzMzI1MTcyNjIxNTE4MDA2/genz.jpg"
         }
       ]
     }

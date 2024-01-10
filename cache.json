@@ -656,7 +656,7 @@
           "description": "Billionaire biohacker Bryan Johnson shared with Decrypt's Jason Nelson why he began his longevity quest and how technology has shaped the endeavor. Johnson also discusses some of his controversial experiments.",
           "link": "https://decrypt.co/videos/interviews/tAwP55g9/bryan-johnson-explains-his-quest-for-immortality-and-why-he-started-with-the-penis",
           "publishedOn": "2023-12-24T19:38:39.000Z",
-          "wordCount": 6763,
+          "wordCount": 6916,
           "title": "Bryan Johnson Explains His Quest for Immortality and Why He Started with the Penis",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/tAwP55g9/poster.jpg",
@@ -686,7 +686,7 @@
           "description": "Decrypt and Rug Radio have announced their intent to merge, creating the world’s biggest decentralized publishing company. Codenamed [REDACTED], the alliance is aimed at revolutionizing tech-media, bringing together the forces of content creation and consumption.",
           "link": "https://decrypt.co/videos/live-events/VTEBYFD8/decrypt-and-rug-radio-merge-to-create-global-web3-publishing-company",
           "publishedOn": "2023-12-21T17:04:32.000Z",
-          "wordCount": 6772,
+          "wordCount": 6904,
           "title": "Decrypt and Rug Radio Merge to Create Global Web3 Publishing Company",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/VTEBYFD8/poster.jpg",
@@ -733,14 +733,94 @@
       "siteUrl": "https://cryptopanic.com/",
       "articles": [
         {
-          "id": "https://cryptopanic.com/news/19163346/SEC-did-not-have-2FA-enabled-on-its-official-account-X-Safety-investigation",
+          "id": "https://cryptopanic.com/news/19163399/Bitcoin-futures-ETF-ProShares-BITO-reaches-all-time-high-of-over-2-billion-assets",
           "author": null,
-          "description": "The SEC's false Bitcoin ETF announcement was the result of a SIM-swap attack, says the official X Safety team following a preliminary investigation.",
-          "link": "https://cryptopanic.com/news/19163346/SEC-did-not-have-2FA-enabled-on-its-official-account-X-Safety-investigation",
-          "publishedOn": "2024-01-10T04:08:37.000Z",
+          "description": "The ProShares Bitcoin Strategy ETF (BITO), which invests in bitcoin futures, amassed over $2 billion in assets at an all-time high on Jan. 8.",
+          "link": "https://cryptopanic.com/news/19163399/Bitcoin-futures-ETF-ProShares-BITO-reaches-all-time-high-of-over-2-billion-assets",
+          "publishedOn": "2024-01-10T04:56:53.000Z",
           "wordCount": 601,
-          "title": "SEC did not have 2FA enabled on its official account: X Safety investigation",
-          "imageUrl": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2024-01/63194c7b-3c09-4d64-b8e2-2150a34a75fe.jpg"
+          "title": "Bitcoin futures ETF ProShares BITO reaches all-time high of over $2 billion assets",
+          "imageUrl": "https://www.tbstat.com/wp/uploads/2023/10/20231019_NewBitcoinCity_News3-1200x675.png"
+        },
+        {
+          "id": "https://cryptopanic.com/news/19163398/Ethereum-Price-Technical-Setup-Suggests-Fresh-Surge-Above-2400",
+          "author": null,
+          "description": "Ethereum price climbed higher above the $2,350 resistance. ETH outpaced Bitcoin and might even attempt a clear move above the $2,400 resistance. Ethereum is attempting a fresh increase above the $2,350 resistance level. The price is trading above $2,320 and the 100-hourly Simple Moving Average....",
+          "link": "https://cryptopanic.com/news/19163398/Ethereum-Price-Technical-Setup-Suggests-Fresh-Surge-Above-2400",
+          "publishedOn": "2024-01-10T04:51:49.000Z",
+          "wordCount": 597,
+          "title": "Ethereum Price Technical Setup Suggests Fresh Surge Above $2,400",
+          "imageUrl": "https://www.newsbtc.com/wp-content/uploads/2022/11/iStock-952510084.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/19163386/Hacker-Seized-SEC-Phone-Number-to-Post-Fake-Bitcoin-ETF-Approval-X-Says",
+          "author": null,
+          "description": "The Securities and Exchange Commission (SEC) did not employ basic security measures on its X (formerly Twitter) account when it was \"compromised\" to spread false bitcoin ETF news, according to the social media company.",
+          "link": "https://cryptopanic.com/news/19163386/Hacker-Seized-SEC-Phone-Number-to-Post-Fake-Bitcoin-ETF-Approval-X-Says",
+          "publishedOn": "2024-01-10T04:32:24.000Z",
+          "wordCount": 601,
+          "title": "Hacker Seized SEC Phone Number to Post Fake Bitcoin ETF Approval, X Says",
+          "imageUrl": "https://www.coindesk.com/resizer/QPbLcDEVAz0hyhbz29PZAMb84ec=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/JFY2ZLIOURGE3N7KXI6G3R2HPI.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/19163387/X-reveals-SEC-account-breach-stemmed-from-unprotected-phone-number",
+          "author": null,
+          "description": "X's safety team noted unauthorized control of a phone number associated with the SEC account, which lacked two-factor authentication.",
+          "link": "https://cryptopanic.com/news/19163387/X-reveals-SEC-account-breach-stemmed-from-unprotected-phone-number",
+          "publishedOn": "2024-01-10T04:31:28.000Z",
+          "wordCount": 598,
+          "title": "X reveals SEC account breach stemmed from unprotected phone number",
+          "imageUrl": "https://www.tbstat.com/wp/uploads/2023/09/20230814_TheSEC_News2-1200x675.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/19163392/Elon-Musks-X-Confirms-SEC-Twitter-Hack-That-Sent-Bitcoin-Soaring-Was-Caused-By-Lack-Of-Two-Factor-Authentication",
+          "author": null,
+          "description": "Elon Musk's X has issued a statement confirming the compromise of the Securities and Exchange Commission’s X account. What Happened: “We can confirm that the account @SECGov was compromised and we have completed a preliminary investigation,” stated X distancing itself from a breach of its own...",
+          "link": "https://cryptopanic.com/news/19163392/Elon-Musks-X-Confirms-SEC-Twitter-Hack-That-Sent-Bitcoin-Soaring-Was-Caused-By-Lack-Of-Two-Factor-Authentication",
+          "publishedOn": "2024-01-10T04:30:40.000Z",
+          "wordCount": 606,
+          "title": "Elon Musk's X Confirms SEC Twitter Hack That Sent Bitcoin Soaring Was Caused By Lack Of Two-Factor Authentication",
+          "imageUrl": "https://cdn.benzinga.com/files/images/story/2024/Yogyakarta--Indonesia--July-25--2023-In-.jpeg?width=1200&height=800&fit=crop"
+        },
+        {
+          "id": "https://cryptopanic.com/news/19163363/OpenAI-GPT-Store-Sparks-Concern-as-Copycat-Apps-Surface-Ahead-of-Launch",
+          "author": null,
+          "description": "With the highly anticipated OpenAI GPT Store on the horizon, poised to become the go-to marketplace for generative chatbots, concerns are arising even before its official launch. Developers are sounding the alarm as copycat apps begin to emerge, mirroring the early challenges faced by the Apple...",
+          "link": "https://cryptopanic.com/news/19163363/OpenAI-GPT-Store-Sparks-Concern-as-Copycat-Apps-Surface-Ahead-of-Launch",
+          "publishedOn": "2024-01-10T04:15:41.000Z",
+          "wordCount": 600,
+          "title": "OpenAI GPT Store Sparks Concern as Copycat Apps Surface Ahead of Launch",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/19163364/Spot-Bitcoin-ETF-Approval-Faces-Potential-Delay-Due-to-This-Clause",
+          "author": null,
+          "description": "Eleanor's revelation exposes the power of 17 C.F.R. Section 201.431, allowing any SEC Commissioner to review staff-approved matters.",
+          "link": "https://cryptopanic.com/news/19163364/Spot-Bitcoin-ETF-Approval-Faces-Potential-Delay-Due-to-This-Clause",
+          "publishedOn": "2024-01-10T04:15:12.000Z",
+          "wordCount": 599,
+          "title": "Spot Bitcoin ETF Approval Faces Potential Delay Due to This Clause",
+          "imageUrl": "https://cryptopotato.com/wp-content/uploads/2024/01/Bitcoin_SEC_Delay_ETF.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/19163359/Celsius-files-intent-to-claw-back-certain-pre-bankruptcy-withdrawals",
+          "author": null,
+          "description": "The embattled crypto lender has filed an intent to claw back funds from those who withdrew $100,000 or more in the three months before it declared bankruptcy.",
+          "link": "https://cryptopanic.com/news/19163359/Celsius-files-intent-to-claw-back-certain-pre-bankruptcy-withdrawals",
+          "publishedOn": "2024-01-10T04:12:53.000Z",
+          "wordCount": 597,
+          "title": "Celsius files intent to claw back certain pre-bankruptcy withdrawals",
+          "imageUrl": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2024-01/2730d3f0-b948-466b-a438-c39d7f6fe017.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/19163346/SEC-did-not-have-2FA-enabled-X-Safety-team-on-fake-Bitcoin-ETF-post",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/19163346/SEC-did-not-have-2FA-enabled-X-Safety-team-on-fake-Bitcoin-ETF-post",
+          "publishedOn": "2024-01-10T04:08:37.000Z",
+          "wordCount": null,
+          "title": "SEC did not have 2FA enabled: X Safety team on fake Bitcoin ETF post",
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/19163328/SAG-AFTRA-Deal-Carves-the-Route-for-AI-Voice-Actors-in-Video-Games",
@@ -755,12 +835,12 @@
         {
           "id": "https://cryptopanic.com/news/19163327/Bitcoin-Whale-Snaps-Up-7750-BTC-on-Binance-Cashes-Out-264-Million",
           "author": null,
-          "description": "A savvy cryptocurrency whale has managed to accumulate 1,750 Bitcoin ($BTC) from leading cryptocurrency trading platform Binance in just two days, in a move that came after they accumulated 6,000 BTC worth over $158.6 million between August and September. According to popular on-chain analysis...",
+          "description": "",
           "link": "https://cryptopanic.com/news/19163327/Bitcoin-Whale-Snaps-Up-7750-BTC-on-Binance-Cashes-Out-264-Million",
           "publishedOn": "2024-01-10T03:46:00.000Z",
-          "wordCount": 600,
+          "wordCount": null,
           "title": "Bitcoin Whale Snaps Up 7,750 BTC on Binance, Cashes Out $26.4 Million",
-          "imageUrl": "https://media.cryptoglobe.com/2022/07/kanchanara-Lta5b8mPytw-unsplash-768x511.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/19163298/BNB-Chain-begins-phasing-out-the-Beacon-Chain-Why",
@@ -785,22 +865,22 @@
         {
           "id": "https://cryptopanic.com/news/19163318/Bitcoin-To-150K-Soon-Says-Rich-Dad-Poor-Dad-Author-Robert-Kiyosaki-In-Light-Of-Potential-Bitcoin-ETF-Approval",
           "author": null,
-          "description": "",
+          "description": "‘Rich Dad Poor Dad’ author Robert Kiyosaki has amended his Bitcoin (CRYPTO: BTC) forecast, raising his target for the cryptocurrency from $120,000 to $150,000. read more",
           "link": "https://cryptopanic.com/news/19163318/Bitcoin-To-150K-Soon-Says-Rich-Dad-Poor-Dad-Author-Robert-Kiyosaki-In-Light-Of-Potential-Bitcoin-ETF-Approval",
           "publishedOn": "2024-01-10T03:27:33.000Z",
-          "wordCount": null,
+          "wordCount": 607,
           "title": "'Bitcoin To $150K Soon,' Says 'Rich Dad Poor Dad' Author Robert Kiyosaki In Light Of Potential Bitcoin ETF Approval",
-          "imageUrl": null
+          "imageUrl": "https://cdn.benzinga.com/files/images/story/2024/Robert-Kiyosaki_1.jpeg?width=1200&height=800&fit=crop"
         },
         {
           "id": "https://cryptopanic.com/news/19163255/Bitcoin-ETF-Could-Command-8-Premium-Pending-Approval-Market-Expert-Says",
           "author": null,
-          "description": "A recent Bloomberg report sheds light on the predictions of Reggie Browne, the head of ETF trading at market-maker GTS, regarding the trading dynamics of a Bitcoin ETF’s potential approval on Wednesday. Bitcoin ETF Applications Poised For ‘Meaningful’ Premium? Per the report, Browne suggests...",
+          "description": "",
           "link": "https://cryptopanic.com/news/19163255/Bitcoin-ETF-Could-Command-8-Premium-Pending-Approval-Market-Expert-Says",
           "publishedOn": "2024-01-10T03:00:55.000Z",
-          "wordCount": 599,
+          "wordCount": null,
           "title": "Bitcoin ETF Could Command 8% Premium, Pending Approval, Market Expert Says",
-          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2024/01/shutterstock_download-2-16.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/19163247/Fidelity-lowers-proposed-spot-bitcoin-ETF-fee-to-025-amid-fee-race",
@@ -815,12 +895,12 @@
         {
           "id": "https://cryptopanic.com/news/19163246/Bitcoin-Price-Rejects-48K-After-The-SEC-Drama-But-Uptrend-Still-Intact",
           "author": null,
-          "description": "Bitcoin price jumped toward $48,000 after the hacked SEC account tweet. BTC trimmed all gains, but the uptrend support is still intact near $45,200. Bitcoin spiked toward the $47,800 and $48,000 resistance levels. The price is trading above $45,500 and the 100 hourly Simple moving average. There...",
+          "description": "",
           "link": "https://cryptopanic.com/news/19163246/Bitcoin-Price-Rejects-48K-After-The-SEC-Drama-But-Uptrend-Still-Intact",
           "publishedOn": "2024-01-10T02:58:56.000Z",
-          "wordCount": 600,
+          "wordCount": null,
           "title": "Bitcoin Price Rejects 48K After The SEC Drama But Uptrend Still Intact",
-          "imageUrl": "https://www.newsbtc.com/wp-content/uploads/2021/03/shutterstock_1043982583.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/19163282/Elon-Musk-Takes-A-Stab-At-SEC-After-X-Account-Hack-Via-A-Dogecoin-Meme-Jokes-LFGDogeToTheMoon-Was-Regulators-Password",
@@ -835,12 +915,12 @@
         {
           "id": "https://cryptopanic.com/news/19163236/US-Financial-Industry-Regulator-Spotlights-Crypto-in-Annual-Report",
           "author": null,
-          "description": "",
+          "description": "The United States financial industry watchdog cautions individuals to exercise caution before entering cryptocurrency, citing the ongoing presence of malicious scammers. “Member firms seeking to engage in crypto asset-related activity should identify and address the relevant regulatory and...",
           "link": "https://cryptopanic.com/news/19163236/US-Financial-Industry-Regulator-Spotlights-Crypto-in-Annual-Report",
           "publishedOn": "2024-01-10T02:49:38.000Z",
-          "wordCount": null,
+          "wordCount": 597,
           "title": "US Financial Industry Regulator Spotlights Crypto in Annual Report",
-          "imageUrl": null
+          "imageUrl": "https://beincrypto.com/wp-content/uploads/2023/01/bic_artwork_hacker_graph.png"
         },
         {
           "id": "https://cryptopanic.com/news/19163292/Genesis-creditors-accuse-DCG-of-unfair-repayment",
@@ -851,86 +931,6 @@
           "wordCount": null,
           "title": "Genesis creditors accuse DCG of unfair repayment",
           "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/19163222/Valkyrie-CIO-sees-huge-potential-for-XRP-and-Ethereum-spot-ETFs",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/19163222/Valkyrie-CIO-sees-huge-potential-for-XRP-and-Ethereum-spot-ETFs",
-          "publishedOn": "2024-01-10T02:36:03.000Z",
-          "wordCount": null,
-          "title": "Valkyrie CIO sees huge potential for XRP and Ethereum spot ETFs",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/19163221/Bitcoin-ETF-decision-unlikely-to-be-delayed-due-to-SEC-hack-Commentators",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/19163221/Bitcoin-ETF-decision-unlikely-to-be-delayed-due-to-SEC-hack-Commentators",
-          "publishedOn": "2024-01-10T02:30:15.000Z",
-          "wordCount": null,
-          "title": "Bitcoin ETF decision unlikely to be delayed due to SEC hack: Commentators",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/19163235/Bitcoin-Ethereum-Dogecoin-Drop-After-Fake-News-Of-Spot-ETF-Approval-200M-Worth-of-Liquidations-Follow-Analyst-Warns-Of-Fakeout-Rallies-Looming-Corrections-For-King-Crypto",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/19163235/Bitcoin-Ethereum-Dogecoin-Drop-After-Fake-News-Of-Spot-ETF-Approval-200M-Worth-of-Liquidations-Follow-Analyst-Warns-Of-Fakeout-Rallies-Looming-Corrections-For-King-Crypto",
-          "publishedOn": "2024-01-10T02:30:10.000Z",
-          "wordCount": null,
-          "title": "Bitcoin, Ethereum, Dogecoin Drop After Fake News Of Spot ETF Approval — $200M Worth of Liquidations Follow: Analyst Warns Of Fakeout Rallies, Looming Corrections For King Crypto",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/19163223/SEC-is-investigating-cause-of-X-account-hack",
-          "author": null,
-          "description": "The digital landscape was thrown into disarray when the Securities and Exchange Commission’s X account emitted a false beacon of hope, announcing the approval of spot Bitcoin ETFs. This digital mirage, later clarified as a hoax by the SEC, underscores the vulnerability of even the most fortified...",
-          "link": "https://cryptopanic.com/news/19163223/SEC-is-investigating-cause-of-X-account-hack",
-          "publishedOn": "2024-01-10T02:29:41.000Z",
-          "wordCount": 596,
-          "title": "SEC is investigating cause of X account hack",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/19163100/Bitcoin-ETF-Approved-FAKE-NEWS",
-          "author": null,
-          "description": "The Bitcoin ETF is once again hit with fake news! 🔥 GET MY FREE NEWSLETTER 👉 https://cryptolark.co/WEALTHMASTERY💸 BYBIT $500 FREE TRADE PLUS $30,030 BONUS & FEE DISCOUNT 👉 https://cryptolark.co/500FREETRADE 💡💡💡 ESSENTIAL CRYPTO KNOWLEDGE 💡💡💡🔥 GET MY FREE NEWSLETTER 👉...",
-          "link": "https://cryptopanic.com/news/19163100/Bitcoin-ETF-Approved-FAKE-NEWS",
-          "publishedOn": "2024-01-10T02:26:33.000Z",
-          "wordCount": 593,
-          "title": "Bitcoin ETF Approved... FAKE NEWS!!!",
-          "imageUrl": "https://i4.ytimg.com/vi/G1awjUMY-ow/hqdefault.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/19163224/SEC-in-big-trouble-over-fake-Bitcoin-ETF-approval-post",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/19163224/SEC-in-big-trouble-over-fake-Bitcoin-ETF-approval-post",
-          "publishedOn": "2024-01-10T02:21:06.000Z",
-          "wordCount": null,
-          "title": "SEC in big trouble over fake Bitcoin ETF approval post",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/19163211/Fintech-crypto-under-scrutiny-in-high-stakes-global-AML-efforts",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/19163211/Fintech-crypto-under-scrutiny-in-high-stakes-global-AML-efforts",
-          "publishedOn": "2024-01-10T02:11:22.000Z",
-          "wordCount": null,
-          "title": "Fintech, crypto under scrutiny in high-stakes global AML efforts",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/19163197/World-Bank-sounds-alarm-on-global-economic-growth",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/19163197/World-Bank-sounds-alarm-on-global-economic-growth",
-          "publishedOn": "2024-01-10T02:06:09.000Z",
-          "wordCount": null,
-          "title": "World Bank sounds alarm on global economic growth",
-          "imageUrl": null
         }
       ]
     },
@@ -939,6 +939,31 @@
       "feedUrl": "https://www.inoreader.com/stream/user/1005336866/tag/%E6%B5%B7%E5%A4%96%E5%8A%A0%E5%AF%86%E8%B5%84%E8%AE%AF",
       "siteUrl": "https://www.inoreader.com/stream/user/1005336866/tag/%E6%B5%B7%E5%A4%96%E5%8A%A0%E5%AF%86%E8%B5%84%E8%AE%AF/view/html",
       "articles": [
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e74f9dee88c",
+          "author": "Kevin Helms",
+          "description": "The U.S. Securities and Exchange Commission’s former head of internet enforcement has warned about investing in spot bitcoin exchange-traded funds (ETFs), which the SEC is expected to approve on Wednesday. He cautioned that spot bitcoin applicants are “nothing more than an opportunistic cartel of fee-sucking billionaire financial behemoths who have the audacity to design and manufacture a product to allow more investors to experience financial ruin and incalculable risk – just so they can once again line their pockets with fiat.”\n \n\n \nStark’s Spot Bitcoin ETF Warnings\n \nFormer U.S. Securities and Exchange Commission (SEC) official John Reed Stark, blasted spot bitcoin exchange-traded funds (ETFs) in a lengthy post on social media platform X Sunday. Stark is currently president of cybersecu…",
+          "link": "https://news.bitcoin.com/former-sec-official-blasts-spot-bitcoin-etfs-as-recipe-for-financial-ruin/",
+          "publishedOn": "2024-01-10T05:11:08.000Z",
+          "wordCount": 244,
+          "title": "Former SEC Official Blasts Spot Bitcoin ETFs as Recipe for ‘Financial Ruin’",
+          "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2024/01/recipe-for-financial-ruin.jpg"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e74f9da47f3",
+          "author": "Danny Nelson",
+          "description": "The Securities and Exchange Commission (SEC) did not employ basic security measures on its X (formerly Twitter) account when it was \"compromised\" to spread false bitcoin ETF news, according to the social media company.",
+          "link": "https://www.coindesk.com/policy/2024/01/10/hacker-seized-sec-phone-number-to-post-fake-bitcoin-etf-approval-x-says/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2024-01-10T04:34:22.000Z",
+          "wordCount": 10111,
+          "title": "Hacker Seized SEC Phone Number to Post Fake Bitcoin ETF Approval, X Says",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/jpeg",
+            "url": "https://www.coindesk.com/resizer/Y8hcNMn5NVQif4XoQWkTfP9bw_8=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/JFY2ZLIOURGE3N7KXI6G3R2HPI.jpg"
+          },
+          "imageUrl": "https://www.coindesk.com/resizer/Y8hcNMn5NVQif4XoQWkTfP9bw_8=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/JFY2ZLIOURGE3N7KXI6G3R2HPI.jpg"
+        },
         {
           "id": "http://www.inoreader.com/article/3a9c6e74f9c70c34",
           "author": "Kevin Helms",
@@ -995,7 +1020,7 @@
           "description": "Lawmakers and crypto boosters are asking questions about how the SEC's X (formerly Twitter) account was compromised, leading to a bogus tweet on Tuesday.",
           "link": "https://www.coindesk.com/policy/2024/01/10/crypto-boosters-attack-sec-for-manipulating-btc-market-after-etf-tweet/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2024-01-10T01:34:12.000Z",
-          "wordCount": 10818,
+          "wordCount": 10677,
           "title": "Crypto Boosters Attack SEC For 'Manipulating' BTC Market After ETF Tweet",
           "enclosure": {
             "length": "1337",
@@ -1010,7 +1035,7 @@
           "description": "Crypto custodian BitGo has been granted in-principle approval to operate as a Major Payment Institution (MPI) in Singapore.",
           "link": "https://www.coindesk.com/policy/2024/01/10/crypto-custodian-bitgo-wins-in-principle-approval-as-major-payments-institution-in-singapore/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2024-01-10T01:24:29.000Z",
-          "wordCount": 13552,
+          "wordCount": 13385,
           "title": "Crypto Custodian BitGo Wins In-Principle Approval as Major Payments Institution in Singapore",
           "enclosure": {
             "length": "1337",
@@ -1050,7 +1075,7 @@
           "description": "The immediate price reaction showed that bitcoin's price might be capped if a real approval arrives, one analyst noted.",
           "link": "https://www.coindesk.com/markets/2024/01/09/bitcoin-jumps-then-dumps-to-45k-as-fake-news-about-spot-bitcoin-approval-liquidates-50m/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2024-01-10T01:02:08.000Z",
-          "wordCount": 10290,
+          "wordCount": 10151,
           "title": "Bitcoin Jumps, Then Dumps to $45K as Fake News About Spot Bitcoin Approval Liquidates $50M",
           "enclosure": {
             "length": "1337",
@@ -1100,7 +1125,7 @@
           "description": "Bitcoin futures' open interest on the Chicago Mercantile Exchange surged to an all-time high Tuesday as institutions piled into the asset, speculating on a spot bitcoin ETF approval.",
           "link": "https://www.coindesk.com/markets/2024/01/09/spot-bitcoin-etf-approval-will-trigger-selling-pressure-on-cme-futures-market-k33/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2024-01-09T23:06:15.000Z",
-          "wordCount": 10727,
+          "wordCount": 10556,
           "title": "Spot Bitcoin ETF Approval Will Trigger 'Selling Pressure' on CME Futures Market: K33",
           "enclosure": {
             "length": "1337",
@@ -1150,7 +1175,7 @@
           "description": "The U.S. Securities and Exchange Commission (SEC) has not approved any spot bitcoin ETF applications as of Tuesday afternoon, despite a tweet from the regulator's X (formerly Twitter) account saying they had been, the agency's chair said.",
           "link": "https://www.coindesk.com/policy/2024/01/09/sec-twitter-compromised-chair-gensler-says-after-account-said-bitcoin-etfs-approved/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2024-01-09T22:04:37.000Z",
-          "wordCount": 10911,
+          "wordCount": 10888,
           "title": "SEC Twitter 'Compromised,' Bitcoin ETFs Not Approved Chair Gensler Says After Account Said Products Greenlit",
           "enclosure": {
             "length": "1337",
@@ -1173,36 +1198,6 @@
             "url": "https://bitcoinist.com/wp-content/uploads/2024/01/XRP-burn.jpeg?fit=560,420"
           },
           "imageUrl": "https://bitcoinist.com/wp-content/uploads/2024/01/XRP-burn.jpeg?fit=560,420"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e74f9a1125b",
-          "author": "Ronaldo Marquez",
-          "description": "In an unexpected turn of events, the cryptocurrency community was thrown into chaos as the official X (formerly Twitter) account of the US Securities and Exchange Commission (SEC) appeared to be “compromised” when an unauthorized post claimed that the SEC had approved all Bitcoin ETF applications simultaneously.\n \nFake Post Claims Bitcoin ETF Approval\n \nSEC Chair Gary Gensler addressed the situation, clarifying that the SEC’s X account had indeed been compromised, and the tweet was not legitimate. Gensler emphasized that the SEC had not granted approval for the listing and trading of spot Bitcoin ETFs. Gensler stated:\n \n\nThe SEC twitter account was compromised, and an unauthorized tweet was posted. The SEC has not approved the listing and trading of spot bitcoin exchange-traded products.\n …",
-          "link": "https://bitcoinist.com/btc-dives-to-45k-falsely-bitcoin-etf-approvals/",
-          "publishedOn": "2024-01-09T22:00:48.000Z",
-          "wordCount": 5561,
-          "title": "BREAKING: Bitcoin ETF Chaos – BTC Plunges To $45K Amidst SEC’s ‘Compromised’ X Account False Approval Claims",
-          "enclosure": {
-            "length": "1337",
-            "type": "image/jpeg",
-            "url": "https://bitcoinist.com/wp-content/uploads/2024/01/shutterstock_download-2-17.jpg?fit=390,260"
-          },
-          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2024/01/shutterstock_download-2-17.jpg?fit=390,260"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e74f9a37465",
-          "author": "Nik Hoffman",
-          "description": "Charles Gasparino, FOX Business Senior Correspondent, has reported that the long-anticipated Spot Bitcoin Exchange-Traded Funds (ETFs) are indeed a \"done deal,\" with trading slated to commence this Thursday. \n\n\n\nThis confirmation from FOX Business cements earlier speculations, affirming that the final green light for Spot Bitcoin ETFs has been granted, signaling an imminent leap into the regulated investment sphere for Bitcoin.\nThe potential commencement of trading on Thursday would mark a watershed moment for the Bitcoin industry, providing a gateway for both institutional and retail investors to access BTC exposure through traditional financial instruments.\nIt is important to note that the SEC has not yet officially approved any spot Bitcoin ETFs at the time of writing. But with the approval or denial decision due tomorrow, it is expected by industry experts that the ETFs will be approved.\nAs the countdown begins towards tomorrows expected approval and Thursdays potential launch, anticipation builds among market participants, eager to witness this historic milestone that is poised to reshape the dynamics of Bitcoin investments and potentially pave the way for further institutional adoption of Bitcoin.",
-          "link": "https://bitcoinmagazine.com/markets/spot-bitcoin-etfs-are-a-done-deal-trading-to-start-thursday-fox-business",
-          "publishedOn": "2024-01-09T21:40:07.000Z",
-          "wordCount": null,
-          "title": "Spot Bitcoin ETFs Are A \"Done Deal\", Trading To Start Thursday: FOX Business",
-          "enclosure": {
-            "length": "1337",
-            "type": "image/jpeg",
-            "url": "http://bitcoinmagazine.com/.image/c_limit,cs_srgb,fl_progressive,h_1200,q_auto:good,w_1200/MjAzNTE0MTM2Njg3MDI4MDIw/gdbalc0wsaasfkg.jpg"
-          },
-          "imageUrl": "http://bitcoinmagazine.com/.image/c_limit,cs_srgb,fl_progressive,h_1200,q_auto:good,w_1200/MjAzNTE0MTM2Njg3MDI4MDIw/gdbalc0wsaasfkg.jpg"
         }
       ]
     }

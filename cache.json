@@ -6,6 +6,21 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=213499",
+          "author": "Kate Irwin",
+          "description": "Oasys wants to be a crypto gaming destination for the biggest developers. Here’s how it works.",
+          "link": "https://decrypt.co/resources/what-is-oasys-gaming-blockchain-ubisoft-sega-onboard",
+          "publishedOn": "2024-01-20T19:49:50.000Z",
+          "wordCount": 12628,
+          "title": "What Is Oasys? The Gaming Blockchain With Ubisoft and Sega Onboard",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2019/03/gaming_litepaper-gID_7-pID_2.png@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2019/03/gaming_litepaper-gID_7-pID_2.png@png"
+        },
+        {
           "id": "https://decrypt.co/?p=213614",
           "author": "Jason Nelson",
           "description": "The AI start-up is eyeing an up to $20 billion valuation, according to Bloomberg.",
@@ -531,27 +546,12 @@
           "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/04/bitcoin-mining-symbol-gID_7.jpeg@png"
         },
         {
-          "id": "https://decrypt.co/?p=213268",
-          "author": "Andrew Hayward",
-          "description": "BONK isn’t the hottest Solana meme coin at the moment: WIF has more than doubled in price this week alone.",
-          "link": "https://decrypt.co/213268/solana-meme-coin-dogwifhat-spikes-257-sol-reclaims-100",
-          "publishedOn": "2024-01-17T21:31:48.000Z",
-          "wordCount": 10038,
-          "title": "Solana Meme Coin Dogwifhat Spikes 257% as SOL Reclaims $100",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/12/dogwifhat-market-gID_7.png@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/12/dogwifhat-market-gID_7.png@png"
-        },
-        {
           "id": "https://decrypt.co/videos/interviews/i3sesrao/are-you-the-one-being-farmed-w-frisson",
           "author": null,
           "description": "Reza is joined by Frisson from Tallyx.xyz\n\nThey reflect on:\n- building in the bear market\n- the points system meta\n- will zoomers care about decentralization",
           "link": "https://decrypt.co/videos/interviews/i3sesrao/are-you-the-one-being-farmed-w-frisson",
           "publishedOn": "2024-01-17T18:38:15.000Z",
-          "wordCount": 6845,
+          "wordCount": 6733,
           "title": "Are you the one being farmed? w/ Frisson",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/i3sesrao/poster.jpg",
@@ -671,7 +671,7 @@
           "description": "This week our host is joined by Brooke Lacey! \n\nThey discuss:  \n- Making and losing generational wealth\n- Trauma Bond\n- Women in Web3\n- The Problem with WAGMI",
           "link": "https://decrypt.co/videos/interviews/EfNuNu8a/losing-1500-btc-on-mt-gox-and-the-problem-with-women-in-web3",
           "publishedOn": "2024-01-03T19:02:44.000Z",
-          "wordCount": 6888,
+          "wordCount": 6776,
           "title": "Losing 1500 BTC on Mt Gox and the Problem with Women in Web3",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/EfNuNu8a/poster.jpg",
@@ -733,52 +733,182 @@
       "siteUrl": "https://cryptopanic.com/",
       "articles": [
         {
-          "id": "https://cryptopanic.com/news/19190741/Javier-Milei-Brings-Ron-Paul-Bitcoin-to-Davos-EPIC",
+          "id": "https://cryptopanic.com/news/19190835/Bitcoin-Oranges-and-the-SECs-Murky-Crypto-Classifications",
           "author": null,
-          "description": "Argentinian President Javier Milei just went into the belly of the beast and delivered one of the most epic speeches of our time at Davos! Milei brought with him the message of Ron Paul and Bitcoin. Free markets, sound money, and liberty are the keys to prosperity and human flourishing. Catch...",
-          "link": "https://cryptopanic.com/news/19190741/Javier-Milei-Brings-Ron-Paul-Bitcoin-to-Davos-EPIC",
-          "publishedOn": "2024-01-20T18:26:51.000Z",
+          "description": "XRP advocate blasts SEC's \"laughable\" inconsistency in crypto regulation, sparking community outrage.",
+          "link": "https://cryptopanic.com/news/19190835/Bitcoin-Oranges-and-the-SECs-Murky-Crypto-Classifications",
+          "publishedOn": "2024-01-20T20:05:00.000Z",
+          "wordCount": 596,
+          "title": "Bitcoin, Oranges, and the SEC's Murky Crypto Classifications",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/19190836/Is-BlackRock-Looking-To-File-For-An-XRP-ETF-Insider-Has-Answers",
+          "author": null,
+          "description": "Since the approval of Spot Bitcoin ETFs, speculations about the potential for an XRP Spot ETF continue to grow in the crypto community. However, recent reports have suggested a lack of clear prospects for an XRP ETF in the future. Notably, Charles Gasparino, an American journalist and senior...",
+          "link": "https://cryptopanic.com/news/19190836/Is-BlackRock-Looking-To-File-For-An-XRP-ETF-Insider-Has-Answers",
+          "publishedOn": "2024-01-20T20:00:37.000Z",
+          "wordCount": 600,
+          "title": "Is BlackRock Looking To File For An XRP ETF? Insider Has Answers",
+          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2024/01/XRP_21fc4e.jpeg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/19190838/Bitcoin-Fixes-It-Gabor-Gurbacs-Hints-At-Solution-of-Arnold-Schwarzeneggers-Trouble-in-Munich",
+          "author": null,
+          "description": "Arnold Schwarzenegger held at Munich airport unable to conduct necessary pretax payment with fiat currency",
+          "link": "https://cryptopanic.com/news/19190838/Bitcoin-Fixes-It-Gabor-Gurbacs-Hints-At-Solution-of-Arnold-Schwarzeneggers-Trouble-in-Munich",
+          "publishedOn": "2024-01-20T20:00:00.000Z",
+          "wordCount": 602,
+          "title": "Bitcoin Fixes It: Gabor Gurbacs Hints At Solution of Arnold Schwarzenegger's Trouble in Munich",
+          "imageUrl": "https://u.today/sites/default/files/styles/twitter/public/2024-01/44162_0.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/19190830/Shiba-Inu-Sees-Trillions-In-Accumulation-Spree-By-Mysterious-Whales-As-0001-SHIB-Price-Beckons",
+          "author": null,
+          "description": "On Tuesday, crypto analysis firm Lookonchain highlighted the influx of fresh whale wallets accumulating Shiba Inu. Notably, in a post on X, the firm narrowed down on...",
+          "link": "https://cryptopanic.com/news/19190830/Shiba-Inu-Sees-Trillions-In-Accumulation-Spree-By-Mysterious-Whales-As-0001-SHIB-Price-Beckons",
+          "publishedOn": "2024-01-20T19:57:27.000Z",
+          "wordCount": 603,
+          "title": "Shiba Inu Sees Trillions In Accumulation Spree By Mysterious Whales As $0.001 SHIB Price Beckons",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/19190827/What-Is-Oasys-The-Gaming-Blockchain-With-Ubisoft-and-Sega-Onboard",
+          "author": null,
+          "description": "Oasys wants to be a crypto gaming destination for the biggest developers. Here’s how it works.",
+          "link": "https://cryptopanic.com/news/19190827/What-Is-Oasys-The-Gaming-Blockchain-With-Ubisoft-and-Sega-Onboard",
+          "publishedOn": "2024-01-20T19:49:50.000Z",
           "wordCount": 599,
-          "title": "Javier Milei Brings Ron Paul & Bitcoin to Davos | EPIC!",
-          "imageUrl": "https://i3.ytimg.com/vi/6PzieeWTayg/hqdefault.jpg"
+          "title": "What Is Oasys? The Gaming Blockchain With Ubisoft and Sega Onboard",
+          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2019/03/gaming_litepaper-gID_7-pID_2.png"
+        },
+        {
+          "id": "https://cryptopanic.com/news/19190823/Bloomberg-Analyst-Estimates-Theres-a-70-Chance-Coinbase-Wins-Motion-To-Toss-SEC-Lawsuit",
+          "author": null,
+          "description": "A Bloomberg intelligence analyst is estimating that top US-based crypto exchange platform Coinbase has a 70% chance of winning a motion to toss out the U.S. Securities and Exchange Commission’s (SEC) lawsuit against it. In a new thread, Bloomberg analyst Elliott Stein says that before going into...",
+          "link": "https://cryptopanic.com/news/19190823/Bloomberg-Analyst-Estimates-Theres-a-70-Chance-Coinbase-Wins-Motion-To-Toss-SEC-Lawsuit",
+          "publishedOn": "2024-01-20T19:45:48.000Z",
+          "wordCount": 602,
+          "title": "Bloomberg Analyst Estimates There’s a 70% Chance Coinbase Wins Motion To Toss SEC Lawsuit",
+          "imageUrl": "https://dailyhodl.com/wp-content/uploads/2024/01/bloomberg-analyst-wins-toss.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/19190810/Controversial-Cardano-ADA-Report-from-Research-Firm-K33-A-Dying-Coin",
+          "author": null,
+          "description": "Research firm K33 Research has published a highly controversial report on Cardano (ADA). Here are the details. Continue Reading: Controversial Cardano (ADA) Report from Research Firm K33: “A Dying Coin”",
+          "link": "https://cryptopanic.com/news/19190810/Controversial-Cardano-ADA-Report-from-Research-Firm-K33-A-Dying-Coin",
+          "publishedOn": "2024-01-20T19:27:07.000Z",
+          "wordCount": 599,
+          "title": "Controversial Cardano (ADA) Report from Research Firm K33: “A Dying Coin”",
+          "imageUrl": "https://www.bitcoinsistemi.com/wp-content/uploads/2022/09/cardano-vasil-ada.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/19190790/Trezor-reveals-66000-users-could-face-phishing-attacks",
+          "author": null,
+          "description": "The security incident happened on January 17, 2024, Trezor disclosed in a blog post published on January 20. It involved a third-party support ticketing portal that Trezor uses. Contact details included names and email addresses for up to 66,000 users were compromised. Hardware wallet Trezor has...",
+          "link": "https://cryptopanic.com/news/19190790/Trezor-reveals-66000-users-could-face-phishing-attacks",
+          "publishedOn": "2024-01-20T19:24:05.000Z",
+          "wordCount": 596,
+          "title": "Trezor reveals 66,000 users could face phishing attacks",
+          "imageUrl": "https://coinjournal.net/wp-content/uploads/2023/03/1676474927121-228f62df-9c46-41d2-9eab-2d762a3cab19.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/19190798/Charles-Hoskinson-Responds-to-Report-Questioning-Cardanos-Utility",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/19190798/Charles-Hoskinson-Responds-to-Report-Questioning-Cardanos-Utility",
+          "publishedOn": "2024-01-20T19:22:27.000Z",
+          "wordCount": null,
+          "title": "Charles Hoskinson Responds to Report Questioning Cardano’s Utility",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/19190789/Bitcoin-ETFs-now-hold-nearly-4-billion-in-assets",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/19190789/Bitcoin-ETFs-now-hold-nearly-4-billion-in-assets",
+          "publishedOn": "2024-01-20T19:19:16.000Z",
+          "wordCount": null,
+          "title": "Bitcoin ETFs now hold nearly $4 billion in assets",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/19190775/Reddit-Gears-Up-for-March-IPO-Anticipating-Major-Market-Impact",
+          "author": null,
+          "description": "According to a recent report by Reuters, the social media behemoth Reddit is gearing up...",
+          "link": "https://cryptopanic.com/news/19190775/Reddit-Gears-Up-for-March-IPO-Anticipating-Major-Market-Impact",
+          "publishedOn": "2024-01-20T19:00:59.000Z",
+          "wordCount": 598,
+          "title": "Reddit Gears Up for March IPO, Anticipating Major Market Impact",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/19190797/The-Most-Accessible-Way-to-Build-Generational-Wealth-bitcoin-crypto-shorts",
+          "author": null,
+          "description": "To build generational wealth you need to acquire assets... bitcoin is the most accessible way to build generational wealth.",
+          "link": "https://cryptopanic.com/news/19190797/The-Most-Accessible-Way-to-Build-Generational-Wealth-bitcoin-crypto-shorts",
+          "publishedOn": "2024-01-20T19:00:02.000Z",
+          "wordCount": 599,
+          "title": "The Most Accessible Way to Build Generational Wealth #bitcoin #crypto #shorts",
+          "imageUrl": "https://i2.ytimg.com/vi/apHNSoSGGOg/hqdefault.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/19190828/Crypto-firms-Celsius-FTX-and-Alameda-under-scrutiny-for-ongoing-crypto-transfers",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/19190828/Crypto-firms-Celsius-FTX-and-Alameda-under-scrutiny-for-ongoing-crypto-transfers",
+          "publishedOn": "2024-01-20T18:46:00.000Z",
+          "wordCount": null,
+          "title": "Crypto firms Celsius, FTX, and Alameda under scrutiny for ongoing crypto transfers",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/19190741/Javier-Milei-Crushes-Davos-With-Bitcoin-Ron-Paul-EPIC",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/19190741/Javier-Milei-Crushes-Davos-With-Bitcoin-Ron-Paul-EPIC",
+          "publishedOn": "2024-01-20T18:26:51.000Z",
+          "wordCount": null,
+          "title": "Javier Milei Crushes Davos With Bitcoin & Ron Paul! | EPIC",
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/19190724/TrueUSD-Implements-Daily-Attestations-Amid-Dollar-Peg-Struggles",
           "author": null,
-          "description": "TrueUSD (TUSD), the stablecoin associated with Tron founder Justin Sun, has faced challenges maintaining its...",
+          "description": "",
           "link": "https://cryptopanic.com/news/19190724/TrueUSD-Implements-Daily-Attestations-Amid-Dollar-Peg-Struggles",
           "publishedOn": "2024-01-20T18:22:00.000Z",
-          "wordCount": 596,
+          "wordCount": null,
           "title": "TrueUSD Implements Daily Attestations Amid Dollar Peg Struggles",
           "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/19190719/So-how-is-the-spot-Bitcoin-ETF-race-going",
           "author": null,
-          "description": "The realm of cryptocurrency is always a rollercoaster, and the latest thrilling loop is the spot Bitcoin ETF race. This isn’t just any old race; it’s a financial stampede that’s rewriting the rules of digital currency investments. Let’s dive in, shall we? January 11 marked the launch of ten spot...",
+          "description": "",
           "link": "https://cryptopanic.com/news/19190719/So-how-is-the-spot-Bitcoin-ETF-race-going",
           "publishedOn": "2024-01-20T18:19:37.000Z",
-          "wordCount": 597,
+          "wordCount": null,
           "title": "So, how is the spot Bitcoin ETF race going?",
           "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/19190714/Bitcoins-spot-ETFs-make-a-splash-but-can-their-AUM-surpass-gold-ETFs",
           "author": null,
-          "description": "Spot BTC ETFs made headlines as the media reported $28 billion in assets under management, but how significant is the figure?",
+          "description": "",
           "link": "https://cryptopanic.com/news/19190714/Bitcoins-spot-ETFs-make-a-splash-but-can-their-AUM-surpass-gold-ETFs",
           "publishedOn": "2024-01-20T18:16:48.000Z",
-          "wordCount": 601,
+          "wordCount": null,
           "title": "Bitcoin’s spot ETFs make a splash, but can their AUM surpass gold ETFs?",
-          "imageUrl": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2024-01/c78ca936-ca50-4a88-8113-ac09221a4d01.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/19190705/The-crypto-community-is-very-angry-with-Vanguard-right-now",
           "author": null,
-          "description": "In the dynamic world of finance, decisions made by influential players can send ripples across the industry, causing reactions ranging from applause to outrage. In the latest twist, the crypto community is up in arms against Vanguard, a titan in the asset management world, for its unwavering...",
+          "description": "",
           "link": "https://cryptopanic.com/news/19190705/The-crypto-community-is-very-angry-with-Vanguard-right-now",
           "publishedOn": "2024-01-20T18:13:21.000Z",
-          "wordCount": 598,
+          "wordCount": null,
           "title": "The crypto community is very angry with Vanguard right now",
           "imageUrl": null
         },
@@ -795,141 +925,11 @@
         {
           "id": "https://cryptopanic.com/news/19190695/Grok-AI-picks-3-cryptocurrencies-to-invest-in-2024",
           "author": null,
-          "description": "Grok, an artificial intelligence (AI) developed by xAI under Elon Musk’s guidance, has quickly gained popularity on X (formerly Twitter) … Continue reading",
+          "description": "",
           "link": "https://cryptopanic.com/news/19190695/Grok-AI-picks-3-cryptocurrencies-to-invest-in-2024",
           "publishedOn": "2024-01-20T18:10:11.000Z",
-          "wordCount": 597,
+          "wordCount": null,
           "title": "Grok AI picks 3 cryptocurrencies to invest in 2024",
-          "imageUrl": "https://assets.finbold.com/uploads/2024/01/Grok-AI-cryptocurrencies-2024-investor.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/19190699/Bearish-Analyst-il-Capo-Announces-He-Will-Buy-Another-Altcoin-After-UniSwap-Price-Reacted-Instantly",
-          "author": null,
-          "description": "Il Capo of Crypto, known for his statements in favor of decline with a pessimistic perspective, announced that he will purchase a new altcoin. Continue Reading: Bearish Analyst il Capo Announces He Will Buy Another Altcoin After UniSwap: Price Reacted Instantly",
-          "link": "https://cryptopanic.com/news/19190699/Bearish-Analyst-il-Capo-Announces-He-Will-Buy-Another-Altcoin-After-UniSwap-Price-Reacted-Instantly",
-          "publishedOn": "2024-01-20T18:08:05.000Z",
-          "wordCount": 603,
-          "title": "Bearish Analyst il Capo Announces He Will Buy Another Altcoin After UniSwap: Price Reacted Instantly",
-          "imageUrl": "https://www.bitcoinsistemi.com/wp-content/uploads/2023/05/altcoin-soru-isareti.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/19190690/Ripple-Fights-Back-Against-the-SECs-Untimely-Lawsuit-Request",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/19190690/Ripple-Fights-Back-Against-the-SECs-Untimely-Lawsuit-Request",
-          "publishedOn": "2024-01-20T18:05:00.000Z",
-          "wordCount": null,
-          "title": "Ripple Fights Back Against the SEC's Untimely Lawsuit Request",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/19190680/Crypto-Exchange-Giant-HTX-Hit-With-DDOS-Attack-Justin-Sun-Says-User-Funds-Are-Safe",
-          "author": null,
-          "description": "Hackers hit the crypto exchange giant HTX with a distributed denial of service attack (DDoS) on Friday morning, causing a brief outage. A DDoS attack is a malicious attempt by bad actors to flood the target website with traffic to overwhelm the site’s infrastructure. HTX is the newly rebranded...",
-          "link": "https://cryptopanic.com/news/19190680/Crypto-Exchange-Giant-HTX-Hit-With-DDOS-Attack-Justin-Sun-Says-User-Funds-Are-Safe",
-          "publishedOn": "2024-01-20T17:55:28.000Z",
-          "wordCount": 603,
-          "title": "Crypto Exchange Giant HTX Hit With DDOS Attack, Justin Sun Says User Funds Are Safe",
-          "imageUrl": "https://dailyhodl.com/wp-content/uploads/2024/01/htx-giant-ddos.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/19190674/Bitcoin-ETFs-An-in-depth-look-at-the-first-5-days-of-trading",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/19190674/Bitcoin-ETFs-An-in-depth-look-at-the-first-5-days-of-trading",
-          "publishedOn": "2024-01-20T17:52:44.000Z",
-          "wordCount": 600,
-          "title": "Bitcoin ETFs: An in-depth look at the first 5 days of trading",
-          "imageUrl": "https://cryptoslate.com/wp-content/uploads/2024/01/bitcoin-etf-trading-2.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/19190676/Colorado-couple-to-face-legal-action-over-divine-backed-token-scam",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/19190676/Colorado-couple-to-face-legal-action-over-divine-backed-token-scam",
-          "publishedOn": "2024-01-20T17:46:17.000Z",
-          "wordCount": null,
-          "title": "Colorado couple to face legal action over divine-backed token scam",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/19190666/Revolution-in-the-Crypto-Market-Coinbase-Explains-How-Spot-Bitcoin-ETFs-Are-Transforming-Trading-Dynamics-in-Just-One-Week",
-          "author": null,
-          "description": "David Duong, Coinbase’s Head of Institutional Research, recently shared a compelling post on LinkedIn regarding the monumental impact of the newly launched US-listed spot Bitcoin ETFs on the cryptocurrency market. In his post, Duong dives into the significant changes observed in just one week...",
-          "link": "https://cryptopanic.com/news/19190666/Revolution-in-the-Crypto-Market-Coinbase-Explains-How-Spot-Bitcoin-ETFs-Are-Transforming-Trading-Dynamics-in-Just-One-Week",
-          "publishedOn": "2024-01-20T17:40:15.000Z",
-          "wordCount": 607,
-          "title": "Revolution in the Crypto Market: Coinbase Explains How Spot Bitcoin ETFs Are Transforming Trading Dynamics in Just One Week",
-          "imageUrl": "https://media.cryptoglobe.com/2022/09/bitcoin-g495957f50_1920-768x508.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/19190663/Netherlands-Allocates-2045-Million-to-Boost-AI-Investment-and-Competitiveness",
-          "author": null,
-          "description": "The Dutch government is taking a significant step towards bolstering its presence in the world...",
-          "link": "https://cryptopanic.com/news/19190663/Netherlands-Allocates-2045-Million-to-Boost-AI-Investment-and-Competitiveness",
-          "publishedOn": "2024-01-20T17:35:00.000Z",
-          "wordCount": 598,
-          "title": "Netherlands Allocates €204.5 Million to Boost AI Investment and Competitiveness",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/19190662/Ripple-VP-to-Launch-Blockchain-Course-in-Japans-Top-University",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/19190662/Ripple-VP-to-Launch-Blockchain-Course-in-Japans-Top-University",
-          "publishedOn": "2024-01-20T17:33:00.000Z",
-          "wordCount": null,
-          "title": "Ripple VP to Launch Blockchain Course in Japan's Top University",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/19190693/SEC-vs-Ripple-Lawyers-Declare-Request-for-Financial-Statements-as-Irrelevant",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/19190693/SEC-vs-Ripple-Lawyers-Declare-Request-for-Financial-Statements-as-Irrelevant",
-          "publishedOn": "2024-01-20T17:30:00.000Z",
-          "wordCount": null,
-          "title": "SEC vs Ripple: Lawyers Declare Request for Financial Statements as ‘Irrelevant’",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/19190658/Crypto-Analyst-Kevin-Svenson-Predicts-2024-Bitcoin-Surge-Following-SP-500-Trends",
-          "author": null,
-          "description": "In a video published on January 19, 2024, by Kevin Svenson on his YouTube channel, “Kevin Svenson Crypto,” the popular crypto analyst discusses BItcoin’s price action. Current Bitcoin Market Analysis Recent Price Action: Svenson notes that Bitcoin hasn’t seen lower lows since the beginning of...",
-          "link": "https://cryptopanic.com/news/19190658/Crypto-Analyst-Kevin-Svenson-Predicts-2024-Bitcoin-Surge-Following-SP-500-Trends",
-          "publishedOn": "2024-01-20T17:26:30.000Z",
-          "wordCount": 600,
-          "title": "Crypto Analyst Kevin Svenson Predicts 2024 Bitcoin Surge Following S&P 500 Trends",
-          "imageUrl": "https://media.cryptoglobe.com/2023/02/Bitcoins-Lightning-Network-768x513.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/19190648/El-Salvadors-Bitcoin-Adoption-Drops-Significantly-Survey-Reveals-a-12-Usage-Rate-in-2023",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/19190648/El-Salvadors-Bitcoin-Adoption-Drops-Significantly-Survey-Reveals-a-12-Usage-Rate-in-2023",
-          "publishedOn": "2024-01-20T17:25:55.000Z",
-          "wordCount": null,
-          "title": "El Salvador’s Bitcoin Adoption Drops Significantly: Survey Reveals a 12% Usage Rate in 2023",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/19190631/Trezor-discloses-66K-users-affected-by-phishing-attack",
-          "author": null,
-          "description": "Trezor users who have contacted its support team since December 2021 may have been affected by the incident.",
-          "link": "https://cryptopanic.com/news/19190631/Trezor-discloses-66K-users-affected-by-phishing-attack",
-          "publishedOn": "2024-01-20T17:12:25.000Z",
-          "wordCount": 596,
-          "title": "Trezor discloses 66K users affected by phishing attack",
-          "imageUrl": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2024-01/48ccd6c5-2567-4cf0-985b-b7487cd07f76.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/19190622/BREAKING-Coinbase-Announces-to-List-Three-New-Altcoins-in-Futures",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/19190622/BREAKING-Coinbase-Announces-to-List-Three-New-Altcoins-in-Futures",
-          "publishedOn": "2024-01-20T17:07:04.000Z",
-          "wordCount": null,
-          "title": "BREAKING: Coinbase Announces to List Three New Altcoins in Futures",
           "imageUrl": null
         }
       ]
@@ -939,6 +939,21 @@
       "feedUrl": "https://www.inoreader.com/stream/user/1005336866/tag/%E6%B5%B7%E5%A4%96%E5%8A%A0%E5%AF%86%E8%B5%84%E8%AE%AF",
       "siteUrl": "https://www.inoreader.com/stream/user/1005336866/tag/%E6%B5%B7%E5%A4%96%E5%8A%A0%E5%AF%86%E8%B5%84%E8%AE%AF/view/html",
       "articles": [
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e74f2a23e6c",
+          "author": "Scott Matherson",
+          "description": "Since the approval of Spot Bitcoin ETFs, speculations about the potential for an XRP Spot ETF continue to grow in the crypto community. However, recent reports have suggested a lack of clear prospects for an XRP ETF in the future. \n \nNotably, Charles Gasparino, an American journalist and senior correspondent at Fox Business has revealed that BlackRock has dismissed any possibility of filing for an XRP ETF. \n \nNo Prospects For An XRP ETF\n \nIn a recent X (formerly Twitter) post, Gasparino disclosed that BlackRock, one of the world’s leading investment companies, has allegedly declared having “no plans” for an XRP ETF. The shocking news shared on Thursday, January 18, had a swift but unfavorable response from the XRP community. Interestingly, this disclosure also follows BlackRock’s Chief Exe…",
+          "link": "https://bitcoinist.com/blackrock-file-for-an-xrp-etf/",
+          "publishedOn": "2024-01-20T20:10:16.000Z",
+          "wordCount": 5040,
+          "title": "Is BlackRock Looking To File For An XRP ETF? Insider Has Answers",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/jpeg",
+            "url": "https://bitcoinist.com/wp-content/uploads/2024/01/XRP_21fc4e.jpeg?fit=640,359"
+          },
+          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2024/01/XRP_21fc4e.jpeg?fit=640,359"
+        },
         {
           "id": "http://www.inoreader.com/article/3a9c6e74f2af713a",
           "author": "Jamie Redman",
@@ -980,7 +995,7 @@
           "description": "Are prediction markets the future of investigative journalism? Maybe, says Chris Brunet, whose reporting led to Claudine Gay's resignation – though he's yet to profit from his scoops.",
           "link": "https://www.coindesk.com/markets/2024/01/20/he-exposed-harvard-presidents-plagiarism-then-lost-money-betting-on-the-story/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2024-01-20T17:02:05.000Z",
-          "wordCount": 14676,
+          "wordCount": 14680,
           "title": "He Exposed Harvard President's Plagiarism, Then Lost Money Betting on the Story",
           "enclosure": {
             "length": "1337",
@@ -1020,7 +1035,7 @@
           "description": "In a recent development, Ripple has filed a response to the Securities and Exchange Commission’s (SEC) motion to compel. As part of its argument, the crypto firm laid out two reasons why the court should not grant the Commission’s request. \n \nRipple Says SEC’s Requests Are “Untimely”\n \nIn the letter addressed to Judge Sarah Netburn, Ripple’s lawyers stated that the SEC’s requests are untimely. According to them, the Commission had “ample opportunity” to request these documents while fact discovery was open. Their failure to do so then means that they lack good cause to do so now, the lawyers claim.  \n \nFurthermore, Ripple and the Commission are said to have already argued in court on whether post-complaint discovery was proper. Interestingly, during that period, the Commission never argued…",
           "link": "https://bitcoinist.com/xrp-lawsuit-ripple-sec-demands/",
           "publishedOn": "2024-01-20T13:10:19.000Z",
-          "wordCount": 5066,
+          "wordCount": 5065,
           "title": "XRP Lawsuit: Ripple Files Response To SEC’s Demands For Financial Statements And Discovery",
           "enclosure": {
             "length": "1337",
@@ -1173,21 +1188,6 @@
           "wordCount": 206,
           "title": "RBI Chief: Crypto Threatens Rupee Stability, Urges Investors to Be Cautious",
           "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2024/01/rbi-gov.jpg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e74f2471f4b",
-          "author": "Nikhilesh De",
-          "description": "Last summer, the U.S. Securities and Exchange Commission (SEC) sued crypto exchanges Coinbase and Binance, alleging they listed and traded unregistered securities in the form of various cryptocurrencies. This week, the regulator's legal teams faced the exchanges in court as the companies argued the SEC did not make the case that those cryptos are securities.",
-          "link": "https://www.coindesk.com/policy/2024/01/20/the-sec-goes-back-to-court/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-          "publishedOn": "2024-01-20T03:47:16.000Z",
-          "wordCount": 11965,
-          "title": "The SEC Goes Back to Court",
-          "enclosure": {
-            "length": "1337",
-            "type": "image/jpeg",
-            "url": "https://www.coindesk.com/resizer/CBxIi9FIHMFrW6BSz_wiMHizyag=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/WRJFKVPZAJBETOLVR3ZZMPOXW4.jpg"
-          },
-          "imageUrl": "https://www.coindesk.com/resizer/CBxIi9FIHMFrW6BSz_wiMHizyag=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/WRJFKVPZAJBETOLVR3ZZMPOXW4.jpg"
         }
       ]
     }

@@ -6,6 +6,21 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=214163",
+          "author": "Jason Nelson",
+          "description": "Jason Rohrer says the interactions with his AI model, based on a deceased person, were taken out of context in a new film screened at Sundance.",
+          "link": "https://decrypt.co/214163/ai-developer-refutes-eternal-you-documentary-calls-depiction-of-his-chatbot-misleading",
+          "publishedOn": "2024-01-25T14:01:02.000Z",
+          "wordCount": 13716,
+          "title": "AI Developer Refutes ‘Eternal You’ Documentary, Calls Foul on Its Depiction of His Chatbot",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/01/3689BE0C-2BD8-4D2E-B842-002599D7AB9C-1-gID_7.png@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/01/3689BE0C-2BD8-4D2E-B842-002599D7AB9C-1-gID_7.png@png"
+        },
+        {
           "id": "https://decrypt.co/?p=214169",
           "author": "Stephen Graves",
           "description": "The Binance founder had requested to travel to the UAE to be present for the “hospitalization and surgery” of an unnamed individual.",
@@ -371,7 +386,7 @@
           "description": "Over 2 million accounts have faced enforcement for disruptive chat since the launch of the AI-powered ToxMod tool for Call of Duty.",
           "link": "https://decrypt.co/213971/watch-your-mouth-anon-call-of-duty-ai-tool-punishes-millions-of-toxic-players",
           "publishedOn": "2024-01-23T23:02:50.000Z",
-          "wordCount": 10748,
+          "wordCount": 10730,
           "title": "Watch Your Mouth, Anon: 'Call of Duty' AI Tool Punishes Millions of Toxic Players",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/11/cod-mw3-scaled-gID_7.jpeg@png",
@@ -591,21 +606,6 @@
           "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/01/faze-rollbit-gID_7.jpg@png"
         },
         {
-          "id": "https://decrypt.co/?p=213848",
-          "author": "Stephen Graves",
-          "description": "Two-factor authentiation on the SEC's Twitter account had been disabled since July 2023, the regulator revealed.",
-          "link": "https://decrypt.co/213848/sec-fake-bitcoin-etf-announcement-caused-by-sim-swap-attack",
-          "publishedOn": "2024-01-23T11:15:07.000Z",
-          "wordCount": 9954,
-          "title": "SEC: Fake Bitcoin ETF Announcement Caused by SIM Swap Attack",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/02/SEC-shutterstock_1383379244-16x9-1-gID_7.jpg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/02/SEC-shutterstock_1383379244-16x9-1-gID_7.jpg@png"
-        },
-        {
           "id": "https://decrypt.co/videos/interviews/i3sesrao/are-you-the-one-being-farmed-w-frisson",
           "author": null,
           "description": "Reza is joined by Frisson from Tallyx.xyz\n\nThey reflect on:\n- building in the bear market\n- the points system meta\n- will zoomers care about decentralization",
@@ -671,7 +671,7 @@
           "description": "Reza is joined by Mike Grantis from Contango Digital to discuss\n- The AI coin to rule them all\n- The Solana Ecosystem \n- What's next for Solana airdrops",
           "link": "https://decrypt.co/videos/interviews/rkYpU8TJ/the-ai-coin-to-rule-them-all-with-mike-grantis",
           "publishedOn": "2024-01-10T18:46:26.000Z",
-          "wordCount": 6763,
+          "wordCount": 6878,
           "title": "The AI Coin to Rule Them All with Mike Grantis",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/rkYpU8TJ/poster.jpg",
@@ -731,7 +731,7 @@
           "description": "This week our host is joined by Brooke Lacey! \n\nThey discuss:  \n- Making and losing generational wealth\n- Trauma Bond\n- Women in Web3\n- The Problem with WAGMI",
           "link": "https://decrypt.co/videos/interviews/EfNuNu8a/losing-1500-btc-on-mt-gox-and-the-problem-with-women-in-web3",
           "publishedOn": "2024-01-03T19:02:44.000Z",
-          "wordCount": 6778,
+          "wordCount": 6893,
           "title": "Losing 1500 BTC on Mt Gox and the Problem with Women in Web3",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/EfNuNu8a/poster.jpg",
@@ -763,6 +763,176 @@
       "siteUrl": "https://cryptopanic.com/",
       "articles": [
         {
+          "id": "https://cryptopanic.com/news/19203281/Taki-DAO-partners-with-Flowdesk-to-enhance-TAKI-liquidity",
+          "author": null,
+          "description": "Taki DAO says the partnership with Flowdesk will help supercharge liquidity for TAKI, the native token of the Taki Games ecosystem. The partnership follows TAKI’s expansion to Polygon in December. Taki DAO and Flowdesk, a full-service digital asset trading technology firm with market making and...",
+          "link": "https://cryptopanic.com/news/19203281/Taki-DAO-partners-with-Flowdesk-to-enhance-TAKI-liquidity",
+          "publishedOn": "2024-01-25T14:01:34.000Z",
+          "wordCount": 597,
+          "title": "Taki DAO partners with Flowdesk to enhance TAKI liquidity",
+          "imageUrl": "https://coinjournal.net/wp-content/uploads/2024/01/1706191038745-1a351fa8-b816-43c0-86ae-2154bde73100.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/19203277/US-elections-Are-CBDCs-becoming-hyper-politicized",
+          "author": null,
+          "description": "Central bank digital currencies are becoming more politicized globally, “but in the U.S. they seem to be ‘hyper-politicized.’”",
+          "link": "https://cryptopanic.com/news/19203277/US-elections-Are-CBDCs-becoming-hyper-politicized",
+          "publishedOn": "2024-01-25T14:01:00.000Z",
+          "wordCount": 594,
+          "title": "US elections: Are CBDCs becoming ‘hyper-politicized’?",
+          "imageUrl": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2024-01/23ffa594-0b7c-4391-af48-e4ae3e1307b9.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/19203278/Polygon-Labs-and-Warner-Music-Group-push-music-industry-Web3-evolution",
+          "author": null,
+          "description": "Polygon Labs and Warner Music Group announced two recipients of their inaugural Web3 Music Accelerator program to further the evolution of the music industry.",
+          "link": "https://cryptopanic.com/news/19203278/Polygon-Labs-and-Warner-Music-Group-push-music-industry-Web3-evolution",
+          "publishedOn": "2024-01-25T14:00:00.000Z",
+          "wordCount": 599,
+          "title": "Polygon Labs and Warner Music Group push music industry Web3 evolution",
+          "imageUrl": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2024-01/7e783a5e-acbe-4cde-ba06-a77dfec8d007.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/19203279/Google-releases-AI-realistic-text-to-video-generator-039Lumiere039",
+          "author": null,
+          "description": "Google’s latest concept, Lumiere, is a time-space diffusion model that transforms text and images into AI-generated realistic videos with on-demand editing capabilities.",
+          "link": "https://cryptopanic.com/news/19203279/Google-releases-AI-realistic-text-to-video-generator-039Lumiere039",
+          "publishedOn": "2024-01-25T14:00:00.000Z",
+          "wordCount": 595,
+          "title": "Google releases AI realistic text-to-video generator &#039;Lumiere&#039;",
+          "imageUrl": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2024-01/4d67809f-9b07-4d89-9b03-124c20c99ff1.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/19203251/Tesla-is-the-Only-Loser-in-the-Magnificent-Seven-So-Far-This-Year",
+          "author": null,
+          "description": "Shares of Tesla tumbled 8.8% in premarket trading after the automaker released disappointing Q4 results and 2024 outlook.",
+          "link": "https://cryptopanic.com/news/19203251/Tesla-is-the-Only-Loser-in-the-Magnificent-Seven-So-Far-This-Year",
+          "publishedOn": "2024-01-25T13:57:16.000Z",
+          "wordCount": 601,
+          "title": "Tesla is the Only Loser in the Magnificent Seven So Far This Year",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/19203247/Bank-of-England-and-UK-Treasury-remain-undecided-on-a-digital-pound",
+          "author": null,
+          "description": "Bank of England and UK Treasury determine that it is still too early to decide whether a digital pound is necessary.",
+          "link": "https://cryptopanic.com/news/19203247/Bank-of-England-and-UK-Treasury-remain-undecided-on-a-digital-pound",
+          "publishedOn": "2024-01-25T13:55:00.000Z",
+          "wordCount": 600,
+          "title": "Bank of England and UK Treasury remain undecided on a ‘digital pound’",
+          "imageUrl": "https://www.tbstat.com/wp/uploads/2020/09/boe-1013x675.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/19203221/Polygons-AggLayer-protocol-for-blockchain-integration-set-to-launch-in-Feb",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/19203221/Polygons-AggLayer-protocol-for-blockchain-integration-set-to-launch-in-Feb",
+          "publishedOn": "2024-01-25T13:49:00.000Z",
+          "wordCount": null,
+          "title": "Polygon’s AggLayer protocol for blockchain integration, set to launch in Feb",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/19203222/CZ-denied-travel-to-UAE-despite-offering-45-billion-Binance-equity-for-return",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/19203222/CZ-denied-travel-to-UAE-despite-offering-45-billion-Binance-equity-for-return",
+          "publishedOn": "2024-01-25T13:48:28.000Z",
+          "wordCount": null,
+          "title": "CZ denied travel to UAE despite offering $4.5 billion Binance equity for return",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/19203225/AltLayer-opens-airdrop-claims-token-trades-at-29-billion-fully-diluted-valuation",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/19203225/AltLayer-opens-airdrop-claims-token-trades-at-29-billion-fully-diluted-valuation",
+          "publishedOn": "2024-01-25T13:45:02.000Z",
+          "wordCount": null,
+          "title": "AltLayer opens airdrop claims, token trades at $2.9 billion fully diluted valuation",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/19203229/ALT-Coin-Explodes-5380-from-0006-to-03288-on-Binance-Details",
+          "author": null,
+          "description": "AltLayer (ALT), a decentralized protocol designed for rollups, has experienced substantial growth on the Binance trading platform shortly after becoming available for trading. Data from the Binance trading platform suggested that the ALT token opened for trading at $0.006. However, following a...",
+          "link": "https://cryptopanic.com/news/19203229/ALT-Coin-Explodes-5380-from-0006-to-03288-on-Binance-Details",
+          "publishedOn": "2024-01-25T13:44:00.000Z",
+          "wordCount": 599,
+          "title": "ALT Coin Explodes 5,380% from $0.006 to $0.3288 on Binance: Details",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/19203226/46-New-Whales-Amass-1000-BTC-Signaling-Confidence-as-Grayscale-Offloads-Bitcoin-Holdings-Amid-Outflows",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/19203226/46-New-Whales-Amass-1000-BTC-Signaling-Confidence-as-Grayscale-Offloads-Bitcoin-Holdings-Amid-Outflows",
+          "publishedOn": "2024-01-25T13:42:11.000Z",
+          "wordCount": null,
+          "title": "46 New Whales Amass 1,000+ BTC, Signaling Confidence as Grayscale Offloads Bitcoin Holdings Amid Outflows",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/19203202/Whales-Take-Action-as-Fraud-Allegations-in-Bitcoin-Based-Altcoin-Drop-the-Price-by-30-Percent-They-Made-a-Large-Purchase",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/19203202/Whales-Take-Action-as-Fraud-Allegations-in-Bitcoin-Based-Altcoin-Drop-the-Price-by-30-Percent-They-Made-a-Large-Purchase",
+          "publishedOn": "2024-01-25T13:37:07.000Z",
+          "wordCount": null,
+          "title": "Whales Take Action as Fraud Allegations in Bitcoin-Based Altcoin Drop the Price by 30 Percent! They Made a Large Purchase!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/19203243/Bitpanda-in-partnership-with-RLB-NO-Wien-to-offer-crypto-trading",
+          "author": null,
+          "description": "Customers of the traditional bank Raiffeisenlandesbank Niederösterreich-Wien have access to over 2000 digital assets.",
+          "link": "https://cryptopanic.com/news/19203243/Bitpanda-in-partnership-with-RLB-NO-Wien-to-offer-crypto-trading",
+          "publishedOn": "2024-01-25T13:35:59.000Z",
+          "wordCount": 598,
+          "title": "Bitpanda in partnership with RLB NÖ-Wien to offer crypto trading",
+          "imageUrl": "https://en.cryptonomist.ch/wp-content/uploads/2024/01/Bitpanda_Bank.png"
+        },
+        {
+          "id": "https://cryptopanic.com/news/19203220/Protocol-Village-Space-and-Time-Rolls-Out-Open-Source-GPU-Acceleration-Framework-Blitzar",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/19203220/Protocol-Village-Space-and-Time-Rolls-Out-Open-Source-GPU-Acceleration-Framework-Blitzar",
+          "publishedOn": "2024-01-25T13:34:15.000Z",
+          "wordCount": null,
+          "title": "Protocol Village: Space and Time Rolls Out Open-Source GPU Acceleration Framework 'Blitzar'",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/19203198/Grayscales-GBTC-Exodus-Sends-Bitcoin-Below-39000-Adding-to-Cryptocurrency-Market-Uncertainty",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/19203198/Grayscales-GBTC-Exodus-Sends-Bitcoin-Below-39000-Adding-to-Cryptocurrency-Market-Uncertainty",
+          "publishedOn": "2024-01-25T13:29:32.000Z",
+          "wordCount": null,
+          "title": "Grayscale’s GBTC Exodus Sends Bitcoin Below $39,000, Adding to Cryptocurrency Market Uncertainty",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/19203138/US-Judge-denies-Changpeng-Zhao-travel-to-UAE-despite-45B-Binance-equity-offer",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/19203138/US-Judge-denies-Changpeng-Zhao-travel-to-UAE-despite-45B-Binance-equity-offer",
+          "publishedOn": "2024-01-25T13:23:31.000Z",
+          "wordCount": null,
+          "title": "US Judge denies Changpeng Zhao travel to UAE despite $4.5B Binance equity offer",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/19203124/Ethereum-ETH-Developers-Make-Big-Announcement-What-It-Pertains-To",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/19203124/Ethereum-ETH-Developers-Make-Big-Announcement-What-It-Pertains-To",
+          "publishedOn": "2024-01-25T13:13:00.000Z",
+          "wordCount": null,
+          "title": "Ethereum (ETH) Developers Make Big Announcement, What It Pertains To",
+          "imageUrl": null
+        },
+        {
           "id": "https://cryptopanic.com/news/19203076/Changpeng-Zhao-former-Binance-CEO-denied-travel-to-UAE-amidst-ongoing-legal-battles",
           "author": null,
           "description": "",
@@ -791,176 +961,6 @@
           "wordCount": 602,
           "title": "Battle Of The Crypto ‘Scammers’? Ape Terminal And MacnBTC Fight Over Sketchy SatoshiVM Launch",
           "imageUrl": "https://bitcoinist.com/wp-content/uploads/2024/01/SatoshiVM-SAVM-Crypto-MacnBTC-Ape-Terminal.jpeg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/19203070/Digital-Asset-Platform-Web3Intelligence-Raises-45M-Ahead-of-New-Token-Rollout",
-          "author": null,
-          "description": "The private funding round included participation from DAO MAKER, Shima Capital, and Gate.io among other investors.",
-          "link": "https://cryptopanic.com/news/19203070/Digital-Asset-Platform-Web3Intelligence-Raises-45M-Ahead-of-New-Token-Rollout",
-          "publishedOn": "2024-01-25T13:00:00.000Z",
-          "wordCount": 599,
-          "title": "Digital Asset Platform Web3Intelligence Raises $4.5M Ahead of New Token Rollout",
-          "imageUrl": "https://www.coindesk.com/resizer/fzGUXsqo9_kMph8H-ZFtFlnMw8s=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/B4QOC4H74NEDTEYGMD3Q723DDM.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/19203026/Bitcoin-ATM-provider-Lamassu-Industries-addresses-vulnerability-after-ethical-hackers-gain-control",
-          "author": null,
-          "description": "Recently, Bitcoin ATM provider Lamassu Industries swiftly responded to a security breach after ethical hackers successfully gained control of their ATM machines. The vulnerability was identified by a team of security researchers from IOActive during their attempt to compromise Lamassu ATMs in...",
-          "link": "https://cryptopanic.com/news/19203026/Bitcoin-ATM-provider-Lamassu-Industries-addresses-vulnerability-after-ethical-hackers-gain-control",
-          "publishedOn": "2024-01-25T12:54:08.000Z",
-          "wordCount": 600,
-          "title": "Bitcoin ATM provider Lamassu Industries addresses vulnerability after ethical hackers gain control",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/19203045/NextEra-Energys-NEE-Q4-Surge-Balancing-Expectations-with-Renewable-Ambitions",
-          "author": null,
-          "description": "NEE showcased a robust financial performance in the last quarter of 2023, underlined by strategic investments in renewable energy.",
-          "link": "https://cryptopanic.com/news/19203045/NextEra-Energys-NEE-Q4-Surge-Balancing-Expectations-with-Renewable-Ambitions",
-          "publishedOn": "2024-01-25T12:54:06.000Z",
-          "wordCount": 598,
-          "title": "NextEra Energy’s (NEE) Q4 Surge: Balancing Expectations with Renewable Ambitions",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/19203031/IOTA-price-prediction-after-huge-24-hour-gain",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/19203031/IOTA-price-prediction-after-huge-24-hour-gain",
-          "publishedOn": "2024-01-25T12:52:56.000Z",
-          "wordCount": null,
-          "title": "IOTA price prediction after huge 24-hour gain",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/19203032/How-this-crypto-trader-turned-3k-to-650k-in-19-hours",
-          "author": null,
-          "description": "Speculating on low-liquidity cryptocurrencies is risky but sometimes rewarding. A crypto trader recently beat the risk of ruin, turning $3,000 … Continue reading",
-          "link": "https://cryptopanic.com/news/19203032/How-this-crypto-trader-turned-3k-to-650k-in-19-hours",
-          "publishedOn": "2024-01-25T12:52:35.000Z",
-          "wordCount": 599,
-          "title": "How this crypto trader turned $3k to $650k in 19 hours",
-          "imageUrl": "https://assets.finbold.com/uploads/2024/01/cryptotrader-3k-to-650k-snow.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/19203043/OKX-Announced-That-These-Three-Altcoins-Will-Be-Delisted-Their-Prices-Crashed",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/19203043/OKX-Announced-That-These-Three-Altcoins-Will-Be-Delisted-Their-Prices-Crashed",
-          "publishedOn": "2024-01-25T12:51:07.000Z",
-          "wordCount": null,
-          "title": "OKX Announced That These Three Altcoins Will Be Delisted, Their Prices Crashed!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/19203024/Ark-Invests-aggressive-accumulation-of-its-Bitcoin-ETF-propels-it-into-top-5-of-ARKW-portfolio",
-          "author": null,
-          "description": "Ark Invest’s continued accumulation of the Ark 21Shares Spot Bitcoin ETF (ARKB) has elevated the asset to a top-five position within the firm’s Ark Next Generation Internet ETF (ARKW) portfolio. The firm’s latest trading file seen by CryptoSlate showed that it acquired 267,804 shares of ARKB,...",
-          "link": "https://cryptopanic.com/news/19203024/Ark-Invests-aggressive-accumulation-of-its-Bitcoin-ETF-propels-it-into-top-5-of-ARKW-portfolio",
-          "publishedOn": "2024-01-25T12:50:35.000Z",
-          "wordCount": 604,
-          "title": "Ark Invest’s aggressive accumulation of its Bitcoin ETF propels it into top 5 of ARKW portfolio",
-          "imageUrl": "https://cryptoslate.com/wp-content/uploads/2024/01/ark-invest-bitcoin.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/19203034/Did-Binance-ex-chief-CZ-really-come-to-the-US-voluntarily",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/19203034/Did-Binance-ex-chief-CZ-really-come-to-the-US-voluntarily",
-          "publishedOn": "2024-01-25T12:50:05.000Z",
-          "wordCount": null,
-          "title": "Did Binance ex-chief CZ really come to the US voluntarily?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/19203027/CoreDAO-Launches-African-Innovation-Fund-to-Empower-Local-Web3-Builders",
-          "author": null,
-          "description": "In a remarkable move to strengthen the burgeoning Web3 ecosystem in Africa, CoreDAO has announced the inception of the African Innovation Fund. This initiative is a groundbreaking effort to offer vital resources and networking opportunities to local Web3 developers across the continent. It is a...",
-          "link": "https://cryptopanic.com/news/19203027/CoreDAO-Launches-African-Innovation-Fund-to-Empower-Local-Web3-Builders",
-          "publishedOn": "2024-01-25T12:49:12.000Z",
-          "wordCount": 598,
-          "title": "CoreDAO Launches African Innovation Fund to Empower Local Web3 Builders",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/19203008/Bitcoin-Is-Flashing-a-Bullish-Contrarian-Signal-Amid-Parabolic-Trendline-Formation-Says-Analyst-Kevin-Svenson",
-          "author": null,
-          "description": "A widely followed crypto analyst believes that Bitcoin (BTC) is on an uptrend despite a sharp drop from its 2024 high of nearly $49,000. In a new video update, crypto strategist Kevin Svenson tells his 71,500 YouTube subscribers that he remains bullish on the crypto king despite the negative...",
-          "link": "https://cryptopanic.com/news/19203008/Bitcoin-Is-Flashing-a-Bullish-Contrarian-Signal-Amid-Parabolic-Trendline-Formation-Says-Analyst-Kevin-Svenson",
-          "publishedOn": "2024-01-25T12:45:30.000Z",
-          "wordCount": 603,
-          "title": "Bitcoin Is Flashing a Bullish Contrarian Signal Amid Parabolic Trendline Formation, Says Analyst Kevin Svenson",
-          "imageUrl": "https://dailyhodl.com/wp-content/uploads/2024/01/Bullish-Contrarian-Signal-.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/19203000/How-Internet-Computer-Protocol-ICP-Hubs-are-driving-blockchain-education-and-innovation-worldwide",
-          "author": null,
-          "description": "In the last 30 days, ICP Hubs have been at the forefront of innovation and education in the blockchain and AI sectors. This period has seen a surge in activities ranging from educational bootcamps to international collaborations, marking a significant phase in the global adoption and development...",
-          "link": "https://cryptopanic.com/news/19203000/How-Internet-Computer-Protocol-ICP-Hubs-are-driving-blockchain-education-and-innovation-worldwide",
-          "publishedOn": "2024-01-25T12:42:31.000Z",
-          "wordCount": 601,
-          "title": "How Internet Computer Protocol (ICP) Hubs are driving blockchain education and innovation worldwide",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/19203014/Galaxy-Digital-Analysts-Announced-2024-Expectations-for-Bitcoin-and-Ethereum-It-Will-Be-the-Year-of-Competition",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/19203014/Galaxy-Digital-Analysts-Announced-2024-Expectations-for-Bitcoin-and-Ethereum-It-Will-Be-the-Year-of-Competition",
-          "publishedOn": "2024-01-25T12:42:07.000Z",
-          "wordCount": null,
-          "title": "Galaxy Digital Analysts Announced 2024 Expectations for Bitcoin and Ethereum! \"It Will Be the Year of Competition!\"",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/19203002/Financial-Stability-Board-FSB-reveals-2024-plans-for-crypto-regulation-and-tokenization",
-          "author": null,
-          "description": "The Financial Stability Board (FSB), an international organization overseeing the global financial system, has unveiled its comprehensive plans for 2024. In a document outlining its agenda, the FSB strongly emphasizes monitoring the implementation of its global regulatory framework for...",
-          "link": "https://cryptopanic.com/news/19203002/Financial-Stability-Board-FSB-reveals-2024-plans-for-crypto-regulation-and-tokenization",
-          "publishedOn": "2024-01-25T12:40:43.000Z",
-          "wordCount": 600,
-          "title": "Financial Stability Board (FSB) reveals 2024 plans for crypto regulation and tokenization",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/19203003/Cryptocurrencies-set-to-reach-10-in-2024",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/19203003/Cryptocurrencies-set-to-reach-10-in-2024",
-          "publishedOn": "2024-01-25T12:39:38.000Z",
-          "wordCount": null,
-          "title": "Cryptocurrencies set to reach $10 in 2024",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/19202963/Worldcoin-CEO-Teases-New-Orb-Upgrade-Despite-Privacy-Concerns",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/19202963/Worldcoin-CEO-Teases-New-Orb-Upgrade-Despite-Privacy-Concerns",
-          "publishedOn": "2024-01-25T12:38:00.000Z",
-          "wordCount": null,
-          "title": "Worldcoin CEO Teases New Orb Upgrade Despite Privacy Concerns",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/19203018/Bitcoin-Reclaims-Spotlight-In-China-Despite-Ban-Offering-Safe-Haven-For-Investors",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/19203018/Bitcoin-Reclaims-Spotlight-In-China-Despite-Ban-Offering-Safe-Haven-For-Investors",
-          "publishedOn": "2024-01-25T12:35:51.000Z",
-          "wordCount": null,
-          "title": "Bitcoin Reclaims Spotlight In China Despite Ban, Offering Safe Haven For Investors",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/19202973/Marsh-McLennan-MMC-Outshines-in-Q4-with-Revenue-of-564B-and-EPS-of-163",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/19202973/Marsh-McLennan-MMC-Outshines-in-Q4-with-Revenue-of-564B-and-EPS-of-163",
-          "publishedOn": "2024-01-25T12:32:14.000Z",
-          "wordCount": null,
-          "title": "Marsh & McLennan (MMC) Outshines in Q4 with Revenue of $5.64B and EPS of $1.63",
-          "imageUrl": null
         }
       ]
     },
@@ -970,12 +970,62 @@
       "siteUrl": "https://www.inoreader.com/stream/user/1005336866/tag/%E6%B5%B7%E5%A4%96%E5%8A%A0%E5%AF%86%E8%B5%84%E8%AE%AF/view/html",
       "articles": [
         {
+          "id": "http://www.inoreader.com/article/3a9c6e74f7dc9974",
+          "author": "Jamie Redman",
+          "description": "Based on the latest data, the recently introduced spot bitcoin exchange-traded funds (ETFs) experienced their lowest trading volume day since Jan. 11, 2024, recording roughly $1.28 billion in volume on Wednesday. Additionally, figures indicate that Grayscale’s Bitcoin Trust GBTC has offloaded another tranche of bitcoins, totaling 13,178.50 bitcoin valued at $527 million, in the last 24 hours. \n \nSpot Bitcoin ETFs Hit Lowest Volume Since Jan. 11; Grayscale Unloads Over 13,000 Bitcoin, 9 New ETFs Hold $4.91B in Assets\n \nAs of Thursday, Jan. 25, Grayscale’s GBTC possesses 523,516.43 BTC, valued approximately at $20.71 billion based on the current BTC exchange rates. This figure is 13,178.50 BTC less than the previous day when the holding was 536,694.93 BTC. Consequently, since Jan. 12, 2024, …",
+          "link": "https://news.bitcoin.com/grayscales-gbtc-offloads-527m-in-bitcoin-as-spot-etfs-record-lower-trading-volumes-other-funds-continue-btc-accumulation/",
+          "publishedOn": "2024-01-25T14:11:18.000Z",
+          "wordCount": 261,
+          "title": "Grayscale’s GBTC Offloads $527M in Bitcoin as Spot ETFs Record Lower Trading Volumes; Other Funds Continue BTC Accumulation",
+          "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2024/01/gbtc200000.jpg"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e74f7dc9f83",
+          "author": "Tareq Sikder",
+          "description": "To  \nenhance the institutional trading experience in the crypto space, Finery  \nMarkets, a non-custodial crypto Electronic Communication Network and  \ntrading infrastructure provider for institutional players, has officially  \nentered into a partnership with Hidden Road Partners. This collaboration is  \nmarked by the integration of Finery Markets' flagship solution, FM Liquidity  \nMatch, into the operations of Hidden Road, a prime broker for crypto spot  \ntransactions.\nInstitutional  \nShift: OTC Access in Crypto Trading\nThe  \ninstitutional participants have embraced the innovative FM Liquidity Match,  \nwhich offers easy electronic access to robust institutional Over-The-Counter liquidity.  \n\nThis  \nensures a high-quality execution environment while safeguarding against toxic  \nflow in cryp…",
+          "link": "https://www.financemagnates.com//cryptocurrency/hidden-road-and-finery-markets-collaborate-to-introduce-advanced-otc-liquidity-pool/",
+          "publishedOn": "2024-01-25T14:10:43.000Z",
+          "wordCount": 5084,
+          "title": "Hidden Road and Finery Markets Collaborate to Introduce Advanced OTC Liquidity Pool",
+          "imageUrl": "https://images.financemagnates.com/images/Hidden%20Road%20Introduces%20OTC%20Prime%20Brokerage%20for%20Crypto_id_1da9fad0-5724-4d86-8754-f2cee1cfb8ac_size900.jpg"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e74f7da30c4",
+          "author": "Jamie Crawley, Omkar Godbole",
+          "description": "The latest price moves in bitcoin [BTC] and crypto markets in context for Jan. 25, 2024. First Mover is CoinDesk’s daily newsletter that contextualizes the latest actions in the crypto markets.",
+          "link": "https://www.coindesk.com/markets/2024/01/25/first-mover-americas-bitcoin-holds-40k/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2024-01-25T13:36:23.000Z",
+          "wordCount": 10635,
+          "title": "First Mover Americas: Bitcoin Holds $40K",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/jpeg",
+            "url": "https://www.coindesk.com/resizer/S5XzM7OYtn8QEGQPZ2gUv15TBBs=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/ANHDYMF7WRA3RAAH7NAWHCZ2WM.JPG"
+          },
+          "imageUrl": "https://www.coindesk.com/resizer/S5XzM7OYtn8QEGQPZ2gUv15TBBs=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/ANHDYMF7WRA3RAAH7NAWHCZ2WM.JPG"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e74f7da30b6",
+          "author": "Jamie Crawley",
+          "description": "The private funding round included participation from DAO MAKER, Shima Capital, and Gate.io among other investors.",
+          "link": "https://www.coindesk.com/web3/2024/01/25/digital-asset-platform-web3intelligence-raises-45m-ahead-of-new-token-rollout/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2024-01-25T13:36:23.000Z",
+          "wordCount": 9414,
+          "title": "Digital Asset Platform Web3Intelligence Raises $4.5M Ahead of New Token Rollout",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/jpeg",
+            "url": "https://www.coindesk.com/resizer/JxK9dMaKew1epIyjbuCbm325K9s=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/B4QOC4H74NEDTEYGMD3Q723DDM.jpg"
+          },
+          "imageUrl": "https://www.coindesk.com/resizer/JxK9dMaKew1epIyjbuCbm325K9s=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/B4QOC4H74NEDTEYGMD3Q723DDM.jpg"
+        },
+        {
           "id": "http://www.inoreader.com/article/3a9c6e74f7c6b1c3",
           "author": "Best Owie",
           "description": "Last week, the launch of SatoshiVM and its Ethereum-based token SAVM took the crypto community by storm after a concerted effort by crypto influencers to push the project. Mainly, the large gains from those in the project caught the eye of investors, who watched as the token price continued to soar. However, it seems there is already trouble in paradise as major players in the token’s launch lock horns and scam allegations emerge.\n \nApe Terminal, MacnBTC, And A Fraudulent Launch\n \nWith Ape Terminal becoming a prominent name in the launchpad/IDO space, the SatoshiVM project, a Bitcoin Layer 2 network, launching on it quickly gained prominence. Over 47,000 participants would sign up for the IDO with hopes of getting in.\n \n \nApe Terminal’s modus operandi was giving large allocations to a smal…",
           "link": "https://bitcoinist.com/crypto-ape-terminal-macnbtc-satoshivm/",
           "publishedOn": "2024-01-25T13:07:09.000Z",
-          "wordCount": 5756,
+          "wordCount": 5755,
           "title": "Battle Of The Crypto ‘Scammers’? Ape Terminal And MacnBTC Fight Over Sketchy SatoshiVM Launch",
           "enclosure": {
             "length": "1337",
@@ -990,7 +1040,7 @@
           "description": "SAVM jumped several thousand percent to a market capitalization of as high as $90 million a few hours after issuance.",
           "link": "https://www.coindesk.com/markets/2024/01/25/satoshivm-marred-by-controversy-days-after-savm-issuance/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2024-01-25T12:41:05.000Z",
-          "wordCount": 10325,
+          "wordCount": 10410,
           "title": "SatoshiVM Marred by Controversy Days After SAVM Issuance",
           "enclosure": {
             "length": "1337",
@@ -1040,7 +1090,7 @@
           "description": "Many respondents to the digital pound consultation said that they had concerns about privacy and control.",
           "link": "https://www.coindesk.com/policy/2024/01/25/digital-pound-legislation-will-provide-protections-to-privacy-and-control-govt-says/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2024-01-25T11:02:36.000Z",
-          "wordCount": 10639,
+          "wordCount": 10735,
           "title": "Digital Pound Legislation Will Provide Protections to Privacy and Control, Govt Says",
           "enclosure": {
             "length": "1337",
@@ -1055,7 +1105,7 @@
           "description": "A  \nrecent report has unveiled a concerning surge in cyber-attacks orchestrated by  \nNorth Korea-linked hackers, indicating a growing trend in the targeting of  \ncryptocurrency assets. The analysis firm's findings revealed that in 2023,  \nthese hackers conducted a staggering 20 attacks, marking the highest number  \nrecorded since such record-keeping began in 2016.\nNorth  \nKorean Cyber Threats Intensify: Kimsuky and Lazarus Group on the Radar\nWhile  \nthe total value of stolen cryptocurrency witnessed a drop from the previous  \nyear, decreasing from $1.7 billion in 2022 to slightly over $1.0 billion in  \n2023, as reported by Chainalysis. The rise in the number of hacking incidents  \nraises alarms within the cybersecurity community. The report highlights the  \npersistent threat posed by North…",
           "link": "https://www.financemagnates.com//cryptocurrency/north-korean-hackers-break-records-with-1-billion-cryptocurrency-theft/",
           "publishedOn": "2024-01-25T10:44:51.000Z",
-          "wordCount": 4594,
+          "wordCount": 4596,
           "title": "North Korean Hackers Break Records with $1 Billion Cryptocurrency Theft",
           "imageUrl": "https://images.financemagnates.com/images/Crypto%20hacking_id_ddecbe81-911e-448e-903b-51912aa5ad0f_size900.jpg"
         },
@@ -1075,7 +1125,7 @@
           "description": "Traders have scaled back bets of aggressive rate cuts by the Federal Reserve ahead of the U.S. GDP report.",
           "link": "https://www.coindesk.com/markets/2024/01/25/bitcoin-holds-above-40k-ahead-of-us-gdp-52b-crypto-options-expiry/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2024-01-25T10:31:55.000Z",
-          "wordCount": 10132,
+          "wordCount": 10224,
           "title": "Bitcoin Holds Above $40K Ahead of U.S. GDP, $5.8B Crypto Options Expiry",
           "enclosure": {
             "length": "1337",
@@ -1090,7 +1140,7 @@
           "description": "UP Fintech  \nHolding Limited, the Tiger Trade online brokerage operator, has received  \napproval from the Hong Kong Securities and Futures Commission to upgrade  \nits license to include dealing in virtual assets. This makes UP Fintech one of  \nthe first brokerages in Hong Kong to offer crypto trading services.\nHong Kong Regulator  \nApproves UP Fintech for Virtual Asset Trading\nThe license  \nupgrade allows Tiger Trade to provide Bitcoin, Ethereum and other  \ncryptocurrency trading to professional investors in Hong Kong who meet certain  \nwealth thresholds.\n\"Investor  \ndemand for digital assets continues to grow in Hong Kong and around the world,  \nand we are pleased to expand our business scope to meet the growing demand of  \nclients in this important market,\" said John Fei Zeng, the CFO of…",
           "link": "https://www.financemagnates.com//cryptocurrency/tiger-trade-to-include-crypto-trading-for-hong-kong-investors/",
           "publishedOn": "2024-01-25T10:15:10.000Z",
-          "wordCount": 6416,
+          "wordCount": 6418,
           "title": "Tiger Trade to Include Crypto Trading for Hong Kong Investors",
           "imageUrl": "https://images.financemagnates.com/images/hong%20kong_id_e5a62ab2-ce0f-46e4-8df6-f4164e5fc697_size900.jpg"
         },
@@ -1115,7 +1165,7 @@
           "description": "A  \nfederal judge rejected a travel request from the Founder of Binance, Changpeng  \n\"CZ\" Zhao, to visit his home in the United Arab Emirates for the  \n\"hospitalization and surgery\" of an undisclosed individual. This  \ndecision comes despite Zhao offering to post his Binance equity, valued at $4.5  \nbillion, as security for his return to the United States.\nA  \nNovember Admission in Seattle Federal Court\nIn  \nNovember, Zhao pleaded guilty in a Seattle federal court to failing to maintain  \nan effective anti-money laundering program at Binance. As part of the case,  \nBinance agreed to pay $4.3 billion in penalties. Zhao, who stepped down as the CEO  \ndue to his plea, is scheduled to be sentenced on February 23, remaining free in  \nthe US on a $175 million release bond.\nIn  \na letter dated De…",
           "link": "https://www.financemagnates.com//cryptocurrency/binance-founders-travel-plea-denied-despite-45-billion-security-offer/",
           "publishedOn": "2024-01-25T09:44:04.000Z",
-          "wordCount": 4420,
+          "wordCount": 4422,
           "title": "Binance Founder's Travel Plea Denied despite $4.5 Billion Security Offer",
           "imageUrl": "https://images.financemagnates.com/images/Binance%20CEO%20Changpeng%20Zhao_id_e32941b2-a1e5-4bdb-b051-3e2022e3d844_size900.jpg"
         },
@@ -1150,7 +1200,7 @@
           "description": "The way ether options are priced suggests investor preference for bets that prices will fall, contradicting the bullish outlook presented by some analysts.",
           "link": "https://www.coindesk.com/markets/2024/01/25/ether-options-out-of-sync-with-bullish-sentiment-on-street/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2024-01-25T07:31:57.000Z",
-          "wordCount": 9927,
+          "wordCount": 10019,
           "title": "Ether Options Out of Sync With Bullish Sentiment on Street",
           "enclosure": {
             "length": "1337",
@@ -1168,66 +1218,6 @@
           "wordCount": 187,
           "title": "Polymer Labs Secures $23 Million to Build Ethereum’s ‘Interoperability Hub’",
           "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2024/01/shutterstock_1998948041.jpg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e74f7931c83",
-          "author": "Jake Simmons",
-          "description": "In the XRP lawsuit, Ripple Labs Inc. has submitted a motion to file a sur-reply in response to what it terms as “significant factual mischaracterizations” by the US Securities and Exchange Commission (SEC), intensifying the ongoing case. This legal maneuver, presented before Judge Sarah Netburn of the Southern District of New York, marks a critical juncture in the proceedings.\n \nThe SEC has requested the court to mandate that Ripple provide audited financial statements for the years 2022-2023, along with documents detailing the sale or transfer of XRP to entities other than employees. Additionally, the SEC seeks information regarding the proceeds Ripple received from institutional sales of XRP following the lawsuit’s initiation.\n \nWhile Ripple had objected to this request, the SEC refutes …",
-          "link": "https://bitcoinist.com/xrp-lawsuit-ripple-motion-correct-sec/",
-          "publishedOn": "2024-01-25T07:09:21.000Z",
-          "wordCount": 5120,
-          "title": "XRP Lawsuit: Ripple Files Motion To Correct SEC’s Mischaracterizations",
-          "enclosure": {
-            "length": "1337",
-            "type": "image/jpeg",
-            "url": "https://bitcoinist.com/wp-content/uploads/2023/10/shutterstock_2222099581.jpg?fit=640,365"
-          },
-          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2023/10/shutterstock_2222099581.jpg?fit=640,365"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e74f7931c82",
-          "author": "Christian Encila",
-          "description": "In a recent and pivotal move within the cryptocurrency realm, BlackRock’s iShares Bitcoin Trust has secured a substantial Bitcoin haul from Coinbase Prime, fortifying its position in the volatile market.\n \nThe trust executed a noteworthy transaction, acquiring 6,495 BTC valued at a staggering $254.7 million, bringing its total holdings to an impressive 39,925 BTC, equivalent to an estimated $1.59 billion. The timing of this acquisition aligns with a period of increased turbulence in the cryptocurrency sphere, particularly affecting the venerable Bitcoin.\n \n \nBlackRock Bitcoin Confidence, Grayscale Outflows\n \nLookonchain’s Twitter account shared insights revealing that the transfer of Bitcoin from Coinbase Prime to BlackRock’s iShares Bitcoin Trust. The enlarged holdings underscore the trus…",
-          "link": "https://bitcoinist.com/blackrock-bitcoin-etf-now-at-1-6-billion/",
-          "publishedOn": "2024-01-25T07:09:21.000Z",
-          "wordCount": 5027,
-          "title": "BlackRock Increases Bitcoin Holdings, ETF Now At $1.6 Billion",
-          "enclosure": {
-            "length": "1337",
-            "type": "image/jpeg",
-            "url": "https://bitcoinist.com/wp-content/uploads/2024/01/a_a6f780.png?fit=475,263"
-          },
-          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2024/01/a_a6f780.png?fit=475,263"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e74f793d8bf",
-          "author": "Shaurya Malwa",
-          "description": "The Elon Musk-led company holds over $387 million worth of bitcoin.",
-          "link": "https://www.coindesk.com/markets/2024/01/25/teslas-bitcoin-holdings-remain-unchanged-in-q4/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-          "publishedOn": "2024-01-25T07:03:11.000Z",
-          "wordCount": 9505,
-          "title": "Tesla’s Bitcoin Holdings Remain Unchanged in Q4",
-          "enclosure": {
-            "length": "1337",
-            "type": "image/jpeg",
-            "url": "https://www.coindesk.com/resizer/AM3Lqb7KQ-Km9CRv8atonPDmSQo=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/446GHUPB3FANVHKFEFHQGNTJAI.jpg"
-          },
-          "imageUrl": "https://www.coindesk.com/resizer/AM3Lqb7KQ-Km9CRv8atonPDmSQo=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/446GHUPB3FANVHKFEFHQGNTJAI.jpg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e74f79c574c",
-          "author": "Sam Reynolds",
-          "description": "The company said that its initial target for the funding round was $35 million.",
-          "link": "https://www.coindesk.com/business/2024/01/25/swiss-crypto-bank-sygnum-inches-closer-to-unicorn-status-with-40m-raise/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-          "publishedOn": "2024-01-25T06:59:06.000Z",
-          "wordCount": 9616,
-          "title": "Swiss Crypto Bank Sygnum Inches Closer to 'Unicorn' Status With $40M Raise",
-          "enclosure": {
-            "length": "1337",
-            "type": "image/jpeg",
-            "url": "https://www.coindesk.com/resizer/8qZsHsZUJW_0H9uSQ2ouL7nVvlk=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/PDZ33YY2H5BTFNZ3HHAFJ4NN5I.jpg"
-          },
-          "imageUrl": "https://www.coindesk.com/resizer/8qZsHsZUJW_0H9uSQ2ouL7nVvlk=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/PDZ33YY2H5BTFNZ3HHAFJ4NN5I.jpg"
         }
       ]
     }

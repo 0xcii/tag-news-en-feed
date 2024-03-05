@@ -1,857 +1,140 @@
 {
   "sources": [
     {
-      "title": "Decrypt",
-      "feedUrl": "https://decrypt.co/feed",
-      "siteUrl": "https://decrypt.co/feed",
-      "articles": [
-        {
-          "id": "https://decrypt.co/?p=220154",
-          "author": "Andrew Hayward",
-          "description": "With Bitcoin inches away from setting a new all-time high price, rising Ordinals sales have flung one NFT marketplace on top.",
-          "link": "https://decrypt.co/220154/bitcoin-ordinals-reshaping-nft-marketplace-landscape",
-          "publishedOn": "2024-03-04T23:45:47.000Z",
-          "wordCount": 11436,
-          "title": "Bitcoin Ordinals Are Reshaping the NFT Marketplace Landscape",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/12/bitcoin-btc-coin-glowing-orange-gID_7.jpg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/12/bitcoin-btc-coin-glowing-orange-gID_7.jpg@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=220150",
-          "author": "Mathew Di Salvo",
-          "description": "The only time MSTR was priced higher than today was back in 2000.",
-          "link": "https://decrypt.co/220150/microstrategy-stock-bitcoin-near-all-time-high-price",
-          "publishedOn": "2024-03-04T23:30:32.000Z",
-          "wordCount": 9636,
-          "title": "MicroStrategy Stock Surges 24% as Bitcoin Nears All-Time High Price",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/12/MicroStrategy-Bitcoin-gID_7.jpeg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/12/MicroStrategy-Bitcoin-gID_7.jpeg@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=220151",
-          "author": "Ryan Kawailani Ozawa",
-          "description": "With the blockbuster success of spot Bitcoin ETFs, Ethereum-based counterparts are increasingly in demand.",
-          "link": "https://decrypt.co/220151/spot-ethereum-etf-approval-delayed-sec-blackrock",
-          "publishedOn": "2024-03-04T23:23:07.000Z",
-          "wordCount": 9604,
-          "title": "SEC Pushes Back BlackRock Spot Ethereum ETF Application—Again",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/07/ethereum-coins-shutterstock-gID_7.png@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/07/ethereum-coins-shutterstock-gID_7.png@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=220134",
-          "author": "Sander Lutz",
-          "description": "Traders swapped over $11 billion worth of digital assets on Solana last week, smashing through a previous record set in December.",
-          "link": "https://decrypt.co/220134/solana-weekly-defi-trading-all-time-high-11-billion",
-          "publishedOn": "2024-03-04T21:58:12.000Z",
-          "wordCount": 9931,
-          "title": "Solana Weekly DeFi Trading Sets All-Time High Above $11 Billion",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/12/solana-sol-price-dip-gID_7.jpg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/12/solana-sol-price-dip-gID_7.jpg@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=220131",
-          "author": "Jason Nelson",
-          "description": "The Runestone airdrop is designed to reward early believers in the Ordinals movement.",
-          "link": "https://decrypt.co/220131/bitcoin-ordinals-runestone-airdrop-nft-art",
-          "publishedOn": "2024-03-04T21:30:15.000Z",
-          "wordCount": 10520,
-          "title": "Bitcoin Ordinals Airdrop Nears as Runestone Project Inscribes Largest Blocks Ever",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/02/Rune-Stone-Under-Bitcoin-Moon-by-Jason-Nelson-gID_7.webp@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/02/Rune-Stone-Under-Bitcoin-Moon-by-Jason-Nelson-gID_7.webp@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=220141",
-          "author": "Andrew Hayward",
-          "description": "With its Bitcoin holdings topping $13 billion and stock price surging, MicroStrategy plans to raise even more money to keep buying BTC.",
-          "link": "https://decrypt.co/220141/microstrategy-raise-600-million-buy-even-more-bitcoin",
-          "publishedOn": "2024-03-04T21:27:29.000Z",
-          "wordCount": 9595,
-          "title": "MicroStrategy Seeks to Raise $600 Million to Buy Even More Bitcoin",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/04/michael-saylor-bitcoin-lightning-gID_7.jpeg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/04/michael-saylor-bitcoin-lightning-gID_7.jpeg@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=17757",
-          "author": "Matt Hussey,Ki Chong Tran,Stephen Graves",
-          "description": "Every four years, the amount of Bitcoin awarded to miners is halved, an event known as the Bitcoin halving.",
-          "link": "https://decrypt.co/resources/what-is-the-bitcoin-halving",
-          "publishedOn": "2024-03-04T20:55:55.000Z",
-          "wordCount": 15422,
-          "title": "What Is the Bitcoin Halving? How Bitcoin's Supply Is Limited",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/02/Bitcoin-halvening-gID_5-pID_4.png@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/02/Bitcoin-halvening-gID_5-pID_4.png@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=220124",
-          "author": "Andrew Throuvalas",
-          "description": "In early trading, Wormhole’s W token has five times the value that it held last month.",
-          "link": "https://decrypt.co/220124/wormhole-ethereum-solana-airdrop-w-token-3-billion",
-          "publishedOn": "2024-03-04T20:42:34.000Z",
-          "wordCount": 9944,
-          "title": "Wormhole Airdrop on Ethereum and Solana Could Be Worth Almost $3 Billion",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/03/Wormhole-gID_7.png@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/03/Wormhole-gID_7.png@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=220118",
-          "author": "Sander Lutz",
-          "description": "The surge in Ethereum network gas fees comes as crypto and NFT prices are blasting off across the wider market.",
-          "link": "https://decrypt.co/220118/ethereum-gas-fees-skyrocket-pushing-nft-transactions-400",
-          "publishedOn": "2024-03-04T19:47:47.000Z",
-          "wordCount": 10557,
-          "title": "Ethereum Gas Fees Skyrocket Again, Pushing Price of NFT Transactions Near $400",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/07/gas-ethereum-tokens-gID_7.jpeg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/07/gas-ethereum-tokens-gID_7.jpeg@png"
-        },
-        {
-          "id": "https://decrypt.co/videos/interviews/wuiKIafu/ep71",
-          "author": null,
-          "description": "FOMO Hour #71 hints at a BTC new all-time high with the crypto market cap topping $2.5 trillion, BTC at record highs in EUR & GBP, extreme greed at 82, Blast hitting $2.6 billion TVL, ETH burning at 1% annually, CashApp running low on BTC, memecoins soaring 3000% in volume, and all major Ordinals projects reaching new highs.",
-          "link": "https://decrypt.co/videos/interviews/wuiKIafu/ep71",
-          "publishedOn": "2024-03-04T19:40:22.000Z",
-          "wordCount": 6856,
-          "title": "Ep71",
-          "enclosure": {
-            "url": "https://cdn.jwplayer.com/v2/media/wuiKIafu/poster.jpg",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.jwplayer.com/v2/media/wuiKIafu/poster.jpg"
-        },
-        {
-          "id": "https://decrypt.co/?p=220117",
-          "author": "Jason Nelson",
-          "description": "Coinbase crashed yet again as a Monday surge in Bitcoin's price brought another surge in traffic.",
-          "link": "https://decrypt.co/220117/coinbase-crash-again-bitcoin-price-surge",
-          "publishedOn": "2024-03-04T19:30:50.000Z",
-          "wordCount": 9713,
-          "title": "Zero Balance? Coinbase Crashes Again as Bitcoin Surges",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/02/Coinbase-Phone-shutterstock_2195406145-16x9-1-gID_7.jpg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/02/Coinbase-Phone-shutterstock_2195406145-16x9-1-gID_7.jpg@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=220098",
-          "author": "Mathew Di Salvo",
-          "description": "And BlackRock’s iShares Bitcoin Fund is the biggest winner.",
-          "link": "https://decrypt.co/220098/bitcoin-funds-swell-with-another-1-84-billion-in-fresh-cash",
-          "publishedOn": "2024-03-04T19:21:02.000Z",
-          "wordCount": 9618,
-          "title": "Bitcoin Funds Swell With Another $1.84 Billion in Fresh Cash",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/04/bitcoin-holders-market-crash-halving-gID_7.jpg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/04/bitcoin-holders-market-crash-halving-gID_7.jpg@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=220107",
-          "author": "Andrew Hayward",
-          "description": "NodeMonkes are on top as the leading NFT project over the last week, capped off by a $1 million Bitcoin Ordinals sale.",
-          "link": "https://decrypt.co/220107/bitcoin-ordinals-record-1-million-nodemonkes-sale",
-          "publishedOn": "2024-03-04T19:11:02.000Z",
-          "wordCount": 10383,
-          "title": "Bitcoin Ordinals Boom Yields Record $1 Million NodeMonkes Sale",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/03/nodemonkes-record-sale-gID_7.png@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/03/nodemonkes-record-sale-gID_7.png@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=220100",
-          "author": "Jason Nelson",
-          "description": "As Bitcoin flirts with a new all-time high, BCH, BSV, and BRC-20s are also on fire.",
-          "link": "https://decrypt.co/220100/bitcoin-bch-bsv-brc-20-ordinals-gains",
-          "publishedOn": "2024-03-04T18:54:20.000Z",
-          "wordCount": 9964,
-          "title": "Bitcoin Hardforks BCH, BSV Outpace BTC Gains",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/03/Bitcoin-Tide-Lifts-All-Boats-Jason-Nelson-Decrypt-gID_7.jpg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/03/Bitcoin-Tide-Lifts-All-Boats-Jason-Nelson-Decrypt-gID_7.jpg@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=220090",
-          "author": "Andrew Throuvalas",
-          "description": "Binance executives were reportedly detained in Nigeria last week. Now parliament is seeking the arrest of more amid a demand a $10 billion demand.",
-          "link": "https://decrypt.co/220090/nigeria-demands-arrests-binance-execs-crypto-crackdown",
-          "publishedOn": "2024-03-04T18:11:57.000Z",
-          "wordCount": 9832,
-          "title": "Nigeria Demands Arrests of Binance Execs as Crypto Crackdown Intensifies",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/09/Webp.net-resizeimage-57-gID_7.jpg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/09/Webp.net-resizeimage-57-gID_7.jpg@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=220076",
-          "author": "Sander Lutz",
-          "description": "The sale marks the second-largest on-chain purchase for a CryptoPunks purchase to date, and one of the most expensive NFT sales ever.",
-          "link": "https://decrypt.co/220076/someone-bought-cryptopunks-nft-16-million-ethereum",
-          "publishedOn": "2024-03-04T16:41:04.000Z",
-          "wordCount": 10581,
-          "title": "Someone Just Bought a CryptoPunks NFT for $16 Million in Ethereum",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/02/cryptopunks-cash-gID_7.png@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/02/cryptopunks-cash-gID_7.png@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=205392",
-          "author": "Andrew Hayward",
-          "description": "UPDATE: With Bitcoin heading towards an all-time high price, here's an expanded list of games that pay out BTC rewards.",
-          "link": "https://decrypt.co/205392/bitcoin-booming-you-earn-more-playing-free-games",
-          "publishedOn": "2024-03-04T14:47:30.000Z",
-          "wordCount": 12662,
-          "title": "Bitcoin Is Booming—You Can Earn More by Playing These Free Games",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/11/bitcoin-gaming-shutterstock-gID_7.png@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/11/bitcoin-gaming-shutterstock-gID_7.png@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=220044",
-          "author": "Decrypt Staff",
-          "description": "With Bitcoin approaching its all-time high, meme coins are following in its wake with double-digit gains in the past day.",
-          "link": "https://decrypt.co/220044/pepe-dogecoin-bonk-meme-coin-gains",
-          "publishedOn": "2024-03-04T12:00:59.000Z",
-          "wordCount": 9945,
-          "title": "PEPE, Dogecoin, BONK Lead Double-Digit Meme Coin Gains",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/06/Image-2-gID_7.jpg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/06/Image-2-gID_7.jpg@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=220041",
-          "author": "Stacy Elliott",
-          "description": "Now 91% of Ethereum is \"in the money\" according to data from blockchain analytics firm IntotheBlock.",
-          "link": "https://decrypt.co/220041/ethereum-reaches-3500-just-days-before-dencun-upgrade",
-          "publishedOn": "2024-03-04T10:40:10.000Z",
-          "wordCount": 10136,
-          "title": "Ethereum Hits $3,500 Just Days Before Dencun Upgrade",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/11/ethereum-price-gID_7.jpg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/11/ethereum-price-gID_7.jpg@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=220030",
-          "author": "Stacy Elliott",
-          "description": "Bitcoin inched past $65K early Monday morning and set a new all-time high in Europe. It's now within 6% of setting a new USD all-time high.",
-          "link": "https://decrypt.co/220030/bitcoin-65000-now-6-percent-away-from-ath",
-          "publishedOn": "2024-03-04T09:13:57.000Z",
-          "wordCount": 10852,
-          "title": "Bitcoin Reaches $65,000—Now Only 6% Away From Its All-Time High",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/03/bitcoin-btc-golden-sitting-on-cash-usd-scaled-gID_7.jpg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/03/bitcoin-btc-golden-sitting-on-cash-usd-scaled-gID_7.jpg@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=220015",
-          "author": "Andrew Hayward",
-          "description": "Catch up on this week’s biggest crypto and NFT gaming news and find some weekend reads in our latest roundup.",
-          "link": "https://decrypt.co/220015/this-week-crypto-games-portal-airdrop-parallel-open-beta",
-          "publishedOn": "2024-03-03T16:53:06.000Z",
-          "wordCount": 11771,
-          "title": "This Week in Crypto Games: Portal Airdrop Begins, Ethereum Card Battler 'Parallel' Opens Up",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/12/airplane-airdrop-ai-gID_7.png@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/12/airplane-airdrop-ai-gID_7.png@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=219921",
-          "author": "Sander Lutz",
-          "description": "The Dencun upgrade is one developers say they’ve been \"dreaming of\" that will permanently revolutionize what it means to build on Ethereum.",
-          "link": "https://decrypt.co/219921/how-much-cheaper-dencun-ethereum-ecosystem",
-          "publishedOn": "2024-03-03T15:01:02.000Z",
-          "wordCount": 12428,
-          "title": "How Much Cheaper Will Dencun Really Make the Ethereum Ecosystem?",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/11/Ethereum-Wallet-shutterstock_1077301571-16x9-1-gID_7.jpg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/11/Ethereum-Wallet-shutterstock_1077301571-16x9-1-gID_7.jpg@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=219999",
-          "author": "Andrew Hayward",
-          "description": "From Portal to Pixels, these are the new video game and gaming platform tokens that have made the biggest impact in 2024.",
-          "link": "https://decrypt.co/219999/biggest-crypto-gaming-tokens-launched-2024",
-          "publishedOn": "2024-03-03T13:31:02.000Z",
-          "wordCount": 10983,
-          "title": "Biggest Crypto Gaming Tokens Launched in 2024—So Far",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/11/9884c9a8-8f8c-42f9-8364-6597d4982494-Cropped-gID_7.jpg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/11/9884c9a8-8f8c-42f9-8364-6597d4982494-Cropped-gID_7.jpg@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=219978",
-          "author": "Sander Lutz",
-          "description": "As BTC soared closer to its all-time high for the first time in years, many crypto users noted telltale signs that bull market madness had returned to the industry.",
-          "link": "https://decrypt.co/219978/this-week-on-crypto-twitter-bitcoin-surge-triggers-bull-market-delirium",
-          "publishedOn": "2024-03-03T12:01:02.000Z",
-          "wordCount": 11346,
-          "title": "This Week on Crypto Twitter: Bitcoin Surge Triggers Bull Market Delirium",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/02/bitcoin-btc-flat-trendline-studio-ligthing-scaled-gID_7.jpg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/02/bitcoin-btc-flat-trendline-studio-ligthing-scaled-gID_7.jpg@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=219981",
-          "author": "Sander Lutz",
-          "description": "DeFi protocols, incentivized gaming ecosystems, and meme coins are already dominating the Blast ecosystem in the first days.",
-          "link": "https://decrypt.co/219981/blast-7-hottest-projects-airdrops-ethereum-scaler",
-          "publishedOn": "2024-03-02T19:35:35.000Z",
-          "wordCount": 12320,
-          "title": "Blast: 7 of the Hottest Projects and Airdrops on the Ethereum Scaler",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/02/blast-apps-gID_7.jpeg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/02/blast-apps-gID_7.jpeg@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=211029",
-          "author": "Andrew Hayward",
-          "description": "UPDATED: The Portal and Pixels airdrops have taken place, but there are still several gaming token airdrops on the horizon. Here's the latest.",
-          "link": "https://decrypt.co/211029/game-on-hottest-upcoming-gaming-token-airdrops",
-          "publishedOn": "2024-03-02T16:36:44.000Z",
-          "wordCount": 13734,
-          "title": "Game On: The Hottest Upcoming Gaming Token Airdrops",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/12/airdrop-giant-hand-gID_7.png@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/12/airdrop-giant-hand-gID_7.png@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=219776",
-          "author": "Jose Antonio Lanz",
-          "description": "This relatively unknown challenger is ready to take the crown, excelling where the most popular image generators fail.",
-          "link": "https://decrypt.co/219776/ideogram-is-a-new-ai-image-generator-that-obliterates-the-competition-outperforming-midjourney-and-dall-e-3",
-          "publishedOn": "2024-03-02T14:01:02.000Z",
-          "wordCount": 14385,
-          "title": "Ideogram Is A New AI Image Generator That Obliterates the Competition, Outperforming MidJourney and Dall-E 3",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/02/7B0GIyXESli-i4xsGH2GDA-gID_7.png@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/02/7B0GIyXESli-i4xsGH2GDA-gID_7.png@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=219943",
-          "author": "Jason Nelson",
-          "description": "A shadowy figure has amassed 54,164 BTC, stirring curiosity in the crypto community as the market heats up.",
-          "link": "https://decrypt.co/219943/who-is-mr-100-the-mysterious-bitcoin-whale-that-now-holds-3-billion",
-          "publishedOn": "2024-03-02T13:01:02.000Z",
-          "wordCount": 10201,
-          "title": "Who Is ‘Mr 100’, the Mysterious Bitcoin Whale That Now Holds $3 Billion?",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/03/Decrypt-Wallpaper-Format-1600-x-900-px-42-gID_7.png@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/03/Decrypt-Wallpaper-Format-1600-x-900-px-42-gID_7.png@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=219883",
-          "author": "Mathew Di Salvo",
-          "description": "As Bitcoin roared, Ethereum, Solana, and Dogecoin also made big gains.",
-          "link": "https://decrypt.co/219883/this-week-in-coins-bitcoin-rallies-but-dogecoin-and-other-memes-steal-the-show",
-          "publishedOn": "2024-03-02T12:01:02.000Z",
-          "wordCount": 9699,
-          "title": "This Week in Coins: Bitcoin Rallies But Dogecoin and Other Memes Steal the Show",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/12/bitcoin-price-21000-gID_7.jpg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/12/bitcoin-price-21000-gID_7.jpg@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=219959",
-          "author": "Jason Nelson",
-          "description": "Peirce expressed frustration over delayed action on Bitcoin ETFs—but remained mum on the prospects of an Ethereum equivalent.",
-          "link": "https://decrypt.co/219959/sec-hester-peirce-regulation-by-enforcement-strange-eth-denver",
-          "publishedOn": "2024-03-02T00:33:39.000Z",
-          "wordCount": 11128,
-          "title": "SEC's Hester Peirce Says Regulator's Approach to Crypto Has Been ’Strange’",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/10/sec-hester-peirce-gID_7.jpeg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/10/sec-hester-peirce-gID_7.jpeg@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=219954",
-          "author": "Andrew Throuvalas",
-          "description": "After outperforming BTC last year, Bitcoin miners now look stagnant against the digital currency.",
-          "link": "https://decrypt.co/219954/bitcoin-mining-company-shares-lag-behind-bitcoin-etf",
-          "publishedOn": "2024-03-01T22:43:20.000Z",
-          "wordCount": 10181,
-          "title": "Bitcoin Miners Are Struggling After ETF Launch—Except One",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/02/Bitcoin-mining-1-gID_7.jpg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/02/Bitcoin-mining-1-gID_7.jpg@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=219923",
-          "author": "Andrew Hayward",
-          "description": "NFT Worlds was forced to pivot away from Minecraft, but now called Hytopia, the project is about to launch the game on its own chain.",
-          "link": "https://decrypt.co/219923/minecraft-banned-nfts-worlds-built-crypto-game-instead",
-          "publishedOn": "2024-03-01T21:46:07.000Z",
-          "wordCount": 13441,
-          "title": "Minecraft Banned NFTs—So ‘NFT Worlds’ Built Its Own Crypto Game Instead",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/03/hychain-gID_7.jpeg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/03/hychain-gID_7.jpeg@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=219920",
-          "author": "Mathew Di Salvo",
-          "description": "Saylor revealed in 2020 how many digital coins he’d bought for himself, and that stash has since ballooned in value.",
-          "link": "https://decrypt.co/219920/michael-saylor-personal-bitcoin-stash-now-worth-over-1-billion",
-          "publishedOn": "2024-03-01T21:01:02.000Z",
-          "wordCount": 10367,
-          "title": "Michael Saylor's Bitcoin Holdings May Now Be Worth Over $1 Billion",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/04/michael-saylor-bitcoin-lightning-gID_7.jpeg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/04/michael-saylor-bitcoin-lightning-gID_7.jpeg@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=219919",
-          "author": "Andrew Throuvalas",
-          "description": "U.S. miners will no longer be forced to disclose energy related data to federal energy officials.",
-          "link": "https://decrypt.co/219919/bitcoin-mining-survey-killed",
-          "publishedOn": "2024-03-01T20:45:52.000Z",
-          "wordCount": 9790,
-          "title": "Bitcoin Miners Halt Government Survey of Energy Use After Court Challenge",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/01/shutterstock_710783008-gID_7.png@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/01/shutterstock_710783008-gID_7.png@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=219905",
-          "author": "Andrew Hayward",
-          "description": "Waiting for the on-chain NOT token to launch? Make sure you keep playing, otherwise your mined Notcoins could vanish.",
-          "link": "https://decrypt.co/219905/telegram-game-notcoin-purge-inactive-accounts-token-airdrop",
-          "publishedOn": "2024-03-01T18:52:56.000Z",
-          "wordCount": 10553,
-          "title": "Telegram Game ‘Notcoin’ Will Purge Inactive Accounts Daily Ahead of Token Airdrop",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/03/notcoin-gID_7.png@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/03/notcoin-gID_7.png@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=217481",
-          "author": "Decrypt Staff",
-          "description": "Nolus Protocol aims to address the inefficiencies of DeFi lending and borrowing with a new concept, the DeFi Lease. Here's how it works.",
-          "link": "https://decrypt.co/resources/what-is-nolus-how-the-defi-leasing-platform-simplifies-crypto-lending",
-          "publishedOn": "2024-03-01T16:57:26.000Z",
-          "wordCount": 10986,
-          "title": "What is Nolus? How the DeFi Leasing Platform Simplifies Crypto Lending",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/02/nolus-gID_5-pID_6.png@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/02/nolus-gID_5-pID_6.png@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=219873",
-          "author": "Andrew Hayward",
-          "description": "Pixels is embracing SocialFi with features that will tie into overhauled resource generation, giving the Ronin game a competitive edge.",
-          "link": "https://decrypt.co/219873/pixels-guilds-massively-change-cryptos-hottest-game",
-          "publishedOn": "2024-03-01T15:41:39.000Z",
-          "wordCount": 11217,
-          "title": "How 'Pixels' Guilds Will Massively Change Crypto's Hottest Game",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/02/pixels-game-screen-gID_7.png@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/02/pixels-game-screen-gID_7.png@png"
-        },
-        {
-          "id": "https://decrypt.co/videos/interviews/pDipznta/interview-how-socialfi-will-transform-crypto-farming-game-pixels",
-          "author": null,
-          "description": "Pixels founder Luke Barwikowski joins Decrypt's Andrew Hayward to discuss how the Ronin-based farming game will be transformed through the addition of guilds and changes to resource generation. They also discuss his ultimate vision for Pixels and his team. Note: This interview was recorded shortly before the PIXEL token launch.",
-          "link": "https://decrypt.co/videos/interviews/pDipznta/interview-how-socialfi-will-transform-crypto-farming-game-pixels",
-          "publishedOn": "2024-03-01T15:00:00.000Z",
-          "wordCount": 6864,
-          "title": "Interview: How SocialFi Will Transform Crypto Farming Game 'Pixels'",
-          "enclosure": {
-            "url": "https://cdn.jwplayer.com/v2/media/pDipznta/poster.jpg",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.jwplayer.com/v2/media/pDipznta/poster.jpg"
-        },
-        {
-          "id": "https://decrypt.co/videos/interviews/IdyVeqvK/orangie-plays-the-otherside-apes-come-home-game-event-with-his-bored-ape",
-          "author": null,
-          "description": "Rug Radio creator Orangie checked out the limited-time \"Apes Come Home\" event in Otherside, the Bored Ape metaverse game, and got to use his own Ape avatar. Was it worth the $75K he spent for the NFT? Check out his impressions of the experience.",
-          "link": "https://decrypt.co/videos/interviews/IdyVeqvK/orangie-plays-the-otherside-apes-come-home-game-event-with-his-bored-ape",
-          "publishedOn": "2024-02-29T23:03:43.000Z",
-          "wordCount": 6858,
-          "title": "Orangie Plays the 'Otherside' Apes Come Home Game Event With His Bored Ape",
-          "enclosure": {
-            "url": "https://cdn.jwplayer.com/v2/media/IdyVeqvK/poster.jpg",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.jwplayer.com/v2/media/IdyVeqvK/poster.jpg"
-        },
-        {
-          "id": "https://decrypt.co/videos/interviews/UeOWvV0c/this-is-the-age-of-creators-how-dastan-is-fixing-the-broken-media-industry",
-          "author": null,
-          "description": "Following the launch of decentralized media publishing company DASTAN, its President Farokh Sarmad, CEO Loxley Fernandes, and COO Quinn Button, Ph. D joined Decrypt reporter Sander Lutz and The Nifty & BoDoggos Founder and Partner Easy to talk about the future of media.",
-          "link": "https://decrypt.co/videos/interviews/UeOWvV0c/this-is-the-age-of-creators-how-dastan-is-fixing-the-broken-media-industry",
-          "publishedOn": "2024-02-29T15:33:01.000Z",
-          "wordCount": 6859,
-          "title": "'This is the Age of Creators': How DASTAN is Fixing the 'Broken' Media Industry",
-          "enclosure": {
-            "url": "https://cdn.jwplayer.com/v2/media/UeOWvV0c/poster.jpg",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.jwplayer.com/v2/media/UeOWvV0c/poster.jpg"
-        },
-        {
-          "id": "https://decrypt.co/videos/interviews/0Wx2bcVa/inside-the-mind-of-a-web3-gamer",
-          "author": null,
-          "description": "Saro McKenna, Co-Founder of Alien Worlds, Linda Ang, Head of Strategy at Aelf, and Sami Chlagou, CEO of Cross the Ages joined Stephen Graves at NFT Paris to explore the profile of the Web3 gamer, the evolving landscape of Web3 gaming and the transition between Web2 and Web3 gaming.",
-          "link": "https://decrypt.co/videos/interviews/0Wx2bcVa/inside-the-mind-of-a-web3-gamer",
-          "publishedOn": "2024-02-29T13:39:26.000Z",
-          "wordCount": 6847,
-          "title": "Inside The Mind Of a Web3 Gamer",
-          "enclosure": {
-            "url": "https://cdn.jwplayer.com/v2/media/0Wx2bcVa/poster.jpg",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.jwplayer.com/v2/media/0Wx2bcVa/poster.jpg"
-        },
-        {
-          "id": "https://decrypt.co/videos/interviews/xz9F8Lct/casper-network-opening-a-new-world-of-possibilities-beyond-enterprise-users",
-          "author": null,
-          "description": "Casper Network's Director of Ecosystem Alizee Carli and Head of Content Joe Benso join Stephen Graves at NFT Paris to talk about how the Layer 1 blockchain is expanding beyond its enterprise user base to Web3-native projects.",
-          "link": "https://decrypt.co/videos/interviews/xz9F8Lct/casper-network-opening-a-new-world-of-possibilities-beyond-enterprise-users",
-          "publishedOn": "2024-02-27T15:44:13.000Z",
-          "wordCount": 6811,
-          "title": "Casper Network: Opening a 'New World of Possibilities' Beyond Enterprise Users",
-          "enclosure": {
-            "url": "https://cdn.jwplayer.com/v2/media/xz9F8Lct/poster.jpg",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.jwplayer.com/v2/media/xz9F8Lct/poster.jpg"
-        },
-        {
-          "id": "https://decrypt.co/videos/interviews/HHwsvcei/vaneck-web3-lead-tokenized-real-estate-the-holy-grail",
-          "author": null,
-          "description": "VanEck's Head of NFT Community and Web3, Matt Bartlett, joined Stephen Graves at NFT Paris to discuss the launch of its new NFT platform Segment.io, and the need for regulatory clarity in the NFT space.",
-          "link": "https://decrypt.co/videos/interviews/HHwsvcei/vaneck-web3-lead-tokenized-real-estate-the-holy-grail",
-          "publishedOn": "2024-02-27T13:05:02.000Z",
-          "wordCount": 6789,
-          "title": "VanEck Web3 Lead: Tokenized Real Estate the 'Holy Grail'",
-          "enclosure": {
-            "url": "https://cdn.jwplayer.com/v2/media/HHwsvcei/poster.jpg",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.jwplayer.com/v2/media/HHwsvcei/poster.jpg"
-        },
-        {
-          "id": "https://decrypt.co/videos/interviews/uY3bIt1R/orangie-plays-dookey-dash-unclogged-the-bored-ape-game-with-over-1-million-in-prizes",
-          "author": null,
-          "description": "Rug Radio creator Orangie shares a first look at an early version of Dookey Dash: Unclogged, the new free-to-play version of 2023's crypto gaming sensation. Yuga Labs is releasing the new version of the game this spring with over $1 million in prizes up for grabs.",
-          "link": "https://decrypt.co/videos/interviews/uY3bIt1R/orangie-plays-dookey-dash-unclogged-the-bored-ape-game-with-over-1-million-in-prizes",
-          "publishedOn": "2024-02-26T22:37:55.000Z",
-          "wordCount": 6880,
-          "title": "Orangie Plays 'Dookey Dash: Unclogged,' the Bored Ape Game With Over $1 Million in Prizes",
-          "enclosure": {
-            "url": "https://cdn.jwplayer.com/v2/media/uY3bIt1R/poster.jpg",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.jwplayer.com/v2/media/uY3bIt1R/poster.jpg"
-        },
-        {
-          "id": "https://decrypt.co/videos/interviews/spD1tCwb/how-paris-saint-germain-fc-joined-chiliz-as-a-validator",
-          "author": null,
-          "description": "Chiliz Chief Strategy Officer Max Rabinovitch joined Decrypt's Stephen Graves at NFT Paris to discuss Paris Saint-Germain FC joining its network as a validator, and how consequential Web3 adoption in sport will come from the grassroots.",
-          "link": "https://decrypt.co/videos/interviews/spD1tCwb/how-paris-saint-germain-fc-joined-chiliz-as-a-validator",
-          "publishedOn": "2024-02-26T15:16:27.000Z",
-          "wordCount": 6794,
-          "title": "How Paris Saint-Germain FC Joined Chiliz as a Validator",
-          "enclosure": {
-            "url": "https://cdn.jwplayer.com/v2/media/spD1tCwb/poster.jpg",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.jwplayer.com/v2/media/spD1tCwb/poster.jpg"
-        },
-        {
-          "id": "https://decrypt.co/videos/interviews/Vf77nhXF/the-sandbox-co-founder-sebastien-borget-the-future-of-gaming-is-user-generated-content",
-          "author": null,
-          "description": "Sébastien Borget, COO and co-founder of The Sandbox, joined Decrypt's Stephen Graves at NFT Paris to talk about the metaverse platform's launch of user-generated content, AI in gaming, and open metaverse standards.",
-          "link": "https://decrypt.co/videos/interviews/Vf77nhXF/the-sandbox-co-founder-sebastien-borget-the-future-of-gaming-is-user-generated-content",
-          "publishedOn": "2024-02-26T13:00:16.000Z",
-          "wordCount": 6792,
-          "title": "The Sandbox Co-Founder Sébastien Borget: 'The Future of Gaming is User-Generated Content'",
-          "enclosure": {
-            "url": "https://cdn.jwplayer.com/v2/media/Vf77nhXF/poster.jpg",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.jwplayer.com/v2/media/Vf77nhXF/poster.jpg"
-        },
-        {
-          "id": "https://decrypt.co/videos/interviews/IDoFDfZy/calladita-director-miguel-faus-how-web3-filmmaking-is-taking-the-castle",
-          "author": null,
-          "description": "Miguel Faus, director of NFT-funded feature film \"Calladita,\" joined Decrypt's Stephen Graves at NFT Paris to talk about the film's recent premiere and how the \"radically independent\" decentralized Film3 movement is evolving.",
-          "link": "https://decrypt.co/videos/interviews/IDoFDfZy/calladita-director-miguel-faus-how-web3-filmmaking-is-taking-the-castle",
-          "publishedOn": "2024-02-24T16:18:13.000Z",
-          "wordCount": 6786,
-          "title": "'Calladita' Director Miguel Faus: How Web3 Filmmaking is 'Taking the Castle'",
-          "enclosure": {
-            "url": "https://cdn.jwplayer.com/v2/media/IDoFDfZy/poster.jpg",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.jwplayer.com/v2/media/IDoFDfZy/poster.jpg"
-        },
-        {
-          "id": "https://decrypt.co/videos/interviews/Nh4p6vVD/pudgy-penguins-teams-up-with-unstoppable-domains",
-          "author": null,
-          "description": "Pudgy Penguins CEO Luca Netz and Unstoppable Domains COO Sandy Carter joined Decrypt's Stephen Graves at NFT Paris to talk about the launch of the NFT collection's .pudgy domains, its second line of toys at Walmat, and the upcoming launch of the Pudgy World game.",
-          "link": "https://decrypt.co/videos/interviews/Nh4p6vVD/pudgy-penguins-teams-up-with-unstoppable-domains",
-          "publishedOn": "2024-02-24T11:54:40.000Z",
-          "wordCount": 6827,
-          "title": "Pudgy Penguins Teams Up With Unstoppable Domains",
-          "enclosure": {
-            "url": "https://cdn.jwplayer.com/v2/media/Nh4p6vVD/poster.jpg",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.jwplayer.com/v2/media/Nh4p6vVD/poster.jpg"
-        },
-        {
-          "id": "https://decrypt.co/videos/interviews/26stQqOi/improbable-chief-product-officer-web3-games-need-to-put-experience-game-logic-onchain",
-          "author": null,
-          "description": "Improbable's Rob Whitehead joined Decrypt's Stephen Graves at NFT Paris to talk about the metaverse technology firm's collaborations with blue-chip NFT collections, and how adding tens of thousands of players to a game will work in practice.",
-          "link": "https://decrypt.co/videos/interviews/26stQqOi/improbable-chief-product-officer-web3-games-need-to-put-experience-game-logic-onchain",
-          "publishedOn": "2024-02-23T17:49:42.000Z",
-          "wordCount": 6823,
-          "title": "Improbable Chief Product Officer: Web3 Games Need to Put Experience, Game Logic Onchain",
-          "enclosure": {
-            "url": "https://cdn.jwplayer.com/v2/media/26stQqOi/poster.jpg",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.jwplayer.com/v2/media/26stQqOi/poster.jpg"
-        },
-        {
-          "id": "https://decrypt.co/videos/interviews/eKNX0O8W/ledger-probably-five-years-before-phones-with-fully-integrated-hardware-wallets",
-          "author": null,
-          "description": "Ledger's Chief Experience Officer Ian Rogers sat down with Decrypt's Stephen Graves at NFT Paris to talk security, hacks, and where the current generation of smartphone crypto wallets fall short.",
-          "link": "https://decrypt.co/videos/interviews/eKNX0O8W/ledger-probably-five-years-before-phones-with-fully-integrated-hardware-wallets",
-          "publishedOn": "2024-02-23T16:51:59.000Z",
-          "wordCount": 6776,
-          "title": "Ledger: 'Probably Five Years' Before Phones With Fully Integrated Hardware Wallets",
-          "enclosure": {
-            "url": "https://cdn.jwplayer.com/v2/media/eKNX0O8W/poster.jpg",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.jwplayer.com/v2/media/eKNX0O8W/poster.jpg"
-        },
-        {
-          "id": "https://decrypt.co/videos/interviews/nEJVx7Nn/what-is-notcoin-co-creator-sasha-plotvinov-explains-the-viral-telegram-game-and-token",
-          "author": null,
-          "description": "Notcoin, a simple clicker-style game within messaging app Telegram, has racked up over 25 million players since the start of 2024 and plans to convert the trillions of virtual coins mined so far into a real crypto token on The Open Network. Open Builders founder Sasha Plotvinov joins Decrypt's Andrew Hayward to explain the viral phenomenon.",
-          "link": "https://decrypt.co/videos/interviews/nEJVx7Nn/what-is-notcoin-co-creator-sasha-plotvinov-explains-the-viral-telegram-game-and-token",
-          "publishedOn": "2024-02-22T21:10:00.000Z",
-          "wordCount": 6918,
-          "title": "What Is Notcoin? Co-Creator Sasha Plotvinov Explains the Viral Telegram Game and Token",
-          "enclosure": {
-            "url": "https://cdn.jwplayer.com/v2/media/nEJVx7Nn/poster.jpg",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.jwplayer.com/v2/media/nEJVx7Nn/poster.jpg"
-        },
-        {
-          "id": "https://decrypt.co/videos/interviews/3GbWbSMh/pixels-founder-luke-barwikowski-on-the-games-wild-rise-and-ronin-move",
-          "author": null,
-          "description": "Ahead of the PIXEL token launch, Pixels game founder Luke Barwikowski joins Decrypt's Andrew Hayward to discuss the hectic last few months—and why the game migrated between Ethereum scaling networks, from Polygon to Ronin.",
-          "link": "https://decrypt.co/videos/interviews/3GbWbSMh/pixels-founder-luke-barwikowski-on-the-games-wild-rise-and-ronin-move",
-          "publishedOn": "2024-02-17T15:00:00.000Z",
-          "wordCount": 6802,
-          "title": "'Pixels' Founder Luke Barwikowski on the Game's Wild Rise and Ronin Move",
-          "enclosure": {
-            "url": "https://cdn.jwplayer.com/v2/media/3GbWbSMh/poster.jpg",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.jwplayer.com/v2/media/3GbWbSMh/poster.jpg"
-        },
-        {
-          "id": "https://decrypt.co/videos/interviews/QnxP7O5A/how-arbitrum-won-the-apechain-vote-for-an-apecoin-ethereum-scaler",
-          "author": null,
-          "description": "Offchain Labs co-founder and CEO Steven Goldfeder joined Rug Radio's \"FOMO Hour\" to discuss the ApeCoin DAO's vote to create an Ethereum layer-2 gaming network on Arbitrum for the Bored Ape Yacht Club ecosystem.",
-          "link": "https://decrypt.co/videos/interviews/QnxP7O5A/how-arbitrum-won-the-apechain-vote-for-an-apecoin-ethereum-scaler",
-          "publishedOn": "2024-02-16T21:30:00.000Z",
-          "wordCount": 6796,
-          "title": "How Arbitrum Won the 'ApeChain' Vote for an ApeCoin Ethereum Scaler",
-          "enclosure": {
-            "url": "https://cdn.jwplayer.com/v2/media/QnxP7O5A/poster.jpg",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.jwplayer.com/v2/media/QnxP7O5A/poster.jpg"
-        },
-        {
-          "id": "https://decrypt.co/videos/interviews/LATf5OYs/recommend-to-earn-tokenizing-travel-recommendations-with-sam-simmons",
-          "author": null,
-          "description": "Reza is joined by Sam Simmons, founder of MintPass. \n\n\nThey discuss:\n- The Parallels between Professional Poker and Crypto\n- The profitability of Ethics\n- The \"Recommend-To-Earn\" economy",
-          "link": "https://decrypt.co/videos/interviews/LATf5OYs/recommend-to-earn-tokenizing-travel-recommendations-with-sam-simmons",
-          "publishedOn": "2024-02-15T19:24:17.000Z",
-          "wordCount": 6733,
-          "title": "Recommend-To-Earn: Tokenizing Travel Recommendations with Sam Simmons",
-          "enclosure": {
-            "url": "https://cdn.jwplayer.com/v2/media/LATf5OYs/poster.jpg",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.jwplayer.com/v2/media/LATf5OYs/poster.jpg"
-        },
-        {
-          "id": "https://decrypt.co/videos/interviews/xXQ3TeOk/the-collected-grant-riven-yuns-journey-through-art-and-medicine",
-          "author": null,
-          "description": "The Collected's Rachel Wilkins joins digital artist Grant Riven Yun to explore his remarkable journey blending art with medical studies, to achieve over $2 million in sales.",
-          "link": "https://decrypt.co/videos/interviews/xXQ3TeOk/the-collected-grant-riven-yuns-journey-through-art-and-medicine",
-          "publishedOn": "2024-02-15T13:36:21.000Z",
-          "wordCount": 6755,
-          "title": "The Collected: Grant Riven Yun's Journey Through Art and Medicine",
-          "enclosure": {
-            "url": "https://cdn.jwplayer.com/v2/media/xXQ3TeOk/poster.jpg",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.jwplayer.com/v2/media/xXQ3TeOk/poster.jpg"
-        },
-        {
-          "id": "https://decrypt.co/videos/interviews/TsLkobIU/nifty-island-co-founder-on-why-play-to-airdrop-is-the-games-booster-rocket",
-          "author": null,
-          "description": "Nifty Island co-founder Charles Smith joins Decrypt Culture Editor Andrew Hayward to discuss the game's play-to-airdrop campaign, why token incentives are so important to getting crypto games off the ground, and how the team plans to sustain its growth going forward.",
-          "link": "https://decrypt.co/videos/interviews/TsLkobIU/nifty-island-co-founder-on-why-play-to-airdrop-is-the-games-booster-rocket",
-          "publishedOn": "2024-02-14T22:40:00.000Z",
-          "wordCount": 6831,
-          "title": "Nifty Island Co-Founder on Why Play-to-Airdrop Is the Game's 'Booster Rocket'",
-          "enclosure": {
-            "url": "https://cdn.jwplayer.com/v2/media/TsLkobIU/poster.jpg",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.jwplayer.com/v2/media/TsLkobIU/poster.jpg"
-        }
-      ]
-    },
-    {
       "title": "News",
       "feedUrl": "https://cryptopanic.com/news/rss/",
       "siteUrl": "https://cryptopanic.com/",
       "articles": [
+        {
+          "id": "https://cryptopanic.com/news/19301250/Fantom-Foundation-Seeks-Retrieval-of-Assets-Lost-in-Multichain-Exploit",
+          "author": null,
+          "description": "The Fantom Foundation, the organization associated with the Layer 1 blockchain Fantom, recently shared insights on its efforts to recover funds lost in a major exploit of Multiflow last year. The Fantom Foundation filed a lawsuit against Multichain Foundation, to which the Honorable Registrar...",
+          "link": "https://cryptopanic.com/news/19301250/Fantom-Foundation-Seeks-Retrieval-of-Assets-Lost-in-Multichain-Exploit",
+          "publishedOn": "2024-03-05T08:09:43.000Z",
+          "wordCount": 600,
+          "title": "Fantom Foundation Seeks Retrieval of Assets Lost in Multichain Exploit",
+          "imageUrl": "https://coinedition.com/wp-content/uploads/2022/09/CE-Website-Link.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/19301245/Any-Bitcoin-Pullbacks-Would-Be-a-Gift-As-BTC-Enters-New-Paradigm-Says-Top-Analyst-Heres-Why",
+          "author": null,
+          "description": "A top analyst who caught last year’s crypto breakout believes Bitcoin (BTC) has entered uncharted waters and that big pullbacks are opportunities for long-term holders. In a new strategy session, pseudonymous analyst DonAlt tells his 57,500 YouTube subscribers that the meteoric rise of memecoins...",
+          "link": "https://cryptopanic.com/news/19301245/Any-Bitcoin-Pullbacks-Would-Be-a-Gift-As-BTC-Enters-New-Paradigm-Says-Top-Analyst-Heres-Why",
+          "publishedOn": "2024-03-05T08:04:08.000Z",
+          "wordCount": 608,
+          "title": "Any Bitcoin Pullbacks Would Be a Gift As BTC Enters New Paradigm, Says Top Analyst – Here’s Why",
+          "imageUrl": "https://dailyhodl.com/wp-content/uploads/2024/03/Any-Bitcoin-Pullbacks-Would.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/19301246/Shiba-Inu-Lead-Declares-SHIB-Dominance-Over-XRP-and-Solana",
+          "author": null,
+          "description": "Shiba Inu lead Shytoshi Kusama boldly asserts SHIB's reign over XRP and Solana, signaling seismic shift in crypto landscape",
+          "link": "https://cryptopanic.com/news/19301246/Shiba-Inu-Lead-Declares-SHIB-Dominance-Over-XRP-and-Solana",
+          "publishedOn": "2024-03-05T08:03:00.000Z",
+          "wordCount": 600,
+          "title": "Shiba Inu Lead Declares SHIB Dominance Over XRP and Solana",
+          "imageUrl": "https://u.today/sites/default/files/styles/twitter/public/2024-03/s1660.1.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/19301199/FTX-Places-a-Sell-Wall-for-Solana-at-140-How-can-Gensler-Allow-This",
+          "author": null,
+          "description": "The restructuring officers and bankruptcy attorneys working for the defunct digital asset trading platform FTX were called out on social media platform X (formerly known as Twitter) for placing a sell wall at the $130–$140 price range for its Solana (SOL) holdings. As per crypto commentator and...",
+          "link": "https://cryptopanic.com/news/19301199/FTX-Places-a-Sell-Wall-for-Solana-at-140-How-can-Gensler-Allow-This",
+          "publishedOn": "2024-03-05T07:46:12.000Z",
+          "wordCount": 604,
+          "title": "FTX Places a Sell Wall for Solana at $140, How can Gensler Allow This?",
+          "imageUrl": "https://coinedition.com/wp-content/uploads/2022/09/CE-Website-Link.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/19301217/NFTs-Make-A-Comeback-Pixelated-Artwork-Fetches-Staggering-16M-In-Ethereum",
+          "author": null,
+          "description": "Amid the growing appetite for crypto risk, a single NFT has been sold for a whopping $16 million in Ethereum (CRYPTO: ETH). read more",
+          "link": "https://cryptopanic.com/news/19301217/NFTs-Make-A-Comeback-Pixelated-Artwork-Fetches-Staggering-16M-In-Ethereum",
+          "publishedOn": "2024-03-05T07:31:43.000Z",
+          "wordCount": 601,
+          "title": "NFTs Make A Comeback: Pixelated Artwork Fetches Staggering $16M In Ethereum",
+          "imageUrl": "https://cdn.benzinga.com/files/images/story/2024/Stacked-Cryptocurrency-Coins-bitcoin--Et_4.jpeg?width=1200&height=800&fit=crop"
+        },
+        {
+          "id": "https://cryptopanic.com/news/19301154/Bitcoin-Price-Prediction-Eyes-80000-Amid-ETF-Buzz-MicroStrategys-Bold-Move",
+          "author": null,
+          "description": "Bitcoin's remarkable surge to $68,600 ignites speculations of it surpassing $80,000, bolstered by ETF hopes and MicroStrategy's strategic $600 million investment.",
+          "link": "https://cryptopanic.com/news/19301154/Bitcoin-Price-Prediction-Eyes-80000-Amid-ETF-Buzz-MicroStrategys-Bold-Move",
+          "publishedOn": "2024-03-05T07:22:20.000Z",
+          "wordCount": 602,
+          "title": "Bitcoin Price Prediction: Eyes $80,000 Amid ETF Buzz & MicroStrategy’s Bold Move",
+          "imageUrl": "https://cimg.co/wp-content/uploads/2024/03/05051323/1709615603-5.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/19301175/Former-Trump-Aide-Says-Bidens-Victory-Will-Be-Good-For-Bitcoin-And-For-The-Markets",
+          "author": null,
+          "description": "Anthony Scaramucci, Founder and Managing Partner of SkyBridge Capital on Monday discussed the potential impact of the upcoming 2024 U.S. presidential election on the cryptocurrency market, particularly focusing on Bitcoin (CRYPTO: BTC). read more",
+          "link": "https://cryptopanic.com/news/19301175/Former-Trump-Aide-Says-Bidens-Victory-Will-Be-Good-For-Bitcoin-And-For-The-Markets",
+          "publishedOn": "2024-03-05T07:21:52.000Z",
+          "wordCount": 605,
+          "title": "Former Trump Aide Says Biden's Victory Will Be Good For Bitcoin And 'For The Markets'",
+          "imageUrl": "https://cdn.benzinga.com/files/images/story/2024/Joe-Biden_1.jpeg?width=1200&height=800&fit=crop"
+        },
+        {
+          "id": "https://cryptopanic.com/news/19301130/Bitcoin-BTC-Comes-Close-to-ATH-of-69K-Leaving-450-Million-in-Liquidations",
+          "author": null,
+          "description": "BTC climbed to almost $69,000 for the first time since November 2021.",
+          "link": "https://cryptopanic.com/news/19301130/Bitcoin-BTC-Comes-Close-to-ATH-of-69K-Leaving-450-Million-in-Liquidations",
+          "publishedOn": "2024-03-05T07:13:36.000Z",
+          "wordCount": 603,
+          "title": "Bitcoin (BTC) Comes Close to ATH of $69K, Leaving $450 Million in Liquidations",
+          "imageUrl": "https://cryptopotato.com/wp-content/uploads/2024/02/Bitcoin_Rocket.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/19301127/Grayscales-Bitcoin-Holdings-Drop-by-33-Totaling-926-Billion-Since-ETF-Conversion",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/19301127/Grayscales-Bitcoin-Holdings-Drop-by-33-Totaling-926-Billion-Since-ETF-Conversion",
+          "publishedOn": "2024-03-05T07:11:46.000Z",
+          "wordCount": null,
+          "title": "Grayscale’s Bitcoin Holdings Drop by 33%, Totaling $9.26 Billion Since ETF Conversion",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/19301142/Crypto-Liquidations-Cross-550M-as-Bitcoin-Remains-Volatile-Ahead-of-Historic-Highs",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/19301142/Crypto-Liquidations-Cross-550M-as-Bitcoin-Remains-Volatile-Ahead-of-Historic-Highs",
+          "publishedOn": "2024-03-05T07:10:09.000Z",
+          "wordCount": null,
+          "title": "Crypto Liquidations Cross $550M as Bitcoin Remains Volatile Ahead of Historic Highs",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/19301214/Dogecoin-Fan-Elon-Musk-No-Longer-Worlds-Richest-Person",
+          "author": null,
+          "description": "Elon Musk, the tech magnate whose name is often associated with the meme cryptocurrency Dogecoin, is no longer the world's richest person",
+          "link": "https://cryptopanic.com/news/19301214/Dogecoin-Fan-Elon-Musk-No-Longer-Worlds-Richest-Person",
+          "publishedOn": "2024-03-05T06:59:50.000Z",
+          "wordCount": 599,
+          "title": "Dogecoin Fan Elon Musk No Longer World's Richest Person",
+          "imageUrl": "https://u.today/sites/default/files/styles/twitter/public/2024-03/s1347.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/19301138/Dogecoin-Is-Killing-Shiba-Inu-On-Google-Trends-And-This-Time-With-No-Help-From-Elon-Musk",
+          "author": null,
+          "description": "Dogecoin (CRYPTO: DOGE) saw a significant surge in popularity, outperforming rival Shiba Inu (CRYPTO: SHIB) in Google Trend searches on Monday. read more",
+          "link": "https://cryptopanic.com/news/19301138/Dogecoin-Is-Killing-Shiba-Inu-On-Google-Trends-And-This-Time-With-No-Help-From-Elon-Musk",
+          "publishedOn": "2024-03-05T06:58:06.000Z",
+          "wordCount": 607,
+          "title": "Dogecoin Is Killing Shiba Inu On Google Trends And This Time With No Help From Elon Musk",
+          "imageUrl": "https://cdn.benzinga.com/files/images/story/2024/Dogecoin--Photo-by-Vitalii-Stock-on-Shut.jpeg?width=1200&height=800&fit=crop"
+        },
+        {
+          "id": "https://cryptopanic.com/news/19301137/Bitcoin-To-Hit-150K-By-Year-End-Says-Fundstrats-Tom-Lee-A-Beeline-Back-Towards-Its-Long-Term-Trend-Line",
+          "author": null,
+          "description": "Lee's prediction comes at a time when Bitcoin is on the verge of breaking its all-time high. read more",
+          "link": "https://cryptopanic.com/news/19301137/Bitcoin-To-Hit-150K-By-Year-End-Says-Fundstrats-Tom-Lee-A-Beeline-Back-Towards-Its-Long-Term-Trend-Line",
+          "publishedOn": "2024-03-05T06:56:59.000Z",
+          "wordCount": 608,
+          "title": "Bitcoin To Hit $150K By Year-End, Says Fundstrat's Tom Lee: '...A Beeline Back Towards Its Long-Term Trend Line'",
+          "imageUrl": "https://cdn.benzinga.com/files/images/story/2024/Bitcoin_18.jpeg?width=1200&height=800&fit=crop"
+        },
         {
           "id": "https://cryptopanic.com/news/19301110/ETH-ETFs-Inevitable-in-US-European-Market-Way-Ahead-With-ETH-ETPs",
           "author": null,
@@ -861,6 +144,16 @@
           "wordCount": 602,
           "title": "ETH ETFs “Inevitable” in US, European Market Way Ahead With ETH ETPs",
           "imageUrl": "https://cimg.co/wp-content/uploads/2024/03/05064428/1709621068-1709621030800_processed.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/19301173/This-Blue-Chip-NFT-Sold-for-16-Million-in-Return-to-Risk-On-Crypto-Fever",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/19301173/This-Blue-Chip-NFT-Sold-for-16-Million-in-Return-to-Risk-On-Crypto-Fever",
+          "publishedOn": "2024-03-05T06:52:28.000Z",
+          "wordCount": null,
+          "title": "This ‘Blue-Chip’ NFT Sold for $16 Million in Return to Risk-On Crypto Fever",
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/19301084/Avails-Testnet-Surpasses-100-Million-Transactions-Showcasing-Mainnet-Capability",
@@ -885,22 +178,22 @@
         {
           "id": "https://cryptopanic.com/news/19301068/Virginia-passes-crypto-friendly-bill-to-foster-blockchain-expansion",
           "author": null,
-          "description": "U.S. Virginia Senate Bill No. 339, which aims to create a work group dedicated to study cryptocurrencies, blockchain and crypto mining, received a majority support from Senate.",
+          "description": "",
           "link": "https://cryptopanic.com/news/19301068/Virginia-passes-crypto-friendly-bill-to-foster-blockchain-expansion",
           "publishedOn": "2024-03-05T06:36:08.000Z",
-          "wordCount": 598,
+          "wordCount": null,
           "title": "Virginia passes crypto-friendly bill to foster blockchain expansion",
-          "imageUrl": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2024-03/6d6e489e-db50-4f13-b755-86bf1aefa445.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/19301062/Uniswap-Should-UNI-holders-prepare-for-a-price-slump",
           "author": null,
-          "description": "A whale bought UNI worth millions of dollars, but the token’s bull rally might not continue.",
+          "description": "",
           "link": "https://cryptopanic.com/news/19301062/Uniswap-Should-UNI-holders-prepare-for-a-price-slump",
           "publishedOn": "2024-03-05T06:30:27.000Z",
-          "wordCount": 599,
+          "wordCount": null,
           "title": "Uniswap: Should UNI holders prepare for a price slump?",
-          "imageUrl": "https://statics.ambcrypto.com/wp-content/uploads/2024/03/Uniswap-to-turn-bearish-e1709617117910.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/19301075/Heres-How-Much-100-In-Dogecoin-Today-Could-Be-Worth-If-DOGE-Hits-New-All-Time-Highs",
@@ -911,146 +204,6 @@
           "wordCount": 606,
           "title": "Here's How Much $100 In Dogecoin Today Could Be Worth If DOGE Hits New All-Time Highs",
           "imageUrl": "https://cdn.benzinga.com/files/images/story/2024/Dogecoin--Photo-by-Valerii-Piankovskyi-o.jpeg?width=1200&height=800&fit=crop"
-        },
-        {
-          "id": "https://cryptopanic.com/news/19301070/Crypto-Assets-Under-Management-AUM-Soar-27-to-66B-in-Feb-on-Bitcoin-Strength",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/19301070/Crypto-Assets-Under-Management-AUM-Soar-27-to-66B-in-Feb-on-Bitcoin-Strength",
-          "publishedOn": "2024-03-05T06:24:45.000Z",
-          "wordCount": null,
-          "title": "Crypto Assets Under Management (AUM) Soar 27% to $66B in Feb on Bitcoin Strength",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/19301043/Binance-Futures-Announces-Listing-of-These-Altcoin-Pairs-with-50x-Leverage",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/19301043/Binance-Futures-Announces-Listing-of-These-Altcoin-Pairs-with-50x-Leverage",
-          "publishedOn": "2024-03-05T06:20:08.000Z",
-          "wordCount": null,
-          "title": "Binance Futures Announces Listing of These Altcoin Pairs with 50x Leverage!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/19301033/Bitcoin-ETFs-Trading-Volume-Reaches-55-Billion-on-March-4-Report",
-          "author": null,
-          "description": "The Spot Bitcoin exchange-traded funds have led the ETF market with staggering inflows and remarkable trading volume. While the last week witnessed record-high inflows in ETFs, March 4 marked the second-biggest volume day. In an X post, ETF analyst Eric Balchunas asserted that with a total...",
-          "link": "https://cryptopanic.com/news/19301033/Bitcoin-ETFs-Trading-Volume-Reaches-55-Billion-on-March-4-Report",
-          "publishedOn": "2024-03-05T06:10:45.000Z",
-          "wordCount": 601,
-          "title": "Bitcoin ETFs Trading Volume Reaches $5.5 Billion on March 4: Report",
-          "imageUrl": "https://coinedition.com/wp-content/uploads/2022/09/CE-Website-Link.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/19301023/Coinbase-shares-climb-after-hours-as-exchange-fixes-site-jitters",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/19301023/Coinbase-shares-climb-after-hours-as-exchange-fixes-site-jitters",
-          "publishedOn": "2024-03-05T06:01:24.000Z",
-          "wordCount": null,
-          "title": "Coinbase shares climb after-hours as exchange fixes site jitters",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/19301011/24-Crypto-Update-04-March-Is-Crypto-Balloon-About-to-Burst",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/19301011/24-Crypto-Update-04-March-Is-Crypto-Balloon-About-to-Burst",
-          "publishedOn": "2024-03-05T06:00:00.000Z",
-          "wordCount": null,
-          "title": "24 Crypto Update, 04 March: Is Crypto Balloon About to Burst",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/19301012/Bitcoin-Withdrawals-Surge-as-Exchanges-See-Largest-Outflows-in-5-Years-Amid-Price-Rally",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/19301012/Bitcoin-Withdrawals-Surge-as-Exchanges-See-Largest-Outflows-in-5-Years-Amid-Price-Rally",
-          "publishedOn": "2024-03-05T06:00:00.000Z",
-          "wordCount": null,
-          "title": "Bitcoin Withdrawals Surge as Exchanges See Largest Outflows in 5 Years Amid Price Rally",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/19301061/Fantom-Foundation-Pursues-112M-Asset-Recovery-in-Multichain-Exploit-Case",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/19301061/Fantom-Foundation-Pursues-112M-Asset-Recovery-in-Multichain-Exploit-Case",
-          "publishedOn": "2024-03-05T05:53:18.000Z",
-          "wordCount": null,
-          "title": "Fantom Foundation Pursues $112M Asset Recovery in Multichain Exploit Case",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/19300997/Shiba-Inu-Up-100-Is-the-SHIB-Name-Service-Update-Driving-the-Rally",
-          "author": null,
-          "description": "Shiba Inu (SHIB) has witnessed a 91% surge in price in the past 24 hours and went as high as $0.00004533 at one point, doubling in price. The memecoin’s insane price surge can be attributed to the upcoming debut of the 1.1 version of the Shib Name Service (SNS), which allows holders to get their […]",
-          "link": "https://cryptopanic.com/news/19300997/Shiba-Inu-Up-100-Is-the-SHIB-Name-Service-Update-Driving-the-Rally",
-          "publishedOn": "2024-03-05T05:50:54.000Z",
-          "wordCount": 603,
-          "title": "Shiba Inu Up 100%: Is the SHIB Name Service Update Driving the Rally?",
-          "imageUrl": "https://coinedition.com/wp-content/uploads/2022/09/CE-Website-Link.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/19300991/BRICS-Will-Create-Payment-System-Based-on-Digital-Currencies-and-Blockchain-Report",
-          "author": null,
-          "description": "The five-nation BRICS group comprising Brazil, Russia, India, China and South Africa will work on creating a payment system based on blockchain and digital technologies, a report by Russian news agency TASS said.",
-          "link": "https://cryptopanic.com/news/19300991/BRICS-Will-Create-Payment-System-Based-on-Digital-Currencies-and-Blockchain-Report",
-          "publishedOn": "2024-03-05T05:40:30.000Z",
-          "wordCount": 602,
-          "title": "BRICS Will Create Payment System Based on Digital Currencies and Blockchain: Report",
-          "imageUrl": "https://www.coindesk.com/resizer/U-EvG47No5N5mOxGsd0mrqOxE5M=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/D3PKEMYQTVH2ZHPT7SO75GNURM.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/19300979/Stanfords-Blyth-Fund-allocates-7-of-its-portfolio-to-Bitcoin",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/19300979/Stanfords-Blyth-Fund-allocates-7-of-its-portfolio-to-Bitcoin",
-          "publishedOn": "2024-03-05T05:38:40.000Z",
-          "wordCount": null,
-          "title": "Stanford’s Blyth Fund allocates 7% of its portfolio to Bitcoin",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/19300998/Dogecoin-DOGE-Overtakes-Cardano-ADA-Is-Shiba-Inu-SHIB-Next",
-          "author": null,
-          "description": "Dogecoin (DOGE) has risen to become the eighth-largest cryptocurrency by market cap, surpassing Cardano (ADA) with a valuation of $28 billion",
-          "link": "https://cryptopanic.com/news/19300998/Dogecoin-DOGE-Overtakes-Cardano-ADA-Is-Shiba-Inu-SHIB-Next",
-          "publishedOn": "2024-03-05T05:36:46.000Z",
-          "wordCount": 600,
-          "title": "Dogecoin (DOGE) Overtakes Cardano (ADA). Is Shiba Inu (SHIB) Next?",
-          "imageUrl": "https://u.today/sites/default/files/styles/twitter/public/2024-03/31418.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/19300972/Bitcoin-On-The-Brink-Price-Soars-Above-68000-Will-BTC-Break-Its-2021-Record",
-          "author": null,
-          "description": "On Monday, a flood of capital brought Bitcoin within striking distance of record values, sending it soaring to a two-year high and breaching past $68,000. At its peak, the price was $68,800. At the time of writing, Bitcoin was trading at $67,980, up 6.6% and 20.6% in the daily and weekly...",
-          "link": "https://cryptopanic.com/news/19300972/Bitcoin-On-The-Brink-Price-Soars-Above-68000-Will-BTC-Break-Its-2021-Record",
-          "publishedOn": "2024-03-05T05:28:43.000Z",
-          "wordCount": 605,
-          "title": "Bitcoin On The Brink, Price Soars Above $68,000 – Will BTC Break Its 2021 Record?",
-          "imageUrl": "https://www.newsbtc.com/wp-content/uploads/2024/03/a_f4579b.png"
-        },
-        {
-          "id": "https://cryptopanic.com/news/19300966/These-2-Key-Ethereum-ETFs-Put-on-Ice-as-SEC-Looks-for-Feedback",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/19300966/These-2-Key-Ethereum-ETFs-Put-on-Ice-as-SEC-Looks-for-Feedback",
-          "publishedOn": "2024-03-05T05:09:43.000Z",
-          "wordCount": null,
-          "title": "These 2 Key Ethereum ETFs Put on Ice as SEC Looks for Feedback",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/19300980/Billionaire-Mark-Cuban-Goes-For-Bitcoin-Over-Gold-All-Day-Every-Day",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/19300980/Billionaire-Mark-Cuban-Goes-For-Bitcoin-Over-Gold-All-Day-Every-Day",
-          "publishedOn": "2024-03-05T05:02:45.000Z",
-          "wordCount": null,
-          "title": "Billionaire Mark Cuban Goes For Bitcoin Over Gold ‘All Day, Every Day’",
-          "imageUrl": null
         }
       ]
     },
@@ -1060,12 +213,52 @@
       "siteUrl": "https://www.inoreader.com/stream/user/1005336866/tag/%E6%B5%B7%E5%A4%96%E5%8A%A0%E5%AF%86%E8%B5%84%E8%AE%AF/view/html",
       "articles": [
         {
+          "id": "http://www.inoreader.com/article/3a9c6e74dc760e36",
+          "author": "Jake Simmons",
+          "description": "In a remarkable display of bullish momentum, the Bitcoin (BTC) price has surged, nearly touching its all-time high of $69,044 set in November 2021. The cryptocurrency’s value climbed to an impressive $68,848 before facing a 5% correction, subsequently dropping to $64,200.\n \nHowever, the market swiftly recovered, with BTC trading above $67,000 once again. This surge can be attributed to a combination of factors fueling the upward trajectory. Here, we delve into the five key reasons behind Bitcoin’s recent price movements.\n \n#1 Supply Shock Due To Bitcoin ETF Demand\n \nThe spot Bitcoin ETF market has witnessed yet another day with significant inflows, particularly spotlighting Fidelity and BlackRock, which funneled more than $400 million each into BTC. Fidelity recorded a historic inflow of $…",
+          "link": "https://bitcoinist.com/bitcoin-price-nears-all-time-high-5-key-factors/",
+          "publishedOn": "2024-03-05T07:41:09.000Z",
+          "wordCount": 5410,
+          "title": "Bitcoin Price Nears All-Time High: 5 Key Factors Behind The Surge",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/jpeg",
+            "url": "https://bitcoinist.com/wp-content/uploads/2024/03/DALL·E-2024-03-05-08.21.44-A-captivating-title-image-for-an-article-about-Bitcoins-price-trends-designed-for-a-wide-format.-This-image-should-feature-a-dynamic-digital-landsc.jpg?fit=640,366"
+          },
+          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2024/03/DALL%C2%B7E-2024-03-05-08.21.44-A-captivating-title-image-for-an-article-about-Bitcoins-price-trends-designed-for-a-wide-format.-This-image-should-feature-a-dynamic-digital-landsc.jpg?fit=640,366"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e74dc769f3c",
+          "author": "Terence Zimwara",
+          "description": "Bitdeer, a bitcoin miner, recently announced the launch of what it refers to as its “first cryptocurrency mining chip.” Bitdeer claimed that the chip could potentially improve bitcoin mining performance without excessive power consumption. New Rig to Help Bitcoin Miners Minimize Operational Costs Bitdeer, a leading bitcoin mining firm, has launched what it describes as […]",
+          "link": "https://news.bitcoin.com/bitcoin-miner-bitdeer-says-it-has-launched-its-first-cryptocurrency-mining-chip/",
+          "publishedOn": "2024-03-05T07:36:56.000Z",
+          "wordCount": 204,
+          "title": "Bitcoin Miner Bitdeer Says It Has Launched Its ‘First Cryptocurrency Mining Chip’",
+          "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2024/03/shutterstock_1009585474.jpg"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e74dc71324f",
+          "author": "Shaurya Malwa",
+          "description": "Memecoin futures took on nearly $90 million in liquidations as prices corrected after a massive rally in the past week.",
+          "link": "https://www.coindesk.com/markets/2024/03/05/crypto-liquidations-cross-550m-as-bitcoin-remains-volatile-ahead-of-historic-highs/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2024-03-05T07:17:24.000Z",
+          "wordCount": 10734,
+          "title": "Crypto Liquidations Cross $550M as Bitcoin Remains Volatile Ahead of Historic Highs",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/jpeg",
+            "url": "https://www.coindesk.com/resizer/607uivdkiUHMstsyzcLVi0GcALM=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/5DA6BIKYONGNBGDL22PRL4JK4Q.jpg"
+          },
+          "imageUrl": "https://www.coindesk.com/resizer/607uivdkiUHMstsyzcLVi0GcALM=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/5DA6BIKYONGNBGDL22PRL4JK4Q.jpg"
+        },
+        {
           "id": "http://www.inoreader.com/article/3a9c6e74dc7d56d1",
           "author": "Omkar Godbole",
           "description": "The surging implied volatility has boosted the allure of \"call overwriting\" strategies that allow investors to generate additional yield on top of their spot market holdings.",
           "link": "https://www.coindesk.com/markets/2024/03/05/deribits-bitcoin-volatility-index-signals-further-rally-hits-16-month-high/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2024-03-05T06:45:04.000Z",
-          "wordCount": 10860,
+          "wordCount": 10935,
           "title": "Deribit's Bitcoin Volatility Index Signals Further Rally, Hits 16-Month High",
           "enclosure": {
             "length": "1337",
@@ -1090,7 +283,7 @@
           "description": "The five-nation BRICS group comprising Brazil, Russia, India, China and South Africa will work on creating a payment system based on blockchain and digital technologies, a report by Russian news agency TASS said.",
           "link": "https://www.coindesk.com/policy/2024/03/05/brics-will-create-payment-system-based-on-digital-currencies-and-blockchain-report/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2024-03-05T05:53:25.000Z",
-          "wordCount": 10171,
+          "wordCount": 10233,
           "title": "BRICS Will Create Payment System Based on Digital Currencies and Blockchain: Report",
           "enclosure": {
             "length": "1337",
@@ -1260,7 +453,7 @@
           "description": "Bitcoin's price targets $70,000 in the short term and could reach a new all-time high as soon as this week, analysts said.",
           "link": "https://www.coindesk.com/markets/2024/03/04/bitcoin-tops-67k-nearing-silvers-138t-market-cap/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2024-03-04T22:11:34.000Z",
-          "wordCount": 11027,
+          "wordCount": 11111,
           "title": "Bitcoin Tops $67K, Nearing Silver's $1.38T Market Cap",
           "enclosure": {
             "length": "1337",
@@ -1283,41 +476,6 @@
             "url": "https://bitcoinist.com/wp-content/uploads/2024/03/shutterstock_download-4-3.jpg?fit=390,260"
           },
           "imageUrl": "https://bitcoinist.com/wp-content/uploads/2024/03/shutterstock_download-4-3.jpg?fit=390,260"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e74dc359420",
-          "author": "Nik Hoffman",
-          "description": "Bitdeer, a leading technology firm specializing in Bitcoin mining and high-performance computing, has unveiled the SEAL01, a new mining chip built on a 4-nanometer process technology. The SEAL01 chip boasts a power efficiency ratio of 18.1 J/TH, aiming to set a new standard for energy-efficient Bitcoin mining.\n\nBitdeer has Tested Its 4nm Bitcoin Mining Chip SEAL01\nBitdeer has successfully designed a Bitcoin mining chip, the SEAL01. As a world-leading technology company for blockchain and high-performance computing, Bitdeer (NASDAQ: BTDR) today introduced its first cryptocurrency mining…\n— Bitdeer (@BitdeerOfficial) March 4, 2024\n  \n  \n  \n“With the successful testing of our new mining chip, I am very excited to formally announce the introduction of both the SEAL01 chip and the SEALMINER A1 as core to our new mining machines business,” said Jihan Wu, Founder, Chairman, and Chief Executive Officer of Bitdeer. “These products showcase our technology excellence and position us well for the future.”\nDesigned to enhance Bitcoin mining performance while minimizing power consumption, the SEAL01 chip intends to to lower operating costs for miners. Bitdeer plans to integrate this latest chip into its upcoming mining rig, the SEALMINER A1.\nRecognizing the evolving challenges faced by Bitcoin miners, Bitdeer said it has invested heavily in research and development to create a solution that offers efficiency, stability, scalability, and sustainability. The company's international team of engineers specializes in chip design, firmware, and hardware engineering, aiming to push the boundaries of performance to support the mining community.\nWith preparations underway for the mass production of these mining rigs, Bitdeer says they remains committed to its mission of providing a world-leading, comprehensive Bitcoin mining solution globally and supporting the security and advancement of the Bitcoin network.",
-          "link": "https://bitcoinmagazine.com/business/bitdeer-announces-new-4nm-bitcoin-mining-chip-seal01",
-          "publishedOn": "2024-03-04T22:05:59.000Z",
-          "wordCount": null,
-          "title": "Bitdeer Announces New 4nm Bitcoin Mining Chip SEAL01",
-          "enclosure": {
-            "length": "1337",
-            "type": "image/jpeg",
-            "url": "https://bitcoinmagazine.com/.image/c_fit,h_800,w_1200/MjA0Nzg4Mjk4ODY0OTI4MjQ4/default_bitcoin_mining_0.jpg"
-          },
-          "imageUrl": "https://bitcoinmagazine.com/.image/c_fit,h_800,w_1200/MjA0Nzg4Mjk4ODY0OTI4MjQ4/default_bitcoin_mining_0.jpg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e74dc30c75f",
-          "author": "Jamie Redman",
-          "description": "While bitcoin reached a 2024 high on Monday, rising above the $67,000 per unit range, Coinbase suffered an issue again where customers were seeing zero balances. The news follows the issues Coinbase suffered on Feb. 28, 2024, when customers saw zero balances that day as well. Coinbase Users Encounter Zero Balance Bug Again Coinbase’s trading […]",
-          "link": "https://news.bitcoin.com/coinbase-faces-repeat-zero-balance-glitch-amid-crypto-trading-fervor/",
-          "publishedOn": "2024-03-04T21:40:09.000Z",
-          "wordCount": 223,
-          "title": "Coinbase Faces Repeat Zero Balance Glitch Amid Crypto Trading Fervor",
-          "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2024/03/0.jpg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e74dc335115",
-          "author": "Media",
-          "description": "The crypto market is witnessing a remarkable rally once again. While meme coins like DOGE, SHIB, PEPE, and BONK have been stealing the spotlight with their massive price pumps, Bitcoin has also put on an impressive performance, surging 5% today and breaking through the crucial $65,000 area ahead of the highly anticipated Bitcoin halving event […]",
-          "link": "https://news.bitcoin.com/will-btc-price-break-ath-in-march-green-bitcoins-presale-approaches-2-million-milestone/",
-          "publishedOn": "2024-03-04T21:20:02.000Z",
-          "wordCount": 195,
-          "title": "Will BTC Price Break ATH in March? Green Bitcoin’s Presale Approaches $2 Million Milestone",
-          "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2024/03/122b731c-8dc9-43f6-b62b-367569d13b45.png"
         }
       ]
     }

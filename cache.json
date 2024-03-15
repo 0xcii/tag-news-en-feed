@@ -56,7 +56,7 @@
           "description": "ETFs match last week’s inflows in just 3 days. ETH Dencun upgrade goes, ETH coins broadly fall. ETH L2 costs for trading decrease dramatically. SOL nears $100bn FDV as activity soars. SOL DEX volume now 3x ETH mainnet. MicroStrategy plans $500m raise to buy more BTC. Franklin Templeton releases memecoin paper. AEVO faces FUD about tokenomics.",
           "link": "https://decrypt.co/videos/interviews/DIZFtR67/this-is-the-time-of-sol",
           "publishedOn": "2024-03-14T23:10:16.000Z",
-          "wordCount": 6962,
+          "wordCount": 7185,
           "title": "This is The Time of SOL",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/DIZFtR67/poster.jpg",
@@ -611,7 +611,7 @@
           "description": "ETFs see another $562m net inflow. Fear & Greed hits 90, was above for months in 2021. ETH leads majors, beta-plays take lead in altcoins. BlackRock to start buying BTC in its largest fund. MicroStrategy plans $600m capital raise to buy BTC. BTC flips market cap of Silver. WIF to be listed on Binance, rises 20%. PEPE & WIF mentioned on Bloomberg. Alien Punk sells for $16m, ‘NFTs not dead’. 3 more large NFT sales for $500K.",
           "link": "https://decrypt.co/videos/interviews/jB64PVcH/dogs-on-top",
           "publishedOn": "2024-03-05T18:46:12.000Z",
-          "wordCount": 7049,
+          "wordCount": 7272,
           "title": "DOGS ON TOP!",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/jB64PVcH/poster.jpg",
@@ -656,7 +656,7 @@
           "description": "Following the launch of decentralized media publishing company DASTAN, its President Farokh Sarmad, CEO Loxley Fernandes, and COO Quinn Button, Ph. D joined Decrypt reporter Sander Lutz and The Nifty & BoDoggos Founder and Partner Easy to talk about the future of media.",
           "link": "https://decrypt.co/videos/interviews/UeOWvV0c/this-is-the-age-of-creators-how-dastan-is-fixing-the-broken-media-industry",
           "publishedOn": "2024-02-29T15:33:01.000Z",
-          "wordCount": 7168,
+          "wordCount": 6945,
           "title": "'This is the Age of Creators': How DASTAN is Fixing the 'Broken' Media Industry",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/UeOWvV0c/poster.jpg",
@@ -776,7 +776,7 @@
           "description": "Pudgy Penguins CEO Luca Netz and Unstoppable Domains COO Sandy Carter joined Decrypt's Stephen Graves at NFT Paris to talk about the launch of the NFT collection's .pudgy domains, its second line of toys at Walmat, and the upcoming launch of the Pudgy World game.",
           "link": "https://decrypt.co/videos/interviews/Nh4p6vVD/pudgy-penguins-teams-up-with-unstoppable-domains",
           "publishedOn": "2024-02-24T11:54:40.000Z",
-          "wordCount": 6913,
+          "wordCount": 7136,
           "title": "Pudgy Penguins Teams Up With Unstoppable Domains",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/Nh4p6vVD/poster.jpg",
@@ -808,104 +808,154 @@
       "siteUrl": "https://cryptopanic.com/",
       "articles": [
         {
-          "id": "https://cryptopanic.com/news/19329281/Coinbase-fires-back-at-senators-asking-SEC-to-halt-crypto-ETF-approvals",
+          "id": "https://cryptopanic.com/news/19329344/Massive-Ethereum-Laundering-Operation-North-Korean-Hackers-Exploit-Tornado-Cash-For-12M",
+          "author": null,
+          "description": "In a recent development, North Korean hackers associated with the notorious Lazarus Group have exploited the coin-mixing service Tornado Cash to launder approximately $12 million worth of stolen Ethereum (ETH) within the past 24 hours. The incident follows the theft of $100 million in...",
+          "link": "https://cryptopanic.com/news/19329344/Massive-Ethereum-Laundering-Operation-North-Korean-Hackers-Exploit-Tornado-Cash-For-12M",
+          "publishedOn": "2024-03-15T05:00:40.000Z",
+          "wordCount": 604,
+          "title": "Massive Ethereum Laundering Operation: North Korean Hackers Exploit Tornado Cash For $12M",
+          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2024/03/shutterstock_download-6-4.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/19329348/El-Salvador-President-Nayib-Bukele-Transfers-400M-Worth-BTC-To-Vault-Call-It-Our-First-Bitcoin-Piggy-Bank",
+          "author": null,
+          "description": "The Central American country of El Salvador said it strengthened the security of its Bitcoin (CRYPTO: BTC) investments. What Happened: This week, the nation transferred $400 million in Bitcoin to a safer storage option known as a cold wallet. read more",
+          "link": "https://cryptopanic.com/news/19329348/El-Salvador-President-Nayib-Bukele-Transfers-400M-Worth-BTC-To-Vault-Call-It-Our-First-Bitcoin-Piggy-Bank",
+          "publishedOn": "2024-03-15T04:49:00.000Z",
+          "wordCount": 610,
+          "title": "El Salvador President Nayib Bukele Transfers $400M Worth BTC To Vault: 'Call It Our First Bitcoin Piggy Bank'",
+          "imageUrl": "https://cdn.benzinga.com/files/images/story/2024/Nayib-Bukele-El-Salvador_3.jpeg?width=1200&height=800&fit=crop"
+        },
+        {
+          "id": "https://cryptopanic.com/news/19329318/El-Salvadors-Bitcoin-wallet-gets-sats-cats-and-a-cypherpunk-manifesto",
+          "author": null,
+          "description": "Approximately $700 in satoshis were sent to El Salvador’s new “Bitcoin piggy bank” across dozens of donations.",
+          "link": "https://cryptopanic.com/news/19329318/El-Salvadors-Bitcoin-wallet-gets-sats-cats-and-a-cypherpunk-manifesto",
+          "publishedOn": "2024-03-15T04:30:40.000Z",
+          "wordCount": 603,
+          "title": "El Salvador’s Bitcoin wallet gets sats, cats and a cypherpunk manifesto",
+          "imageUrl": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2024-03/4ebd9efe-32f4-4826-9b34-960fcbfd3a3a.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/19329302/Chainlink-CCIP-revenue-surges-180-over-2-months-amid-massive-adoption",
           "author": null,
           "description": "",
+          "link": "https://cryptopanic.com/news/19329302/Chainlink-CCIP-revenue-surges-180-over-2-months-amid-massive-adoption",
+          "publishedOn": "2024-03-15T04:21:32.000Z",
+          "wordCount": null,
+          "title": "Chainlink CCIP revenue surges 180% over 2 months amid ‘massive adoption’",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/19329305/Bitcoin-Tumbles-to-67K-As-Asia-Begins-Trading-Day",
+          "author": null,
+          "description": "Bitcoin's price has begun a recovery, trading above $68,5K as the day continues.",
+          "link": "https://cryptopanic.com/news/19329305/Bitcoin-Tumbles-to-67K-As-Asia-Begins-Trading-Day",
+          "publishedOn": "2024-03-15T04:19:02.000Z",
+          "wordCount": 601,
+          "title": "Bitcoin Tumbles to $67K As Asia Begins Trading Day",
+          "imageUrl": "https://www.coindesk.com/resizer/F6FKI4thzGkEM_031_4bgxcW6QI=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/WHF7GLYBAFEJVOKRMGLCPUXU54.png"
+        },
+        {
+          "id": "https://cryptopanic.com/news/19329281/Coinbase-fires-back-at-senators-asking-SEC-to-halt-crypto-ETF-approvals",
+          "author": null,
+          "description": "Coinbase chief legal officer Paul Grewal says there’s direct evidence that Ether’s futures and spot markets are just as correlated as Bitcoin, suggesting the senator’s letter is misguided.",
           "link": "https://cryptopanic.com/news/19329281/Coinbase-fires-back-at-senators-asking-SEC-to-halt-crypto-ETF-approvals",
           "publishedOn": "2024-03-15T03:55:45.000Z",
-          "wordCount": null,
+          "wordCount": 604,
           "title": "Coinbase fires back at senators asking SEC to halt crypto ETF approvals",
-          "imageUrl": null
+          "imageUrl": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2024-03/b1408c7b-2d6d-4ef1-a255-a5d344d3d1af.jpg"
         },
         {
           "id": "https://cryptopanic.com/news/19329272/Why-All-Crypto-Wallets-Are-Going-To-Be-Smart-Contract-Wallets",
           "author": null,
-          "description": "Wallets today present a significant challenge in onboarding everyday users to crypto. In response, the industry must prioritize and push the transition towards solutions that are both more user-friendly and much more secure, without sacrificing the decentralized and self-custodial nature that...",
+          "description": "",
           "link": "https://cryptopanic.com/news/19329272/Why-All-Crypto-Wallets-Are-Going-To-Be-Smart-Contract-Wallets",
           "publishedOn": "2024-03-15T03:40:39.000Z",
-          "wordCount": 603,
+          "wordCount": null,
           "title": "Why All Crypto Wallets Are Going To Be Smart Contract Wallets",
-          "imageUrl": "https://dailyhodl.com/wp-content/uploads/2023/10/Shutter-31-Bank-Branches.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/19329279/Bitcoin-Ethereum-Dogecoin-Trade-Mixed-After-Hotter-Inflation-Data-Analyst-Predicts-King-Crypto-To-Reach-500K-As-Spot-ETF-Inflow-Will-Only-Increase-Over-The-Coming-Years",
           "author": null,
-          "description": "Major cryptocurrencies on Thursday experienced mixed trading, with data from macro and on-chain whale movement casting uncertainty over the outlook for the leading cryptocurrency and the broader market. read more",
+          "description": "",
           "link": "https://cryptopanic.com/news/19329279/Bitcoin-Ethereum-Dogecoin-Trade-Mixed-After-Hotter-Inflation-Data-Analyst-Predicts-King-Crypto-To-Reach-500K-As-Spot-ETF-Inflow-Will-Only-Increase-Over-The-Coming-Years",
           "publishedOn": "2024-03-15T03:36:39.000Z",
-          "wordCount": 619,
+          "wordCount": null,
           "title": "Bitcoin, Ethereum, Dogecoin Trade Mixed After Hotter Inflation Data: Analyst Predicts King Crypto To Reach $500K As Spot ETF 'Inflow Will Only Increase Over The Coming Years'",
-          "imageUrl": "https://cdn.benzinga.com/files/images/story/2024/Bitcoin-Ethereum-Dogecoin_7.jpeg?width=1200&height=800&fit=crop"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/19329262/Raoul-Pal-Reveals-Dogwifhat-Holdings-as-WIF-Mounts-Incredible-1600-Upsurge",
           "author": null,
-          "description": "The cryptocurrency inspired by a dog donning a pink beanie quickly gained popularity amid the current surge in crypto values, now with an impressive market capitalization of $3.2 billion.",
+          "description": "",
           "link": "https://cryptopanic.com/news/19329262/Raoul-Pal-Reveals-Dogwifhat-Holdings-as-WIF-Mounts-Incredible-1600-Upsurge",
           "publishedOn": "2024-03-15T03:25:21.000Z",
-          "wordCount": 603,
+          "wordCount": null,
           "title": "Raoul Pal Reveals Dogwifhat Holdings as WIF Mounts Incredible 1,600% Upsurge",
-          "imageUrl": "https://zycrypto.com/wp-content/uploads/2024/03/Raoul-Pal-Reveals-Dogwifhat-Holdings-as-WIF-Mounts-Incredible-1600-Upsurge.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/19329261/Binance-to-Delist-TrueUSD-Trading-Pairs-Amid-Liquidity-Concerns",
           "author": null,
-          "description": "Binance, a leading cryptocurrency exchange, has declared its intention to remove several trading pairs involving...",
+          "description": "",
           "link": "https://cryptopanic.com/news/19329261/Binance-to-Delist-TrueUSD-Trading-Pairs-Amid-Liquidity-Concerns",
           "publishedOn": "2024-03-15T03:22:01.000Z",
-          "wordCount": 601,
+          "wordCount": null,
           "title": "Binance to Delist TrueUSD Trading Pairs Amid Liquidity Concerns",
-          "imageUrl": "https://cryptointelligence.b-cdn.net/wp-content/uploads/2022/05/cropped-LogoMakr-8DGFzX-270x270.png"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/19329248/Samson-Mow-Says-1-Million-BTC-Coming-Very-Soon-But-Warns-Altcoins-Overdue-For-Major-Pullback",
           "author": null,
-          "description": "Former Blockstream CSO and now head of Jan3 Bitcoin-centric firm Samson Mow is a vocal Bitcoin maximalist who anticipates the apex cryptocurrency to hit $1 million “very soon”.",
+          "description": "",
           "link": "https://cryptopanic.com/news/19329248/Samson-Mow-Says-1-Million-BTC-Coming-Very-Soon-But-Warns-Altcoins-Overdue-For-Major-Pullback",
           "publishedOn": "2024-03-15T03:04:15.000Z",
-          "wordCount": 608,
+          "wordCount": null,
           "title": "Samson Mow Says $1 Million BTC Coming ‘Very Soon’ But Warns Altcoins Overdue For Major Pullback",
-          "imageUrl": "https://zycrypto.com/wp-content/uploads/2023/03/Former-Coinbase-CTO-Makes-Massive-Bet-That-Bitcoin-Will-Rampage-Past-1-Million-Within-90-Days.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/19329241/Crypto-Exchange-Fined-31M-By-Dutch-Central-Bank-For-Non-Compliance",
           "author": null,
-          "description": "",
+          "description": "De Nederlandsche Bank (DNB) revealed it imposed an administrative fine on centralized exchange Crypto.com after it allegedly operated and provided crypto services illegally for over two years in the Netherlands. Related Reading: European Crypto Exchange Obtains In-Principle License Approval In...",
           "link": "https://cryptopanic.com/news/19329241/Crypto-Exchange-Fined-31M-By-Dutch-Central-Bank-For-Non-Compliance",
           "publishedOn": "2024-03-15T03:00:46.000Z",
-          "wordCount": null,
+          "wordCount": 602,
           "title": "Crypto Exchange Fined $3.1M By Dutch Central Bank For “Non-Compliance”",
-          "imageUrl": null
+          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2024/03/tingey-injury-law-firm-yCdPU73kGSc-unsplash.jpeg"
         },
         {
           "id": "https://cryptopanic.com/news/19329220/Analyst-claims-MATIC-might-see-extreme-price-hikes-once",
           "author": null,
-          "description": "",
+          "description": "On-chain metrics alongside technical data support a price increase.",
           "link": "https://cryptopanic.com/news/19329220/Analyst-claims-MATIC-might-see-extreme-price-hikes-once",
           "publishedOn": "2024-03-15T02:30:18.000Z",
-          "wordCount": null,
+          "wordCount": 601,
           "title": "Analyst claims MATIC might see ‘extreme’ price hikes once…",
-          "imageUrl": null
+          "imageUrl": "https://ambcrypto.com/wp-content/uploads/2024/03/polygon-matic-1.webp"
         },
         {
           "id": "https://cryptopanic.com/news/19329208/Crypto-Whales-Makes-Over-33-Million-Profit-After-PEPE-Price-Surges-over-1300-in-Six-Months",
           "author": null,
-          "description": "The price of the meme-inspired cryptocurrency $PEPE has surged by more than 1,330% over the past six months, including a rise of over 800% in the last 30-day period, enough for a cryptocurrency whale to make over $3.3 million of profit off the cryptocurrency. According to on-chain analysis...",
+          "description": "",
           "link": "https://cryptopanic.com/news/19329208/Crypto-Whales-Makes-Over-33-Million-Profit-After-PEPE-Price-Surges-over-1300-in-Six-Months",
           "publishedOn": "2024-03-15T02:14:00.000Z",
-          "wordCount": 608,
+          "wordCount": null,
           "title": "Crypto Whales Makes Over $3.3 Million Profit After $PEPE Price Surges over 1,300% in Six Months",
-          "imageUrl": "https://media.cryptoglobe.com/2024/02/stock-market-2616931_1280-768x512.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/19329229/Randcast-On-Chain-Verifiable-Randomness",
           "author": null,
-          "description": "Felix Xu is the Co-Founder of ARPA Network, a decentralized computation network based on threshold cryptography and its use cases.",
+          "description": "",
           "link": "https://cryptopanic.com/news/19329229/Randcast-On-Chain-Verifiable-Randomness",
           "publishedOn": "2024-03-15T02:13:30.000Z",
-          "wordCount": 597,
+          "wordCount": null,
           "title": "Randcast – On-Chain Verifiable Randomness",
-          "imageUrl": "https://bravenewcoin.com/wp-content/uploads/2024/03/bravenewcoin-podcast-478-banner.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/19329178/Coinbase-Wallet-Bolsters-Security-with-Blockaid-Integration-Safeguarding-Over-75-Million-in-User-Funds",
@@ -920,92 +970,42 @@
         {
           "id": "https://cryptopanic.com/news/19329165/BlackRocks-Bitcoin-ETF-sets-daily-volume-record-as-BTC-recoups-slump",
           "author": null,
-          "description": "Nearly 100 million shares of BlackRock’s Bitcoin funds were traded on Thursday, setting a new daily volume record.",
+          "description": "",
           "link": "https://cryptopanic.com/news/19329165/BlackRocks-Bitcoin-ETF-sets-daily-volume-record-as-BTC-recoups-slump",
           "publishedOn": "2024-03-15T01:29:56.000Z",
-          "wordCount": 603,
+          "wordCount": null,
           "title": "BlackRock’s Bitcoin ETF sets daily volume record as BTC recoups slump",
-          "imageUrl": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2024-03/35743ecb-3d17-455c-9471-cf53fc93ed27.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/19329177/Bernstein-Eyes-on-Monster-Crypto-Cycle-That-Could-Take-BTC-to-150000-and-ETH-to-150000-Amid-Unprecedented-Institutional-Adoption",
           "author": null,
-          "description": "",
+          "description": "Financial services firm Bernstein has initiated coverage of online trading platform Robinhood with an “outperform” rating and a price target of $30 per share, citing an anticipated “monster” cryptocurrency market cycle. In a research report, first covered by CoinDesk, Bernstein analysts...",
           "link": "https://cryptopanic.com/news/19329177/Bernstein-Eyes-on-Monster-Crypto-Cycle-That-Could-Take-BTC-to-150000-and-ETH-to-150000-Amid-Unprecedented-Institutional-Adoption",
           "publishedOn": "2024-03-15T01:25:00.000Z",
-          "wordCount": null,
+          "wordCount": 612,
           "title": "Bernstein Eyes on ‘Monster’ Crypto Cycle That Could Take BTC to $150,000 and ETH to $150,000 Amid ‘Unprecedented Institutional Adoption’",
-          "imageUrl": null
+          "imageUrl": "https://www.cryptoglobe.com/assets/img/og-image.png"
         },
         {
           "id": "https://cryptopanic.com/news/19329154/Bitcoin-Is-Not-Fcking-Playing-Games",
           "author": null,
-          "description": "",
+          "description": "Bitcoin price news, Solana, memecoin, and altcoin updates! ITRUST https://itrust.capital/LarkDavis 🔥 GET MY FREE NEWSLETTER 👉 https://cryptolark.co/WEALTH_MASTERY💎 BITGET 👉 $30,000 IN BONUSES ►► https://cryptolark.co/BITGET30K 💸 BYBIT $30,030 BONUS & FEE DISCOUNT 👉 https://cryptolark.co/BYBIT💡💡💡...",
           "link": "https://cryptopanic.com/news/19329154/Bitcoin-Is-Not-Fcking-Playing-Games",
           "publishedOn": "2024-03-15T01:11:25.000Z",
-          "wordCount": null,
+          "wordCount": 598,
           "title": "Bitcoin Is Not F*cking Playing Games",
-          "imageUrl": null
+          "imageUrl": "https://i1.ytimg.com/vi/ph3SLsPuN7s/hqdefault.jpg"
         },
         {
           "id": "https://cryptopanic.com/news/19329145/Price-Prediction-Why-SHIB-DOGA-and-DOGE-Will-Surge-in-2024",
           "author": null,
-          "description": "",
+          "description": "Shiba Inu ($SHIB) and Dogecoin ($DOGE) are set to deliver strong gains to their loyal...",
           "link": "https://cryptopanic.com/news/19329145/Price-Prediction-Why-SHIB-DOGA-and-DOGE-Will-Surge-in-2024",
           "publishedOn": "2024-03-15T01:04:14.000Z",
-          "wordCount": null,
+          "wordCount": 603,
           "title": "Price Prediction: Why $SHIB, $DOGA and $DOGE Will Surge in 2024",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/19329143/Senators-pressure-SECs-Gensler-not-to-approve-any-more-crypto-ETFs",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/19329143/Senators-pressure-SECs-Gensler-not-to-approve-any-more-crypto-ETFs",
-          "publishedOn": "2024-03-15T01:02:51.000Z",
-          "wordCount": null,
-          "title": "Senators pressure SEC’s Gensler not to approve any more crypto ETFs",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/19329144/Check-Your-Wallets-Bitcoin-Ordinals-Runestones-Are-Being-Airdropped",
-          "author": null,
-          "description": "Early Bitcoin Ordinals faithful will be rewarded with 112,383 Runestones airdropped to Bitcoin wallets over the next 48 hours.",
-          "link": "https://cryptopanic.com/news/19329144/Check-Your-Wallets-Bitcoin-Ordinals-Runestones-Are-Being-Airdropped",
-          "publishedOn": "2024-03-15T01:01:19.000Z",
-          "wordCount": 601,
-          "title": "Check Your Wallets: Bitcoin Ordinals Runestones Are Being Airdropped",
-          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2023/12/airplane-airdrop-ai-gID_7.png"
-        },
-        {
-          "id": "https://cryptopanic.com/news/19329189/JMP-Securities-Says-Bitcoin-Could-Hit-280000",
-          "author": null,
-          "description": "JMP Securities projects an unprecedented surge in Bitcoin’s value, potentially reaching $280,000. This prediction comes from the firm’s latest research report. It forecasts a substantial $220 billion influx into spot Bitcoin exchange-traded funds (ETFs) over the next three years. This reflects...",
-          "link": "https://cryptopanic.com/news/19329189/JMP-Securities-Says-Bitcoin-Could-Hit-280000",
-          "publishedOn": "2024-03-15T00:45:00.000Z",
-          "wordCount": 599,
-          "title": "JMP Securities Says Bitcoin Could Hit $280,000",
-          "imageUrl": "https://beincrypto.com/wp-content/uploads/2023/01/bic_Raising-Capital_positive.png.webp"
-        },
-        {
-          "id": "https://cryptopanic.com/news/19329134/El-Salvador-Has-Thousands-More-Bitcoins-Than-Previously-Known",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/19329134/El-Salvador-Has-Thousands-More-Bitcoins-Than-Previously-Known",
-          "publishedOn": "2024-03-15T00:43:26.000Z",
-          "wordCount": null,
-          "title": "El Salvador Has Thousands More Bitcoins Than Previously Known",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/19329125/Crypto-Investors-Ranked-As-Most-Bullish-on-ZAP-RNDR-and-DEFIDO-While-SHIB-and-DOGE-Lag",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/19329125/Crypto-Investors-Ranked-As-Most-Bullish-on-ZAP-RNDR-and-DEFIDO-While-SHIB-and-DOGE-Lag",
-          "publishedOn": "2024-03-15T00:40:29.000Z",
-          "wordCount": null,
-          "title": "Crypto Investors Ranked As Most Bullish on $ZAP, $RNDR and $DEFIDO While $SHIB and $DOGE Lag",
-          "imageUrl": null
+          "imageUrl": "https://cryptointelligence.b-cdn.net/wp-content/uploads/2022/05/cropped-LogoMakr-8DGFzX-270x270.png"
         }
       ]
     },
@@ -1014,6 +1014,36 @@
       "feedUrl": "https://www.inoreader.com/stream/user/1005336866/tag/%E6%B5%B7%E5%A4%96%E5%8A%A0%E5%AF%86%E8%B5%84%E8%AE%AF",
       "siteUrl": "https://www.inoreader.com/stream/user/1005336866/tag/%E6%B5%B7%E5%A4%96%E5%8A%A0%E5%AF%86%E8%B5%84%E8%AE%AF/view/html",
       "articles": [
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e74d5f5e980",
+          "author": "Ronaldo Marquez",
+          "description": "In a recent development, North Korean hackers associated with the notorious Lazarus Group have exploited the coin-mixing service Tornado Cash to launder approximately $12 million worth of stolen Ethereum (ETH) within the past 24 hours. \n \nThe incident follows the theft of $100 million in cryptocurrency from the HTX crypto exchange and its HECO Bridge in November 2023, attributed to the Lazarus Group by blockchain analytics firm Elliptic and other experts.\n \n$100M Crypto Heist And Ethereum Laundering Uncovered\n \nThe Lazarus Group, a well-known cybercrime organization believed to be backed by the North Korean regime, has a long history of conducting high-profile hacking campaigns. \n \nAccording to Elliptic’s latest crypto crime report, in November 2023, the notorious Lazarus Group allegedly o…",
+          "link": "https://bitcoinist.com/ethereum-laundering-north-korean-tornado-cash/",
+          "publishedOn": "2024-03-15T05:06:35.000Z",
+          "wordCount": 5210,
+          "title": "Massive Ethereum Laundering Operation: North Korean Hackers Exploit Tornado Cash For $12M",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/jpeg",
+            "url": "https://bitcoinist.com/wp-content/uploads/2024/03/shutterstock_download-6-4.jpg?fit=462,260"
+          },
+          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2024/03/shutterstock_download-6-4.jpg?fit=462,260"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e74d5f25605",
+          "author": "Sam Reynolds",
+          "description": "Bitcoin's price has begun a recovery, trading above $68,5K as the day continues.",
+          "link": "https://www.coindesk.com/markets/2024/03/15/bitcoin-tumbles-to-67k-as-asia-begins-trading-day/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2024-03-15T04:28:35.000Z",
+          "wordCount": 10608,
+          "title": "Bitcoin Tumbles to $67K As Asia Begins Trading Day",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/png",
+            "url": "https://www.coindesk.com/resizer/JChDDQhYvwRC6noa5fL_3SzKEJg=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/WHF7GLYBAFEJVOKRMGLCPUXU54.png"
+          },
+          "imageUrl": "https://www.coindesk.com/resizer/JChDDQhYvwRC6noa5fL_3SzKEJg=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/WHF7GLYBAFEJVOKRMGLCPUXU54.png"
+        },
         {
           "id": "http://www.inoreader.com/article/3a9c6e74d5ffaf26",
           "author": "Kevin Helms",
@@ -1055,7 +1085,7 @@
           "description": "In a significant development, UK Judge James Mellor has stated that Craig Wright, an Australian entrepreneur, is not Satoshi Nakamoto, the creator of Bitcoin. The verdict came after the conclusion of the Crypto Open Patent Alliance (COPA) trial, during which “overwhelming evidence” was presented to debunk Wright’s claims. \n \nJudge Mellor intends to draft a ruling that solidifies Wright’s lack of association with Bitcoin’s inception, its whitepaper’s authorship, and its technology’s development.\n \nCracks In Satoshi Nakamoto Story\n \nThe COPA trial, which delved into technical and circumstantial evidence, highlighted numerous reasons why Wright could not be considered Satoshi Nakamoto. The evidence presented by COPA not only discredited Wright’s assertions but also shed light on his alleged f…",
           "link": "https://bitcoinist.com/judge-rejects-craig-wrights-claim-to-be-satoshi/",
           "publishedOn": "2024-03-15T01:38:42.000Z",
-          "wordCount": 5426,
+          "wordCount": 5425,
           "title": "Judge Rejects Craig Wright’s Claim To Be Satoshi, Dismisses Authorship Of Bitcoin Whitepaper",
           "enclosure": {
             "length": "1337",
@@ -1070,7 +1100,7 @@
           "description": "The Central American nation moved $400 million in BTC into a cold storage wallet this week.",
           "link": "https://www.coindesk.com/policy/2024/03/15/el-salvador-has-thousands-more-bitcoins-than-previously-known/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2024-03-15T01:14:56.000Z",
-          "wordCount": 10246,
+          "wordCount": 10343,
           "title": "El Salvador Has Thousands More Bitcoins Than Previously Known",
           "enclosure": {
             "length": "1337",
@@ -1085,7 +1115,7 @@
           "description": "Stock appears undervalued given the wide gap between the company’s valuation and its growth prospects, the report said.",
           "link": "https://www.coindesk.com/business/2024/03/14/bitcoin-miner-bitdeer-is-differentiated-from-peers-shares-are-cheap-benchmark/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2024-03-15T00:13:21.000Z",
-          "wordCount": 19133,
+          "wordCount": 19234,
           "title": "Bitcoin Miner Bitdeer Is 'Differentiated' From Peers, Shares Are Cheap: Benchmark",
           "enclosure": {
             "length": "1337",
@@ -1110,7 +1140,7 @@
           "description": "French Montana, recognized as the highest-streaming African-born artist with over 40 billion streams, has set a new precedent in the music and crypto realms by becoming the first mainstream artist to inscribe an entire song into the Bitcoin blockchain. The announcement, made through the Mac & Cheese 5 account on X (formerly Twitter) on March 14, introduces “Bag Curious,” a hidden track from the Mac & Cheese 5 album now permanently inscribed into the world’s most secure decentralized system via Bitcoin’s Proof of Work.\n \nThe Mac & Cheese 5 account detailed the process, stating, “An unreleased track by French Montana titled ‘Bag Curious,’ has been inscribed into Bitcoin, marking him as the first mainstream artist to inscribe a complete song into the most robust cloud system, which is fueled …",
           "link": "https://bitcoinist.com/bitcoin-french-montana-unreleased-song-ordinals/",
           "publishedOn": "2024-03-15T00:08:26.000Z",
-          "wordCount": 5235,
+          "wordCount": 5234,
           "title": "Inscribed In Bitcoin: French Montana Drops Unreleased Song Via Ordinals",
           "enclosure": {
             "length": "1337",
@@ -1145,7 +1175,7 @@
           "description": "As meme coins recovered from their 2023 lows, expectations for coins like Shiba Inu are rising, with price targets being set for $0.0001. Reaching this price level would be a new all-time high for SHIB, but there are a number of factors that will drive the growth needed to reach it.\n \nShiba Inu Needs Demand\n \nThe Shiba Inu price, as with other cryptocurrencies, is highly dependent on the demand to supply ratio. When there is more supply than demand, the price tends to suffer. However, when demand surpasses supply, it leads to a surge in price, which is why demand for the SHIB token is important.\n \n \nSome indicators of rising demand include a rise in the trading volume and in the last 24 hours, the SHIB daily trading volume is up over 33% to reach $2.1 billion. There has also been an increa…",
           "link": "https://bitcoinist.com/shiba-inu-price-0-0001-target/",
           "publishedOn": "2024-03-14T23:06:13.000Z",
-          "wordCount": 5183,
+          "wordCount": 5182,
           "title": "Here’s What The Shiba Inu Price Needs To Cross The $0.0001 Target",
           "enclosure": {
             "length": "1337",
@@ -1170,7 +1200,7 @@
           "description": "Taking to X, one analyst now says Bitcoin is inching closer to a critical juncture. This “Danger Zone” has historically coincided with sharp price corrections before Bitcoin halving events, raising concerns about a potential crash in the coming weeks.\n \nBitcoin Approaching “Danger Zone”\n \nAccording to price charts, Bitcoin is trading above $72,400 when writing. However, as time progresses, the coin is inching closer to the “Danger Zone.” Usually, when prices are at this region, as past price action shows, the coin tends to pull back sharply, unwinding gains. This area is time-based and takes place roughly two to four weeks before halving. \n \n \nThe network will halve its miner rewards in roughly 33 days in mid-April 2024. Therefore, if past price action guides, it is likely that the expecte…",
           "link": "https://bitcoinist.com/bitcoin-pre-halving-danger-zone/",
           "publishedOn": "2024-03-14T21:35:58.000Z",
-          "wordCount": 5172,
+          "wordCount": 5171,
           "title": "Bitcoin Nears Pre-Halving “Danger Zone”: Crash Imminent?",
           "enclosure": {
             "length": "1337",
@@ -1185,7 +1215,7 @@
           "description": "The issuer of the VanEck Bitcoin Trust this week dropped its management fee to zero for a limited time in an attempt to attract more capital to that fund.",
           "link": "https://www.coindesk.com/business/2024/03/14/ether-etfs-could-be-bigger-than-bitcoin-etfs-says-vaneck/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2024-03-14T21:14:04.000Z",
-          "wordCount": 20458,
+          "wordCount": 20564,
           "title": "Ether ETFs Could Be Bigger Than Bitcoin ETFs, Says VanEck",
           "enclosure": {
             "length": "1337",
@@ -1200,7 +1230,7 @@
           "description": "“It hasn't always been easy, but I'm very happy that I stood my ground,” says Hodlonaut of his long legal fight with Craig Wright, who claimed, falsely, to be Satoshi Nakamoto.",
           "link": "https://www.coindesk.com/consensus-magazine/2024/03/14/craig-wright-was-finally-called-out-in-court-and-hodlonaut-is-celebrating/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2024-03-14T21:14:04.000Z",
-          "wordCount": 15756,
+          "wordCount": 15858,
           "title": "Craig Wright Was Finally Called Out in Court and Hodlonaut Is Celebrating",
           "enclosure": {
             "length": "1337",
@@ -1215,7 +1245,7 @@
           "description": "The U.S. Securities and Exchange Commission sued 17 individuals tied to an alleged Ponzi scheme that took in $300 million from over 40,000 victims.",
           "link": "https://www.coindesk.com/policy/2024/03/14/a-300m-ponzi-scheme-that-targeted-latinos-falsely-claimed-to-buy-crypto-sec-says/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2024-03-14T21:14:04.000Z",
-          "wordCount": 9871,
+          "wordCount": 9974,
           "title": "A $300M Ponzi Scheme That Targeted Latinos Falsely Claimed to Buy Crypto, SEC Says",
           "enclosure": {
             "length": "1337",
@@ -1240,7 +1270,7 @@
           "description": "Bitcoin could enter a period of consolidation before its next leg in the rally, observers noted.",
           "link": "https://www.coindesk.com/markets/2024/03/14/bitcoin-slumps-to-4-falling-below-70k-solana-outperforms/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
           "publishedOn": "2024-03-14T20:42:21.000Z",
-          "wordCount": 10879,
+          "wordCount": 10989,
           "title": "Bitcoin Slumps 4%, Falling Below $70K; Solana Outperforms",
           "enclosure": {
             "length": "1337",
@@ -1248,36 +1278,6 @@
             "url": "https://www.coindesk.com/resizer/nMy_bWcaWBnNTTIGU8kS4h83skM=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/YGA2UNAZPNAIVJTAV7MZEZJWEQ.jpg"
           },
           "imageUrl": "https://www.coindesk.com/resizer/nMy_bWcaWBnNTTIGU8kS4h83skM=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/YGA2UNAZPNAIVJTAV7MZEZJWEQ.jpg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e74d5c8ac25",
-          "author": "Jesse Hamilton",
-          "description": "U.S. presidential candidate Donald Trump is the prevailing favorite of voters who own cryptocurrencies, according to a poll commissioned by crypto investment firm Paradigm and released on Thursday.",
-          "link": "https://www.coindesk.com/policy/2024/03/14/trump-is-clear-favorite-among-crypto-owning-voters-in-us-presidential-race-poll/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-          "publishedOn": "2024-03-14T20:34:34.000Z",
-          "wordCount": 10359,
-          "title": "Trump is Clear Favorite Among Crypto-Owning Voters in U.S. Presidential Race: Poll",
-          "enclosure": {
-            "length": "1337",
-            "type": "image/jpeg",
-            "url": "https://www.coindesk.com/resizer/Up2Z2nspejtrsB-AEWT6yugMUME=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/FYK2L7BJBBHT7CWIZUBDZEDZGU.jpg"
-          },
-          "imageUrl": "https://www.coindesk.com/resizer/Up2Z2nspejtrsB-AEWT6yugMUME=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/FYK2L7BJBBHT7CWIZUBDZEDZGU.jpg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e74d5b52141",
-          "author": "Scott Matherson",
-          "description": "The world’s richest man, Elon Musk, has broken his silence on when customers will be allowed to use Dogecoin to purchase Teslas. Musk also explained why he is so fond of the meme coin and has continued to support it all this while. \n \nTesla Will Enable Dogecoin Payments “At Some Point”\n \nWhile addressing employees at the Berlin Gigafactory, Musk mentioned that they will enable Dogecoin payments for Tesla “at some point.” He recognized that DOGE is already used for buying Tesla Merchandise, which he labelled “cool.” The world’s richest man also shared his bullishness on the meme coin, stating, “Dogecoin to the moon.”\n \n \nMusk has been known to have a likeness for the meme coin and has endorsed it at different times. The world’s richest man explained that the reason he continues to endorse t…",
-          "link": "https://bitcoinist.com/elon-musk-tesla-dogecoin/",
-          "publishedOn": "2024-03-14T20:03:30.000Z",
-          "wordCount": 5188,
-          "title": "Elon Musk Breaks Silence On When Tesla Will Accept Dogecoin Payments",
-          "enclosure": {
-            "length": "1337",
-            "type": "image/jpeg",
-            "url": "https://bitcoinist.com/wp-content/uploads/2024/03/Dogecoin_e6242b.jpeg?fit=299,169"
-          },
-          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2024/03/Dogecoin_e6242b.jpeg?fit=299,169"
         }
       ]
     }

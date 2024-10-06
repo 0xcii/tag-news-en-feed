@@ -6,6 +6,21 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=284843",
+          "author": "Ryan Gladwin",
+          "description": "Mikol was hospitalized with third-degree burns after setting himself on fire for his meme coin. Now, five months later, he’s done. Here’s why.",
+          "link": "https://decrypt.co/284843/solana-dev-quits-set-himself-fire",
+          "publishedOn": "2024-10-06T18:31:47.000Z",
+          "wordCount": 12205,
+          "title": "Solana Dev Quits Project He Set Himself on Fire to Pump",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/05/TruthOrDare_DevFireworksBurn-1-gID_4.jpg@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/05/TruthOrDare_DevFireworksBurn-1-gID_4.jpg@png"
+        },
+        {
           "id": "https://decrypt.co/?p=284825",
           "author": "Eric Frederiksen",
           "description": "Forget atmosphere and vibes: These horrifying video games are designed to pump your heart rate and freak you out.",
@@ -101,7 +116,7 @@
           "description": "Coinbase VP of Corporate and Business Development, Shan Aggarwal, joined Decrypt's Sander Lutz and Liz Napolitano at Messari Mainnet 2024 to discuss the exchange's efforts to grow mainstream crypto adoption—and how the changing political conversation around digital assets is rapidly playing a major role in that.",
           "link": "https://decrypt.co/videos/interviews/YR2YmmwR/why-coinbase-sees-crypto-as-a-bipartisan-purple-political-issue",
           "publishedOn": "2024-10-05T22:18:29.000Z",
-          "wordCount": 6912,
+          "wordCount": 6683,
           "title": "Why Coinbase Sees Crypto as a Bipartisan, 'Purple' Political Issue",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/YR2YmmwR/poster.jpg",
@@ -146,7 +161,7 @@
           "description": "Nils Anderson Röed, the exchange’s global head of financial investigations, sat down with Decrypt’s Sander Lutz at Messari Mainnet 2024 to discuss how Binance is proactively dismantling criminal networks around the world, the strategy with which the crypto exchange is approaching sensitive conflicts in the Middle East, and more.",
           "link": "https://decrypt.co/videos/interviews/DiJ8D2Qc/binance-is-playing-offensenot-just-defenseagainst-crypto-crime-says-head-of-financial-investigations",
           "publishedOn": "2024-10-05T01:58:23.000Z",
-          "wordCount": 6945,
+          "wordCount": 6716,
           "title": "Binance Is Playing Offense—Not Just Defense—Against Crypto Crime, Says Head of Financial Investigations",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/DiJ8D2Qc/poster.jpg",
@@ -636,21 +651,6 @@
           "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/09/bitcoin-ethereum-btc-eth-coins-gID_7.png@png"
         },
         {
-          "id": "https://decrypt.co/?p=284424",
-          "author": "Liz Napolitano",
-          "description": "Kalshi previously launched U.S. election prediction markets on September 12 but quickly closed them following an appeals court order.",
-          "link": "https://decrypt.co/284424/kalshi-revives-u-s-election-based-betting",
-          "publishedOn": "2024-10-03T00:34:33.000Z",
-          "wordCount": 9510,
-          "title": "Kalshi Revives US Election-Based Betting for Americans Following Court Freeze",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/06/CFTC-shutterstock_1635562537-16x9-1-scaled-gID_7.jpg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/06/CFTC-shutterstock_1635562537-16x9-1-scaled-gID_7.jpg@png"
-        },
-        {
           "id": "https://decrypt.co/videos/interviews/Bcj37IF2/fomo-hour-210-middle-east-tensions-rise",
           "author": null,
           "description": "Crypto drops as Middle East tensions flare. $500m liquidations in drop. BTC ETFs see largest outflows in a month. Fidelity ETH ETF sees 2nd highest outflow ever. SUI hits 6-month highs, bridge goes live on mainnet. Hashdex set to launch XRP ETF. Wormhole leads altcoin gains after Upbit lists. BTC miners hit record low profits in September Crypto hackers stole $750m in Q3. Telegram has been disclosing IPs since 2018.",
@@ -851,7 +851,7 @@
           "description": "Dustin Stockton is known as the “Godfather of Political Finance” but he wasn’t always known this way. He was originally heavily involved in campaigning for Donald Trump and was the lead organizer of January 6. As the protest came closer, he realized things would go south and backed out. From home, he watched Trump supporters raid the capitol building. He knew his life was never going to be the same.",
           "link": "https://decrypt.co/videos/interviews/eTqwFeNu/how-jan-6-organizer-became-meme-coin-kingpin",
           "publishedOn": "2024-09-17T15:35:29.000Z",
-          "wordCount": 7020,
+          "wordCount": 6791,
           "title": "How Jan 6. Organizer Became Meme Coin Kingpin",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/eTqwFeNu/poster.jpg",
@@ -882,6 +882,46 @@
       "feedUrl": "https://cryptopanic.com/news/rss/",
       "siteUrl": "https://cryptopanic.com/",
       "articles": [
+        {
+          "id": "https://cryptopanic.com/news/19974900/US-moves-to-seize-27-million-from-Lazarus-hacks-traced-through-Tornado-Cash-other-mixers",
+          "author": null,
+          "description": "Law enforcement officials were able to trace millions in laundered cryptocurrency through mixers but failed to seize the majority of the funds.",
+          "link": "https://cryptopanic.com/news/19974900/US-moves-to-seize-27-million-from-Lazarus-hacks-traced-through-Tornado-Cash-other-mixers",
+          "publishedOn": "2024-10-06T19:11:16.000Z",
+          "wordCount": 500,
+          "title": "U.S. moves to seize $2.7 million from Lazarus hacks traced through Tornado Cash, other mixers",
+          "imageUrl": "https://www.tbstat.com/wp/uploads/2023/06/20230606_GeneralFeaturedImage.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/19974896/Crypto-Market-Faces-Setback-Amid-SEC-Appeal-XRP-Leads-Losses",
+          "author": null,
+          "description": "Cryptocurrency markets are reeling as regulatory pressure from the SEC, including an appeal in the Ripple case, drives widespread losses.",
+          "link": "https://cryptopanic.com/news/19974896/Crypto-Market-Faces-Setback-Amid-SEC-Appeal-XRP-Leads-Losses",
+          "publishedOn": "2024-10-06T19:05:00.000Z",
+          "wordCount": 495,
+          "title": "Crypto Market Faces Setback Amid SEC Appeal, XRP Leads Losses",
+          "imageUrl": "https://dailycoin.com/wp-content/uploads/2024/08/Analysts_btc_red_price_chart_joke_Bitcoin-Crash_web-1200x800.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/19974867/Ancient-Bitcoin-Address-Awakens-After-Lying-Low-for-Over-a-Decade-Moves-6113890-in-BTC-at-7222-Profit",
+          "author": null,
+          "description": "An ancient Bitcoin (BTC) whale has just woken up after a nearly 11-year hibernation. Blockchain tracking bot Whale Alert says on the social media platform X that a whale wallet, worth less than $100,000 in 2014, is now worth millions. “A dormant address containing 100 BTC (6,113,890 USD) has...",
+          "link": "https://cryptopanic.com/news/19974867/Ancient-Bitcoin-Address-Awakens-After-Lying-Low-for-Over-a-Decade-Moves-6113890-in-BTC-at-7222-Profit",
+          "publishedOn": "2024-10-06T18:45:26.000Z",
+          "wordCount": 503,
+          "title": "Ancient Bitcoin Address Awakens After Lying Low for Over a Decade, Moves $6,113,890 in BTC at 7,222% Profit",
+          "imageUrl": "https://dailyhodl.com/wp-content/uploads/2023/06/Whales-Accumulate-35000.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/19974859/Solana-Dev-Quits-Project-He-Set-Himself-on-Fire-to-Pump",
+          "author": null,
+          "description": "Mikol was hospitalized with third-degree burns after setting himself on fire for his meme coin. Now, five months later, he’s done. Here’s why.",
+          "link": "https://cryptopanic.com/news/19974859/Solana-Dev-Quits-Project-He-Set-Himself-on-Fire-to-Pump",
+          "publishedOn": "2024-10-06T18:31:47.000Z",
+          "wordCount": 496,
+          "title": "Solana Dev Quits Project He Set Himself on Fire to Pump",
+          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2024/05/TruthOrDare_DevFireworksBurn-1-gID_4.jpg"
+        },
         {
           "id": "https://cryptopanic.com/news/19974810/7-Freaky-Horror-Games-to-Scare-Your-Pants-Off-This-Spooky-Season",
           "author": null,
@@ -1041,46 +1081,6 @@
           "wordCount": 493,
           "title": "Tether’s USDT Marks 10th Anniversary with Documentary Launch",
           "imageUrl": "https://dailycoin.com/wp-content/uploads/2024/05/Tether_Balloons_Girl_Desert_Sky_Sand_Crypto_web.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/19974673/The-Chopping-Block-EigenLayer-Launch-Celestia-Controversy-and-Ethereums-Future-Ep-714",
-          "author": null,
-          "description": "Welcome to The Chopping Block – where crypto insiders Haseeb Qureshi, Tom Schmidt, Tarun Chitra, and Robert Leshner chop it up about the latest in crypto. In this episode, the crew dives into Ethereum’s homestaking crisis and its growing competition from high-throughput chains like Solana. They...",
-          "link": "https://cryptopanic.com/news/19974673/The-Chopping-Block-EigenLayer-Launch-Celestia-Controversy-and-Ethereums-Future-Ep-714",
-          "publishedOn": "2024-10-06T16:00:00.000Z",
-          "wordCount": 498,
-          "title": "The Chopping Block: EigenLayer Launch, Celestia Controversy, and Ethereum’s Future - Ep. 714",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/19974641/Russian-Evil-Corp-Group-Hit-With-Sanctions-After-100-Million-in-Ransomware-Thefts",
-          "author": null,
-          "description": "The United States, UK, and Australian governments all took aim at ransomware gang Evil Corp as new connections emerge with LockBit.",
-          "link": "https://cryptopanic.com/news/19974641/Russian-Evil-Corp-Group-Hit-With-Sanctions-After-100-Million-in-Ransomware-Thefts",
-          "publishedOn": "2024-10-06T15:44:23.000Z",
-          "wordCount": 498,
-          "title": "Russian 'Evil Corp' Group Hit With Sanctions After $100 Million in Ransomware Thefts",
-          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/07/Webp.net-resizeimage-27-gID_7.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/19974619/Legal-Expert-Jeremy-Hogan-Says-SECs-Move-To-Appeal-Ruling-in-Lawsuit-Against-Ripple-a-Big-Mistake-Heres-Why",
-          "author": null,
-          "description": "A crypto legal expert says the U.S. Securities and Exchange Commission’s (SEC) decision to appeal a ruling in the Ripple Labs lawsuit is a huge mistake. The SEC first sued Ripple Labs in December 2020, alleging that the firm was selling the crypto asset XRP as an unregistered security. In...",
-          "link": "https://cryptopanic.com/news/19974619/Legal-Expert-Jeremy-Hogan-Says-SECs-Move-To-Appeal-Ruling-in-Lawsuit-Against-Ripple-a-Big-Mistake-Heres-Why",
-          "publishedOn": "2024-10-06T15:30:57.000Z",
-          "wordCount": 505,
-          "title": "Legal Expert Jeremy Hogan Says SEC’s Move To Appeal Ruling in Lawsuit Against Ripple a Big Mistake – Here’s Why",
-          "imageUrl": "https://dailyhodl.com/wp-content/uploads/2023/04/ripple-Split-the-Baby.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/19974618/Mark-Moss-Why-Your-Standard-of-Living-May-Drop",
-          "author": null,
-          "description": "What the next economic crash looks likeBrought to you by Bitcoinwell.com a bitcoin-only platform on a mission to enable independence.#bitcoin #bitcoinnews #shortsopen",
-          "link": "https://cryptopanic.com/news/19974618/Mark-Moss-Why-Your-Standard-of-Living-May-Drop",
-          "publishedOn": "2024-10-06T15:30:01.000Z",
-          "wordCount": 494,
-          "title": "Mark Moss: Why Your Standard of Living May Drop",
-          "imageUrl": "https://i1.ytimg.com/vi/47MelpDgpuw/hqdefault.jpg"
         }
       ]
     },
@@ -1089,6 +1089,41 @@
       "feedUrl": "https://www.inoreader.com/stream/user/1005336866/tag/%E6%B5%B7%E5%A4%96%E5%8A%A0%E5%AF%86%E8%B5%84%E8%AE%AF",
       "siteUrl": "https://www.inoreader.com/stream/user/1005336866/tag/%E6%B5%B7%E5%A4%96%E5%8A%A0%E5%AF%86%E8%B5%84%E8%AE%AF/view/html",
       "articles": [
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e744d054d28",
+          "author": "Bitcoin.com",
+          "description": "Offshore Alert reporter David Marchant disclosed the United States has initiated two forfeiture complaints related to previously confiscated bitcoin (BTC) and tether (USDT), alleging that these funds were snatched by the notorious North Korean hacking groups Lazarus Group and Advanced Persistent Threat 38 (APT38). These cyber hacking syndicates are known for their operations to fund […]",
+          "link": "https://news.bitcoin.com/us-targets-lazarus-group-and-apt38-in-879m-crypto-forfeiture-complaint/",
+          "publishedOn": "2024-10-06T19:12:34.000Z",
+          "wordCount": 165,
+          "title": "US Targets Lazarus Group and APT38 in $879M Crypto Forfeiture Complaint",
+          "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2024/10/nkhakckeekrssd.jpg"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e744d06d1a0",
+          "author": "Christian Encila",
+          "description": "On-chain investigator ZachXBT has accused well-known influencer Ansem of operating pump-and-dump memecoin scams in the most recent crypto contrroversy. The conflict started after prominent cryptocurrency personality Murad Mahmudov’s statement spurred discussion over the emergence of meme coins in the current market cycle.\n \n \nA Twitter storm kicked off when Mechanism Capital’s Andrew Kang suggested Mahmudov’s speech might’ve triggered a new wave of memecoin investments. That’s when ZachXBT stepped in, and things got heated fast.\n \n \nIt seems as if @MustStopMurad‘s talk at Token2049 has catalyzed the next wave of capital reallocation into memecoins\n \nPopcat seems to be one of the beneficiaries of these capital flows – now in price discovery\n \nSetting up to join the 4 greats of this cycle – …",
+          "link": "https://bitcoinist.com/crypto-influencer-ansem-called-out-by-zachxbt-for-scam-tactics/",
+          "publishedOn": "2024-10-06T18:54:24.000Z",
+          "wordCount": 5129,
+          "title": "Crypto Influencer Ansem Called Out By ZachXBT For Scam Tactics",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/jpeg",
+            "url": "https://bitcoinist.com/wp-content/uploads/2024/10/a_885dd9.jpg?fit=640,360"
+          },
+          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2024/10/a_885dd9.jpg?fit=640,360"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e744d007d78",
+          "author": "Jamie Redman",
+          "description": "In early September, analysts from the financial powerhouse Goldman Sachs projected that the price of gold would hit $2,700 per ounce by next year. Fast forward to a month later, and Goldman’s market strategists are now setting their sights even higher, forecasting gold to climb to $2,900 per ounce in 2025. Gold Set for Gains: […]",
+          "link": "https://news.bitcoin.com/goldman-sachs-raises-gold-forecast-to-2900-by-2025/",
+          "publishedOn": "2024-10-06T18:35:25.000Z",
+          "wordCount": 169,
+          "title": "Goldman Sachs Raises Gold Forecast to $2,900 by 2025",
+          "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2024/10/ddsistadd.jpg"
+        },
         {
           "id": "http://www.inoreader.com/article/3a9c6e744d0daeea",
           "author": "Jamie Redman",
@@ -1180,7 +1215,7 @@
           "description": "Bitcoin is at a critical turning point after facing several days of selling pressure and consolidating above the $60,000 mark. While some analysts and investors are anticipating a massive rally in the coming months, key data indicates that the market may not be ready for a breakout just yet. \n \nRecent on-chain data from CryptoQuant reveals that miners are offloading BTC, with their reserves showing a noticeable decline. This suggests that selling pressure from miners could be contributing to the current slowdown.\n \n \nDespite the optimism for a future rally, the combination of recent price action and on-chain indicators implies that Bitcoin’s much-anticipated upward surge may still take time to materialize. As the crypto market remains uncertain, traders are watching closely for signs of wh…",
           "link": "https://bitcoinist.com/bitcoin-miners-dump-143-million-in-6-days-a-sign-of-trouble/",
           "publishedOn": "2024-10-06T12:57:34.000Z",
-          "wordCount": 5515,
+          "wordCount": 5513,
           "title": "Bitcoin Miners Dump $143 Million In 6 Days – A Sign Of Trouble?",
           "enclosure": {
             "length": "1337",
@@ -1205,7 +1240,7 @@
           "description": "Ethereum (ETH) co-founder Vitalik Buterin has drawn much applause by donating a substantial amount of assets in legal aid of the Tornado Cash developers. Notably, this act comes after the prominent crypto figure stirred the market’s attention with a massive sell-off from his memecoin holdings. \n \n \nVitalik Buterin Supports Tornado Cash Founders With $242,000 ETH\n \nIn an X post on Saturday, Wu blockchain reported that Vitalik Buterin swapped different amounts of memecoins in his wallet for about 140.6 ETH valued at $340,000. The tokens sold included 70.71 million Neiro, 11.76 billion MOONDENG, 7.8 million DEGEN, 16.03 billion KABOSU, as well as 100,000 USDT donated by the CATE project. \n \nFollowing these transactions, blockchain analytics platform Spot on Chain noted that the Ethereum co-fo…",
           "link": "https://bitcoinist.com/vitalik-buterin-donates-100-eth-to-tornado-cash-dev/",
           "publishedOn": "2024-10-06T11:28:09.000Z",
-          "wordCount": 5155,
+          "wordCount": 5153,
           "title": "Vitalik Buterin Donates 100 ETH To Tornado Cash Campaign Following Memecoin Offload",
           "enclosure": {
             "length": "1337",
@@ -1250,7 +1285,7 @@
           "description": "PEPE’s recent price action is raising concerns among traders, as bullish momentum appears to be fading. After attempting to rebound, the token faced strong resistance at the $0.00000963 mark, signaling a potential shift in market sentiment. \n \nWith bulls struggling to maintain control and selling pressure mounting, the door is now open for further downside movement, leaving investors to question whether PEPE can recover or if more losses are on the horizon.\n \nThe purpose of this article is to examine the token’s loss of bullish momentum after failing to break past the $0.00000963 resistance. By analyzing current market trends and technical signals, the aim is to highlight the increasing downside risks and explore whether the meme coin is set for additional declines or a potential reversal …",
           "link": "https://bitcoinist.com/pepe-bulls-lose-momentum-downside-risk-grows/",
           "publishedOn": "2024-10-06T06:02:23.000Z",
-          "wordCount": 5157,
+          "wordCount": 5155,
           "title": "PEPE Bulls Lose Momentum, Downside Risk Grows After Failing To Hold $0.00000963",
           "enclosure": {
             "length": "1337",
@@ -1265,7 +1300,7 @@
           "description": "David Carmona, founder of the cryptocurrency Ponzi scheme IcomTech, has received a 10-year prison sentence following a court ruling in the last week. This development was revealed on October 4  by the US Attorney’s Office, Southern District of New York. \n \n \nCarmona To Serve 121 Months In Jail For Crypto Fraud\n \nAccording to the statement released, Carmona alongside other individuals launched IcomTech in 2018 which was presented as a crypto mining and trading company that helped investors earn profits by acquiring supposed crypto-related investment products.\n \nCarmona and other promoters of IcomTech sold these fake investment funds to unsuspecting victims on which they guaranteed daily returns and promised to double their capital within six months. It was noted that purchases were made via…",
           "link": "https://bitcoinist.com/crypto-ponzi-scheme-leader-sentenced-to-10-years/",
           "publishedOn": "2024-10-06T06:02:23.000Z",
-          "wordCount": 5027,
+          "wordCount": 5025,
           "title": "Crypto Ponzi Scheme Leader Sentenced To 10 Years By US Court",
           "enclosure": {
             "length": "1337",
@@ -1293,51 +1328,6 @@
           "wordCount": 166,
           "title": "AI Powerhouse Openai Raises $6.6B Achieving a $157B Valuation",
           "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2024/10/e88b1650-7a6e-4379-aa11-228f248a2825.jpg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e744eb6bf63",
-          "author": "Scott Matherson",
-          "description": "Shiba Inu (SHIB) rallied over 5% in the last 24 hours, leaving Dogecoin (DOGE) behind, as the largest meme coin by market cap recorded lesser gains. Onchain data shows that crypto whales, considering the whale activity for both meme coins, seem to be favoring Shiba Inu over Dogecoin at the moment. \n \nWhy Shiba Inu Price Rallied Over 5%, Leaving Dogecoin Behind\n \nThe Shiba Inu Price has rallied over 5%, leaving Dogecoin behind as crypto whales accumulate the second-largest meme coin by market cap. Shiba Inu’s whale activity has exploded in the last few days, with large investors actively accumulating the meme coin. Specifically, data from the market intelligence platform IntoTheBlock shows that the large holders’ netflow has skyrocketed by over 258% in the last seven days. \n \n \n \n \n \nIt is …",
-          "link": "https://bitcoinist.com/shiba-inu-price-rally-over-5/",
-          "publishedOn": "2024-10-06T04:31:46.000Z",
-          "wordCount": 5107,
-          "title": "Why Did The Shiba Inu Price Rally Over 5% And Left Dogecoin Behind?",
-          "enclosure": {
-            "length": "1337",
-            "type": "image/jpeg",
-            "url": "https://bitcoinist.com/wp-content/uploads/2024/08/Shiba-Inu-2.webp?fit=420,420"
-          },
-          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2024/08/Shiba-Inu-2.webp?fit=420,420"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e744eb6bf60",
-          "author": "Sebastian Villafuerte",
-          "description": "Bitcoin is trading at a pivotal level following a 10% dip to $60,000, a key psychological support. After a brief sell-off, the price has recovered and is now holding strong, flirting with the potential to rise again and challenge new highs. Investors and analysts are growing optimistic, anticipating a sharp and fast rally in the coming weeks as smart money flows into the market, seizing the opportunity to accumulate BTC.\n \n \nKey data from CryptoQuant supports this bullish outlook, revealing that demand for Bitcoin from US spot ETFs is on the rise. This surge in institutional interest suggests a positive trend that could drive BTC prices even higher throughout Q4 2024. If the demand continues at this pace, analysts predict an aggressive move to the upside, with Bitcoin potentially pushing t…",
-          "link": "https://bitcoinist.com/us-spot-etfs-fueling-bitcoin-demand-is-btc-set-to-explode-in-q4-2024/",
-          "publishedOn": "2024-10-06T04:31:46.000Z",
-          "wordCount": 5519,
-          "title": "US Spot ETFs Fueling Bitcoin Demand – Is BTC Set To Explode In Q4 2024?",
-          "enclosure": {
-            "length": "1337",
-            "type": "image/jpeg",
-            "url": "https://bitcoinist.com/wp-content/uploads/2024/10/DALL·E-2024-10-04-22.59.22-A-financial-themed-image-centered-on-Bitcoin-approaching-73000-with-new-liquidity-flow-expected-to-fuel-the-futures-market.-The-central-focus-is-a-.webp?fit=640,366"
-          },
-          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2024/10/DALL%C2%B7E-2024-10-04-22.59.22-A-financial-themed-image-centered-on-Bitcoin-approaching-73000-with-new-liquidity-flow-expected-to-fuel-the-futures-market.-The-central-focus-is-a-.webp?fit=640,366"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e744eb6bf5f",
-          "author": "Ronaldo Marquez",
-          "description": "On Friday, crypto asset manager Bitwise, filed with the US Securities and Exchange Commission (SEC) to convert three existing futures-based exchange-traded funds (ETFs) into a new series of funds utilizing “Trendwise strategies” approach. \n \nThis strategy is expected to rotate investments between cryptocurrencies and US Treasuries based on prevailing market conditions, aiming to optimize returns and mitigate risks.\n \nNew Strategies Set To Launch By December 2024\n \nAccording to Friday’s announcement, the proposed funds will implement Bitwise’s proprietary “Trendwise” rotation strategy, which is designed to minimize downside volatility while seeking long-term capital appreciation. \n \nUnder this approach, the exchange-traded funds will shift their allocations from crypto assets to Treasuries …",
-          "link": "https://bitcoinist.com/bitwise-unveils-new-crypto-etf-fusion-btc-eth/",
-          "publishedOn": "2024-10-06T04:31:46.000Z",
-          "wordCount": 5123,
-          "title": "Bitwise Unveils New Crypto ETF Fusion: BTC, ETH, And US Treasury Strategies Integrated",
-          "enclosure": {
-            "length": "1337",
-            "type": "image/jpeg",
-            "url": "https://bitcoinist.com/wp-content/uploads/2024/10/Screenshot_487.jpg?fit=640,366"
-          },
-          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2024/10/Screenshot_487.jpg?fit=640,366"
         }
       ]
     }

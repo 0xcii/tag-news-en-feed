@@ -536,7 +536,7 @@
           "description": "Here's a first look at Season 2 of Telegram tap-to-earn game Hamster Kombat.",
           "link": "https://decrypt.co/videos/explainers/qcvjjJxN/hamster-kombat-season-2-teaser",
           "publishedOn": "2024-10-17T12:03:18.000Z",
-          "wordCount": 6580,
+          "wordCount": 6481,
           "title": "Hamster Kombat Season 2 Teaser",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/qcvjjJxN/poster.jpg",
@@ -551,7 +551,7 @@
           "description": "BTC hits $68k as ETF inflows continue to soar. Open Interest at CME hits ATH, funding still low. Tesla moves $750m BTC to new wallet. Canary applies for Litcoin ETF, LTC up 8%. Grayscale asks SEC to convert altcoin fund to ETF. Kraken integrates with EigenLayer for restaking. ‘Network state’ Praxis raises $525m for new city. Trump project raises only $11m so far. a16z founders donate $2.5m to Trump PAC. TikTok accused of being crypto exchange in UK. Gotbit CEO arrested in Portugal. Perplexity AI launches finance platform.",
           "link": "https://decrypt.co/videos/interviews/c88qN8eB/btc-hits-68k-trump-odds-continue-to-rise-goat-nears-300m",
           "publishedOn": "2024-10-16T18:31:36.000Z",
-          "wordCount": 7198,
+          "wordCount": 6894,
           "title": "BTC hits $68K, Trump odds Continue to Rise, GOAT nears $300M",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/c88qN8eB/poster.jpg",
@@ -591,21 +591,6 @@
           "imageUrl": "https://cdn.jwplayer.com/v2/media/0V0rYhMX/poster.jpg"
         },
         {
-          "id": "https://decrypt.co/videos/interviews/pLw8b2d2/todd-revealed-as-satoshi-google-may-be-broken-up-murads-wallets-doxxed",
-          "author": null,
-          "description": "BTC will be range bound until election: Bernstein. TAO & memecoins dominate mindshare. Peter Todd ‘revealed’ as Satoshi by HBO. US government able to sell $4.4bn Silk Road BTC. Ireland unable to access $378m seized BTC. SOL could do 5x if Trump wins: StanChart. Coinbase integrates Taproot addresses for BTC. Canary Capital applies for XRP ETF. S. Korea to regulate stablecoin transfers. CryptoCom files countersuit against SEC. Babylon fills cap with 22k BTC. Scroll airdrop coming Oct 22nd. USDC goes live on SUI.",
-          "link": "https://decrypt.co/videos/interviews/pLw8b2d2/todd-revealed-as-satoshi-google-may-be-broken-up-murads-wallets-doxxed",
-          "publishedOn": "2024-10-12T07:29:02.000Z",
-          "wordCount": 6869,
-          "title": "Todd ‘revealed’ as Satoshi, Google may be Broken-up, Murad’s Wallets Doxxed",
-          "enclosure": {
-            "url": "https://cdn.jwplayer.com/v2/media/pLw8b2d2/poster.jpg",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.jwplayer.com/v2/media/pLw8b2d2/poster.jpg"
-        },
-        {
           "id": "https://decrypt.co/videos/interviews/aYgFvZqj/crypto-falls-ahead-of-cpi-stripe-reinstates-crypto-fed-charges-market-makers",
           "author": null,
           "description": "Majors drop despite stocks hitting ATHs. Stripe reinstates crypto payments. Crypto settlements near $20bn in 2024. S. Korea to review ban on BTC ETFs. US charges market makers for market manipulation. FBI created their own coin to ensnare targets. Vitalik ‘outside pick’ for Nobel Prize. Trump family token to built on Aave stack. $16m OP tokens allocated to superchain users. Wisdomtree debuts debit card for on-chain fund. 47% of hedge funds have crypto exposure. Argentina overtakes Brazil for crypto inflows. Tucker interviews Ryan Salame over FTX.",
@@ -619,6 +604,21 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.jwplayer.com/v2/media/aYgFvZqj/poster.jpg"
+        },
+        {
+          "id": "https://decrypt.co/videos/interviews/pLw8b2d2/todd-revealed-as-satoshi-google-may-be-broken-up-murads-wallets-doxxed",
+          "author": null,
+          "description": "BTC will be range bound until election: Bernstein. TAO & memecoins dominate mindshare. Peter Todd ‘revealed’ as Satoshi by HBO. US government able to sell $4.4bn Silk Road BTC. Ireland unable to access $378m seized BTC. SOL could do 5x if Trump wins: StanChart. Coinbase integrates Taproot addresses for BTC. Canary Capital applies for XRP ETF. S. Korea to regulate stablecoin transfers. CryptoCom files countersuit against SEC. Babylon fills cap with 22k BTC. Scroll airdrop coming Oct 22nd. USDC goes live on SUI.",
+          "link": "https://decrypt.co/videos/interviews/pLw8b2d2/todd-revealed-as-satoshi-google-may-be-broken-up-murads-wallets-doxxed",
+          "publishedOn": "2024-10-12T07:29:02.000Z",
+          "wordCount": 6869,
+          "title": "Todd ‘revealed’ as Satoshi, Google may be Broken-up, Murad’s Wallets Doxxed",
+          "enclosure": {
+            "url": "https://cdn.jwplayer.com/v2/media/pLw8b2d2/poster.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.jwplayer.com/v2/media/pLw8b2d2/poster.jpg"
         },
         {
           "id": "https://decrypt.co/videos/interviews/cyJj6tWj/bitcoin-bounces-from-59k-tesla-unveils-robotaxis-memecoins-outperform",
@@ -808,14 +808,64 @@
       "siteUrl": "https://cryptopanic.com/",
       "articles": [
         {
-          "id": "https://cryptopanic.com/news/20052329/Pumpfun-unveils-advanced-trading-terminal-and-teases-upcoming-token-launch",
+          "id": "https://cryptopanic.com/news/20052553/Crypto-airdrop-update-the-claims-for-next-week-and-the-dApps-to-try",
           "author": null,
-          "description": "Solana-based memecoin exchange Pump.fun has introduced its professional trading terminal, Pump Advanced, during an X-Space session.",
-          "link": "https://cryptopanic.com/news/20052329/Pumpfun-unveils-advanced-trading-terminal-and-teases-upcoming-token-launch",
-          "publishedOn": "2024-10-20T07:13:52.000Z",
+          "description": "Let's look at the most important updates at the moment in the field of crypto airdrops for the boldest hunters.",
+          "link": "https://cryptopanic.com/news/20052553/Crypto-airdrop-update-the-claims-for-next-week-and-the-dApps-to-try",
+          "publishedOn": "2024-10-20T08:10:00.000Z",
+          "wordCount": 502,
+          "title": "Crypto airdrop update: the claims for next week and the dApps to try",
+          "imageUrl": "https://en.cryptonomist.ch/wp-content/uploads/2024/10/crypto-airdrop.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/20052554/Self-Proclaimed-Satoshi-Questions-Ripples-Legacy",
+          "author": null,
+          "description": "XRP is just a speculative tool, according to self-proclaimed Satoshi Craig Wright",
+          "link": "https://cryptopanic.com/news/20052554/Self-Proclaimed-Satoshi-Questions-Ripples-Legacy",
+          "publishedOn": "2024-10-20T08:00:46.000Z",
+          "wordCount": 494,
+          "title": "Self-Proclaimed Satoshi Questions Ripple’s Legacy",
+          "imageUrl": "https://u.today/sites/default/files/styles/twitterwithoutlogo/public/2024-10/s4522.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/20052533/Bitcoins-Rising-Value-Enriches-Early-Adopters-at-the-Expense-of-Everyone-Else-ECB-Paper",
+          "author": null,
+          "description": "Dr. Ulrich Bindseil, Director General for Market Infrastructure and Payments at the European Central Bank (ECB), and Dr. Jürgen Schaaf, advisor to the same division, recently published a paper titled “The Distributional Consequences of Bitcoin.” In this paper, the authors analyze how Bitcoin’s...",
+          "link": "https://cryptopanic.com/news/20052533/Bitcoins-Rising-Value-Enriches-Early-Adopters-at-the-Expense-of-Everyone-Else-ECB-Paper",
+          "publishedOn": "2024-10-20T08:00:40.000Z",
+          "wordCount": 503,
+          "title": "Bitcoin’s Rising Value Enriches Early Adopters at the Expense of Everyone Else: ECB Paper",
+          "imageUrl": "https://media.cryptoglobe.com/2021/09/gold-and-red-bitcoin-on-table-768x576.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/20052403/Debate-Over-XRPs-Security-Status-Continues-Amid-Ongoing-Ripple-Lawsuit",
+          "author": null,
+          "description": "The classification of XRP as a security continues to stir debate within the crypto community, even after a clear ruling from the court.",
+          "link": "https://cryptopanic.com/news/20052403/Debate-Over-XRPs-Security-Status-Continues-Amid-Ongoing-Ripple-Lawsuit",
+          "publishedOn": "2024-10-20T08:00:35.000Z",
           "wordCount": 499,
-          "title": "Pump.fun unveils advanced trading terminal and teases upcoming token launch",
-          "imageUrl": "https://www.cryptopolitan.com/wp-content/uploads/2024/10/Pump.fun-unveils-advanced-trading-terminal-and-teases-upcoming-token-launch.webp"
+          "title": "Debate Over XRP’s Security Status Continues Amid Ongoing Ripple Lawsuit",
+          "imageUrl": "https://cryptodnes.bg/en/wp-content/uploads/sites/2/2024/03/xrp123321.webp"
+        },
+        {
+          "id": "https://cryptopanic.com/news/20052440/TRON-Market-Cap-Hits-Nearly-14-Billion-On-Strong-Revenue-Growth",
+          "author": null,
+          "description": "TRON, with its native token TRX, has been on a tear in the last few months, with its impressive market cap growth. Based on Messari’s tracking for Q3 2024, TRX’s market capitalization increased by 24%, from nearly $11 billion to $13.5 billion. This marks the seventh consecutive quarter in which...",
+          "link": "https://cryptopanic.com/news/20052440/TRON-Market-Cap-Hits-Nearly-14-Billion-On-Strong-Revenue-Growth",
+          "publishedOn": "2024-10-20T08:00:32.000Z",
+          "wordCount": 500,
+          "title": "TRON Market Cap Hits Nearly $14 Billion On Strong Revenue Growth",
+          "imageUrl": "https://www.newsbtc.com/wp-content/uploads/2024/10/a_03db91.jpg?fit=2852%2C2160"
+        },
+        {
+          "id": "https://cryptopanic.com/news/20052436/Is-Litecoins-price-revival-underway-Social-engagement-could-be-key",
+          "author": null,
+          "description": "Litecoin bulls showed up this past week, making Litecoin one of the biggest gainers among the top cryptocurrencies.",
+          "link": "https://cryptopanic.com/news/20052436/Is-Litecoins-price-revival-underway-Social-engagement-could-be-key",
+          "publishedOn": "2024-10-20T08:00:07.000Z",
+          "wordCount": 499,
+          "title": "Is Litecoin’s price revival underway? Social engagement could be key!",
+          "imageUrl": "https://ambcrypto.com/wp-content/uploads/2024/10/Michael-LTC-1000x600.webp"
         },
         {
           "id": "https://cryptopanic.com/news/20052300/Bitcoin-Heading-to-Six-Figures-As-BTC-ETF-Net-Inflows-Accelerate-to-20000000000-Bitwise-CIO-Matt-Hougan",
@@ -868,6 +918,46 @@
           "imageUrl": "https://cryptodnes.bg/en/wp-content/uploads/sites/2/2022/02/trading-chart-cryptocurrency.webp"
         },
         {
+          "id": "https://cryptopanic.com/news/20052548/The-resilience-of-DeFi-in-the-global-market-crash-of-August-the-analysis-of-the-report-by-Exponentialfi",
+          "author": null,
+          "description": "According to the report on DeFi published by Exponential.fi, DeFi protocols have handled over 300 million dollars in liquidations without accumulating significant debt, ensuring the stability of the system while simultaneously generating consistent revenue. As of August 2023, the global...",
+          "link": "https://cryptopanic.com/news/20052548/The-resilience-of-DeFi-in-the-global-market-crash-of-August-the-analysis-of-the-report-by-Exponentialfi",
+          "publishedOn": "2024-10-20T07:00:00.000Z",
+          "wordCount": 507,
+          "title": "The resilience of DeFi in the global market crash of August: the analysis of the report by Exponential.fi",
+          "imageUrl": "https://en.cryptonomist.ch/wp-content/uploads/2023/12/Worldcoin-DeFi.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/20052550/CoinGecko-Introduces-Speakers-Agenda-for-GeckoCon-2024-TON-Foundation-Yield-Guild-Games-Mythical-Games-and-More",
+          "author": null,
+          "description": "CoinGecko today announced the first wave of speakers for GeckoCon 2024: hybrid conference focused on web3 gaming.",
+          "link": "https://cryptopanic.com/news/20052550/CoinGecko-Introduces-Speakers-Agenda-for-GeckoCon-2024-TON-Foundation-Yield-Guild-Games-Mythical-Games-and-More",
+          "publishedOn": "2024-10-20T07:00:00.000Z",
+          "wordCount": 506,
+          "title": "CoinGecko Introduces Speakers & Agenda for GeckoCon 2024: TON Foundation, Yield Guild Games, Mythical Games, and More",
+          "imageUrl": "https://en.cryptonomist.ch/wp-content/uploads/2024/10/geckocon-2024.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/20052549/Metis-Fest-is-Coming-to-Bangkok-to-Supercharge-the-Night",
+          "author": null,
+          "description": "A Fusion of Authentic Culture and Blockchain Energy in the Heart of Thailand.",
+          "link": "https://cryptopanic.com/news/20052549/Metis-Fest-is-Coming-to-Bangkok-to-Supercharge-the-Night",
+          "publishedOn": "2024-10-20T07:00:00.000Z",
+          "wordCount": 499,
+          "title": "Metis Fest is Coming to Bangkok to Supercharge the Night",
+          "imageUrl": "https://en.cryptonomist.ch/wp-content/uploads/2024/10/unnamed-38.png"
+        },
+        {
+          "id": "https://cryptopanic.com/news/20052442/Companies-Going-Public-Upcoming-IPOs-in-2024",
+          "author": null,
+          "description": "Trends in Upcoming IPOs in 2024: Growth in Financial Inclusion As the global economy rebounds and companies seek to raise capital for expansion, several firms across industries are preparing for Initial Public Offerings (IPOs) in 2024. For investors, these IPOs offer opportunities to participate...",
+          "link": "https://cryptopanic.com/news/20052442/Companies-Going-Public-Upcoming-IPOs-in-2024",
+          "publishedOn": "2024-10-20T06:30:49.000Z",
+          "wordCount": 496,
+          "title": "Companies Going Public: Upcoming IPOs in 2024",
+          "imageUrl": "https://sfctoday.com/wp-content/uploads/2024/10/Companies-Going-Public-Upcoming-IPOs-in-2024.jpg"
+        },
+        {
           "id": "https://cryptopanic.com/news/20052170/ETH-held-in-accumulation-wallets-jumps-65-since-the-start-of-2024",
           "author": null,
           "description": "A crypto analyst highlighted a 65% increase in Ethereum held in accumulation wallets since the start of 2024, arguing that it's no longer just for \"tech enthusiasts.\"",
@@ -916,96 +1006,6 @@
           "wordCount": 499,
           "title": "Solana: Assessing if SOL can successfully cross the $160 level",
           "imageUrl": "https://ambcrypto.com/wp-content/uploads/2024/10/Kelvin-SOL-1000x600.webp"
-        },
-        {
-          "id": "https://cryptopanic.com/news/20052163/Crypto-horoscope-from-October-21-to-27",
-          "author": null,
-          "description": "New week and new forecasts for the zodiac signs.",
-          "link": "https://cryptopanic.com/news/20052163/Crypto-horoscope-from-October-21-to-27",
-          "publishedOn": "2024-10-20T06:00:00.000Z",
-          "wordCount": 496,
-          "title": "Crypto horoscope from October 21 to 27",
-          "imageUrl": "https://cryptonomist.ch/wp-content/uploads/2024/10/oroscopo-crypto-2.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/20052153/Bitcoin-Landfill-Lawsuit-Coinbase-CEOs-Musk-Admiration-Anthony-Scaramuccis-BTC-Investment-And-More-This-Week-In-Crypto",
-          "author": null,
-          "description": "This past weekend was a whirlwind of activity in the cryptocurrency world. From a man suing a city council over lost Bitcoins (CRYPTO: BTC) to the Coinbase CEO expressing admiration for Elon Musk’s productivity, the stories were as diverse as they were intriguing. read more",
-          "link": "https://cryptopanic.com/news/20052153/Bitcoin-Landfill-Lawsuit-Coinbase-CEOs-Musk-Admiration-Anthony-Scaramuccis-BTC-Investment-And-More-This-Week-In-Crypto",
-          "publishedOn": "2024-10-20T05:55:51.000Z",
-          "wordCount": 506,
-          "title": "Bitcoin Landfill Lawsuit, Coinbase CEO's Musk Admiration, Anthony Scaramucci's BTC Investment And More: This Week In Crypto",
-          "imageUrl": "https://cdn.benzinga.com/files/images/story/2024/10/20/Bitcoin.jpeg?width=1200&height=800&fit=crop"
-        },
-        {
-          "id": "https://cryptopanic.com/news/20052028/The-Reason-Behind-ApeCoins-APE-66-Daily-Surge-Details",
-          "author": null,
-          "description": "APE reentered the top 100 altcoins after the massive surge in the past day.",
-          "link": "https://cryptopanic.com/news/20052028/The-Reason-Behind-ApeCoins-APE-66-Daily-Surge-Details",
-          "publishedOn": "2024-10-20T05:42:40.000Z",
-          "wordCount": 498,
-          "title": "The Reason Behind ApeCoin’s (APE) 66% Daily Surge: Details",
-          "imageUrl": "https://cryptopotato.com/wp-content/uploads/2024/10/Apecoin_Surge.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/20052027/Bitcoin-Miners-Face-Tough-Decisions-AI-or-HODLing-BTC-Amid-Halving-Fallout",
-          "author": null,
-          "description": "Six months after Bitcoin’s April 2024 halving, cryptocurrency mining firms are facing critical decisions as their revenue has been significantly reduced, according to a report by David Pan for Bloomberg News. The halving, which occurs every four years and halves the reward miners receive for...",
-          "link": "https://cryptopanic.com/news/20052027/Bitcoin-Miners-Face-Tough-Decisions-AI-or-HODLing-BTC-Amid-Halving-Fallout",
-          "publishedOn": "2024-10-20T05:41:21.000Z",
-          "wordCount": 501,
-          "title": "Bitcoin Miners Face Tough Decisions: AI or HODLing BTC Amid Halving Fallout",
-          "imageUrl": "https://media.cryptoglobe.com/2022/02/Bitcoin-processor-768x432.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/20052048/Bitcoin-reddit-with-all-the-best-memes",
-          "author": null,
-          "description": "Can someone send me the Bitcoin reddit with all the best memes? Bull run here we go. TIA   submitted by   /u/Evening-Abies-4679 [link]   [comments]",
-          "link": "https://cryptopanic.com/news/20052048/Bitcoin-reddit-with-all-the-best-memes",
-          "publishedOn": "2024-10-20T05:40:19.000Z",
-          "wordCount": 496,
-          "title": "Bitcoin reddit with all the best memes",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/20052051/Best-wallet-app-for-trading",
-          "author": null,
-          "description": "What’s the best app for big purchases of bitcoin To hold a good 5-10K ?   submitted by   /u/L1L_D1CK_G1RL_666 [link]   [comments]",
-          "link": "https://cryptopanic.com/news/20052051/Best-wallet-app-for-trading",
-          "publishedOn": "2024-10-20T05:23:53.000Z",
-          "wordCount": 495,
-          "title": "Best wallet & app for trading",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/20052011/Yuga-Labs-Ethereum-Layer-2-ApeChain-Is-Now-Live",
-          "author": null,
-          "description": "Yuga Labs has officially launched Layer 2 ApeChain on Ethereum, along with its bridge and Swap portal for cross-chain transactions.",
-          "link": "https://cryptopanic.com/news/20052011/Yuga-Labs-Ethereum-Layer-2-ApeChain-Is-Now-Live",
-          "publishedOn": "2024-10-20T05:10:35.000Z",
-          "wordCount": 498,
-          "title": "Yuga Labs’ Ethereum Layer 2 ApeChain Is Now Live",
-          "imageUrl": "https://coincu.com/wp-content/uploads/2024/10/image-195-1.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/20051938/Dogecoin-Surge-Faces-Potential-Correction-Amid-Increased-Meme-Coin-Hype",
-          "author": null,
-          "description": "Dogecoin (DOGE) has experienced a notable surge over the past six days, hitting a peak of $0.147 during Saturday's trading session.",
-          "link": "https://cryptopanic.com/news/20051938/Dogecoin-Surge-Faces-Potential-Correction-Amid-Increased-Meme-Coin-Hype",
-          "publishedOn": "2024-10-20T05:00:14.000Z",
-          "wordCount": 499,
-          "title": "Dogecoin Surge Faces Potential Correction Amid Increased Meme Coin Hype",
-          "imageUrl": "https://cryptodnes.bg/en/wp-content/uploads/sites/2/2022/07/dogecoin-logo-e1702940776256.jpeg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/20051936/LayerZero-Under-Intensified-Bearish-Pressure-Halting-Recovery-Efforts",
-          "author": null,
-          "description": "LayerZero (ZRO) is currently experiencing a tumultuous phase as its recent recovery attempts falter amid mounting bearish pressure. After initially showcasing potential, the altcoin’s upward momentum has stalled, leading to a possible downturn. With key support levels at risk and bearish forces...",
-          "link": "https://cryptopanic.com/news/20051936/LayerZero-Under-Intensified-Bearish-Pressure-Halting-Recovery-Efforts",
-          "publishedOn": "2024-10-20T05:00:03.000Z",
-          "wordCount": 497,
-          "title": "LayerZero Under Intensified Bearish Pressure, Halting Recovery Efforts",
-          "imageUrl": "https://www.newsbtc.com/wp-content/uploads/2024/10/photo_5807407984991650681_x.jpg?fit=600%2C338"
         }
       ]
     },
@@ -1014,6 +1014,46 @@
       "feedUrl": "https://www.inoreader.com/stream/user/1005336866/tag/%E6%B5%B7%E5%A4%96%E5%8A%A0%E5%AF%86%E8%B5%84%E8%AE%AF",
       "siteUrl": "https://www.inoreader.com/stream/user/1005336866/tag/%E6%B5%B7%E5%A4%96%E5%8A%A0%E5%AF%86%E8%B5%84%E8%AE%AF/view/html",
       "articles": [
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e7445985285",
+          "author": "Christian Encila",
+          "description": "Samson Mow, founder of Bitcoin-focused company JAN3, recently addressed the German Bundestag in an effort to push for the state to adopt Bitcoin, thus pushing for “hyperbitcoinization” sooner to be able to live in a future where Bitcoin becomes every global citizen’s currency of choice.\n \n \nGrassroots efforts pick up pace, but the founder cautions that it is only the existence of state-level adoption that will deliver the fiat-free world that many desire to see. To date, El Salvador remains the only country to legalize Bitcoin as a legal form of currency, an ongoing theme of a state refusing recognition leading to it being the space’s biggest opposition.\n \n \nJUST IN: \n \nSamson Mow speaks at the German Bundestag telling MPs about #Bitcoin adoption for nation states.\n \nLFG!  pic.twitter.com/…",
+          "link": "https://bitcoinist.com/samson-mow-urges-lawmakers-to-embrace-bitcoin/",
+          "publishedOn": "2024-10-20T08:13:24.000Z",
+          "wordCount": 5110,
+          "title": "Samson Mow Urges German Lawmakers To Embrace Bitcoin – Here’s Why",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/jpeg",
+            "url": "https://bitcoinist.com/wp-content/uploads/2024/10/a_dc0e72.jpg?fit=630,420"
+          },
+          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2024/10/a_dc0e72.jpg?fit=630,420"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e74459b041a",
+          "author": "Christian Encila",
+          "description": "Prison authorities in Nigeria declared that detained Binance executive Tigran Gambaryan is ‘very sick’, preventing him from appearing in court again for his trial.\n \nThis is a major concern which had been raised by his wife nearly two months ago, saying that Gambaryan’s health condition has sharply deteriorated since being detained in April.\n \n \nBinance Exec Trial Reset To October 25\n \nThe trial of embattled Binance executive Gambaryan was once again moved to a later date after he failed to appear in court due to his health condition.\n \nHis trial was supposedly scheduled last October 18. The Binance executive is a US citizen and could not attend because he was ill. Judge Emeka Nwite adjourned the proceedings to allow Gambaryan to undergo medical treatment.\n \nNwite ruled his trial would res…",
+          "link": "https://bitcoinist.com/binance-executive-too-sick-to-attend-hearing-nigerian-trial-postponed/",
+          "publishedOn": "2024-10-20T07:43:04.000Z",
+          "wordCount": 5114,
+          "title": "Binance Executive Too Sick For Court, Nigerian Trial Postponed",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/jpeg",
+            "url": "https://bitcoinist.com/wp-content/uploads/2024/10/A_1fe331.webp?fit=630,420"
+          },
+          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2024/10/A_1fe331.webp?fit=630,420"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e74459bcbd1",
+          "author": "Terence Zimwara",
+          "description": "Web3 markets remain in their early stages, with many participants viewing them as a “lottery,” according to Artur Guliński, co-founder of Orbitt. This trend is particularly evident in blockchain ecosystems where meme tokens hold significant influence, Guliński, a market dynamics and behavior focused trader, observes. According to the co-founder, these features are what currently distinguish […]",
+          "link": "https://news.bitcoin.com/web3-markets-in-infancy-viewed-as-lottery-by-investors-says-finance-veteran/",
+          "publishedOn": "2024-10-20T07:34:01.000Z",
+          "wordCount": 154,
+          "title": "Web3 Markets in Infancy, Viewed as ‘Lottery’ by Investors, Says Finance Veteran",
+          "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2024/10/web333toot.jpg"
+        },
         {
           "id": "http://www.inoreader.com/article/3a9c6e744580d0de",
           "author": "Kevin Helms",
@@ -1095,7 +1135,7 @@
           "description": "Dogecoin, the king of meme coins, is once again capturing the spotlight as it reclaims its throne among meme coins. According to price data from Coinmarketcap, Dogecoin is currently outperforming other meme coins in gains in both the 24-hour and seven day timeframes. \n \n \nEven more impressively, Dogecoin isn’t just outpacing its meme coin competitors. It’s also outperforming every other major cryptocurrency in the top 20 rankings by market capitalization.\n \nAs it stands, Dogecoin looks prime for a rally to $0.2, but what could be driving this rally?\n \nWhat’s Behind The DOGE Double-Digit Price Rally?\n \nAt the time of writing, the Dogecoin price is posting double-digit gains across all major timeframes, with a notable 30% increase over the past seven days. A broader look at the cryptocurrenc…",
           "link": "https://bitcoinist.com/dogecoin-back-on-top-in-meme-coin-race-whats-driving-this-double-digit-price-rally/",
           "publishedOn": "2024-10-20T01:03:36.000Z",
-          "wordCount": 5115,
+          "wordCount": 5114,
           "title": "Dogecoin Back On Top In Meme Coin Race – What’s Driving This Double-Digit Price Rally?",
           "enclosure": {
             "length": "1337",
@@ -1213,41 +1253,6 @@
             "url": "https://bitcoinist.com/wp-content/uploads/2023/08/photo-1580128660010-fd027e1e587a.jpeg?fit=336,420"
           },
           "imageUrl": "https://bitcoinist.com/wp-content/uploads/2023/08/photo-1580128660010-fd027e1e587a.jpeg?fit=336,420"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e74456a83b7",
-          "author": "Jamie Redman",
-          "description": "While bitcoin’s price has remained above $68,000, onchain fees tagged along for the ride. Earlier this month, fees were below $1, but two days ago on Oct. 17, the average transfer fee hit a peak of $6.32. Today, onchain fees stand at around 22.9 satoshis per virtual byte (sat/vB), or roughly $3.61 per transaction. Bitcoin’s […]",
-          "link": "https://news.bitcoin.com/why-bitcoins-fee-spike-is-raising-eyebrows-as-prices-hold-steady-above-68k/",
-          "publishedOn": "2024-10-19T20:29:09.000Z",
-          "wordCount": 162,
-          "title": "Why Bitcoin’s Fee Spike Is Raising Eyebrows as Prices Hold Steady Above $68K",
-          "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2024/10/hiiiooook89kk90khhhh.jpg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e744556a000",
-          "author": "Jamie Redman",
-          "description": "Investing in bitcoin (BTC) does not require buying a whole coin. Investors can buy fractions of a bitcoin, making it accessible to a wide range of budgets. This accessibility allows investors to explore a variety of strategies suited to their risk tolerance and goals. The following editorial explores seven distinct types of investment methods and […]",
-          "link": "https://news.bitcoin.com/exploring-7-different-investment-strategies-for-bitcoin-a-guide-for-investors/",
-          "publishedOn": "2024-10-19T19:38:20.000Z",
-          "wordCount": 162,
-          "title": "Exploring 7 Different Investment Strategies for Bitcoin: A Guide for Investors",
-          "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2024/10/dcadcadca.jpg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e7445511dc7",
-          "author": "Sebastian Villafuerte",
-          "description": "Bitcoin has reached local highs below $69,000 after weeks of steady bullish price action, igniting excitement and caution across the market. Investors are bracing for potential volatility, as this critical price zone has triggered sharp rejections five times in the past few months. \n \nWhile optimism is high for a surge beyond $70,000, uncertainty remains as traders watch for signs of a breakout or another pullback.\n \n \nKey data from CryptoQuant reveals that liquidation levels on major exchanges are rising, signaling that a decisive move could be imminent. This increase in liquidations suggests that traders are positioning themselves for big swings in the coming week, either anticipating a continuation of Bitcoin’s uptrend or bracing for a rejection from this significant resistance level.\n …",
-          "link": "https://bitcoinist.com/bitcoin-liquidations-hint-at-potential-volatility-is-btc-bull-run-at-risk/",
-          "publishedOn": "2024-10-19T19:08:32.000Z",
-          "wordCount": 5509,
-          "title": "Bitcoin Liquidations Hint At Potential Volatility – Is BTC Bull Run At Risk?",
-          "enclosure": {
-            "length": "1337",
-            "type": "image/jpeg",
-            "url": "https://bitcoinist.com/wp-content/uploads/2024/10/DALL·E-2024-10-19-08.12.08-A-feature-image-for-an-article-titled-Bitcoin-BTC-Short-Term-Holders-At-Risk-As-Unrealized-Losses-Remain-High.-The-image-should-feature-the-Bitcoi.webp?fit=640,366"
-          },
-          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2024/10/DALL%C2%B7E-2024-10-19-08.12.08-A-feature-image-for-an-article-titled-Bitcoin-BTC-Short-Term-Holders-At-Risk-As-Unrealized-Losses-Remain-High.-The-image-should-feature-the-Bitcoi.webp?fit=640,366"
         }
       ]
     }

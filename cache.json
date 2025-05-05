@@ -6,12 +6,42 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=317894",
+          "author": "Logan Hitchcock",
+          "description": "The Solana Foundation disclosed that validators quietly patched a major bug, avoiding a potentially catastrophic exploit.",
+          "link": "https://decrypt.co/317894/solana-patches-bug-attackers-steal-tokens",
+          "publishedOn": "2025-05-05T18:23:01.000Z",
+          "wordCount": 10412,
+          "title": "Solana Patches Bug That Could Have Allowed Attackers to Mint and Swipe Tokens",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/04/solana-tech-gID_7.png@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/04/solana-tech-gID_7.png@png"
+        },
+        {
+          "id": "https://decrypt.co/?p=317906",
+          "author": "Mathew Di Salvo",
+          "description": "Analysts at the firm are predicting Strategy—MSTR—copycats to continue buying cryptocurrency.",
+          "link": "https://decrypt.co/317906/corporate-treasuries-add-330b-bitcoin-2029-bernstein",
+          "publishedOn": "2025-05-05T17:54:04.000Z",
+          "wordCount": 8489,
+          "title": "Corporate Treasuries Will Add $330 Billion in Bitcoin by 2029: Bernstein",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/05/bitcoin-money-trading-gID_7.jpeg@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/05/bitcoin-money-trading-gID_7.jpeg@png"
+        },
+        {
           "id": "https://decrypt.co/?p=317874",
           "author": "Ryan Gladwin",
           "description": "Changpeng “CZ” Zhao, founder of Binance, reflected on his prison experience and how it brought him closer to his family.",
           "link": "https://decrypt.co/317874/binance-founder-cz-recounts-prison-experience",
           "publishedOn": "2025-05-05T17:06:30.000Z",
-          "wordCount": 10656,
+          "wordCount": 10646,
           "title": "'It's Not Fun': Binance Founder CZ Recounts Prison Experience",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/cz-token2049-scaled-gID_7.jpg@png",
@@ -26,7 +56,7 @@
           "description": "Alexander Gurevich, accused of initiating the Nomad bridge exploit, was arrested at Israel’s airport just days after changing his name.",
           "link": "https://decrypt.co/317838/israel-nabs-suspect-sought-by-us-over-190m-nomad-bridge-exploit-report",
           "publishedOn": "2025-05-05T16:49:32.000Z",
-          "wordCount": 9490,
+          "wordCount": 9480,
           "title": "Israel Nabs Suspect Sought by US Over $190M Nomad Bridge Exploit: Report",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2019/10/crypto-capital-molina-lee-crime-arrest-gID_7.jpg@png",
@@ -41,7 +71,7 @@
           "description": "Stablecoin giant Tether's dive into AI promises Bitcoin-integrated apps and decentralized tech. Here's what we know so far.",
           "link": "https://decrypt.co/317890/tether-ai-open-source-bitcoin-usdt-payments",
           "publishedOn": "2025-05-05T16:35:57.000Z",
-          "wordCount": 10592,
+          "wordCount": 10582,
           "title": "Tether Jumps Into AI Race With Open-Source Platform, Planned Bitcoin and USDT Payments",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/09/tether-logo-on-computer-circuitry-gID_7.jpg@png",
@@ -56,7 +86,7 @@
           "description": "The company upped its Bitcoin acquisition target to $84 billion last week.",
           "link": "https://decrypt.co/317872/strategy-adds-180-million-bitcoin-ahead-expanding-btc-push",
           "publishedOn": "2025-05-05T15:03:56.000Z",
-          "wordCount": 9586,
+          "wordCount": 9576,
           "title": "Strategy Adds $180 Million in Bitcoin Ahead of Expanding BTC Push",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/03/DSCF9630-1-2-scaled-gID_7.jpg@png",
@@ -71,7 +101,7 @@
           "description": "Strong flows for Bitcoin ETFs come as gold ETFs see outflows, with investors turning to Bitcoin as a hedge against U.S.-based assets.",
           "link": "https://decrypt.co/317847/bitcoin-etfs-continue-positive-run-pulling-in-1-8-billion-last-week",
           "publishedOn": "2025-05-05T13:17:58.000Z",
-          "wordCount": 9664,
+          "wordCount": 9654,
           "title": "Bitcoin ETFs Continue Positive Run, Pulling in $1.8 Billion Last Week",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/01/bitcoin-etf-cart-gID_7.jpg@png",
@@ -86,7 +116,7 @@
           "description": "The demo transaction used BitcoinOS’ new token xBTC, and zero-knowledge proofs instead of custodial arrangements.",
           "link": "https://decrypt.co/317840/bitcoinos-demo-sends-btc-to-cardano-and-back-without-a-cross-chain-bridge",
           "publishedOn": "2025-05-05T12:46:02.000Z",
-          "wordCount": 9421,
+          "wordCount": 9411,
           "title": "BitcoinOS Demo Sends BTC to Cardano and Back—Without a Cross-Chain Bridge",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/cardano-bitcoin-gID_7.jpg@png",
@@ -101,7 +131,7 @@
           "description": "Indonesian regulators have clamped down on World over license concerns, days after the project rolled out to users in the U.S.",
           "link": "https://decrypt.co/317830/indonesia-suspends-sam-altmans-eye-scanning-world-project",
           "publishedOn": "2025-05-05T11:29:53.000Z",
-          "wordCount": 9477,
+          "wordCount": 9467,
           "title": "Indonesia Suspends Sam Altman’s Eye-Scanning World Project",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/world-orb-gID_7.jpg@png",
@@ -116,7 +146,7 @@
           "description": "Marketplace access, community support, and redemptions for the NFT collection will continue through at least 2025.",
           "link": "https://decrypt.co/317823/mattel-hits-the-brakes-on-hot-wheels-virtual-garage-nfts",
           "publishedOn": "2025-05-05T10:06:53.000Z",
-          "wordCount": 9885,
+          "wordCount": 9875,
           "title": "Mattel Hits the Brakes on Hot Wheels Virtual Garage NFTs",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/hot-wheels-nfts-1-gID_7.jpg@png",
@@ -131,7 +161,7 @@
           "description": "Senator Warren says the Senate’s stablecoin bill would let the president “profit” off his own crypto as foreign powers buy in.",
           "link": "https://decrypt.co/317819/senator-warren-calls-2b-trump-uae-crypto-deal-shady-urges-against-senate-crypto-legislation",
           "publishedOn": "2025-05-05T05:59:13.000Z",
-          "wordCount": 10712,
+          "wordCount": 10702,
           "title": "Senator Warren Calls $2B Trump-UAE Deal 'Shady,' Urges Against Senate Crypto Legislation",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/06/senator-elizabeth-warren-gID_7.jpg@png",
@@ -146,7 +176,7 @@
           "description": "The proposed shift in architecture could simplify Ethereum while enhancing its zero-knowledge capabilities.",
           "link": "https://decrypt.co/317816/vitalik-speed-up-ethereum-100x-simple-as-bitcoin",
           "publishedOn": "2025-05-05T05:43:42.000Z",
-          "wordCount": 9537,
+          "wordCount": 9527,
           "title": "Vitalik Wants To Speed Up Ethereum By 100x, Make it as 'Simple as Bitcoin'",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2019/04/vitalik-head-gID_7.jpeg@png",
@@ -161,7 +191,7 @@
           "description": "Gulf investors are betting on digital assets in a tourism-reliant island nation, as the Maldives seeks to diversify its economy.",
           "link": "https://decrypt.co/317812/dubai-family-office-invest-8-8b-the-maldives-blockchain-hub",
           "publishedOn": "2025-05-05T02:40:23.000Z",
-          "wordCount": 9251,
+          "wordCount": 9241,
           "title": "Dubai Family Office to Invest $8.8B to Turn the Maldives Into a Blockchain Hub",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2019/09/marshall-islands-crypto-sovereign-IMF-gID_7.jpg@png",
@@ -176,7 +206,7 @@
           "description": "Five suspects were arrested after severing a victim's finger in the latest \"wrench attack\" involving attempts at crypto extortion.",
           "link": "https://decrypt.co/317809/french-police-rescue-kidnapped-father-crypto-millionaire",
           "publishedOn": "2025-05-05T01:29:06.000Z",
-          "wordCount": 9730,
+          "wordCount": 9720,
           "title": "French Police Rescue Kidnapped Father of Crypto Millionaire: Reports",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/04/shutterstock_7765051481-gID_7.jpg@png",
@@ -191,7 +221,7 @@
           "description": "Arizona’s Governor has vetoed a bill that would have allowed public retirement funds to invest up to 10% in Bitcoin.",
           "link": "https://decrypt.co/317807/arizona-governor-nixes-bitcoin-bill",
           "publishedOn": "2025-05-05T01:13:36.000Z",
-          "wordCount": 9449,
+          "wordCount": 9439,
           "title": "Arizona Governor Nixes Bitcoin Bill, Companion Crypto Fund Still in Limbo",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/01/bitcoin-btc-sitting-on-table-dark-lighting-gID_7.png@png",
@@ -206,7 +236,7 @@
           "description": "Looking for the latest on crypto games, including new releases, token launches and airdrops, and more? Here's what you need to know.",
           "link": "https://decrypt.co/317551/this-week-crypto-games-walking-dead-flappy-bird",
           "publishedOn": "2025-05-04T17:10:46.000Z",
-          "wordCount": 11737,
+          "wordCount": 11727,
           "title": "This Week in Crypto Games: Gala Kills 'Walking Dead', 'Flappy Bird' Flaps Away From Crypto",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/03/walking-dead-empires-artwork-gID_7.png@png",
@@ -221,7 +251,7 @@
           "description": "The Trezor Safe 5 is a safe and simple-to-use crypto wallet that's ideal for beginners, but secure and supported enough for seasoned traders.",
           "link": "https://decrypt.co/317598/trezor-safe-5-review-hardware-crypto-wallet",
           "publishedOn": "2025-05-04T15:01:02.000Z",
-          "wordCount": 14594,
+          "wordCount": 14584,
           "title": "Trezor Safe 5 Review: A Flagship Hardware Crypto Wallet With Haptic Touchscreen Smarts",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/trezor-safe-5-review-main-1-gID_7.jpg@png",
@@ -236,7 +266,7 @@
           "description": "The month of May is light on AAA hits, but still brings claymation horror and a Doom prequel with a skull-crushing gun.",
           "link": "https://decrypt.co/317526/biggest-games-releasing-in-may-2025",
           "publishedOn": "2025-05-04T13:01:02.000Z",
-          "wordCount": 11875,
+          "wordCount": 11865,
           "title": "The Biggest Games Releasing in May 2025",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Doom-The-Dark-Ages-gID_7.png@png",
@@ -251,7 +281,7 @@
           "description": "The Telegram tap-to-earn craze skyrocketed and then cratered over the course of last year. Notcoin’s founders see a new path forward.",
           "link": "https://decrypt.co/317782/next-telegram-boom-reinventing-classic-games-notcoin",
           "publishedOn": "2025-05-03T18:53:04.000Z",
-          "wordCount": 10710,
+          "wordCount": 10700,
           "title": "Next Telegram Gaming Boom Will Come From Reinventing Classics: 'Notcoin' Founders",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/03/notcoin-gID_7.png@png",
@@ -266,7 +296,7 @@
           "description": "\"The O.C.\" star Ben McKenzie’s directorial debut aims to expose the crypto world, with the documentary debuting at SXSW London in June.",
           "link": "https://decrypt.co/317713/actor-ben-mckenzie-crypto-documentary",
           "publishedOn": "2025-05-03T15:31:02.000Z",
-          "wordCount": 8831,
+          "wordCount": 8821,
           "title": "Actor Ben McKenzie Reveals Crypto Documentary 'Everyone Is Lying to You for Money'",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ben-mckenzie-gID_7.png@png",
@@ -281,7 +311,7 @@
           "description": "Rhode Island-based Ivy League institution Brown University is now holding exposure to Bitcoin via BlackRock's ETF.",
           "link": "https://decrypt.co/317714/brown-university-bitcoin-blackrock-etf",
           "publishedOn": "2025-05-03T14:10:23.000Z",
-          "wordCount": 9328,
+          "wordCount": 9318,
           "title": "Brown University Bets on Bitcoin With Millions Worth of BlackRock ETF Shares",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/brown-university-gID_7.png@png",
@@ -296,7 +326,7 @@
           "description": "Research analysts from Benchmark and Bernstein reiterated buy ratings and set lofty price targets for Bitcoin reserve giant Strategy (MSTR).",
           "link": "https://decrypt.co/317710/analysts-upbeat-strategy-bitcoin-buying-plans",
           "publishedOn": "2025-05-02T22:20:51.000Z",
-          "wordCount": 10517,
+          "wordCount": 10507,
           "title": "Analysts Remain Bullish on Strategy's Bitcoin Buying Plans",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/03/bitcoin-btc-gold-coins-bank-vault-el-salvador-gID_7.jpg@png",
@@ -311,7 +341,7 @@
           "description": "The UK's financial regulator is considering a ban on buying crypto with credit, and also mulling outlawing crypto lending and borrowing platforms.",
           "link": "https://decrypt.co/317701/uk-ban-buying-crypto-credit-cards",
           "publishedOn": "2025-05-02T21:28:54.000Z",
-          "wordCount": 9070,
+          "wordCount": 9060,
           "title": "UK Regulator Proposes Ban on Buying Crypto With Credit Cards",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/12/image5-gID_7.jpg@png",
@@ -326,7 +356,7 @@
           "description": "Gala Games is shutting down The Walking Dead: Empires and offering NFT owners assets in other games as compensation.",
           "link": "https://decrypt.co/317687/the-walking-dead-ethereum-nft-game-is-about-to-be-killed-off",
           "publishedOn": "2025-05-02T21:10:30.000Z",
-          "wordCount": 10120,
+          "wordCount": 10110,
           "title": "'The Walking Dead' Ethereum NFT Game Is About to Be Killed Off",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/walking-dead-empires-gID_7.png@png",
@@ -341,7 +371,7 @@
           "description": "Strategy goes full laser-eyes for Bitcoin while Cboe pats itself on the back for its “really nice” crypto ecosystem.",
           "link": "https://decrypt.co/317671/public-keys-strategy-bitcoin-robinhood-gold",
           "publishedOn": "2025-05-02T20:48:09.000Z",
-          "wordCount": 12093,
+          "wordCount": 12083,
           "title": "Public Keys: Strategy Doubles Down on Bitcoin Plans, Robinhood Glitters With Gold",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/05/michael-saylor-mstr-bitcoin2023-gID_7.jpg@png",
@@ -356,7 +386,7 @@
           "description": "While U.S. stocks have recovered from Trump’s unveiling of \"reciprocal\" tariffs, the greenback is still weaker.",
           "link": "https://decrypt.co/317686/bitcoin-rises-wall-street-cements-liberation-day-recovery-strong-jobs-report",
           "publishedOn": "2025-05-02T20:00:37.000Z",
-          "wordCount": 9758,
+          "wordCount": 9748,
           "title": "Bitcoin Rises as Wall Street Cements ‘Liberation Day’ Recovery on Strong Jobs Report",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2019/11/indeed-bitcoin-crypto-blockchain-jobs-career-gID_7.jpg@png",
@@ -371,7 +401,7 @@
           "description": "Elon Musk's \"truth-seeking\" chatbot Grok is causing conservative meltdowns by settling arguments in favor of the left.",
           "link": "https://decrypt.co/317677/grok-woke-maga-furious-elon-musk-ai",
           "publishedOn": "2025-05-02T19:56:00.000Z",
-          "wordCount": 11516,
+          "wordCount": 11506,
           "title": "'Grok Is Woke!' MAGA Users Furious as Elon Musk's AI Delivers 'Uncomfortable Truths'",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/a-photograph-of-a-shattered-cybernetic-h_NnJzTp0fTDeoE78vTVIsww_UQl6dZD_SLqVVYbW1aiNjA-gID_7.jpeg@png",
@@ -386,7 +416,7 @@
           "description": "The Bitcoin miner slightly outperformed Wall Street's revenue expectations, but its shares still swung to a loss.",
           "link": "https://decrypt.co/317664/riot-platform-post-mixed-q1-results-effects-of-bitcoin-blockchains-halving-linger",
           "publishedOn": "2025-05-02T19:02:54.000Z",
-          "wordCount": 9717,
+          "wordCount": 9707,
           "title": "Riot Platforms Posts Mixed Q1 Results as Effects of Bitcoin 'Halving' Linger",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/06/riot-platforms-bitcoin-miner-scaled-gID_7.jpg@png",
@@ -401,7 +431,7 @@
           "description": "Amazon's Alexa+ debuts in the United States, offering a purportedly smarter, more conversational assistant experience using generative AI.",
           "link": "https://decrypt.co/317605/amazon-rolling-out-enhanced-alexa",
           "publishedOn": "2025-05-02T18:29:29.000Z",
-          "wordCount": 9657,
+          "wordCount": 9647,
           "title": "Amazon Begins Rolling Out Enhanced AI-Powered Alexa+ Assistant",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Decrypt-Wallpaper-Format-1600-x-900-px-11-gID_7.jpg@png",
@@ -431,7 +461,7 @@
           "description": "Apple has loosened restrictions on developers’ ability to offer iPhone and iPad apps directing users to external purchasing methods, including for NFTs.",
           "link": "https://decrypt.co/317589/apple-loosens-nft-crypto-ios-app-rules",
           "publishedOn": "2025-05-02T16:45:36.000Z",
-          "wordCount": 9595,
+          "wordCount": 9585,
           "title": "Apple Eases NFT, Crypto Rules for iOS Apps Following Antitrust Ruling",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/apple-iphone-gID_7.png@png",
@@ -446,7 +476,7 @@
           "description": "UPDATE: It's official—GTA 6 has been delayed into 2026. Here's the latest on the next Grand Theft Auto with the firm launch date.",
           "link": "https://decrypt.co/154049/grand-theft-auto-6-release-date-rumors-leaks-news",
           "publishedOn": "2025-05-02T15:13:52.000Z",
-          "wordCount": 14905,
+          "wordCount": 14895,
           "title": "GTA 6 Preview: Everything You Need to Know About the New Grand Theft Auto",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/12/gta6-gID_7.jpeg@png",
@@ -461,7 +491,7 @@
           "description": "The UK's Financial Conduct Authority is seeking feedback on crypto assets on the path towards a more regulated market.",
           "link": "https://decrypt.co/317552/fca-asks-for-public-feedback-on-crypto-legislation",
           "publishedOn": "2025-05-02T15:07:53.000Z",
-          "wordCount": 9455,
+          "wordCount": 9445,
           "title": "FCA Asks for Public Feedback on UK Crypto Legislation",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/01/FCA-gID_7.jpg@png",
@@ -476,7 +506,7 @@
           "description": "Bitcoin dominance is up to 64.89%, up from around 57.9% at the start of the year, as its price inches closer to $100,000.",
           "link": "https://decrypt.co/317548/bitcoin-dominance-hits-four-year-high-as-btc-price-tops-97000",
           "publishedOn": "2025-05-02T12:12:16.000Z",
-          "wordCount": 10127,
+          "wordCount": 10117,
           "title": "Bitcoin Dominance Hits Four-Year High As BTC Price Tops $97,000",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/02/Bitcoin-Goes-Up-Shutterstock-gID_7.jpg@png",
@@ -484,21 +514,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/02/Bitcoin-Goes-Up-Shutterstock-gID_7.jpg@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=317544",
-          "author": "Vismaya V",
-          "description": "The algorithmic trading firm announced that it is dropping all exposure to Ethereum, calling it “statistically broken.”",
-          "link": "https://decrypt.co/317544/two-prime-ditches-ethereum-for-bitcoin-citing-meme-coin-behavior",
-          "publishedOn": "2025-05-02T11:47:39.000Z",
-          "wordCount": 9808,
-          "title": "Two Prime Ditches Ethereum for Bitcoin, Citing ‘Meme Coin’ Behavior",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/05/ethereum-eth-stock-charts-ethereumetf-etf-gID_7.jpeg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/05/ethereum-eth-stock-charts-ethereumetf-etf-gID_7.jpeg@png"
         },
         {
           "id": "https://decrypt.co/videos/interviews/vzkBmyfo/market-report-fartcoin-leads-memes-axiom-breaks-out",
@@ -521,7 +536,7 @@
           "description": "BTC stable, BlackRock to Tokenise huge Fund, HOUSE hits $100M\nFOMO HOUR EP347\n\nBTC stable, dominance rises towards 65%. Blackrock may tokenise $150bn money market fund. Senate could vote on Stablecoin legislation soon. BTC to hit $1m by 2028: Hayes. CBOE launches BTC index futures. BTC data storage debate grows. BTC whale loses $330m in hack. OFAC sanctions on Tornado cash ruled illegal. SEC extends rule review for DOGE ETF, XRP fund. SEC drops investigation into Paypal stablecoin. Libre to launch tokenised bonds on TON. UK plans regulatory framework for crypto assets. Bunq collabs with Kraken to launch trading services.\n\nFOMO HOUR brings you the biggest daily news, updates and events from inside and outside of the crypto and macro spheres! Join hosts Farokh, Mando and Tyler as they cover some of the biggest topics at present with some of the biggest names in the ecosystem. Streaming live 5 days per week, Monday to Friday 10:00 AM EST to 11:00 AM EST on YouTube and X.\n\nJOIN YEET = https://yeet.com/register?aff=fomohour\nPLAYLIST = https://www.youtube.com/playlist?list=PLGSgoImPFTiVpkHhLXF78cE_Z3uG7VNGL\nPODCAST = https://podcasters.spotify.com/pod/show/fomohour\nLIVE SPACE = https://x.com/i/spaces/1vAxRDXwmvPGl\n\nLinks:\nhttps://linktr.ee/fomohour\nhttps://twitter.com/fomohour\nhttps://www.rug.fm/\nhttps://x.com/rugradio\n\nHosts:\nhttps://twitter.com/farokh\nhttps://twitter.com/rektmando\nhttps://twitter.com/tyler_did_it\n\nMyriad:\nhttps://myriad.markets\nhttps://x.com/MyriadMarkets\n\n#bitcoin #crypto #podcast",
           "link": "https://decrypt.co/videos/interviews/Qlf702ij/btc-stable-blackrock-to-tokenise-huge-fund-house-hits-100m",
           "publishedOn": "2025-04-30T16:35:18.000Z",
-          "wordCount": 7236,
+          "wordCount": 6715,
           "title": "BTC stable, BlackRock to Tokenise huge Fund, HOUSE hits $100M",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/Qlf702ij/poster.jpg",
@@ -536,7 +551,7 @@
           "description": "UNDER EXPOSED brings you coverage of the biggest macro news of the week impacting crypto and broader markets, with a focus on the newest trends, trades and narratives. Join hosts TylerD, Deeze, Geebz and Peter Jennings as they have longer conversations on the hottest sectors in crypto and NFTs, what is moving markets and what they’re buying and selling. Streaming live every Tuesday from 12:00 PM EST to 1:00 PM EST on YouTube and X.\n\n00:00:00 Crypto Market Trends and Strategic Uncertainty  \n00:03:55 Crypto Market Surges: Bitcoin, Ethereum, and Solana Updates  \n00:07:47 Market Volatility and Equities Outlook  \n00:11:10 New PM and International Relations Shift  \n00:15:24 Bitcoin Chart Predictions and M2 Correlation\n00:18:33 Ongoing Tax Reform Developments\n00:22:17 Unpacking the Global Economic Fracture with Trump  \n00:25:43 The Rise of Bitcoin Investments and Wealth Management Trends\n00:29:12 Signals of a Market Rebound in AI  \n00:32:47 The Early Days of WalletConnect  \n00:36:12 Achieving Product Market Fit with WalletConnect  \n00:39:31 Impact of Token Launch on Market Strategy  \n00:43:04 Solana's Rise and Comparison to Early Ethereum\n00:46:24 Importance of Long-term Staking Alignment\n00:49:47 The Role of Decentralization in Global Expansion\n00:53:33 Upcoming Features in Wallet Connect  \n\nLIVE AUDIO SPACE - https://x.com/i/spaces/1ypJdZAmqYgKW\n\nLinks:\nhttps://www.rug.fm/\nhttps://x.com/rugradio\nhttps://linktr.ee/rugradio\n\nHosts:\nhttps://twitter.com/deeze\nhttps://twitter.com/CSURAM88\nhttps://twitter.com/artgeebz\nhttps://twitter.com/tyler_did_it\n\nMyriad:\nhttps://myriad.markets\nhttps://x.com/MyriadMarkets\nhttps://www.instagram.com/myriadmarkets\n\n#bitcoin #crypto #podcast",
           "link": "https://decrypt.co/videos/interviews/HE4TZHnz/under-exposed-ep-23-the-rise-of-bitcoin-investments",
           "publishedOn": "2025-04-30T09:34:15.000Z",
-          "wordCount": 7318,
+          "wordCount": 6797,
           "title": "UNDER EXPOSED EP 23 - The Rise of Bitcoin Investments",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/HE4TZHnz/poster.jpg",
@@ -581,7 +596,7 @@
           "description": "Fed ends Crypto Crackdown, SUI leads L1s, AI coins rebound.\nFOMO HOUR EP345.\n\nBTC stable, SUI leads gains in L1s. Fed ends crypto reporting mandate for banks. BTC supply on exchanges lowest since Nov 2018. Cantor stock doubles after Capital 21 announced. CME Group to launch XRP futures on May 19. US delays DOT, HBAR ETF decisions. Citi projects $3.7T stablecoin market by 2030. New Hampshire BTC bill clear Senate. Tether increases stake in Juventus FC to 10%. MetaMask allows users to choose gas token now. AT&T subs can now connect to Helium Network. Coinbase to collab with PayPal to promote PYUSD. Securitize to collab with Mantle on crypto fund. Lazarus set up shell co. in US to dupe developers. Binance launches points system for airdrops.\n\nFOMO HOUR brings you the biggest daily news, updates and events from inside and outside of the crypto and macro spheres! Join hosts Farokh, Mando and Tyler as they cover some of the biggest topics at present with some of the biggest names in the ecosystem. Streaming live 5 days per week, Monday to Friday 10:00 AM EST to 11:00 AM EST on YouTube and X.\n\nJOIN YEET = https://yeet.com/register?aff=fomohour\nPLAYLIST = https://www.youtube.com/playlist?list=PLGSgoImPFTiVpkHhLXF78cE_Z3uG7VNGL\nPODCAST = https://podcasters.spotify.com/pod/show/fomohour\nLIVE SPACE = https://x.com/i/spaces/1dRKZYrMaezxB\n\nLinks:\nhttps://linktr.ee/fomohour\nhttps://twitter.com/fomohour\nhttps://www.rug.fm/\nhttps://x.com/rugradio\n\nHosts:\nhttps://twitter.com/farokh\nhttps://twitter.com/rektmando\nhttps://twitter.com/tyler_did_it\n\nMyriad:\nhttps://myriad.markets\nhttps://x.com/MyriadMarkets\n\n#bitcoin #crypto #podcast",
           "link": "https://decrypt.co/videos/interviews/I8X9ZMW1/fed-ends-crypto-crackdown-sui-leads-l1s-ai-coins-rebound",
           "publishedOn": "2025-04-25T17:13:48.000Z",
-          "wordCount": 7366,
+          "wordCount": 6845,
           "title": "Fed ends Crypto Crackdown, SUI leads L1s, AI coins rebound",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/I8X9ZMW1/poster.jpg",
@@ -671,7 +686,7 @@
           "description": "Crypto rallies on Weaker Dollar, Gold keeps Soaring, Stocks open Weak\nFOMO HOUR EP340\n\nFOMO HOUR brings you the biggest daily news, updates and events from inside and outside of the crypto and macro spheres! Join hosts Farokh, Mando and Tyler as they cover some of the biggest topics at present with some of the biggest names in the ecosystem. Streaming live 5 days per week, Monday to Friday 10:00 AM EST to 11:00 AM EST on YouTube and X.\n\nBTC hits $87k on weaker dollar, rise in gold. Strategy may announce up to $2bn BTC buy today. SOL overtakes ETH in market cap staked. SOL/ETH weekly close hits another ATH. Vitalik wants RISC-V to replace ETH’s EVM. SOL has better roadmap than ETH: Adams. Charles Schwab to offer crypto trading in a year. Only 68% of ByBit hacked funds still traceable. Metap…",
           "link": "https://decrypt.co/videos/interviews/oFhNHFgw/crypto-rallies-on-weaker-dollar-gold-keeps-soaring-stocks-open-weak",
           "publishedOn": "2025-04-22T09:46:56.000Z",
-          "wordCount": 7931,
+          "wordCount": 7410,
           "title": "Crypto rallies on Weaker Dollar, Gold keeps Soaring, Stocks open Weak",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/oFhNHFgw/poster.jpg",
@@ -686,7 +701,7 @@
           "description": "HYPE & SOL lead L1s, Powell scares Markets, Base launches memecoin\nFOMO HOUR EP339\n\nBTC dives on Powell tariff comments, rebounds. BTC dominance at 4 year highs. BTC hashrate hits new ATH. BTC supply on exchanges dips to record lows. ETH 24 hour revenue drops below $100k. BTC/ETH ratio up ~100% in a year. HYPE & SOL lead rebound in L1s. SOL hits highest REV since February. Powell bullish on the path forward for crypto in US. BTC may be around for a long time: Gensler. Countries printing unlimited money to buy BTC: CZ. Russia floats plans to create stablecoin. Court pauses 18-state lawsuit against SEC. VanEck to launch ‘crypto-related ETF’.\n\nJOIN YEET = https://yeet.com/register?aff=fomohour\nPLAYLIST = https://www.youtube.com/playlist?list=PLGSgoImPFTiVpkHhLXF78cE_Z3uG7VNGL\nPODCAST = https://podcasters.spotify.com/pod/show/fomohour\nLIVE SPACE = https://x.com/i/spaces/1lDGLzQVOjZxm\n\nLinks:\nhttps://linktr.ee/fomohour\nhttps://twitter.com/fomohour\nhttps://www.rug.fm/\nhttps://x.com/rugradio\nhttps://linktr.ee/rugradio\n\nHosts:\nhttps://twitter.com/farokh\nhttps://twitter.com/rektmando\nhttps://twitter.com/tyler_did_it\n\nMyriad:\nhttps://myriad.markets\nhttps://x.com/MyriadMarkets\nhttps://www.instagram.com/myriadmarkets\n\nFOMO HOUR brings you the biggest daily news, updates and events from inside and outside of the crypto and macro spheres! Join hosts Farokh, Mando and Tyler as they cover some of the biggest topics at present with some of the biggest names in the ecosystem. Streaming live 5 days per week, Monday to Friday 10:00 AM EST to 11:00 AM EST on YouTube and X.\n\n#bitcoin #crypto #podcast",
           "link": "https://decrypt.co/videos/interviews/xAK32zBy/hype-sol-lead-l1s-powell-scares-markets-base-launches-memecoin",
           "publishedOn": "2025-04-17T15:36:42.000Z",
-          "wordCount": 7301,
+          "wordCount": 6780,
           "title": "HYPE & SOL lead L1s, Powell scares Markets, Base launches memecoin",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/xAK32zBy/poster.jpg",
@@ -761,7 +776,7 @@
           "description": "Tariff volatility returns, Gold hits ATH again, FARTCOIN nears $900M\nFOMO HOUR EP335\n\nBTC falls to $78k then rebounds strongly. Trump signs bill repealing IRS rule targeting DeFi. North Carolina proposes tax payments in crypto. Arizona passes BTC mining rights bill. SEC sets out new guidance for crypto offerings. VanEck files for AVAX ETF with Nasdaq. WLFI denies selling ETH. Vitalik shares simplified ETH L1 privacy roadmap. Crypto developer activity lowest since 2018. Janover Inc rebrands, acquires $4.6m SOL. OKX collabs with fin giants on collateral mirroring. HYPE leads rebound in L1s this week. VIRTUAL & ONDO may get Binance listing. Block Inc settles for $40m with NY regulators. Synthetix’s sUSD depegs to $0.85.\n\nPLAYLIST = https://www.youtube.com/playlist?list=PLGSgoImPFTiVpkHhLXF78cE_Z3uG7VNGL\nPODCAST = https://podcasters.spotify.com/pod/show/fomohour\nLIVE SPACE = https://x.com/i/spaces/1ypKdZnoAApJW\nJOIN YEET NOW = https://yeet.com/register?aff=fomohour\n\nLinks:\nhttps://linktr.ee/fomohour\nhttps://twitter.com/fomohour\nhttps://www.rug.fm/\nhttps://x.com/rugradio\nhttps://linktr.ee/rugradio\n\nHosts:\nhttps://twitter.com/farokh\nhttps://twitter.com/rektmando\nhttps://twitter.com/tyler_did_it\n\nMyriad:\nhttps://myriad.markets\nhttps://x.com/MyriadMarkets\nhttps://www.instagram.com/myriadmarkets\n\nFOMO HOUR brings you the biggest daily news, updates and events from inside and outside of the crypto and macro spheres! Join hosts Farokh, Mando and Tyler as they cover some of the biggest topics at present with some of the biggest names in the ecosystem. Streaming live 5 days per week, Monday to Friday 10:00 AM EST to 11:00 AM EST on YouTube and X.\n\n#bitcoin #crypto #podcast",
           "link": "https://decrypt.co/videos/interviews/LtVsD0Nv/tariff-volatility-returns-gold-hits-ath-again-fartcoin-nears-900m",
           "publishedOn": "2025-04-11T15:36:49.000Z",
-          "wordCount": 7315,
+          "wordCount": 6794,
           "title": "Tariff volatility returns, Gold hits ATH again, FARTCOIN nears $900M",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/LtVsD0Nv/poster.jpg",
@@ -793,204 +808,204 @@
       "siteUrl": "https://cryptopanic.com/",
       "articles": [
         {
-          "id": "https://cryptopanic.com/news/21573351/Curve-Finance-X-account-hacked-posts-fake-airdrop-link",
+          "id": "https://cryptopanic.com/news/21574462/Price-predictions-55-SPX-DXY-BTC-ETH-XRP-BNB-SOL-DOGE-ADA-SUI",
           "author": null,
-          "description": "The X account of Curve Finance was hacked, posting malicious links that could drain wallets.",
-          "link": "https://cryptopanic.com/news/21573351/Curve-Finance-X-account-hacked-posts-fake-airdrop-link",
-          "publishedOn": "2025-05-05T17:11:31.000Z",
-          "wordCount": 512,
-          "title": "Curve Finance X account hacked, posts fake airdrop link",
-          "imageUrl": "https://www.cryptopolitan.com/wp-content/uploads/2025/05/Curve-Finance-X-account-hacked-posts-fake-airdrop-link.webp"
+          "description": "Key points:Bitcoin is witnessing a tough battle between the bulls and the bears at the $95,000 level. Solid buying by spot Bitcoin ETF investors last week signals a positive shift in investor sentiment.  Select altcoins have held their support levels, increasing the likelihood of a short-term up...",
+          "link": "https://cryptopanic.com/news/21574462/Price-predictions-55-SPX-DXY-BTC-ETH-XRP-BNB-SOL-DOGE-ADA-SUI",
+          "publishedOn": "2025-05-05T18:16:25.000Z",
+          "wordCount": 516,
+          "title": "Price predictions 5/5: SPX, DXY, BTC, ETH, XRP, BNB, SOL, DOGE, ADA, SUI",
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NmExYTgtYTYyYi03NjQ5LWE3NjktMTZkYWE5YjkyMGE1.jpg"
         },
         {
-          "id": "https://cryptopanic.com/news/21573292/Strategy-and-Semler-Lock-in-2K-BTC-as-Bitcoin-Nears-100K",
+          "id": "https://cryptopanic.com/news/21574438/Trump-keeps-lying-about-everything-every-day-Could-there-be-any-real-consequences-for-that",
           "author": null,
-          "description": "TL;DR Strategy slowed its Bitcoin purchases after the price surged to $97,000, adding 1,895 BTC for $180. 3 million between April 28 and May 4. Semler Scientific increased its BTC investment by 50% compared to the previous week, buying 167 BTC for $16. 2 million at an average price of $97,093....",
-          "link": "https://cryptopanic.com/news/21573292/Strategy-and-Semler-Lock-in-2K-BTC-as-Bitcoin-Nears-100K",
-          "publishedOn": "2025-05-05T17:11:31.000Z",
-          "wordCount": 514,
-          "title": "Strategy and Semler Lock in 2K BTC as Bitcoin Nears $100K",
-          "imageUrl": "https://crypto-economy.com//wp-content/uploads/2022/12/cropped-ce-icon-1-270x270.png"
-        },
-        {
-          "id": "https://cryptopanic.com/news/21572862/Its-Not-Fun-Binance-Founder-CZ-Recounts-Prison-Experience",
-          "author": null,
-          "description": "Changpeng “CZ” Zhao, founder of Binance, reflected on his prison experience and how it brought him closer to his family.",
-          "link": "https://cryptopanic.com/news/21572862/Its-Not-Fun-Binance-Founder-CZ-Recounts-Prison-Experience",
-          "publishedOn": "2025-05-05T17:06:30.000Z",
-          "wordCount": 512,
-          "title": "'It's Not Fun': Binance Founder CZ Recounts Prison Experience",
-          "imageUrl": "https://cdn.decrypt.co/wp-content/uploads/2025/05/cz-token2049-scaled-gID_7.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/21573296/Crypto-Markets-Slide-Ahead-of-Fed-Meeting",
-          "author": null,
-          "description": "Bitcoin, Ethereum, and other major tokens tumble ahead of Wednesday’s Fed decision amid renewed trade war fears.",
-          "link": "https://cryptopanic.com/news/21573296/Crypto-Markets-Slide-Ahead-of-Fed-Meeting",
-          "publishedOn": "2025-05-05T17:05:03.000Z",
-          "wordCount": 510,
-          "title": "Crypto Markets Slide Ahead of Fed Meeting",
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/2dc3c94ccd239dd03f488756a2f1ebce518ffaf8-1555x875.png"
-        },
-        {
-          "id": "https://cryptopanic.com/news/21572614/Ripple-commits-25-million-in-RLUSD-stablecoin-to-boost-US-education",
-          "author": null,
-          "description": "Ripple has pledged $25 million in its RLUSD stablecoin to support US education through nonprofit organizations DonorsChoose and Teach For America. The contribution, revealed on May 5, aims to support teachers, fund classroom projects, and expand access to essential academic resources for...",
-          "link": "https://cryptopanic.com/news/21572614/Ripple-commits-25-million-in-RLUSD-stablecoin-to-boost-US-education",
-          "publishedOn": "2025-05-05T17:03:35.000Z",
-          "wordCount": 514,
-          "title": "Ripple commits $25 million in RLUSD stablecoin to boost US education",
-          "imageUrl": "https://cryptoslate.com/wp-content/uploads/2025/05/rlusd-us-education.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/21572605/Whales-Are-Increasingly-Shorting-Altcoins-Retail-Investors-Remain-Long",
-          "author": null,
-          "description": "This contrasts with the behavior of retail investors, who reportedly remain largely exposed in long positions.",
-          "link": "https://cryptopanic.com/news/21572605/Whales-Are-Increasingly-Shorting-Altcoins-Retail-Investors-Remain-Long",
-          "publishedOn": "2025-05-05T17:02:32.000Z",
-          "wordCount": 512,
-          "title": "Whales Are Increasingly Shorting Altcoins, Retail Investors Remain Long",
-          "imageUrl": "https://coindoo.com/wp-content/uploads/2025/03/crypto-whale-012505-250x180.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/21572372/Crypto-Markets-Face-Make-Or-Break-WeekHeres-Whats-At-Stake",
-          "author": null,
-          "description": "The first full crypto trading week of May compresses five heavy-hitting catalysts into four days, each poised to sway liquidity, sentiment and valuations across the digital-asset spectrum. #1 Bitcoin And Crypto Market Awaits FOMC Decision (May 8) The Federal Open Market Committee is almost...",
-          "link": "https://cryptopanic.com/news/21572372/Crypto-Markets-Face-Make-Or-Break-WeekHeres-Whats-At-Stake",
-          "publishedOn": "2025-05-05T17:00:25.000Z",
-          "wordCount": 511,
-          "title": "Crypto Markets Face Make-Or-Break Week—Here’s What’s At Stake",
-          "imageUrl": "https://www.newsbtc.com/wp-content/uploads/2024/12/DALL·E-2024-12-16-10.28.23-A-person-viewed-from-the-front-looking-through-binoculars.-One-lens-of-the-binoculars-shows-a-clear-detailed-Bitcoin-symbol-while-the-other-lens-sho.png?fit=750%2C429"
-        },
-        {
-          "id": "https://cryptopanic.com/news/21572961/Trump-Meme-Coin-Draws-Attention-As-Crypto-Focused-Dinners-Projected-To-Draw-Millions",
-          "author": null,
-          "description": "President Donald Trump is leaning into crypto as a fundraising tool, with two events projected to generate millions in donations, despite his claim of earning no personal profit from the sector. read more",
-          "link": "https://cryptopanic.com/news/21572961/Trump-Meme-Coin-Draws-Attention-As-Crypto-Focused-Dinners-Projected-To-Draw-Millions",
-          "publishedOn": "2025-05-05T16:55:13.000Z",
-          "wordCount": 515,
-          "title": "Trump Meme Coin Draws Attention As Crypto-Focused Dinners Projected To Draw Millions",
-          "imageUrl": "https://cdn.benzinga.com/files/images/story/2025/05/05/Bitcoin-Trump.jpeg?auto=jpg&amp;dpr=1&amp;fit=crop&amp;height=480&amp;optimize=medium&amp;width=720"
-        },
-        {
-          "id": "https://cryptopanic.com/news/21572369/Kraken-Catches-North-Korean-Hacker-Posing-As-Steven-Smith-Applying-for-Job-at-Crypto-Exchange-Report",
-          "author": null,
-          "description": "One of the world’s top crypto exchange platforms has reportedly caught a North Korean hacker with a fake identity to apply for a job at the firm.",
-          "link": "https://cryptopanic.com/news/21572369/Kraken-Catches-North-Korean-Hacker-Posing-As-Steven-Smith-Applying-for-Job-at-Crypto-Exchange-Report",
-          "publishedOn": "2025-05-05T16:55:02.000Z",
+          "description": "President Donald Trump sat down with NBC News and told more lies in one hour than most people tell in a lifetime. The interview aired just days after his first 100 days back in the White House, and Kristen Welker threw him questions on every major topic—crypto, tariffs, gas prices, Medicaid, and...",
+          "link": "https://cryptopanic.com/news/21574438/Trump-keeps-lying-about-everything-every-day-Could-there-be-any-real-consequences-for-that",
+          "publishedOn": "2025-05-05T18:12:04.000Z",
           "wordCount": 519,
-          "title": "Kraken Catches North Korean Hacker Posing As ‘Steven Smith’ Applying for Job at Crypto Exchange: Report",
+          "title": "Trump keeps lying about everything every day – Could there be any real consequences for that?",
+          "imageUrl": "https://www.cryptopolitan.com/wp-content/uploads/2025/05/President-Trump-keeps-lying-about-everything-every-day.-op-ed.webp"
+        },
+        {
+          "id": "https://cryptopanic.com/news/21574320/3-Reasons-Why-Shiba-Inu-SHIB-Could-be-on-the-Verge-of-a-Price-Rally",
+          "author": null,
+          "description": "Despite the bullish perspective, SHIB is down by roughly 10% on a seven-day scale.",
+          "link": "https://cryptopanic.com/news/21574320/3-Reasons-Why-Shiba-Inu-SHIB-Could-be-on-the-Verge-of-a-Price-Rally",
+          "publishedOn": "2025-05-05T18:10:59.000Z",
+          "wordCount": 518,
+          "title": "3 Reasons Why Shiba Inu (SHIB) Could be on the Verge of a Price Rally",
+          "imageUrl": "https://cryptopotato.com/wp-content/uploads/2025/05/SHIB_CB-13.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/21574070/JPMorgan-Chase-Begins-Blocking-Zelle-Payments-Originating-From-Social-Media-After-206800000-Lost-to-Scams",
+          "author": null,
+          "description": "The biggest bank in the US has begun blocking certain transactions from Zelle after hundreds of millions of dollars in scams were reportedly facilitated through the payments platform.",
+          "link": "https://cryptopanic.com/news/21574070/JPMorgan-Chase-Begins-Blocking-Zelle-Payments-Originating-From-Social-Media-After-206800000-Lost-to-Scams",
+          "publishedOn": "2025-05-05T18:05:55.000Z",
+          "wordCount": 518,
+          "title": "JPMorgan Chase Begins Blocking Zelle Payments Originating From Social Media After $206,800,000 Lost to Scams",
           "imageUrl": "https://dailyhodl.com/wp-content/uploads/2019/12/cropped-TDHLds.png?w=270"
         },
         {
-          "id": "https://cryptopanic.com/news/21572367/Ep-515-Matt-Mudano-Bitcoin-Programmability-with-Arch-Labs",
+          "id": "https://cryptopanic.com/news/21574435/How-To-Run-A-BITCOIN-NODE-Knots-on-Desktop-Umbrel-and-Start9",
           "author": null,
-          "description": "For episode 515, Brandon Zemp is joined by Matt Mudano, Co-founder and CEO of Arch Labs. Arch makes it easy to deploy interoperable smart contract-like programs on the L1, without fracturing liquidity or taking on bridge risk. They are building the permissionless financial rails for a...",
-          "link": "https://cryptopanic.com/news/21572367/Ep-515-Matt-Mudano-Bitcoin-Programmability-with-Arch-Labs",
-          "publishedOn": "2025-05-05T16:53:17.000Z",
-          "wordCount": 513,
-          "title": "Ep. 515 Matt Mudano | Bitcoin Programmability with Arch Labs",
-          "imageUrl": "https://podcasters.spotify.com/images/social-thumbnail.png"
-        },
-        {
-          "id": "https://cryptopanic.com/news/21572364/US-Congress-Proposes-New-Crypto-Regulatory-Framework",
-          "author": null,
-          "description": "U. S. drafts expanded digital asset regulation to streamline SEC and CFTC roles.",
-          "link": "https://cryptopanic.com/news/21572364/US-Congress-Proposes-New-Crypto-Regulatory-Framework",
-          "publishedOn": "2025-05-05T16:52:50.000Z",
-          "wordCount": 510,
-          "title": "U.S. Congress Proposes New Crypto Regulatory Framework",
-          "imageUrl": "https://coincu.com/wp-content/uploads/2025/05/us-capitol-bitcoin-cooperation.png"
-        },
-        {
-          "id": "https://cryptopanic.com/news/21573092/JUST-IN-Merchants-in-the-City-of-Cannes-France-will-start-accepting-Bitcoin-and-crypto-this-summer-with-the-council-aiming-for-90-adoption",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/21573092/JUST-IN-Merchants-in-the-City-of-Cannes-France-will-start-accepting-Bitcoin-and-crypto-this-summer-with-the-council-aiming-for-90-adoption",
-          "publishedOn": "2025-05-05T16:52:13.000Z",
-          "wordCount": 528,
-          "title": "JUST IN: 🇫🇷 Merchants in the City of Cannes, France will start accepting Bitcoin and crypto this summer, with the council aiming for 90% adoption.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/21572347/Israel-Nabs-Suspect-Sought-by-US-Over-190M-Nomad-Bridge-Exploit-Report",
-          "author": null,
-          "description": "Alexander Gurevich, accused of initiating the Nomad bridge exploit, was arrested at Israel’s airport just days after changing his name.",
-          "link": "https://cryptopanic.com/news/21572347/Israel-Nabs-Suspect-Sought-by-US-Over-190M-Nomad-Bridge-Exploit-Report",
-          "publishedOn": "2025-05-05T16:49:32.000Z",
+          "description": "Looking to break away from the defaults? In this tutorial, I’ll show you how to run Bitcoin Knots (or switch over from Bitcoin Core) on desktop, Umbrel, and Start9—and how to connect it with Sparrow Wallet for full economic sovereignty. More features, more control, same Bitcoin. 🔗 Resources &...",
+          "link": "https://cryptopanic.com/news/21574435/How-To-Run-A-BITCOIN-NODE-Knots-on-Desktop-Umbrel-and-Start9",
+          "publishedOn": "2025-05-05T18:01:02.000Z",
           "wordCount": 515,
-          "title": "Israel Nabs Suspect Sought by US Over $190M Nomad Bridge Exploit: Report",
-          "imageUrl": "https://cdn.decrypt.co/wp-content/uploads/2019/10/crypto-capital-molina-lee-crime-arrest-gID_7.jpg"
+          "title": "How To Run A BITCOIN NODE: Knots on Desktop, Umbrel and Start9",
+          "imageUrl": "https://i3.ytimg.com/vi/zT4NuAaH3EM/hqdefault.jpg"
         },
         {
-          "id": "https://cryptopanic.com/news/21572301/Tether-Jumps-Into-AI-Race-With-Open-Source-Platform-Planned-Bitcoin-and-USDT-Payments",
+          "id": "https://cryptopanic.com/news/21573797/Bernstein-Predicts-330-Billion-Corporate-Bitcoin-Allocation-in-Next-5-Years",
           "author": null,
-          "description": "Stablecoin giant Tether's dive into AI promises Bitcoin-integrated apps and decentralized tech. Here's what we know so far.",
-          "link": "https://cryptopanic.com/news/21572301/Tether-Jumps-Into-AI-Race-With-Open-Source-Platform-Planned-Bitcoin-and-USDT-Payments",
-          "publishedOn": "2025-05-05T16:35:57.000Z",
+          "description": "This projection is fueled by the increasing trend of institutional adoption and the notable success of corporations with significant Bitcoin […] The post Bernstein Predicts $330 Billion Corporate Bitcoin Allocation in Next 5 Years appeared first on Coindoo.",
+          "link": "https://cryptopanic.com/news/21573797/Bernstein-Predicts-330-Billion-Corporate-Bitcoin-Allocation-in-Next-5-Years",
+          "publishedOn": "2025-05-05T18:00:04.000Z",
+          "wordCount": 514,
+          "title": "Bernstein Predicts $330 Billion Corporate Bitcoin Allocation in Next 5 Years",
+          "imageUrl": "https://coindoo.com/wp-content/uploads/2025/04/crypto-scam-bitcoin-ledger-card-250x180.webp"
+        },
+        {
+          "id": "https://cryptopanic.com/news/21573526/Mentions-of-cryptocurrency-and-stablecoins-in-SEC-filings-hit-record-high-in-April",
+          "author": null,
+          "description": "Mentions of \"cryptocurrency\" in SEC filings hit a record 786 in April, while references to \"stablecoins\" more than doubled in recent months.",
+          "link": "https://cryptopanic.com/news/21573526/Mentions-of-cryptocurrency-and-stablecoins-in-SEC-filings-hit-record-high-in-April",
+          "publishedOn": "2025-05-05T17:57:45.000Z",
           "wordCount": 516,
-          "title": "Tether Jumps Into AI Race With Open-Source Platform, Planned Bitcoin and USDT Payments",
-          "imageUrl": "https://cdn.decrypt.co/wp-content/uploads/2022/09/tether-logo-on-computer-circuitry-gID_7.jpg"
+          "title": "Mentions of ‘cryptocurrency’ and ‘stablecoins’ in SEC filings hit record high in April",
+          "imageUrl": "https://www.tbstat.com/wp/uploads/2025/04/20250414_SEC_News_2-800x450.jpg"
         },
         {
-          "id": "https://cryptopanic.com/news/21573350/3-Best-Meme-Coins-to-Buy-with-High-Upside-Potential-in-the-Next-Bull-Run",
+          "id": "https://cryptopanic.com/news/21573494/Crucial-Crypto-Events-This-Week-Is-Bitcoin-Headed-for-a-Dip",
           "author": null,
-          "description": "The crypto market has surged back into the spotlight with a total valuation crossing the $3 trillion mark. Bitcoin is trading just below the $100,000 milestone, sparking renewed hopes for a meme coin rally and the return of altcoin season. In this environment, three standout meme coins are...",
-          "link": "https://cryptopanic.com/news/21573350/3-Best-Meme-Coins-to-Buy-with-High-Upside-Potential-in-the-Next-Bull-Run",
-          "publishedOn": "2025-05-05T16:35:31.000Z",
-          "wordCount": 518,
-          "title": "3 Best Meme Coins to Buy with High Upside Potential in the Next Bull Run",
-          "imageUrl": null
+          "description": "TL;DR This week, key economic data and technical updates will be released that could shift the dynamics of the crypto market and Bitcoin’s price. The Federal Reserve will set interest rates on May 7, with forecasts pointing to a hold, though political pressures leave room for surprises. Ethereum...",
+          "link": "https://cryptopanic.com/news/21573494/Crucial-Crypto-Events-This-Week-Is-Bitcoin-Headed-for-a-Dip",
+          "publishedOn": "2025-05-05T17:56:44.000Z",
+          "wordCount": 514,
+          "title": "Crucial Crypto Events This Week: Is Bitcoin Headed for a Dip?",
+          "imageUrl": "https://crypto-economy.com//wp-content/uploads/2022/12/cropped-ce-icon-1-270x270.png"
         },
         {
-          "id": "https://cryptopanic.com/news/21572970/Maldives-Signs-9-Billion-Deal-With-Dubais-MBS-Global-to-Build-Blockchain-Hub-in-Male-Exceeding-GDP",
+          "id": "https://cryptopanic.com/news/21573496/Corporate-Treasuries-Will-Add-330-Billion-in-Bitcoin-by-2029-Bernstein",
           "author": null,
-          "description": "The Maldives has signed a $9 billion deal with Dubai-based MBS Global Investments to develop a blockchain and digital assets financial hub in Malé, the capital city",
-          "link": "https://cryptopanic.com/news/21572970/Maldives-Signs-9-Billion-Deal-With-Dubais-MBS-Global-to-Build-Blockchain-Hub-in-Male-Exceeding-GDP",
-          "publishedOn": "2025-05-05T16:35:00.000Z",
-          "wordCount": 520,
-          "title": "Maldives Signs $9 Billion Deal With Dubai’s MBS Global to Build Blockchain Hub in Malé, Exceeding GDP",
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/8b2105239db6da08bbf76469ba8bf15da52fc806-1125x763.jpg"
+          "description": "Analysts at the firm are predicting Strategy—MSTR—copycats to continue buying cryptocurrency.",
+          "link": "https://cryptopanic.com/news/21573496/Corporate-Treasuries-Will-Add-330-Billion-in-Bitcoin-by-2029-Bernstein",
+          "publishedOn": "2025-05-05T17:54:04.000Z",
+          "wordCount": 514,
+          "title": "Corporate Treasuries Will Add $330 Billion in Bitcoin by 2029: Bernstein",
+          "imageUrl": "https://cdn.decrypt.co/wp-content/uploads/2024/05/bitcoin-money-trading-gID_7.jpeg"
         },
         {
-          "id": "https://cryptopanic.com/news/21572359/CHINA-IS-MINING-BITCOIN-Daniel-Batten-FULL-INTERVIEW",
+          "id": "https://cryptopanic.com/news/21573490/Binance-Founder-CZ-Speaks-on-US-Prison-Experience",
           "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/21572359/CHINA-IS-MINING-BITCOIN-Daniel-Batten-FULL-INTERVIEW",
-          "publishedOn": "2025-05-05T16:33:52.000Z",
-          "wordCount": 513,
-          "title": "🇨🇳 CHINA IS MINING BITCOIN - Daniel Batten\n\nFULL INTERVIEW:",
-          "imageUrl": null
+          "description": "Binance's Changpeng Zhao discusses his US prison experience, focusing on personal reflections and the broader crypto industry impact.",
+          "link": "https://cryptopanic.com/news/21573490/Binance-Founder-CZ-Speaks-on-US-Prison-Experience",
+          "publishedOn": "2025-05-05T17:53:11.000Z",
+          "wordCount": 511,
+          "title": "Binance Founder CZ Speaks on US Prison Experience",
+          "imageUrl": "https://coincu.com/wp-content/uploads/2025/05/cz-binance-prison-talk-cartoon.png"
         },
         {
-          "id": "https://cryptopanic.com/news/21572283/House-Republicans-release-discussion-draft-of-a-bill-to-regulate-the-crypto-industry-at-large",
+          "id": "https://cryptopanic.com/news/21573497/Vitalik-says-rollups-may-lose-billions-if-security-isnt-proven-before-decentralizing",
           "author": null,
-          "description": "House Republicans unveiled a discussion draft of a bill to regulate the digital asset industry, expanding on work done over the years.",
-          "link": "https://cryptopanic.com/news/21572283/House-Republicans-release-discussion-draft-of-a-bill-to-regulate-the-crypto-industry-at-large",
-          "publishedOn": "2025-05-05T16:30:53.000Z",
-          "wordCount": 518,
-          "title": "House Republicans release discussion draft of a bill to regulate the crypto industry at large",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2023/02/20230216_FrenchHill-800x450.jpg"
+          "description": "Vitalik Buterin has issued a stark warning to developers of rollup-based L2 systems solutions, emphasizing that the rush to decentralize without robust security measures could result in catastrophic financial losses",
+          "link": "https://cryptopanic.com/news/21573497/Vitalik-says-rollups-may-lose-billions-if-security-isnt-proven-before-decentralizing",
+          "publishedOn": "2025-05-05T17:50:19.000Z",
+          "wordCount": 515,
+          "title": "Vitalik says rollups may lose billions if security isn’t proven before decentralizing",
+          "imageUrl": "https://www.cryptopolitan.com/wp-content/uploads/2025/05/Vitalik-says-rollups-may-lose-billions-if-security-isnt-proven-before-decentralizing.webp"
         },
         {
-          "id": "https://cryptopanic.com/news/21572366/Rat-poison-squared-Seven-years-since-Buffetts-Bitcoin-barb",
+          "id": "https://cryptopanic.com/news/21573483/The-SEC-Rallies-BlackRock-Nasdaq-and-Fidelity-for-Pivotal-Tokenization-Summit",
           "author": null,
-          "description": "The famed billionaire investor had harsh words for Bitcoin seven years ago",
-          "link": "https://cryptopanic.com/news/21572366/Rat-poison-squared-Seven-years-since-Buffetts-Bitcoin-barb",
-          "publishedOn": "2025-05-05T16:30:41.000Z",
+          "description": "The SEC has announced a May 12 roundtable to probe tokenization, bringing BlackRock, Nasdaq, Invesco, Franklin Templeton and others together with regulators. Two panels will weigh operational and legal hurdles of shifting traditional assets onto blockchains, informing future policy moves.",
+          "link": "https://cryptopanic.com/news/21573483/The-SEC-Rallies-BlackRock-Nasdaq-and-Fidelity-for-Pivotal-Tokenization-Summit",
+          "publishedOn": "2025-05-05T17:49:11.000Z",
+          "wordCount": 514,
+          "title": "The SEC Rallies BlackRock, Nasdaq and Fidelity for Pivotal Tokenization Summit",
+          "imageUrl": "https://cryptonews.com/wp-content/uploads/2023/11/1.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/21573820/Trumps-GALA-dinner-sparks-bipartisan-outrage",
+          "author": null,
+          "description": "President Trump’s exclusive dinner for TRUMP token holders draws rare bipartisan backlash, with lawmakers warning of ethical risks and pay-to-play politics.",
+          "link": "https://cryptopanic.com/news/21573820/Trumps-GALA-dinner-sparks-bipartisan-outrage",
+          "publishedOn": "2025-05-05T17:46:26.000Z",
+          "wordCount": 509,
+          "title": "Trump’s GALA dinner sparks bipartisan outrage",
+          "imageUrl": "https://www.thestreet.com/.image/c_fit%2Ch_800%2Cw_1200/MjE0Njg5MzU4OTI4Njg0ODM2/gettyimages-2212092374.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/21573428/Bitcoin-investors-expectations-evolve-as-88-of-BTC-supply-is-in-profit",
+          "author": null,
+          "description": "Key Takeaways:88% of Bitcoin’s supply is in profit below $95,000, indicating a reset in investor expectations. The current price range of $75,000–$95,000 may represent a structural bottom, aligning with market conditions from Q3 2024. The Market Value to Realized Value (MVRV) Ratio at 1. 74 acts...",
+          "link": "https://cryptopanic.com/news/21573428/Bitcoin-investors-expectations-evolve-as-88-of-BTC-supply-is-in-profit",
+          "publishedOn": "2025-05-05T17:35:16.000Z",
+          "wordCount": 515,
+          "title": "Bitcoin investors’ expectations evolve as 88% of BTC supply is in profit",
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NWNlMWItZTU4ZS03MGZjLTk4ZWEtOTc5YzEwYTIxZTY3.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/21573417/Bitcoin-devs-in-OP_RETURN-war-motivated-by-harm-reduction",
+          "author": null,
+          "description": "Bitcoin developers’ war over the data storage limits of OP_RETURN was about UTXO bloat and harm reduction, according to one side.",
+          "link": "https://cryptopanic.com/news/21573417/Bitcoin-devs-in-OP_RETURN-war-motivated-by-harm-reduction",
+          "publishedOn": "2025-05-05T17:35:12.000Z",
           "wordCount": 512,
-          "title": "‘Rat poison squared’: Seven years since Buffett’s Bitcoin barb",
+          "title": "Bitcoin devs in OP_RETURN war motivated by ‘harm reduction’",
+          "imageUrl": "https://protos-media.s3.eu-west-2.amazonaws.com/wp-content/uploads/2023/11/30143843/Most_Trusted_320x50.png"
+        },
+        {
+          "id": "https://cryptopanic.com/news/21573439/BlackRock-Fidelity-Nasdaq-and-others-join-the-SEC-crypto-roundtable-on-May-12",
+          "author": null,
+          "description": "The SEC’s third roundtable of the “spring sprint toward crypto clarity,” as dabbed by Commissioner Hester Peirce, is set to take place in seven days. This meeting will be about tokenization, and BlackRock, Fidelity, and Nasdaq are at the forefront of the discussion. The panelists are Robert...",
+          "link": "https://cryptopanic.com/news/21573439/BlackRock-Fidelity-Nasdaq-and-others-join-the-SEC-crypto-roundtable-on-May-12",
+          "publishedOn": "2025-05-05T17:30:39.000Z",
+          "wordCount": 516,
+          "title": "BlackRock, Fidelity, Nasdaq, and others join the SEC crypto roundtable on May 12",
+          "imageUrl": "https://www.cryptopolitan.com/wp-content/uploads/2025/05/BlackRock-Fidelity-Nasdaq-and-others-join-the-SEC-crypto-roundtable-on-May-12.webp"
+        },
+        {
+          "id": "https://cryptopanic.com/news/21573495/What-Epic-Games-App-Store-ruling-means-for-crypto",
+          "author": null,
+          "description": "US crypto iOS apps can link to external NFT shops",
+          "link": "https://cryptopanic.com/news/21573495/What-Epic-Games-App-Store-ruling-means-for-crypto",
+          "publishedOn": "2025-05-05T17:30:38.000Z",
+          "wordCount": 512,
+          "title": "What Epic Games’ App Store ruling means for crypto",
           "imageUrl": "https://blockworks.co/images/meta-logo.png"
         },
         {
-          "id": "https://cryptopanic.com/news/21572245/CryptoQuant-Reports-ETH-Investors-Increase-Holdings-by-225-as-They-Lower-Their-Entry-Prices",
+          "id": "https://cryptopanic.com/news/21573379/Trump-Hosts-High-Cost-Crypto-Fundraisers-Amidst-Policy-Shifts",
           "author": null,
-          "description": "TL;DR Long-term Ethereum (ETH) investors have increased their holdings by 22. 5%, taking advantage of lower prices and improving their overall positions. Despite the recent correction, most accumulator addresses have not sold, showing strong long-term confidence and unwavering commitment to the...",
-          "link": "https://cryptopanic.com/news/21572245/CryptoQuant-Reports-ETH-Investors-Increase-Holdings-by-225-as-They-Lower-Their-Entry-Prices",
-          "publishedOn": "2025-05-05T16:28:46.000Z",
-          "wordCount": 517,
-          "title": "CryptoQuant Reports: ETH Investors Increase Holdings by 22.5% as They Lower Their Entry Prices",
-          "imageUrl": "https://crypto-economy.com//wp-content/uploads/2022/12/cropped-ce-icon-1-270x270.png"
+          "description": "Donald Trump schedules exclusive cryptocurrency-themed dinners, including fundraising via TRUMP tokens, signaling major policy shifts. Key players like David Sacks involved.",
+          "link": "https://cryptopanic.com/news/21573379/Trump-Hosts-High-Cost-Crypto-Fundraisers-Amidst-Policy-Shifts",
+          "publishedOn": "2025-05-05T17:23:27.000Z",
+          "wordCount": 511,
+          "title": "Trump Hosts High-Cost Crypto Fundraisers Amidst Policy Shifts",
+          "imageUrl": "https://coincu.com/wp-content/uploads/2025/05/trump-crypto-dinner-fundraiser.png"
+        },
+        {
+          "id": "https://cryptopanic.com/news/21573378/Whales-Scoop-Up-ETH-FastIs-a-Break-Above-2K-Next",
+          "author": null,
+          "description": "The Ethereum whales are making a surprise comeback, and they are doing so as quietly as they can. According to insights from LookOnChain, this cohort of investors accumulated millions of dollars worth of ETH through both decentralized and centralized platforms in a space of two hours. This isn’t...",
+          "link": "https://cryptopanic.com/news/21573378/Whales-Scoop-Up-ETH-FastIs-a-Break-Above-2K-Next",
+          "publishedOn": "2025-05-05T17:21:00.000Z",
+          "wordCount": 513,
+          "title": "Whales Scoop Up ETH Fast—Is a Break Above $2K Next?",
+          "imageUrl": "https://www.thecoinrepublic.com/wp-content/uploads/2024/06/cropped-The-coin-Republic-icon-270x270.png"
+        },
+        {
+          "id": "https://cryptopanic.com/news/21573366/Correlation-Breakdown-Between-Bitcoin-and-Altcoins-Signals-Potential-Market-Volatility",
+          "author": null,
+          "description": "This decoupling, where Bitcoin and altcoins no longer move in tandem, is often described as the “calm before the storm” […] The post Correlation Breakdown Between Bitcoin and Altcoins Signals Potential Market Volatility appeared first on Coindoo.",
+          "link": "https://cryptopanic.com/news/21573366/Correlation-Breakdown-Between-Bitcoin-and-Altcoins-Signals-Potential-Market-Volatility",
+          "publishedOn": "2025-05-05T17:20:36.000Z",
+          "wordCount": 513,
+          "title": "Correlation Breakdown Between Bitcoin and Altcoins Signals Potential Market Volatility",
+          "imageUrl": "https://coindoo.com/wp-content/uploads/2025/04/bitcoin-altcoins-0211b839-5956-4e15-aff8-9fe706128367-250x180.webp"
         }
       ]
     },
@@ -1000,12 +1015,47 @@
       "siteUrl": "https://www.inoreader.com/stream/user/1005336866/tag/%E6%B5%B7%E5%A4%96%E5%8A%A0%E5%AF%86%E8%B5%84%E8%AE%AF/view/html",
       "articles": [
         {
+          "id": "http://www.inoreader.com/article/3a9c6e77c1ed0335",
+          "author": "Jamie Redman",
+          "description": "BitcoinOS reports that it has successfully executed the first-ever bridgeless cross-chain transfer of bitcoin, moving 1 BTC between the Bitcoin and Cardano blockchains without relying on traditional intermediaries. Bridgeless Era Begins: BitcoinOS Transfers BTC to Cardano Using ZK Proofs The demonstration, conducted on mainnet, marks a pivotal advancement in blockchain interoperability. By wrapping 1 BTC […]",
+          "link": "https://news.bitcoin.com/bitcoinos-completes-first-bridgeless-cross-chain-btc-transfer-between-bitcoin-and-cardano/",
+          "publishedOn": "2025-05-05T18:10:39.000Z",
+          "wordCount": 163,
+          "title": "BitcoinOS Completes First Bridgeless Cross-Chain BTC Transfer Between Bitcoin and Cardano",
+          "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2025/05/btccardo.png"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e77c1ee8fd8",
+          "author": "Andy Baehr",
+          "description": "MSTR earnings came out May 1. My morning media stops last Thursday (here and here) asked for a preview. We don't talk about stocks, so I planned to zoom out and hit themes. While preparing, I had to suppress the eye-roll reflexes that MSTR triggers.\nMSTR, of course, is the ticker symbol for MicroStrategy, or Strategy, as the company is now known. Strategy, fronted by Michael Saylor, pioneered the “bitcoin treasury” model that’s now been copied by Metaplanet and dozens of other companies. Strategy plans to raise $84 billion, according to its most recent announcement, across equity and fixed income instruments. \nHere are three questions:\n1. Earnings? \nMSTR \"earnings\" and \"price targets\" are... Well, they don't really mean the same thing, especially once the effect of ASC 2023-08 is backed ou…",
+          "link": "https://www.coindesk.com/opinion/2025/05/05/reflections-on-those-mstr-bitcoin-earnings",
+          "publishedOn": "2025-05-05T17:58:44.000Z",
+          "wordCount": 7683,
+          "title": "Reflections on Those MSTR Bitcoin ‘Earnings’",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/*",
+            "url": "https://cdn.sanity.io/images/s3y3vcno/production/3a9889c9ff2b88bbaf012f28c3738014d7c62857-2034x1308.png?auto=format&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/3a9889c9ff2b88bbaf012f28c3738014d7c62857-2034x1308.png?auto=format&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e77c1ea1088",
+          "author": "Frederick Munawa",
+          "description": "Crypto markets slumped on Monday morning, with seven of the top ten cryptocurrencies in the red, including bitcoin. Market Dip Drags Bitcoin Under $94K While Equities Hold Steady Bitcoin (BTC) fell to $94K on Monday morning as crypto markets tumbled 1.06% to a market capitalization of $2.93 trillion, according to data from Coinmarketcap. Stocks traded […]",
+          "link": "https://news.bitcoin.com/bitcoin-retreats-to-94k-as-crypto-markets-dip-and-stocks-trade-flat/",
+          "publishedOn": "2025-05-05T17:32:26.000Z",
+          "wordCount": 151,
+          "title": "Bitcoin Retreats to $94K as Crypto Markets Dip and Stocks Trade Flat",
+          "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2025/05/bitcoin-retreats-to-94k-as-crypto-markets-dip-and-stocks-trade-flat.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARQKIT2TMGZBKV2L6%2F20250505%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250505T172641Z&X-Amz-SignedHeaders=host&X-Amz-Expires=600&X-Amz-Signature=0494fb517b4248b8f80af151d1b1799ace44b39a8039a28abdaefa4b0b2f4e8d"
+        },
+        {
           "id": "http://www.inoreader.com/article/3a9c6e77c1d6cedd",
           "author": "Jesse Hamilton",
           "description": "Crypto's big show in the U.S. Congress has been unveiled in the form of a discussion draft of legislation that would establish for the first time a comprehensive domestic regime for regulating digital assets.\nThe House Financial Services Committee and House Agriculture Committee — both sharing responsibility for the jurisdiction-hoping assets — released a working draft of a bill on Monday that Representative French Hill, chairman of the financial-services panel, said can deliver \"much-needed regulatory clarity.\"\n\"Today marks the first step in advancing a comprehensive framework that protects consumers, fosters innovation, and closes regulatory gaps in oversight,\" said Representative Glenn \"GT\" Thompson, chairman on the agricultural committee, which has oversight of the Commodity Futures Tr…",
           "link": "https://www.coindesk.com/policy/2025/05/05/u-s-crypto-market-structure-bill-unveiled-by-house-lawmakers",
           "publishedOn": "2025-05-05T16:58:38.000Z",
-          "wordCount": 7543,
+          "wordCount": 7544,
           "title": "U.S. Crypto Market Structure Bill Unveiled by House Lawmakers",
           "enclosure": {
             "length": "1337",
@@ -1055,7 +1105,7 @@
           "description": "Corporate treasury buying of bitcoin (BTC) could reach $330 billion by the end of 2029, broker Bernstein said in a research report Monday.\nStrategy (MSTR) is likely to be the largest buyer, with an additional $124 billion of the world's largest crypto, in the broker's bull case. The company led by Michael Saylor announced a further $21 billion at-the-market common stock offering last week to buy more bitcoin.\n\"The U.S. pro crypto regulatory regime have further accelerated the corporate ownership growth of bitcoin,\" analysts led by Gautam Chhugani wrote.\nBernstein expects other listed companies to allocate around $205 billion to bitcoin acquisition strategies, led by smaller firms with lower growth looking to emulate Strategy's treasury model.\nPublic companies now own ~2.4% of the bitcoin supply, or about 720,000 BTC on their balance sheets, the report noted.\nStill, Strategy's \"scale is hard to replicate\" and not every bitcoin treasury will be successful in attempting to replicate the company's playbook, the report added.\nStrategy acquired an additional 1,895 bitcoin last week for $180.3 million.\nRead more: Michael Saylor's Strategy Adds 1,895 Bitcoin, Bringing Company Stack to 555,450 BTC",
           "link": "https://www.coindesk.com/markets/2025/05/05/bitcoin-to-see-additional-usd330b-of-corporate-treasury-inflows-by-2029-bernstein",
           "publishedOn": "2025-05-05T15:55:00.000Z",
-          "wordCount": 6579,
+          "wordCount": 6576,
           "title": "Bitcoin to See Additional $330B of Corporate Treasury Inflows by 2029: Bernstein",
           "enclosure": {
             "length": "1337",
@@ -1070,7 +1120,7 @@
           "description": "A militia group in Burma that allegedly runs a large-scale haven for cyber scammers, the Karen National Army, has been blocked from the U.S. financial system by the Department of the Treasury.\nThe U.S. authorities said Monday that the organization has provided a haven for transnational criminal organizations who use the border region controlled by the KNA to run illicit operations such as human trafficking and smuggling. The group, which is said to have ties with the Burmese military, is also accused of fostering cyber scams and crypto thefts on an \"industrial scale\" tied to billions of dollars in losses.\nUnder KNA's control, hotels and casinos were retrofitted to house elaborate \"pig butchering\" scam operations in which U.S. citizens were lured with fraudulent romantic ties and had money stolen from them in the form of cryptocurrency, according to the Treasury Department. Those engaging in the scams were themselves often held captive or under pressure to run months-long thefts that sometimes used attractive models to engage in video calls.\nIn the new U.S. sanctions — also specifically targeting the organization's leader, Saw Chit Thu, and his sons, Saw Htoo Eh Moo and Saw Chit Chit — the Treasury's Office of Foreign Assets Control is blocking any use of U.S. assets or interactions with U.S. people or entities.\nThis action follows closely on the heels of last week's move by the U.S. to sever the Cambodian company Huione Group from the financial system. Huione was said to provide a money-laundering outlet for criminal organizations in Southeast Asia.\nRead More: Cambodian Huione Group Received $98B in Crypto Leading to U.S. Crackdown: Elliptic",
           "link": "https://www.coindesk.com/policy/2025/05/05/u-s-treasury-sanctions-burmese-militia-group-said-to-run-pig-butchering-compounds",
           "publishedOn": "2025-05-05T15:55:00.000Z",
-          "wordCount": 7096,
+          "wordCount": 7097,
           "title": "U.S. Treasury Sanctions Burmese Militia Group Said to Run 'Pig Butchering' Compounds",
           "enclosure": {
             "length": "1337",
@@ -1095,7 +1145,7 @@
           "description": "Bitcoin-holding public companies may be sitting on a powerful market catalyst: untapped issuance capacity that could meaningfully raise bitcoin’s (BTC) price, according to new research from NYDIG.\n\nIn a report published this week, Greg Cipolaro, the firm’s global head of research, points to the “dry powder” in the form of share issuance potential among bitcoin treasury companies. If these companies take advantage of their elevated equity valuations to raise new funds and buy more bitcoin, it could trigger a significant upward move in the market.\n\nCipolaro uses a back-of-the-envelope model to estimate the impact: applying a 10x “money multiplier” — a historical rule of thumb describing how capital inflows have historically influenced bitcoin’s market cap — he projects a potential $42,000 pe…",
           "link": "https://www.coindesk.com/markets/2025/05/05/bitcoin-treasury-firms-dry-powder-could-push-prices-up-significantly-nydig",
           "publishedOn": "2025-05-05T14:57:14.000Z",
-          "wordCount": 7012,
+          "wordCount": 7009,
           "title": "Bitcoin Treasury Firms' 'Dry Powder' Could Push Prices Up Significantly: NYDIG",
           "enclosure": {
             "length": "1337",
@@ -1110,7 +1160,7 @@
           "description": "Ethereum developers are preparing for Wednesday's much anticipated Pectra upgrade, set to bring the biggest code change to the blockchain since the Merge in 2022.\n\nPectra – a blend of the names Prague + Electra – consists of two upgrades happening on Ethereum’s consensus and execution layers at the same time.\n\nThe upgrade is focused on making the Ethereum blockchain more user-friendly and efficient. Pectra consists of 11 major code changes, or \"Ethereum improvement proposals\" (EIPs), that will improve the staking experience on the network, introduce new wallet features, and update the functionality of the blockchain.\n\nOne of the main changes coming to the blockchain is EIP-7702, which gives wallets smart contract capabilities, moving them towards a technological trend known as “account abs…",
           "link": "https://www.coindesk.com/tech/2025/05/05/ethereum-preps-for-pectra-upgrade-biggest-code-change-since-the-merge",
           "publishedOn": "2025-05-05T14:57:14.000Z",
-          "wordCount": 6868,
+          "wordCount": 6294,
           "title": "Ethereum Preps for Biggest Code Change Since the Merge With Pectra Upgrade",
           "enclosure": {
             "length": "1337",
@@ -1150,7 +1200,7 @@
           "description": "This is a daily technical analysis by CoinDesk analyst and Chartered Market Technician Omkar Godbole.\nBitcoin’s (BTC) weekend price movement has brought attention to the $88,800 support level, while XRP, the payments-focused cryptocurrency, seems close to confirming a bearish chart pattern known as the “death cross.\"\nBTC fell 1.5% on Sunday (UTC), diving out of a trendline connecting lows reached on April 9 and April 20, according to charts sourced from TradingView.\nThe breakdown of the rising trendline, a demand zone, indicates that the recovery rally from April 9 lows under $75,000 may have run its course, suggesting potential for a renewed price swoon. Prices crossing below the Ichimoku cloud on the hourly chart, a momentum indicator, also suggests the same.\nOn the downside, $88,800 could serve as a key support level, having previously capped upward moves on March 24 and April 2, which suggests it may act as a critical price point if tested again.\n\nThe bearish hourly chart set up risks invalidation on renewed above the Ichimoku cloud, which would reinstate the bullish outlook for rise to $100K.\nXRP death cross\nXRP's recovery from April 7 lows has run out of steam, too, with prices falling back below the 50-day simple moving average (SMA).\nMore importantly, the 50-day SMA appears on track to cross below the 200-day SMA in what is known as the death cross long-term bearish indicator.\nThe impending death cross, against the backdrop of the overall downward trend since mid-January, raises the risk of a deeper sell-off. Note, however, that the death cross' record in predicting price trends has been mixed in both bitcoin and traditional markets.",
           "link": "https://www.coindesk.com/markets/2025/05/05/bitcoins-support-at-888k-in-focus-after-trendline-break-xrp-eyes-death-cross-technical-analysis",
           "publishedOn": "2025-05-05T14:36:35.000Z",
-          "wordCount": 6784,
+          "wordCount": 6776,
           "title": "Bitcoin’s Support at $88.8K in Focus After Trendline Break; XRP Eyes Death Cross: Technical Analysis",
           "enclosure": {
             "length": "1337",
@@ -1190,7 +1240,7 @@
           "description": "CoinDesk Indices presents its daily market update, highlighting the performance of leaders and laggards in the CoinDesk 20 Index.\nThe CoinDesk 20 is currently trading at 2699.5, down 2.9% (-80.53) since 4 p.m. ET on Friday.\nThree of 20 assets are trading higher.\n\nLeaders: SUI (+0.7%) and LTC (+0.7%).\nLaggards: NEAR (-7.4%) and AVAX (-7.4%).\nThe CoinDesk 20 is a broad-based index traded on multiple platforms in several regions globally.",
           "link": "https://www.coindesk.com/coindesk-indices/2025/05/05/coindesk-20-performance-update-near-drops-74-as-index-declines-over-weekend",
           "publishedOn": "2025-05-05T13:55:55.000Z",
-          "wordCount": 5875,
+          "wordCount": 5867,
           "title": "CoinDesk 20 Performance Update: NEAR Drops 7.4% as Index Declines Over Weekend",
           "enclosure": {
             "length": "1337",
@@ -1205,7 +1255,7 @@
           "description": "Bitcoin (BTC) slipped below $95,000 on Monday, with traders now eyeing a possible retreat to $90,000 or lower amid growing macro uncertainty and a shift in market focus to this week’s Federal Reserve meeting.\nThe pullback follows a strong two-week rally, during which BTC briefly pushed past $98,000, drawing in retail interest and institutional flows. However, some analysts are flagging a confluence of technical and macro risks that could further pressure prices.\n“We’re back at a key resistance zone that acted as support from December to February,” said FxPro’s Alex Kuptsikevich in an email to CoinDesk. \n“The next downside targets are $92,500 and $89,000. A clean break below $90,000 would be technically and psychologically damaging, taking us under the 200-day moving average.”\nTraders eye d…",
           "link": "https://www.coindesk.com/markets/2025/05/05/bitcoin-could-slide-to-usd90k-as-btc-traders-eye-fed-meeting",
           "publishedOn": "2025-05-05T13:55:55.000Z",
-          "wordCount": 7417,
+          "wordCount": 7418,
           "title": "Bitcoin Could Slide to $90K as BTC Traders Eye Fed Meeting",
           "enclosure": {
             "length": "1337",
@@ -1228,46 +1278,6 @@
             "url": "https://bitcoinist.com/wp-content/uploads/2025/05/a_bcdbcd.png?fit=640,394"
           },
           "imageUrl": "https://bitcoinist.com/wp-content/uploads/2025/05/a_bcdbcd.png?fit=640,394"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e77c1b04117",
-          "author": "Bitcoinist",
-          "description": "Hold your timid ‘Bitcoin-to-$100K’ bets; many Bitcoin traders are favoring long-shot bets that Bitcoin will TRIPLE that number – and all by the end of June.\n \nTo clarify, these aren’t formal predictions.\n \nBut over on crypto options trading platform Deribit, Bitcoin traders are placing big bets on an outside-the-market opportunity – a Bitcoin $300K call that costs relatively little, but could pay monstrous dividends.\n \n \nTwo bullish Bitcoin options, both expiring at the end of June, are heating up:\n \n \nBitcoin to reach $110K\n \nBitcoin to reach $300K\n \n \n \nThe first seems very doable; $BTC is trading well over $94K right now. But the second would require incredible momentum in a hurry.\n \nStill, is the $300K option that far-fetched? At least one metric shows that the recent influx of institu…",
-          "link": "https://bitcoinist.com/traders-bet-on-bitcoin-300k-call-new-crypto/",
-          "publishedOn": "2025-05-05T13:15:28.000Z",
-          "wordCount": 6048,
-          "title": "Traders Bet on a $300K Bitcoin Call, Pushing New Crypto to Explosive Gains",
-          "enclosure": {
-            "length": "1337",
-            "type": "image/jpeg",
-            "url": "https://bitcoinist.com/wp-content/uploads/2025/05/traders-bet-on-bitcoin-300k-call-new-crypto.jpg?fit=630,420"
-          },
-          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2025/05/traders-bet-on-bitcoin-300k-call-new-crypto.jpg?fit=630,420"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e77c1b09c5f",
-          "author": "Jamie Redman",
-          "description": "Bitcoin traded between $94,089 and $94,305 over the last hour, while its market capitalization stood at $1.86 trillion. Daily trade volume reached $19.74 billion, with the 24-hour price range spanning $93,806 to $95,741. Bitcoin On the 1-hour chart, bitcoin continues to reflect a short-term bearish structure, following a consistent series of lower highs and lower […]",
-          "link": "https://news.bitcoin.com/bitcoin-price-watch-short-term-downtrend-emerges-as-bulls-lose-grip/",
-          "publishedOn": "2025-05-05T13:13:22.000Z",
-          "wordCount": 176,
-          "title": "Bitcoin Price Watch: Short-Term Downtrend Emerges as Bulls Lose Grip",
-          "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2025/05/bdust.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARQKIT2TMGZBKV2L6%2F20250505%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250505T131246Z&X-Amz-SignedHeaders=host&X-Amz-Expires=600&X-Amz-Signature=4623a7084cc3570356bb60bea8c2b56a49df7af1298f71fc37f3d1df24910c90"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e77c1b2ef1c",
-          "author": "Stephen Alpher",
-          "description": "Semler Scientific (SMLR) added to its bitcoin (BTC) holdings last week.\nThe company acquired 167 BTC for $16.2 million, or an average price of about $97,000 each, according to a Monday morning SEC filing.\nThe purchases appeared to be mostly or totally funded via sales of common stock, with the company disclosing it's sold 1.166 million shares for $39.8 million under its April 15 at-the-market offering (SMLR previously disclosed bitcoin purchases on April 25 and April 30).\nSemler now holds 3,634 bitcoin acquired for $322.3 million, or an average price of $88,668 each. At bitcoin's current price around $94,000, the holdings are worth more than $340 million.",
-          "link": "https://www.coindesk.com/business/2025/05/05/semler-scientific-adds-167-bitcoin-bringing-holdings-to-3-634-btc",
-          "publishedOn": "2025-05-05T12:57:15.000Z",
-          "wordCount": 6354,
-          "title": "Semler Scientific Adds 167 Bitcoin, Bringing Holdings to 3,634 BTC",
-          "enclosure": {
-            "length": "1337",
-            "type": "image/*",
-            "url": "https://cdn.sanity.io/images/s3y3vcno/production/dbcf1f7b51797f2d4cddd1aa8ba3fa4fd9b06b88-1280x853.jpg?auto=format&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/dbcf1f7b51797f2d4cddd1aa8ba3fa4fd9b06b88-1280x853.jpg?auto=format&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip"
         }
       ]
     }

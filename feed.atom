@@ -1,44 +1,262 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-06T05:21:03.420Z</id>
+    <id>urn:2025-05-06T06:30:06.930Z</id>
     <title>web3::cave</title>
-    <updated>2025-05-06T05:21:03.420Z</updated>
+    <updated>2025-05-06T06:30:06.930Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Ripple to Expand its Quarterly XRP Markets Report as Institutional Usage Jumps]]></title>
-        <id>http://www.inoreader.com/article/3a9c6e77c0221e78</id>
-        <link href="https://www.coindesk.com/markets/2025/05/06/ripple-to-expand-its-quarterly-xrp-markets-report-as-institutional-usage-jumps"/>
-        <updated>2025-05-06T05:14:56.000Z</updated>
-        <summary type="html"><![CDATA[Ripple will sunset its quarterly XRP markets reports in its current form after Q2 2025, with newer versions including deeper insights as the token grabs more demand among institutional investors.
-
-The quarterly XRP Markets provides transparency into Ripple’s XRP holdings and updates on the state of the crypto markets and the XRP ecosystem.
-
-“However, the reality is that the report has not had the intended effect,” Ripple said in its Q1 2025 report Monday. “In many instances, Ripple’s transparency has been used against the company, most notably by former SEC leadership.”
-
-“As more institutions engage with XRP, additional perspectives and insights are expected to follow, pushing the market conversation forward,” it added. This comes amid a flurry of XRP-based ETF filings in the U.S. and Braz…]]></summary>
+        <title type="html"><![CDATA[Bitcoin Developers Plan OP_RETURN Removal in Next Release]]></title>
+        <id>http://www.inoreader.com/article/3a9c6e77c03a2ec6</id>
+        <link href="https://www.coindesk.com/tech/2025/05/06/bitcoin-developers-plan-op_return-removal-in-next-release"/>
+        <updated>2025-05-06T06:27:23.000Z</updated>
+        <summary type="html"><![CDATA[The debate over Bitcoin's OP_RETURN heats up, as developers of Bitcoin Core – the most popular node software – said they plan to scrap OP_RETURN entirely in the next release.
+The OP_RETURN limit is an 80-byte cap on the amount of arbitrary data that can be embedded in a Bitcoin transaction using a special, unspendable output field.
+“Large-data inscriptions are happening regardless and can be done in more or less abusive ways,” said Core contributor and Engineer at Blockstream Greg Sanders, known as ‘instagibbs,’ in a post on Github announcing the removal. “The cap merely channels them into more opaque forms that cause damage to the network.”
+The debate centered on whether lifting the 80-byte OP_RETURN limit promotes transparency and simplifies data use on Bitcoin, or whether it opens the d…]]></summary>
+        <author>
+            <name>Sam Reynolds</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ripple’s RLUSD in Focus as Firm Pledges $25M to U.S. Educational Initiatives]]></title>
+        <id>http://www.inoreader.com/article/3a9c6e77c03a2ec2</id>
+        <link href="https://www.coindesk.com/markets/2025/05/06/ripples-rlusd-in-focus-as-firm-pledges-25m-to-us-educational-initiatives"/>
+        <updated>2025-05-06T06:27:23.000Z</updated>
+        <summary type="html"><![CDATA[Payments firm Ripple has pledged $25 million to support educational initiatives in the U.S., with most of the disbursement in its RLUSD stablecoin.
+The funds will be distributed throughout 2025. Some $15 million is dedicated to teachers through DonorsChoose, and $10 million will go to Teach For America.
+The donation is in partnership with The Giving Block, coming at a critical time for education in the U.S. as ongoing federal funding cuts are causing significant uncertainty among educational institutions and educators alike.
+The Giving Block also added support for donations using RLUSD, Ripple’s U.S. dollar pegged stablecoin, as the token gains traction in a crowded market. Such transfers boost the token’s visibility and usecase, however, some developers say.
+"Stablecoins like RLUSD are proving their value in real-world applications like donations and large-scale transactions,” Panos Mekras, CEO of Anodos Labs, a DeFi project on XRPL, said in a Telegram message. 
+“They offer fast, low-cost transfers, free from middlemen and banking restrictions, making them ideal for moving significant amounts efficiently and transparently, as Ripple’s donation demonstrates."
+RLUSD has a circulating supply of $316 million as of Tuesday, data shows. Security features make RLUSD appealing to institutional users. 
+An XRP Ledger amendment in January saw a “clawback” feature go live on the network, allowing the issuer to reclaim or "claw back" certain tokens, such as RLUSD, from users' wallets under specific conditions.]]></summary>
         <author>
             <name>Shaurya Malwa</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[XRP active addresses plunge to six-month low despite 196% surge in developer activity]]></title>
-        <id>https://cryptopanic.com/news/21582722/XRP-active-addresses-plunge-to-six-month-low-despite-196-surge-in-developer-activity</id>
-        <link href="https://cryptopanic.com/news/21582722/XRP-active-addresses-plunge-to-six-month-low-despite-196-surge-in-developer-activity"/>
-        <updated>2025-05-06T05:14:55.000Z</updated>
-        <summary type="html"><![CDATA[XRP’s ecosystem is experiencing a notable cooling period, with the digital asset maintaining a constrained trading range between $2. 03 and $2. 30. The current valuation stands at $2]]></summary>
+        <title type="html"><![CDATA[Zhao Changpeng to Address Web3 and Regulation at Abu Dhabi Summit]]></title>
+        <id>https://cryptopanic.com/news/21583854/Zhao-Changpeng-to-Address-Web3-and-Regulation-at-Abu-Dhabi-Summit</id>
+        <link href="https://cryptopanic.com/news/21583854/Zhao-Changpeng-to-Address-Web3-and-Regulation-at-Abu-Dhabi-Summit"/>
+        <updated>2025-05-06T06:24:02.000Z</updated>
+        <summary type="html"><![CDATA[Binance CEO Zhao Changpeng to discuss Web3 and regulation at the Emerging Technology Governance Summit in Abu Dhabi.]]></summary>
         <author>
             <name>News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Clanker Team Ends Association with Proxystudio Over Misconduct Concerns]]></title>
-        <id>https://cryptopanic.com/news/21582769/Clanker-Team-Ends-Association-with-Proxystudio-Over-Misconduct-Concerns</id>
-        <link href="https://cryptopanic.com/news/21582769/Clanker-Team-Ends-Association-with-Proxystudio-Over-Misconduct-Concerns"/>
-        <updated>2025-05-06T05:13:40.000Z</updated>
-        <summary type="html"><![CDATA[According to BlockBeats, Jack Dishman, a member of the Clanker team, announced that they have become aware of past misconduct by proxystudio (@proxystudio. eth) during previous work engagements. As a result, the Clanker team has decided to sever ties with proxystudio. The operations and assets...]]></summary>
+        <title type="html"><![CDATA[Kenya High Court Quashes Sam Altman’s Worldcoin Biometric Data, Cites Privacy Issues]]></title>
+        <id>https://cryptopanic.com/news/21583851/Kenya-High-Court-Quashes-Sam-Altmans-Worldcoin-Biometric-Data-Cites-Privacy-Issues</id>
+        <link href="https://cryptopanic.com/news/21583851/Kenya-High-Court-Quashes-Sam-Altmans-Worldcoin-Biometric-Data-Cites-Privacy-Issues"/>
+        <updated>2025-05-06T06:21:46.000Z</updated>
+        <summary type="html"><![CDATA[Kenya's High Court has ordered the Worldcoin Foundation and its agents to “permanently delete” any biometric data collected from citizens.]]></summary>
         <author>
             <name>News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pi Coin Price Prediction: 10M Token Unlock Today Pushes Price Below $0.60]]></title>
+        <id>https://cryptopanic.com/news/21583834/Pi-Coin-Price-Prediction-10M-Token-Unlock-Today-Pushes-Price-Below-060</id>
+        <link href="https://cryptopanic.com/news/21583834/Pi-Coin-Price-Prediction-10M-Token-Unlock-Today-Pushes-Price-Below-060"/>
+        <updated>2025-05-06T06:17:14.000Z</updated>
+        <summary type="html"><![CDATA[The post Pi Coin Price Prediction: 10M Token Unlock Today Pushes Price Below $0. 5883, down 0. 1% in the past day]]></summary>
+        <author>
+            <name>News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is Sam Altman’s Vision for Worldcoin in Trouble?]]></title>
+        <id>https://cryptopanic.com/news/21583832/Is-Sam-Altmans-Vision-for-Worldcoin-in-Trouble</id>
+        <link href="https://cryptopanic.com/news/21583832/Is-Sam-Altmans-Vision-for-Worldcoin-in-Trouble"/>
+        <updated>2025-05-06T06:13:19.000Z</updated>
+        <summary type="html"><![CDATA[The High Court in Nairobi ruled that the data was collected without valid consent from the Office of the Data Protection Commissioner (ODPC) and through the use of cryptocurrency rewards, violating informed consent principles. …]]></summary>
+        <author>
+            <name>News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Might Be Ponzi Scheme, Prominent Democrat Says]]></title>
+        <id>https://cryptopanic.com/news/21583852/Bitcoin-Might-Be-Ponzi-Scheme-Prominent-Democrat-Says</id>
+        <link href="https://cryptopanic.com/news/21583852/Bitcoin-Might-Be-Ponzi-Scheme-Prominent-Democrat-Says"/>
+        <updated>2025-05-06T06:09:19.000Z</updated>
+        <summary type="html"><![CDATA[Former Maryland Governor Martin O'Malley has suggested that Bitcoin could be a Ponzi scheme]]></summary>
+        <author>
+            <name>News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Core to unilaterally remove controversial OP-Return limit]]></title>
+        <id>https://cryptopanic.com/news/21583467/Bitcoin-Core-to-unilaterally-remove-controversial-OP-Return-limit</id>
+        <link href="https://cryptopanic.com/news/21583467/Bitcoin-Core-to-unilaterally-remove-controversial-OP-Return-limit"/>
+        <updated>2025-05-06T06:04:53.000Z</updated>
+        <summary type="html"><![CDATA[Bitcoin Core developers have decided to remove a limit on transaction data in the next network upgrade, enabling more data to be included in a more efficient way.  “Bitcoin Core’s next release will, by default, relay and mine transactions whose OP_RETURN outputs exceed 80 bytes and allow any...]]></summary>
+        <author>
+            <name>News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celsius’ Mashinsky lashes out at ‘death-in-prison sentence’]]></title>
+        <id>https://cryptopanic.com/news/21583466/Celsius-Mashinsky-lashes-out-at-death-in-prison-sentence</id>
+        <link href="https://cryptopanic.com/news/21583466/Celsius-Mashinsky-lashes-out-at-death-in-prison-sentence"/>
+        <updated>2025-05-06T06:01:33.000Z</updated>
+        <summary type="html"><![CDATA[Alex Mashinsky, the founder and former CEO of bankrupt crypto lending platform Celsius, has blasted the government's 20-year “venom-laced” sentence request, declaring it a “death-in-prison sentence. ”The US Department of Justice requested Mashinsky receive at least 20 years behind bars in the...]]></summary>
+        <author>
+            <name>News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gemini Adds Ripple’s RLUSD After Cryptic Message Sparks Buzz]]></title>
+        <id>https://cryptopanic.com/news/21582857/Gemini-Adds-Ripples-RLUSD-After-Cryptic-Message-Sparks-Buzz</id>
+        <link href="https://cryptopanic.com/news/21582857/Gemini-Adds-Ripples-RLUSD-After-Cryptic-Message-Sparks-Buzz"/>
+        <updated>2025-05-06T06:00:45.000Z</updated>
+        <summary type="html"><![CDATA[The news was confirmed in a recent update from the exchange, marking another step in RLUSD’s expanding market presence.]]></summary>
+        <author>
+            <name>News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CFTC joins tokenization pilots to learn crypto’s real-world impact]]></title>
+        <id>https://cryptopanic.com/news/21583343/CFTC-joins-tokenization-pilots-to-learn-cryptos-real-world-impact</id>
+        <link href="https://cryptopanic.com/news/21583343/CFTC-joins-tokenization-pilots-to-learn-cryptos-real-world-impact"/>
+        <updated>2025-05-06T06:00:38.000Z</updated>
+        <summary type="html"><![CDATA[The US Commodity Futures Trading Commission (CFTC) will watch tokenization pilots to assess crypto’s real-world impact.]]></summary>
+        <author>
+            <name>News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Samourai Wallet Lawyers Say Prosecutors Hid Evidence]]></title>
+        <id>https://cryptopanic.com/news/21582859/Samourai-Wallet-Lawyers-Say-Prosecutors-Hid-Evidence</id>
+        <link href="https://cryptopanic.com/news/21582859/Samourai-Wallet-Lawyers-Say-Prosecutors-Hid-Evidence"/>
+        <updated>2025-05-06T05:58:34.000Z</updated>
+        <summary type="html"><![CDATA[Samourai Wallet’s legal team is pushing back against charges that it operated as an unlicensed money transmitter.]]></summary>
+        <author>
+            <name>News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Sideways, But Gold-Backed Cryptos Advance As Precious Yellow Metal Hits A Two-Week High]]></title>
+        <id>https://cryptopanic.com/news/21583741/Bitcoin-Sideways-But-Gold-Backed-Cryptos-Advance-As-Precious-Yellow-Metal-Hits-A-Two-Week-High</id>
+        <link href="https://cryptopanic.com/news/21583741/Bitcoin-Sideways-But-Gold-Backed-Cryptos-Advance-As-Precious-Yellow-Metal-Hits-A-Two-Week-High"/>
+        <updated>2025-05-06T05:55:32.000Z</updated>
+        <summary type="html"><![CDATA[Risk-off sentiment returned ahead of the Federal Reserve's policy meeting, sending gold and its cryptocurrency derivatives higher on Monday. What happened: Spot gold was up 0. 74% to $3,358. 91 per ounce as of this writing, after hitting a two-week high earlier in the session. read more]]></summary>
+        <author>
+            <name>News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[eToro aims for $4B valuation, $500M raise for US IPO]]></title>
+        <id>https://cryptopanic.com/news/21582856/eToro-aims-for-4B-valuation-500M-raise-for-US-IPO</id>
+        <link href="https://cryptopanic.com/news/21582856/eToro-aims-for-4B-valuation-500M-raise-for-US-IPO"/>
+        <updated>2025-05-06T05:51:30.000Z</updated>
+        <summary type="html"><![CDATA[The Israel-based eToro Group says it’s looking for a valuation of up to $4 billion with its initial public offering in the US, as the stock and crypto trading platform forges ahead with listing on the Nasdaq. The company and existing stockholders are aiming to raise $500 million through offering...]]></summary>
+        <author>
+            <name>News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Accumulation Accelerates as Semler and Strategy Expand Holdings]]></title>
+        <id>https://cryptopanic.com/news/21582847/Bitcoin-Accumulation-Accelerates-as-Semler-and-Strategy-Expand-Holdings</id>
+        <link href="https://cryptopanic.com/news/21582847/Bitcoin-Accumulation-Accelerates-as-Semler-and-Strategy-Expand-Holdings"/>
+        <updated>2025-05-06T05:51:11.000Z</updated>
+        <summary type="html"><![CDATA[Semler Scientific and Strategy added to their Bitcoin holdings, acquiring a combined 2,062 BTC worth over $196 million. 
+The post Bitcoin Accumulation Accelerates as Semler and Strategy Expand Holdings first appeared on Ecoinimist.]]></summary>
+        <author>
+            <name>News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gasless Chain The New Meta? ABT Arcblock Crypto Skyrocketing]]></title>
+        <id>https://cryptopanic.com/news/21582850/Gasless-Chain-The-New-Meta-ABT-Arcblock-Crypto-Skyrocketing</id>
+        <link href="https://cryptopanic.com/news/21582850/Gasless-Chain-The-New-Meta-ABT-Arcblock-Crypto-Skyrocketing"/>
+        <updated>2025-05-06T05:49:43.000Z</updated>
+        <summary type="html"><![CDATA[It’s a new week, and another winner is gaining huge traction. Crypto project ArcBlock (ABT) is currently sitting at $1. 14, accumulating for the next jump. With volume exceeding $10 million for the past 24 hours, and a market capitalization of $112 million]]></summary>
+        <author>
+            <name>News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[House Republicans Roll Out Crypto Bill to Curb Big‑Firm Control and Split SEC–CFTC Duties]]></title>
+        <id>https://cryptopanic.com/news/21583846/House-Republicans-Roll-Out-Crypto-Bill-to-Curb-BigFirm-Control-and-Split-SECCFTC-Duties</id>
+        <link href="https://cryptopanic.com/news/21583846/House-Republicans-Roll-Out-Crypto-Bill-to-Curb-BigFirm-Control-and-Split-SECCFTC-Duties"/>
+        <updated>2025-05-06T05:46:33.000Z</updated>
+        <summary type="html"><![CDATA[Republican lawmakers from the House Committee on Financial Services and the House Committee on Agriculture have unveiled a new crypto bill. The discussion draft seeks to establish a comprehensive regulatory framework for digital assets. The draft builds on the Financial Innovation and Technology...]]></summary>
+        <author>
+            <name>News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3 Things That Could Prevent a Bitcoin All-Time High This Year]]></title>
+        <id>https://cryptopanic.com/news/21582824/3-Things-That-Could-Prevent-a-Bitcoin-All-Time-High-This-Year</id>
+        <link href="https://cryptopanic.com/news/21582824/3-Things-That-Could-Prevent-a-Bitcoin-All-Time-High-This-Year"/>
+        <updated>2025-05-06T05:42:00.000Z</updated>
+        <summary type="html"><![CDATA[Despite bullish tailwinds, Bitcoin may not reach an all-time high this year if these things happen first.]]></summary>
+        <author>
+            <name>News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HyperLiquid Hype Crypto Full Recovery in The Play: Sending After Last Month’s Fuds]]></title>
+        <id>https://cryptopanic.com/news/21582819/HyperLiquid-Hype-Crypto-Full-Recovery-in-The-Play-Sending-After-Last-Months-Fuds</id>
+        <link href="https://cryptopanic.com/news/21582819/HyperLiquid-Hype-Crypto-Full-Recovery-in-The-Play-Sending-After-Last-Months-Fuds"/>
+        <updated>2025-05-06T05:38:49.000Z</updated>
+        <summary type="html"><![CDATA[The HYPE is back. After last month’s panic wave that flooded the crypto community, native token made a crazy comeback. HYPE crypto made history and outperformed many giants with an impressive 75% increase. This is a great example of how FOMO and FUD are often at play in crypto]]></summary>
+        <author>
+            <name>News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Warren Buffett Resigns as CEO of Berkshire Hathaway, Shares Tumble]]></title>
+        <id>http://www.inoreader.com/article/3a9c6e77c020061c</id>
+        <link href="https://news.bitcoin.com/warren-buffett-resigns-as-ceo-of-berkshire-hathaway-shares-tumble/"/>
+        <updated>2025-05-06T05:34:56.000Z</updated>
+        <summary type="html"><![CDATA[The legendary investor, at one time the richest man on the planet, once called bitcoin “rat poison.” Buffett Exits CEO Role at Berkshire Hathaway, Successor Named Efficient market theory posits that it’s impossible to consistently beat the market, but Warren Buffett, CEO of holding company Berkshire Hathaway, may be a rare exception to that rule, […]]]></summary>
+        <author>
+            <name>Frederick Munawa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FOMC Meeting May 7: Will Powell’s Speech Trigger Bitcoin Crash or Rally?]]></title>
+        <id>https://cryptopanic.com/news/21582815/FOMC-Meeting-May-7-Will-Powells-Speech-Trigger-Bitcoin-Crash-or-Rally</id>
+        <link href="https://cryptopanic.com/news/21582815/FOMC-Meeting-May-7-Will-Powells-Speech-Trigger-Bitcoin-Crash-or-Rally"/>
+        <updated>2025-05-06T05:33:28.000Z</updated>
+        <summary type="html"><![CDATA[With interest rate decisions and Powell’s speech on the agenda, the market is on edge. After a long pause following aggressive hikes in 2022–2023, the Fed began cutting rates in late 2024, bringing the current rate to 4. 25%–4]]></summary>
+        <author>
+            <name>News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kenya court rules against Sam Altman’s World, orders data deletion and halts biometrics collection]]></title>
+        <id>https://cryptopanic.com/news/21582810/Kenya-court-rules-against-Sam-Altmans-World-orders-data-deletion-and-halts-biometrics-collection</id>
+        <link href="https://cryptopanic.com/news/21582810/Kenya-court-rules-against-Sam-Altmans-World-orders-data-deletion-and-halts-biometrics-collection"/>
+        <updated>2025-05-06T05:31:32.000Z</updated>
+        <summary type="html"><![CDATA[Kenya's High Court has ordered World to delete local users' biometric data, ruling the collection violated privacy rights.]]></summary>
+        <author>
+            <name>News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Here’s How Much XRP Ripple Held at the End of Q1]]></title>
+        <id>https://cryptopanic.com/news/21582808/Heres-How-Much-XRP-Ripple-Held-at-the-End-of-Q1</id>
+        <link href="https://cryptopanic.com/news/21582808/Heres-How-Much-XRP-Ripple-Held-at-the-End-of-Q1"/>
+        <updated>2025-05-06T05:30:58.000Z</updated>
+        <summary type="html"><![CDATA[At the same time, the amount of XRP locked in escrow dropped from 38 billion to 37. 1 billion.]]></summary>
+        <author>
+            <name>News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ripple to Expand Its Quarterly XRP Markets Report as Institutional Usage Jumps]]></title>
+        <id>http://www.inoreader.com/article/3a9c6e77c0221e78</id>
+        <link href="https://www.coindesk.com/markets/2025/05/06/ripple-to-expand-its-quarterly-xrp-markets-report-as-institutional-usage-jumps"/>
+        <updated>2025-05-06T05:14:56.000Z</updated>
+        <summary type="html"><![CDATA[Ripple will sunset its quarterly XRP markets reports in its current form after Q2 2025, with newer versions including deeper insights as the token grabs more demand among institutional investors.
+The quarterly XRP Markets provides transparency into Ripple’s XRP holdings and updates on the state of the crypto markets and the XRP ecosystem.
+“However, the reality is that the report has not had the intended effect,” Ripple said in its Q1 2025 report Monday. “In many instances, Ripple’s transparency has been used against the company, most notably by former SEC leadership.”
+“As more institutions engage with XRP, additional perspectives and insights are expected to follow, pushing the market conversation forward,” it added. This comes amid a flurry of XRP-based ETF filings in the U.S. and Brazil,…]]></summary>
+        <author>
+            <name>Shaurya Malwa</name>
         </author>
     </entry>
     <entry>
@@ -52,86 +270,6 @@ The quarterly XRP Markets provides transparency into Ripple’s XRP holdings and
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Florida Joins Growing List of States Knocking Back Bitcoin Reserve Bills]]></title>
-        <id>https://cryptopanic.com/news/21582577/Florida-Joins-Growing-List-of-States-Knocking-Back-Bitcoin-Reserve-Bills</id>
-        <link href="https://cryptopanic.com/news/21582577/Florida-Joins-Growing-List-of-States-Knocking-Back-Bitcoin-Reserve-Bills"/>
-        <updated>2025-05-06T05:11:47.000Z</updated>
-        <summary type="html"><![CDATA[The push for state-level digital asset reserves is hitting resistance nationally, despite early-year optimism among Bitcoin advocates.]]></summary>
-        <author>
-            <name>News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Samourai Wallet Accuses Feds of Hiding Crucial Guidance Clearing Crypto Mixer]]></title>
-        <id>https://cryptopanic.com/news/21582175/Samourai-Wallet-Accuses-Feds-of-Hiding-Crucial-Guidance-Clearing-Crypto-Mixer</id>
-        <link href="https://cryptopanic.com/news/21582175/Samourai-Wallet-Accuses-Feds-of-Hiding-Crucial-Guidance-Clearing-Crypto-Mixer"/>
-        <updated>2025-05-06T05:04:16.000Z</updated>
-        <summary type="html"><![CDATA[Samourai Wallet’s lawyers accuse prosecutors of hiding FinCEN’s key info, which stated that the crypto mixer didn’t need a license to operate.]]></summary>
-        <author>
-            <name>News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gork memecoins soar 7,000% after Elon Musk’s latest name change – Details]]></title>
-        <id>https://cryptopanic.com/news/21582158/Gork-memecoins-soar-7000-after-Elon-Musks-latest-name-change-Details</id>
-        <link href="https://cryptopanic.com/news/21582158/Gork-memecoins-soar-7000-after-Elon-Musks-latest-name-change-Details"/>
-        <updated>2025-05-06T05:00:59.000Z</updated>
-        <summary type="html"><![CDATA[This may be the next chapter of Musk's memecoin circus.]]></summary>
-        <author>
-            <name>News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin vs Gold: Coinbase Exec's Unexpected US Plan!]]></title>
-        <id>https://cryptopanic.com/news/21582383/Bitcoin-vs-Gold-Coinbase-Execs-Unexpected-US-Plan</id>
-        <link href="https://cryptopanic.com/news/21582383/Bitcoin-vs-Gold-Coinbase-Execs-Unexpected-US-Plan"/>
-        <updated>2025-05-06T05:00:11.000Z</updated>
-        <summary type="html"><![CDATA[Dante talks about Bitcoin vs Gold: Coinbase Exec's Unexpected US Plan! Brought to you by Bitcoinwell. com a bitcoin-only platform on a mission to enable independence. #bitcoin #bitcoinnews #shortsopen]]></summary>
-        <author>
-            <name>News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Curve Regains Control of Official X Account After Hack]]></title>
-        <id>https://cryptopanic.com/news/21582768/Curve-Regains-Control-of-Official-X-Account-After-Hack</id>
-        <link href="https://cryptopanic.com/news/21582768/Curve-Regains-Control-of-Official-X-Account-After-Hack"/>
-        <updated>2025-05-06T04:53:40.000Z</updated>
-        <summary type="html"><![CDATA[According to Foresight News, Curve has announced that it has regained control of its official X account following a hacking incident. Previously, Curve founder Michael Egorov had warned users not to click on any links, as the account had been compromised by hackers. The situation has now been...]]></summary>
-        <author>
-            <name>News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Riot Releases April 2025 Production Figures and Key Business Update]]></title>
-        <id>https://cryptopanic.com/news/21581975/Riot-Releases-April-2025-Production-Figures-and-Key-Business-Update</id>
-        <link href="https://cryptopanic.com/news/21581975/Riot-Releases-April-2025-Production-Figures-and-Key-Business-Update"/>
-        <updated>2025-05-06T04:50:27.000Z</updated>
-        <summary type="html"><![CDATA[The update came via CEO Jason Les, who also highlighted a major operational shift for the firm.]]></summary>
-        <author>
-            <name>News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BNB Chain Launches Model Context Protocol for AI Integration]]></title>
-        <id>https://cryptopanic.com/news/21582767/BNB-Chain-Launches-Model-Context-Protocol-for-AI-Integration</id>
-        <link href="https://cryptopanic.com/news/21582767/BNB-Chain-Launches-Model-Context-Protocol-for-AI-Integration"/>
-        <updated>2025-05-06T04:47:06.000Z</updated>
-        <summary type="html"><![CDATA[According to BlockBeats, BNB Chain has recently introduced the Model Context Protocol (MCP), an open protocol designed to facilitate secure, bidirectional communication between AI applications and external data or tool systems. This development marks a significant step towards plug-and-play...]]></summary>
-        <author>
-            <name>News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Market signal from Bitcoin shows the S&P 500 will surge massively in the short term]]></title>
-        <id>https://cryptopanic.com/news/21581964/Market-signal-from-Bitcoin-shows-the-SP-500-will-surge-massively-in-the-short-term</id>
-        <link href="https://cryptopanic.com/news/21581964/Market-signal-from-Bitcoin-shows-the-SP-500-will-surge-massively-in-the-short-term"/>
-        <updated>2025-05-06T04:40:40.000Z</updated>
-        <summary type="html"><![CDATA[The S&P 500 is heading toward a new high, and Bitcoin is the one showing the way. That’s what Tom Lee, head of research at Fundstrat Global Advisors, laid out during a market segment this week, where he broke down why he thinks the rebound in crypto points directly to more upside for equities. This […]]]></summary>
-        <author>
-            <name>News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Latam Insights Encore: I’m Convinced: Bukele Outsmarted the IMF, Even if We Don’t Know How]]></title>
         <id>http://www.inoreader.com/article/3a9c6e77c02e720d</id>
         <link href="https://news.bitcoin.com/latam-insights-encore-im-convinced-bukele-outsmarted-the-imf-even-if-we-dont-know-how/"/>
@@ -139,106 +277,6 @@ The quarterly XRP Markets provides transparency into Ripple’s XRP holdings and
         <summary type="html"><![CDATA[Welcome to Latam Insights Encore, a deep dive into Latin America’s most relevant economic and crypto news from the past week. This edition explores how President Nayib Bukele has continued to purchase bitcoin, complying with the IMF policies of non-bitcoin accumulation established in their credit facility deal. Latam Insights Encore: Bukele Outsmarted The IMF While […]]]></summary>
         <author>
             <name>Sergio Goschenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ripple to Expand its Quarterly XRP Markets Report as Institutional Usage Jumps]]></title>
-        <id>https://cryptopanic.com/news/21582164/Ripple-to-Expand-its-Quarterly-XRP-Markets-Report-as-Institutional-Usage-Jumps</id>
-        <link href="https://cryptopanic.com/news/21582164/Ripple-to-Expand-its-Quarterly-XRP-Markets-Report-as-Institutional-Usage-Jumps"/>
-        <updated>2025-05-06T04:34:18.000Z</updated>
-        <summary type="html"><![CDATA[Ripple will sunset its quarterly XRP markets reports in its current form after Q2 2025, with newer versions including deeper insights as the token grabs more demand among institutional investors.The quarterly XRP Markets provides transparency into Ripple’s XRP holdings and updates on the state...]]></summary>
-        <author>
-            <name>News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maxine Waters Plans Walkout From Crypto Hearing, Will Host 'Shadow Hearing' Opposing Trump Family Ventures: Report]]></title>
-        <id>https://cryptopanic.com/news/21581967/Maxine-Waters-Plans-Walkout-From-Crypto-Hearing-Will-Host-Shadow-Hearing-Opposing-Trump-Family-Ventures-Report</id>
-        <link href="https://cryptopanic.com/news/21581967/Maxine-Waters-Plans-Walkout-From-Crypto-Hearing-Will-Host-Shadow-Hearing-Opposing-Trump-Family-Ventures-Report"/>
-        <updated>2025-05-06T04:34:02.000Z</updated>
-        <summary type="html"><![CDATA[Rep. Maxine Waters (D-Calif. ), a key Democrat and ranking member of the House Financial Services Committee, reportedly plans to walk out of a joint hearing on cryptocurrency policy scheduled for Tuesday. read more]]></summary>
-        <author>
-            <name>News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Florida Halts Legislation on Cryptocurrency Reserves]]></title>
-        <id>https://cryptopanic.com/news/21582766/Florida-Halts-Legislation-on-Cryptocurrency-Reserves</id>
-        <link href="https://cryptopanic.com/news/21582766/Florida-Halts-Legislation-on-Cryptocurrency-Reserves"/>
-        <updated>2025-05-06T04:33:41.000Z</updated>
-        <summary type="html"><![CDATA[According to Odaily, Florida's House Bill 487 and Senate Bill 550, which aimed to allow the state to invest up to 10% of its funds in Bitcoin to establish a strategic cryptocurrency reserve, have been indefinitely postponed and withdrawn from consideration. This decision came as the Florida...]]></summary>
-        <author>
-            <name>News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Florida takes strategic Bitcoin reserve bills off the table]]></title>
-        <id>https://cryptopanic.com/news/21581935/Florida-takes-strategic-Bitcoin-reserve-bills-off-the-table</id>
-        <link href="https://cryptopanic.com/news/21581935/Florida-takes-strategic-Bitcoin-reserve-bills-off-the-table"/>
-        <updated>2025-05-06T04:24:02.000Z</updated>
-        <summary type="html"><![CDATA[Two Florida crypto bills have been removed from the legislative process in the latest blow to American state-level strategic Bitcoin reserve ambitions.  Florida’s House Bill 487 and Senate Bill 550 have been “indefinitely postponed and withdrawn from consideration” on May 3, according to the...]]></summary>
-        <author>
-            <name>News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cardano Price Forecast: ADA builds bearish momentum amid on-chain weakness]]></title>
-        <id>https://cryptopanic.com/news/21582770/Cardano-Price-Forecast-ADA-builds-bearish-momentum-amid-on-chain-weakness</id>
-        <link href="https://cryptopanic.com/news/21582770/Cardano-Price-Forecast-ADA-builds-bearish-momentum-amid-on-chain-weakness"/>
-        <updated>2025-05-06T04:17:43.000Z</updated>
-        <summary type="html"><![CDATA[Cardano (ADA) price hovers around $0. 650 at the time of writing on Tuesday after falling nearly 6% over the last two days. On-chain data supports the bearish thesis, as funding rates are negative and network activity is falling.]]></summary>
-        <author>
-            <name>News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BNB Tops Bitcoin, Ethereum After VanEck Files For First US ETF Tracking The Token]]></title>
-        <id>https://cryptopanic.com/news/21581932/BNB-Tops-Bitcoin-Ethereum-After-VanEck-Files-For-First-US-ETF-Tracking-The-Token</id>
-        <link href="https://cryptopanic.com/news/21581932/BNB-Tops-Bitcoin-Ethereum-After-VanEck-Files-For-First-US-ETF-Tracking-The-Token"/>
-        <updated>2025-05-06T04:09:12.000Z</updated>
-        <summary type="html"><![CDATA[BNB Coin (CRYPTO: BNB) edged higher Monday after asset management giant VanEck filed an exchange-traded fund application with the SEC. read more]]></summary>
-        <author>
-            <name>News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[XRP Price Dips Further: Key Support Levels In Jeopardy]]></title>
-        <id>https://cryptopanic.com/news/21581658/XRP-Price-Dips-Further-Key-Support-Levels-In-Jeopardy</id>
-        <link href="https://cryptopanic.com/news/21581658/XRP-Price-Dips-Further-Key-Support-Levels-In-Jeopardy"/>
-        <updated>2025-05-06T04:08:46.000Z</updated>
-        <summary type="html"><![CDATA[XRP price started a downside correction below the $2. 20 zone. The price is now declining and might extend losses toward the $2. 020 level]]></summary>
-        <author>
-            <name>News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SEC’s May 12 Roundtable: BlackRock, Nasdaq, and Others to Discuss Tokenization & DeFi]]></title>
-        <id>https://cryptopanic.com/news/21581564/SECs-May-12-Roundtable-BlackRock-Nasdaq-and-Others-to-Discuss-Tokenization-DeFi</id>
-        <link href="https://cryptopanic.com/news/21581564/SECs-May-12-Roundtable-BlackRock-Nasdaq-and-Others-to-Discuss-Tokenization-DeFi"/>
-        <updated>2025-05-06T04:05:34.000Z</updated>
-        <summary type="html"><![CDATA[It has announced the agenda and panelists for the event, where top Wall Street leaders will join to discuss the future of finance. The event titled “Tokenization — Moving Assets Onchain: Where TradFi and DeFi Meet” is scheduled …]]></summary>
-        <author>
-            <name>News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ethereum Spot ETFs Show No Net Movement on May 5]]></title>
-        <id>https://cryptopanic.com/news/21582765/Ethereum-Spot-ETFs-Show-No-Net-Movement-on-May-5</id>
-        <link href="https://cryptopanic.com/news/21582765/Ethereum-Spot-ETFs-Show-No-Net-Movement-on-May-5"/>
-        <updated>2025-05-06T04:03:33.000Z</updated>
-        <summary type="html"><![CDATA[According to Foresight News, data from SoSoValue indicates that on May 5, Eastern Time, nine Ethereum spot ETFs experienced no net inflows or outflows, maintaining a zero-change status throughout the day. As of the latest report, the total net asset value of Ethereum spot ETFs stands at $6. 308...]]></summary>
-        <author>
-            <name>News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Riot Platforms Moves Millions in Bitcoin, Sparking Speculation Over Future Sales]]></title>
-        <id>https://cryptopanic.com/news/21581273/Riot-Platforms-Moves-Millions-in-Bitcoin-Sparking-Speculation-Over-Future-Sales</id>
-        <link href="https://cryptopanic.com/news/21581273/Riot-Platforms-Moves-Millions-in-Bitcoin-Sparking-Speculation-Over-Future-Sales"/>
-        <updated>2025-05-06T04:00:32.000Z</updated>
-        <summary type="html"><![CDATA[According to the information, Riot sold 475 BTC, worth approximately $38. 8 million, to institutional crypto custodian NYDIG.]]></summary>
-        <author>
-            <name>News</name>
         </author>
     </entry>
     <entry>
@@ -544,49 +582,6 @@ Based on DOGE’s current circulating supply, the Dogecoin price would have a ma
         <summary type="html"><![CDATA[The legal team for Samourai Wallet co-founders Keonne Rodriguez and William Hill has requested dismissal of criminal charges, citing newly disclosed FinCEN guidance that contradicted prosecutors’ claims and a recent Justice Department policy discouraging “regulation by prosecution” in the crypto sector. Legal Battle Looms as Samourai Founders Cite Brady Violations In a recent court filing […]]]></summary>
         <author>
             <name>Jamie Redman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SHIB Plunges 7.4% in One Week, but Market Sentiment Remains Cautiously Optimistic]]></title>
-        <id>http://www.inoreader.com/article/3a9c6e77c1fe6325</id>
-        <link href="https://www.coindesk.com/markets/2025/05/05/shib-plunges-7-4-in-one-week-but-market-sentiment-remains-cautiously-optimistic"/>
-        <updated>2025-05-05T20:06:24.000Z</updated>
-        <summary type="html"><![CDATA[The cryptocurrency market continues to reflect broader economic uncertainties as Shiba Inu (SHIB) faces significant downward pressure. 
-Recent price action shows SHIB testing critical support at $0.0000127 after experiencing a 7.4% decline from recent highs, with volume spikes coinciding with major selloffs particularly during early May, according to CoinDesk Research's technical analysis data model.
-Despite current volatility, on-chain data reveals growing institutional confidence in SHIB's long-term prospects. April 2025 saw the addition of 109 new millionaire wallets holding SHIB, bringing the total to 860 addresses with at least $1 million in tokens. This accumulation occurred even as SHIB's 7% price gain in April underperformed compared to Bitcoin's surge toward $95,000. 
-Market senti…]]></summary>
-        <author>
-            <name>AI Boost</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Leading House Dem Will Block Crypto Market Structure Bill Hearing]]></title>
-        <id>http://www.inoreader.com/article/3a9c6e77c1fe6321</id>
-        <link href="https://www.coindesk.com/policy/2025/05/05/leading-house-dem-will-block-crypto-market-structure-bill-hearing"/>
-        <updated>2025-05-05T20:06:24.000Z</updated>
-        <summary type="html"><![CDATA[The leading Democrat on the House Financial Services Committee, Rep. Maxine Waters, will block efforts to hold a joint hearing between her committee and the House Agriculture Committee on Monday's newly unveiled market structure discussion draft bill.
-
-Under House rules, all participants in a joint hearing need to agree to proceed. Waters will object to the joint hearing and prevent it from proceeding as planned, a Democratic staffer told CoinDesk, pointing to U.S. President Donald Trump's recent and increasing engagement with crypto.
-
-The Financial Services and Agriculture Committees announced they would host a joint hearing on market structure issues last week, and unveiled the first text addressing the issue — including how the Securities and Exchange Commission and Commodity Futures Tr…]]></summary>
-        <author>
-            <name>Nikhilesh De</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Likely Still 'Rat Poison' at Berkshire Hathaway Even Without Warren Buffett]]></title>
-        <id>http://www.inoreader.com/article/3a9c6e77c1ffb891</id>
-        <link href="https://www.coindesk.com/business/2025/05/05/warren-buffett-steps-down-as-berkshire-ceo-but-don-t-expect-a-bitcoin-pivot"/>
-        <updated>2025-05-05T19:55:30.000Z</updated>
-        <summary type="html"><![CDATA[Warren Buffett, the billionaire investor who helped shape Berkshire Hathaway into a global investment powerhouse, is stepping down as CEO at year-end — but his distaste for bitcoin (BTC) will likely live on at the firm.
-
-Buffett, who will remain chairman of the board, has famously described bitcoin as “rat poison squared” and a “gambling token,” signaling a strong ideological opposition to digital assets. His legacy on this issue casts a long shadow over his successor, Greg Abel, who now takes the reins of day-to-day leadership.
-
-For investors hoping for a shift in Berkshire’s crypto stance, the odds look slim.
-
-“I would be very surprised if there’s a meaningful change in Berkshire’s attitude toward Bitcoin,” said Meyer Shields, managing director at KBW. “On the merits, I think there’s a v…]]></summary>
-        <author>
-            <name>Helene Braun</name>
         </author>
     </entry>
     <entry>

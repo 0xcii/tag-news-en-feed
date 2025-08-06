@@ -6,12 +6,42 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=333695",
+          "author": "Jason Nelson",
+          "description": "Federal agents seized plans to skirt export laws using false documents and shipments to Singapore and Malaysia.",
+          "link": "https://decrypt.co/333695/men-charged-illegally-exporting-ai-chips-china",
+          "publishedOn": "2025-08-06T03:45:39.000Z",
+          "wordCount": 9815,
+          "title": "Two California Men Charged With Illegally Exporting AI Chips to China",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/crime_jail-handcuffs-gID_7.png@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/crime_jail-handcuffs-gID_7.png@png"
+        },
+        {
+          "id": "https://decrypt.co/?p=333696",
+          "author": "Vince Dioquino",
+          "description": "Fischer’s claim that liquid staking could trigger a Lehman-style collapse sparked ire from crypto leaders, who say the risks are overstated.",
+          "link": "https://decrypt.co/333696/ex-sec-chief-of-staff-compares-liquid-staking-to-lehman",
+          "publishedOn": "2025-08-06T02:09:22.000Z",
+          "wordCount": 10369,
+          "title": "Ex-SEC Chief of Staff Compares Liquid Staking to Lehman, Crypto Industry Fires Back",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Chart4_red-gID_7.png@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Chart4_red-gID_7.png@png"
+        },
+        {
           "id": "https://decrypt.co/?p=333681",
           "author": "Mathew Di Salvo",
           "description": "The new product gives builders the infrastructure to seamlessly integrate wallets into their apps.",
           "link": "https://decrypt.co/333681/coinbase-debuts-embedded-crypto-wallet-for-developers-with-stablecoin-focus",
           "publishedOn": "2025-08-05T22:57:51.000Z",
-          "wordCount": 9583,
+          "wordCount": 9616,
           "title": "Coinbase Debuts ‘Embedded’ Crypto Wallet for Developers—With Stablecoin Focus",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Coinbase_logo-nft-nyc-decrypt-style-scaled-gID_7.jpg@png",
@@ -26,8 +56,8 @@
           "description": "Charles Hoskinson said the issue was flagged in July, but Ledger has yet to provide an update.",
           "link": "https://decrypt.co/333670/cardano-founder-explains-some-ada-holders-missed-glacier-airdrop",
           "publishedOn": "2025-08-05T22:44:34.000Z",
-          "wordCount": 10079,
-          "title": "Cardano Founder Explains Why Some ADA Holders Missed Out on Glacier Airdrop",
+          "wordCount": 10152,
+          "title": "Cardano Founder Explains Why Some ADA Holders Can't Yet Get Glacier Airdrop",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/08/charles-hoskinson-cardano-gID_7.jpg@png",
             "length": "1000000",
@@ -41,7 +71,7 @@
           "description": "The funds have had outflows as the prices of their underlying assets have declined.",
           "link": "https://decrypt.co/333657/bitcoin-ethereum-etf-swoon-blip-next-surge-analysts",
           "publishedOn": "2025-08-05T20:20:11.000Z",
-          "wordCount": 10173,
+          "wordCount": 10206,
           "title": "Bitcoin, Ethereum ETF Swoon Likely Temporary Blip Before Next Surge: Analysts",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/bitcoin-ethereum-decrypt-style-02-scaled-gID_7.jpg@png",
@@ -56,7 +86,7 @@
           "description": "Mantle, \"the largest ETH-backed treasury amongst Web3 entities,\" is surprising traders today in an otherwise down market.",
           "link": "https://decrypt.co/333627/coinbase-listed-crypto-mantle-taking-off-ethereum-analysis",
           "publishedOn": "2025-08-05T19:29:03.000Z",
-          "wordCount": 12771,
+          "wordCount": 12804,
           "title": "This Coinbase-Listed Crypto Is Taking Off—With a Little Help From Ethereum: Analysis",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Ethereum-decrypt-style-03-gID_7.png@png",
@@ -71,7 +101,7 @@
           "description": "The gpt-oss-120b and gpt-oss-20b models are OpenAI's first open-weight language releases since GPT-2, with the smaller version needing just 16GB of memory to operate.",
           "link": "https://decrypt.co/333617/openai-two-open-source-ai-models-run-locally-match-premium",
           "publishedOn": "2025-08-05T18:59:22.000Z",
-          "wordCount": 11168,
+          "wordCount": 11210,
           "title": "OpenAI Drops Two Open Source AI Models That Run Locally and Match Premium Offerings",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/openai-sam-altman-decrypt-style-gID_7.png@png",
@@ -86,7 +116,7 @@
           "description": "The move comes after the agency exempted self-custodial and custodial staking in May.",
           "link": "https://decrypt.co/333616/sec-exempts-liquid-staking-ethereum-lido-solana-jito",
           "publishedOn": "2025-08-05T18:44:58.000Z",
-          "wordCount": 10077,
+          "wordCount": 10110,
           "title": "SEC Exempts Liquid Stakers Like Ethereum’s Lido, Solana’s Jito From Securities Laws",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/SecuritiesExchange_logo-gID_7.png@png",
@@ -101,7 +131,7 @@
           "description": "Galaxy recently sold 80,000 Bitcoin on behalf of a Satoshi-era investor. The company's Q2 earnings fell short of expectations.",
           "link": "https://decrypt.co/333592/strategy-trump-media-absorb-galaxys-9-billion-bitcoin-novogratz",
           "publishedOn": "2025-08-05T18:22:53.000Z",
-          "wordCount": 9539,
+          "wordCount": 9572,
           "title": "Strategy, Trump Media Helped Absorb Galaxy's $9 Billion Bitcoin Sale: Novogratz",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Galaxy-Mike-Novogratz-decrypt-style-01-gID_7.png@png",
@@ -116,7 +146,7 @@
           "description": "Crypto rises as Fed pivot bets build, SOL leads. ETH sees ATH ETF outflow. BMNR bought 200k ETH in past week. Vitalik proposes multidimensional ETH fees. US set to fine banks for crypto discrimination. SEC issues guidance on stablecoin accounting. Chainlink launches US equity data streams. Anti-Crypto Warren is a LOSER: Trump. CFTC opens door to crypto futures exchanges. Coinbase, Paypal to offer stablecoin yield. Thiel backed Bullish files for IPO. Arkham uncovers $3.5bn crypto heist",
           "link": "https://decrypt.co/videos/interviews/Q6HuVGk9/rate-cut-odds-soar-project-crypto-trump-tariffs",
           "publishedOn": "2025-08-05T18:22:07.000Z",
-          "wordCount": 6168,
+          "wordCount": 6462,
           "title": "RATE CUT ODDS SOAR, PROJECT CRYPTO, TRUMP TARIFFS",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/Q6HuVGk9/poster.jpg",
@@ -131,7 +161,7 @@
           "description": "Solana meme coin trader Leland King Fawcette bought and sold $1,300 worth of TROLL last summer—that would now be worth $36 million.",
           "link": "https://decrypt.co/333599/unlucky-trader-fumbles-36m-troll-solana-meme-coin",
           "publishedOn": "2025-08-05T18:02:10.000Z",
-          "wordCount": 10216,
+          "wordCount": 10249,
           "title": "Unlucky Trader Fumbles $36 Million on Troll Solana Meme Coin",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/Trollfacezen-Decryptstyle-scaled-gID_7.jpg@png",
@@ -146,7 +176,7 @@
           "description": "Ponke, a Solana meme coin with a viral social media following, is set to release a plush toy with a blunt to match.",
           "link": "https://decrypt.co/333564/solana-meme-coin-ponke-plush-toy",
           "publishedOn": "2025-08-05T16:00:03.000Z",
-          "wordCount": 10951,
+          "wordCount": 10984,
           "title": "Solana Meme Coin Ponke Releases Plush Toy as First in Line of Collectibles",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/PonkePlushyToy-DecryptStyle2-scaled-gID_7.jpg@png",
@@ -161,7 +191,7 @@
           "description": "Structured as equity, the investment marks MEXC’s push into the region amid growing institutional interest in Indonesia's maturing crypto space.",
           "link": "https://decrypt.co/333590/mexc-indonesian-exchange-200-million-valuation",
           "publishedOn": "2025-08-05T15:32:03.000Z",
-          "wordCount": 9638,
+          "wordCount": 9671,
           "title": "MEXC Pushes into Southeast Asia With Deal Valuing Indonesian Exchange at $200 Million",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/03/bitcoin-indonesia-map-gID_7.jpg@png",
@@ -191,7 +221,7 @@
           "description": "The company now has 521,939 Ethereum worth nearly $1.9 billion.",
           "link": "https://decrypt.co/333580/ethereum-treasury-sharplink-adds-265m-eth",
           "publishedOn": "2025-08-05T14:14:51.000Z",
-          "wordCount": 9517,
+          "wordCount": 9550,
           "title": "Ethereum Treasury SharpLink Adds $265 Million in ETH to Holdings",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Ethereum-decrypt-style-01-gID_7.png@png",
@@ -206,7 +236,7 @@
           "description": "Analysts told Decrypt though ETF approval rumors are adding to optimism, it’s MEI Pharma’s buy-in last month that is really pushing the surge.",
           "link": "https://decrypt.co/333561/litecoin-hits-five-month-high-amid-etf-optimism-and-100m-mei-pharma-treasury",
           "publishedOn": "2025-08-05T13:18:59.000Z",
-          "wordCount": 9413,
+          "wordCount": 9446,
           "title": "Litecoin Hits Five-Month High Amid ETF Optimism and $100M MEI Pharma Treasury",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/litecoin-decrypt-style-01-scaled-gID_7.jpg@png",
@@ -221,7 +251,7 @@
           "description": "Centralized crypto exchange Coinbase is set to raise $2 billion in convertible senior notes, as COIN sagged in pre-market trading.",
           "link": "https://decrypt.co/333558/coinbase-to-raise-2b-in-convertible-notes-as-coin-sags-in-pre-market",
           "publishedOn": "2025-08-05T12:10:15.000Z",
-          "wordCount": 9314,
+          "wordCount": 9347,
           "title": "Coinbase to Raise $2B in Convertible Notes as COIN Sags in Pre-Market Trading",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Coinbase_flag-gID_7.png@png",
@@ -236,7 +266,7 @@
           "description": "Lancashire Police seized stolen funds that criminals had converted to Bitcoin—but British law prevents victims from being overpaid.",
           "link": "https://decrypt.co/333550/uk-police-force-gets-665k-bitcoin-windfall-from-seizures",
           "publishedOn": "2025-08-05T11:21:31.000Z",
-          "wordCount": 8913,
+          "wordCount": 8946,
           "title": "UK Police Force Gets $665K Bitcoin Windfall From Seizures",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/lancashire-police-decrypt-style-gID_7.jpg@png",
@@ -251,7 +281,7 @@
           "description": "Experts reveal why retail investors remain underallocated while institutions amass billions in Ethereum.",
           "link": "https://decrypt.co/333544/ethereum-retail-sidelined-institutions-buy-billions",
           "publishedOn": "2025-08-05T10:55:18.000Z",
-          "wordCount": 9895,
+          "wordCount": 9928,
           "title": "Why Ethereum Retail Investors Remain 'Sidelined'—Even as Institutions Buy Billions",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Ethereum-decrypt-style-04-gID_7.jpg@png",
@@ -266,7 +296,7 @@
           "description": "The Treasury’s FinCEN flagged a sharp rise in scams involving crypto kiosks, with victim losses nearing $247 million in 2024.",
           "link": "https://decrypt.co/333546/fincen-issues-warning-on-bitcoin-atms-used-in-scams",
           "publishedOn": "2025-08-05T10:49:59.000Z",
-          "wordCount": 9817,
+          "wordCount": 9850,
           "title": "FinCEN Issues Warning on Bitcoin ATMs Used in Scams",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/bitcoin-atm-decrypt-style-1-scaled-gID_7.jpg@png",
@@ -281,7 +311,7 @@
           "description": "A Welshman has tried “everything humanly possible” to recover his $923M BTC from a landfill and failed. Now he’s launching a Bitcoin layer-2.",
           "link": "https://decrypt.co/333445/man-fails-to-buy-landfill-with-his-lost-923m-bitcoin-heres-his-new-plan",
           "publishedOn": "2025-08-05T10:08:24.000Z",
-          "wordCount": 12947,
+          "wordCount": 12980,
           "title": "Man Fails to Buy Landfill With His Lost $923M Bitcoin—Here’s His New Plan",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/JamesHowells-DecryptStyle-2-scaled-gID_7.jpg@png",
@@ -296,7 +326,7 @@
           "description": "Trump is expected to sign an executive order targeting alleged debanking of crypto firms and conservative groups.",
           "link": "https://decrypt.co/333524/trump-executive-order-crypto-firms-debanking",
           "publishedOn": "2025-08-05T05:51:49.000Z",
-          "wordCount": 10647,
+          "wordCount": 10680,
           "title": "Trump to Issue Executive Order Shielding Crypto Firms From Debanking: WSJ",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Trump-decrypt-style-04-gID_7.png@png",
@@ -311,7 +341,7 @@
           "description": "A digitally generated avatar of Parkland victim Joaquin Oliver appeared on Jim Acosta’s show, prompting debate over the ethical use of AI.",
           "link": "https://decrypt.co/333521/ai-version-parkland-victim-gun-control-interview-public-backlash",
           "publishedOn": "2025-08-05T05:35:01.000Z",
-          "wordCount": 9887,
+          "wordCount": 9920,
           "title": "AI Version of Parkland Victim Used in Gun Control Interview Sparks Public Backlash",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-15-gID_7.png@png",
@@ -326,7 +356,7 @@
           "description": "A tech-led rebound lifted U.S. stocks and crypto, but analysts warn the rally may be fragile amid rate cut speculation and signs of froth.",
           "link": "https://decrypt.co/333518/crypto-rises-alongside-stocks-fed-pivot-bets-build",
           "publishedOn": "2025-08-05T04:53:04.000Z",
-          "wordCount": 9029,
+          "wordCount": 9062,
           "title": "Crypto Rises Alongside Stocks as Fed Pivot Bets Build",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/crypto-trading-decrypt-style-02-gID_7.png@png",
@@ -341,7 +371,7 @@
           "description": "The CFTC is weighing a plan to let U.S. futures exchanges host spot crypto trading, but some warn it could trigger legal and regulatory risks.",
           "link": "https://decrypt.co/333516/cftc-feedback-plan-list-spot-crypto-registered-exchanges",
           "publishedOn": "2025-08-05T01:57:41.000Z",
-          "wordCount": 10080,
+          "wordCount": 10113,
           "title": "CFTC Seeks Feedback on Plan to List Spot Crypto on Registered Exchanges",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/cftc-decrypt-style-01-gID_7.jpg@png",
@@ -356,7 +386,7 @@
           "description": "North Korean operatives have breached crypto firms’ cloud systems using fake IT job offers and malware, stealing billions this year.",
           "link": "https://decrypt.co/333513/north-korean-fake-job-offers-cloud-systems-steal-billions-crypto",
           "publishedOn": "2025-08-05T00:16:23.000Z",
-          "wordCount": 11302,
+          "wordCount": 11335,
           "title": "North Korean Hackers Are Using Fake Job Offers to Breach Cloud Systems, Steal Billions in Crypto",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/north-korea-missiles-dprk-decrypt-style-gID_7.jpg@png",
@@ -371,7 +401,7 @@
           "description": "Google aims to test the reasoning capabilities of ChatGPT, Gemini, Claude, and other AI models using a Bayesian skill-rating system.",
           "link": "https://decrypt.co/333478/google-top-ai-models-against-live-chess-tournament",
           "publishedOn": "2025-08-04T23:54:14.000Z",
-          "wordCount": 10620,
+          "wordCount": 10662,
           "title": "Google to Pit Top AI Models Against Each Other in Live Chess Tournament",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2019/11/chess-316657_1280-e1574257337125-gID_7.jpg@png",
@@ -386,7 +416,7 @@
           "description": "The $18 billion AI search startup allegedly disguised its bots to scrape content from sites that banned it, prompting Cloudflare to kick it out of its verified bot program and roll out new anti-scraping defenses.",
           "link": "https://decrypt.co/333479/cloudflare-perplexity-ai-stealth-crawlers-website-blocks",
           "publishedOn": "2025-08-04T22:48:35.000Z",
-          "wordCount": 10673,
+          "wordCount": 10715,
           "title": "Cloudflare Accuses Perplexity AI of Using Stealth Crawlers to Evade Website Blocks",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-09-gID_7.png@png",
@@ -401,7 +431,7 @@
           "description": "The Open Network and Telegram inked an \"exclusivity deal” last month.",
           "link": "https://decrypt.co/333469/a-ton-strategy-telegram-linked-online-marketer-to-raise-558-million-for-treasury",
           "publishedOn": "2025-08-04T21:22:56.000Z",
-          "wordCount": 9559,
+          "wordCount": 9592,
           "title": "A TON Strategy? Telegram-linked Online Marketer to Raise $558 Million for Treasury",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/toncoin-ton-down-decrypt-style-scaled-gID_7.jpg@png",
@@ -416,7 +446,7 @@
           "description": "Key phrasing in the GENIUS Act permits payment platforms and crypto exchanges to continue to offer yield to holders, despite bans on issuers doing the same.",
           "link": "https://decrypt.co/333472/coinbase-paypal-stablecoin-rewards-genius-prohibitions-how",
           "publishedOn": "2025-08-04T21:10:59.000Z",
-          "wordCount": 10450,
+          "wordCount": 10483,
           "title": "Coinbase, PayPal Press Forward With Stablecoin Rewards Despite GENIUS Prohibitions–Here's How",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/USDC-gID_7.png@png",
@@ -431,7 +461,7 @@
           "description": "The Solana treasury company bought the dip, boosting its Solana holdings.",
           "link": "https://decrypt.co/333448/solana-treasury-defi-dev-corp-buys-sol-dip-stacks-18-million",
           "publishedOn": "2025-08-04T20:22:45.000Z",
-          "wordCount": 9378,
+          "wordCount": 9411,
           "title": "Solana Treasury Company DeFi Dev Corp Buys the SOL Dip, Stacks Another $18 Million",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/solana-price-up-decrypt-style-01-gID_7.png@png",
@@ -446,7 +476,7 @@
           "description": "Compass Point analysts view cooling interest in crypto trading among retail investors as a potential headwind for the exchange.",
           "link": "https://decrypt.co/333446/coinbase-downgrade-sell-retail-interest-cools-compass-point",
           "publishedOn": "2025-08-04T20:01:36.000Z",
-          "wordCount": 9340,
+          "wordCount": 9373,
           "title": "Coinbase Receives Downgrade to ‘Sell’ as Retail Interest Cools: Compass Point",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Coinbase_flag-gID_7.png@png",
@@ -461,7 +491,7 @@
           "description": "The Bitcoin miner started stacking ETH just 35 days ago.",
           "link": "https://decrypt.co/333388/tom-lee-bitmine-3-billion-ethereum-third-largest-public-crypto-treasury",
           "publishedOn": "2025-08-04T19:54:58.000Z",
-          "wordCount": 9525,
+          "wordCount": 9558,
           "title": "Tom Lee's BitMine Builds $3 Billion Ethereum Stash, Now Third Largest Public Crypto Treasury",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ethereum-decrypt-style-05-gID_7.png@png",
@@ -476,7 +506,7 @@
           "description": "OpenLedger’s crypto AI agent does not trade without user approval, putting control before automation.",
           "link": "https://decrypt.co/333417/market-obsessed-speed-crypto-ai-agent-wants-slow-down",
           "publishedOn": "2025-08-04T19:09:01.000Z",
-          "wordCount": 9720,
+          "wordCount": 9762,
           "title": "In a Market Obsessed With Speed, This Crypto AI Agent Wants You to Slow Down",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-17-gID_7.png@png",
@@ -491,7 +521,7 @@
           "description": "Microsoft has entered the fray with Edge's Copilot Mode, joining a crowded field of AI-powered browsers. We help you pick the right one.",
           "link": "https://decrypt.co/333230/this-your-browser-ai-any-questions",
           "publishedOn": "2025-08-04T19:01:03.000Z",
-          "wordCount": 15540,
+          "wordCount": 15582,
           "title": "This is Your Browser On AI. Any Questions?",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-04-gID_7.png@png",
@@ -506,7 +536,7 @@
           "description": "The latest crypto IPO seeks a $4.2 billion valuation.",
           "link": "https://decrypt.co/333415/cryptocurrency-exchange-bullish-raise-629m-public-offering",
           "publishedOn": "2025-08-04T18:57:48.000Z",
-          "wordCount": 9664,
+          "wordCount": 9697,
           "title": "Crypto Company Bullish to Raise Up to $629M in IPO",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/crypto-trading-decrypt-style-02-gID_7.png@png",
@@ -521,7 +551,7 @@
           "description": "Crypto markets are roaring after a rough weekend: Bitcoin is bouncing, but the charts for XRP and Ethereum are showing even stronger signs.",
           "link": "https://decrypt.co/333418/bitcoin-bounces-ethereum-xrp-price-signals-analysis",
           "publishedOn": "2025-08-04T18:51:46.000Z",
-          "wordCount": 13430,
+          "wordCount": 13463,
           "title": "Bitcoin Bounces, Ethereum and XRP Flash Strong Signals: Analysis",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/crypto-trading-decrypt-style-01-gID_7.png@png",
@@ -536,7 +566,7 @@
           "description": "CoinShares joins ETF staking rush with Solana filing as crypto funds chase yield and juggle redemption risks.",
           "link": "https://decrypt.co/333394/coinshares-solana-staking-etf-complicated-experts",
           "publishedOn": "2025-08-04T16:49:32.000Z",
-          "wordCount": 11054,
+          "wordCount": 11087,
           "title": "CoinShares Wants to Offer Solana Staking ETF—But It's Complicated, Experts Warn",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/solana-decrypt-style-04-gID_7.png@png",
@@ -544,36 +574,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/solana-decrypt-style-04-gID_7.png@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=333390",
-          "author": "Vince Dioquino",
-          "description": "George Osborne says the UK's cautious stance means it's trailing global rivals, as Coinbase, trade groups, and startups push for reform.",
-          "link": "https://decrypt.co/333390/former-chancellor-osborne-warns-uk-left-behind-crypto",
-          "publishedOn": "2025-08-04T15:32:29.000Z",
-          "wordCount": 10359,
-          "title": "Former Chancellor Osborne Warns UK Is ‘Completely Left Behind’ on Crypto",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/uk-houses-of-parliament-gID_7.jpg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/uk-houses-of-parliament-gID_7.jpg@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=333389",
-          "author": "André Beganski",
-          "description": "A blockchain security firm said that the attacker gained special privileges to the DeFi protocol six days ago.",
-          "link": "https://decrypt.co/333389/attacker-swipes-4-5-million-credix-unbacked-stablecoins",
-          "publishedOn": "2025-08-04T15:27:23.000Z",
-          "wordCount": 9403,
-          "title": "Attacker Swipes $4.5 Million From Credix Using Unbacked Stablecoins",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/malware-code-decrypt-style-gID_7.jpg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/malware-code-decrypt-style-gID_7.jpg@png"
         },
         {
           "id": "https://decrypt.co/videos/interviews/DnxzisxU/volatile-weekend-xrp-leads-rebound-trump-fires-bls-chief",
@@ -626,7 +626,7 @@
           "description": "BTC broadly stable ahead of Fed decision today. SEC allows ETPs to use in-kind mechanisms. eToro launches tokenised US stocks on ETH. Lummis intros crypto collateral for mortgages bill. Strategy buys $2.4b BTC post equity raise. Twenty One Capital receives 5.8k BTC from Tether. BTCS to raise $2b to buy ETH. 180 Life Sciences to buy $425m ETH. ETH perp dominance overtakes BTC. Stablecoins are ETH’s ChatGPT moment: Tom Lee. Kraken seeks $15b valuation for IPO. Hyperliquid suffered server issues, denies exploit. Linea to burn ETH with 20% of fees. Rakbank first in UAE to offer crypto trading for retail",
           "link": "https://decrypt.co/videos/interviews/ioFCfFCR/btc-stable-sec-allows-in-kind-redemptions-fed-decision-today",
           "publishedOn": "2025-07-30T15:33:32.000Z",
-          "wordCount": 6294,
+          "wordCount": 6588,
           "title": "BTC STABLE, SEC ALLOWS IN-KIND REDEMPTIONS, FED DECISION TODAY",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/ioFCfFCR/poster.jpg",
@@ -671,7 +671,7 @@
           "description": "Why Tokenized Stocks are important: A Breakdown #Crypto #Tokenization #kraken \n\nDecrypt spoke to Kraken's global head of consumer, Mark Greenberg, to break down the world of tokenized stocks—and explore Kraken's entry into the space with its XStocks offering.",
           "link": "https://decrypt.co/videos/interviews/DlQzVrtc/why-tokenized-stocks-are-important-a-breakdown",
           "publishedOn": "2025-07-29T14:18:32.000Z",
-          "wordCount": 5974,
+          "wordCount": 6268,
           "title": "Why Tokenized Stocks are Important: A Breakdown",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/DlQzVrtc/poster.jpg",
@@ -853,6 +853,176 @@
       "siteUrl": "https://cryptopanic.com/",
       "articles": [
         {
+          "id": "https://cryptopanic.com/news/23979712/Ethereum-Price-Falters-Above-3700-Is-a-Pullback-Brewing",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/23979712/Ethereum-Price-Falters-Above-3700-Is-a-Pullback-Brewing",
+          "publishedOn": "2025-08-06T03:28:25.000Z",
+          "wordCount": null,
+          "title": "Ethereum Price Falters Above $3,700 – Is a Pullback Brewing?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/23979681/Bitcoin-dip-to-112K-lacks-whiff-of-altcoin-summer-Bitfinex",
+          "author": null,
+          "description": "The performance of the altcoins this week suggests “rapid derisking across the high-beta segments” of the crypto market.",
+          "link": "https://cryptopanic.com/news/23979681/Bitcoin-dip-to-112K-lacks-whiff-of-altcoin-summer-Bitfinex",
+          "publishedOn": "2025-08-06T03:22:41.000Z",
+          "wordCount": 517,
+          "title": "Bitcoin dip to $112K lacks whiff of altcoin summer: Bitfinex",
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2NhMTMtNWUzNS03ZDQ2LTkwYjYtNDEzYzQyYmI2ZDEw.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/23979636/Trump-Suggests-New-Federal-Reserve-Chair-Tariff-Increases-Loom",
+          "author": null,
+          "description": "President Trump discusses a potential new Federal Reserve Chair and increased tariffs on pharmaceuticals and India, during CNBC's Squawk Box segment.",
+          "link": "https://cryptopanic.com/news/23979636/Trump-Suggests-New-Federal-Reserve-Chair-Tariff-Increases-Loom",
+          "publishedOn": "2025-08-06T03:07:03.000Z",
+          "wordCount": 516,
+          "title": "Trump Suggests New Federal Reserve Chair, Tariff Increases Loom",
+          "imageUrl": "https://coincu.com/wp-content/uploads/2025/08/trump-debates-fed-chair-nominee.png"
+        },
+        {
+          "id": "https://cryptopanic.com/news/23979667/Mark-Cuban-Cheers-NYU-Dropout-Whose-13-Billion-Valued-Blockchain-Project-Is-Aiming-For-A-Free-And-Fair-Financial-System",
+          "author": null,
+          "description": "Billionaire investor and television personality Mark Cuban welcomed the growth of the Injective (CRYPTO: INJ) blockchain, a project in which he has made strategic investments, on Tuesday. read more",
+          "link": "https://cryptopanic.com/news/23979667/Mark-Cuban-Cheers-NYU-Dropout-Whose-13-Billion-Valued-Blockchain-Project-Is-Aiming-For-A-Free-And-Fair-Financial-System",
+          "publishedOn": "2025-08-06T03:05:45.000Z",
+          "wordCount": 527,
+          "title": "Mark Cuban Cheers NYU Dropout Whose $1.3 Billion Valued Blockchain Project Is Aiming For A 'Free And Fair' Financial System",
+          "imageUrl": "https://cdn.benzinga.com/files/images/story/2025/08/05/Las-Vegas---May-21-Mark-Cuban-At-The-201.jpeg?auto=jpg&amp;dpr=1&amp;fit=crop&amp;height=480&amp;optimize=medium&amp;width=720"
+        },
+        {
+          "id": "https://cryptopanic.com/news/23979626/Tethers-Stablecoin-Emerges-as-the-Backbone-of-Blockchain-Fee-Economy",
+          "author": null,
+          "description": "The data, shared by CEO Paolo Ardoino, highlights the stablecoin’s dominance in real-world crypto usage—not just as a dollar-pegged asset, […] The post Tether’s Stablecoin Emerges as the Backbone of Blockchain Fee Economy appeared first on Coindoo.",
+          "link": "https://cryptopanic.com/news/23979626/Tethers-Stablecoin-Emerges-as-the-Backbone-of-Blockchain-Fee-Economy",
+          "publishedOn": "2025-08-06T03:01:12.000Z",
+          "wordCount": 517,
+          "title": "Tether’s Stablecoin Emerges as the Backbone of Blockchain Fee Economy",
+          "imageUrl": "https://coindoo.com/wp-content/uploads/2025/03/tether222-250x180.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/23979595/SharpLink-Gaming-Boosts-Treasury-to-Over-521000-ETH-Worth-Almost-19B",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/23979595/SharpLink-Gaming-Boosts-Treasury-to-Over-521000-ETH-Worth-Almost-19B",
+          "publishedOn": "2025-08-06T02:45:17.000Z",
+          "wordCount": null,
+          "title": "SharpLink Gaming Boosts Treasury to Over 521,000 ETH Worth Almost $1.9B",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/23979740/XRP-Price-News-Analyst-Warns-of-60-Crash",
+          "author": null,
+          "description": "XRP has recently shown some strong short-term moves. A crypto analyst has warned that despite a few temporary price bounces, XRP may still be facing a larger bearish trend in the weeks ahead. On the weekly chart, XRP is now confirming a “bearish divergence,” which is when the price forms higher...",
+          "link": "https://cryptopanic.com/news/23979740/XRP-Price-News-Analyst-Warns-of-60-Crash",
+          "publishedOn": "2025-08-06T02:43:01.000Z",
+          "wordCount": 515,
+          "title": "XRP Price News: Analyst Warns of 60% Crash",
+          "imageUrl": "https://image.coinpedia.org/wp-content/uploads/2025/07/28195014/Remittex-150x150.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/23979590/Bitcoin-Price-Wobbles-Below-Resistance-Could-a-Fresh-Drop-Follow",
+          "author": null,
+          "description": "Bitcoin price is struggling to recover above the $116,200 zone. BTC is now consolidating and might decline further below the $112,500 zone. Bitcoin started a fresh decline from the $115,500 zone. The price is trading below $114,000 and the 100 hourly Simple moving average",
+          "link": "https://cryptopanic.com/news/23979590/Bitcoin-Price-Wobbles-Below-Resistance-Could-a-Fresh-Drop-Follow",
+          "publishedOn": "2025-08-06T02:40:08.000Z",
+          "wordCount": 518,
+          "title": "Bitcoin Price Wobbles Below Resistance – Could a Fresh Drop Follow?",
+          "imageUrl": "https://www.newsbtc.com/wp-content/uploads/2025/08/Bitcoin-Price-Wobbles.jpg?fit=750%2C429"
+        },
+        {
+          "id": "https://cryptopanic.com/news/23979585/Base-network-says-sequencer-handoff-failure-caused-33-minute-mainnet-outage",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/23979585/Base-network-says-sequencer-handoff-failure-caused-33-minute-mainnet-outage",
+          "publishedOn": "2025-08-06T02:38:28.000Z",
+          "wordCount": null,
+          "title": "Base network says sequencer handoff failure caused 33-minute mainnet outage",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/23979587/China-Warns-of-Foreign-Crypto-Firms-Iris-Data-Collection-Threat",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/23979587/China-Warns-of-Foreign-Crypto-Firms-Iris-Data-Collection-Threat",
+          "publishedOn": "2025-08-06T02:37:25.000Z",
+          "wordCount": null,
+          "title": "China Warns of Foreign Crypto Firm's Iris Data Collection Threat",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/23979644/Korea-May-Delay-Crypto-Tax-Again-G-SHOCK-Goes-Digital-and-More",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/23979644/Korea-May-Delay-Crypto-Tax-Again-G-SHOCK-Goes-Digital-and-More",
+          "publishedOn": "2025-08-06T02:36:56.000Z",
+          "wordCount": null,
+          "title": "Korea May Delay Crypto Tax Again, G-SHOCK Goes Digital and More",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/23979543/SEC-staff-statement-on-liquid-staking-may-pave-way-for-staking-in-spot-Ether-ETFs",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/23979543/SEC-staff-statement-on-liquid-staking-may-pave-way-for-staking-in-spot-Ether-ETFs",
+          "publishedOn": "2025-08-06T02:11:44.000Z",
+          "wordCount": null,
+          "title": "SEC staff statement on liquid staking may pave way for staking in spot Ether ETFs",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/23979511/Ex-SEC-Chief-of-Staff-Compares-Liquid-Staking-to-Lehman-Crypto-Industry-Fires-Back",
+          "author": null,
+          "description": "Fischer’s claim that liquid staking could trigger a Lehman-style collapse sparked ire from crypto leaders, who say the risks are overstated.",
+          "link": "https://cryptopanic.com/news/23979511/Ex-SEC-Chief-of-Staff-Compares-Liquid-Staking-to-Lehman-Crypto-Industry-Fires-Back",
+          "publishedOn": "2025-08-06T02:09:22.000Z",
+          "wordCount": 520,
+          "title": "Ex-SEC Chief of Staff Compares Liquid Staking to Lehman, Crypto Industry Fires Back",
+          "imageUrl": "https://cdn.decrypt.co/wp-content/uploads/2025/06/Chart4_red-gID_7.png"
+        },
+        {
+          "id": "https://cryptopanic.com/news/23979533/Bitcoin-Ethereum-Dogecoin-XRP-Mirror-Stocks-Decline-Analyst-Touts-Buy-The-Dip-Tagline",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/23979533/Bitcoin-Ethereum-Dogecoin-XRP-Mirror-Stocks-Decline-Analyst-Touts-Buy-The-Dip-Tagline",
+          "publishedOn": "2025-08-06T02:04:35.000Z",
+          "wordCount": null,
+          "title": "Bitcoin, Ethereum, Dogecoin, XRP Mirror Stocks Decline: Analyst Touts 'Buy The Dip' Tagline",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/23979486/XRP-Quietly-Makes-Its-Way-into-Corporate-Portfolios-Across-the-Globe",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/23979486/XRP-Quietly-Makes-Its-Way-into-Corporate-Portfolios-Across-the-Globe",
+          "publishedOn": "2025-08-06T02:01:32.000Z",
+          "wordCount": null,
+          "title": "XRP Quietly Makes Its Way into Corporate Portfolios Across the Globe",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/23979480/Solana-Heres-why-SOL-faced-10-weekly-loss-despite-on-chain-growth",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/23979480/Solana-Heres-why-SOL-faced-10-weekly-loss-despite-on-chain-growth",
+          "publishedOn": "2025-08-06T02:00:20.000Z",
+          "wordCount": null,
+          "title": "Solana – Here’s why SOL faced 10% weekly loss despite on-chain growth",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/23979512/Bitcoin-Reserve-A-Strategic-Plan-for-US-Debt-Solution",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/23979512/Bitcoin-Reserve-A-Strategic-Plan-for-US-Debt-Solution",
+          "publishedOn": "2025-08-06T02:00:14.000Z",
+          "wordCount": null,
+          "title": "Bitcoin Reserve: A Strategic Plan for US Debt Solution",
+          "imageUrl": null
+        },
+        {
           "id": "https://cryptopanic.com/news/23979479/Coinbase-COIN-Stock-Extends-Fall-to-20-After-2-Billion-Notes-Offering",
           "author": null,
           "description": "",
@@ -881,176 +1051,6 @@
           "wordCount": 515,
           "title": "Philippines SEC Warns Public Against Unregistered Crypto Platforms",
           "imageUrl": "https://www.blockhead.co/content/images/2025/08/Gemini_Generated_Image_rhexkurhexkurhex.jpeg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/23979454/Asia-Morning-Briefing-Architect-Bets-Credit-Will-Outshine-Crypto-Equities-as-It-Builds-a-Web3-Moodys",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/23979454/Asia-Morning-Briefing-Architect-Bets-Credit-Will-Outshine-Crypto-Equities-as-It-Builds-a-Web3-Moodys",
-          "publishedOn": "2025-08-06T01:18:38.000Z",
-          "wordCount": null,
-          "title": "Asia Morning Briefing: Architect Bets Credit Will Outshine Crypto Equities as It Builds a Web3 Moody’s",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/23979382/SEC-Unveils-Project-Crypto-to-Modernize-US-Market-Regulations",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/23979382/SEC-Unveils-Project-Crypto-to-Modernize-US-Market-Regulations",
-          "publishedOn": "2025-08-06T01:06:45.000Z",
-          "wordCount": null,
-          "title": "SEC Unveils 'Project Crypto' to Modernize U.S. Market Regulations",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/23979360/Whales-Bet-Big-on-Ethena-as-TVL-Nears-10BIs-ENA-Ready-for-Liftoff",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/23979360/Whales-Bet-Big-on-Ethena-as-TVL-Nears-10BIs-ENA-Ready-for-Liftoff",
-          "publishedOn": "2025-08-06T01:01:32.000Z",
-          "wordCount": null,
-          "title": "Whales Bet Big on Ethena as TVL Nears $10B—Is ENA Ready for Liftoff?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/23979358/Can-Bitcoin-still-reach-200K-in-Q4-4-signs-say-yes-IF",
-          "author": null,
-          "description": "Bitcoin prepares for Q4 with bullish on-chain signals but demand-side confirmation remains uncertain.",
-          "link": "https://cryptopanic.com/news/23979358/Can-Bitcoin-still-reach-200K-in-Q4-4-signs-say-yes-IF",
-          "publishedOn": "2025-08-06T01:00:06.000Z",
-          "wordCount": 520,
-          "title": "Can Bitcoin still reach $200K in Q4? – 4 signs say yes IF…",
-          "imageUrl": "https://statics.ambcrypto.com/wp-content/uploads/2023/04/cropped-ambcrypto-favicon-270x270.png"
-        },
-        {
-          "id": "https://cryptopanic.com/news/23979453/Ripples-Partnership-With-BDACS-Pays-Off-as-XRP-Support-Goes-Live-at-Korean-Crypto-Custodian",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/23979453/Ripples-Partnership-With-BDACS-Pays-Off-as-XRP-Support-Goes-Live-at-Korean-Crypto-Custodian",
-          "publishedOn": "2025-08-06T00:52:21.000Z",
-          "wordCount": null,
-          "title": "Ripple’s Partnership With BDACS Pays Off as XRP Support Goes Live at Korean Crypto Custodian",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/23979353/SECs-Crenshaw-blasts-liquid-staking-guidance-as-misaligned-with-reality",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/23979353/SECs-Crenshaw-blasts-liquid-staking-guidance-as-misaligned-with-reality",
-          "publishedOn": "2025-08-06T00:49:58.000Z",
-          "wordCount": null,
-          "title": "SEC’s Crenshaw blasts liquid staking guidance as misaligned with reality",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/23979326/Zhao-Changpeng-Seeks-Dismissal-of-176-Billion-FTX-Lawsuit",
-          "author": null,
-          "description": "Zhao Changpeng requests $1. 76 billion FTX lawsuit dismissal, citing jurisdictional issues in Delaware, impacting Binance operations.",
-          "link": "https://cryptopanic.com/news/23979326/Zhao-Changpeng-Seeks-Dismissal-of-176-Billion-FTX-Lawsuit",
-          "publishedOn": "2025-08-06T00:37:16.000Z",
-          "wordCount": 516,
-          "title": "Zhao Changpeng Seeks Dismissal of $1.76 Billion FTX Lawsuit",
-          "imageUrl": "https://coincu.com/wp-content/uploads/2025/08/zhao-court-case-cartoon-thumbnail.png"
-        },
-        {
-          "id": "https://cryptopanic.com/news/23979282/Base-blames-faulty-sequencer-for-33-minute-outage-fixes-made",
-          "author": null,
-          "description": "Base blamed a 33-minute outage on Aug. 5 on an unprepared sequencer and said it has fixed the issue to ensure any chosen sequencer will be ready to process transactions.",
-          "link": "https://cryptopanic.com/news/23979282/Base-blames-faulty-sequencer-for-33-minute-outage-fixes-made",
-          "publishedOn": "2025-08-06T00:21:55.000Z",
-          "wordCount": 516,
-          "title": "Base blames faulty sequencer for 33-minute outage, fixes made",
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5ODdjMzAtMjY0ZC03ZGUyLThjYjAtZDYzMmE1MWZkZGYz.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/23979254/Major-US-Pension-Fund-Deepens-Bitcoin-ETF-Exposure",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/23979254/Major-US-Pension-Fund-Deepens-Bitcoin-ETF-Exposure",
-          "publishedOn": "2025-08-06T00:16:27.000Z",
-          "wordCount": null,
-          "title": "Major U.S. Pension Fund Deepens Bitcoin ETF Exposure",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/23979262/USDC-dominates-on-chain-use-as-stablecoin-settlement-crosses-15T-in-July",
-          "author": null,
-          "description": "Stablecoin’s monthly on-chain volume reached its highest level in July, which is a sign of a resurgence in decentralized finance activity. On-chain data analytics firm, Sentora (formerly IntoTheBlock), disclosed this in an X post. According to Sentora, the stablecoin volume for July was over $1....",
-          "link": "https://cryptopanic.com/news/23979262/USDC-dominates-on-chain-use-as-stablecoin-settlement-crosses-15T-in-July",
-          "publishedOn": "2025-08-06T00:10:46.000Z",
-          "wordCount": 518,
-          "title": "USDC dominates on-chain use as stablecoin settlement crosses $1.5T in July",
-          "imageUrl": "https://www.cryptopolitan.com/wp-content/uploads/2025/03/whale-dumps-hype-for-usdc-losing-1-8m.webp"
-        },
-        {
-          "id": "https://cryptopanic.com/news/23979217/SEC-Confirms-Liquid-Staking-Exclusions-from-Securities-Laws",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/23979217/SEC-Confirms-Liquid-Staking-Exclusions-from-Securities-Laws",
-          "publishedOn": "2025-08-06T00:06:53.000Z",
-          "wordCount": null,
-          "title": "SEC Confirms Liquid Staking Exclusions from Securities Laws",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/23979252/The-Crypto-Surge-is-Coming-Surge-Trailer-shorts",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/23979252/The-Crypto-Surge-is-Coming-Surge-Trailer-shorts",
-          "publishedOn": "2025-08-06T00:01:05.000Z",
-          "wordCount": null,
-          "title": "The Crypto Surge is Coming! Surge Trailer #shorts",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/23979192/Decoding-HyperLiquids-API-glitch-Refunds-issued-yet-caution-lingers",
-          "author": null,
-          "description": "A rare compensation move wins praise from some, but others call it the bare minimum after technical failure.",
-          "link": "https://cryptopanic.com/news/23979192/Decoding-HyperLiquids-API-glitch-Refunds-issued-yet-caution-lingers",
-          "publishedOn": "2025-08-06T00:00:15.000Z",
-          "wordCount": 517,
-          "title": "Decoding HyperLiquid’s API glitch – Refunds issued, yet caution lingers!",
-          "imageUrl": "https://statics.ambcrypto.com/wp-content/uploads/2023/04/cropped-ambcrypto-favicon-270x270.png"
-        },
-        {
-          "id": "https://cryptopanic.com/news/23979188/FOMO-Phase-for-Bitcoin-and-SP-500-Could-Be-Approaching-if-This-Happens-According-to-Analyst-Jason-Pizzino",
-          "author": null,
-          "description": "A popular crypto analyst thinks that Bitcoin (BTC) and stocks may skyrocket if one event occurs.",
-          "link": "https://cryptopanic.com/news/23979188/FOMO-Phase-for-Bitcoin-and-SP-500-Could-Be-Approaching-if-This-Happens-According-to-Analyst-Jason-Pizzino",
-          "publishedOn": "2025-08-06T00:00:15.000Z",
-          "wordCount": 525,
-          "title": "FOMO Phase for Bitcoin and S&P 500 Could Be Approaching if This Happens, According to Analyst Jason Pizzino",
-          "imageUrl": "https://dailyhodl.com/wp-content/uploads/2019/12/cropped-TDHLds.png?w=270"
-        },
-        {
-          "id": "https://cryptopanic.com/news/23979249/Bitcoins-Value-Why-Its-Still-a-Top-Investment",
-          "author": null,
-          "description": "Oshins talks about Bitcoin's Value: Why It's Still a Top Investment Brought to you by Bitcoinwell. com a bitcoin-only platform on a mission to enable independence. #bitcoin #bitcoinnews #shortsopen",
-          "link": "https://cryptopanic.com/news/23979249/Bitcoins-Value-Why-Its-Still-a-Top-Investment",
-          "publishedOn": "2025-08-06T00:00:01.000Z",
-          "wordCount": 515,
-          "title": "Bitcoin's Value: Why It's Still a Top Investment",
-          "imageUrl": "https://i1.ytimg.com/vi/0-ouZ7jP1zI/hqdefault.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/23979131/Trump-to-Announce-Replacement-for-Federal-Reserve-Governor-This-Week",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/23979131/Trump-to-Announce-Replacement-for-Federal-Reserve-Governor-This-Week",
-          "publishedOn": "2025-08-05T23:36:53.000Z",
-          "wordCount": null,
-          "title": "Trump to Announce Replacement for Federal Reserve Governor This Week",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/23979430/CEXIO-Power-Tap-Daily-Quiz-Answer-Today-06-August-2025-Win-Big",
-          "author": null,
-          "description": "Looking for today's CEX. IO Power Tap Daily Quiz 06 August 2025? Know answers of Today's Quiz: \"Why Simplicity Beats Complexity in Crypto\" with all last days. . . . Read More",
-          "link": "https://cryptopanic.com/news/23979430/CEXIO-Power-Tap-Daily-Quiz-Answer-Today-06-August-2025-Win-Big",
-          "publishedOn": "2025-08-05T23:30:00.000Z",
-          "wordCount": 519,
-          "title": "CEX.IO Power Tap Daily Quiz Answer Today 06 August 2025: Win Big!",
-          "imageUrl": "https://d3iuzwoiyg9qa8.cloudfront.net/webadmin/storage/public/crypto-news/thumbnail/temp6892331b10176.webp"
         }
       ]
     },
@@ -1059,6 +1059,86 @@
       "feedUrl": "https://www.inoreader.com/stream/user/1005336866/tag/%E6%B5%B7%E5%A4%96%E5%8A%A0%E5%AF%86%E8%B5%84%E8%AE%AF",
       "siteUrl": "https://www.inoreader.com/stream/user/1005336866/tag/%E6%B5%B7%E5%A4%96%E5%8A%A0%E5%AF%86%E8%B5%84%E8%AE%AF/view/html",
       "articles": [
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e7703ad2005",
+          "author": "Sam Reynolds",
+          "description": "Good Morning, Asia. Here's what's making news in the markets:\nWelcome to Asia Morning Briefing, a daily summary of top stories during U.S. hours and an overview of market moves and analysis. For a detailed overview of U.S. markets, see CoinDesk's Crypto Daybook Americas.\nThe maturing digital assets market that has sophisticated market making, capital markets, and decentralized finance, is still lacking one key market infrastructure to compete with traditional finance: an institutional-grade credit agency.\nArchitect aims to change this by launching crypto's first institutional-grade credit ratings service, similar to traditional finance's Moody's – because most TradFi ratings agencies just won't touch crypto.\nSure, Moody's has dipped its toes into digital assets, but a full-blown credit age…",
+          "link": "https://www.coindesk.com/markets/2025/08/06/asia-morning-briefing-architect-bets-credit-will-outshine-crypto-equities-as-it-builds-a-web3-moody-s",
+          "publishedOn": "2025-08-06T03:46:37.000Z",
+          "wordCount": null,
+          "title": "Asia Morning Briefing: Architect Bets Credit Will Outshine Crypto Equities as It Builds a Web3 Moody’s",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/*",
+            "url": "https://cdn.sanity.io/images/s3y3vcno/production/30e309c704d24a6db15b729a2af2237045333e69-1920x1281.jpg?auto=format&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/30e309c704d24a6db15b729a2af2237045333e69-1920x1281.jpg?auto=format&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e7703ad2001",
+          "author": "Siamak Masnavi",
+          "description": "XRP is now live on BDACS, a regulated crypto custodian for South Korean institutions, marking the first concrete outcome of Ripple’s custody partnership announced in February.\nBDACS talked about the launch in a post made Aug. 5 on X. The firm said it will offer custody support for XRP, which it described as one of the most popular digital assets in South Korea. This update follows a partnership announced Feb. 26 with Ripple, the U.S.-based blockchain company that developed the XRP Ledger and its native token.\nWhen the partnership was announced in February, BDACS said the deal aligned with South Korea’s Financial Services Commission roadmap, which seeks to expand institutional participation in the country’s digital asset market. \nAt the time, the firm said it would support both XRP and RLUS…",
+          "link": "https://www.coindesk.com/business/2025/08/06/ripple-s-partnership-with-bdacs-pays-off-as-xrp-support-goes-live-at-korean-crypto-custodian",
+          "publishedOn": "2025-08-06T03:46:37.000Z",
+          "wordCount": null,
+          "title": "Ripple’s Partnership With BDACS Pays Off as XRP Support Goes Live at Korean Crypto Custodian",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/*",
+            "url": "https://cdn.sanity.io/images/s3y3vcno/production/83784774af8b3809663384eb2254b7b4e1e534b5-1920x1272.jpg?auto=format&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/83784774af8b3809663384eb2254b7b4e1e534b5-1920x1272.jpg?auto=format&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e7703ada41b",
+          "author": "Kevin Helms",
+          "description": "The U.S. dollar could soon be reanchored to gold as global faith in fiat erodes, with Ray Dalio spotlighting historic cycles pointing toward a seismic monetary realignment. Ray Dalio Hints at Possible Dollar Reset as Confidence in Fiat Fades Amid growing concerns over fiat currency stability and rising global debt, some financial experts are revisiting […]",
+          "link": "https://news.bitcoin.com/us-dollar-could-return-to-gold-backing-says-ray-dalio-as-fiat-trust-erodes/",
+          "publishedOn": "2025-08-06T03:41:31.000Z",
+          "wordCount": 170,
+          "title": "US Dollar Could Return to Gold Backing, Says Ray Dalio as Fiat Trust Erodes",
+          "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2025/08/ray-dalio-us-dollar-backed-by-gold.jpg"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e7703af7f14",
+          "author": "Christian Encila",
+          "description": "US President Donald Trump is moving ahead with a plan to target banks that cut off customers over politics or crypto. His team is expected to issue an executive order within days.\n \n \nAccording to a report from The Independent, the order will push regulators to dig into possible breaches of the Equal Credit Opportunity Act, antitrust rules, and consumer protection laws. It could hit banks with hefty fines, consent decrees, or other penalties.\n \nBackground Of Banking And Crypto Clash\n \nIndustry voices say crypto firms have long felt frozen out by big banks. They point to “Operation Chokepoint 2.0” under the Biden years, which they claim led to sudden account closures without clear reasons.\n \n \nBREAKING: Trump to prepare executive order that punishes banks that discriminate against conservat…",
+          "link": "https://bitcoinist.com/crypto-could-be-shielded-by-trumps-planned-executive-order-against-bank-discrimination/",
+          "publishedOn": "2025-08-06T03:23:15.000Z",
+          "wordCount": 5529,
+          "title": "Crypto Could Be Shielded By Trump’s Planned Executive Order Against Bank Discrimination",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/jpeg",
+            "url": "https://bitcoinist.com/wp-content/uploads/2025/08/a_65d1f6.jpg?fit=640,353"
+          },
+          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2025/08/a_65d1f6.jpg?fit=640,353"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e7703af7f10",
+          "author": "Ash Tiwari",
+          "description": "Galaxy Digital, a leading digital assets and AI infrastructure firm, today released its Q2 2025 financial results, reporting a notable increase in Bitcoin (BTC) holdings by 4,272 BTC. At the same time, the company has scaled back its exposure to other cryptocurrencies, including Ethereum (ETH), signaling a shift in portfolio allocation strategy.\n \nGalaxy Digital Increases Bitcoin Holdings, Cuts Back On Ethereum \n \nAccording to the Q2 2025 report, Galaxy Digital posted a net income of $30.7 million for the quarter, reflecting strong financial performance across its core business segments. A key milestone during the quarter was the company’s official listing on Nasdaq under the ticker GLXY, which took place on March 16. \n \n \nGalaxy’s net digital asset holdings now stand at approximately $1.2…",
+          "link": "https://bitcoinist.com/galaxy-digital-bitcoin-4272-btc-q2-2025-ethereum/",
+          "publishedOn": "2025-08-06T03:23:15.000Z",
+          "wordCount": 5988,
+          "title": "Galaxy Digital Boosts Bitcoin Holdings By 4,272 BTC In Q2 2025, Trims Ethereum Exposure",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/jpeg",
+            "url": "https://bitcoinist.com/wp-content/uploads/2025/08/bitcoin_a2e759.jpg?fit=631,420"
+          },
+          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2025/08/bitcoin_a2e759.jpg?fit=631,420"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e7703ab7c6a",
+          "author": "Kevin Helms",
+          "description": "Spot crypto trading is accelerating toward full federal regulation as the CFTC invites public input, setting the stage for transformative access on official U.S. futures exchanges. Push for Regulated Spot Crypto Heats up With CFTC Now Soliciting Feedback The Commodity Futures Trading Commission (CFTC) announced on Aug. 4 that it will begin developing a framework […]",
+          "link": "https://news.bitcoin.com/spot-crypto-trading-set-to-explode-with-cftcs-first-regulatory-greenlight/",
+          "publishedOn": "2025-08-06T02:41:00.000Z",
+          "wordCount": 154,
+          "title": "Spot Crypto Trading Set to Explode With CFTC’s First Regulatory Greenlight",
+          "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2025/08/spot-crypto-trading-cftc.jpg"
+        },
         {
           "id": "http://www.inoreader.com/article/3a9c6e77039142c2",
           "author": "Kevin Helms",
@@ -1075,7 +1155,7 @@
           "description": "Nasdaq-listed cryptocurrency exchange Coinbase has announced plans to raise $2 billion through a private convertible note offering following a weaker-than-expected second-quarter performance.\n \nThe move comes as COIN shares recorded a 15% decline on August 4, reflecting market reactions to the company’s reported drop in revenue and increased operational costs.\n \n \nDetails of the Convertible Note Offering\n \nAccording to the announcement, the proposed fundraising will be conducted through a private placement targeting qualified institutional buyers. The offering will consist of two tranches of senior unsecured notes, each worth $1 billion, set to mature in 2029 and 2032 respectively.\n \nCoinbase stated that the proceeds would be allocated toward capped call transactions to limit dilution risk…",
           "link": "https://bitcoinist.com/coinbase-plans-2b-private-convertible-offering/",
           "publishedOn": "2025-08-06T01:23:14.000Z",
-          "wordCount": 5516,
+          "wordCount": 5515,
           "title": "Coinbase Plans $2 Billion Private Convertible Note Offering Following Q2 Results",
           "enclosure": {
             "length": "1337",
@@ -1228,76 +1308,6 @@
             "url": "https://bitcoinist.com/wp-content/uploads/2025/08/ChatGPT-Image-Aug-5-2025-12_14_12-PM.png?fit=630,420"
           },
           "imageUrl": "https://bitcoinist.com/wp-content/uploads/2025/08/ChatGPT-Image-Aug-5-2025-12_14_12-PM.png?fit=630,420"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e77038b023e",
-          "author": "Sergio Goschenko",
-          "description": "A recent report prepared by ECB officials found that cash has maintained its relevance even in the EU, with predictions of a cashless society failing to materialize. While cash usage has been slowing down in the payments arena, its adoption has grown in other ways. Study Finds Cash Is Still Somewhat King for EU Citizens […]",
-          "link": "https://news.bitcoin.com/a-hit-to-digitalization-cash-is-still-very-much-alive-and-relevant-for-eu-citizens/",
-          "publishedOn": "2025-08-05T21:22:59.000Z",
-          "wordCount": 203,
-          "title": "A Hit to Digitalization: Cash Is Still Very Much Alive and Relevant for EU Citizens",
-          "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2025/08/european_union_cash.jpg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e770374b70b",
-          "author": "Jared Kirui",
-          "description": "Liquid staking just got approved by the U.S. Securities and Exchange Commission. In a staff statement released Tuesday, the agency clarified that this type of staking does not require securities law disclosures, offering the industry a degree of legal clarity it has long  \nsought.\nThe statement, published by the SEC’s Division of  \nCorporation Finance, addresses how liquid staking works when users deposit  \ncrypto assets with a third-party provider in exchange for \"receipt  \ntokens.\" These tokens can be used in decentralized finance (DeFi) while  \nthe original assets remain staked on proof-of-stake blockchains. \nNo Entrepreneurial Effort Means No Security\nThis is not formal rulemaking or binding legal  \nguidance. Instead, it reflects how the agency is currently viewing the issue  \nand sugg…",
-          "link": "https://www.financemagnates.com/cryptocurrency/crypto-wins-partial-victory-as-sec-eases-staking-concerns/",
-          "publishedOn": "2025-08-05T21:07:37.000Z",
-          "wordCount": 14137,
-          "title": "Crypto Wins Partial Victory as SEC Eases Staking Concerns",
-          "imageUrl": "https://images.financemagnates.com/images/crypto%20staking_id_9d9a7bd9-7ae0-4cde-a5b0-3a9bc6f87b66_size900.jpg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e7703765b9f",
-          "author": "Terence Zimwara",
-          "description": "Openledger and Trust Wallet have joined forces to bring the next generation of artificial intelligence (AI)-powered wallet experiences to Web3. Bringing Intelligence Directly into the Wallet In a major stride toward redefining Web3 usability, Openledger, the decentralized AI blockchain firm, and Trust Wallet have joined forces to launch AI-powered wallet experiences for the latter’s more […]",
-          "link": "https://news.bitcoin.com/openledger-trust-wallet-team-up-to-launch-ai-powered-web3-wallets/",
-          "publishedOn": "2025-08-05T20:53:58.000Z",
-          "wordCount": 144,
-          "title": "Openledger, Trust Wallet Team up to Launch AI-Powered Web3 Wallets",
-          "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2025/08/cccweb3.png"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e770370f87b",
-          "author": "Nikhilesh De",
-          "description": "Participants in liquid staking, including depositors and providers, do not need to worry about securities law disclosures, the U.S. Securities and Exchange Commission said in a staff statement on Tuesday. \nThe statement, published by the Division of Corporation Finance, is specific to liquid staking, where participants deposit \"covered crypto assets\" into a third-party staking protocol provider, which in turn provides receipt tokens to the depositors. \nLiquid staking allows users to lock up tokens in proof-of-stake blockchains while still maintaining access to their funds through derivative tokens. These tokens can then be used for various DeFi activities. Currently, liquid staking across all blockchains has nearly $67 billion in total-value-locked (TVL), with $31.7 billion in Lido, accord…",
-          "link": "https://www.coindesk.com/policy/2025/08/05/liquid-staking-doesn-t-run-afoul-of-securities-laws-sec-says",
-          "publishedOn": "2025-08-05T20:33:38.000Z",
-          "wordCount": null,
-          "title": "SEC Says Liquid Staking Doesn't Run Afoul of Securities Laws",
-          "enclosure": {
-            "length": "1337",
-            "type": "image/*",
-            "url": "https://cdn.sanity.io/images/s3y3vcno/production/333db2ac6429c13170ebdacdfd4cae413b017a08-4922x2769.jpg?auto=format&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/333db2ac6429c13170ebdacdfd4cae413b017a08-4922x2769.jpg?auto=format&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e770371a6e6",
-          "author": "Scott Matherson",
-          "description": "BitMEX co-founder Arthur Hayes has issued a sobering warning to crypto investors, predicting an imminent 19% Bitcoin crash. This foreboding report comes as Hayes significantly reduced his exposure to major cryptocurrencies, sparking uncertainty and doubt in the market. \n \nBitcoin Faces Potential 19% Price Crash\n \nOn August 2, Hayes took to the X social media platform to sound the alarm on potential market turbulence ahead. The BitMEX co-founder forecasted that the Bitcoin price could crash by a whopping 19%, possibly retesting the $100,000 level and marking one of its sharpest declines in recent weeks. \n \n \nNotably, Hayes’ grim outlook extends beyond Bitcoin to the world’s largest altcoin, Ethereum. He believes that while Bitcoin plunges to former lows, ETH could fall to $3,000, representi…",
-          "link": "https://bitcoinist.com/potential-19-bitcoin-crash/",
-          "publishedOn": "2025-08-05T20:28:42.000Z",
-          "wordCount": 5589,
-          "title": "Arthur Hayes Warns Of Potential 19% Bitcoin Crash, Abandons Major Positions",
-          "enclosure": {
-            "length": "1337",
-            "type": "image/jpeg",
-            "url": "https://bitcoinist.com/wp-content/uploads/2025/08/Bitcoin-from-Pixabay-72.jpg?fit=634,420"
-          },
-          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2025/08/Bitcoin-from-Pixabay-72.jpg?fit=634,420"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e7703724473",
-          "author": "Jamie Redman",
-          "description": "Sharplink Gaming, Inc. acquired 83,561 ether ( ETH) for $264.5 million last week, increasing its total holdings to 521,939 ETH. Sharplink Ether Concentration Jumps 83% The company, Sharplink Gaming, Inc. (Nasdaq: SBET), funded the purchases entirely through net proceeds from its at-the-market equity facility. Sharplink paid an average price of $3,634 per ETH between July […]",
-          "link": "https://news.bitcoin.com/sharplink-acquires-264-5-million-in-eth-boosting-holdings-to-521939/",
-          "publishedOn": "2025-08-05T20:23:26.000Z",
-          "wordCount": 167,
-          "title": "Sharplink Acquires $264.5 Million in ETH, Boosting Holdings to 521,939",
-          "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2025/08/j90.jpg"
         }
       ]
     }

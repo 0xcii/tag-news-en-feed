@@ -1,10 +1,362 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-08-12T11:19:25.011Z</id>
+    <id>urn:2025-08-12T12:45:55.918Z</id>
     <title>web3::cave</title>
-    <updated>2025-08-12T11:19:25.011Z</updated>
+    <updated>2025-08-12T12:45:55.918Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Qubic Claims Majority Control of Monero Hashrate, Raising 51% Attack Fears]]></title>
+        <id>http://www.inoreader.com/article/3a9c6e7707c1e650</id>
+        <link href="https://www.coindesk.com/business/2025/08/12/qubic-claims-majority-control-of-monero-hashrate-raising-51-attack-fears"/>
+        <updated>2025-08-12T12:39:32.000Z</updated>
+        <summary type="html"><![CDATA[Qubic, a project led by former IOTA co-founder Sergey Ivancheglo, says it has secured more than 51% of Monero’s global hashrate, a milestone that, if true, gives it the ability to reorganize blocks, censor transactions, and attempt double-spends on the privacy-focused blockchain. 
+Ivancheglo framed the move as a stress test to help the Monero community prepare for future network threats, but the announcement has triggered sharp debate among developers and security experts.
+A 51% attack occurs when a single entity or coordinated group controls a majority of a proof-of-work network’s hashrate. Ethereum Classic suffered multiple reorganizations in 2020, resulting in millions of dollars in losses, while Bitcoin Gold faced similar assaults in 2018 and 2020. 
+Smaller networks like Verge have also been targeted, demonstrating how concentrated hashing power can destabilize and entire cryptocurrency network.
+Monero, which uses the CPU-friendly RandomX algorithm, has long prided itself on resisting ASIC centralization. Qubic’s “useful proof-of-work” (uPoW) model repurposes Monero mining rewards by converting XMR into USDT, then using the proceeds to buy and burn QUBIC tokens, a deflationary mechanism that doubles as a liquidity sink for its own ecosystem.
+From mid-May to late July, Qubic’s share of the network jumped from less than 2% to over 25%, at times topping pool rankings.
+Ledger CTO Charles Guillemet warned on X that Monero “appears to be in the midst of a successful 51% attack,” citing signs of a major chain reorganization, with several other industry experts like SlowMist founder Yu Xian expressing their doubt over Qubic’s economics.
+Whether the events mark a hostile takeover or simply a stress test, XMR has responded negatively, dropping by 6.65% in the past 24 hours to compound a 16% decline over the past week.
+Read more: How $330M BTC Hacker May Have Doubled Down on Monero Derivatives]]></summary>
+        <author>
+            <name>Oliver Knight</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wall Street Firms Complete First 24/7 U.S. Treasury Financing Via Tokenization on Canton Network]]></title>
+        <id>http://www.inoreader.com/article/3a9c6e7707c1e64d</id>
+        <link href="https://www.coindesk.com/business/2025/08/11/wall-street-firms-complete-first-24-7-u-s-treasury-financing-via-tokenization-on-canton-network"/>
+        <updated>2025-08-12T12:39:32.000Z</updated>
+        <summary type="html"><![CDATA[Digital Asset and a group of major financial firms have executed the first real-time, fully on-chain financing of U.S. Treasuries against USDC on the Canton Network.
+The repo trade, carried out on Tradeweb, settled atomically on a Saturday, sidestepping the weekday-only limitations of traditional settlement systems, according to a press release shared with CoinDesk on Tuesday.
+Prime brokers converted U.S. Treasuries held at the Depository Trust & Clearing Corporation (DTCC) into tokenized assets on Canton, then used them as collateral for USDC-backed financing. The Canton Network is a privacy-focused blockchain developed by Digital Asset.
+Institutions involved in the transaction include Bank of America (BAC), Circle (CRCL), Citadel, Cumberland DRW, DTCC, Hidden Road, Societe Generale, Virtu Financial and Tradeweb. Most of these firms invested in Digital Asset in its $135 million fundraising round in June.
+Tokenization of government debt, a crucial collateral asset in global markets, is part of a broader push to bring financial instruments, or real-world assets, onto blockchains. Global banks and asset managers explore tokenization to cut settlement times, increase transparency and keep markets open around the clock.
+Participants in the Canton transaction said it marks a step toward a unified market structure blending traditional finance’s scale with the programmability of decentralized blockchain rails. They plan more transactions later this year.
+"[The transaction] demonstrates how market participants can unlock real-time collateral mobility and round-the-clock financing using assets on chain, which lays the groundwork for a fundamentally more efficient and accessible global financial system," Kelly Mathieson, chief business development officer at Digital Asset, said in a statement.
+Read more: Decentralized Finance and Tokenization Growth Still Disappoints: JPMorgan]]></summary>
+        <author>
+            <name>Krisztian Sandor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Circle Unveils Layer-1 Blockchain Arc, Reports $428 Million Q2 Loss]]></title>
+        <id>http://www.inoreader.com/article/3a9c6e7707c1e64c</id>
+        <link href="https://www.coindesk.com/business/2025/08/12/circle-unveils-layer-1-blockchain-arc-reports-usd428-million-q2-loss"/>
+        <updated>2025-08-12T12:39:32.000Z</updated>
+        <summary type="html"><![CDATA[Circle (CRCL) reported a second-quarter net loss even as circulation of the second-largest stablecoin, USDC, almost doubled from the year-earlier period and on-chain transaction volume more than quintupled to $5.9 trillion.
+The company also said it is developing a layer-1 blockchain “designed to provide an enterprise-grade foundation for stablecoin payments, FX, and capital markets applications.”  A public testnet for the Arc blockchain is scheduled to live in the next few months.
+Arc is Ethereum Virtual Machine (EVM)-compatible and uses USDC as its native gas token, has an integrated stablecoin FX engine, and sub-second settlement finality along with “opt-in privacy controls,” the company said.
+Circle’s is not the first stablecoin-focused blockchain on the blocks. Others include Plasma, which drew over $373 million in an oversubscribed token sale, and Stable, focused on USDC's larger rival, Tether's USDT. Payments company Stripe is reportedly also building its own stablecoin-focused chain, called Tempo.
+In its first quarter as a publicly traded company, Circle said USDC’s share of the stablecoin market rose to 28%. Total revenue and reserve income increased 53% to $658 million, driven by higher average USDC balances. The company posted a net loss of $482 million, largely due items related to the June IPO. Earnings before interest, tax, depreciation and amortization (Ebidta) rose 52% to $126 million, the company said.
+Interest in the $270 billion stablecoin sector has been accelerating after President Donald Trump signed the GENIUS Act into law. The act bolstered the industry by creating a federal regulatory framework for payment stablecoins in the U.S.
+Shares of Circle rose 6.35% to $171.41 in pre-market trading.]]></summary>
+        <author>
+            <name>Francisco Rodrigues</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tether, Tron-Backed T3 Financial Crime Unit Has Frozen $250M of Criminal Assets in a Year]]></title>
+        <id>http://www.inoreader.com/article/3a9c6e7707c1e647</id>
+        <link href="https://www.coindesk.com/policy/2025/08/12/tether-tron-backed-t3-financial-crime-unit-has-frozen-usd250m-of-criminal-assets-in-a-year"/>
+        <updated>2025-08-12T12:39:32.000Z</updated>
+        <summary type="html"><![CDATA[The T3 Financial Crime Unit, a joint initiative by Tron, Tether, and blockchain analytics firm TRM Labs, has now frozen over $250 million worth of criminal assets less than a year after its launch.
+“Freezing over $250 million in illicit assets in less than a year is a powerful testament to what’s possible when the industry comes together with a shared goal,” Paolo Ardoino, CEO of Tether, said in a statement on Tuesday.
+Formed in September 2024, T3 has worked with law enforcement agencies on five continents to target funds linked to money laundering, scams, hacks, terrorism financing, and other crimes.
+The unit says it has monitored over $3 billion in transaction volume and coordinated high-profile seizures, including proceeds from “pig butchering” scams and organized crime networks in Europe.
+The milestone coincides with the launch of “T3+,” a new public-private collaboration program aimed at speeding up cross-border investigations by bringing exchanges, financial institutions, and other stakeholders into real-time enforcement efforts.
+Binance is the program’s first member, with the exchange already working alongside T3 to freeze nearly $6 million connected to a pig butchering scam.
+The group said expanding partnerships through T3+ will help scale real-time monitoring and intervention across the global crypto ecosystem.]]></summary>
+        <author>
+            <name>Sam Reynolds</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crypto Holds High Ground As Macro Tailwinds Meet Pre-CPI Positioning]]></title>
+        <id>https://cryptopanic.com/news/24137223/Crypto-Holds-High-Ground-As-Macro-Tailwinds-Meet-Pre-CPI-Positioning</id>
+        <link href="https://cryptopanic.com/news/24137223/Crypto-Holds-High-Ground-As-Macro-Tailwinds-Meet-Pre-CPI-Positioning"/>
+        <updated>2025-08-12T12:38:46.000Z</updated>
+        <summary type="html"><![CDATA[Your daily access to the backroom.]]></summary>
+        <author>
+            <name>News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JUST IN: 🇺🇸 July U.S. CPI inflation rises 2.7%, below 2.8% expectations. 
+
+September rate cuts incoming]]></title>
+        <id>https://cryptopanic.com/news/24137232/JUST-IN-July-US-CPI-inflation-rises-27-below-28-expectations-September-rate-cuts-incoming</id>
+        <link href="https://cryptopanic.com/news/24137232/JUST-IN-July-US-CPI-inflation-rises-27-below-28-expectations-September-rate-cuts-incoming"/>
+        <updated>2025-08-12T12:34:02.000Z</updated>
+        <author>
+            <name>News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[US CPI Rises 2.7% – What It Could Mean for Bitcoin’s Next Move]]></title>
+        <id>https://cryptopanic.com/news/24137155/US-CPI-Rises-27-What-It-Could-Mean-for-Bitcoins-Next-Move</id>
+        <link href="https://cryptopanic.com/news/24137155/US-CPI-Rises-27-What-It-Could-Mean-for-Bitcoins-Next-Move"/>
+        <updated>2025-08-12T12:31:18.000Z</updated>
+        <summary type="html"><![CDATA[Over the past 12 months, prices climbed 2. 7%, matching June’s annual pace. Shelter costs rose 0. 2% and were the largest […] The post US CPI Rises 2.]]></summary>
+        <author>
+            <name>News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BONK Bet Sends Safety Shot Stock Plunging Over 50%]]></title>
+        <id>https://cryptopanic.com/news/24137138/BONK-Bet-Sends-Safety-Shot-Stock-Plunging-Over-50</id>
+        <link href="https://cryptopanic.com/news/24137138/BONK-Bet-Sends-Safety-Shot-Stock-Plunging-Over-50"/>
+        <updated>2025-08-12T12:30:42.000Z</updated>
+        <summary type="html"><![CDATA[The Nasdaq-listed beverage company stunned investors this week by announcing it would make the Solana-based memecoin Bonk the centerpiece of […] The post BONK Bet Sends Safety Shot Stock Plunging Over 50% appeared first on Coindoo.]]></summary>
+        <author>
+            <name>News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Do Kwon May Change Plea in US Criminal Case]]></title>
+        <id>https://cryptopanic.com/news/24137139/Do-Kwon-May-Change-Plea-in-US-Criminal-Case</id>
+        <link href="https://cryptopanic.com/news/24137139/Do-Kwon-May-Change-Plea-in-US-Criminal-Case"/>
+        <updated>2025-08-12T12:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Terraform Labs co-founder Do Kwon may be preparing to change his plea in the high-profile US criminal case tied to the 2022 collapse of the Terra ecosystem.]]></summary>
+        <author>
+            <name>News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Do Kwon to Plead Guilty in $40B TerraUSD Collapse]]></title>
+        <id>https://cryptopanic.com/news/24137143/Do-Kwon-to-Plead-Guilty-in-40B-TerraUSD-Collapse</id>
+        <link href="https://cryptopanic.com/news/24137143/Do-Kwon-to-Plead-Guilty-in-40B-TerraUSD-Collapse"/>
+        <updated>2025-08-12T12:28:44.000Z</updated>
+        <author>
+            <name>News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ethereum ETFs Attract Record $1.02 Billion on August 11, Outpacing Bitcoin Inflows]]></title>
+        <id>https://cryptopanic.com/news/24137130/Ethereum-ETFs-Attract-Record-102-Billion-on-August-11-Outpacing-Bitcoin-Inflows</id>
+        <link href="https://cryptopanic.com/news/24137130/Ethereum-ETFs-Attract-Record-102-Billion-on-August-11-Outpacing-Bitcoin-Inflows"/>
+        <updated>2025-08-12T12:27:53.000Z</updated>
+        <summary type="html"><![CDATA[Ethereum ETFs attracted $1. 02B on August 11, Bitcoin ETFs saw $178M inflows, signaling strong investor confidence in crypto funds.]]></summary>
+        <author>
+            <name>News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Price Watch: Consolidation Continues After $122K Rejection]]></title>
+        <id>http://www.inoreader.com/article/3a9c6e7707c3a6a9</id>
+        <link href="https://news.bitcoin.com/bitcoin-price-watch-consolidation-continues-after-122k-rejection/"/>
+        <updated>2025-08-12T12:27:35.000Z</updated>
+        <summary type="html"><![CDATA[Bitcoin’s price is trading at $118,400, with a market capitalization of $2.35 trillion and a 24-hour trading volume of $45.32 billion. The intraday range has been between $118,252 and $120,693, signaling a day of relatively contained volatility despite recent swings in momentum. Bitcoin On the daily chart, bitcoin continues to display a bullish macro structure, […]]]></summary>
+        <author>
+            <name>Jamie Redman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Did Hanesbrands Inc. (HBI) Shares Skyrocket in Premarket Trading?]]></title>
+        <id>https://cryptopanic.com/news/24137134/Why-Did-Hanesbrands-Inc-HBI-Shares-Skyrocket-in-Premarket-Trading</id>
+        <link href="https://cryptopanic.com/news/24137134/Why-Did-Hanesbrands-Inc-HBI-Shares-Skyrocket-in-Premarket-Trading"/>
+        <updated>2025-08-12T12:27:34.000Z</updated>
+        <summary type="html"><![CDATA[Hanesbrands stock surged dramatically in premarket trading amid acquisition rumors, offering hope for recovery after a challenging year. The post Why Did Hanesbrands Inc.]]></summary>
+        <author>
+            <name>News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BCH looks to break key resistance as Bitcoin Cash volume jumps 30%]]></title>
+        <id>https://cryptopanic.com/news/24137204/BCH-looks-to-break-key-resistance-as-Bitcoin-Cash-volume-jumps-30</id>
+        <link href="https://cryptopanic.com/news/24137204/BCH-looks-to-break-key-resistance-as-Bitcoin-Cash-volume-jumps-30"/>
+        <updated>2025-08-12T12:22:42.000Z</updated>
+        <summary type="html"><![CDATA[Bitcoin Cash price is near $590 having touched highs above $604 in the past 24 hours. While BCH is a mere 1% in 24 hours at the time of writing, it’s 18% higher in 30 days. Bitcoin Cash could break above critical resistance and eye the $1,000 level]]></summary>
+        <author>
+            <name>News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JUST IN: Cardone Capital prepares $1 BILLION pre-IPO raise to buy more Bitcoin.
+
+Another massive buy incoming.]]></title>
+        <id>https://cryptopanic.com/news/24137231/JUST-IN-Cardone-Capital-prepares-1-BILLION-pre-IPO-raise-to-buy-more-Bitcoin-Another-massive-buy-incoming</id>
+        <link href="https://cryptopanic.com/news/24137231/JUST-IN-Cardone-Capital-prepares-1-BILLION-pre-IPO-raise-to-buy-more-Bitcoin-Another-massive-buy-incoming"/>
+        <updated>2025-08-12T12:21:09.000Z</updated>
+        <author>
+            <name>News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Germany Missed Out on $3B From Selling BTC Before the Rally]]></title>
+        <id>https://cryptopanic.com/news/24137000/Germany-Missed-Out-on-3B-From-Selling-BTC-Before-the-Rally</id>
+        <link href="https://cryptopanic.com/news/24137000/Germany-Missed-Out-on-3B-From-Selling-BTC-Before-the-Rally"/>
+        <updated>2025-08-12T12:20:34.000Z</updated>
+        <author>
+            <name>News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Morning Minute: Tom Lee Races to 1,000,000+ ETH]]></title>
+        <id>https://decrypt.co/?p=334710</id>
+        <link href="https://decrypt.co/334710/morning-minute-tom-lee-races-to-1000000-eth"/>
+        <updated>2025-08-12T12:20:11.000Z</updated>
+        <summary type="html"><![CDATA[ETH ETFs set a smashing new record on Monday, while other crypto majors sell off ahead of today's CPI print.]]></summary>
+        <author>
+            <name>Tyler Warner</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Morning Minute: Tom Lee Races to 1,000,000+ ETH]]></title>
+        <id>https://cryptopanic.com/news/24137003/Morning-Minute-Tom-Lee-Races-to-1000000-ETH</id>
+        <link href="https://cryptopanic.com/news/24137003/Morning-Minute-Tom-Lee-Races-to-1000000-ETH"/>
+        <updated>2025-08-12T12:20:11.000Z</updated>
+        <summary type="html"><![CDATA[ETH ETFs set a smashing new record on Monday, while other crypto majors sell off ahead of today's CPI print.]]></summary>
+        <author>
+            <name>News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Monero price dips as Qubic likely succeeds in 51% attack]]></title>
+        <id>https://cryptopanic.com/news/24136991/Monero-price-dips-as-Qubic-likely-succeeds-in-51-attack</id>
+        <link href="https://cryptopanic.com/news/24136991/Monero-price-dips-as-Qubic-likely-succeeds-in-51-attack"/>
+        <updated>2025-08-12T12:19:53.000Z</updated>
+        <summary type="html"><![CDATA[Monero suffered 60 discarded blocks in 24 hours as Qubic openly conducts selfish mining and claims a successful 51% attack, escalating an ongoing hack war.]]></summary>
+        <author>
+            <name>News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Circle's USDC Growth, Expanding Partnerships Propel Stock Higher]]></title>
+        <id>https://cryptopanic.com/news/24137153/Circles-USDC-Growth-Expanding-Partnerships-Propel-Stock-Higher</id>
+        <link href="https://cryptopanic.com/news/24137153/Circles-USDC-Growth-Expanding-Partnerships-Propel-Stock-Higher"/>
+        <updated>2025-08-12T12:18:25.000Z</updated>
+        <summary type="html"><![CDATA[Circle Internet Group (CRCL) stock up 6. 73% after reporting strong Q2 results, including 53% revenue growth and beating analyst estimates. IPO milestone and partnerships driving interest in stablecoin market. read more]]></summary>
+        <author>
+            <name>News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solana vs. Ethereum Erupts Over Nasdaq Throughput Claim]]></title>
+        <id>http://www.inoreader.com/article/3a9c6e7707cd6d30</id>
+        <link href="https://bitcoinist.com/solana-vs-ethereum-nasdaq-throughput-claim/"/>
+        <updated>2025-08-12T12:15:31.000Z</updated>
+        <summary type="html"><![CDATA[A weekend post on X from the official Solana account ignited a fresh round of cross-chain sniping after it juxtaposed the Ethereum network’s transaction speed with Nasdaq’s trade throughput. “When they say the future of markets runs at 22 TPS but NASDAQ handles 2k trades per second,” Solana wrote on August 9, implicitly positioning the layer-1 as better aligned with modern market plumbing.
+ 
+Ethereum users bristled, arguing the comparison was a category error between an open, permissionless blockchain and a closed, centralized exchange network. The sharpest rebuttal came from the pseudonymous researcher polynya (@apolynya), who has 94,000 followers on X.
+ 
+ 
+When they say the future of markets runs at 22 TPS but NASDAQ handles 2k trades per second pic.twitter.com/TAsGAcFc7k
+ 
+— Solana (@so…]]></summary>
+        <author>
+            <name>Jake Simmons</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Metaplanet’s $2.1B Bitcoin Stash Surges Past 18,000 BTC]]></title>
+        <id>https://cryptopanic.com/news/24136575/Metaplanets-21B-Bitcoin-Stash-Surges-Past-18000-BTC</id>
+        <link href="https://cryptopanic.com/news/24136575/Metaplanets-21B-Bitcoin-Stash-Surges-Past-18000-BTC"/>
+        <updated>2025-08-12T12:13:20.000Z</updated>
+        <author>
+            <name>News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JUST IN: 🇯🇵 Metaplanet and 🇬🇧 Smarter Web add nearly $100M Bitcoin to corporate treasuries.
+
+Metaplanet now holds $2.15B, the 6th largest public holder.
+
+Smarter Web has $285M, eyeing top-20 spot.]]></title>
+        <id>https://cryptopanic.com/news/24136659/JUST-IN-Metaplanet-and-Smarter-Web-add-nearly-100M-Bitcoin-to-corporate-treasuries-Metaplanet-now-holds-215B-the-6th-largest-public-holder-Smarter-Web-has-285M-eyeing-top-20-spot</id>
+        <link href="https://cryptopanic.com/news/24136659/JUST-IN-Metaplanet-and-Smarter-Web-add-nearly-100M-Bitcoin-to-corporate-treasuries-Metaplanet-now-holds-215B-the-6th-largest-public-holder-Smarter-Web-has-285M-eyeing-top-20-spot"/>
+        <updated>2025-08-12T12:12:35.000Z</updated>
+        <author>
+            <name>News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Eric Trump joins World Liberty Financial treasury company before WLFI token launch]]></title>
+        <id>https://cryptopanic.com/news/24136478/Eric-Trump-joins-World-Liberty-Financial-treasury-company-before-WLFI-token-launch</id>
+        <link href="https://cryptopanic.com/news/24136478/Eric-Trump-joins-World-Liberty-Financial-treasury-company-before-WLFI-token-launch"/>
+        <updated>2025-08-12T12:10:54.000Z</updated>
+        <summary type="html"><![CDATA[ALT5 Sigma to Raise $1. 5B for WLFI Token Treasury as Eric Trump Joins Board]]></summary>
+        <author>
+            <name>News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Qubic Claims Majority Control of Monero Hashrate, Raising 51% Attack Fears]]></title>
+        <id>https://cryptopanic.com/news/24137173/Qubic-Claims-Majority-Control-of-Monero-Hashrate-Raising-51-Attack-Fears</id>
+        <link href="https://cryptopanic.com/news/24137173/Qubic-Claims-Majority-Control-of-Monero-Hashrate-Raising-51-Attack-Fears"/>
+        <updated>2025-08-12T12:09:51.000Z</updated>
+        <author>
+            <name>News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stripe Partners with Paradigm to Launch Layer-One Blockchain for Payments]]></title>
+        <id>https://cryptopanic.com/news/24136247/Stripe-Partners-with-Paradigm-to-Launch-Layer-One-Blockchain-for-Payments</id>
+        <link href="https://cryptopanic.com/news/24136247/Stripe-Partners-with-Paradigm-to-Launch-Layer-One-Blockchain-for-Payments"/>
+        <updated>2025-08-12T12:07:31.000Z</updated>
+        <author>
+            <name>News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[T3 Financial Crime Unit Launches “T3+” Global Collaborator Program; Over $250M in Criminal Assets Frozen as Binance Becomes First Member]]></title>
+        <id>http://www.inoreader.com/article/3a9c6e7707ced9ad</id>
+        <link href="https://news.bitcoin.com/t3-financial-crime-unit-launches-t3-global-collaborator-program-over-250m-in-criminal-assets-frozen-as-binance-becomes-first-member/"/>
+        <updated>2025-08-12T12:06:41.000Z</updated>
+        <summary type="html"><![CDATA[This content is provided by a sponsor. PRESS RELEASE. Singapore – August 12, 2025 – The T3 Financial Crime Unit (T3 FCU)—a joint initiative by TRON, Tether, and TRM Labs—today announced the launch of “T3+,” a global collaborator program made up of some of the largest and most influential players in the crypto ecosystem. It […]]]></summary>
+        <author>
+            <name>Media</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[XRP Bear Trap? These Price Levels Are Must Watch]]></title>
+        <id>https://cryptopanic.com/news/24136396/XRP-Bear-Trap-These-Price-Levels-Are-Must-Watch</id>
+        <link href="https://cryptopanic.com/news/24136396/XRP-Bear-Trap-These-Price-Levels-Are-Must-Watch"/>
+        <updated>2025-08-12T12:06:00.000Z</updated>
+        <author>
+            <name>News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fold Launches Bitcoin Gift Card on Major US Online Retailer, Holds Over 1,492 BTC in Treasury]]></title>
+        <id>http://www.inoreader.com/article/3a9c6e7707cb88f0</id>
+        <link href="https://news.bitcoin.com/fold-launches-bitcoin-gift-card-on-major-us-online-retailer-holds-over-1492-btc-in-treasury/"/>
+        <updated>2025-08-12T11:35:56.000Z</updated>
+        <summary type="html"><![CDATA[Fold Holdings, Inc. (NASDAQ: FLD) has announced the launch of its Fold Bitcoin Gift Card on Giftcards.com, the largest digital gift card retailer in the U.S. This initiative aims to expand access to Bitcoin for millions of consumers in a familiar and user-friendly format. The Fold Bitcoin Gift Card is the only Bitcoin gift card […]]]></summary>
+        <author>
+            <name>Bitcoin.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Traders Watch CPI for Fed Cues: Crypto Daybook Americas]]></title>
+        <id>http://www.inoreader.com/article/3a9c6e7707b41b61</id>
+        <link href="https://www.coindesk.com/daybook-us/2025/08/12/bitcoin-traders-watch-cpi-for-fed-cues-crypto-daybook-americas"/>
+        <updated>2025-08-12T11:32:15.000Z</updated>
+        <summary type="html"><![CDATA[By Omkar Godbole (All times ET unless indicated otherwise)
+Well, it's that time of the month when the market holds its breath for the latest U.S. inflation figures, which set the tone for the Fed's interest-rate policy. Bloomberg's consensus estimates indicate the July figure, due at 8:30 a.m., is likely to show an increase in prices, driven by President Trump's tariffs.
+Some traders have already begun hedging with short-dated bitcoin (BTC) put options in the $115,000–$118,000 range.
+But here's the interesting part: Implied volatility metrics aren't showing any signs of panic. Volmex's 24-hour bitcoin implied volatility index stood at an annualized 31%, easily within its recent range, equating to an expected price swing of just 1.6% in the next 24 hours. The gauges for ether (ETH), solana …]]></summary>
+        <author>
+            <name>Omkar Godbole</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Markets Today: Bitcoin, Ether Hold Gains as Ethena Hits $11.9B TVL, Pudgy Penguins Race to F1]]></title>
+        <id>http://www.inoreader.com/article/3a9c6e7707b41b52</id>
+        <link href="https://www.coindesk.com/markets/2025/08/12/markets-today-bitcoin-ether-hold-gains-as-ethena-hits-usd11-9b-tvl-and-pudgy-penguins-race-to-f1"/>
+        <updated>2025-08-12T11:32:15.000Z</updated>
+        <summary type="html"><![CDATA[The global crypto market cap rose 2% in the past 24 hours to $4.03 trillion as major cryptocurrencies posted gains. 
+Bitcoin (BTC) added 2.3% to $118,527, ether rose 0.7% to $4,293. Solana and XRP each advanced 4.4% while Dogecoin gained 4.7%. 
+The rallies came alongside heavy short liquidations, with risk sentiment improving after a relatively calm macro session.
+Derivatives Positioning
+
+Futures open interest (OI) in major tokens decreased over the past 24 hours, indicating a capital outflow. It's also suggestive of price losses being driven by the unwinding of long positions rather than outright short sales.
+XMR's perpetual futures appear overheated, with annualized funding rates exceeding 200%. The extremely high figure may prompt arbitrageurs to take a simultaneous long position in the…]]></summary>
+        <author>
+            <name>Shaurya Malwa</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[XRP Jackpot? VivoPower’s Ripple Deal Could Net $696-M In Tokens]]></title>
         <id>http://www.inoreader.com/article/3a9c6e7707b6806b</id>
@@ -27,144 +379,6 @@ VivoPower also referenced a prior hypothetical involving 30 million XRP at $3.29
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[BRN Sees "Structural Transformation" in H2 2025 as Institutional Adoption Accelerates]]></title>
-        <id>https://cryptopanic.com/news/24134868/BRN-Sees-Structural-Transformation-in-H2-2025-as-Institutional-Adoption-Accelerates</id>
-        <link href="https://cryptopanic.com/news/24134868/BRN-Sees-Structural-Transformation-in-H2-2025-as-Institutional-Adoption-Accelerates"/>
-        <updated>2025-08-12T11:12:45.000Z</updated>
-        <summary type="html"><![CDATA[DeFi TVL hits $223B all-time high while corporate Bitcoin holdings surge 50% YTD]]></summary>
-        <author>
-            <name>News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Is Crypto Down Today? – August 12, 2025]]></title>
-        <id>https://cryptopanic.com/news/24134878/Why-Is-Crypto-Down-Today-August-12-2025</id>
-        <link href="https://cryptopanic.com/news/24134878/Why-Is-Crypto-Down-Today-August-12-2025"/>
-        <updated>2025-08-12T11:11:17.000Z</updated>
-        <summary type="html"><![CDATA[The crypto market is down today, ETH spot ETFs hit a $1B record, and US CPI data “could trigger next BTC ATH. ”]]></summary>
-        <author>
-            <name>News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Hackers Are Laundering Stolen Funds in Under 3 Minutes]]></title>
-        <id>https://cryptopanic.com/news/24134589/Crypto-Hackers-Are-Laundering-Stolen-Funds-in-Under-3-Minutes</id>
-        <link href="https://cryptopanic.com/news/24134589/Crypto-Hackers-Are-Laundering-Stolen-Funds-in-Under-3-Minutes"/>
-        <updated>2025-08-12T11:08:55.000Z</updated>
-        <author>
-            <name>News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Circle to launch Layer 1 blockchain Arc using USDC stablecoin as native gas token]]></title>
-        <id>https://cryptopanic.com/news/24134608/Circle-to-launch-Layer-1-blockchain-Arc-using-USDC-stablecoin-as-native-gas-token</id>
-        <link href="https://cryptopanic.com/news/24134608/Circle-to-launch-Layer-1-blockchain-Arc-using-USDC-stablecoin-as-native-gas-token"/>
-        <updated>2025-08-12T11:07:53.000Z</updated>
-        <author>
-            <name>News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Metaplanet, Smarter Web add nearly $100M in Bitcoin to treasuries]]></title>
-        <id>https://cryptopanic.com/news/24134577/Metaplanet-Smarter-Web-add-nearly-100M-in-Bitcoin-to-treasuries</id>
-        <link href="https://cryptopanic.com/news/24134577/Metaplanet-Smarter-Web-add-nearly-100M-in-Bitcoin-to-treasuries"/>
-        <updated>2025-08-12T11:05:06.000Z</updated>
-        <author>
-            <name>News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Monero faces chain reorganization fears after Qubic says it controls 51% of hashrate]]></title>
-        <id>https://cryptopanic.com/news/24134098/Monero-faces-chain-reorganization-fears-after-Qubic-says-it-controls-51-of-hashrate</id>
-        <link href="https://cryptopanic.com/news/24134098/Monero-faces-chain-reorganization-fears-after-Qubic-says-it-controls-51-of-hashrate"/>
-        <updated>2025-08-12T11:02:24.000Z</updated>
-        <summary type="html"><![CDATA[A long-running campaign to amass more than half of Monero’s hashrate appears to have succeeded, prompting concern among crypto observers about the privacy-focused blockchain. Qubic founder Sergey Ivancheglo claimed his project’s mining pool has “achieved 51% over Monero”, a level that would...]]></summary>
-        <author>
-            <name>News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[$ETH Has broken out to new cycle highs but it being a weekend move and the rest of the market being pretty muted didn't make it that exciting just yet.
-
-Just shows you how everything this cycle has been moving much slower and at a more steady pace than previous cycle.
-
-I would]]></title>
-        <id>https://cryptopanic.com/news/24134734/ETH-Has-broken-out-to-new-cycle-highs-but-it-being-a-weekend-move-and-the-rest-of-the-market-being-pretty-muted-didnt-make-it-that-exciting-just-yet-Just-shows-you-how-everything-this-cycle-has-been-moving-much-slower-and-at-a-more-steady-pace-than-previou</id>
-        <link href="https://cryptopanic.com/news/24134734/ETH-Has-broken-out-to-new-cycle-highs-but-it-being-a-weekend-move-and-the-rest-of-the-market-being-pretty-muted-didnt-make-it-that-exciting-just-yet-Just-shows-you-how-everything-this-cycle-has-been-moving-much-slower-and-at-a-more-steady-pace-than-previou"/>
-        <updated>2025-08-12T11:02:00.000Z</updated>
-        <author>
-            <name>News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Strategy’s Bitcoin Reserves Surge Past 628K BTC After Latest Accumulation]]></title>
-        <id>https://cryptopanic.com/news/24134582/Strategys-Bitcoin-Reserves-Surge-Past-628K-BTC-After-Latest-Accumulation</id>
-        <link href="https://cryptopanic.com/news/24134582/Strategys-Bitcoin-Reserves-Surge-Past-628K-BTC-After-Latest-Accumulation"/>
-        <updated>2025-08-12T11:00:56.000Z</updated>
-        <summary type="html"><![CDATA[The company disclosed that it recently purchased 155 BTC for about $18 million, bringing its total holdings to a staggering […] The post Strategy’s Bitcoin Reserves Surge Past 628K BTC After Latest Accumulation appeared first on Coindoo.]]></summary>
-        <author>
-            <name>News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Metaplanet’s $61.4M Bitcoin buy pushes BTC reserves to $1.85B!]]></title>
-        <id>https://cryptopanic.com/news/24134062/Metaplanets-614M-Bitcoin-buy-pushes-BTC-reserves-to-185B</id>
-        <link href="https://cryptopanic.com/news/24134062/Metaplanets-614M-Bitcoin-buy-pushes-BTC-reserves-to-185B"/>
-        <updated>2025-08-12T11:00:41.000Z</updated>
-        <summary type="html"><![CDATA[Metaplanet’s latest Bitcoin grab rattles the leaderboard. Is this the opening move in a bigger corporate power play?]]></summary>
-        <author>
-            <name>News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Income Tax Bill 2025 Clears Lok Sabha Hurdle: What's in Store?]]></title>
-        <id>https://cryptopanic.com/news/24133973/Income-Tax-Bill-2025-Clears-Lok-Sabha-Hurdle-Whats-in-Store</id>
-        <link href="https://cryptopanic.com/news/24133973/Income-Tax-Bill-2025-Clears-Lok-Sabha-Hurdle-Whats-in-Store"/>
-        <updated>2025-08-12T11:00:17.000Z</updated>
-        <summary type="html"><![CDATA[The Income Tax Bill for the year 2025 has successfully passed through the crucial hurdle in the Lok Sabha, the lower house of India's Parliament. This significant legislative move raises important questions about what changes and implications the bill may bring for taxpayers and the economy...]]></summary>
-        <author>
-            <name>News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From Double-Bottom to Moonshot: XRP Targets $34 as ETFs Gear Up to Outshine Ethereum]]></title>
-        <id>https://cryptopanic.com/news/24133933/From-Double-Bottom-to-Moonshot-XRP-Targets-34-as-ETFs-Gear-Up-to-Outshine-Ethereum</id>
-        <link href="https://cryptopanic.com/news/24133933/From-Double-Bottom-to-Moonshot-XRP-Targets-34-as-ETFs-Gear-Up-to-Outshine-Ethereum"/>
-        <updated>2025-08-12T10:57:46.000Z</updated>
-        <summary type="html"><![CDATA[Veteran macro strategist Gert van Lagen highlights a key XRP technical breakout signaling a major rally to $34, while Canary Capital CEO Steven McClurg predicts XRP ETFs will outperform Ethereum ETFs at launch.]]></summary>
-        <author>
-            <name>News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Heritage Distilling Aims for $360M in Token IP]]></title>
-        <id>https://cryptopanic.com/news/24133965/Heritage-Distilling-Aims-for-360M-in-Token-IP</id>
-        <link href="https://cryptopanic.com/news/24133965/Heritage-Distilling-Aims-for-360M-in-Token-IP"/>
-        <updated>2025-08-12T10:57:04.000Z</updated>
-        <author>
-            <name>News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sea Limited (SE) Reports Strong Revenue Growth with Q2 Results Despite EPS Miss]]></title>
-        <id>https://cryptopanic.com/news/24133931/Sea-Limited-SE-Reports-Strong-Revenue-Growth-with-Q2-Results-Despite-EPS-Miss</id>
-        <link href="https://cryptopanic.com/news/24133931/Sea-Limited-SE-Reports-Strong-Revenue-Growth-with-Q2-Results-Despite-EPS-Miss"/>
-        <updated>2025-08-12T10:53:27.000Z</updated>
-        <summary type="html"><![CDATA[Sea Limited's Q2 2025 results highlight a robust performance with a revenue increase to $5. 3 billion, surpassing expectations.]]></summary>
-        <author>
-            <name>News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ethereum ETF inflows hit $1B, 5x bigger than Bitcoin’s]]></title>
-        <id>https://cryptopanic.com/news/24134228/Ethereum-ETF-inflows-hit-1B-5x-bigger-than-Bitcoins</id>
-        <link href="https://cryptopanic.com/news/24134228/Ethereum-ETF-inflows-hit-1B-5x-bigger-than-Bitcoins"/>
-        <updated>2025-08-12T10:50:25.000Z</updated>
-        <author>
-            <name>News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[FTX Investors Sue Law Firm, Alleging Role in Exchange's Fraud]]></title>
         <id>https://decrypt.co/?p=334702</id>
         <link href="https://decrypt.co/334702/ftx-investors-sue-law-firm-alleging-role-in-exchanges-fraud"/>
@@ -172,24 +386,6 @@ I would]]></title>
         <summary type="html"><![CDATA[Plaintiffs allege that Fenwick & West designed shell companies and structures that enabled the theft of billions in FTX customer funds.]]></summary>
         <author>
             <name>Vismaya V</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FTX Investors Sue Law Firm, Alleging Role in Exchange's Fraud]]></title>
-        <id>https://cryptopanic.com/news/24133917/FTX-Investors-Sue-Law-Firm-Alleging-Role-in-Exchanges-Fraud</id>
-        <link href="https://cryptopanic.com/news/24133917/FTX-Investors-Sue-Law-Firm-Alleging-Role-in-Exchanges-Fraud"/>
-        <updated>2025-08-12T10:50:22.000Z</updated>
-        <author>
-            <name>News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is It Over for Solana? Alameda Unstakes $35M in SOL]]></title>
-        <id>https://cryptopanic.com/news/24133890/Is-It-Over-for-Solana-Alameda-Unstakes-35M-in-SOL</id>
-        <link href="https://cryptopanic.com/news/24133890/Is-It-Over-for-Solana-Alameda-Unstakes-35M-in-SOL"/>
-        <updated>2025-08-12T10:48:01.000Z</updated>
-        <author>
-            <name>News</name>
         </author>
     </entry>
     <entry>
@@ -211,42 +407,6 @@ Truth Social Bitcoin ETF to Challenge BlackRock’s $57.9B IBIT
 If all goes as planned, the Truth …]]></summary>
         <author>
             <name>Leah Waters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FTX Customers Claim Law Firm Helped Hide Billions in Fraud Scheme]]></title>
-        <id>https://cryptopanic.com/news/24133850/FTX-Customers-Claim-Law-Firm-Helped-Hide-Billions-in-Fraud-Scheme</id>
-        <link href="https://cryptopanic.com/news/24133850/FTX-Customers-Claim-Law-Firm-Helped-Hide-Billions-in-Fraud-Scheme"/>
-        <updated>2025-08-12T10:40:18.000Z</updated>
-        <author>
-            <name>News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Elizabeth Warren Threatens Crypto Shakeup as US Senate Eyes CLARITY Act]]></title>
-        <id>https://cryptopanic.com/news/24133849/Elizabeth-Warren-Threatens-Crypto-Shakeup-as-US-Senate-Eyes-CLARITY-Act</id>
-        <link href="https://cryptopanic.com/news/24133849/Elizabeth-Warren-Threatens-Crypto-Shakeup-as-US-Senate-Eyes-CLARITY-Act"/>
-        <updated>2025-08-12T10:40:15.000Z</updated>
-        <author>
-            <name>News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Elon Musk Threatens Legal Action Over Alleged AI Favoritism in App Store]]></title>
-        <id>https://cryptopanic.com/news/24133848/Elon-Musk-Threatens-Legal-Action-Over-Alleged-AI-Favoritism-in-App-Store</id>
-        <link href="https://cryptopanic.com/news/24133848/Elon-Musk-Threatens-Legal-Action-Over-Alleged-AI-Favoritism-in-App-Store"/>
-        <updated>2025-08-12T10:40:13.000Z</updated>
-        <author>
-            <name>News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Israeli Firm Zenity Uncovers Zero-Click Hack That Could Hijack ChatGPT]]></title>
-        <id>https://cryptopanic.com/news/24133847/Israeli-Firm-Zenity-Uncovers-Zero-Click-Hack-That-Could-Hijack-ChatGPT</id>
-        <link href="https://cryptopanic.com/news/24133847/Israeli-Firm-Zenity-Uncovers-Zero-Click-Hack-That-Could-Hijack-ChatGPT"/>
-        <updated>2025-08-12T10:40:11.000Z</updated>
-        <author>
-            <name>News</name>
         </author>
     </entry>
     <entry>
@@ -388,158 +548,6 @@ The past three months saw Dogecoin stuck in a tight range, up just 7.6% overall,
         <summary type="html"><![CDATA[The percentage of ETH held by ETFs and corporate reserves has risen from just 3% at the beginning of April.]]></summary>
         <author>
             <name>Simon Chandler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stripe Building Payments Blockchain 'Tempo' With Paradigm: Fortune]]></title>
-        <id>http://www.inoreader.com/article/3a9c6e7707a7008c</id>
-        <link href="https://www.coindesk.com/business/2025/08/12/stripe-building-payments-blockchain-tempo-with-paradigm-fortune"/>
-        <updated>2025-08-12T09:26:14.000Z</updated>
-        <summary type="html"><![CDATA[Stripe is building a new blockchain dubbed Tempo with crypto venture firm Paradigm, according to a now-removed job posting dated Aug. 3 on the Blockchain Association website.
-The role sought a product marketer with Fortune 500 experience, signaling an enterprise push, according to Fortune.
-The move coincides with the development of other stablecoin-focused blockchains. These include Plasma, which drew over $373 million in an oversubscribed token sale, and Tether-focused blockchain Stable.
-Interest in the $270 billion stablecoin sector has been growing exponentially. Trump’s recent signing of the GENIUS Act into law has helped boost the sector, as it established a regulatory framework for the sector in the U.S.
-Tempo is described as a “high-performance, payments-focused” layer 1 that will run code compatible with Ethereum. The project is in stealth with a team of five, Fortune reports citing sources familiar with the effort. It’s unclear whether it’ll have its own native token.
-The blockchain’s development marks another step in Stripe’s crypto strategy, which saw it acquire stablecoin platform Bridge for $1.1 billion last October. The firm has also acquired crypto wallet startup Privy to expand its Web3 capabilities, and has explored bank partnerships on stablecoins.]]></summary>
-        <author>
-            <name>Francisco Rodrigues</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[U.S. Spot Ether ETFs Hit $1B Daily Inflow for First Time]]></title>
-        <id>http://www.inoreader.com/article/3a9c6e7707a70089</id>
-        <link href="https://www.coindesk.com/markets/2025/08/12/u-s-spot-ether-etfs-hit-usd1b-daily-inflow-for-first-time"/>
-        <updated>2025-08-12T09:26:14.000Z</updated>
-        <summary type="html"><![CDATA[U.S.-listed ether (ETH) exchange-traded funds (ETFs) surpassed $1 billion in daily inflows for the first time on Monday as the second-largest cryptocurrency hit its highest price for over three and a half years. 
-The nine ETFs comfortably surpassed the previous daily high of $726.74 million from July 17, according to data tracked by SoSoValue. 
-BlackRock's (BLK) ETHA led the way, registering inflows of just under $640 million, while Fidelity's FETH was a rather distant second with $276.9 million. Cumulative inflows into the funds now sit at $10.83 billion with total assets valued at $25.71 billion, equivalent to 4.77% of ether's market cap.
-ETH rose as high as $4,358 on Monday, its highest level since December 2021, according to CoinDesk data. 
-Ether's gains followed data that cemented expectations the Federal Reserve would lower interest rates, making riskier assets more attractive. The probability of a 25 basis point cut in September is some 84%, according the CME's FedWatch tool.
-In addition, the U.S. Securities and Exchange Commission (SEC) finally dropped its lawsuit against XRP developer Ripple, providing a further boost to the broader altcoin market. 
-Read More: ETH Transaction Volume Climbs on Price Rally, Cheaper DeFi Costs]]></summary>
-        <author>
-            <name>Jamie Crawley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bullish Cryptocurrency Exchange Expands IPO Plans To $5 Billion]]></title>
-        <id>http://www.inoreader.com/article/3a9c6e7707a03ef9</id>
-        <link href="https://bitcoinist.com/bullish-cryptocurrency-exchange-expands-ipo-plans/"/>
-        <updated>2025-08-12T09:18:05.000Z</updated>
-        <summary type="html"><![CDATA[Peter Thiel-backed cryptocurrency exchange Bullish has announced a significant increase in the size of its initial public offering (IPO), aiming to raise approximately $990 million. 
- 
-According to a recent filing with the US Securities and Exchange Commission (SEC), the company plans to offer 30 million shares priced between $32 and $33 each, targeting a market valuation of around $4.8 billion. 
- 
-This marks a notable shift from its earlier proposal, which included the sale of 20.3 million shares at a lower price range of $28 to $31, with a valuation goal of $4.2 billion.
- 
-Bullish Crypto Exchange Sets IPO Plans
- 
-Led by former New York Stock Exchange (NYSE) president Tom Farley, Bullish has granted its underwriters—comprising JPMorgan, Jefferies, and Citigroup—a 30-day option to sell an …]]></summary>
-        <author>
-            <name>Ronaldo Marquez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Watch Out for Potential Bitcoin Double Top as Bulls Fail to Break $122K Again]]></title>
-        <id>http://www.inoreader.com/article/3a9c6e7707a2abf8</id>
-        <link href="https://www.coindesk.com/markets/2025/08/12/watch-out-for-potential-bitcoin-double-top-as-bulls-fail-to-break-usd122k-again"/>
-        <updated>2025-08-12T09:01:23.000Z</updated>
-        <summary type="html"><![CDATA[This is a daily analysis by CoinDesk analyst and Chartered Market Technician Omkar Godbole.
-The bitcoin (BTC) rally has stalled, raising the possibility of a potentially bearish technical formation: a double top.
-A close examination of the daily chart reveals that bulls failed to sustain a rally above the key Fibonacci level of $122,056 on Monday, a performance that precisely mirrors a similar rejection on July 14, according to data source TradingView.
-This dual failure to establish a foothold above the key price point, separated by a brief pullback, is a hallmark of the double top pattern. The neckline of this pattern, drawn from the low of $111,982 reached during the brief pullback, is the key level to watch on the downside.
-A decisive move below that level would confirm the double top b…]]></summary>
-        <author>
-            <name>Omkar Godbole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Братья Уинклвоссы инвестируют BTC в майнинговый проект, связанный с Трампом]]></title>
-        <id>http://www.inoreader.com/article/3a9c6e7707ac71ac</id>
-        <link href="https://bitcoinist.com/bratya-uinklvossy-investiruyut-btc-v-majning/"/>
-        <updated>2025-08-12T08:48:43.000Z</updated>
-        <summary type="html"><![CDATA[Согласно отчету Bloomberg, близнецы-биткоин-миллиардеры Кэмерон и Тайлер Уинклвоссы вложили деньги в новое майнинговое предприятие, имеющее прямые связи с семьей Трампа.
- 
-Компания American Bitcoin Corp., связанная с Эриком Трампом и Дональдом Трампом-младшим, была создана ранее в этом году.
- 
-Сумма, которую вложили близнецы, не разглашается. Однако генеральный директор Hut 8 Corp. Ашер Генут подтвердил, что их вклад был частью частного размещения на сумму $220 млн, которое было завершено недавно. Повышение, которое включало в себя как наличные, так и биткоины, было описано как превышение суммы подписки во время последнего объявления о доходах Hut 8.
- 
-Политические и криптовалютные связи становятся все теснее
- 
-Это не первый раз, когда пути близнецов Уинклвосс и семьи Трампа пересекаются. …]]></summary>
-        <author>
-            <name>lisachaikina</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stablecoins Dominate Digital Asset Transactions in Sub-Saharan Africa, Surpassing Bitcoin]]></title>
-        <id>http://www.inoreader.com/article/3a9c6e7707ae3f20</id>
-        <link href="https://news.bitcoin.com/stablecoins-dominate-digital-asset-transactions-in-sub-saharan-africa-surpassing-bitcoin/"/>
-        <updated>2025-08-12T08:34:50.000Z</updated>
-        <summary type="html"><![CDATA[A study revealed that stablecoins represented 43% of cryptocurrency transactions in Sub-Saharan Africa in 2024, significantly outpacing bitcoin’s 18.1% share. Transaction Growth and Nigerian Dominance According to a study, stablecoins accounted for 43% of cryptocurrency transactions in Sub-Saharan Africa (SSA) in 2024, more than double that of bitcoin (18.1%). Nigeria and South Africa lead the […]]]></summary>
-        <author>
-            <name>Terence Zimwara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Strategy Continues Bitcoin Buying Spree—Scoops Up Another 155 BTC]]></title>
-        <id>http://www.inoreader.com/article/3a9c6e7707a864cc</id>
-        <link href="https://bitcoinist.com/strategy-bitcoin-buying-spree-scoops-up-155-btc/"/>
-        <updated>2025-08-12T08:19:05.000Z</updated>
-        <summary type="html"><![CDATA[Michael Saylor’s Strategy has announced a fresh expansion of its Bitcoin treasury, with another 155 BTC being added to its holdings.
- 
-Strategy Has Completed Another Bitcoin Acquisition
- 
-In a new post on X, Strategy co-founder and chairman Michael Saylor has revealed the latest purchase completed by the company. The buy, involving a sum of 155 BTC, has come after a break from accumulation last week.
- 
- 
-Like is usually the case, Saylor hinted at the acquisition a day in advance, writing on X on Sunday: “if you don’t stop buying Bitcoin, you won’t stop making Money.”
- 
-According to the filing with the US Securities and Exchange Commission (SEC), Strategy bought the coins in the week between August 4th and 10th at an average price of $116,401. This means that the 155 tokens cost the firm ar…]]></summary>
-        <author>
-            <name>Keshav Verma</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Smarter Web Company Acquires 295 Bitcoin, Boosting Total Holdings to 2,395 BTC]]></title>
-        <id>http://www.inoreader.com/article/3a9c6e7707aa34dc</id>
-        <link href="https://news.bitcoin.com/the-smarter-web-company-acquires-295-bitcoin-boosting-total-holdings-to-2395-btc/"/>
-        <updated>2025-08-12T08:05:12.000Z</updated>
-        <summary type="html"><![CDATA[The Smarter Web Company (AQUIS: SWC | OTCQB: TSWCF | FRA: 3M8), a London-listed firm, has announced the acquisition of an additional 295 BTC as part of its “10 Year Plan,” which includes a treasury policy focused on bitcoin accumulation. The purchase was made at an average price of £89,000 per bitcoin (approximately $119,412), totaling […]]]></summary>
-        <author>
-            <name>Bitcoin.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin $115K Bets In Demand as Downside Fear Grips Market Ahead of U.S. CPI Report]]></title>
-        <id>http://www.inoreader.com/article/3a9c6e7707966151</id>
-        <link href="https://www.coindesk.com/markets/2025/08/12/bitcoin-usd115k-bets-in-demand-as-downside-fears-grip-market-ahead-of-u-s-cpi-report"/>
-        <updated>2025-08-12T07:32:44.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin (BTC) traders are seeking downside protection ahead of the U.S. inflation data, which is expected to show President Donald Trump's trade tariffs are starting to affect consumer prices.
-The report, due at 12:30 UTC, is expected to show that the headline consumer price index (CPI) increased 2.8% year-on-year in July, up from a 2.7% rise in June, according to Bloomberg data.
-On a monthly basis, prices are forecast to increase 0.2%, a slight decline from July's 0.3%. The core CPI, which excludes the volatile food and energy component, is likely to have risen 0.3% in July following a 0.2% rise in June.
-According to analysts, a hotter-than-expected CPI could dampen Fed rate cuts, potentially weighing on risk assets, including BTC.
-'The market's immediate focus is on Tuesday's U.S. CPI print, with the market expecting a modest uptick to 2.8% YoY. A softer reading would likely cement a September rate cut by the Federal Reserve, a positive for risk assets. Conversely, a hotter print could stall the rally, triggering tactical profit-taking across risk assets," Timothy Misir, head of research at BRN, told CoinDesk in an email.
-Some traders are already positioning for a hotter print and potential losses in BTC. According to Singapore-based QCP Capital, the precautionary flow is evident from the increase in demand for short-dated put options. A put option protects the buyer from price losses in the underlying asset.
-"In anticipation, some traders are hedging event risk, with front-end $115,000–$118,000 BTC puts seeing increased demand to protect against a downside surprise," QCP Capital's market insights team said Monday. "This defensive positioning sits alongside short-call covering from topside buyers."
-The covering of the short call positions indicates that traders also remain wary of topside risk. BTC changed hands at $118,525 at press time.
-Read more: Bitcoin Traders Eye $135K, Ether $4.8K in Crosshairs as CPI Data Looms]]></summary>
-        <author>
-            <name>Omkar Godbole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Traders Eye $135K, Ether $4.8K in Crosshairs as CPI Data Looms]]></title>
-        <id>http://www.inoreader.com/article/3a9c6e7707966148</id>
-        <link href="https://www.coindesk.com/markets/2025/08/12/bitcoin-traders-eye-usd135k-ether-usd4-800-in-crosshairs-as-cpi-looms"/>
-        <updated>2025-08-12T07:32:44.000Z</updated>
-        <summary type="html"><![CDATA[Crypto markets extended gains into Tuesday’s U.S. inflation print, with bitcoin (BTC) holding above $118,000 after a 2.2% daily rise and ether (ETH) steady at $4,300, capping a 17.2% weekly surge that has it closing in on its $4,800 record.
-Gains were broad across majors as XRP (XRP) climbed 3.2% to above $3.16, Solana’s SOL (SOL) rose 5.2% to $176, dogecoin (DOGE) rose 5.7% to 22 cents, and Binance’s BNB (BNB) added 1.2% to $800.
-Lido’s staked ether mirrored ETH’s move with an 18% weekly gain. The global cryptocurrency market cap rose to $4 trillion, according to CoinGecko.
-This week’s rally has flipped the usual dynamic, with altcoin strength dragging BTC higher instead of the other way around.
-“This is one of the few times when a rally in major altcoins has inspired BTC to break through…]]></summary>
-        <author>
-            <name>Shaurya Malwa</name>
         </author>
     </entry>
     <entry>
@@ -890,16 +898,6 @@ This week’s rally has flipped the usual dynamic, with altcoin strength draggin
         <summary type="html"><![CDATA[The world's best players watched these supposedly brilliant AIs play like confused beginners.]]></summary>
         <author>
             <name>Jose Antonio Lanz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['World’s First' In-Club Art Gallery Launches With Works by Beeple, Mad Dog Jones]]></title>
-        <id>https://decrypt.co/?p=334314</id>
-        <link href="https://decrypt.co/334314/hi-ibiza-in-club-art-gallery-beeple-mad-dog-jones"/>
-        <updated>2025-08-09T17:01:00.000Z</updated>
-        <summary type="html"><![CDATA[Hï Ibiza, The Night League, and W1 Curates have launched a permanent art gallery inside a nightclub, featuring digital and physical works.]]></summary>
-        <author>
-            <name>Jason Nelson</name>
         </author>
     </entry>
     <entry>

@@ -1,36 +1,351 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-09-10T17:16:48.024Z</id>
+    <id>urn:2025-09-10T18:29:08.094Z</id>
     <title>web3::cave</title>
-    <updated>2025-09-10T17:16:48.024Z</updated>
+    <updated>2025-09-10T18:29:08.094Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[SEC Chair Atkins says onchain capital raising should come ‘without endless legal uncertainty’]]></title>
-        <id>https://cryptopanic.com/news/25137769/SEC-Chair-Atkins-says-onchain-capital-raising-should-come-without-endless-legal-uncertainty</id>
-        <link href="https://cryptopanic.com/news/25137769/SEC-Chair-Atkins-says-onchain-capital-raising-should-come-without-endless-legal-uncertainty"/>
-        <updated>2025-09-10T17:12:42.000Z</updated>
+        <title type="html"><![CDATA[The Protocol: SwissBorg’s SOL Earn Wallet Exploited for $41.5M]]></title>
+        <id>http://www.inoreader.com/article/3a9c6e776b4fa409</id>
+        <link href="https://www.coindesk.com/tech/2025/09/10/the-protocol-swissborg-s-sol-earn-wallet-exploited-for-usd41-5m"/>
+        <updated>2025-09-10T18:24:10.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to The Protocol, CoinDesk's weekly wrap of the most important stories in cryptocurrency tech development. I’m Margaux Nijkerk, a reporter at CoinDesk.
+In this issue:
+
+SwissBorg’s SOL Earn Wallet Exploited for $41.5M After Partner's API Is Compromised
+Ledger CTO Warns of NPM Supply-Chain Attack Hitting 1B+ Downloads
+Backpack Opens Regulated Perpetuals Exchange in Europe After FTX EU Acquisition
+Polygon PoS Sees Transaction Finality Lag, Patch in Progress
+
+Unknown block type "divider", specify a component for it in the `components.types` option
+Network News
+SWISSBORG’S SOL EARN WALLET EXPLOITED: Crypto exchange SwissBorg said about 192,600 SOL ($41.5 million) was stolen from an external wallet used exclusively for its SOL Earn strategy. The exploit stemmed from a partner's compromise…]]></summary>
+        <author>
+            <name>Margaux Nijkerk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ethereum Rare Mass Slashing Event Linked To Operator Issues]]></title>
+        <id>http://www.inoreader.com/article/3a9c6e776b4fa400</id>
+        <link href="https://www.coindesk.com/tech/2025/09/10/ethereum-rare-mass-slashing-event-linked-to-operator-issues"/>
+        <updated>2025-09-10T18:24:10.000Z</updated>
+        <summary type="html"><![CDATA[Ethereum experienced a rare slashing event on Wednesday, with 39 validators penalized, according to blockchain explorer Beaconcha.in.
+
+The validators were tied to the SSV Network, a distributed validator technology (DVT) protocol that decentralizes staking infrastructure by splitting validator keys across multiple operators.
+
+Despite the scale of the incident, SSV founder Alon Muroch emphasized that the protocol itself was not compromised. Instead, the penalties stemmed from operator-side infrastructure issues involving third-party staking providers using SSV.
+
+One cluster of slashed validators was tied to Ankr, a liquid staking provider. According to Muroch, routine maintenance on Ankr’s systems triggered the event. A second slashing involved a validator cluster that had migrated from All…]]></summary>
+        <author>
+            <name>Margaux Nijkerk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ETH Treasury Firm Sharplink Begins Repurchases as Shares Trade Under NAV]]></title>
+        <id>http://www.inoreader.com/article/3a9c6e776b4fc534</id>
+        <link href="https://news.bitcoin.com/eth-treasury-firm-sharplink-begins-repurchases-as-shares-trade-under-nav/"/>
+        <updated>2025-09-10T18:23:13.000Z</updated>
+        <summary type="html"><![CDATA[Sharplink Gaming disclosed it has begun using its share buyback program, calling below-net-asset-value repurchases “immediately accretive” as the company leans on a large ether treasury and zero debt to support capital returns. Sharplink Initiates Share Repurchases, Says Zero-Debt Profile Supports Returns Sharplink Gaming, Inc. (Nasdaq: SBET) announced Sept. 9 that it started executing share repurchases […]]]></summary>
+        <author>
+            <name>Jamie Redman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Altcoin Season Alert – Bitcoin Whales Begin Massive Sell-Off]]></title>
+        <id>https://cryptopanic.com/news/25139384/Altcoin-Season-Alert-Bitcoin-Whales-Begin-Massive-Sell-Off</id>
+        <link href="https://cryptopanic.com/news/25139384/Altcoin-Season-Alert-Bitcoin-Whales-Begin-Massive-Sell-Off"/>
+        <updated>2025-09-10T18:21:38.000Z</updated>
+        <summary type="html"><![CDATA[On-chain analysis and technical indicators are pointing to growing pressure on Bitcoin dominance, while large holders appear to be exiting […] The post Altcoin Season Alert – Bitcoin Whales Begin Massive Sell-Off appeared first on Coindoo.]]></summary>
         <author>
             <name>News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Massive Software Supply-Chain Hack Targeting Crypto Ends with Pennies Stolen]]></title>
-        <id>https://cryptopanic.com/news/25137858/Massive-Software-Supply-Chain-Hack-Targeting-Crypto-Ends-with-Pennies-Stolen</id>
-        <link href="https://cryptopanic.com/news/25137858/Massive-Software-Supply-Chain-Hack-Targeting-Crypto-Ends-with-Pennies-Stolen"/>
-        <updated>2025-09-10T17:11:13.000Z</updated>
-        <summary type="html"><![CDATA[One web developer’s compromised npm account triggered a large-scale supply chain attack, but the hacker only got a few cents in crypto, analysts say.]]></summary>
+        <title type="html"><![CDATA[Binance Teams With $1.6 Trillion Asset Manager Franklin Templeton for Crypto Product Push]]></title>
+        <id>https://decrypt.co/?p=338817</id>
+        <link href="https://decrypt.co/338817/binance-teams-franklin-templeton-crypto-product-push"/>
+        <updated>2025-09-10T18:20:59.000Z</updated>
+        <summary type="html"><![CDATA[Crypto exchange Binance and asset manager Franklin Templeton are working together to launch as-yet-unrevealed digital asset products.]]></summary>
+        <author>
+            <name>Mathew Di Salvo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Binance Teams With $1.6 Trillion Asset Manager Franklin Templeton for Crypto Product Push]]></title>
+        <id>https://cryptopanic.com/news/25139383/Binance-Teams-With-16-Trillion-Asset-Manager-Franklin-Templeton-for-Crypto-Product-Push</id>
+        <link href="https://cryptopanic.com/news/25139383/Binance-Teams-With-16-Trillion-Asset-Manager-Franklin-Templeton-for-Crypto-Product-Push"/>
+        <updated>2025-09-10T18:20:59.000Z</updated>
+        <summary type="html"><![CDATA[Crypto exchange Binance and asset manager Franklin Templeton are working together to launch as-yet-unrevealed digital asset products.]]></summary>
         <author>
             <name>News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SEC’s Atkins Calls for Openness in Global Markets – Lessons for Crypto]]></title>
-        <id>https://cryptopanic.com/news/25137555/SECs-Atkins-Calls-for-Openness-in-Global-Markets-Lessons-for-Crypto</id>
-        <link href="https://cryptopanic.com/news/25137555/SECs-Atkins-Calls-for-Openness-in-Global-Markets-Lessons-for-Crypto"/>
-        <updated>2025-09-10T17:07:20.000Z</updated>
+        <title type="html"><![CDATA[September Rate Cut Now Imminent After Shock Inflation Data as Bitcoin Eyes 150K]]></title>
+        <id>https://cryptopanic.com/news/25139350/September-Rate-Cut-Now-Imminent-After-Shock-Inflation-Data-as-Bitcoin-Eyes-150K</id>
+        <link href="https://cryptopanic.com/news/25139350/September-Rate-Cut-Now-Imminent-After-Shock-Inflation-Data-as-Bitcoin-Eyes-150K"/>
+        <updated>2025-09-10T18:19:59.000Z</updated>
+        <summary type="html"><![CDATA[An unexpected decline in the U. S. Producer Price Index for August has solidified expectations for a September rate cut by the Federal Reserve, as Bitcoin's value climbs on the inflation data.]]></summary>
         <author>
             <name>News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shiba Inu Looks to Scale 200-day SMA as DOGE Whales Boost Coin Stash to 10B]]></title>
+        <id>http://www.inoreader.com/article/3a9c6e776b496d3b</id>
+        <link href="https://www.coindesk.com/markets/2025/09/10/shiba-inu-looks-to-scale-200-day-sma-as-doge-whales-boost-coin-stash-to-10b"/>
+        <updated>2025-09-10T18:11:00.000Z</updated>
+        <summary type="html"><![CDATA[Shiba Inu (SHIB) is looking to establish a foothold above the 200-day simple moving average (SMA) as whales boost their dogecoin (DOGE) stash to a nearly four-year high.
+SHIB has exhibited considerable fortitude throughout the 24-hour trading, ascending from $0.00001287 to $0.00001312, constituting a respectable 2% appreciation.
+At press time, the token traded close to the 200-day SMA of $0.00001300. A breakout would confirm a shift from a bearish to a bullish trend, as the 200-day SMA is widely tracked as barometer of long-term trajectory. Note that bulls have already failed twice in the past four weeks to secure the breakout.
+
+That said, the latest attempt may succeed as it is marked by a pick-up in trading volumes. According to CoinDesk's market insights AI model, as SHIB neared the 200…]]></summary>
+        <author>
+            <name>Omkar Godbole</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Senators Still Hopeful for Crypto Market Structure Law by End of Year]]></title>
+        <id>http://www.inoreader.com/article/3a9c6e776b496d36</id>
+        <link href="https://www.coindesk.com/policy/2025/09/10/senators-still-hopeful-for-crypto-market-structure-law-by-end-of-year"/>
+        <updated>2025-09-10T18:11:00.000Z</updated>
+        <summary type="html"><![CDATA[The U.S. Senate's market structure bill should pass by the end of the year, leading lawmakers working on the effort said Wednesday, though efforts on this bill will likely push beyond the Sept. 30 deadline previously set by the Senate Banking Committee's head.
+
+"I don't want to put an artificial deadline on anything," said Senator Kirsten Gillibrand (D-N.Y.), speaking at CoinDesk's Policy and Regulation event in Washington, D.C. "We're in the middle of negotiations about whether we're going to have a bipartisan budget, so the most important issue that Congress has to deal with right now is the fiscal cliff."
+
+The question of timing has loomed large in the market structure work, with President Donald Trump having initially set an August deadline to have all the congressional crypto work on …]]></summary>
+        <author>
+            <name>Nikhilesh De</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I’ve used Replit to vibe code multiple products. 
+I have ZERO code knowledge. 
+
+Build a full app end to end with just words. 
+
+Go from Prompt to working app in minutes. 
+
+‼️Not an ad. 
+I’m genuinely blown away by Replit and hope this will help you build something from scratch.]]></title>
+        <id>https://cryptopanic.com/news/25138704/Ive-used-Replit-to-vibe-code-multiple-products-I-have-ZERO-code-knowledge-Build-a-full-app-end-to-end-with-just-words-Go-from-Prompt-to-working-app-in-minutes-Not-an-ad-Im-genuinely-blown-away-by-Replit-and-hope-this-will-help-you-build-something-from-scra</id>
+        <link href="https://cryptopanic.com/news/25138704/Ive-used-Replit-to-vibe-code-multiple-products-I-have-ZERO-code-knowledge-Build-a-full-app-end-to-end-with-just-words-Go-from-Prompt-to-working-app-in-minutes-Not-an-ad-Im-genuinely-blown-away-by-Replit-and-hope-this-will-help-you-build-something-from-scra"/>
+        <updated>2025-09-10T18:05:14.000Z</updated>
+        <author>
+            <name>News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chainalysis Extends XRP Ledger Support In Latest Move – What’s New?]]></title>
+        <id>http://www.inoreader.com/article/3a9c6e776b4a4442</id>
+        <link href="https://bitcoinist.com/chainalysis-xrp-ledger-support/"/>
+        <updated>2025-09-10T18:05:11.000Z</updated>
+        <summary type="html"><![CDATA[Chainalysis is extending its support for the XRP Ledger and the new coverage goes beyond the native token. Customers now get more ways to follow token activity and check transactions. With Chainalysis adding this extended support, users now have stronger ways to interact with one of the most active blockchains in the market.
+ 
+Chainalysis Expands Coverage For XRP Ledger
+ 
+In its announcement, Chainalysis explained that automatic token support now includes fungible tokens such as IOUs, non-fungible tokens under the XLS-20 standard, and multi-purpose tokens, also known as MPTs. MPTs operate like Ethereum’s well-known ERC-1155 tokens. The update means many different kinds of assets on the XRP Ledger are now covered.
+ 
+ 
+The company also shared that more than 260,000 tokens are already support…]]></summary>
+        <author>
+            <name>Sandra White</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Robinhood CEO Reveals ‘The Greatest Remaining’ Opportunity in Capital Markets]]></title>
+        <id>https://cryptopanic.com/news/25138867/Robinhood-CEO-Reveals-The-Greatest-Remaining-Opportunity-in-Capital-Markets</id>
+        <link href="https://cryptopanic.com/news/25138867/Robinhood-CEO-Reveals-The-Greatest-Remaining-Opportunity-in-Capital-Markets"/>
+        <updated>2025-09-10T18:05:09.000Z</updated>
+        <author>
+            <name>News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[One wallet drew in $375M from top crypto companies: Is this the biggest direct on-chain investment?]]></title>
+        <id>https://cryptopanic.com/news/25139220/One-wallet-drew-in-375M-from-top-crypto-companies-Is-this-the-biggest-direct-on-chain-investment</id>
+        <link href="https://cryptopanic.com/news/25139220/One-wallet-drew-in-375M-from-top-crypto-companies-Is-this-the-biggest-direct-on-chain-investment"/>
+        <updated>2025-09-10T18:02:21.000Z</updated>
+        <author>
+            <name>News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solana ETFs Could Arrive in Q4 – Here’s What It Means]]></title>
+        <id>https://cryptopanic.com/news/25138491/Solana-ETFs-Could-Arrive-in-Q4-Heres-What-It-Means</id>
+        <link href="https://cryptopanic.com/news/25138491/Solana-ETFs-Could-Arrive-in-Q4-Heres-What-It-Means"/>
+        <updated>2025-09-10T18:01:44.000Z</updated>
+        <summary type="html"><![CDATA[Among the tokens awaiting a decision is Solana (SOL), which analysts believe could see significant momentum if regulators give the […] The post Solana ETFs Could Arrive in Q4 – Here’s What It Means appeared first on Coindoo.]]></summary>
+        <author>
+            <name>News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Bull Run Imminent: Trump Family's Crypto Moves!]]></title>
+        <id>https://cryptopanic.com/news/25138859/Bitcoin-Bull-Run-Imminent-Trump-Familys-Crypto-Moves</id>
+        <link href="https://cryptopanic.com/news/25138859/Bitcoin-Bull-Run-Imminent-Trump-Familys-Crypto-Moves"/>
+        <updated>2025-09-10T18:01:00.000Z</updated>
+        <summary type="html"><![CDATA[Rustin talks about Bitcoin Bull Run Imminent: Trump Family's Crypto Moves! Brought to you by Bitcoinwell. com a bitcoin-only platform on a mission to enable independence. #bitcoin #bitcoinnews #shortsopen]]></summary>
+        <author>
+            <name>News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Binance and Franklin Templeton Team Up to Co-Create Tokenised Products]]></title>
+        <id>https://cryptopanic.com/news/25138283/Binance-and-Franklin-Templeton-Team-Up-to-Co-Create-Tokenised-Products</id>
+        <link href="https://cryptopanic.com/news/25138283/Binance-and-Franklin-Templeton-Team-Up-to-Co-Create-Tokenised-Products"/>
+        <updated>2025-09-10T17:58:11.000Z</updated>
+        <author>
+            <name>News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Native Markets leads USDH race as validators signal early support]]></title>
+        <id>https://cryptopanic.com/news/25138268/Native-Markets-leads-USDH-race-as-validators-signal-early-support</id>
+        <link href="https://cryptopanic.com/news/25138268/Native-Markets-leads-USDH-race-as-validators-signal-early-support"/>
+        <updated>2025-09-10T17:51:53.000Z</updated>
+        <author>
+            <name>News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[U.S. Senate Democrats Introduce Crypto Market Structure Act Framework]]></title>
+        <id>https://cryptopanic.com/news/25138220/US-Senate-Democrats-Introduce-Crypto-Market-Structure-Act-Framework</id>
+        <link href="https://cryptopanic.com/news/25138220/US-Senate-Democrats-Introduce-Crypto-Market-Structure-Act-Framework"/>
+        <updated>2025-09-10T17:47:52.000Z</updated>
+        <summary type="html"><![CDATA[U. S. Senate Democrats unveil a seven-pillar Crypto Market Structure Act, sparking bipartisan optimism for crypto reform.]]></summary>
+        <author>
+            <name>News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Federal Reserve balance sheet losses $39 billion in August, highest in 5 years]]></title>
+        <id>https://cryptopanic.com/news/25138276/Federal-Reserve-balance-sheet-losses-39-billion-in-August-highest-in-5-years</id>
+        <link href="https://cryptopanic.com/news/25138276/Federal-Reserve-balance-sheet-losses-39-billion-in-August-highest-in-5-years"/>
+        <updated>2025-09-10T17:47:23.000Z</updated>
+        <author>
+            <name>News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Optimism Scores Another Big Deal as Ronin Joins Its L2 Stack]]></title>
+        <id>https://cryptopanic.com/news/25138197/Optimism-Scores-Another-Big-Deal-as-Ronin-Joins-Its-L2-Stack</id>
+        <link href="https://cryptopanic.com/news/25138197/Optimism-Scores-Another-Big-Deal-as-Ronin-Joins-Its-L2-Stack"/>
+        <updated>2025-09-10T17:40:27.000Z</updated>
+        <summary type="html"><![CDATA[Ronin is tapping Optimism’s tools to build its own chain, joining crypto heavyweights who also relied on the OP Stack to launch their L2 networks.]]></summary>
+        <author>
+            <name>News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Russia’s budget revenues from oil and gas fall 20% this year]]></title>
+        <id>https://cryptopanic.com/news/25138214/Russias-budget-revenues-from-oil-and-gas-fall-20-this-year</id>
+        <link href="https://cryptopanic.com/news/25138214/Russias-budget-revenues-from-oil-and-gas-fall-20-this-year"/>
+        <updated>2025-09-10T17:37:04.000Z</updated>
+        <summary type="html"><![CDATA[Russia’s budget revenues from oil and natural gas sales have dropped by more than 20% in 2025, according to data released by the finance ministry in Moscow. The department blamed the significant decrease on lower oil prices. The official stats come amid increased U. S. pressure on buyers of...]]></summary>
+        <author>
+            <name>News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solana Hits 7-Month High Price as Bitwise Exec Foresees 'Epic End-of-Year Run']]></title>
+        <id>https://decrypt.co/?p=338840</id>
+        <link href="https://decrypt.co/338840/solana-7-month-high-price-bitwise-foresees-epic-run"/>
+        <updated>2025-09-10T17:37:03.000Z</updated>
+        <summary type="html"><![CDATA[Solana is up 25% in the last month, and may be poised for a strong end to the year as firms accumulate and ETF decisions loom.]]></summary>
+        <author>
+            <name>Logan Hitchcock</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solana Hits 7-Month High Price as Bitwise Exec Foresees 'Epic End-of-Year Run']]></title>
+        <id>https://cryptopanic.com/news/25138190/Solana-Hits-7-Month-High-Price-as-Bitwise-Exec-Foresees-Epic-End-of-Year-Run</id>
+        <link href="https://cryptopanic.com/news/25138190/Solana-Hits-7-Month-High-Price-as-Bitwise-Exec-Foresees-Epic-End-of-Year-Run"/>
+        <updated>2025-09-10T17:37:03.000Z</updated>
+        <summary type="html"><![CDATA[Solana is up 25% in the last month, and may be poised for a strong end to the year as firms accumulate and ETF decisions loom.]]></summary>
+        <author>
+            <name>News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sec Chair Paul Atkins Green Lights Creator Capital Markets? Onchain Capital Raising Without Endless Scrutiny]]></title>
+        <id>https://cryptopanic.com/news/25138178/Sec-Chair-Paul-Atkins-Green-Lights-Creator-Capital-Markets-Onchain-Capital-Raising-Without-Endless-Scrutiny</id>
+        <link href="https://cryptopanic.com/news/25138178/Sec-Chair-Paul-Atkins-Green-Lights-Creator-Capital-Markets-Onchain-Capital-Raising-Without-Endless-Scrutiny"/>
+        <updated>2025-09-10T17:34:41.000Z</updated>
+        <summary type="html"><![CDATA["Sec Chair Paul Atkins has given the green light to the concept of Creator Capital Markets, which paves the way for on-chain capital raising initiatives, allowing creators to secure funding without facing the burdens of endless scrutiny and regulatory hurdles typically associated with...]]></summary>
+        <author>
+            <name>News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Will Bitcoin Hit $180K? OpenAI’s ChatGPT, Elon Musk’s Grok, and Other AI Models Weigh in]]></title>
+        <id>http://www.inoreader.com/article/3a9c6e776b3706dd</id>
+        <link href="https://news.bitcoin.com/will-bitcoin-hit-180k-openais-chatgpt-elon-musks-grok-and-other-ai-models-weigh-in/"/>
+        <updated>2025-09-10T17:32:39.000Z</updated>
+        <summary type="html"><![CDATA[Bitcoin has been trading between $113,500 and $114,246 today, prompting speculation about how the fourth quarter may unfold. To explore potential outcomes, we consulted several leading artificial intelligence (AI) chatbots to gauge their projections for BTC’s price at the close of September, October, November, and December. Chatbots Predict BTC Climb: $114K to $180K by December […]]]></summary>
+        <author>
+            <name>Jamie Redman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Daily: Dogecoin’s ETF debut, ‘Solana season’ brewing, Ethereum validator exits, and more]]></title>
+        <id>https://cryptopanic.com/news/25138179/The-Daily-Dogecoins-ETF-debut-Solana-season-brewing-Ethereum-validator-exits-and-more</id>
+        <link href="https://cryptopanic.com/news/25138179/The-Daily-Dogecoins-ETF-debut-Solana-season-brewing-Ethereum-validator-exits-and-more"/>
+        <updated>2025-09-10T17:32:02.000Z</updated>
+        <summary type="html"><![CDATA[The following article is adapted from The Block’s newsletter, The Daily, which comes out on weekday afternoons.]]></summary>
+        <author>
+            <name>News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4 Low Risk High Potential Altcoins to Buy Before Sep 17]]></title>
+        <id>https://cryptopanic.com/news/25138200/4-Low-Risk-High-Potential-Altcoins-to-Buy-Before-Sep-17</id>
+        <link href="https://cryptopanic.com/news/25138200/4-Low-Risk-High-Potential-Altcoins-to-Buy-Before-Sep-17"/>
+        <updated>2025-09-10T17:32:01.000Z</updated>
+        <author>
+            <name>News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin vs inflation.]]></title>
+        <id>https://cryptopanic.com/news/25138198/Bitcoin-vs-inflation</id>
+        <link href="https://cryptopanic.com/news/25138198/Bitcoin-vs-inflation"/>
+        <updated>2025-09-10T17:31:12.000Z</updated>
+        <author>
+            <name>News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ethereum Network Activity Heats Up As Fees Hit $1.4M In 24H]]></title>
+        <id>https://cryptopanic.com/news/25138164/Ethereum-Network-Activity-Heats-Up-As-Fees-Hit-14M-In-24H</id>
+        <link href="https://cryptopanic.com/news/25138164/Ethereum-Network-Activity-Heats-Up-As-Fees-Hit-14M-In-24H"/>
+        <updated>2025-09-10T17:30:58.000Z</updated>
+        <author>
+            <name>News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SEC Chairman Backs "Super-App" Platforms in Crypto Market Overhaul]]></title>
+        <id>http://www.inoreader.com/article/3a9c6e776b30f0a6</id>
+        <link href="https://www.financemagnates.com/cryptocurrency/sec-chairman-backs-super-app-platforms-in-crypto-market-overhaul/"/>
+        <updated>2025-09-10T17:20:53.000Z</updated>
+        <summary type="html"><![CDATA[The U.S. Securities and Exchange Commission (SEC) is  
+preparing a major overhaul of its approach to digital assets, with Chair Paul  
+Atkins declaring that “most crypto tokens are not securities.” 
+The shift marks a move away from enforcement-led  
+oversight toward a structured framework that could give firms clearer guidance  
+on trading, lending, and staking activities.
+Project Crypto Announced
+Speaking at the OECD Roundtable in Paris, Atkins  
+unveiled Project Crypto, an initiative to modernize securities regulations for  
+blockchain markets. He said the SEC would deliver “clear, predictable rules”  
+instead of relying on individual enforcement actions. “It is a new day at the  
+SEC,” he told delegates.
+
+JUST IN: 🇺🇸 SEC Chair Paul Atkins says "ladies and gentlemen, we must admit that…]]></summary>
+        <author>
+            <name>Jared Kirui</name>
         </author>
     </entry>
     <entry>
@@ -51,16 +366,6 @@ Presently, the network has experienced a massive uptick in its derivatives marke
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Trump’s Push for Fed Cuts Fuels Bitcoin Bullish Outlook]]></title>
-        <id>https://cryptopanic.com/news/25137216/Trumps-Push-for-Fed-Cuts-Fuels-Bitcoin-Bullish-Outlook</id>
-        <link href="https://cryptopanic.com/news/25137216/Trumps-Push-for-Fed-Cuts-Fuels-Bitcoin-Bullish-Outlook"/>
-        <updated>2025-09-10T17:01:50.000Z</updated>
-        <summary type="html"><![CDATA[Traders are closely monitoring the structure as speculation grows around a potential Federal Reserve rate cut.]]></summary>
-        <author>
-            <name>News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[UQUID Report Identifies TRON as Core Infrastructure for E-Commerce Payments Across Latin America, Africa, and Asia]]></title>
         <id>http://www.inoreader.com/article/3a9c6e776b33fa22</id>
         <link href="https://news.bitcoin.com/uquid-report-identifies-tron-as-core-infrastructure-for-e-commerce-payments-across-latin-america-africa-and-asia/"/>
@@ -68,85 +373,6 @@ Presently, the network has experienced a massive uptick in its derivatives marke
         <summary type="html"><![CDATA[This content is provided by a sponsor. PRESS RELEASE. Geneva, Switzerland – September 10, 2025 – UQUID, a leading Web3 shopping infrastructure, has published a research report, providing a detailed analysis of the transactions on the TRON network processed through the UQUID platform. The report highlights TRON’s accelerating adoption in stablecoin payments, everyday purchases, and […]]]></summary>
         <author>
             <name>Media</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ONDO’s battle for $1.15 – Traders bullish, but one RISK remains]]></title>
-        <id>https://cryptopanic.com/news/25137202/ONDOs-battle-for-115-Traders-bullish-but-one-RISK-remains</id>
-        <link href="https://cryptopanic.com/news/25137202/ONDOs-battle-for-115-Traders-bullish-but-one-RISK-remains"/>
-        <updated>2025-09-10T17:00:42.000Z</updated>
-        <author>
-            <name>News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin vs Big Tech.
-
-It's still early.]]></title>
-        <id>https://cryptopanic.com/news/25137041/Bitcoin-vs-Big-Tech-Its-still-early</id>
-        <link href="https://cryptopanic.com/news/25137041/Bitcoin-vs-Big-Tech-Its-still-early"/>
-        <updated>2025-09-10T16:58:19.000Z</updated>
-        <author>
-            <name>News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Standard Chartered Predicts 50 Basis Points Fed Rate Cut Next Week After Unemployment Soared to Near Four-Year High: Report]]></title>
-        <id>https://cryptopanic.com/news/25137014/Standard-Chartered-Predicts-50-Basis-Points-Fed-Rate-Cut-Next-Week-After-Unemployment-Soared-to-Near-Four-Year-High-Report</id>
-        <link href="https://cryptopanic.com/news/25137014/Standard-Chartered-Predicts-50-Basis-Points-Fed-Rate-Cut-Next-Week-After-Unemployment-Soared-to-Near-Four-Year-High-Report"/>
-        <updated>2025-09-10T16:55:11.000Z</updated>
-        <author>
-            <name>News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trump Administration Allegedly Appeals Court to Block Fed Chair Removal]]></title>
-        <id>https://cryptopanic.com/news/25136988/Trump-Administration-Allegedly-Appeals-Court-to-Block-Fed-Chair-Removal</id>
-        <link href="https://cryptopanic.com/news/25136988/Trump-Administration-Allegedly-Appeals-Court-to-Block-Fed-Chair-Removal"/>
-        <updated>2025-09-10T16:47:38.000Z</updated>
-        <summary type="html"><![CDATA[Rumors of Trump seeking legal action to remove Fed Chair Jerome Powell circulate without official confirmation.]]></summary>
-        <author>
-            <name>News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mantle price surges 17% to near all-time high]]></title>
-        <id>https://cryptopanic.com/news/25136998/Mantle-price-surges-17-to-near-all-time-high</id>
-        <link href="https://cryptopanic.com/news/25136998/Mantle-price-surges-17-to-near-all-time-high"/>
-        <updated>2025-09-10T16:47:12.000Z</updated>
-        <summary type="html"><![CDATA[Mantle price jumps to near all-time high as volume spikes 50% This comes amid integration of HyperEVM via LayerZero, enhancing MNT’s utility across blockchains. MNT is only 4% away from its ATH reached in April 2024.]]></summary>
-        <author>
-            <name>News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Taps $114,000 Following Producer Price Inflation Data: Can This Rally Continue?]]></title>
-        <id>https://cryptopanic.com/news/25137207/Bitcoin-Taps-114000-Following-Producer-Price-Inflation-Data-Can-This-Rally-Continue</id>
-        <link href="https://cryptopanic.com/news/25137207/Bitcoin-Taps-114000-Following-Producer-Price-Inflation-Data-Can-This-Rally-Continue"/>
-        <updated>2025-09-10T16:46:13.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin (CRYPTO: BTC) on Wednesday briefly touched $114,000 following cooler-than-expected PPI data, prompting speculation about whether this rally can extend. read more]]></summary>
-        <author>
-            <name>News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This Key Indicator Just Flipped Bullish – Are You Paying Attention?]]></title>
-        <id>https://cryptopanic.com/news/25137001/This-Key-Indicator-Just-Flipped-Bullish-Are-You-Paying-Attention</id>
-        <link href="https://cryptopanic.com/news/25137001/This-Key-Indicator-Just-Flipped-Bullish-Are-You-Paying-Attention"/>
-        <updated>2025-09-10T16:45:04.000Z</updated>
-        <summary type="html"><![CDATA[🤫 BITUNIX TRADE NO KYC - 30% FEE DISCOUNT and $400 Deposit Bonus & $8000 Trading Bonus 👉 https://cryptolark. co/BITUNIX 🚀 PHEMEX (available everywhere) $50 Deposit Bonus, $800 Trading Bonus and Free Solana 👉 https://cryptolark. co/PHEMEX 🚨 GET THE FRESHEST ALPHA IN DISCORD https://cryptolark....]]></summary>
-        <author>
-            <name>News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cboe enters CME dominated market with new tech-focused index]]></title>
-        <id>https://cryptopanic.com/news/25136981/Cboe-enters-CME-dominated-market-with-new-tech-focused-index</id>
-        <link href="https://cryptopanic.com/news/25136981/Cboe-enters-CME-dominated-market-with-new-tech-focused-index"/>
-        <updated>2025-09-10T16:42:42.000Z</updated>
-        <summary type="html"><![CDATA[Cboe Global Markets Inc. is rolling out a fresh way for investors to trade the largest technology names, a move that puts the Chicago group on a more direct path against local rival CME Group Inc. The operator known for the VIX volatility gauge plans futures and options tied to the coming Cboe...]]></summary>
-        <author>
-            <name>News</name>
         </author>
     </entry>
     <entry>
@@ -160,45 +386,6 @@ It's still early.]]></title>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Here’s How Pump.fun Creators Cashed In $15.5M in Just 7 Days After Project Ascend]]></title>
-        <id>https://cryptopanic.com/news/25136937/Heres-How-Pumpfun-Creators-Cashed-In-155M-in-Just-7-Days-After-Project-Ascend</id>
-        <link href="https://cryptopanic.com/news/25136937/Heres-How-Pumpfun-Creators-Cashed-In-155M-in-Just-7-Days-After-Project-Ascend"/>
-        <updated>2025-09-10T16:40:49.000Z</updated>
-        <author>
-            <name>News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From 55% to 20%? How Japan plans to fix its crypto tax rules]]></title>
-        <id>https://cryptopanic.com/news/25136932/From-55-to-20-How-Japan-plans-to-fix-its-crypto-tax-rules</id>
-        <link href="https://cryptopanic.com/news/25136932/From-55-to-20-How-Japan-plans-to-fix-its-crypto-tax-rules"/>
-        <updated>2025-09-10T16:37:49.000Z</updated>
-        <summary type="html"><![CDATA[From harsh 55% taxes to a flat 20%, Japan’s crypto overhaul promises relief for investors in a bid to boost Web3 innovation.]]></summary>
-        <author>
-            <name>News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BNB hits new ATH above $900 as Binance’s new DeFi initiatives spark bullish momentum]]></title>
-        <id>https://cryptopanic.com/news/25136997/BNB-hits-new-ATH-above-900-as-Binances-new-DeFi-initiatives-spark-bullish-momentum</id>
-        <link href="https://cryptopanic.com/news/25136997/BNB-hits-new-ATH-above-900-as-Binances-new-DeFi-initiatives-spark-bullish-momentum"/>
-        <updated>2025-09-10T16:37:31.000Z</updated>
-        <summary type="html"><![CDATA[Binance Coin has hit new all-time highs, surpassing the $900 psychological mark. The exchange’s collaboration with Franklin Templeton fueled the upside. The partnership promises institutional-grade solutions. Cryptocurrencies recorded relief rallies today after the United States PPI data, which...]]></summary>
-        <author>
-            <name>News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Breaking: Major XRP ETF Proposed by $1.5 Trillion Financial Giant Faces Fresh SEC Delay]]></title>
-        <id>https://cryptopanic.com/news/25137234/Breaking-Major-XRP-ETF-Proposed-by-15-Trillion-Financial-Giant-Faces-Fresh-SEC-Delay</id>
-        <link href="https://cryptopanic.com/news/25137234/Breaking-Major-XRP-ETF-Proposed-by-15-Trillion-Financial-Giant-Faces-Fresh-SEC-Delay"/>
-        <updated>2025-09-10T16:35:01.000Z</updated>
-        <summary type="html"><![CDATA[The SEC has delayed its decision on Franklin Templeton's XRP ETF proposal]]></summary>
-        <author>
-            <name>News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Oracle’s Late AI Bet Sends Shares Soaring, Ellison Tops Musk as World's Richest Man]]></title>
         <id>https://decrypt.co/?p=338814</id>
         <link href="https://decrypt.co/338814/oracles-late-ai-bet-shares-soaring-ellison-tops-musk-worlds-richest-man"/>
@@ -206,43 +393,6 @@ It's still early.]]></title>
         <summary type="html"><![CDATA[Oracle shares jump over 30% as a bold AI strategy, record cloud backlog, and massive contracts make Larry Ellison the world’s richest person.]]></summary>
         <author>
             <name>Josh Quittner</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oracle’s Late AI Bet Sends Shares Soaring, Ellison Tops Musk as World's Richest Man]]></title>
-        <id>https://cryptopanic.com/news/25136914/Oracles-Late-AI-Bet-Sends-Shares-Soaring-Ellison-Tops-Musk-as-Worlds-Richest-Man</id>
-        <link href="https://cryptopanic.com/news/25136914/Oracles-Late-AI-Bet-Sends-Shares-Soaring-Ellison-Tops-Musk-as-Worlds-Richest-Man"/>
-        <updated>2025-09-10T16:32:48.000Z</updated>
-        <summary type="html"><![CDATA[Oracle shares jump over 30% as a bold AI strategy, record cloud backlog, and massive contracts make Larry Ellison the world’s richest person.]]></summary>
-        <author>
-            <name>News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trump Fed pick Stephen Miran clears Senate panel]]></title>
-        <id>https://cryptopanic.com/news/25136930/Trump-Fed-pick-Stephen-Miran-clears-Senate-panel</id>
-        <link href="https://cryptopanic.com/news/25136930/Trump-Fed-pick-Stephen-Miran-clears-Senate-panel"/>
-        <updated>2025-09-10T16:32:30.000Z</updated>
-        <author>
-            <name>News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Braces For Fed Decision As Polymarket Traders Bet On A 0.25% Cut]]></title>
-        <id>https://cryptopanic.com/news/25136980/Bitcoin-Braces-For-Fed-Decision-As-Polymarket-Traders-Bet-On-A-025-Cut</id>
-        <link href="https://cryptopanic.com/news/25136980/Bitcoin-Braces-For-Fed-Decision-As-Polymarket-Traders-Bet-On-A-025-Cut"/>
-        <updated>2025-09-10T16:30:49.000Z</updated>
-        <author>
-            <name>News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shiba Inu Looks to Scale 200-day SMA as DOGE Whales Boost Coin Stash to 10B]]></title>
-        <id>https://cryptopanic.com/news/25137002/Shiba-Inu-Looks-to-Scale-200-day-SMA-as-DOGE-Whales-Boost-Coin-Stash-to-10B</id>
-        <link href="https://cryptopanic.com/news/25137002/Shiba-Inu-Looks-to-Scale-200-day-SMA-as-DOGE-Whales-Boost-Coin-Stash-to-10B"/>
-        <updated>2025-09-10T16:30:22.000Z</updated>
-        <author>
-            <name>News</name>
         </author>
     </entry>
     <entry>
@@ -405,112 +555,6 @@ Read more: Washington’s Crypto Pivot Isn’t About Silicon Valley. It’s Abou
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Digital Gold: A Story Still Being Written]]></title>
-        <id>http://www.inoreader.com/article/3a9c6e776b225d82</id>
-        <link href="https://www.coindesk.com/coindesk-indices/2025/09/10/digital-gold-a-story-still-being-written"/>
-        <updated>2025-09-10T15:38:02.000Z</updated>
-        <summary type="html"><![CDATA[August put a small dent in what remains a longer-term uptrend for digital assets. Bitcoin fell about 6.5% — its first monthly decline since March — after briefly touching a new all-time high of $125,000 mid-month. Ether, by contrast, extended its strong run, gaining nearly 19% and lifting its share of overall market capitalization to roughly 13%. This rotation from bitcoin into ether was also visible in ETFs: bitcoin funds saw rare net outflows, suggesting some profit-taking after this year’s extraordinary rally, while ether ETFs attracted heavy inflows that pushed assets under management to record levels. As a result, bitcoin dominance slipped to its lowest point since January, leaving the overall market capitalization of digital assets roughly flat on the month.
-Despite this sideways per…]]></summary>
-        <author>
-            <name>Gregory Mall</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[$1.5B BTC Treasury Company Coming as Asset Entities Approves Merger With Vivek Ramaswamy's Strive]]></title>
-        <id>http://www.inoreader.com/article/3a9c6e776b225d77</id>
-        <link href="https://www.coindesk.com/markets/2025/09/10/usd1-5b-btc-treasury-company-coming-as-asset-entities-approves-merger-with-strive"/>
-        <updated>2025-09-10T15:38:02.000Z</updated>
-        <summary type="html"><![CDATA[Asset Entities Inc (ASST) announced that its shareholders have approved a merger with Strive Enterprises. Following Strive’s shareholder approval on Sept.4, this paves the way for the combined company, to be renamed Strive Inc., to pursue a bitcoin treasury strategy.
-Former presidential candidate Vivek Ramaswamy co-founded Strive Enterprises in 2022.
-Matt Cole — currently the head of Strive Asset Management — will lead the combined company as chairman and CEO, while Asset Entities’ President and CEO Arshia Sarkhani will transition to chief marketing officer and board member. The merger’s closing remains subject to Nasdaq listing clearance and other customary conditions, according to the announcement. 
-Strive expects to finalize a $750 million private placement (PIPE) financing upon closing, with potential gross proceeds exceeding $1.5 billion if warrants are exercised. Cole highlighted the company’s debt-free structure and strategy to maximize bitcoin per share through disciplined, long-term approaches designed to outperform Bitcoin itself.
-ASST shares are higher by 38% in U.S. mid-morning trade.]]></summary>
-        <author>
-            <name>James Van Straten</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top U.S. Banking Regulator Gould Says Crypto Debanking 'Is Real']]></title>
-        <id>http://www.inoreader.com/article/3a9c6e776b225d72</id>
-        <link href="https://www.coindesk.com/policy/2025/09/10/top-u-s-banking-regulator-gould-says-crypto-debanking-is-real"/>
-        <updated>2025-09-10T15:38:02.000Z</updated>
-        <summary type="html"><![CDATA[WASHINGTON, D.C. — Jonathan Gould, in his opening weeks of running the U.S. Office of the Comptroller of the Currency, left no uncertainty about his view of the systematic process to drop crypto people and businesses from banking relationships.
-
-"Debanking is real," he told an audience Wednesday at CoinDesk's Policy and Regulation event in Washington, D.C. "It is a real phenomenon," he noted, adding that he was hearing stories as recently as last week about people with corporate accounts being told "we don't want your business here."
-
-In his push to make the U.S. the crypto center of the world, President Donald Trump has appointed digital-assets-friendly regulators such as Gould to enact his executive orders to bolster the industry. Gould said he's been busy at the start of his tenure addr…]]></summary>
-        <author>
-            <name>Jesse Hamilton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[$XRP Nears ATH as ETF Approval Odds Hit 93%; Wall Street Pepe Scales on Solana]]></title>
-        <id>http://www.inoreader.com/article/3a9c6e776b227106</id>
-        <link href="https://bitcoinist.com/xrp-hits-3-dollars-wepe-hype-increases/"/>
-        <updated>2025-09-10T15:37:55.000Z</updated>
-        <summary type="html"><![CDATA[Ripple’s $XRP just reached $3, moving closer to its $3.60 all-time high. One major factor? The 98% chance of US ETF approval is raising expectations of increased institutional demand.
- 
-On the back of this, another altcoin is turning heads. It’s dubbed Wall Street Pepe ($WEPE), and it recently expanded from Ethereum to Solana ahead of new exchange listings.
- 
-Analyst Predicts $XRP ETFs to Spark Steady Dip-Buying
- 
-On Polymarket (an aptly named on-chain prediction market on Polygon), there are growing hopes that the Securities and Exchange Commission (SEC) will approve a Ripple ETF before 2026 begins.
- 
-The market is pricing in a 93% chance of an $XRP approval this year, up by a commendable 16% compared to last month.
- 
- 
-According to crypto analyst ‘Jungle’ on X, the approval of an $XRP ET…]]></summary>
-        <author>
-            <name>Leah Waters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Hyper Presale Surges Past $14.8M as Fastest Bitcoin Layer 2]]></title>
-        <id>http://www.inoreader.com/article/3a9c6e776b227100</id>
-        <link href="https://bitcoinist.com/bitcoin-hyper-presale-surges-past-14-8m/"/>
-        <updated>2025-09-10T15:37:55.000Z</updated>
-        <summary type="html"><![CDATA[Slow transaction speeds, frequent congestion – rock-solid reliability.
- 
-Bitcoin – the blockchain, not the crypto – has some limitations. Even though the cryptocurrency sits at $113.5K, up 2% over the past week, the underlying network struggles with scalability issues. 
-There is hope for the future with the Bitcoin Hyper Layer 2 launch, providing a faster and cheaper way to make Bitcoin transactions.
- 
-The First and Fastest Bitcoin Layer 2
- 
-Bitcoin Hyper ($HYPER) positions itself as the first real Bitcoin Layer 2, aiming to make $BTC fast and cheap for everyday use while preserving Bitcoin-grade security.
- 
-The network runs an SVM (Solana Virtual Machine) execution environment, providing extremely high throughput, but settles its batched state back to Bitcoin Layer 1 using zero-knowledge …]]></summary>
-        <author>
-            <name>Bogdan Patru</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DogeOS Team Annnounces New Partnership Between Dogecoin And Bitcoin]]></title>
-        <id>http://www.inoreader.com/article/3a9c6e776b2f916b</id>
-        <link href="https://bitcoinist.com/dogecoin-and-bitcoin-partners/"/>
-        <updated>2025-09-10T15:09:05.000Z</updated>
-        <summary type="html"><![CDATA[The DogeOS team has revealed a new partnership between Dogecoin and Bitcoin, which is bullish for the meme coin’s ecosystem. Notably, this comes amid other bullish fundamentals such as the imminent launch of the first Dogecoin ETF. 
- 
-DogeOS Announces Partnership Between Dogecoin and Bitcoin
- 
-In an X post, DogeOs stated that for the first time, Bitcoin is joining the Dogecoin community, enabling BTC’s trillion-dollar liquidity to flow into their ecosystem through its partnership with Lombard Finance. The team further noted that this will lead to deeper markets and more capital for builders, while also providing more financial firepower for mainstream Dogecoin applications. 
- 
- 
-The announcement comes after the DogeOS team teased that something big was happening between Bitcoin and Dogecoi…]]></summary>
-        <author>
-            <name>Scott Matherson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[XRP Price Watch: Bulls Eye Breakout as XRP Hits $3.02 With Strong Momentum]]></title>
-        <id>http://www.inoreader.com/article/3a9c6e776b2ad89b</id>
-        <link href="https://news.bitcoin.com/xrp-price-watch-bulls-eye-breakout-as-xrp-hits-3-02-with-strong-momentum/"/>
-        <updated>2025-09-10T14:49:14.000Z</updated>
-        <summary type="html"><![CDATA[XRP traded at around $3.016 to $3.02 on Sept. 10, 2025, at 10:30 a.m. Eastern, with a 24-hour market cap reaching $179 billion and trading volume standing at $4.65 billion. The digital asset’s intraday price range spanned from $2.94 to $3.034, reflecting a stable yet potentially pivotal moment for near-term price action. XRP The one-hour […]]]></summary>
-        <author>
-            <name>Jamie Redman</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[US DOJ Moves to Recover $12M in USDT Tied to Crypto Scam]]></title>
         <id>https://decrypt.co/?p=338806</id>
         <link href="https://decrypt.co/338806/us-doj-moves-to-recover-12m-in-usdt-tied-to-crypto-scam"/>
@@ -518,24 +562,6 @@ The announcement comes after the DogeOS team teased that something big was happe
         <summary type="html"><![CDATA[Civil forfeiture has become "one of the most important tools in crypto investigations," for recovering funds and disrupting illicit activity.]]></summary>
         <author>
             <name>Vince Dioquino</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BNB Hits Record High Exceeding $900 Following Binance And Franklin Templeton Collaboration]]></title>
-        <id>http://www.inoreader.com/article/3a9c6e776b148ce7</id>
-        <link href="https://bitcoinist.com/bnb-hits-record-high-binance-franklin-templeton/"/>
-        <updated>2025-09-10T14:39:29.000Z</updated>
-        <summary type="html"><![CDATA[Binance Coin (BNB), the native cryptocurrency of the world’s largest exchange by trading volume, reached a fresh all-time high (ATH) on Wednesday, buoyed by a new partnership between Binance and asset management giant Franklin Templeton. 
- 
-This surge in BNB’s value comes in tandem with a broader rally in the cryptocurrency market, as Bitcoin (BTC) rebounded to $114,000 after a period of consolidation between $110,000 and $112,000.
- 
-Binance And Franklin Templeton’s Vision
- 
-The collaboration between Binance and Franklin Templeton aims to leverage the latter’s knowledge in compliant tokenization of securities and Binance’s global trading infrastructure. 
- 
-The two firms seek to create innovative financial solutions that enhance efficiency, transparency, and accessibility in capital markets…]]></summary>
-        <author>
-            <name>Ronaldo Marquez</name>
         </author>
     </entry>
     <entry>
@@ -836,26 +862,6 @@ The two firms seek to create innovative financial solutions that enhance efficie
         <summary type="html"><![CDATA[Experts say early adoption will likely remain institutional as Ant Digital tracks 15 million renewable devices across China.]]></summary>
         <author>
             <name>Vismaya V</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Upbit Unveils Ethereum Layer 2 ‘GIWA’ To Compete In Infrastructure Race]]></title>
-        <id>https://decrypt.co/?p=338588</id>
-        <link href="https://decrypt.co/338588/upbit-unveils-ethereum-layer-2-giwa"/>
-        <updated>2025-09-09T06:28:17.000Z</updated>
-        <summary type="html"><![CDATA[Upbit has unveiled GIWA, an Ethereum Layer 2 network built on Optimism’s OP Stack, as it seeks new growth avenues.]]></summary>
-        <author>
-            <name>Vince Dioquino</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin, Ethereum Prices Stall, Where to Next?]]></title>
-        <id>https://decrypt.co/?p=338589</id>
-        <link href="https://decrypt.co/338589/bitcoin-ethereum-prices-stall-where-to-next"/>
-        <updated>2025-09-09T05:53:40.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin’s quiet start to the week could give way to turbulence as key U.S. economic data and the Fed's decisions collide with expiring volatility contracts.]]></summary>
-        <author>
-            <name>Akash Girimath</name>
         </author>
     </entry>
     <entry>

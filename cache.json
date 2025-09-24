@@ -6,12 +6,42 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=341096",
+          "author": "Logan Hitchcock",
+          "description": "Solana treasury firm DeFi Development Corp. saw shares pop after announcing it was increasing its share repurchase program to $100 million.",
+          "link": "https://decrypt.co/341096/defi-development-corp-stock-rises-solana-firm-boosts-buyback-plan-100-million",
+          "publishedOn": "2025-09-24T16:15:55.000Z",
+          "wordCount": 10077,
+          "title": "DeFi Development Corp. Stock Rises as Solana Firm Boosts Buyback Plan to $100 Million",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/solana-decrypt-style-03-gID_7.png@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/solana-decrypt-style-03-gID_7.png@png"
+        },
+        {
+          "id": "https://decrypt.co/videos/interviews/zAvJZbIJ/catching-criminals-on-chain-interview-w-matt-price",
+          "author": null,
+          "description": "Matt Price, Elliptic's director of investigations and strategic advisory, delves into the world of on-chain analytics, outlining the role of AI in crypto analytics, an evolving game of cat and mouse on-chain, and the challenges faced by law enforcement in tackling sophisticated financial crimes.",
+          "link": "https://decrypt.co/videos/interviews/zAvJZbIJ/catching-criminals-on-chain-interview-w-matt-price",
+          "publishedOn": "2025-09-24T15:26:17.000Z",
+          "wordCount": 6000,
+          "title": "Catching Criminals On-chain (Interview w/ Matt Price)",
+          "enclosure": {
+            "url": "https://cdn.jwplayer.com/v2/media/zAvJZbIJ/poster.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.jwplayer.com/v2/media/zAvJZbIJ/poster.jpg"
+        },
+        {
           "id": "https://decrypt.co/?p=341095",
           "author": "André Beganski",
           "description": "Franklin Templeton’s tokenized money market fund was worth $742 million on Wednesday.",
           "link": "https://decrypt.co/341095/franklin-templeton-taps-bnb-chain-for-benji-expansion-after-binance-team-up",
           "publishedOn": "2025-09-24T15:18:47.000Z",
-          "wordCount": 9269,
+          "wordCount": 9275,
           "title": "Franklin Templeton Taps BNB Chain for BENJI Expansion After Binance Team-Up",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/Binance-BNB-BSC-DecryptStyle-1-scaled-gID_7.jpg@png",
@@ -26,7 +56,7 @@
           "description": "Acting CFTC Chairman Caroline Pham said stablecoins and other digital assets could usher in \"America's Golden Age of Crypto.\"",
           "link": "https://decrypt.co/341086/cftc-launches-initiative-to-allow-tokenized-collateral-in-derivatives-markets",
           "publishedOn": "2025-09-24T14:50:45.000Z",
-          "wordCount": 9839,
+          "wordCount": 9845,
           "title": "CFTC Launches Initiative to Allow Tokenized Collateral in Derivatives Markets",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/cftc-decrypt-style-01-gID_7.jpg@png",
@@ -41,7 +71,7 @@
           "description": "Solana is underperforming Bitcoin, Ethereum, and XRP this week as analysts cite deleveraging pressure, priced-in corporate purchases, and upcoming FTX distributions.",
           "link": "https://decrypt.co/341085/why-solana-falling-harder-bitcoin-ethereum-xrp",
           "publishedOn": "2025-09-24T14:35:19.000Z",
-          "wordCount": 9768,
+          "wordCount": 9774,
           "title": "Why Is Solana Falling Harder Than Bitcoin, Ethereum and XRP This Week?",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Solana-gID_7.png@png",
@@ -56,7 +86,7 @@
           "description": "After crypto titans fought over the ticker, the USDH stablecoin is now live on Hyperliquid—but HYPE is down as BNB-based rival Aster rises.",
           "link": "https://decrypt.co/341087/hyperliquid-aligned-usdh-native-markets-stablecoin-live-hype-falls",
           "publishedOn": "2025-09-24T14:02:46.000Z",
-          "wordCount": 10920,
+          "wordCount": 10926,
           "title": "'Hyperliquid-Aligned' USDH Native Markets Stablecoin Goes Live as HYPE Falls",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/Hyperliquid-DecryptStyle-scaled-gID_7.jpg@png",
@@ -71,7 +101,7 @@
           "description": "DPRK-linked hackers used a compromised private key to mint fake SFUND tokens across chains, according to Seedify.",
           "link": "https://decrypt.co/341076/north-korean-hackers-drain-1-2m-from-seedify-bridge",
           "publishedOn": "2025-09-24T11:59:43.000Z",
-          "wordCount": 10120,
+          "wordCount": 10126,
           "title": "North Korean Hackers Drain $1.2M From Seedify Bridge",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/Hacker-hack-decrypt-style-04-gID_7.jpg@png",
@@ -86,7 +116,7 @@
           "description": "Fueled by new DEX Aster, 24-hour perps trading volume on Binance Chain has surpassed Hyperliquid as the platforms battle for market share.",
           "link": "https://decrypt.co/341065/aster-vs-hyperliquid-binance-chain-dex-perps-volume-derails-the-hype-train",
           "publishedOn": "2025-09-24T11:20:52.000Z",
-          "wordCount": 10218,
+          "wordCount": 10224,
           "title": "Aster vs Hyperliquid: BNB Chain DEX Perps Volume Derails the HYPE Train",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/crypto-trading-decrypt-style-01-gID_7.png@png",
@@ -101,7 +131,7 @@
           "description": "The former Assembly majority leader’s campaign launched with a pledge to put Bitcoin on the state’s balance sheet.",
           "link": "https://decrypt.co/341057/ian-calderon-runs-for-california-governor-vows-to-make-state-undisputed-leader-on-bitcoin",
           "publishedOn": "2025-09-24T09:15:59.000Z",
-          "wordCount": 10029,
+          "wordCount": 10035,
           "title": "Ian Calderon Runs for California Governor, Vows to Make State ‘Undisputed Leader’ on Bitcoin",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/california-bitcoin-decrypt-style-gID_7.jpg@png",
@@ -116,7 +146,7 @@
           "description": "Kraken co-CEO Arjun Sethi says the fight for crypto in the United States is \"far from over,” as the exchange looks to back pro-crypto policy.",
           "link": "https://decrypt.co/341043/kraken-donates-1m-pro-trump-pac-crypto-privacy-rights",
           "publishedOn": "2025-09-24T06:40:38.000Z",
-          "wordCount": 10042,
+          "wordCount": 10048,
           "title": "Kraken Donates $1M to Pro-Trump PAC to Support Crypto Privacy Rights",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/kraken2-gID_7.jpg@png",
@@ -131,7 +161,7 @@
           "description": "Bitcoin’s lackluster performance as gold soars is leading to an increased divergence between the two assets. Here's what could come next.",
           "link": "https://decrypt.co/341035/bitcoins-slump-widens-safe-haven-divergence-for-gold",
           "publishedOn": "2025-09-24T04:19:23.000Z",
-          "wordCount": 9199,
+          "wordCount": 9205,
           "title": "Bitcoin’s Slump Widens Safe Haven Divergence for Gold",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin_gold2-gID_7.png@png",
@@ -146,7 +176,7 @@
           "description": "The unexpected post sparked questions about inmate communications as the FTX estate sues for $1.1 billion and prepares a $1.6 billion payout.",
           "link": "https://decrypt.co/341020/sam-bankman-frieds-x-account-awakens-sends-ftt-token-soaring",
           "publishedOn": "2025-09-24T02:29:27.000Z",
-          "wordCount": 10166,
+          "wordCount": 10172,
           "title": "Sam Bankman-Fried’s X Account Awakens, Sends FTT Token Soaring",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/jail_decrypt_style_01-gID_7.png@png",
@@ -161,7 +191,7 @@
           "description": "New study shows mobile robots can collectively verify real-world data for smart contracts while resisting attacks.",
           "link": "https://decrypt.co/340986/robot-swarms-could-solve-blockchains-oracle-problem-researchers-say",
           "publishedOn": "2025-09-23T23:43:21.000Z",
-          "wordCount": 10197,
+          "wordCount": 10203,
           "title": "Robot Swarms Could Solve Blockchain’s Oracle Problem, Researchers Say",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-10-gID_7.png@png",
@@ -176,7 +206,7 @@
           "description": "Tether would potentially join the ranks of OpenAI and SpaceX, which received similar valuations.",
           "link": "https://decrypt.co/340988/stablecoin-tether-seeks-500-billion-valuation-20-billion-raise-report",
           "publishedOn": "2025-09-23T23:29:14.000Z",
-          "wordCount": 9397,
+          "wordCount": 9403,
           "title": "Stablecoin Titan Tether Seeks $500 Billion Valuation on $20 Billion Raise: Report",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/tether-usdt-decrypt-style-01-gID_7.png@png",
@@ -191,7 +221,7 @@
           "description": "The token formerly known as Binance Coin is the best-performing crypto in the top 10 over the last week. Here's what's going on.",
           "link": "https://decrypt.co/340989/bitcoin-slipping-bnb-price-on-fire-analysis",
           "publishedOn": "2025-09-23T22:14:59.000Z",
-          "wordCount": 12798,
+          "wordCount": 12804,
           "title": "Bitcoin Is Slipping, But BNB Is on Fire: Here's Why",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/Binance-BNB-BSC-DecryptStyle-1-scaled-gID_7.jpg@png",
@@ -206,7 +236,7 @@
           "description": "The collapsed exchange alleges that ex-FTX CEO Bankman-Fried invested in the Bitcoin miner with commingled funds.",
           "link": "https://decrypt.co/340970/ftx-hits-bitcoin-miner-genesis-digital-assets-1-1b-lawsuit",
           "publishedOn": "2025-09-23T21:24:54.000Z",
-          "wordCount": 9432,
+          "wordCount": 9438,
           "title": "FTX Recovery Trust Sues Bitcoin Miner Genesis Digital Assets for $1.15 Billion",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ftx-decrypt-style-01-gID_7.png@png",
@@ -221,7 +251,7 @@
           "description": "Wall Street giant Morgan Stanley confirmed that it plans to offer crypto trading via E*Trade in a team-up with infrastructure provider Zerohash.",
           "link": "https://decrypt.co/340910/morgan-stanley-bitcoin-ethereum-solana-trading-etrade",
           "publishedOn": "2025-09-23T20:55:15.000Z",
-          "wordCount": 9736,
+          "wordCount": 9742,
           "title": "Morgan Stanley Will Enable Bitcoin, Ethereum and Solana Trading via E*Trade",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/08/Morgan-Stanley_JHVEPhoto_shutterstock_2180234701-gID_7.jpg@png",
@@ -236,7 +266,7 @@
           "description": "Once-hot meme coin Fartcoin is now down 37% on the month, leaving prediction market users bearish on the Solana token's chances at a new all-time high this year.",
           "link": "https://decrypt.co/340907/fartcoin-dives-28-week-myriad-users-bearish-rebound-this-year",
           "publishedOn": "2025-09-23T19:36:54.000Z",
-          "wordCount": 9589,
+          "wordCount": 9595,
           "title": "Fartcoin Dives 28% in a Week—Myriad Users Are Bearish on a Rebound This Year",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/fartcoin-gID_7.png@png",
@@ -251,7 +281,7 @@
           "description": "Bitcoin futures see a $1.25 billion outflow in what analysts termed a healthy market reset. They are eying a $120,000 target if Fed signals turn dovish, $110K support, if hawkish.",
           "link": "https://decrypt.co/340961/what-1-25-billion-bitcoin-futures-flush-means-markets",
           "publishedOn": "2025-09-23T19:26:55.000Z",
-          "wordCount": 10188,
+          "wordCount": 10194,
           "title": "What the $1.25 Billion Bitcoin Futures Flush Means for Markets",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/Bitcoin-decrypt-style-24-gID_7.png@png",
@@ -266,7 +296,7 @@
           "description": "Defunct crypto exchange ShapeShift has agreed to pay $750,000 to the U.S. Treasury Department to settle charges that it violated sanctions.",
           "link": "https://decrypt.co/340917/shuttered-shapeshift-settles-sanctions-violations-750k",
           "publishedOn": "2025-09-23T18:42:19.000Z",
-          "wordCount": 9224,
+          "wordCount": 9230,
           "title": "Shuttered ShapeShift Crypto Exchange Settles Sanctions Violations for $750K",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Judge-decrypt-style-2-gID_7.png@png",
@@ -281,7 +311,7 @@
           "description": "Decentralized exchanges Aster and Hyperliquid are facing off on-chain, with BNB Chain's new competitor spiking by 47% on the day.",
           "link": "https://decrypt.co/340915/aster-token-skyrockets-new-high-flipping-hyperliquid-revenue",
           "publishedOn": "2025-09-23T18:28:32.000Z",
-          "wordCount": 9733,
+          "wordCount": 9739,
           "title": "Aster Token Skyrockets to New High After Flipping Hyperliquid in Revenue—Will the Price Double Again?",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/aster-token-3-gID_7.jpg@png",
@@ -296,7 +326,7 @@
           "description": "Bitcoin rewards company Fold (FLD) opened strong Tuesday on credit card news, but it’s falling again after a rough Monday.",
           "link": "https://decrypt.co/340904/fold-stock-pops-plunges-bitcoin-rewards-visa-credit-card-plans",
           "publishedOn": "2025-09-23T17:06:17.000Z",
-          "wordCount": 9771,
+          "wordCount": 9777,
           "title": "Fold Stock Pops, Then Plunges After Revealing Bitcoin Rewards Visa Credit Card Plans",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/bitcoin-decrypt-style-wallet-gID_7.jpg@png",
@@ -311,7 +341,7 @@
           "description": "Atkins has previously teased exempting certain crypto transactions from securities laws, and creating safe harbors for ICOs, airdrops, and network rewards.",
           "link": "https://decrypt.co/340898/sec-chair-paul-atkins-crypto-innovation-exemption-coming-this-year",
           "publishedOn": "2025-09-23T16:28:07.000Z",
-          "wordCount": 9345,
+          "wordCount": 9351,
           "title": "SEC Chair Paul Atkins Says Crypto 'Innovation Exemption' Coming This Year",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/paul-atkins-decrypt-style-01-gID_7.jpg@png",
@@ -326,7 +356,7 @@
           "description": "Vitalik Buterin backs Coinbase's Base L2, saying it's \"doing things right\" despite critics who worry about centralization risks.",
           "link": "https://decrypt.co/340895/ethereum-founder-vitalik-buterin-base-doing-things-right-way",
           "publishedOn": "2025-09-23T16:15:57.000Z",
-          "wordCount": 9537,
+          "wordCount": 9543,
           "title": "Ethereum Founder Vitalik Buterin Says L2 Base Is ‘Doing Things the Right Way’",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/Vitalik-Buterin-DecryptStyle2-scaled-gID_7.jpg@png",
@@ -341,7 +371,7 @@
           "description": "Senator Cynthia Lummis pledged to address the issue of fraud tied to Bitcoin kiosks in pending crypto market legislation.",
           "link": "https://decrypt.co/340893/lummis-pushes-for-bitcoin-atm-safeguards-amid-mounting-scam-concerns",
           "publishedOn": "2025-09-23T15:48:13.000Z",
-          "wordCount": 9456,
+          "wordCount": 9462,
           "title": "Lummis Pushes for Bitcoin ATM Safeguards Amid Mounting Scam Concerns",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/cynthia-lummis-decrypt-style-scaled-gID_7.jpg@png",
@@ -356,7 +386,7 @@
           "description": "A new report shows that more people are making their wealth via cryptocurrency, as the count of crypto millionaires and billionaires grows.",
           "link": "https://decrypt.co/340890/more-crypto-millionaires-billionaires-ever-before-bitcoin-boom",
           "publishedOn": "2025-09-23T15:20:53.000Z",
-          "wordCount": 9708,
+          "wordCount": 9714,
           "title": "There Are Now More Crypto Millionaires and Billionaires Than Ever Before Amid Bitcoin Boom",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/bitcoin-decrypt-style-neon-gID_7.png@png",
@@ -371,7 +401,7 @@
           "description": "Analyst believes Asian session’s above-average performance will not be enough to kickstart the second phase of Bitcoin’s bull run.",
           "link": "https://decrypt.co/340881/asia-traders-next-bitcoin-bull-run",
           "publishedOn": "2025-09-23T14:11:30.000Z",
-          "wordCount": 9707,
+          "wordCount": 9713,
           "title": "Will Traders in Asia Drive Next Phase of the Bitcoin Bull Run?",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/bitcoin-bull-decrypt-style-gID_7.jpg@png",
@@ -386,7 +416,7 @@
           "description": "Ripple's $740 million RLUSD stablecoin was integrated into Securitize's tokenization platform as an off-ramp option for institutions.",
           "link": "https://decrypt.co/340766/ripples-stablecoin-debuts-blackrock-backed-tokenization-platform",
           "publishedOn": "2025-09-23T13:01:03.000Z",
-          "wordCount": 9327,
+          "wordCount": 9333,
           "title": "Ripple’s Stablecoin Debuts on BlackRock-Backed Tokenization Platform",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/ripple-logo-decrypt-style-01-gID_7.png@png",
@@ -401,7 +431,7 @@
           "description": "Mantle and Avalanche have posted double-digit gains on the day while the broader crypto market downturn continued.",
           "link": "https://decrypt.co/340870/altcoins-mnt-avax-aster-defy-market-downturn-heres-why",
           "publishedOn": "2025-09-23T11:28:02.000Z",
-          "wordCount": 9566,
+          "wordCount": 9572,
           "title": "Mantle, Avalanche, Aster Defy Crypto Market Downturn—Here’s Why",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/avalanche-avax-up-decrypt-style-gID_7.jpg@png",
@@ -416,7 +446,7 @@
           "description": "Monday’s redemptions point to “short-term positioning” after the Fed’s rate cut—while flows could swing again on Friday’s PCE data.",
           "link": "https://decrypt.co/340869/bitcoin-and-ethereum-etfs-bleed-439m-as-options-traders-brace-for-more-downside",
           "publishedOn": "2025-09-23T11:10:15.000Z",
-          "wordCount": 9401,
+          "wordCount": 9407,
           "title": "Bitcoin and Ethereum ETFs Bleed $439M as Options Traders Brace for More Downside",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/etf-decrypt-style-02-gID_7.png@png",
@@ -426,27 +456,12 @@
           "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/etf-decrypt-style-02-gID_7.png@png"
         },
         {
-          "id": "https://decrypt.co/?p=340855",
-          "author": "Vince Dioquino",
-          "description": "The reported pause on RWA tokenization shows Beijing’s risk concerns, even as Hong Kong accelerates its digital-asset ambitions.",
-          "link": "https://decrypt.co/340855/china-presses-brokers-to-halt-real-world-asset-tokenization-in-hong-kong-report",
-          "publishedOn": "2025-09-23T09:51:45.000Z",
-          "wordCount": 10049,
-          "title": "China Presses Brokers to Halt Real-World Asset Tokenization in Hong Kong: Report",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/hong-kong-decrypt-style-02-gID_7.jpg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/hong-kong-decrypt-style-02-gID_7.jpg@png"
-        },
-        {
           "id": "https://decrypt.co/videos/interviews/UK27KwSF/crypto-falls-stocks-hit-another-ath-sol-defi-coins-soar",
           "author": null,
           "description": "AVAX & NEAR lead L1s, most alts fall. XRP, DOGE ETF debut, $50m day 1 combined volume. MetaMask token coming ‘very soon’. Michigan BTC bill moves forward after delay. Brera Holdings launches $300m SOL DAT. ETH Fusaka upgrade scheduled for December. Plasma TGE set for 25 September. Circle facing intense competition: JP Morgan. PYUSD expands to Tron, Aave and other blockchains. Avantis adds top tech stocks on chain, allows 25x lev. ASTER keeps rising, hits $3.8n FDV. ASTER hits $310m spot volume on TGE launch. BTC trading firm CEO pleads guilty to $200m ponzi. Canada seizes $40m crypto from TradeOgre.",
           "link": "https://decrypt.co/videos/interviews/UK27KwSF/crypto-falls-stocks-hit-another-ath-sol-defi-coins-soar",
           "publishedOn": "2025-09-19T15:29:58.000Z",
-          "wordCount": 6298,
+          "wordCount": 6675,
           "title": "CRYPTO FALLS, STOCKS HIT ANOTHER ATH, SOL DEFI COINS SOAR",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/UK27KwSF/poster.jpg",
@@ -476,7 +491,7 @@
           "description": "BTC taps $117k, BNB leads L1s ahead of Fed decision. Whale moves $116m BTC after 11-year dormancy. Binance nears deal to end DoJ compliance monitor. CZ updates X profile, sparks Binance return rumours. 67% fund managers don’t hold crypto: BofA survey. Crypto execs set to meet senate banking committee. New crypto PAC launches with $100m war chest. US, UK to collab on crypto initiatives. Sharplink announces 1m shares repurchased. ETH devs open Fusaka to $2m security audit contest. Ether Machine files to go public via Dynamix merger. Sharps to collab with Bonk to stake portion of its SOL. Circle launches USDC natively on Hyperliquid. Bitwise files for ETF focused on tokenization, stablecoins. Keyrock acquires Turing Capital. Google launches AI agent-to-agent payments protocol.",
           "link": "https://decrypt.co/videos/interviews/DTKH2Ice/fed-decision-today-cz-may-be-returning-creator-coins-head-south",
           "publishedOn": "2025-09-17T15:19:57.000Z",
-          "wordCount": 6414,
+          "wordCount": 6791,
           "title": "FED DECISION TODAY, CZ MAY BE RETURNING, CREATOR COINS HEAD SOUTH",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/DTKH2Ice/poster.jpg",
@@ -491,7 +506,7 @@
           "description": "Crypto reverses weekend strength, FOMC this week. BTC ETF inflows hit $2.3b last week. Gemini stock soars on IPO. Atkins scraps SEC’s crypto enforcement agenda. Tether launches USA₮ stablecoin, Bo Hines as CEO. Monero rallies despite being hit by 18 block reorg. Allied Gaming establishes DAT. Galaxy Digital buys $300m SOL. Native Markets wins USDH bid. Ethereum Foundation releases privacy roadmap. AI run crypto governance is a bad idea: Vitalik. ETH stablecoin supply hits ATH $166b. BoE plans to restrict stablecoin ownership in UK. LSE completes first blockchain powered fund raising. Pakistan invites crypto firms to apply for license. Yala’s YU stablecoin fails to restore peg after attack. Shibarium Bridge hacked for $2.4m. Polymarket weighs financing at $9-10b valuation. Polkadot to tighten tokenomics, capping DOT supply.",
           "link": "https://decrypt.co/videos/interviews/I8sYxriB/pump-overtakes-hyperliquid-galaxy-digital-buys-300m-sol-fomc-this-week",
           "publishedOn": "2025-09-15T16:08:22.000Z",
-          "wordCount": 6434,
+          "wordCount": 6811,
           "title": "PUMP OVERTAKES HYPERLIQUID, GALAXY DIGITAL BUYS $300M SOL, FOMC THIS WEEK",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/I8sYxriB/poster.jpg",
@@ -536,7 +551,7 @@
           "description": "Chainlink co-founder Sergey Nazarov discusses his company’s recent partnerships and engagements with the White House, SEC, and Commerce Department, and the role Chainlink may soon play in bringing Wall Street, the federal government, and even voting on-chain.",
           "link": "https://decrypt.co/videos/interviews/E6oeklLk/chainlink-co-founder-teases-future-collabs-with-trump-admin",
           "publishedOn": "2025-09-10T12:41:11.000Z",
-          "wordCount": 5971,
+          "wordCount": 6348,
           "title": "Chainlink Co-Founder Teases Future Collabs with Trump Admin",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/E6oeklLk/poster.jpg",
@@ -551,7 +566,7 @@
           "description": "Crypto continues to edge higher, alts outperform. NASDAQ files with SEC for tokenisation of stocks. HYPE $55, hits ATH amid native stablecoin proposals. Ledger CTO sounds alarm after supply-chain attack. SwissBorg suffers $40m hack. Russia accuses the US of weaponising stablecoins. Congress seeks report on details of BTC reserve. SEC Crypto task force discusses crypto x AI. Strategy buys $217m BTC. WLD +40% as Eightco raises $250m for treasury. Ant Digital puts $8.4b energy assets on blockchain. MegaETH launches USDm stablecoin with Ethena. Justin Sun backed stablecoin launches on Ethereum. CoinShares to move listing to US exchange. Ripple extends crypto partnership with BBVA. Kazakhstan announces National Crypto Fund",
           "link": "https://decrypt.co/videos/interviews/K8SHNrqr/sol-goes-higher-higher-rate-cuts-more-likely-hype-ath",
           "publishedOn": "2025-09-09T17:25:30.000Z",
-          "wordCount": 6338,
+          "wordCount": 6715,
           "title": "SOL GOES HIGHER, HIGHER RATE CUTS MORE LIKELY, $HYPE ATH",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/K8SHNrqr/poster.jpg",
@@ -566,7 +581,7 @@
           "description": "Crypto continues to edge higher, alts outperform. NASDAQ files with SEC for tokenisation of stocks. HYPE $55, hits ATH amid native stablecoin proposals. Ledger CTO sounds alarm after supply-chain attack. SwissBorg suffers $40m hack. Russia accuses the US of weaponising stablecoins. Congress seeks report on details of BTC reserve. SEC Crypto task force discusses crypto x AI. Strategy buys $217m BTC. WLD +40% as Eightco raises $250m for treasury. Ant Digital puts $8.4b energy assets on blockchain. MegaETH launches USDm stablecoin with Ethena. Justin Sun backed stablecoin launches on Ethereum. CoinShares to move listing to US exchange. Ripple extends crypto partnership with BBVA. Kazakhstan announces National Crypto Fund",
           "link": "https://decrypt.co/videos/interviews/Cuzrcjpn/hype-hits-ath-nasdaq-wants-stock-tokenisation-wld-soars",
           "publishedOn": "2025-09-09T16:13:20.000Z",
-          "wordCount": 6332,
+          "wordCount": 6709,
           "title": "HYPE HITS ATH, NASDAQ WANTS STOCK TOKENISATION, WLD SOARS",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/Cuzrcjpn/poster.jpg",
@@ -596,7 +611,7 @@
           "description": "BTC holds $110k support, sentiment back to neutral. Robinhood to join S&P 500, Strategy misses out. Whales sold $12.7b BTC over past month. Companies currently buying 1755 BTC per day. SOL gets new treasury vehicle with $1.65bn cash. ETH ETFs saw 2nd largest daily outflow ever. Crypto bill proposes SEC-CFTC crypto committee. SEC, CFTC seek to ‘harmonize’ on DeFi. HYPE nears ATH, Paxos, Frax, Agora bid for stablecoin. StablecoinX secures $890m to buy ENA. We didn’t sell BTC to buy gold: Tether CEO. Metaplanet buys $15.2m BTC. ETH revenue dropped 44% in August. BTC network mining difficulty at ATH. SUI Group buys 20m SUI. Trump family earned $1.3b from WLFI, American Bitcoin. SOL Strategies to uplist shares to Nasdaq. Cardone sold Miami mansion for 400 BTC.",
           "link": "https://decrypt.co/videos/interviews/z4jTlMkG/btc-holds-support-majors-all-up-pump-40-in-a-week",
           "publishedOn": "2025-09-08T16:02:39.000Z",
-          "wordCount": 6434,
+          "wordCount": 6811,
           "title": "BTC HOLDS SUPPORT, MAJORS ALL UP, PUMP +40% IN A WEEK",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/z4jTlMkG/poster.jpg",
@@ -641,7 +656,7 @@
           "description": "SOL begins to outperform again in majors, nears $210. SEC, CFTC give guidance for crypto adoption. Strategy buys $449m BTC. Metaplanet to raise $3.8b pref stocks to buy BTC. BMNR buys 17k more ETH, 39k ETH in last week. ETHZilla to deploy $100m in ETH with EtherFi. ETH Foundation to sell 10k ETH. ETH staking entry queue hits two-year high. CEA buys $33m BNB. Figure Tech to raise $526m in IPO, Gemini up to $361m. SmartGold rolls out $1.6b tokenized gold for US IRAs. Coinbase to launch Mag7 + Crypto index futures. HK’s Fosun tokenizes $328m of stocks. ONDO leads alts, announces 100+ tokenised stocks.",
           "link": "https://decrypt.co/videos/interviews/t3Oi6Yxs/sol-leads-sec-speaks-on-crypto-guidance-tokenised-rwas-heat-up",
           "publishedOn": "2025-09-03T17:47:49.000Z",
-          "wordCount": 6329,
+          "wordCount": 6706,
           "title": "SOL LEADS, SEC SPEAKS ON CRYPTO GUIDANCE, TOKENISED RWAS HEAT UP",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/t3Oi6Yxs/poster.jpg",
@@ -671,7 +686,7 @@
           "description": "BTC hovers around $110k despite gold ATH. BTC whale continues to move to ETH. WLFI launches at $25bn, to buyback coin with revenue. HYPE hits ATH for monthly fees at $100m. TRON cuts network fees 60%. Metaplanet buys $112m BTC. Devs intro mechanism to tokenize burned ETH. Sonic Labs passes $150m proposal for US expansion. Chinese SOE issues first RWA digital bond on ETH. Coinbase, OKX target share of Aussie pension system.",
           "link": "https://decrypt.co/videos/interviews/IW0wq8tZ/wlfi-launches-at-25bn-btc-hovers-at-110k-pump-outperforms",
           "publishedOn": "2025-09-02T16:03:25.000Z",
-          "wordCount": 6158,
+          "wordCount": 6535,
           "title": "WLFI LAUNCHES AT $25BN, BTC HOVERS AT $110K, PUMP OUTPERFORMS",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/IW0wq8tZ/poster.jpg",
@@ -701,7 +716,7 @@
           "description": "SOL continues to lead majors, at key resistance. CRO up 50% after Trump Media partnership. Aave launches horizon RWA platform. CFTC to use NASDAQ surveillance system for crypto. Circle & Tether mint $1.25b more stables. Jupiter launches lending protocol.",
           "link": "https://decrypt.co/videos/interviews/PRUYO61s/sol-strong-nvidia-earnings-mixed-cro-up-50-on-trump-deal",
           "publishedOn": "2025-08-28T15:17:28.000Z",
-          "wordCount": 5999,
+          "wordCount": 6376,
           "title": "SOL STRONG, NVIDIA EARNINGS MIXED, CRO UP 50% ON TRUMP DEAL",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/PRUYO61s/poster.jpg",
@@ -724,21 +739,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.jwplayer.com/v2/media/89uxiaBe/poster.jpg"
-        },
-        {
-          "id": "https://decrypt.co/videos/interviews/MoShH6CA/sol-leads-majors-higher-hype-hits-ath-xpl-short-squeeze",
-          "author": null,
-          "description": "SOL leads bounce back in crypto majors. HYPE hits $50, trading volume flips Robinhood. KindlyMD to raise $5bn equity to buy BTC. Sharplink bought $252m ETH. US economic data to be published onchain. 82% of US investors don’t yet own crypto. Trump Media, Cryptocom launches $1b CRO DAT. MetaMask introduces social login feature. BTC 2-week bollinger bands at tightest ever. Google Cloud launches L-1 blockchain. Pham to leader of CFTC, Johnson leaves. LBank, WLFI collab to launch USD1 points program. Trump Jr. invests in Polymarket. Mastercard expands Circle collab to EEMEA. Thailand taps KuCoin for tokenised bond program. Crypto going mainstream in Venezuela.",
-          "link": "https://decrypt.co/videos/interviews/MoShH6CA/sol-leads-majors-higher-hype-hits-ath-xpl-short-squeeze",
-          "publishedOn": "2025-08-27T15:30:35.000Z",
-          "wordCount": 6307,
-          "title": "SOL LEADS MAJORS HIGHER, HYPE HITS ATH, XPL SHORT-SQUEEZE",
-          "enclosure": {
-            "url": "https://cdn.jwplayer.com/v2/media/MoShH6CA/poster.jpg",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.jwplayer.com/v2/media/MoShH6CA/poster.jpg"
         }
       ]
     },
@@ -748,204 +748,204 @@
       "siteUrl": "https://cryptopanic.com/",
       "articles": [
         {
-          "id": "https://cryptopanic.com/news/25609761/Franklin-Templeton-Taps-BNB-Chain-for-BENJI-Expansion-After-Binance-Team-Up",
+          "id": "https://cryptopanic.com/news/25611313/Solana-Whale-DeFi-Development-Unleashes-Massive-100M-Stock-Buyback-More-SOL-Buys",
           "author": null,
-          "description": "Franklin Templeton’s tokenized money market fund was worth $742 million on Wednesday.",
-          "link": "https://cryptopanic.com/news/25609761/Franklin-Templeton-Taps-BNB-Chain-for-BENJI-Expansion-After-Binance-Team-Up",
-          "publishedOn": "2025-09-24T15:18:47.000Z",
-          "wordCount": 518,
-          "title": "Franklin Templeton Taps BNB Chain for BENJI Expansion After Binance Team-Up",
-          "imageUrl": "https://cdn.decrypt.co/wp-content/uploads/2025/09/Binance-BNB-BSC-DecryptStyle-1-scaled-gID_7.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/25609762/Could-Ripple-XRP-Hit-New-All-Time-Highs-Wave-3-Setup-Suggests-So",
-          "author": null,
-          "description": "Wave 3 setup emerges as XRP's consolidation ends, which could launch the asset toward new all-time highs.",
-          "link": "https://cryptopanic.com/news/25609762/Could-Ripple-XRP-Hit-New-All-Time-Highs-Wave-3-Setup-Suggests-So",
-          "publishedOn": "2025-09-24T15:16:44.000Z",
-          "wordCount": 519,
-          "title": "Could Ripple (XRP) Hit New All-Time Highs? Wave 3 Setup Suggests So",
-          "imageUrl": "https://cryptopotato.com/wp-content/uploads/2023/10/xrp_bull_cb2.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/25609581/Can-The-Money-Printing-SUPERCYCLE-Send-Bitcoin-to-1M-by-2028-EP-1339",
-          "author": null,
-          "description": "The money printer has been silently turned on - how high will this send bitcoin?! ╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗ ║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ ╠╗║╚╝║║╠╗║╚╣║║║║║═╣ ╚═╩══╩═╩═╩═╩╝╚╩═╩═╝ ✓ SUBSCRIBE TO SIMPLY BITCOIN - https://bit. ly/3QbgqTQ ✓ LEAVE A LIKE & COMMENT LEAD SPONSOR 💰Bitcoin Well: https://bitcoinwell....",
-          "link": "https://cryptopanic.com/news/25609581/Can-The-Money-Printing-SUPERCYCLE-Send-Bitcoin-to-1M-by-2028-EP-1339",
-          "publishedOn": "2025-09-24T15:15:25.000Z",
-          "wordCount": 521,
-          "title": "Can The Money Printing SUPERCYCLE Send Bitcoin to $1M by 2028?! | EP 1339",
-          "imageUrl": "https://i3.ytimg.com/vi/fJNEAtVul68/hqdefault.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/25609356/USDH-Stablecoin-Goes-Live-on-Hyperliquid-with-22M-Early-Trading-Volume-Can-it-Replace-Tether",
-          "author": null,
-          "description": "Hyperliquid's native stablecoin USDH launched on September 23 with $2. 2 million in early trading volume following Native Markets' victory in a competitive governance vote that saw the startup defeat established players including Paxos and Ethena Labs.",
-          "link": "https://cryptopanic.com/news/25609356/USDH-Stablecoin-Goes-Live-on-Hyperliquid-with-22M-Early-Trading-Volume-Can-it-Replace-Tether",
-          "publishedOn": "2025-09-24T15:08:36.000Z",
-          "wordCount": 523,
-          "title": "USDH Stablecoin Goes Live on Hyperliquid with $2.2M Early Trading Volume – Can it Replace Tether?",
+          "description": "DeFi Development Corp, the first publicly listed company structured around a Solana-based treasury strategy, has expanded its share repurchase program to $100 million, marking one of the largest stock buyback initiatives in the digital asset sector. The company announced on Wednesday that its...",
+          "link": "https://cryptopanic.com/news/25611313/Solana-Whale-DeFi-Development-Unleashes-Massive-100M-Stock-Buyback-More-SOL-Buys",
+          "publishedOn": "2025-09-24T16:16:56.000Z",
+          "wordCount": 520,
+          "title": "Solana Whale DeFi Development Unleashes Massive $100M Stock Buyback – More SOL Buys?",
           "imageUrl": "https://cryptonews.com/wp-content/uploads/2023/11/1.jpg"
         },
         {
-          "id": "https://cryptopanic.com/news/25608461/Ethereum-Treasuries-Seen-as-Gateway-for-Traditional-Assets-Says-SharpLink",
+          "id": "https://cryptopanic.com/news/25611314/DeFi-Development-Corp-Stock-Rises-as-Solana-Firm-Boosts-Buyback-Plan-to-100-Million",
           "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/25608461/Ethereum-Treasuries-Seen-as-Gateway-for-Traditional-Assets-Says-SharpLink",
-          "publishedOn": "2025-09-24T15:00:24.000Z",
-          "wordCount": null,
-          "title": "Ethereum Treasuries Seen as Gateway for Traditional Assets, Says SharpLink",
-          "imageUrl": null
+          "description": "Solana treasury firm DeFi Development Corp. saw shares pop after announcing it was increasing its share repurchase program to $100 million.",
+          "link": "https://cryptopanic.com/news/25611314/DeFi-Development-Corp-Stock-Rises-as-Solana-Firm-Boosts-Buyback-Plan-to-100-Million",
+          "publishedOn": "2025-09-24T16:15:55.000Z",
+          "wordCount": 521,
+          "title": "DeFi Development Corp. Stock Rises as Solana Firm Boosts Buyback Plan to $100 Million",
+          "imageUrl": "https://cdn.decrypt.co/wp-content/uploads/2025/05/solana-decrypt-style-03-gID_7.png"
         },
         {
-          "id": "https://cryptopanic.com/news/25608454/From-FUD-to-FOMO-How-FTX-traders-reacted-to-SBFs-gm-tweet",
+          "id": "https://cryptopanic.com/news/25610996/ASTER-ex-APX-explodes-after-airdrop-BNB-Chain-support-and-CZ-boost",
           "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/25608454/From-FUD-to-FOMO-How-FTX-traders-reacted-to-SBFs-gm-tweet",
-          "publishedOn": "2025-09-24T15:00:22.000Z",
-          "wordCount": null,
-          "title": "From FUD to FOMO: How FTX traders reacted to SBF’s ‘gm’ tweet",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/25608494/ASTER-Pushes-To-New-All-Time-High-As-Bullish-Structure-Supports-Continuation-Details",
-          "author": null,
-          "description": "Aster has been making waves across the crypto market after reaching a fresh all-time high of $2. 34 just hours ago. Since its launch on September 17, the token has surged by more than 6,000%, an extraordinary move that has captured the attention of traders and investors worldwide. The explosive...",
-          "link": "https://cryptopanic.com/news/25608494/ASTER-Pushes-To-New-All-Time-High-As-Bullish-Structure-Supports-Continuation-Details",
-          "publishedOn": "2025-09-24T15:00:22.000Z",
-          "wordCount": 520,
-          "title": "ASTER Pushes To New All-Time High As Bullish Structure Supports Continuation – Details",
-          "imageUrl": "https://www.newsbtc.com/wp-content/uploads/2025/09/Untitled-design-2025-09-24T062119.258.jpg?fit=750%2C429"
-        },
-        {
-          "id": "https://cryptopanic.com/news/25608474/Eric-Balchunas-hails-ETFs-above-crypto-tokens",
-          "author": null,
-          "description": "Senior ETF Analyst for Bloomberg, Eric Balchunas, has touted crypto exchange-traded funds and called them “tokens with benefits,” because they have “everything crypto tokens offer. ” Balchunas was responding to an X post comment from USDM stablecoin business development lead James Meidinger on...",
-          "link": "https://cryptopanic.com/news/25608474/Eric-Balchunas-hails-ETFs-above-crypto-tokens",
-          "publishedOn": "2025-09-24T14:56:07.000Z",
-          "wordCount": 514,
-          "title": "Eric Balchunas hails ETFs above crypto tokens",
-          "imageUrl": "https://www.cryptopolitan.com/wp-content/uploads/2025/09/image_2025-09-24_085357266.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/25608509/Ethereum-reclaims-USDT-lead-with-80-billion-supply-surpassing-Tron",
-          "author": null,
-          "description": "The USDT supply redistribution reflects evolving user preferences, particularly as traditional finance increasingly adopts stablecoin rails.",
-          "link": "https://cryptopanic.com/news/25608509/Ethereum-reclaims-USDT-lead-with-80-billion-supply-surpassing-Tron",
-          "publishedOn": "2025-09-24T14:56:02.000Z",
-          "wordCount": 517,
-          "title": "Ethereum reclaims USDT lead with $80 billion supply, surpassing Tron",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2024/04/20240429_Tether_News_3-800x450.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/25608453/Japans-Crypto-Market-Surges-120-as-Stablecoins-Take-Over",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/25608453/Japans-Crypto-Market-Surges-120-as-Stablecoins-Take-Over",
-          "publishedOn": "2025-09-24T14:55:12.000Z",
-          "wordCount": null,
-          "title": "Japan’s Crypto Market Surges 120% as Stablecoins Take Over",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/25608696/How-Paxos-USDH-stablecoin-could-spark-Hyperliquids-biggest-breakout-yet",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/25608696/How-Paxos-USDH-stablecoin-could-spark-Hyperliquids-biggest-breakout-yet",
-          "publishedOn": "2025-09-24T14:55:00.000Z",
-          "wordCount": null,
-          "title": "How Paxos’ USDH stablecoin could spark Hyperliquid’s biggest breakout yet",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/25609015/Flare-Network-launches-FAssets-with-FXRP-to-bring-XRP-into-DeFi",
-          "author": null,
-          "description": "Flare Network launches FAssets with FXRP to bring XRP into DeFi",
-          "link": "https://cryptopanic.com/news/25609015/Flare-Network-launches-FAssets-with-FXRP-to-bring-XRP-into-DeFi",
-          "publishedOn": "2025-09-24T14:54:29.000Z",
+          "description": "The ASTER token, formerly APX, rose over 300% thanks to a 704M airdrop, BNB Chain's support and CZ's signal. Here's what's happening.",
+          "link": "https://cryptopanic.com/news/25610996/ASTER-ex-APX-explodes-after-airdrop-BNB-Chain-support-and-CZ-boost",
+          "publishedOn": "2025-09-24T16:10:14.000Z",
           "wordCount": 518,
-          "title": "Flare Network launches FAssets with FXRP to bring XRP into DeFi",
-          "imageUrl": "https://blockworks.co/images/meta-logo.png"
+          "title": "ASTER (ex-APX) explodes after airdrop, BNB Chain support and CZ boost",
+          "imageUrl": "https://www.spaziocrypto.com/content/images/2025/09/ASTER--ex-APX--esplode-dopo-l---airdrop--il-supporto-di-BNB-Chain-e-il-boost-di-CZ.webp"
         },
         {
-          "id": "https://cryptopanic.com/news/25608446/Fitell-Launches-100M-Solana-Treasury-as-Stock-Falls-Over-17",
+          "id": "https://cryptopanic.com/news/25610799/Aster-can-flip-HYPE-by-market-cap-and-rally-another-480-Analyst",
           "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/25608446/Fitell-Launches-100M-Solana-Treasury-as-Stock-Falls-Over-17",
-          "publishedOn": "2025-09-24T14:54:07.000Z",
-          "wordCount": null,
-          "title": "Fitell Launches $100M Solana Treasury as Stock Falls Over 17%",
-          "imageUrl": null
+          "description": "Whales rotated heavily into ASTER and dumped HYPE as smart money bets on a shift toward the new DEX token associated with Binance's CZ.",
+          "link": "https://cryptopanic.com/news/25610799/Aster-can-flip-HYPE-by-market-cap-and-rally-another-480-Analyst",
+          "publishedOn": "2025-09-24T16:07:55.000Z",
+          "wordCount": 519,
+          "title": "Aster can flip HYPE by market cap and rally another 480%: Analyst",
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5OGUwNWMtZjllMC03YzRhLTkzMDYtNGY3NzA0NzIzYTcx.jpg"
         },
         {
-          "id": "https://cryptopanic.com/news/25608444/CFTC-Launches-Initiative-to-Allow-Tokenized-Collateral-in-Derivatives-Markets",
+          "id": "https://cryptopanic.com/news/25610426/Ethereum-Supercycle-Ahead-Why-Wall-Street-and-AI-Could-Push-ETH-Beyond-Historic-Cycles",
           "author": null,
-          "description": "Acting CFTC Chairman Caroline Pham said stablecoins and other digital assets could usher in \"America's Golden Age of Crypto. \"",
-          "link": "https://cryptopanic.com/news/25608444/CFTC-Launches-Initiative-to-Allow-Tokenized-Collateral-in-Derivatives-Markets",
-          "publishedOn": "2025-09-24T14:50:45.000Z",
-          "wordCount": 517,
-          "title": "CFTC Launches Initiative to Allow Tokenized Collateral in Derivatives Markets",
-          "imageUrl": "https://cdn.decrypt.co/wp-content/uploads/2025/05/cftc-decrypt-style-01-gID_7.jpg"
+          "description": "Could we be on the brink of an Ethereum supercycle? There are strong indications that both Wall Street's increasing involvement in cryptocurrency markets and the rapidly evolving role of artificial intelligence might propel Ethereum (ETH) beyond its previous historic price cycles. This potential...",
+          "link": "https://cryptopanic.com/news/25610426/Ethereum-Supercycle-Ahead-Why-Wall-Street-and-AI-Could-Push-ETH-Beyond-Historic-Cycles",
+          "publishedOn": "2025-09-24T16:06:12.000Z",
+          "wordCount": 521,
+          "title": "Ethereum Supercycle Ahead? Why Wall Street and AI Could Push ETH Beyond Historic Cycles",
+          "imageUrl": "https://blocknews.com/wp-content/uploads/2025/03/Blocknewssocialsbanner.png"
         },
         {
-          "id": "https://cryptopanic.com/news/25608447/BlackRock-is-now-making-218-MILLION-per-year-from-its-Bitcoin-ETF-Wall-Street-is-cashing-in-on-Bitcoin",
+          "id": "https://cryptopanic.com/news/25610731/LAC-Stock-Jumps-100-as-Trump-Administration-Targets-Stake-in-Canadian-Miner",
           "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/25608447/BlackRock-is-now-making-218-MILLION-per-year-from-its-Bitcoin-ETF-Wall-Street-is-cashing-in-on-Bitcoin",
-          "publishedOn": "2025-09-24T14:48:38.000Z",
-          "wordCount": 526,
-          "title": "BlackRock is now making $218 MILLION per year from its Bitcoin ETF.\n\nWall Street is cashing in on Bitcoin",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/25608691/The-127-Billion-Secret-How-a-Crypto-Company-Became-Americas-18th-Largest-Government-Debt-Holder",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/25608691/The-127-Billion-Secret-How-a-Crypto-Company-Became-Americas-18th-Largest-Government-Debt-Holder",
-          "publishedOn": "2025-09-24T14:47:26.000Z",
-          "wordCount": null,
-          "title": "The $127 Billion Secret: How a Crypto Company Became America's 18th-Largest Government Debt Holder",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/25608727/Vivek-Ramaswamys-crypto-stock-crashes-after-billion-dollar-deal",
-          "author": null,
-          "description": "Strive shares tumble over 10% as investors weigh dilution risks and merger concerns with Semler Scientific.",
-          "link": "https://cryptopanic.com/news/25608727/Vivek-Ramaswamys-crypto-stock-crashes-after-billion-dollar-deal",
-          "publishedOn": "2025-09-24T14:47:09.000Z",
-          "wordCount": 516,
-          "title": "Vivek Ramaswamy's crypto stock crashes after billion dollar deal",
-          "imageUrl": "https://www.thestreet.com/.image/c_fit%2Ch_800%2Cw_1200/MjE3OTgwMjk2ODIwMTcyNjM2/gettyimages-2201233561.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/25608418/XRP-Whales-Load-Up-30M-as-Ripple-Joins-CFTCs-Crypto-Sprint",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/25608418/XRP-Whales-Load-Up-30M-as-Ripple-Joins-CFTCs-Crypto-Sprint",
-          "publishedOn": "2025-09-24T14:46:05.000Z",
-          "wordCount": null,
-          "title": "XRP Whales Load Up 30M as Ripple Joins CFTC’s Crypto Sprint",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/25608423/XRP-enters-DeFi-as-Flare-launches-FXRP-on-mainnet",
-          "author": null,
-          "description": "Flare has launched FAssets on its mainnet, beginning with FXRP v1.",
-          "link": "https://cryptopanic.com/news/25608423/XRP-enters-DeFi-as-Flare-launches-FXRP-on-mainnet",
-          "publishedOn": "2025-09-24T14:45:52.000Z",
-          "wordCount": 516,
-          "title": "XRP enters DeFi as Flare launches FXRP on mainnet",
-          "imageUrl": "https://assets.finbold.com/uploads/2024/01/Finbold-768x432-1.jpeg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/25608434/Why-IAS-Shares-Are-Surging-Today-Novacap-Acquisition-Agreement",
-          "author": null,
-          "description": "IAS shares climbed 20% following Novacap’s $1. 9B takeover agreement.",
-          "link": "https://cryptopanic.com/news/25608434/Why-IAS-Shares-Are-Surging-Today-Novacap-Acquisition-Agreement",
-          "publishedOn": "2025-09-24T14:43:10.000Z",
-          "wordCount": 516,
-          "title": "Why IAS Shares Are Surging Today: Novacap Acquisition Agreement",
+          "description": "LAC stock soared 100% on news the Trump administration could take a stake in the company’s Nevada lithium project.",
+          "link": "https://cryptopanic.com/news/25610731/LAC-Stock-Jumps-100-as-Trump-Administration-Targets-Stake-in-Canadian-Miner",
+          "publishedOn": "2025-09-24T16:05:06.000Z",
+          "wordCount": 519,
+          "title": "LAC Stock Jumps 100% as Trump Administration Targets Stake in Canadian Miner",
           "imageUrl": "https://tokenist.com/wp-content/uploads/2022/06/TheTokenist.png"
+        },
+        {
+          "id": "https://cryptopanic.com/news/25610968/Dogecoin-on-Verge-of-Golden-Cross-Flip-Metrics-Soaring",
+          "author": null,
+          "description": "Dogecoin price breakout looming as major golden cross formation is on horizon",
+          "link": "https://cryptopanic.com/news/25610968/Dogecoin-on-Verge-of-Golden-Cross-Flip-Metrics-Soaring",
+          "publishedOn": "2025-09-24T16:03:00.000Z",
+          "wordCount": 516,
+          "title": "Dogecoin on Verge of Golden Cross Flip, Metrics Soaring",
+          "imageUrl": "https://u.today/themes/cryptod/i/og-image.png"
+        },
+        {
+          "id": "https://cryptopanic.com/news/25611428/Bitcoin-vs-CBDCs-Why-Bitcoin-Remains-Your-Choice",
+          "author": null,
+          "description": "Oshins talks about Bitcoin vs. CBDCs: Why Bitcoin Remains Your Choice Brought to you by Bitcoinwell. com a bitcoin-only platform on a mission to enable independence. #bitcoin #bitcoinnews #shortsopen",
+          "link": "https://cryptopanic.com/news/25611428/Bitcoin-vs-CBDCs-Why-Bitcoin-Remains-Your-Choice",
+          "publishedOn": "2025-09-24T16:01:50.000Z",
+          "wordCount": 515,
+          "title": "Bitcoin vs. CBDCs: Why Bitcoin Remains Your Choice",
+          "imageUrl": "https://i1.ytimg.com/vi/tAUSOxq-WqM/hqdefault.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/25611421/THIS-Is-How-To-Sell-Crypto-Without-TAXES-AND-FEES",
+          "author": null,
+          "description": "🚨 FREE NEWSLETTER: https://www. learningcrypto. com/ 👕 SHOP: https://shop. learningcrypto. com 🕊️ SECOND CITIZENSHIPS: https://t. ly/LPQnW 🚀 GRAB 64% OFF PROTON VPN: https://go. getproton. me/SH1Ak 00:00 - Common Problems 01:41 - How to Avoid Problems 03:57 - Taxes #Btc #Bitcoin #Crypto...",
+          "link": "https://cryptopanic.com/news/25611421/THIS-Is-How-To-Sell-Crypto-Without-TAXES-AND-FEES",
+          "publishedOn": "2025-09-24T16:00:53.000Z",
+          "wordCount": 517,
+          "title": "THIS Is How To Sell Crypto Without TAXES AND FEES",
+          "imageUrl": "https://i1.ytimg.com/vi/TMo0eR9rbHA/hqdefault.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/25610059/Stolen-Maryland-Transit-Administration-data-at-auction-for-30-BTC",
+          "author": null,
+          "description": "The stolen Maryland Transit data includes social security numbers, audit reports, legal documents, and attorney-client communications.",
+          "link": "https://cryptopanic.com/news/25610059/Stolen-Maryland-Transit-Administration-data-at-auction-for-30-BTC",
+          "publishedOn": "2025-09-24T16:00:51.000Z",
+          "wordCount": 517,
+          "title": "Stolen Maryland Transit Administration data at auction for 30 BTC",
+          "imageUrl": "https://protos-media.s3.eu-west-2.amazonaws.com/wp-content/uploads/2023/11/30143843/Most_Trusted_320x50.png"
+        },
+        {
+          "id": "https://cryptopanic.com/news/25610015/Binance-Freezes-Funds-as-Seedify-Falls-Victim-to-Major-Bridge-Exploit",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/25610015/Binance-Freezes-Funds-as-Seedify-Falls-Victim-to-Major-Bridge-Exploit",
+          "publishedOn": "2025-09-24T16:00:26.000Z",
+          "wordCount": null,
+          "title": "Binance Freezes Funds as Seedify Falls Victim to Major Bridge Exploit",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/25610010/Can-Cardano-defend-THIS-key-support-after-69-mln-whale-move",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/25610010/Can-Cardano-defend-THIS-key-support-after-69-mln-whale-move",
+          "publishedOn": "2025-09-24T16:00:11.000Z",
+          "wordCount": null,
+          "title": "Can Cardano defend THIS key support after 69 mln whale move?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/25611073/Cardano-Foundation-pledges-major-ADA-funding-to-back-stablecoin-ecosystem",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/25611073/Cardano-Foundation-pledges-major-ADA-funding-to-back-stablecoin-ecosystem",
+          "publishedOn": "2025-09-24T15:59:16.000Z",
+          "wordCount": null,
+          "title": "Cardano Foundation pledges major ADA funding to back stablecoin ecosystem",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/25610009/Coinbase-leads-146-million-round-in-Bastion-as-firm-leans-into-stablecoin-infrastructure",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/25610009/Coinbase-leads-146-million-round-in-Bastion-as-firm-leans-into-stablecoin-infrastructure",
+          "publishedOn": "2025-09-24T15:56:14.000Z",
+          "wordCount": null,
+          "title": "Coinbase leads $14.6 million round in Bastion as firm leans into stablecoin infrastructure",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/25610004/SBF-shares-his-contact-details-as-FTX-investors-targeted-with-another-scam",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/25610004/SBF-shares-his-contact-details-as-FTX-investors-targeted-with-another-scam",
+          "publishedOn": "2025-09-24T15:52:56.000Z",
+          "wordCount": null,
+          "title": "SBF shares his contact details as FTX investors targeted with another scam",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/25610008/GSRs-new-ETF-proposal-eyes-digital-asset-treasuries-amid-growing-popularity",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/25610008/GSRs-new-ETF-proposal-eyes-digital-asset-treasuries-amid-growing-popularity",
+          "publishedOn": "2025-09-24T15:51:58.000Z",
+          "wordCount": null,
+          "title": "GSR’s new ETF proposal eyes digital asset treasuries amid growing popularity",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/25610035/TRON-takes-the-lead-on-USDT-transfers-network-activity-surges",
+          "author": null,
+          "description": "TRON achieved a record day of TRX transfers in early September, while posting a higher baseline for token and stablecoin transactions in all of 2025 to date.",
+          "link": "https://cryptopanic.com/news/25610035/TRON-takes-the-lead-on-USDT-transfers-network-activity-surges",
+          "publishedOn": "2025-09-24T15:50:50.000Z",
+          "wordCount": 517,
+          "title": "TRON takes the lead on USDT transfers, network activity surges",
+          "imageUrl": "https://www.cryptopolitan.com/wp-content/uploads/2025/09/TRON-takes-the-lead-on-USDT-transfers-network-activity-surges.webp"
+        },
+        {
+          "id": "https://cryptopanic.com/news/25610413/Solana-SOL-sets-new-milestone-as-tokenized-assets-value-hits-671M-all-time-high",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/25610413/Solana-SOL-sets-new-milestone-as-tokenized-assets-value-hits-671M-all-time-high",
+          "publishedOn": "2025-09-24T15:49:37.000Z",
+          "wordCount": null,
+          "title": "Solana (SOL) sets new milestone as tokenized assets value hits $671M all-time high",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/25609999/UK-Firm-B-HODL-Snaps-Up-113M-in-Bitcoin-to-Kick-Off-Treasury-Bet",
+          "author": null,
+          "description": "B HODL Plc has acquired 100 Bitcoin valued at $11. 3 million to begin its Bitcoin treasury strategy, ranking among the worldwide top 100 public firms holding the cryptocurrency after its recent stock exchange debut.",
+          "link": "https://cryptopanic.com/news/25609999/UK-Firm-B-HODL-Snaps-Up-113M-in-Bitcoin-to-Kick-Off-Treasury-Bet",
+          "publishedOn": "2025-09-24T15:48:51.000Z",
+          "wordCount": 521,
+          "title": "UK Firm B HODL Snaps Up $11.3M in Bitcoin to Kick Off Treasury Bet",
+          "imageUrl": "https://cryptonews.com/wp-content/uploads/2023/11/1.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/25610033/South-Korean-police-nabs-crypto-investor-who-intended-to-return-embezzled-church-funds",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/25610033/South-Korean-police-nabs-crypto-investor-who-intended-to-return-embezzled-church-funds",
+          "publishedOn": "2025-09-24T15:45:30.000Z",
+          "wordCount": null,
+          "title": "South Korean police nabs crypto investor who ‘intended to return’ embezzled church funds",
+          "imageUrl": null
         }
       ]
     },
@@ -954,6 +954,126 @@
       "feedUrl": "https://www.inoreader.com/stream/user/1005336866/tag/%E6%B5%B7%E5%A4%96%E5%8A%A0%E5%AF%86%E8%B5%84%E8%AE%AF",
       "siteUrl": "https://www.inoreader.com/stream/user/1005336866/tag/%E6%B5%B7%E5%A4%96%E5%8A%A0%E5%AF%86%E8%B5%84%E8%AE%AF/view/html",
       "articles": [
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e7762b15cc1",
+          "author": "Sebastian Villafuerte",
+          "description": "Bitcoin (BTC) is holding above key demand levels after the latest selloff, showing resilience despite a wave of liquidations across the market. While billions were wiped out in leveraged positions, BTC’s price has only dipped by just over 5% from last week’s highs, a relatively modest correction considering the volatility. Investors are closely watching whether Bitcoin can stabilize at these levels, as the broader crypto market adjusts to heightened risk and shifting sentiment.\n \n \nTop analyst Axel Adler highlighted the Quarterly correlation between Bitcoin and Gold as an important background sentiment indicator for current conditions. Gold has been surging strongly, reflecting a clear risk-off move by investors, while BTC has lagged behind in recent sessions. This divergence suggests that…",
+          "link": "https://bitcoinist.com/bitcoin-gold-correlation-points-defensive-market/",
+          "publishedOn": "2025-09-24T16:18:44.000Z",
+          "wordCount": 5974,
+          "title": "Bitcoin-Gold Correlation Points To Defensive Market Sentiment: Risk-Off Signal?",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/jpeg",
+            "url": "https://bitcoinist.com/wp-content/uploads/2025/09/Untitled-design-2025-09-24T052051.627.jpg?fit=640,366"
+          },
+          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2025/09/Untitled-design-2025-09-24T052051.627.jpg?fit=640,366"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e7762b2bd06",
+          "author": "Jamie Redman",
+          "description": "Crypto traders have been locked on a three-coin showdown this week, with ASTER, HYPE, and BNB turning the market into a late-night rollercoaster. Whether it’s breakout fireworks or trapdoor drops, these tokens are serving up the kind of drama that keeps traders glued to the charts. ASTER Blazes to New Highs, But Can the Fire […]",
+          "link": "https://news.bitcoin.com/all-eyes-on-aster-hype-and-bnb-highs-unlocks-burns-shape-market/",
+          "publishedOn": "2025-09-24T16:11:14.000Z",
+          "wordCount": 622,
+          "title": "All Eyes on ASTER, HYPE, and BNB: Highs, Unlocks, and Burns Shape the Market",
+          "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2025/09/3bbbttter.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARQKIT2TMGZBKV2L6%2F20250924%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250924T161357Z&X-Amz-SignedHeaders=host&X-Amz-Expires=600&X-Amz-Signature=ec59c950ffe68977015cc22c180c6cebbef6e8d5f3f99cb7d31c0fadc0eee535"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e7762b38e67",
+          "author": "Jared Kirui",
+          "description": "Singapore’s stablecoin market took a step forward this  \nweek as Coinbase partnered with StraitsX to launch XSGD, the first Singapore  \ndollar-backed stablecoin recognized by the Monetary Authority of Singapore  \n(MAS). \nThe rollout broadens Coinbase’s stablecoin offering  \nand introduces new cross-border payment options for users. Coinbase said that XSGD will be listed on its global platform, with trading reportedly set to  \nopen at 19:00 UTC on 29 September.\nDigital assets meet tradfi in London at the fmls25\nCoinbase and StraitsX Join Forces\nThe stablecoin will be available on both Coinbase and  \nCoinbase Advanced, marking the exchange’s first listing of an SGD-pegged  \ndigital asset.\n“Stablecoins are redefining how payments move across  \nborders. With XSGD live on Coinbase Singapore, we…",
+          "link": "https://www.financemagnates.com/cryptocurrency/coinbase-to-list-first-singapore-dollar-stablecoin-in-collaboration-with-straitsx/",
+          "publishedOn": "2025-09-24T16:06:28.000Z",
+          "wordCount": null,
+          "title": "Coinbase to List First Singapore Dollar Stablecoin in Collaboration with StraitsX",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e7762beb09b",
+          "author": "Bogdan Patru",
+          "description": "Crypto heavyweight Tether is reportedly in early-stage discussions to raise between $15-20B in a private equity round, offering about 3% of its equity.\n \nIf successful, the deal could peg the company’s valuation at nearly $500B, placing it among the world’s most valuable private firms alongside names like OpenAI and SpaceX, and joining elite company at a stroke.\n \nThis would likely raise crypto adoption and investor interest in the industry, creating hype.\n \nIt should be high time you paid attention to the best cryptos to buy (like Bitcoin Hyper) if you don’t want to miss this speeding train.\n \nFundraise Reveals the Scale of Tether’s Ambition\n \nTether’s deal would involve new equity issuance, rather than existing shareholders selling down their stakes, according to the source.\n \nCantor Fit…",
+          "link": "https://bitcoinist.com/best-crypto-to-buy-now-before-tether-goes-public/",
+          "publishedOn": "2025-09-24T15:49:31.000Z",
+          "wordCount": 6179,
+          "title": "Best Crypto to Buy Now Before Tether Goes Public in Potential $500B Raise",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/jpeg",
+            "url": "https://bitcoinist.com/wp-content/uploads/2025/09/best-crypto-to-buy-now-before-tether-goes-public.jpg?fit=630,420"
+          },
+          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2025/09/best-crypto-to-buy-now-before-tether-goes-public.jpg?fit=630,420"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e7762b810ef",
+          "author": "Jamie Redman",
+          "description": "Derivatives desks did the heavy lifting for XRP this week, with futures and options setting the tone while spot hovered near a $2.90 pivot. XRP Derivatives Light up as Calls Crowd $3–$4 and Futures OI Stays Heavy Futures first: total open interest (OI) sits around $7.64 billion across venues, roughly 2.66 billion XRP notionally. Coinglass.com […]",
+          "link": "https://news.bitcoin.com/futures-depth-option-bets-xrp-derivatives-signal-range-with-upside-kicker/",
+          "publishedOn": "2025-09-24T15:41:36.000Z",
+          "wordCount": 602,
+          "title": "Futures Depth, Option Bets: XRP Derivatives Signal Range With Upside Kicker",
+          "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2025/09/roulette-tableroulette-table.png"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e7762b9f101",
+          "author": "Margaux Nijkerk",
+          "description": "Welcome to The Protocol, CoinDesk's weekly wrap of the most important stories in cryptocurrency tech development. I’m Margaux Nijkerk, a reporter at CoinDesk.\nIn this issue:\n\nEthereum Developers Target December for Fusaka Hard For\nPlasma to Launch Mainnet Beta Blockchain for Stablecoins\nXRP Holders Can Now Earn Up to 8% Through New Liquid Staking Token\nInternet Computer Bets Big on AI as Crypto Markets Play Catch-Up\n\nUnknown block type \"divider\", specify a component for it in the `components.types` option\nNetwork News\nFUSAKA COMING THIS DECEMBER: Ethereum core developers have confirmed a tentative roadmap for the network’s next major upgrade, Fusaka, during an All Core Developers Consensus (ACDC) call. The upgrade, designed to further scale the blockchain, is now scheduled for early Decemb…",
+          "link": "https://www.coindesk.com/tech/2025/09/24/the-protocol-ethereum-developers-target-december-for-fusaka-hard-fork",
+          "publishedOn": "2025-09-24T15:30:57.000Z",
+          "wordCount": 10962,
+          "title": "The Protocol: Ethereum Developers Target December for Fusaka Hard Fork",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/*",
+            "url": "https://cdn.sanity.io/images/s3y3vcno/production/4853dd74c80fc2679cc738a259a38b305149f867-3840x2160.png?auto=format&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/4853dd74c80fc2679cc738a259a38b305149f867-3840x2160.png?auto=format&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e7762b9f0fa",
+          "author": "Jamie Crawley",
+          "description": "Binance co-founder Changpeng \"CZ\" Zhao has refuted a report by the Financial Times which said YZi Labs could be opened up to external investors.\nZhao said the Tuesday report was \"false news...with with fake/wrong/made-up info and negative narrative,\" in a post on X. \n\"As far as I know...YZi Labs is not raising an external fund,\" Zhao wrote.\nThe report had said that YZi Labs, which was rebranded from Binance's venture arm Binance Labs at the start of this year, is \"open to the possibility of converting into an investment fund.\"\nZhao also took exception to the report's characterization of Binance's 2023 guilty plea. which led to him stepping down as CEO and spending four months in prison last year, as \"criminal charges related to money laundering.\"\n\"I plead to a single violation of BSA, failure to maintain an adequate ANTI-money laundering program,\" he wrote.\nThe report cited an interview with head of YZi Labs Ella Zhang. Zhang also refuted the report on X. \"The FT headline suggesting YZi Labs plans to raise external LP money is false. We have no such plan,\" she wrote.\nYZi Labs rebranded from Binance Labs after Zhao's release from prison, with the Binance co-founder taking a more active role. YZi Labs is often referred to as Zhao's family office in that it is an investment vehicle for Zhao's money.\nYZi Labs, however says its structure differs from a traditional family office. \"YZi Labs backs high-impact startups driving growth in Web3, AI, and\nbiotech. Family offices’ focus is more on estate planning, tax structuring, and\ngenerational capital preservation,\" it said in emailed fact sheet.",
+          "link": "https://www.coindesk.com/business/2025/09/24/cz-yzi-labs-refute-report-of-opening-usd10b-investment-company-to-external-investors",
+          "publishedOn": "2025-09-24T15:30:57.000Z",
+          "wordCount": 8146,
+          "title": "CZ, YZi Labs Refute Report of Opening $10B Investment Company to External Investors",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/*",
+            "url": "https://cdn.sanity.io/images/s3y3vcno/production/1a4390a402da860cef32ff8f44b40025c6209659-1920x1080.jpg?auto=format&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/1a4390a402da860cef32ff8f44b40025c6209659-1920x1080.jpg?auto=format&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e7762b9f0f6",
+          "author": "James Van Straten",
+          "description": "The price of bitcoin (BTC) remains stuck in the mud and corporate bitcoin treasury firms have gone through a full boom-and-bust cycle in a matter of weeks, but the BTC miners have been in major bull mode thanks to artificial intelligence and high-performance computing as a new growth driver.\nThe action continued on Wednesday, with the sector posting big gains, led by Riot Platforms (RIOT) and IREN (IREN), each ahead about 13%. Hut 8 (HUT), CleanSpark (CLSK) and Bit Digital (BTBT) were up closer to 6%. From the April lows, IREN has been the standout performer, gaining nearly 500%.\nFueling the momentum today is news that OpenAI, Oracle (ORCL), and SoftBank are accelerating their Stargate AI infrastructure program, with five new U.S. data center sites. The expansion will bring nearly 7 gigawatts of planned capacity and over $400 billion in investment, with a goal of reaching 10 gigawatts by the end of 2025, according to Open AI. \n\nThe sheer scale of speculation for AI demand could be entering \"bubble territory\" but AI miners are one of the main beneficiaries of the capital and infrastructure needed to meet those massive energy requirements.\n\nEven traditional pure-play BTC miners like Riot Platforms (RIOT) and CleanSpark (CLSK) are now moving into AI and high-performance computing and their stocks have both benefitted, with RIOT up 85% year-to-date and CLSK ahead 55%. Interestingly, MARA Holdings (MARA) in recent months pivoted to more of a bitcoin treasury play and it's underperforming most of the sector, gaining just 10% in 2025.",
+          "link": "https://www.coindesk.com/markets/2025/09/24/bitcoin-miners-surge-on-speculation-of-openai-driven-energy-demand",
+          "publishedOn": "2025-09-24T15:30:57.000Z",
+          "wordCount": 8317,
+          "title": "Bitcoin Miners Surge on Speculation of OpenAI-Driven Energy Demand",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/*",
+            "url": "https://cdn.sanity.io/images/s3y3vcno/production/f16b79dddae214a3624e21d843527a915af9b4e4-1686x998.png?auto=format&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/f16b79dddae214a3624e21d843527a915af9b4e4-1686x998.png?auto=format&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e7762bba0cc",
+          "author": "Aidan Weeks",
+          "description": "Whales just dropped nearly $100K into Bitcoin Hyper ($HYPER) within two hours today – a $87K buy followed by another $12.7K minutes later. That takes the project’s viral presale haul past $18M, a number that puts it firmly on the radar of both retail speculators and seasoned traders.\n \nWhales don’t usually bother with presales. They tend to park capital in liquid majors like $BTC and $ETH, where they can exit positions quickly. So when big wallets start piling into a presale token, it signals conviction and belief that the upside is too good to ignore.\n \nBitcoin Hyper ($HYPER) is gunning at Bitcoin’s oldest problem: speed and usability. For years, $BTC has been the ultimate store of value, but terrible at actually functioning as a currency. \nSo here’s the question: if Bitcoin is already ki…",
+          "link": "https://bitcoinist.com/bitcoin-hyper-presale-hits-18m-as-whales-buy-100k/",
+          "publishedOn": "2025-09-24T15:21:06.000Z",
+          "wordCount": 6117,
+          "title": "Whales Buy Almost $100K Bitcoin Hyper as Presale Surges Past $18M",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/jpeg",
+            "url": "https://bitcoinist.com/wp-content/uploads/2025/09/bitcoin-hyper-presale-hits-18m-as-whales-buy-100k.png?fit=630,420"
+          },
+          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2025/09/bitcoin-hyper-presale-hits-18m-as-whales-buy-100k.png?fit=630,420"
+        },
         {
           "id": "http://www.inoreader.com/article/3a9c6e7762a564e0",
           "author": "Media",
@@ -970,7 +1090,7 @@
           "description": "IREN (IREN), one of the largest self-operated bitcoin (BTC) miners in the U.S., is breaking away from the pack, and Wall Street is taking notice.\nBernstein analysts raised their price target on IREN to $75 from $20, implying about 80% upside, as the miner doubles down on building its own AI cloud business rather than relying on co-location deals with partners like CoreWeave (CRWV).\nIREN has already had a major move, ahead more than eight-fold from its 52-week low of $5.13 hit in April. The shares are higher by 365% year-over-year.\nThe broker now sees IREN’s AI pivot as credible, despite early skepticism about the miner’s ability to execute on a capital-intensive data center build-out and compete with AI cloud players tied to hyperscalers and Nvidia (NVDA).\nIREN is guiding for rapid growth, the report noted, with $500 million in annual recurring revenue by Q1 2026 on 23,300 GPUs, up from roughly $14 million in Q1 2025.\nBeyond AI, IREN retains flexibility with its 3 gigawatt (GW) power portfolio, balancing bitcoin mining and AI workloads to maximize revenue per megawatt, Bernstein analysts led by Gautam Chhugani wrote.\nIts 50 EH/s mining operation generates an estimated $600 million in annualized EBITDA at current bitcoin prices, funding its AI expansion, according to the analysts.\nBernstein has shifted its valuation approach to a sum-of-parts model, assigning 87% of enterprise value to AI cloud and co-location potential at IREN’s 2GW West Texas site, with the remaining 13% coming from bitcoin mining. \nAt the revised target, IREN would trade at $7.5 million per megawatt (MW), above other AI-focused miners but still far below established data center peers like CoreWeave, suggesting further room for multiple expansion, the report added.\nRead more: IREN Shares Jump 11% in Pre-Market Trading as Bitcoin Miner Doubles AI Cloud Fleet",
           "link": "https://www.coindesk.com/markets/2025/09/24/bitcoin-miner-iren-has-80-potential-upside-thanks-to-big-bet-on-ai-cloud-bernstein",
           "publishedOn": "2025-09-24T15:05:38.000Z",
-          "wordCount": 8367,
+          "wordCount": 8455,
           "title": "Bitcoin Miner IREN Has 80% Potential Upside Thanks to Big Bet on AI Cloud: Bernstein",
           "enclosure": {
             "length": "1337",
@@ -1035,7 +1155,7 @@
           "description": "According to the Crypto Wealth Report 2025 by Henley & Partners, with data from New World Wealth, the number of crypto millionaires worldwide has risen to 241,700 — a 40% increase in 12 months.\n \n \nBitcoin accounts for much of that jump: 145,100 Bitcoin millionaires were recorded, up 70% year-on-year. Reports put the total digital currency market value at $3.3 trillion as of June 2025, up 45% from a year earlier.\n \nBorderless Wealth On The Rise\n \nThis growth is reflected at the very top of the market. There are now 450 centi-millionaires — people with crypto holdings of $100 million or more — up 38% versus last year.\n \nCrypto billionaires rose to 36, an increase of 29%. According to Henley & Partners, these figures are changing how wealth managers and tax authorities think about money that…",
           "link": "https://bitcoinist.com/crypto-millionaires-surge-40-now-topping-240000-worldwide-study/",
           "publishedOn": "2025-09-24T13:51:38.000Z",
-          "wordCount": 5540,
+          "wordCount": 5541,
           "title": "Crypto Millionaires Surge 40%—Now Topping 240,000 Worldwide: Study",
           "enclosure": {
             "length": "1337",
@@ -1050,7 +1170,7 @@
           "description": "CoinDesk Indices presents its daily market update, highlighting the performance of leaders and laggards in the CoinDesk 20 Index.\nThe CoinDesk 20 is currently trading at 4045.46, up 0.5% (+21.74) since 4 p.m. ET on Tuesday.\nNineteen of the 20 assets is trading higher.\n\nLeaders: DOT (+2.1%) and HBAR (+2.0%).\nLaggards: SOL (-1.4%) and LTC (+0.2%).\nThe CoinDesk 20 is a broad-based index traded on multiple platforms in several regions globally.",
           "link": "https://www.coindesk.com/coindesk-indices/2025/09/24/coindesk-20-performance-update-polkadot-dot-gains-2-1-as-index-moves-higher",
           "publishedOn": "2025-09-24T13:29:25.000Z",
-          "wordCount": 7392,
+          "wordCount": 7525,
           "title": "CoinDesk 20 Performance Update: Polkadot (DOT) Gains 2.1% as Index Moves Higher",
           "enclosure": {
             "length": "1337",
@@ -1065,7 +1185,7 @@
           "description": "Stablecoin infrastructure startup Bastion has raised $14.6 million in a new funding round led by Coinbase Ventures, Fortune reports.\nBastion builds white-label stablecoin systems that let companies issue digital dollars without writing code or applying for regulatory licenses. The round included participation from the venture arms of Sony and Samsung, as well as Andreessen Horowitz’s (a16z) crypto division and Hashed.\nThe startup is led by Nassim Eddequiouaq, a former Meta and a16z crypto executive who worked on Libra, Meta’s now-defunct stablecoin project. Eddequiouaq said Bastion’s product suite goes beyond simple issuance: it includes wallets for users and off-ramps that allow conversion to cash in over 70 countries.\nThe valuation of this latest funding round wasn’t revealed, and the company raised $25 million back in 2023 in a round led by a16z crypto.\nThat positions Bastion to compete with firms like Paxos and newer players like Agora. The firm declined to name which corporations are currently using its platform, but Eddequiouaq said announcements are coming within the next nine months.\nThe funding comes amid a broader stablecoin boom. Stripe recently acquired stablecoin startup Bridge for $1.1 billion, USDC issuer Circle went public over the summer, while leading stablecoin issuer Tether is reportedly looking to raise up to $20 billion at a valuation that could be as high as $500 billion.",
           "link": "https://www.coindesk.com/business/2025/09/24/coinbase-sony-and-samsung-back-usd14-6m-round-for-stablecoin-startup-bastion",
           "publishedOn": "2025-09-24T13:29:25.000Z",
-          "wordCount": 8457,
+          "wordCount": 8401,
           "title": "Coinbase, Sony and Samsung Back $14.6M Round for Stablecoin Startup Bastion",
           "enclosure": {
             "length": "1337",
@@ -1080,7 +1200,7 @@
           "description": "Canton Network, a blockchain built for regulated finance, has struck a strategic partnership with Chainlink to broaden institutional adoption.\nThe agreement, announced Wednesday, will see Canton integrate Chainlink’s suite of services, including Data Streams, Proof of Reserve, and its Cross-Chain Interoperability Protocol. Canton has also joined the Chainlink Scale program, which helps cover the costs of running oracle nodes that feed external data into blockchains.\nChainlink Labs will take on the role of Super Validator in Canton’s Global Synchronizer, a system designed to keep transactions across the network in sync. That places Chainlink alongside a roster of more than 30 super validators and 500 validators already supporting Canton, which processes $280 billion in daily repo transactions and secures over $6 trillion in tokenized real-world assets.\nFor institutions, the deal could mean faster access to tokenized securities, stablecoins, and digital identity tools without sacrificing compliance or privacy. Imagine a bank issuing tokenized bonds on Canton and relying on Chainlink to confirm collateral values in real time—a scenario designed to cut costs while reducing counterparty risk.\nChainlink already secures more than $100 billion across decentralized finance and has helped facilitate $25 trillion in transaction value. Its entry into Canton aligns with growing demand from financial firms exploring tokenized assets and cross-chain applications.\n“The collaboration brings together Canton’s focus on regulated finance with Chainlink’s infrastructure, paving the way for real-world institutional use cases,” Chainlink co-founder Sergey Nazarov said in the release.",
           "link": "https://www.coindesk.com/business/2025/09/24/chainlink-chosen-by-privacy-focused-blockchain-canton-to-push-institutional-adoption",
           "publishedOn": "2025-09-24T13:29:25.000Z",
-          "wordCount": 8465,
+          "wordCount": 8404,
           "title": "Chainlink Chosen by Privacy-Focused Blockchain Canton to Push Institutional Adoption",
           "enclosure": {
             "length": "1337",
@@ -1095,7 +1215,7 @@
           "description": "Crypto has never needed “safe havens.” It needs safe markets.\n\nThe difference is more than semantics. A safe haven is a place to hide; a safe market is a place to build. Jurisdictions that understand this distinction will be the ones that capture the next significant wave of serious capital.\n\nThe crypto industry has been in a regulatory tug-of-war for over a decade. On one side, innovators argued that too much oversight would suffocate the technology, while skeptics warned that too little would expose investors to catastrophic risk. The collapse of crypto exchange FTX in November 2022 only widened this divide even more.\n\nCaught in the middle, many crypto businesses took on a simple playbook: they found the jurisdiction with the lightest touch, grabbed a license and called it a win. This “s…",
           "link": "https://www.coindesk.com/opinion/2025/09/23/crypto-doesn-t-need-safe-havens-it-needs-safe-markets",
           "publishedOn": "2025-09-24T13:29:25.000Z",
-          "wordCount": 9062,
+          "wordCount": 9112,
           "title": "Crypto Doesn’t Need Safe Havens, It Needs Safe Markets",
           "enclosure": {
             "length": "1337",
@@ -1103,131 +1223,6 @@
             "url": "https://cdn.sanity.io/images/s3y3vcno/production/8120f19a9e4ab07a954184d8a19c7b3decd072de-1920x1080.png?auto=format&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip"
           },
           "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/8120f19a9e4ab07a954184d8a19c7b3decd072de-1920x1080.png?auto=format&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e7762968a6f",
-          "author": "Omkar Godbole",
-          "description": "Franklin Templeton, the global investment powerhouse managing $1.6 trillion in assets, is expanding its proprietary Benji Technology Platform to the BNB Chain ecosystem.\nThe move amplifies Benji's institutional-grade tokenization expertise by leveraging BNB Chain's technological strengths, including its scalable, low-cost infrastructure and high transaction throughput, to create a new class of on-chain financial assets.\n\"Our goal is to meet more investors where they’re active, while continuing to push the boundaries of what tokenization can deliver with security and compliance at the forefront,” Roger Bayston, head of digital assets at Franklin Templeton, said in a press release shared with CoinDesk.\n“Together, Franklin Templeton and BNB Chain will work to deliver tokenized assets with gre…",
-          "link": "https://www.coindesk.com/markets/2025/09/24/franklin-templeton-expands-tokenization-frontiers-with-benji-platform-integration-onto-bnb-chain",
-          "publishedOn": "2025-09-24T13:29:25.000Z",
-          "wordCount": 8536,
-          "title": "Franklin Templeton Expands Tokenization Frontiers With Benji Platform Integration Onto BNB Chain",
-          "enclosure": {
-            "length": "1337",
-            "type": "image/*",
-            "url": "https://cdn.sanity.io/images/s3y3vcno/production/d74b7f9d874db07fd9786cd89bd31ce852fe9b1f-1920x1080.jpg?auto=format"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/d74b7f9d874db07fd9786cd89bd31ce852fe9b1f-1920x1080.jpg?auto=format"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e7762931823",
-          "author": "Omkar Godbole",
-          "description": "Hyperliquid's very own stablecoin USDHL, developed by Native Markets, debuted Wednesday, generating over $2 million in early volume.\nAs of writing, the Hyperliquid-listed USDH/USDC pair traded at 1.001, with a total trading volume of 2,244,932.79 USDC.\nLast week, the Hyperliquid validator community selected Native Markets to receive the USDH ticker following a lengthy bidding war that saw proposals from Paxos, Ethena, Frax, and others.\nThe dollar-pegged stablecoin is issued natively on HyperEVM and is backed by cash and short-term U.S. Treasury securities. The stablecoin will help reduce Hyperliquid's dependency on external stablecoins such as the Circle-issued USDC, which accounts for over 90% of the deposits on the platform.\nHaving a homegrown stablecoin will help the platform retain the liquidity and the yield generated from reserves within its own ecosystem. USDH is designed to channel the yield generated from its reserves into the ecosystem through a 50-50 split, such that half of the revenue from USDH’s reserve income goes into funding HYPE buybacks and the other half supports ecosystem growth initiatives.\nHyperliquid is the world's leading on-chain perpetuals decentralized exchange, controling over 35% of the global activity. It's market share, however, has receded sharply from 70% at one point in May.",
-          "link": "https://www.coindesk.com/markets/2025/09/24/hyperliquid-s-newly-launched-usdh-stablecoin-sees-over-usd2m-volume-in-early-trading",
-          "publishedOn": "2025-09-24T13:02:31.000Z",
-          "wordCount": 8080,
-          "title": "Hyperliquid's Newly Launched USDH Stablecoin Sees Over $2M Volume in Early Trading",
-          "enclosure": {
-            "length": "1337",
-            "type": "image/*",
-            "url": "https://cdn.sanity.io/images/s3y3vcno/production/c8aa88f6691ad16b0c8b49c33eab58202ad5ef5c-1420x916.jpg?auto=format&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/c8aa88f6691ad16b0c8b49c33eab58202ad5ef5c-1420x916.jpg?auto=format&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e7762931821",
-          "author": "Jamie Crawley",
-          "description": "By Omkar Godbole (All times ET unless indicated otherwise)\nBitcoin (BTC) rebounded from Asian session lows of $111,000 to $112,800, repeating a pattern seen on Tuesday. However, the token remains below its 50- and 100-day simple moving averages (SMAs), with liquidity analysis and retail crowd sentiment signaling a potential for a deeper pullback. The CoinDesk 20 Index was down 0.7% over the past 24 hours, standing at 4,027.\nTwo notable developments have emerged. The competition between on-chain decentralized exchanges Hyperliquid and Aster has intensified, with Aster surpassing Hyperliquid in daily revenue. According to DefiLlama, Aster generated $7.2 million in revenue in the past 24 hours compared to Hyperliquid’s $2.79 million. This divergence is also reflected in their native tokens: A…",
-          "link": "https://www.coindesk.com/daybook-us/2025/09/23/aster-leads-hyperliquid-in-revenue-as-dex-war-heats-up-crypto-daybook-americas",
-          "publishedOn": "2025-09-24T13:02:31.000Z",
-          "wordCount": 10166,
-          "title": "Aster Leads Hyperliquid in Revenue as DEX War Heats Up: Crypto Daybook Americas",
-          "enclosure": {
-            "length": "1337",
-            "type": "image/*",
-            "url": "https://cdn.sanity.io/images/s3y3vcno/production/63c82cbad3c0edf30963854acf96681e87609cac-1920x1080.jpg?auto=format&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/63c82cbad3c0edf30963854acf96681e87609cac-1920x1080.jpg?auto=format&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e776293181f",
-          "author": "Omkar Godbole",
-          "description": "Bitcoin (BTC), the crypto market leader, has bounced to nearly $113,000, hinting at an end to the three-day losing streak. Other major coins are following BTC's lead, with further gains contingent on bitcoin moving past key levels.\n\"Much will depend on the ability of bitcoin bulls to overcome important resistance levels at 113,500 and 115,000. If they succeed, there will be a chance to restore the uptrend. Failure will increase the risks of a Bitcoin correction,\" Alex Kuptsikevich, senior analyst at FxPro, said in an email. \nToken Talk\nBy Oliver Knight\n\nMetaMask’s parent company ConsenSys, and Ethereum co-founder Joe Lubin, recently confirmed that the long-rumored MASK token is indeed coming, and possibly “sooner than you would expect.”\nLubin emphasized that MASK would be tied to the decen…",
-          "link": "https://www.coindesk.com/markets/2025/09/24/metamask-token-anticipation-builds-while-aster-becomes-new-favorite-crypto-markets-today",
-          "publishedOn": "2025-09-24T13:02:31.000Z",
-          "wordCount": 8958,
-          "title": "Metamask Token Hype Builds, While Aster Open Positions Surge 46%: Crypto Markets Today",
-          "enclosure": {
-            "length": "1337",
-            "type": "image/*",
-            "url": "https://cdn.sanity.io/images/s3y3vcno/production/6ef086b18446966ac8edf22c629a6b92f11c0549-1024x683.jpg?auto=format&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/6ef086b18446966ac8edf22c629a6b92f11c0549-1024x683.jpg?auto=format&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e77629cdf7b",
-          "author": "Jake Simmons",
-          "description": "A new Bitcoin Policy Institute (BPI) report argues that nation-state engagement with Bitcoin has moved beyond legal-tender experiments into a broader set of “exposure” pathways—from strategic reserves and sovereign mining to pensions, sovereign wealth funds and tax acceptance—marking what the authors describe as a game-theoretic race among governments.\n \nNation-State Bitcoin Adoption Accelerates\n \nThe study, authored by Jake Langenkamp and Renee Sorchik and on September 22, 2025, concludes that “27 countries currently have some measure of exposure to bitcoin—approximately one in seven worldwide,” with a further “13 countries [that] have proposed adoption measures through legislation or policy initiatives.”\n \nThe report is explicit about scope and definitions. “Exposure was defined as any o…",
-          "link": "https://bitcoinist.com/research-bitcoin-nation-state-fomo-27-in-13-join/",
-          "publishedOn": "2025-09-24T12:51:52.000Z",
-          "wordCount": 6078,
-          "title": "Research Flags Bitcoin Nation-State FOMO—27 In, 13 About To Join",
-          "enclosure": {
-            "length": "1337",
-            "type": "image/jpeg",
-            "url": "https://bitcoinist.com/wp-content/uploads/2025/09/ChatGPT-Image-Sep-24-2025-07_32_55-AM.png?fit=631,420"
-          },
-          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2025/09/ChatGPT-Image-Sep-24-2025-07_32_55-AM.png?fit=631,420"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e77629ebaee",
-          "author": "Jamie Redman",
-          "description": "On Wednesday morning, bitcoin finds itself in a dance between bullish hope and bearish hesitation. Trading just shy of key resistance, price action is stuck in a holding pattern that feels more like a chess game than a moon mission. Bitcoin The hourly bitcoin chart paints a clear double bottom near $111,115, offering short-term traders […]",
-          "link": "https://news.bitcoin.com/bitcoin-price-watch-will-113k-hold-or-crack-under-bearish-pressure/",
-          "publishedOn": "2025-09-24T12:40:20.000Z",
-          "wordCount": 586,
-          "title": "Bitcoin Price Watch: Will $113K Hold or Crack Under Bearish Pressure?",
-          "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2025/09/btcdgdgdg.png"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e776299a8be",
-          "author": "Jakob Hofeditz",
-          "description": "Ethereum wird von Banken und Politik als neutrale und vertrauenswürdige Blockchain gesehen. \n \nTom Lee erwartet enorme Kurssteigerungen in den nächsten Jahren. \n \nBitMine wächst zum größten Ethereum-Treasury und prägt die Zukunft der Branche.\n \n \nKryptowährungen sind für viele noch ein Buch mit sieben Siegeln. Doch eine bestimmte Blockchain namens Ethereum spielt eine immer größere Rolle – sowohl an der Wall Street als auch im Weißen Haus. Ein Experte erklärt, warum gerade ETH die perfekte Basis für die digitale Zukunft sein könnte und welche Chancen sich für Einsteiger bieten.\n \nWarum Ethereum Vertrauen schafft\n \nTom Lee, ein bekannter Finanzexperte von der Wall Street, nennt Ethereum eine „wirklich neutrale Chain“. Damit meint er, dass niemand ETH kontrolliert oder zu seinem Vorteil beei…",
-          "link": "https://bitcoinist.com/ethereum-bitmine-tom-lee-rally-superzyklus/",
-          "publishedOn": "2025-09-24T12:21:50.000Z",
-          "wordCount": 5877,
-          "title": "Ethereum News: BitMine, Wall Street und US-Politik setzen jetzt auf ETH",
-          "enclosure": {
-            "length": "1337",
-            "type": "image/jpeg",
-            "url": "https://bitcoinist.com/wp-content/uploads/2025/09/ethbitmine.jpg?fit=630,420"
-          },
-          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2025/09/ethbitmine.jpg?fit=630,420"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e7762869182",
-          "author": "Scott Matherson",
-          "description": "The war among meme coins for dominance has been rising with more and more contenders popping up over the years. While Dogecoin and Shiba Inu have maintained their positions as the largest meme coins in the game, the possibility of losing these positions is still very real. Just like Shiba Inu was able to briefly flip the Dogecoin market cap back in 2021, it seems Shiba Inu is now at risk of losing its position to competitors who have raised cult-like followings on social media.\n \nPEPE And MemeCore Run Up On Shiba Inu For Meme Coin Dominance\n \nDespite the market crash, the Shiba Inu market cap is still above $7 billion, putting it at a relatively safe distance away from its rivals. However, with meme coin culture usually triggering rapid rallies for coins like PEPE and MemeCore, this gap wo…",
-          "link": "https://bitcoinist.com/shiba-inu-meme-coin-pepe/",
-          "publishedOn": "2025-09-24T11:50:51.000Z",
-          "wordCount": 5621,
-          "title": "Is Shiba Inu At Risk Of Losing Its Second-Largest Meme Coin Position To PEPE And MemeCore?",
-          "enclosure": {
-            "length": "1337",
-            "type": "image/jpeg",
-            "url": "https://bitcoinist.com/wp-content/uploads/2024/05/Meme-coins.webp?fit=640,360"
-          },
-          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2024/05/Meme-coins.webp?fit=640,360"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e7762809547",
-          "author": "Emmanuel Musa",
-          "description": "Validators on the BNB Chain have proposed halving gas fees and reducing block times to keep the network competitive, aiming for faster, cheaper transactions while sustaining validator rewards and staking yields. BNB Chain Proposes Gas Fee Cut to Boost Competitiveness BNB Chain validators are weighing a proposal to halve gas fees and speed up block […]",
-          "link": "https://news.bitcoin.com/bnb-chain-validators-move-to-halve-gas-fees-with-new-proposal/",
-          "publishedOn": "2025-09-24T11:37:26.000Z",
-          "wordCount": 547,
-          "title": "BNB Chain Validators Move to Halve Gas Fees With New Proposal",
-          "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2025/09/bnb-chain-validators-propose-gas-fee-cut-with-new-proposal.jpg"
         }
       ]
     }

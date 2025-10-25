@@ -386,7 +386,7 @@
           "description": "OpenAI's AI web browser faces prompt injection attacks that security experts call an unsolved problem—but there are some things you can do to be safe.",
           "link": "https://decrypt.co/345733/openai-chatgpt-atlas-browser-big-problem-how-crypto-users-protect-themselves",
           "publishedOn": "2025-10-23T21:20:27.000Z",
-          "wordCount": 11414,
+          "wordCount": 11459,
           "title": "OpenAI's ChatGPT Atlas Browser Has a Big Problem—How Crypto Users Can Protect Themselves",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/Open-AI-decrypt-style-01-gID_7.png@png",
@@ -733,24 +733,114 @@
       "siteUrl": "https://cryptopanic.com/",
       "articles": [
         {
+          "id": "https://cryptopanic.com/news/26463153/CatFee-TRON-Mate-Basic-API-Webhook-Now-Live",
+          "author": null,
+          "description": "Hey TRON users 👋 Tired of your TRON USDT transfers getting stuck or paying high fees because of low energy? CatFee TRON Mate Basic solves it — no more manual energy purchases, no wasted TRX. Our system automatically keeps your address at 131k ENERGY, so every USDT transfer runs smoothly — no...",
+          "link": "https://cryptopanic.com/news/26463153/CatFee-TRON-Mate-Basic-API-Webhook-Now-Live",
+          "publishedOn": "2025-10-25T02:23:35.000Z",
+          "wordCount": 517,
+          "title": "CatFee TRON Mate Basic — API & Webhook Now Live!",
+          "imageUrl": "https://preview.redd.it/lgrhczmx26xf1.png?width=640&crop=smart&auto=webp&s=297ac8d5a0f4d065804b69b58336019c1c1b652a"
+        },
+        {
+          "id": "https://cryptopanic.com/news/26463097/Bank-of-England-probes-data-mining-lending-strategies-fueling-AI-bets",
+          "author": null,
+          "description": "The Bank of England is worried that a rise in financiers' lending to data center lending may cause an AI bubble reminiscent of the dot-com crash in the early 2000s.",
+          "link": "https://cryptopanic.com/news/26463097/Bank-of-England-probes-data-mining-lending-strategies-fueling-AI-bets",
+          "publishedOn": "2025-10-25T02:09:23.000Z",
+          "wordCount": 517,
+          "title": "Bank of England probes data-mining lending strategies fueling AI bets",
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5M2Q3ZDctODY0Zi03YjRhLWFjNjgtZjg0NzRkMDVmOTEy.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/26462953/Coinbase-and-Cloudflares-x402-Protocol-Sets-New-Transaction-Record",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/26462953/Coinbase-and-Cloudflares-x402-Protocol-Sets-New-Transaction-Record",
+          "publishedOn": "2025-10-25T02:05:49.000Z",
+          "wordCount": null,
+          "title": "Coinbase and Cloudflare’s x402 Protocol Sets New Transaction Record",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/26462729/Trump-Prepares-to-Appoint-Pro-Crypto-Leader-to-Head-the-CFTC",
+          "author": null,
+          "description": "The move comes after Trump abruptly pulled back his previous nominee, Brian Quintenz, whose confirmation effort stalled under industry scrutiny.",
+          "link": "https://cryptopanic.com/news/26462729/Trump-Prepares-to-Appoint-Pro-Crypto-Leader-to-Head-the-CFTC",
+          "publishedOn": "2025-10-25T02:03:42.000Z",
+          "wordCount": 517,
+          "title": "Trump Prepares to Appoint Pro-Crypto Leader to Head the CFTC",
+          "imageUrl": "https://coindoo.com/wp-content/uploads/2025/05/cftc-250x180.webp"
+        },
+        {
+          "id": "https://cryptopanic.com/news/26462741/Bitcoins-Resilience-Whales-Buy-Amidst-Panic",
+          "author": null,
+          "description": "Sophi talks about Bitcoin's Resilience: Whales Buy Amidst Panic? Brought to you by Bitcoinwell. com a bitcoin-only platform on a mission to enable independence. #bitcoin #bitcoinnews #shortsopen",
+          "link": "https://cryptopanic.com/news/26462741/Bitcoins-Resilience-Whales-Buy-Amidst-Panic",
+          "publishedOn": "2025-10-25T02:00:24.000Z",
+          "wordCount": 513,
+          "title": "Bitcoin's Resilience: Whales Buy Amidst Panic?",
+          "imageUrl": "https://i1.ytimg.com/vi/DZSS2cTAgb8/hqdefault.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/26462428/Ethereum-Whales-Quietly-Accumulate-As-Stablecoin-Usage-Skyrockets-400",
+          "author": null,
+          "description": "Reports have disclosed a 400% rise in stablecoin transfers on Ethereum over the last 30 days, pushing total transfer volume to $581 billion and more than 12. 5 million transfers, according to Token Terminal. Related Reading: 16,000 Ancient Bitcoins Just Moved—And It’s Costing Whales Billions The...",
+          "link": "https://cryptopanic.com/news/26462428/Ethereum-Whales-Quietly-Accumulate-As-Stablecoin-Usage-Skyrockets-400",
+          "publishedOn": "2025-10-25T02:00:14.000Z",
+          "wordCount": 516,
+          "title": "Ethereum Whales Quietly Accumulate As Stablecoin Usage Skyrockets 400%",
+          "imageUrl": "https://www.newsbtc.com/wp-content/uploads/2025/10/a_57cace.jpg?fit=750%2C454"
+        },
+        {
+          "id": "https://cryptopanic.com/news/26462737/Rumble-integrates-Bitcoin-tipping-with-Tether",
+          "author": null,
+          "description": "Rumble, a video platform similar to YouTube, is collaborating with Tether to enable creators to receive Bitcoin tips. The company announced the move at the Plan B Forum in Lugano, stating that it aims to help creators earn and remain independent with crypto. Tether, which has already committed a...",
+          "link": "https://cryptopanic.com/news/26462737/Rumble-integrates-Bitcoin-tipping-with-Tether",
+          "publishedOn": "2025-10-25T01:57:33.000Z",
+          "wordCount": 513,
+          "title": "Rumble integrates Bitcoin tipping with Tether",
+          "imageUrl": "https://www.cryptopolitan.com/wp-content/uploads/2025/10/Rumble-Bitcoin-tipping-with-Tether.webp"
+        },
+        {
+          "id": "https://cryptopanic.com/news/26463142/Chainlink-Gears-Up-for-Breakout-Analyst-Says-100-Could-Be-Next",
+          "author": null,
+          "description": "Analysts are optimistic about Chainlink's potential for a significant price increase, suggesting that it is preparing for a major breakout. In their assessment, they believe that the cryptocurrency could soon reach the impressive milestone of $100, signaling a remarkable upward trend in its value.",
+          "link": "https://cryptopanic.com/news/26463142/Chainlink-Gears-Up-for-Breakout-Analyst-Says-100-Could-Be-Next",
+          "publishedOn": "2025-10-25T01:54:54.000Z",
+          "wordCount": 518,
+          "title": "Chainlink Gears Up for Breakout, Analyst Says $100 Could Be Next",
+          "imageUrl": "https://blocknews.com/wp-content/uploads/2025/03/Blocknewssocialsbanner.png"
+        },
+        {
+          "id": "https://cryptopanic.com/news/26462424/Tether-Eyes-15-Billion-Profit-as-Stablecoin-Market-Booms",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/26462424/Tether-Eyes-15-Billion-Profit-as-Stablecoin-Market-Booms",
+          "publishedOn": "2025-10-25T01:38:24.000Z",
+          "wordCount": null,
+          "title": "Tether Eyes $15 Billion Profit as Stablecoin Market Booms",
+          "imageUrl": null
+        },
+        {
           "id": "https://cryptopanic.com/news/26462396/China-Poly-Group-Denies-Involvement-in-Hong-Kong-Stablecoin-Rumors",
           "author": null,
-          "description": "China Poly Group issues a statement denying any involvement in alleged Hong Kong stablecoin activities as rumors spread online.",
+          "description": "",
           "link": "https://cryptopanic.com/news/26462396/China-Poly-Group-Denies-Involvement-in-Hong-Kong-Stablecoin-Rumors",
           "publishedOn": "2025-10-25T01:35:12.000Z",
-          "wordCount": 517,
+          "wordCount": null,
           "title": "China Poly Group Denies Involvement in Hong Kong Stablecoin Rumors",
-          "imageUrl": "https://coincu.com/wp-content/uploads/2025/10/china-poly-hk-skeptical-faces-file.jpeg"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/26462145/Crypto-Miners-See-Stock-Surge-Following-Jane-Streets-Investment",
           "author": null,
-          "description": "According to Cointelegraph, shares of several cryptocurrency mining companies experienced significant gains following the disclosure of substantial investments by trading firm Jane Street. The firm revealed its passive trading positions in Bitfarms, Cipher Mining, and Hut 8, owning approximately...",
+          "description": "",
           "link": "https://cryptopanic.com/news/26462145/Crypto-Miners-See-Stock-Surge-Following-Jane-Streets-Investment",
           "publishedOn": "2025-10-25T01:02:39.000Z",
-          "wordCount": 516,
+          "wordCount": null,
           "title": "Crypto Miners See Stock Surge Following Jane Street's Investment",
-          "imageUrl": "https://public.bnbstatic.com/static/images/common/ogImage.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/26462250/Bitcoin-The-Internet-of-Money-Explained-Simply",
@@ -765,42 +855,42 @@
         {
           "id": "https://cryptopanic.com/news/26462344/AI-takes-center-stage-in-payments-as-Money2020-explores-finances-next-frontier",
           "author": null,
-          "description": "From fraud prevention to personalization, AI is redefining how money moves.",
+          "description": "",
           "link": "https://cryptopanic.com/news/26462344/AI-takes-center-stage-in-payments-as-Money2020-explores-finances-next-frontier",
           "publishedOn": "2025-10-25T01:00:00.000Z",
-          "wordCount": 519,
+          "wordCount": null,
           "title": "AI takes center stage in payments as Money20/20 explores finance’s next frontier",
-          "imageUrl": "https://www.thestreet.com/.image/c_fit%2Ch_800%2Cw_1200/MjE4NjA4ODM0NDEzODY0NTUw/gettyimages-1768679792.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/26461882/Crypto-miners-rally-as-Jane-Street-discloses-major-positions",
           "author": null,
-          "description": "Jane Street reports new 13G filings showing large investments in Bitcoin mining firms.",
+          "description": "",
           "link": "https://cryptopanic.com/news/26461882/Crypto-miners-rally-as-Jane-Street-discloses-major-positions",
           "publishedOn": "2025-10-25T00:58:36.000Z",
-          "wordCount": 516,
+          "wordCount": null,
           "title": "Crypto miners rally as Jane Street discloses major positions",
-          "imageUrl": "https://www.cryptopolitan.com/wp-content/uploads/2025/10/Crypto-mining-Wall-Street.webp"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/26461430/Sygnum-partners-with-Debifi-to-launch-multisig-collateral-model-for-Bitcoinbacked-loans",
           "author": null,
-          "description": "Sygnum Bank has partnered with crypto lender Debifi to launch a loan platform that will let borrowers keep partial control of their BTC during the loan term, according to a press release from Friday. The platform is called MultiSYG and it will be release in the first half of 2026 with a focus on...",
+          "description": "",
           "link": "https://cryptopanic.com/news/26461430/Sygnum-partners-with-Debifi-to-launch-multisig-collateral-model-for-Bitcoinbacked-loans",
           "publishedOn": "2025-10-25T00:40:30.000Z",
-          "wordCount": 519,
+          "wordCount": null,
           "title": "Sygnum partners with Debifi to launch multisig collateral model for Bitcoin‑backed loans",
-          "imageUrl": "https://www.cryptopolitan.com/wp-content/uploads/2025/10/bitcoin-6.webp"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/26461380/Tethers-New-Stablecoin-and-Rumble-Investment-Announced",
           "author": null,
-          "description": "",
+          "description": "Tether unveils US-focused stablecoin USAT with Anchorage Digital, invests in Rumble.",
           "link": "https://cryptopanic.com/news/26461380/Tethers-New-Stablecoin-and-Rumble-Investment-Announced",
           "publishedOn": "2025-10-25T00:35:01.000Z",
-          "wordCount": null,
+          "wordCount": 514,
           "title": "Tether's New Stablecoin and Rumble Investment Announced",
-          "imageUrl": null
+          "imageUrl": "https://coincu.com/wp-content/uploads/2025/10/tether-usat-stablecoin-launch-file.jpeg"
         },
         {
           "id": "https://cryptopanic.com/news/26461382/Coinbase-soars-9-after-JPMorgan-upgrade",
@@ -815,12 +905,12 @@
         {
           "id": "https://cryptopanic.com/news/26462144/Tether-to-Launch-US-Focused-Stablecoin-in-December",
           "author": null,
-          "description": "According to PANews, Tether CEO Paolo Ardoino announced plans to introduce a US-focused stablecoin, USAT, in December to comply with federal regulations. This new token will be issued by Tether America, a joint venture between Tether and the regulated U. S. cryptocurrency bank Anchorage Digital",
+          "description": "",
           "link": "https://cryptopanic.com/news/26462144/Tether-to-Launch-US-Focused-Stablecoin-in-December",
           "publishedOn": "2025-10-25T00:33:37.000Z",
-          "wordCount": 514,
+          "wordCount": null,
           "title": "Tether to Launch US-Focused Stablecoin in December",
-          "imageUrl": "https://public.bnbstatic.com/static/images/common/ogImage.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://cryptopanic.com/news/26462143/Whale-Receives-1030-BTC-After-Three-Month-Hiatus",
@@ -835,101 +925,11 @@
         {
           "id": "https://cryptopanic.com/news/26461387/Sygnum-Bank-Unveils-Bitcoin-Loan-System-That-Lets-Clients-Keep-Their-Keys",
           "author": null,
-          "description": "Teaming up with blockchain lending platform Debifi, the bank is developing a system that allows borrowers to take out fiat […] The post Sygnum Bank Unveils Bitcoin Loan System That Lets Clients Keep Their Keys appeared first on Coindoo.",
+          "description": "",
           "link": "https://cryptopanic.com/news/26461387/Sygnum-Bank-Unveils-Bitcoin-Loan-System-That-Lets-Clients-Keep-Their-Keys",
           "publishedOn": "2025-10-25T00:30:28.000Z",
-          "wordCount": 519,
+          "wordCount": null,
           "title": "Sygnum Bank Unveils Bitcoin Loan System That Lets Clients Keep Their Keys",
-          "imageUrl": "https://coindoo.com/wp-content/uploads/2025/06/bitcoin-btc-pt1249-250x180.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/26461385/Ripple-Prime-Is-the-Fintech-Firms-One-Stop-Institutional-Trading-and-Financing-Desk",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/26461385/Ripple-Prime-Is-the-Fintech-Firms-One-Stop-Institutional-Trading-and-Financing-Desk",
-          "publishedOn": "2025-10-25T00:24:22.000Z",
-          "wordCount": null,
-          "title": "Ripple Prime Is the Fintech Firm’s One-Stop Institutional Trading and Financing Desk",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/26461353/Rumble-partners-with-Tether-to-add-Bitcoin-tips-for-content-creators",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/26461353/Rumble-partners-with-Tether-to-add-Bitcoin-tips-for-content-creators",
-          "publishedOn": "2025-10-25T00:16:01.000Z",
-          "wordCount": null,
-          "title": "Rumble partners with Tether to add Bitcoin tips for content creators",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/26461337/BNB-Price-On-The-Verge-Of-Recovery-As-Sentiment-Improves",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/26461337/BNB-Price-On-The-Verge-Of-Recovery-As-Sentiment-Improves",
-          "publishedOn": "2025-10-25T00:11:00.000Z",
-          "wordCount": null,
-          "title": "BNB Price On The Verge Of Recovery As Sentiment Improves?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/26461334/Treasurys-TIPS-market-at-risk-after-White-House-says-there-will-be-no-October-CPI",
-          "author": null,
-          "description": "The part of the US Treasury market that protects investors from rising consumer prices is now facing uncertainty after the White House said the October consumer price index (CPI) may not be released. This matters because Treasury Inflation-Protected Securities (TIPS) use CPI data to calculate...",
-          "link": "https://cryptopanic.com/news/26461334/Treasurys-TIPS-market-at-risk-after-White-House-says-there-will-be-no-October-CPI",
-          "publishedOn": "2025-10-25T00:05:23.000Z",
-          "wordCount": 522,
-          "title": "Treasury’s TIPS market at risk after White House says there will be no October CPI",
-          "imageUrl": "https://www.cryptopolitan.com/wp-content/uploads/2025/10/U.S.-Treasury.webp"
-        },
-        {
-          "id": "https://cryptopanic.com/news/26461118/Crypto-Market-Prediction-XRP-to-Face-Its-Most-Intense-Battle-Shiba-Inu-SHIB-000002-Closer-Can-Ethereum-ETH-Reclaim-4000",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/26461118/Crypto-Market-Prediction-XRP-to-Face-Its-Most-Intense-Battle-Shiba-Inu-SHIB-000002-Closer-Can-Ethereum-ETH-Reclaim-4000",
-          "publishedOn": "2025-10-25T00:01:00.000Z",
-          "wordCount": null,
-          "title": "Crypto Market Prediction: XRP to Face Its Most Intense Battle, Shiba Inu (SHIB) $0.00002 Closer, Can Ethereum (ETH) Reclaim $4,000?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/26460912/PUMP-gains-10-Will-2M-whale-buy-spark-a-bullish-reversal",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/26460912/PUMP-gains-10-Will-2M-whale-buy-spark-a-bullish-reversal",
-          "publishedOn": "2025-10-25T00:00:54.000Z",
-          "wordCount": null,
-          "title": "PUMP gains 10% – Will $2M whale buy spark a bullish reversal?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/26460820/Dogecoin-Bears-Tighten-Grip-But-This-Support-Zone-Hints-At-A-Potential-Reversal",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/26460820/Dogecoin-Bears-Tighten-Grip-But-This-Support-Zone-Hints-At-A-Potential-Reversal",
-          "publishedOn": "2025-10-25T00:00:41.000Z",
-          "wordCount": null,
-          "title": "Dogecoin Bears Tighten Grip, But This Support Zone Hints At A Potential Reversal",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/26461335/Bitcoin-Survived-The-Crash-Whats-Next",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/26461335/Bitcoin-Survived-The-Crash-Whats-Next",
-          "publishedOn": "2025-10-25T00:00:01.000Z",
-          "wordCount": null,
-          "title": "Bitcoin Survived The Crash: What's Next?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/26460561/Trump-Set-To-Nominate-Crypto-Lawyer-Mike-Selig-For-CFTC-Chair-Bloomberg",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/26460561/Trump-Set-To-Nominate-Crypto-Lawyer-Mike-Selig-For-CFTC-Chair-Bloomberg",
-          "publishedOn": "2025-10-24T23:40:00.000Z",
-          "wordCount": null,
-          "title": "Trump Set To Nominate Crypto Lawyer Mike Selig For CFTC Chair: Bloomberg",
           "imageUrl": null
         }
       ]
@@ -939,6 +939,46 @@
       "feedUrl": "https://www.inoreader.com/stream/user/1005336866/tag/%E6%B5%B7%E5%A4%96%E5%8A%A0%E5%AF%86%E8%B5%84%E8%AE%AF",
       "siteUrl": "https://www.inoreader.com/stream/user/1005336866/tag/%E6%B5%B7%E5%A4%96%E5%8A%A0%E5%AF%86%E8%B5%84%E8%AE%AF/view/html",
       "articles": [
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e775412605a",
+          "author": "Kevin Helms",
+          "description": "A sweeping wave of support from corporate giants now includes major crypto players such as Coinbase, Ripple, and others, signaling digital assets’ deepening integration into Washington’s power circles through the ambitious White House expansion initiative. Crypto Firms Join Corporate Titans in White House Expansion Funding A surge in crypto industry involvement in U.S. political financing […]",
+          "link": "https://news.bitcoin.com/coinbase-ripple-among-top-donors-in-major-white-house-construction-initiative/",
+          "publishedOn": "2025-10-25T02:37:55.000Z",
+          "wordCount": 552,
+          "title": "Coinbase, Ripple Among Top Donors in Major White House Construction Initiative",
+          "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2025/10/white-house-crypto-donors-trumps-ballroom.jpg"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e77541d0694",
+          "author": "Christian Encila",
+          "description": "According to recent estimates, China accounted for about 14% of Bitcoin’s global hash-rate in late 2025, a slight rise from roughly 13% the prior quarter. Based on reports, that share translates to an estimated slice near 145 EH/s of computing power tied to Chinese influence.\n \n \nThe figure, according to the Fourth Quarter 2025 update of Luxor’s Global Hashrate Map, places China behind two other major contributors and marks a return to a significant role after a sharp decline following policy moves in 2021.\n \nHardware And Supply Chains\n \nReports have disclosed that much of the world’s mining rigs are built by Chinese firms. Bitmain, MicroBT and Canaan are still named as the main manufacturers. Because miners around the globe use that gear, the country’s grip on the supply chain remains str…",
+          "link": "https://bitcoinist.com/chinas-bitcoin-mining-isnt-dead-its-the-worlds-no-3-contributor/",
+          "publishedOn": "2025-10-25T02:04:20.000Z",
+          "wordCount": 5399,
+          "title": "China’s Bitcoin Mining Isn’t Dead — It’s The World’s No. 3 Contributor",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/jpeg",
+            "url": "https://bitcoinist.com/wp-content/uploads/2025/10/a_91baaa.jpg?fit=640,320"
+          },
+          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2025/10/a_91baaa.jpg?fit=640,320"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e77541d0693",
+          "author": "Sebastian Villafuerte",
+          "description": "Bitcoin is struggling to establish a clear bullish structure in the short term, as selling pressure continues to dominate since the October 10 market crash. The asset remains caught in a volatile range, with traders unsure whether the next major move will mark the start of a recovery or the continuation of a broader correction.\n \n \nAccording to CryptoQuant data, volatility on the daily timeframe remains elevated — reflecting the ongoing uncertainty and aggressive repositioning among traders — but the slope of volatility is beginning to decline. This cooling could indicate that Bitcoin is gradually stabilizing after weeks of erratic movement, potentially setting the stage for a massive impulse move once momentum returns.\n \nHowever, analysts remain cautious about declaring a bullish reversal…",
+          "link": "https://bitcoinist.com/bitcoin-volatility-starts-cool-market-short-squeeze/",
+          "publishedOn": "2025-10-25T02:04:20.000Z",
+          "wordCount": 6014,
+          "title": "Bitcoin Volatility Starts To Cool: Market Prepares For Potential Short Squeeze Rally",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/jpeg",
+            "url": "https://bitcoinist.com/wp-content/uploads/2025/10/Untitled-design-2025-10-24T115405.511.jpg?fit=640,366"
+          },
+          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2025/10/Untitled-design-2025-10-24T115405.511.jpg?fit=640,366"
+        },
         {
           "id": "http://www.inoreader.com/article/3a9c6e775419070b",
           "author": "Kevin Helms",
@@ -955,7 +995,7 @@
           "description": "Ripple Prime bundles trading, financing and clearing for institutions in one service, with risk controls, regulated custody and optional RLUSD collateral.",
           "link": "https://www.coindesk.com/markets/2025/10/25/ripple-prime-is-the-fintech-firm-s-one-stop-institutional-trading-and-financing-desk",
           "publishedOn": "2025-10-25T00:27:07.000Z",
-          "wordCount": 9290,
+          "wordCount": 9291,
           "title": "Ripple Prime Is the Fintech Firm’s One-Stop Institutional Trading and Financing Desk",
           "enclosure": {
             "length": "1337",
@@ -1140,7 +1180,7 @@
           "description": "Tether plans to launch its U.S.-compliant stablecoin USAT in December, aiming for mass reach in the creator economy, CEO Paolo Ardoino said in a CoinDesk interview.",
           "link": "https://www.coindesk.com/business/2025/10/24/tether-eyes-fresh-investments-to-push-usat-stablecoin-to-100m-americans-at-december-launch",
           "publishedOn": "2025-10-24T17:14:49.000Z",
-          "wordCount": 9103,
+          "wordCount": 9102,
           "title": "Tether Eyes Fresh Investments to Push USAT Stablecoin to 100M Americans at December Launch",
           "enclosure": {
             "length": "1337",
@@ -1158,51 +1198,6 @@
           "wordCount": 539,
           "title": "Crypto Exchanges Post Strong Q3 Recovery Amid ETF Inflows",
           "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2025/10/crypto-exchanges-post-strong-q3-recovery-amid-etf-inflows.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARQKIT2TMGZBKV2L6%2F20251024%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251024T165506Z&X-Amz-SignedHeaders=host&X-Amz-Expires=600&X-Amz-Signature=ba8987750c100c2e9a69c079845c307a5bd8f8675f31fb730af83240d431ed19"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e7755dfb602",
-          "author": "Helene Braun",
-          "description": "\"There will be a token, there will be an airdrop,\" CMO said as the platform nears an official U.S. return via a regulated exchange.",
-          "link": "https://www.coindesk.com/markets/2025/10/24/polymarket-will-launch-token-and-airdrop-after-u-s-relaunch-cmo-says",
-          "publishedOn": "2025-10-24T16:23:44.000Z",
-          "wordCount": 8942,
-          "title": "Polymarket Will Launch Token and Airdrop After U.S. Relaunch, CMO Says",
-          "enclosure": {
-            "length": "1337",
-            "type": "image/*",
-            "url": "https://cdn.sanity.io/images/s3y3vcno/production/0b55c698d4c330ce847dc87b0cf17472f482a3de-5692x3794.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/0b55c698d4c330ce847dc87b0cf17472f482a3de-5692x3794.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e7755d931b4",
-          "author": "Jake Simmons",
-          "description": "A new Bitcoin Improvement Proposal titled “Chain Code Delegation for Private Collaborative Custody” has been opened on the Bitcoin BIPs repository, targeting a long-standing privacy leak in multisig collaborations that rely on shared extended public keys.\n \nThe technique, authored by Bitkey engineers and collaborators, with a public explainer from Bitkey, proposes withholding BIP32 chain codes from non-privileged participants so that cosigners can help with recovery and policy enforcement without gaining sweeping visibility into a user’s balances and transaction history. Bitkey says it plans to implement the scheme first if it becomes an accepted standard.\n \nHow The BIP Enhances Bitcoin Privacy\n \nThe crux of the privacy problem is well known to wallet engineers and custodial partners: in t…",
-          "link": "https://bitcoinist.com/bitcoin-improvement-proposal-improve-privacy/",
-          "publishedOn": "2025-10-24T16:14:53.000Z",
-          "wordCount": 5696,
-          "title": "New Bitcoin Improvement Proposal Aims To Improve Privacy: Here’s How",
-          "enclosure": {
-            "length": "1337",
-            "type": "image/jpeg",
-            "url": "https://bitcoinist.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-24-2025-08_19_09-AM.png?fit=631,420"
-          },
-          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-24-2025-08_19_09-AM.png?fit=631,420"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e7755d931b2",
-          "author": "Bogdan Patru",
-          "description": "Quick Facts:\n \n \n1️⃣ Donald Trump’s full pardon of Binance founder CZ reignites optimism across the crypto market, with BNB up 8% in 24 hours.\n \n2️⃣ Grok AI projects BNB could reach $900–$1,000 by mid-2025 if policy clarity continues and Binance maintains market share.\n \n3️⃣ The broader rally extends beyond BNB as investors rotate into high-throughput Bitcoin Layer-2 solutions like Bitcoin Hyper ($HYPER).\n \n4️⃣ Bitcoin Hyper combines BTC’s security with Solana’s speed through its Canonical Bridge architecture — a setup AI analysts believe could 10x post-listing.\n \n \n \nIn a stunning twist, President Donald Trump granted a full pardon to Binance founder Changpeng “CZ” Zhao on October 23, 2025 — closing the book on years of courtroom drama and regulatory overhang. Markets reacted instantly: B…",
-          "link": "https://bitcoinist.com/bnb-price-prediction-after-trump-pardons-cz-grok-analysis-best-altcoin-to-buy/",
-          "publishedOn": "2025-10-24T16:14:53.000Z",
-          "wordCount": 5892,
-          "title": "Trump Pardons CZ, Shakes Up Grok’s Price Prediction for $BNB and Best Altcoins to Buy",
-          "enclosure": {
-            "length": "1337",
-            "type": "image/jpeg",
-            "url": "https://bitcoinist.com/wp-content/uploads/2025/10/bnb-price-prediction-after-trump-pardons-cz-grok-analysis-best-altcoin-to-buy.jpg?fit=630,420"
-          },
-          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2025/10/bnb-price-prediction-after-trump-pardons-cz-grok-analysis-best-altcoin-to-buy.jpg?fit=630,420"
         }
       ]
     }

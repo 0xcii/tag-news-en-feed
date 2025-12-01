@@ -6,6 +6,51 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=350556",
+          "author": "Jason Nelson",
+          "description": "Famed GTA developer Dan Houser said models trained on synthetic data could degrade game quality as creators rapidly adopt AI tools.",
+          "link": "https://decrypt.co/350556/grand-theft-auto-dev-warns-generative-ai-could-harm-games",
+          "publishedOn": "2025-12-01T23:15:00.000Z",
+          "wordCount": 11520,
+          "title": "'Mad Cow Disease': Grand Theft Auto Dev Warns That Generative AI Could Harm Games",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/grand-theft-auto-vi-gta-vi-gta-6-decrypt-style-gID_7.jpg@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/grand-theft-auto-vi-gta-vi-gta-6-decrypt-style-gID_7.jpg@png"
+        },
+        {
+          "id": "https://decrypt.co/?p=350558",
+          "author": "Sebastian Sinclair",
+          "description": "Vanguard will allow trading of crypto-focused ETFs and mutual funds on its brokerage platform, ending years of resistance.",
+          "link": "https://decrypt.co/350558/vanguard-allow-trading-bitcoin-ethereum-xrp-etf",
+          "publishedOn": "2025-12-01T22:50:28.000Z",
+          "wordCount": 10355,
+          "title": "Vanguard to Allow Bitcoin, Ethereum and XRP ETF Trading in Major Crypto Pivot",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/bitcoin-ethereum-decrypt-style-02-scaled-gID_7.jpg@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/bitcoin-ethereum-decrypt-style-02-scaled-gID_7.jpg@png"
+        },
+        {
+          "id": "https://decrypt.co/?p=350534",
+          "author": "Logan Hitchcock",
+          "description": "Kalshi's prediction market contracts are now tokenized on Solana, unlocking access to the crypto economy, the firm announced on Monday.",
+          "link": "https://decrypt.co/350534/kalshi-solana-on-chain-predictions-aims-increase-liquidity-pool",
+          "publishedOn": "2025-12-01T22:27:53.000Z",
+          "wordCount": 10894,
+          "title": "Kalshi Pushes Further Into Crypto With On-Chain Prediction Markets on Solana",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/prediction-market-decrypt-style-gID_7.jpg@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/prediction-market-decrypt-style-gID_7.jpg@png"
+        },
+        {
           "id": "https://decrypt.co/?p=350532",
           "author": "Stacy Elliott",
           "description": "Kalshi lost court protection in Nevada and now faces enforcement while it appeals, even as its business booms and valuation hits $11 billion.",
@@ -266,7 +311,7 @@
           "description": "I pushed a chatbot through several millennia of linguistic evolution. An AI from the year 5000 lectured me about pronouns.",
           "link": "https://decrypt.co/350263/ai-speak-every-century-english-ended-message-year-15000",
           "publishedOn": "2025-11-30T15:01:02.000Z",
-          "wordCount": 14193,
+          "wordCount": 14187,
           "title": "I Made an AI Speak Every Century of English—It Ended With a Message From the Year 15,000",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/robot-typing-gID_7.jpg@png",
@@ -296,7 +341,7 @@
           "description": "OpenAI said a Mixpanel breach exposed API user metadata—and urged customers to watch for phishing attacks.",
           "link": "https://decrypt.co/350376/openai-confirms-data-breach-heres-whos-impacted",
           "publishedOn": "2025-11-28T21:04:34.000Z",
-          "wordCount": 11426,
+          "wordCount": 11420,
           "title": "OpenAI Confirms Data Breach—Here's Who Is Impacted",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/openai-decrypt-style-02-gID_7.jpg@png",
@@ -416,7 +461,7 @@
           "description": "Balancer has identified six whitehat actors who recovered approximately $3.9 million across multiple networks during the exploit.",
           "link": "https://decrypt.co/350310/balancer-outlines-reimbursement-plan-following-128m-exploit",
           "publishedOn": "2025-11-28T06:29:38.000Z",
-          "wordCount": 11230,
+          "wordCount": 10500,
           "title": "Balancer Outlines Reimbursement Plan Following $128M Exploit",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/blockchain-decrypt-style-gID_7.jpg@png",
@@ -471,51 +516,6 @@
           "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/11/Interpol-gID_7.jpg@png"
         },
         {
-          "id": "https://decrypt.co/?p=350240",
-          "author": "Vismaya V",
-          "description": "Cybersecurity firm Socket warns the extension masks a second transaction instruction that quietly skims SOL from routine swaps.",
-          "link": "https://decrypt.co/350240/malware-chrome-extension-secretly-siphoned-fees-from-solana-traders-for-months",
-          "publishedOn": "2025-11-27T20:01:02.000Z",
-          "wordCount": 11384,
-          "title": "Malware Chrome Extension Secretly Siphoned Fees From Solana Traders for Months",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/malware-code-decrypt-style-gID_7.jpg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/malware-code-decrypt-style-gID_7.jpg@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=350253",
-          "author": "Ryan Gladwin",
-          "description": "Ethereum co-founder Vitalik Buterin supported two privacy messaging apps that are looking to break past sector leaders Signal and Telegram.",
-          "link": "https://decrypt.co/350253/vitalik-buterin-donates-765k-in-ethereum-to-privacy-messaging-apps",
-          "publishedOn": "2025-11-27T19:01:02.000Z",
-          "wordCount": 12041,
-          "title": "Vitalik Buterin Donates $765K in Ethereum to Privacy Messaging Apps",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/Vitalik-Buterin-DecryptStyle3-scaled-gID_7.jpg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/Vitalik-Buterin-DecryptStyle3-scaled-gID_7.jpg@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=350213",
-          "author": "Vince Dioquino",
-          "description": "The U.S. is probing how Chinese operators used AI in a cyber-espionage campaign as experts warn similar tools could hit on-chain finance.",
-          "link": "https://decrypt.co/350213/us-ai-and-data-firms-to-testify-in-chinese-ai-espionage-probe",
-          "publishedOn": "2025-11-27T18:00:02.000Z",
-          "wordCount": 11386,
-          "title": "US AI and Data Firms to Testify in Chinese AI Espionage Probe",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/us-capitol-decrypt-style-01-gID_7.jpg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/us-capitol-decrypt-style-01-gID_7.jpg@png"
-        },
-        {
           "id": "https://decrypt.co/videos/interviews/TYv5hOIq/polymarket-can-now-operate-in-us-texas-buys-5m-btc-mon-up-another-24",
           "author": null,
           "description": "Crypto majors were slightly red, with BTC down 1% at $86,600 and ETH down 1% at $2,910, while BNB gained 1% to $856 and SOL held steady at $136. Among top movers, MON (+24%), SPX (+13%), and IP (+7%) led the market. In policy and institutional developments, Texas launched its Bitcoin reserve with a $5 million purchase of BlackRock’s IBIT ETF, marking the first deployment of its approved $10 million BTC budget. U.S. Bank completed a test of issuing a proprietary stablecoin on the Stellar network, and MoonPay secured a New York trust charter, joining firms like Coinbase and Ripple to expand institutional custody and service capabilities. Polymarket received CFTC approval to reenter the U.S., enabling it to onboard domestic users, brokers, and intermediaries, while Kalshi was blocked in Nevada from offering sports and election markets after a judge reversed an earlier ruling. Klarna introduced its own stablecoin, KlarnaUSD, on Tempo. Meanwhile, the Department of Homeland Security has reportedly been investigating Bitmain as a national security risk, examining whether the company can remotely access its equipment.",
@@ -551,7 +551,7 @@
           "description": "Crypto majors rallied alongside a broad market surge, with BTC up 2% to $87,400, ETH up 4% to $2,920, BNB up 1% to $850, and SOL up 5% to $136, while KAS (+22%), ENA (+13%), and SUI (+11%) led the day’s top movers. The NASDAQ jumped 2.7% as stocks such as GOOG (+6%) and TSLA (+7%) posted strong gains. In policy and industry developments, the White House launched the “Genesis Mission,” described as a Manhattan Project–style initiative for AI, and Binance along with CZ faced new accusations of enabling crypto transactions for Hamas. Kraken hinted at a debit card debut expected today, and Tether purchased another 1 million Rumble shares, pushing the YouTube rival’s stock sharply higher. Meanwhile, the European Central Bank reiterated its warnings that the rapid growth of stablecoins could introduce stability risks to the wider financial system.",
           "link": "https://decrypt.co/videos/interviews/FL6CGV2a/crypto-is-green-mon-launches-at-39billion-fdv",
           "publishedOn": "2025-11-25T16:28:19.000Z",
-          "wordCount": 7599,
+          "wordCount": 8144,
           "title": "Crypto is GREEN! MON launches at $3.9Billion FDV!",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/FL6CGV2a/poster.jpg",
@@ -596,7 +596,7 @@
           "description": "Lynq CEO Jerald David unpacks the convergence of traditional finance and digital assets, while highlighting how Lynq is building trusted infrastructure for institutions moving into the crypto space that seeks to mitigate risk.",
           "link": "https://decrypt.co/videos/interviews/QRXa6eou/how-lynq-connects-crypto-with-traditional-finance",
           "publishedOn": "2025-11-21T11:46:36.000Z",
-          "wordCount": 7058,
+          "wordCount": 7603,
           "title": "How Lynq Connects Crypto With Traditional Finance",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/QRXa6eou/poster.jpg",
@@ -611,7 +611,7 @@
           "description": "Superstate founder and CEO Robert Leshner (@rleshner) said tokenization will hit velocity when end users start to get excited about applications, like borrowing cash against stock to help fund a vehicle purchase. But we're not there yet, he said\n\n00:00 - An Intro to Robert & his story in DeFi\n02:05 - Tokenisation now vs it’s ideal state\n07:40 - Has the stablecoin explosion impacted other RWA’s moving on-chain?\n11:25 - Robert’s Tokenisation “Wish List”\n15:35 - What problems were you hearing from issuers?\n22:46 - Where do you expect you toughest competition to come from?\n24:22 - Predictions for the end of the year?",
           "link": "https://decrypt.co/videos/interviews/t3mo8oyn/borrowing-against-your-tesla-stock-to-buy-a-car-is-the-future-of-defi-superstate-ceo-robert-leshner",
           "publishedOn": "2025-11-21T10:56:37.000Z",
-          "wordCount": 8008,
+          "wordCount": 7463,
           "title": "Borrowing Against Your Tesla Stock to Buy a Car Is the Future of DeFi: Superstate CEO Robert Leshner",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/t3mo8oyn/poster.jpg",
@@ -626,7 +626,7 @@
           "description": "Against The Odds: Your Weekly insight into Prediction Markets & Sports Betting! - Hosted by @Tyler_Did_It & @Geebz - Today's Guest: @0xTyrael, the #1 Mentions Market Trader will be sharing their strategies and thoughts on prediction/mention market trading with us.",
           "link": "https://decrypt.co/videos/interviews/S03jFnRg/1-mentions-market-trader-0xtyrael-shares-his-prediction-market-strategies",
           "publishedOn": "2025-11-20T18:17:31.000Z",
-          "wordCount": 7111,
+          "wordCount": 7656,
           "title": "#1 Mentions Market Trader @0xTyrael shares his Prediction Market strategies!",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/S03jFnRg/poster.jpg",
@@ -656,7 +656,7 @@
           "description": "Crypto majors were slightly green ahead of tonight’s major NVDA earnings call, with BTC hovering around $91,300, ETH up 2% at $3,090, BNB up 1% at $922, and SOL also up 1% at $139. Among top movers, MYX (+38%), STRK (+30%), and ZEC (+10%) led the pack. Bitcoin’s latest 30% drawdown unfolded far more rapidly—over 42 days—compared with the previous two drawdowns in Summer 2024 (147 days) and April 2025 (77 days). Kraken raised $800M at a $20B valuation in a round led by Jane Street, DRW, Oppenheimer, and a $200M stake from Citadel. The Ethereum Foundation outlined new goals for its upcoming Interop Layer, designed to unify all EVM L2s and make them function as “one chain.” In regulatory news, the OCC said national banks may hold and spend crypto in certain cases, such as paying for gas or testing applications. New Hampshire launched the first Bitcoin-backed municipal bond, while Mt. Gox moved 10,608 BTC—nearly $1B—from a cold wallet to new addresses, renewing expectations of imminent creditor repayments. Meanwhile, Tether made a strategic investment in Ledn to expand bitcoin-backed lending.",
           "link": "https://decrypt.co/videos/interviews/h4Jk7hvq/crypto-majors-chop-ahead-of-nvda-earnings-kraken-raises-800m-fidelity-launch-sol-etf",
           "publishedOn": "2025-11-19T16:50:40.000Z",
-          "wordCount": 7840,
+          "wordCount": 8385,
           "title": "Crypto Majors Chop ahead of NVDA earnings! Kraken raises $800M! Fidelity launch SOL ETF!",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/h4Jk7hvq/poster.jpg",
@@ -716,7 +716,7 @@
           "description": "Fundstrat Global Advisors’ Head of Research Tom Lee, who is chairman of BitMine Immersion Technologies, shares his perspective on Ethereum. He explains how the asset is being leveraged by crypto treasury firms, as well as a growing number of financial institutions.",
           "link": "https://decrypt.co/videos/interviews/llb8cG9P/how-tom-lee-is-preparing-for-ethereums-future",
           "publishedOn": "2025-11-18T11:27:28.000Z",
-          "wordCount": 7104,
+          "wordCount": 7649,
           "title": "How Tom Lee is Preparing For Ethereum’s Future",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/llb8cG9P/poster.jpg",
@@ -746,7 +746,7 @@
           "description": "Crypto majors fell 7–12% in one of the year’s biggest selloffs, with Bitcoin down 8% to $95,200, Ethereum down 11% to $3,100, BNB down 7% to $895, and Solana down 12% to $137. A few assets bucked the trend, with ZEC up 3% and LEO up 1% among top movers. Bitcoin miners and crypto-related equities were hit as well, including declines in MicroStrategy (-7%), Coinbase (-7%), and Robinhood (-9%). Market sentiment remained deeply negative, with the Crypto Fear & Greed Index holding in Extreme Fear at 16. In more positive news, JPMorgan analysts turned bullish on Circle, upgrading the stock to Overweight and raising their price target on expectations of faster USDC and stablecoin growth; Cathie Wood’s ARK added $30 million in shares. Jack Dorsey’s Cash App announced that stablecoin payments on Solana and other networks are planned for early 2026. Separately, reports surfaced that China state-backed hackers allegedly used Anthropic’s Claude Code to assist in a major cyberattack affecting roughly 30 companies. Additional disclosures revealed Epstein estate emails referencing Bitcoin discussions between Brock Pierce and Larry Summers at Jeffrey Epstein’s Manhattan townhouse. Meanwhile, Emory University doubled its Bitcoin holdings in Grayscale’s BTC Trust, bringing its total to $52 million.",
           "link": "https://decrypt.co/videos/interviews/AkCpg1Ka/bitcoin-below-95k-majors-nosedive-8-12-jpmorgan-bullish-on-circle",
           "publishedOn": "2025-11-14T16:23:14.000Z",
-          "wordCount": 7911,
+          "wordCount": 8456,
           "title": "Bitcoin below $95k! Majors nosedive 8-12%! JPMorgan bullish on Circle!",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/AkCpg1Ka/poster.jpg",
@@ -776,7 +776,7 @@
           "description": "Crypto majors are rebounding after Tuesday’s selloff, with Bitcoin (BTC) up 1% at $105,000, while Ethereum (ETH) remains even at $3,550, Binance Coin (BNB) steady at $978, and Solana (SOL) down 2% at $159. Among top movers, CC (+30%), SKY (+15%), DCR (+13%), and ASTER (+10%) led the gains. Meteora’s MET token surged 35% following news of the Uniswap fee switch. Meanwhile, Ethereum whales have accumulated over $350 million during the latest dip, with indications that institutional players are behind the buying. Circle confirmed it is evaluating an $ARC token for its stablecoin chain, while Coinbase reportedly abandoned its planned $2 billion acquisition of stablecoin firm BVNK, according to Fortune. In other developments, SoFi introduced crypto trading for its customers, offering BTC, ETH, SOL, and more. JPMorgan also launched its deposit token, JPM Coin (JPMD), on Base—marking a major expansion of its blockchain products aimed at institutional clients.",
           "link": "https://decrypt.co/videos/interviews/nmG8YixT/crypto-rebounds-lighter-15b-valuation-winklevoss-capital-fund-zcash-dat",
           "publishedOn": "2025-11-12T16:44:03.000Z",
-          "wordCount": 7651,
+          "wordCount": 8196,
           "title": "Crypto Rebounds! Lighter $1.5B Valuation! Winklevoss Capital fund Zcash DAT!",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/nmG8YixT/poster.jpg",
@@ -791,7 +791,7 @@
           "description": "Crypto majors are trading in the red after an overnight dip, with Bitcoin (BTC) down 1% at $104,800, Ethereum (ETH) down 1% at $3,550, Binance Coin (BNB) down 2% at $978, and Solana (SOL) down 3% at $163. Among top movers, Uniswap (UNI) surged 20% and Aerodrome (AERO) gained 16%, while Zcash (ZEC) tumbled 25% to $474 but remains up 16% on the week. The US Treasury and IRS issued new guidance making it easier for ETFs to stake crypto tokens and distribute rewards to investors. Uniswap also announced a major governance proposal to activate its fee switch, conduct an initial 100 million UNI token burn, and introduce several other changes, helping boost UNI by 20%. Meanwhile, the US Senate released its first draft of a crypto market structure bill, marking a significant step toward advancing regulatory clarity. In corporate news, Jack Dorsey’s Square revealed support for Bitcoin payments across its 4 million merchants, while Gemini’s stock dropped 12% after reporting a $159.5 million net loss for Q3.",
           "link": "https://decrypt.co/videos/interviews/fO8NxjwW/monad-v-megaeth-shutdown-fakeout-uni-switch",
           "publishedOn": "2025-11-11T18:34:24.000Z",
-          "wordCount": 7733,
+          "wordCount": 8278,
           "title": "Monad v MegaETH, Shutdown Fakeout, UNI Switch!",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/fO8NxjwW/poster.jpg",
@@ -808,6 +808,146 @@
       "siteUrl": "https://cryptopanic.com/",
       "articles": [
         {
+          "id": "https://cryptopanic.com/news/27564469/Mad-Cow-Disease-Grand-Theft-Auto-Dev-Warns-That-Generative-AI-Could-Harm-Games",
+          "author": null,
+          "description": "Famed GTA developer Dan Houser said models trained on synthetic data could degrade game quality as creators rapidly adopt AI tools.",
+          "link": "https://cryptopanic.com/news/27564469/Mad-Cow-Disease-Grand-Theft-Auto-Dev-Warns-That-Generative-AI-Could-Harm-Games",
+          "publishedOn": "2025-12-01T23:15:00.000Z",
+          "wordCount": 508,
+          "title": "'Mad Cow Disease': Grand Theft Auto Dev Warns That Generative AI Could Harm Games",
+          "imageUrl": "https://cdn.decrypt.co/wp-content/uploads/2025/05/grand-theft-auto-vi-gta-vi-gta-6-decrypt-style-gID_7.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/27564460/JP-Morgans-Bitcoin-Strategy-Attacking-and-Profiting",
+          "author": null,
+          "description": "Rustin talks about JP Morgan's Bitcoin Strategy: Attacking and Profiting Brought to you by Bitcoinwell. com a bitcoin-only platform on a mission to enable independence. #bitcoin #bitcoinnews #shortsopen",
+          "link": "https://cryptopanic.com/news/27564460/JP-Morgans-Bitcoin-Strategy-Attacking-and-Profiting",
+          "publishedOn": "2025-12-01T23:01:17.000Z",
+          "wordCount": 501,
+          "title": "JP Morgan's Bitcoin Strategy: Attacking and Profiting",
+          "imageUrl": "https://i3.ytimg.com/vi/vXsd_MLixVg/hqdefault.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/27563566/Why-is-crypto-going-down-today-Bitcoin-Ethereum-lead-the-spiral",
+          "author": null,
+          "description": "The markets turn fragile when liquidity runs out.",
+          "link": "https://cryptopanic.com/news/27563566/Why-is-crypto-going-down-today-Bitcoin-Ethereum-lead-the-spiral",
+          "publishedOn": "2025-12-01T23:00:49.000Z",
+          "wordCount": 505,
+          "title": "Why is crypto going down today? Bitcoin, Ethereum lead the spiral",
+          "imageUrl": "https://statics.ambcrypto.com/wp-content/uploads/2023/04/cropped-ambcrypto-favicon-270x270.png"
+        },
+        {
+          "id": "https://cryptopanic.com/news/27563621/Trump-Just-Dropped-the-AI-Bomb",
+          "author": null,
+          "description": "Trump just signed the Genesis Mission—the AI Manhattan Project. How federal supercomputers, GPUs, and memory chips fuel the next moonshot. 🤫 BITUNIX TRADE THE TOP COINS (available everywhere) $10,000 DEPOSIT BONUS 👉 https://cryptolark. co/BITUNIX 🚀 PHEMEX (available everywhere) $1,600 DEPOSIT...",
+          "link": "https://cryptopanic.com/news/27563621/Trump-Just-Dropped-the-AI-Bomb",
+          "publishedOn": "2025-12-01T23:00:46.000Z",
+          "wordCount": 500,
+          "title": "Trump Just Dropped the AI Bomb.",
+          "imageUrl": "https://i4.ytimg.com/vi/_5tdLaTYdSE/hqdefault.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/27563564/XRP-whales-dump-billions-of-tokens-Price-falls-as-distribution-trend-deepens",
+          "author": null,
+          "description": "XRP fell sharply on 1 December after major whale wallets offloaded a significant share of their holdings. On-chain data shows accelerating distribution.",
+          "link": "https://cryptopanic.com/news/27563564/XRP-whales-dump-billions-of-tokens-Price-falls-as-distribution-trend-deepens",
+          "publishedOn": "2025-12-01T23:00:41.000Z",
+          "wordCount": 507,
+          "title": "XRP whales dump billions of tokens — Price falls as distribution trend deepens",
+          "imageUrl": "https://statics.ambcrypto.com/wp-content/uploads/2023/04/cropped-ambcrypto-favicon-270x270.png"
+        },
+        {
+          "id": "https://cryptopanic.com/news/27563581/Bitcoins-lack-of-price-strength-due-to-sheepish-spot-buyers-What-happens-next",
+          "author": null,
+          "description": "Bitcoin fudged the breakout to $93,000 as global TradFi markets stumbled and BTC spot investors failed to provide the necessary volume.",
+          "link": "https://cryptopanic.com/news/27563581/Bitcoins-lack-of-price-strength-due-to-sheepish-spot-buyers-What-happens-next",
+          "publishedOn": "2025-12-01T23:00:00.000Z",
+          "wordCount": 507,
+          "title": "Bitcoin’s lack of price strength due to sheepish spot buyers: What happens next?",
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NjVlMGEtYjA4ZC03YzczLWI0NWEtN2M2ZmE3ZWJlMzBm.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/27563327/Vanguard-to-Allow-Bitcoin-Ethereum-and-XRP-ETF-Trading-in-Major-Crypto-Pivot",
+          "author": null,
+          "description": "Vanguard will allow trading of crypto-focused ETFs and mutual funds on its brokerage platform, ending years of resistance.",
+          "link": "https://cryptopanic.com/news/27563327/Vanguard-to-Allow-Bitcoin-Ethereum-and-XRP-ETF-Trading-in-Major-Crypto-Pivot",
+          "publishedOn": "2025-12-01T22:50:28.000Z",
+          "wordCount": 507,
+          "title": "Vanguard to Allow Bitcoin, Ethereum and XRP ETF Trading in Major Crypto Pivot",
+          "imageUrl": "https://cdn.decrypt.co/wp-content/uploads/2025/07/bitcoin-ethereum-decrypt-style-02-scaled-gID_7.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/27563325/Jack-Mallers-Bitcoin-Doesnt-Need-Trump-Trump-Needs-Bitcoin",
+          "author": null,
+          "description": "Jack Mallers breaks down why the Trump administration became pro-bitcoin, why politicians are all the same, and the unstoppable truth: governments, Wall Street, and even President Trump need bitcoin far more than bitcoin needs them. Watch the full Fireside Chat from Bitcoin Amsterdam here:...",
+          "link": "https://cryptopanic.com/news/27563325/Jack-Mallers-Bitcoin-Doesnt-Need-Trump-Trump-Needs-Bitcoin",
+          "publishedOn": "2025-12-01T22:45:00.000Z",
+          "wordCount": 504,
+          "title": "Jack Mallers: Bitcoin Doesn’t Need Trump — Trump Needs Bitcoin",
+          "imageUrl": "https://i1.ytimg.com/vi/4kBCEbCWf1s/hqdefault.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/27564468/Bitcoins-Famous-4-Year-Cycle-Is-Breaking-Down-What-Now",
+          "author": null,
+          "description": "Since its inception in 2009, Bitcoin has shown a consistent four-year cycle. It’s driven by massive moves centered around Bitcoin’s halving, peaking with a blow-off top the next year. Since the 2024 halving, Bitcoin prices have trended higher, but none of the signs of a speculative blow-off top...",
+          "link": "https://cryptopanic.com/news/27564468/Bitcoins-Famous-4-Year-Cycle-Is-Breaking-Down-What-Now",
+          "publishedOn": "2025-12-01T22:33:06.000Z",
+          "wordCount": 504,
+          "title": "Bitcoin’s Famous 4-Year Cycle Is Breaking Down — What Now?",
+          "imageUrl": "https://assets.beincrypto.com/img/sTgeCMkqZk0Ef9e7jFt77tkV4R8=/smart/35218cfb9a18427786d6206cc71cb95b"
+        },
+        {
+          "id": "https://cryptopanic.com/news/27563261/Kalshi-Pushes-Further-Into-Crypto-With-On-Chain-Prediction-Markets-on-Solana",
+          "author": null,
+          "description": "Kalshi's prediction market contracts are now tokenized on Solana, unlocking access to the crypto economy, the firm announced on Monday.",
+          "link": "https://cryptopanic.com/news/27563261/Kalshi-Pushes-Further-Into-Crypto-With-On-Chain-Prediction-Markets-on-Solana",
+          "publishedOn": "2025-12-01T22:27:53.000Z",
+          "wordCount": 505,
+          "title": "Kalshi Pushes Further Into Crypto With On-Chain Prediction Markets on Solana",
+          "imageUrl": "https://cdn.decrypt.co/wp-content/uploads/2025/10/prediction-market-decrypt-style-gID_7.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/27563297/JUST-IN-Fed-Vice-Chair-Bowman-says-bank-regulators-are-working-on-new-stablecoin-rules-Bloomberg",
+          "author": null,
+          "description": "",
+          "link": "https://cryptopanic.com/news/27563297/JUST-IN-Fed-Vice-Chair-Bowman-says-bank-regulators-are-working-on-new-stablecoin-rules-Bloomberg",
+          "publishedOn": "2025-12-01T22:26:10.000Z",
+          "wordCount": 512,
+          "title": "JUST IN: 🇺🇸 Fed Vice Chair Bowman says bank regulators are working on new stablecoin rules - Bloomberg",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptopanic.com/news/27563251/Yearn-recovers-24-million-in-stolen-assets-stemming-from-unchecked-arithmetic-bug",
+          "author": null,
+          "description": "Yearn Finance lost about $9 million in an exploit on Sunday, after an attacker was able to mint a near-infinite amount of yETH tokens.",
+          "link": "https://cryptopanic.com/news/27563251/Yearn-recovers-24-million-in-stolen-assets-stemming-from-unchecked-arithmetic-bug",
+          "publishedOn": "2025-12-01T22:24:18.000Z",
+          "wordCount": 506,
+          "title": "Yearn recovers $2.4 million in stolen assets stemming from ‘unchecked arithmetic’ bug",
+          "imageUrl": "https://www.tbstat.com/wp/uploads/2025/09/buy-hacks-security-800x450.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/27563249/Yearn-Finance-Recovers-24M-after-pxETH-Exploit-Incident",
+          "author": null,
+          "description": "Yearn Finance regains $2. 4M post-exploit via pxETH token recovery; market reacts.",
+          "link": "https://cryptopanic.com/news/27563249/Yearn-Finance-Recovers-24M-after-pxETH-Exploit-Incident",
+          "publishedOn": "2025-12-01T22:20:02.000Z",
+          "wordCount": 502,
+          "title": "Yearn Finance Recovers $2.4M after pxETH Exploit Incident",
+          "imageUrl": "https://coincu.com/wp-content/uploads/2025/12/yearn-finance-victory-scene-file.jpeg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/27563295/JUST-IN-11-trillion-Vanguard-to-allow-clients-to-buy-crypto-ETFs-starting-tomorrow",
+          "author": null,
+          "description": "This is good for the HBAR ETF.   submitted by   /u/HBAR_10_DOLLARS [link]   [comments]",
+          "link": "https://cryptopanic.com/news/27563295/JUST-IN-11-trillion-Vanguard-to-allow-clients-to-buy-crypto-ETFs-starting-tomorrow",
+          "publishedOn": "2025-12-01T22:12:56.000Z",
+          "wordCount": 510,
+          "title": "Ħ JUST IN: $11 trillion Vanguard to allow clients to buy crypto ETFs starting tomorrow. Ħ",
+          "imageUrl": "https://external-preview.redd.it/GcueH0OJCW34lyOcAcTTm0Ny8xs22bxyOne7ryXFWNs.jpeg?width=640&crop=smart&auto=webp&s=f938305a77ba75d7edb26156b1cae4a8877a05d8"
+        },
+        {
           "id": "https://cryptopanic.com/news/27562856/Vanguard-Takes-First-Major-Step-Toward-Crypto-Exposure-With-New-ETF-Policy",
           "author": null,
           "description": "Vanguard is taking a surprising turn toward crypto exposure, announcing that starting Tuesday it will allow ETFs and mutual funds holding Bitcoin, Ethereum, XRP, and Solana to trade on its platform. The decision represents a significant shift for an institution long viewed as one of the most...",
@@ -816,6 +956,16 @@
           "wordCount": 506,
           "title": "Vanguard Takes First Major Step Toward Crypto Exposure With New ETF Policy",
           "imageUrl": "https://www.ethnews.com/wp-content/uploads/2023/05/cropped-triangle-_1_-270x270.jpg"
+        },
+        {
+          "id": "https://cryptopanic.com/news/27563326/Vanguard-Opens-Platform-to-Crypto-ETFs-in-Major-Shift-Bloomberg",
+          "author": null,
+          "description": "Vanguard has officially opened its platform to allow trading and investment in cryptocurrency exchange-traded funds (ETFs), marking a significant shift in the company's approach to the evolving financial landscape, as reported by Bloomberg. This move reflects Vanguard's recognition of the...",
+          "link": "https://cryptopanic.com/news/27563326/Vanguard-Opens-Platform-to-Crypto-ETFs-in-Major-Shift-Bloomberg",
+          "publishedOn": "2025-12-01T22:08:44.000Z",
+          "wordCount": 504,
+          "title": "Vanguard Opens Platform to Crypto ETFs in Major Shift: Bloomberg",
+          "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/bab22288f6f49ac88c31fef527a24710bf6ee3fa-1500x1000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
         },
         {
           "id": "https://cryptopanic.com/news/27562855/Kalshi-Wants-Protection-From-State-Regulators-as-It-Appeals-Nevada-Loss",
@@ -848,164 +998,14 @@
           "imageUrl": "https://www.ethnews.com/wp-content/uploads/2023/05/cropped-triangle-_1_-270x270.jpg"
         },
         {
-          "id": "https://cryptopanic.com/news/27562239/Bitcoin-falls-to-84K-Is-Japans-bond-market-the-culprit-or-is-more-at-play",
+          "id": "https://cryptopanic.com/news/27563252/Shareholders-sue-Coinbase-C-suite-over-alleged-42B-insider-sell-off",
           "author": null,
-          "description": "Bitcoin’s decline to $84,000 was driven by USD stablecoin concerns, a weakening global macroeconomic outlook and factors beyond Japan’s bond market stress.",
-          "link": "https://cryptopanic.com/news/27562239/Bitcoin-falls-to-84K-Is-Japans-bond-market-the-culprit-or-is-more-at-play",
-          "publishedOn": "2025-12-01T22:01:16.000Z",
-          "wordCount": 509,
-          "title": "Bitcoin falls to $84K: Is Japan’s bond market the culprit, or is more at play?",
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWRiODQtODg4Ni03YzA0LWI0MzAtMTFjM2U2YmNiNzA2.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/27562435/Can-Bitcoin-Fix-Americas-Financial-System",
-          "author": null,
-          "description": "Natalie Brunell is one of the leading voices in bitcoin, widely respected for helping millions understand the asset and the broader macro landscape. In this conversation, we break down why bitcoin’s price has stalled, how it stacks up against gold, the biggest misconceptions critics still get...",
-          "link": "https://cryptopanic.com/news/27562435/Can-Bitcoin-Fix-Americas-Financial-System",
-          "publishedOn": "2025-12-01T22:01:06.000Z",
-          "wordCount": 500,
-          "title": "Can Bitcoin Fix America’s Financial System?",
-          "imageUrl": "https://i4.ytimg.com/vi/s6WP664pkec/hqdefault.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/27562248/What-The-Rapid-XRP-Outlfows-From-Crypto-Exchanges-Mean-For-The-Price",
-          "author": null,
-          "description": "A sudden drop in XRP balances across major crypto exchanges has led to speculations about how this might affect the cryptocurrency’s price action. The movement was highlighted by analyst Vincent Van Code, who explained that the transfers are not simply a sign of long-term holders scooping up...",
-          "link": "https://cryptopanic.com/news/27562248/What-The-Rapid-XRP-Outlfows-From-Crypto-Exchanges-Mean-For-The-Price",
-          "publishedOn": "2025-12-01T22:00:49.000Z",
-          "wordCount": 506,
-          "title": "What The Rapid XRP Outlfows From Crypto Exchanges Mean For The Price",
-          "imageUrl": "https://www.newsbtc.com/wp-content/uploads/2025/12/XRP-from-Pxfuel.jpg?fit=714%2C536"
-        },
-        {
-          "id": "https://cryptopanic.com/news/27561970/Bearish-Signals-Abound-for-Bitcoin-and-Ethereum-Heres-What-the-Charts-Say",
-          "author": null,
-          "description": "Bitcoin fell as low as $85,000 today, with Ethereum likewise down nearly 10%. Prediction markets are beginning to reflect what the charts are suggesting.",
-          "link": "https://cryptopanic.com/news/27561970/Bearish-Signals-Abound-for-Bitcoin-and-Ethereum-Heres-What-the-Charts-Say",
-          "publishedOn": "2025-12-01T21:58:02.000Z",
-          "wordCount": 506,
-          "title": "Bearish Signals Abound for Bitcoin and Ethereum: Here’s What the Charts Say",
-          "imageUrl": "https://cdn.decrypt.co/wp-content/uploads/2025/06/Chart4_red-gID_7.png"
-        },
-        {
-          "id": "https://cryptopanic.com/news/27561994/Big-contrarian-call-Bitcoin-to-rip-higher-in-December",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/27561994/Big-contrarian-call-Bitcoin-to-rip-higher-in-December",
-          "publishedOn": "2025-12-01T21:49:55.000Z",
-          "wordCount": 504,
-          "title": "Big, contrarian call. \n\nBitcoin to rip higher in December. \n\n🤔",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/27562772/Seller-Exhaustion-or-a-Bottom-Strategy-Gains-11-From-Sessions-Worst-Levels",
-          "author": null,
-          "description": "The market experienced a significant fluctuation, sparking discussions among investors about whether the current situation reflects seller exhaustion or if it marks a definitive bottom. During the session, the trading strategy in question achieved an impressive 11% gain, recovering from its...",
-          "link": "https://cryptopanic.com/news/27562772/Seller-Exhaustion-or-a-Bottom-Strategy-Gains-11-From-Sessions-Worst-Levels",
-          "publishedOn": "2025-12-01T21:49:32.000Z",
-          "wordCount": 506,
-          "title": "Seller Exhaustion or a Bottom? Strategy Gains 11% From Session's Worst Levels",
-          "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/f3c4b359de99d04f5c48e6993dedba6a0884c57b-720x406.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-        },
-        {
-          "id": "https://cryptopanic.com/news/27561956/Strategy-Inc-Establishes-144-Billion-Reserve-for-Dividends",
-          "author": null,
-          "description": "Strategy Inc. forms a $1. 44 billion reserve for dividends amid fluctuating Bitcoin prices, enhancing financial stability.",
-          "link": "https://cryptopanic.com/news/27561956/Strategy-Inc-Establishes-144-Billion-Reserve-for-Dividends",
-          "publishedOn": "2025-12-01T21:49:28.000Z",
-          "wordCount": 502,
-          "title": "Strategy Inc. Establishes $1.44 Billion Reserve for Dividends",
-          "imageUrl": "https://coincu.com/wp-content/uploads/2025/12/michael-saylor-bitcoin-cartoon-file.jpeg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/27561992/INTEL-Apple-AAPL-hits-a-fresh-all-time-high-pushing-its-market-value-to-42-trillion",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/27561992/INTEL-Apple-AAPL-hits-a-fresh-all-time-high-pushing-its-market-value-to-42-trillion",
-          "publishedOn": "2025-12-01T21:46:42.000Z",
-          "wordCount": 509,
-          "title": "INTEL: Apple $AAPL hits a fresh all-time high, pushing its market value to $4.2 trillion",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopanic.com/news/27561936/Towns-Turns-Group-Chats-Into-Money-Making-Hubs",
-          "author": null,
-          "description": "A beginner’s guide to Towns, the Base chat app where communities can earn, trade, tip, and deploy bots inside their convos.",
-          "link": "https://cryptopanic.com/news/27561936/Towns-Turns-Group-Chats-Into-Money-Making-Hubs",
-          "publishedOn": "2025-12-01T21:45:33.000Z",
-          "wordCount": 501,
-          "title": "Towns Turns Group Chats Into Money-Making Hubs",
-          "imageUrl": "https://cdn.bankless.com/posts/full/2025-12-01/towns-base-chat-app-featured-image-692dd88f04cc25000127df3c.webp"
-        },
-        {
-          "id": "https://cryptopanic.com/news/27561954/Why-Bitcoin-Could-Crash-to-45000-Bottom-as-Metric-Signals-Long-Term-Bear-Market-Ahead",
-          "author": null,
-          "description": "Bitcoin is heading into 2026 in bearish territory, and some analysts are already predicting a long-term bear market.",
-          "link": "https://cryptopanic.com/news/27561954/Why-Bitcoin-Could-Crash-to-45000-Bottom-as-Metric-Signals-Long-Term-Bear-Market-Ahead",
-          "publishedOn": "2025-12-01T21:42:08.000Z",
-          "wordCount": 508,
-          "title": "Why Bitcoin Could Crash to $45,000 Bottom as Metric Signals Long-Term Bear Market Ahead",
-          "imageUrl": "https://zycrypto.com/wp-content/uploads/2019/03/ZyCrypto.png"
-        },
-        {
-          "id": "https://cryptopanic.com/news/27561923/Kalshi-taps-Solana-to-tokenize-betting-contracts-Report",
-          "author": null,
-          "description": "The move could challenge other prediction platforms by providing Kalshi users with greater anonymity through tokenized buys and sales on the Solana blockchain.",
-          "link": "https://cryptopanic.com/news/27561923/Kalshi-taps-Solana-to-tokenize-betting-contracts-Report",
-          "publishedOn": "2025-12-01T21:39:27.000Z",
-          "wordCount": 502,
-          "title": "Kalshi taps Solana to tokenize betting contracts: Report",
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWRiYTMtOGJmMi03ZDQyLWIyMDYtNGU1MjM2Mzc1YzM1.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/27561918/Former-Gryphon-executives-to-lead-Trump-Media-Cryptocom-treasury-company",
-          "author": null,
-          "description": "The appointments come ahead of a planned SPAC merger that will create a publicly traded company dedicated to accumulating and staking Cronos’ native token.",
-          "link": "https://cryptopanic.com/news/27561918/Former-Gryphon-executives-to-lead-Trump-Media-Cryptocom-treasury-company",
-          "publishedOn": "2025-12-01T21:35:05.000Z",
-          "wordCount": 504,
-          "title": "Former Gryphon executives to lead Trump Media, Crypto.com treasury company",
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDRiZGUtY2YxZi03OGE5LTg3MTktM2MyNjczYTg3MzVi.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/27561904/First-Chainlink-ETF-set-to-begin-trading-on-Tuesday-as-exchange-signs-off-on-Grayscales-LINK-fund",
-          "author": null,
-          "description": "The first exchange-traded fund tracking Chainlink is set to begin trading on Tuesday on the New York Stock Exchange.",
-          "link": "https://cryptopanic.com/news/27561904/First-Chainlink-ETF-set-to-begin-trading-on-Tuesday-as-exchange-signs-off-on-Grayscales-LINK-fund",
-          "publishedOn": "2025-12-01T21:31:31.000Z",
-          "wordCount": 511,
-          "title": "First Chainlink ETF set to begin trading on Tuesday as exchange signs off on Grayscale’s LINK fund",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2025/09/20250919_Greyscale_News-800x450.jpg"
-        },
-        {
-          "id": "https://cryptopanic.com/news/27561896/House-report-documents-Biden-era-Operation-Choke-Point-20-crypto-debanking",
-          "author": null,
-          "description": "Republicans documented how Biden regulators used \"pause letters\" to debank at least 30 crypto entities.",
-          "link": "https://cryptopanic.com/news/27561896/House-report-documents-Biden-era-Operation-Choke-Point-20-crypto-debanking",
-          "publishedOn": "2025-12-01T21:30:27.000Z",
-          "wordCount": 504,
-          "title": "House report documents Biden-era “Operation Choke Point 2.0” crypto debanking",
-          "imageUrl": "https://statics.ambcrypto.com/wp-content/uploads/2023/04/cropped-ambcrypto-favicon-270x270.png"
-        },
-        {
-          "id": "https://cryptopanic.com/news/27561916/PlayStation-Goes-Crypto-Sony-Reportedly-Set-To-Launch-US-Dollar-Pegged-Stablecoin-Next-Year",
-          "author": null,
-          "description": "78-year-old Japanese electronics giant Sony, the maker of PlayStation, is the latest legacy megacorp to explore stablecoin issuance.",
-          "link": "https://cryptopanic.com/news/27561916/PlayStation-Goes-Crypto-Sony-Reportedly-Set-To-Launch-US-Dollar-Pegged-Stablecoin-Next-Year",
-          "publishedOn": "2025-12-01T21:30:27.000Z",
-          "wordCount": 507,
-          "title": "PlayStation Goes Crypto? Sony Reportedly Set To Launch U.S. Dollar-Pegged Stablecoin Next Year",
-          "imageUrl": "https://zycrypto.com/wp-content/uploads/2019/03/ZyCrypto.png"
-        },
-        {
-          "id": "https://cryptopanic.com/news/27561919/INTEL-Vanguard-will-begin-offering-clients-access-to-cryptocurrency-ETFs-and-funds-starting-tomorrow",
-          "author": null,
-          "description": "",
-          "link": "https://cryptopanic.com/news/27561919/INTEL-Vanguard-will-begin-offering-clients-access-to-cryptocurrency-ETFs-and-funds-starting-tomorrow",
-          "publishedOn": "2025-12-01T21:29:47.000Z",
-          "wordCount": 508,
-          "title": "INTEL: Vanguard will begin offering clients access to cryptocurrency ETFs and funds starting tomorrow",
-          "imageUrl": null
+          "description": "A second derivative complaint filed in Delaware claims Coinbase insiders unloaded billions in stock.",
+          "link": "https://cryptopanic.com/news/27563252/Shareholders-sue-Coinbase-C-suite-over-alleged-42B-insider-sell-off",
+          "publishedOn": "2025-12-01T22:04:31.000Z",
+          "wordCount": 503,
+          "title": "Shareholders sue Coinbase C-suite over alleged $4.2B insider sell-off",
+          "imageUrl": "https://www.thestreet.com/.image/c_fit%2Ch_800%2Cw_1200/MjE4ODM5MTAzNDQ4Mjk1MDE0/brian-armstrong-co-founder-and-chief-executive-officer-of-coinbase.jpg"
         }
       ]
     },
@@ -1014,6 +1014,71 @@
       "feedUrl": "https://www.inoreader.com/stream/user/1005336866/tag/%E6%B5%B7%E5%A4%96%E5%8A%A0%E5%AF%86%E8%B5%84%E8%AE%AF",
       "siteUrl": "https://www.inoreader.com/stream/user/1005336866/tag/%E6%B5%B7%E5%A4%96%E5%8A%A0%E5%AF%86%E8%B5%84%E8%AE%AF/view/html",
       "articles": [
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e76b231ea97",
+          "author": "Terence Zimwara",
+          "description": "Jordan is set to lift its ban on cryptocurrency trading, with the Jordan Securities Commission confirming that a comprehensive digital asset regulatory framework will be ready before the end of the year. Shift from Prohibition to Regulation Jordan is moving to lift its ban on cryptocurrency trading, with the government and the Jordan Securities Commission […]",
+          "link": "https://news.bitcoin.com/jordan-to-lift-crypto-trading-ban-launch-regulatory-framework-by-year-end/",
+          "publishedOn": "2025-12-01T22:59:59.000Z",
+          "wordCount": 536,
+          "title": "Jordan to Lift Crypto Trading Ban, Launch Regulatory Framework by Year-End",
+          "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2025/12/jdn.png"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e76b231ea91",
+          "author": "Sergio Goschenko",
+          "description": "Arthur Hayes believes Tether, the largest stablecoin issuer, is positioning for upcoming dovish Federal Reserve moves. Hayes pointed to rising gold and bitcoin as evidence, saying these assets would likely rally in a low‑interest‑rate scenario. Arthur Hayes: Tether Prepares For Low Interest Rate Scenario The Facts Arthur Hayes, former CEO of Bitmex, has addressed the […]",
+          "link": "https://news.bitcoin.com/arthur-hayes-tethers-gold-and-btc-hoarding-anticipates-major-interest-rate-cuts/",
+          "publishedOn": "2025-12-01T22:59:59.000Z",
+          "wordCount": 584,
+          "title": "Arthur Hayes: Tether’s Gold and BTC Hoarding Anticipates Major Interest-Rate Cuts",
+          "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2025/12/shutterstock_2284007257.jpg"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e76b2322c90",
+          "author": "Jesse Hamilton",
+          "description": "FDIC Acting Chairman Travis Hill is set to testify at a House hearing that his agency is ready to propose a stablecoin application rule before the month is out.",
+          "link": "https://www.coindesk.com/policy/2025/12/01/u-s-fdic-chief-says-first-genius-act-regulations-heading-for-proposal-this-month",
+          "publishedOn": "2025-12-01T22:57:22.000Z",
+          "wordCount": 9862,
+          "title": "U.S. FDIC Chief Says First GENIUS Act Regulations Heading for Proposal This Month",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/*",
+            "url": "https://cdn.sanity.io/images/s3y3vcno/production/c2a2a96eac6cd97803a69d711c47febf99da6f15-1920x1080.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/c2a2a96eac6cd97803a69d711c47febf99da6f15-1920x1080.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e76b2322c8f",
+          "author": "Krisztian Sandor",
+          "description": "The move will give access to the firm's 50 million clients to invest in regulated digital asset ETFs, a reversal from Vanguard's long-standing anti-crypto stance.",
+          "link": "https://www.coindesk.com/business/2025/12/01/vanguard-opens-platform-to-crypto-etfs-in-major-shift-bloomberg",
+          "publishedOn": "2025-12-01T22:57:22.000Z",
+          "wordCount": 9506,
+          "title": "Vanguard Opens Platform to Crypto ETFs in Major Shift: Bloomberg",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/*",
+            "url": "https://cdn.sanity.io/images/s3y3vcno/production/bab22288f6f49ac88c31fef527a24710bf6ee3fa-1500x1000.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/bab22288f6f49ac88c31fef527a24710bf6ee3fa-1500x1000.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e76b2322c8e",
+          "author": "Stephen Alpher",
+          "description": "Peter Schiff took a victory lap after the company Monday morning announced it had raised $1.44 billion via common stock sales as a reserve to pay preferred dividends for nearly two years.",
+          "link": "https://www.coindesk.com/markets/2025/12/01/seller-exhaustion-or-a-bottom-strategy-gains-11-from-session-s-worst-levels",
+          "publishedOn": "2025-12-01T22:57:22.000Z",
+          "wordCount": 9914,
+          "title": "Seller Exhaustion or a Bottom? Strategy Gains 11% From Session's Worst Levels",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/*",
+            "url": "https://cdn.sanity.io/images/s3y3vcno/production/f3c4b359de99d04f5c48e6993dedba6a0884c57b-720x406.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/f3c4b359de99d04f5c48e6993dedba6a0884c57b-720x406.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip"
+        },
         {
           "id": "http://www.inoreader.com/article/3a9c6e76b23fb2d1",
           "author": "Jared Kirui",
@@ -1075,7 +1140,7 @@
           "description": "The prediction market is rolling out tokenized contracts on Solana to meet crypto traders where they already are, Kalshi told CNBC.",
           "link": "https://www.coindesk.com/business/2025/12/01/kalshi-launches-tokenized-event-bets-on-solana-blockchain-cnbc",
           "publishedOn": "2025-12-01T20:28:29.000Z",
-          "wordCount": 9549,
+          "wordCount": 9565,
           "title": "Kalshi Launches Tokenized Event Bets on Solana Blockchain: CNBC",
           "enclosure": {
             "length": "1337",
@@ -1155,7 +1220,7 @@
           "description": "The move marks the first time spot crypto assets can trade on a federally regulated commodities venue, signaling the CFTC’s accelerating push to oversee retail digital-asset markets.",
           "link": "https://www.coindesk.com/business/2025/12/01/bitnomial-to-debut-first-cftc-regulated-spot-crypto-market",
           "publishedOn": "2025-12-01T18:51:30.000Z",
-          "wordCount": 9359,
+          "wordCount": 9362,
           "title": "Bitnomial Prepares to Debut First CFTC-Regulated Spot Crypto Market",
           "enclosure": {
             "length": "1337",
@@ -1170,7 +1235,7 @@
           "description": "For now, Jack Mallers decided to not comment any further and JPMorgan declined to explain why it debanked the CEO of a company very similar to newly launched JPM Coin.",
           "link": "https://www.coindesk.com/business/2025/12/01/jpmorgan-and-strike-ceo-jack-mallers-go-silent-leave-debanking-questions-unanswered",
           "publishedOn": "2025-12-01T18:51:30.000Z",
-          "wordCount": 10547,
+          "wordCount": 10573,
           "title": "JPMorgan and Strike CEO Jack Mallers Go Silent, Leaving 'Debanking' Questions Unanswered",
           "enclosure": {
             "length": "1337",
@@ -1185,7 +1250,7 @@
           "description": "French Hill, the chairman of the House Financial Services Committee, issued a report outlining what went on at several U.S. crypto regulators in past years.",
           "link": "https://www.coindesk.com/policy/2025/12/01/u-s-house-lawmakers-detail-grievances-over-government-s-choke-point-2-0",
           "publishedOn": "2025-12-01T18:51:30.000Z",
-          "wordCount": 10191,
+          "wordCount": 10058,
           "title": "U.S. House Lawmakers Detail Grievances Over Government's 'Choke Point 2.0'",
           "enclosure": {
             "length": "1337",
@@ -1200,7 +1265,7 @@
           "description": "Hedera’s 10% drop on Dec. 1 has pushed HBAR back to a key support zone, where consolidation, fading volume, and institutional selling pressure are shaping the next move.",
           "link": "https://www.coindesk.com/markets/2025/12/01/hedera-tumbles-10-to-crucial-support-on-heavy-volume",
           "publishedOn": "2025-12-01T18:51:30.000Z",
-          "wordCount": 9867,
+          "wordCount": 9849,
           "title": "Hedera Tumbles 10% to Crucial Support on Heavy Volume",
           "enclosure": {
             "length": "1337",
@@ -1208,71 +1273,6 @@
             "url": "https://cdn.sanity.io/images/s3y3vcno/production/f9f51951a90cafaacf5a99950ea7e4e26afdfdcf-700x430.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip"
           },
           "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/f9f51951a90cafaacf5a99950ea7e4e26afdfdcf-700x430.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e76b217df98",
-          "author": "CD Analytics",
-          "description": "The token broke below $12, breaching key support levels with heavy trading volume, confirming the downtrend.",
-          "link": "https://www.coindesk.com/markets/2025/12/01/chainlink-s-link-slides-11-as-technical-breakdown-overshadows-etf-launch-news",
-          "publishedOn": "2025-12-01T18:51:30.000Z",
-          "wordCount": 9724,
-          "title": "Chainlink's LINK Slides 11% as Technical Breakdown Overshadows ETF Launch News",
-          "enclosure": {
-            "length": "1337",
-            "type": "image/*",
-            "url": "https://cdn.sanity.io/images/s3y3vcno/production/d93f3c45cca8a0363e33dde2ef9b4e899c3bb685-700x430.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/d93f3c45cca8a0363e33dde2ef9b4e899c3bb685-700x430.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e76b217df94",
-          "author": "Will Canny",
-          "description": "The average network hashrate fell 1% last month after hitting record highs in October.",
-          "link": "https://www.coindesk.com/markets/2025/12/01/bitcoin-mining-profitability-fell-for-fourth-consecutive-month-in-november-jpmorgan",
-          "publishedOn": "2025-12-01T18:51:30.000Z",
-          "wordCount": 9205,
-          "title": "Bitcoin Mining Profitability Fell for Fourth Consecutive Month in November: JPMorgan",
-          "enclosure": {
-            "length": "1337",
-            "type": "image/*",
-            "url": "https://cdn.sanity.io/images/s3y3vcno/production/a944f5c40b9f1fece6ecb4c387377f37ae7134cc-1920x1080.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/a944f5c40b9f1fece6ecb4c387377f37ae7134cc-1920x1080.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e76b21efe0c",
-          "author": "Jamie Redman",
-          "description": "It’s an unexpectedly bruising day for crypto assets, tumbling right in step with U.S. equities on Monday, Dec. 1, 2025. The world’s largest digital asset by market cap, bitcoin, slid more than 7.5% and tapped a low of $83,814 per coin. That slip yanked the rest of the market downhill, with altcoins clocking hefty double-digit […]",
-          "link": "https://news.bitcoin.com/crypto-traders-crushed-as-long-positions-are-vaporized-in-market-freefall/",
-          "publishedOn": "2025-12-01T18:02:48.000Z",
-          "wordCount": 616,
-          "title": "Crypto Traders Crushed as Long Positions Are Vaporized in Market Freefall",
-          "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2025/12/dwn.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARQKIT2TMGZBKV2L6%2F20251201%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251201T172131Z&X-Amz-SignedHeaders=host&X-Amz-Expires=600&X-Amz-Signature=5f181b006f1837a4a831419051455ab81155697620b508917cd4cc675f2241f3"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e76b21f08e9",
-          "author": "Jared Kirui",
-          "description": "Authorities across Europe have shut down a crypto-mixing service \"Cryptomixer\",  \nallegedly used by cybercriminals to launder Bitcoin,  \nseizing millions in crypto, critical servers, and terabytes of data. \nBetween November 24 and 28, 2025, law enforcement  \nagencies from Switzerland and Germany, coordinated by Europol, targeted  \nCryptomixer, alleged to have laundered over €1.3  \nbillion ($1.51 billion) in Bitcoin since 2016. \nAccording to Europol, authorities confiscated three  \nservers, the platform’s domain, more than €25 million ($29 million) in BTC, and  \nover 12 terabytes of operational data.\n\nEuropol supports Germany and Switzerland in taking down 'Cryptomixer', seizing EUR 25 million in Bitcoin. This illicit mixing service facilitated money laundering of proceeds from a variety of…",
-          "link": "https://www.financemagnates.com/cryptocurrency/bitcoin-mixer-tied-to-13-billion-in-illicit-flows-taken-down-by-european-authorities/",
-          "publishedOn": "2025-12-01T18:02:32.000Z",
-          "wordCount": 17299,
-          "title": "Bitcoin Mixer Tied to €1.3 Billion in Illicit Flows Taken Down by European Authorities",
-          "imageUrl": "https://images.financemagnates.com/images/Europol%20%28shutterstock%29_id_44a2d58f-c754-4485-a3b7-493dbfc58c84_size900.jpg"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e76b21f12c9",
-          "author": "Godspower Owie",
-          "description": "Following a rebound in the broader cryptocurrency market on Sunday, Bitcoin‘s price moved back above the $91,000 mark. Despite this bullish price action, which was brief as BTC has lost the level, major BTC holders are sharply exiting the market, raising questions about the stability of the current bounce.\n \nA Key Bitcoin Cohort Has Stopped Accumulating\n \nIn the ongoing market recovery, there has been a shift in sentiment among Bitcoin key investors. A recent report by Joao Wedson, a market expert and founder of Alphractal, reveals that BTC’s typically unshakable giants, also known as whales, have now gone quiet.\n \n \nFollowing several months of strategic buying activity, the whale cohort, those wealthy individuals who frequently control and influence market trends, has abruptly stopped acc…",
-          "link": "https://bitcoinist.com/bitcoin-accumulation-pause-button/",
-          "publishedOn": "2025-12-01T18:01:52.000Z",
-          "wordCount": 5631,
-          "title": "Bitcoin Accumulation Hit Pause Button As Whales Step Back From The Market – What This Means",
-          "enclosure": {
-            "length": "1337",
-            "type": "image/jpeg",
-            "url": "https://bitcoinist.com/wp-content/uploads/2025/12/Bitcoin-from-Pngtree-35.png?fit=640,320"
-          },
-          "imageUrl": "https://bitcoinist.com/wp-content/uploads/2025/12/Bitcoin-from-Pngtree-35.png?fit=640,320"
         }
       ]
     }

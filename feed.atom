@@ -1,396 +1,386 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-14T11:05:23.966Z</id>
+    <id>urn:2026-04-21T22:40:06.892Z</id>
     <title>web3::cave</title>
-    <updated>2026-04-14T11:05:23.966Z</updated>
+    <updated>2026-04-21T22:40:06.892Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Bitcoin Nears $75K As Risk-on Sentiment, Geopolitical Landscape Improves]]></title>
-        <id>https://decrypt.co/?p=364285</id>
-        <link href="https://decrypt.co/364285/bitcoin-nears-75k-as-risk-on-sentiment-geopolitical-landscape-improves"/>
-        <updated>2026-04-14T10:55:45.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin’s push towards $75K comes amid declining bearish options flow and spot buying, with analysts leaning slightly bullish.]]></summary>
+        <title type="html"><![CDATA[Coinbase Flags Proof-of-Stake Chains Like Ethereum, Solana as Potential Quantum Risks]]></title>
+        <id>https://decrypt.co/?p=365079</id>
+        <link href="https://decrypt.co/365079/coinbase-proof-of-stake-blockchains-ethereum-solana-quantum-risk"/>
+        <updated>2026-04-21T21:54:18.000Z</updated>
+        <summary type="html"><![CDATA[Advisory council says validator signatures and wallet cryptography could be vulnerable if future quantum computers break current encryption.]]></summary>
+        <author>
+            <name>Jason Nelson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Core Scientific Reveals $3.3 Billion Junk-Bond Sale to Pivot Further from Bitcoin Mining to AI]]></title>
+        <id>https://decrypt.co/?p=365080</id>
+        <link href="https://decrypt.co/365080/core-scientific-3-3-billion-junk-bond-sale-pivot-bitcoin-mining-ai"/>
+        <updated>2026-04-21T21:53:33.000Z</updated>
+        <summary type="html"><![CDATA[Core Scientific, a Bitcoin miner turned data center operator, said that it plans to offer $3.3 billion worth of speculative-grade debt.]]></summary>
+        <author>
+            <name>André Beganski</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Strategy Now Holds $62 Billion in Bitcoin—These Are Its Biggest BTC Buys]]></title>
+        <id>https://decrypt.co/?p=292448</id>
+        <link href="https://decrypt.co/292448/microstrategy-biggest-bitcoin-buys"/>
+        <updated>2026-04-21T20:33:50.000Z</updated>
+        <summary type="html"><![CDATA[How did Michael Saylor's firm amass a record stash of Bitcoin? Here's a look back at how Strategy made such massive gains.]]></summary>
+        <author>
+            <name>Logan Hitchcock</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Revolut Targeting $200 Billion Valuation in IPO—But Not Until 2028: FT]]></title>
+        <id>https://decrypt.co/?p=365069</id>
+        <link href="https://decrypt.co/365069/revolut-targeting-200-billion-valuation-ipo-not-until-2028"/>
+        <updated>2026-04-21T20:23:06.000Z</updated>
+        <summary type="html"><![CDATA[Global fintech firm Revolut is eying a $200 billion IPO, according to a report—but don't expect the move any time soon.]]></summary>
+        <author>
+            <name>Logan Hitchcock</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Fixes AI Coding Tool Flaw That Let Attackers Execute Malicious Code: Report]]></title>
+        <id>https://decrypt.co/?p=365068</id>
+        <link href="https://decrypt.co/365068/google-fixes-ai-coding-tool-flaw-attackers-execute-malicious-code"/>
+        <updated>2026-04-21T20:02:05.000Z</updated>
+        <summary type="html"><![CDATA[Researchers say a prompt injection bug in Google's Antigravity AI coding tool could have let attackers run commands, despite safeguards.]]></summary>
+        <author>
+            <name>Jason Nelson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prediction Market Giants Kalshi, Polymarket Eye Perpetual Futures Push: Report]]></title>
+        <id>https://decrypt.co/?p=365070</id>
+        <link href="https://decrypt.co/365070/prediction-market-giants-kalshi-polymarket-perpetual-futures"/>
+        <updated>2026-04-21T19:41:50.000Z</updated>
+        <summary type="html"><![CDATA[The leading prediction market firms are reportedly planning to push deeper into derivatives by supporting perpetual futures trading.]]></summary>
+        <author>
+            <name>André Beganski</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tether Asserts Stablecoin Dominance Over Circle's USDC Amid Major Crypto Hacks]]></title>
+        <id>https://decrypt.co/?p=365049</id>
+        <link href="https://decrypt.co/365049/tether-stablecoin-dominance-over-circle-usdc-major-crypto-hacks"/>
+        <updated>2026-04-21T18:34:42.000Z</updated>
+        <summary type="html"><![CDATA[Tether's USDT market cap hit an all-time high, with DeFi users appearing to favor the stablecoin over USDC as a refuge from industry fallout.]]></summary>
+        <author>
+            <name>André Beganski</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mississippi Law School Requires AI Training as Courts Grapple With the Tech]]></title>
+        <id>https://decrypt.co/?p=365063</id>
+        <link href="https://decrypt.co/365063/mississippi-law-school-ai-training-courts"/>
+        <updated>2026-04-21T18:34:06.000Z</updated>
+        <summary type="html"><![CDATA[Mississippi College School of Law now mandates artificial intelligence education for first-year students as legal institutions adapt to both the risks and potential uses of the technology.]]></summary>
+        <author>
+            <name>Jason Nelson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This Frankenstein AI Merges Claude Opus, GLM and Qwen—And Outperforms Top Models]]></title>
+        <id>https://decrypt.co/?p=365033</id>
+        <link href="https://decrypt.co/365033/frankenstein-ai-claude-opus-glm-qwen-free"/>
+        <updated>2026-04-21T17:55:23.000Z</updated>
+        <summary type="html"><![CDATA[Kyle Hessling stacked two of Jackrong's Qwopus finetunes into a single frankenmerge'—and then had to heal it. The result outperforms some of the top models.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New York Sues Coinbase and Gemini Over Prediction Markets, Seeking Billions in Damages]]></title>
+        <id>https://decrypt.co/?p=365048</id>
+        <link href="https://decrypt.co/365048/new-york-sues-coinbase-gemini-prediction-market-offerings"/>
+        <updated>2026-04-21T17:36:45.000Z</updated>
+        <summary type="html"><![CDATA["Gemini and Coinbase’s so-called prediction markets are just illegal gambling operations," alleged New York AG Letitia James.]]></summary>
+        <author>
+            <name>Sander Lutz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dogecoin Foundation, MoonPay Team to Donate 1 Million DOGE to Dog Charity]]></title>
+        <id>https://decrypt.co/?p=365042</id>
+        <link href="https://decrypt.co/365042/dogecoin-foundation-moonpay-donate-1-million-doge-dog-charity"/>
+        <updated>2026-04-21T17:20:03.000Z</updated>
+        <summary type="html"><![CDATA[Crypto payments firm MoonPay enabled contributions to dog welfare programs, marking a practical use case for Dogecoin.]]></summary>
+        <author>
+            <name>Decrypt Agent</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quantum Computers Could Boost AI by Processing Large Datasets More Efficiently]]></title>
+        <id>https://decrypt.co/?p=365030</id>
+        <link href="https://decrypt.co/365030/quantum-computers-boost-ai-large-datasets"/>
+        <updated>2026-04-21T17:18:44.000Z</updated>
+        <summary type="html"><![CDATA[In a new study, researchers describe a method that feeds data into quantum computers in smaller batches instead of storing entire datasets.]]></summary>
+        <author>
+            <name>Jason Nelson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Will Invest Up to $25 Billion More in Anthropic as AI Demand Surges]]></title>
+        <id>https://decrypt.co/?p=365034</id>
+        <link href="https://decrypt.co/365034/amazon-invest-25-billion-anthropic-ai-demand-surges"/>
+        <updated>2026-04-21T16:21:45.000Z</updated>
+        <summary type="html"><![CDATA[Amazon secures Anthropic as a major cloud customer through 2036 in one of the largest AI infrastructure alliances to date.]]></summary>
+        <author>
+            <name>Decrypt Agent</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DoorDash to Pay Delivery Workers in Stablecoins via Stripe's Tempo Blockchain]]></title>
+        <id>https://decrypt.co/?p=365028</id>
+        <link href="https://decrypt.co/365028/doordash-pay-delivery-workers-tablecoins-stripe-tempo-blockchain"/>
+        <updated>2026-04-21T15:54:35.000Z</updated>
+        <summary type="html"><![CDATA[Delivery firm DoorDash will use Stripe's payments-focused blockchain, Tempo, to pay its Dashers in stablecoins in more than 40 countries.]]></summary>
+        <author>
+            <name>Logan Hitchcock</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Block’s Cash App Launches Accounts for Young Kids—Without Bitcoin Access]]></title>
+        <id>https://decrypt.co/?p=365024</id>
+        <link href="https://decrypt.co/365024/block-cash-app-accounts-young-kids-without-bitcoin-access"/>
+        <updated>2026-04-21T14:03:40.000Z</updated>
+        <summary type="html"><![CDATA[Cash App joins the youth banking race with high-yield savings, but the managed kid accounts can’t tap into the app’s Bitcoin features.]]></summary>
+        <author>
+            <name>Decrypt Agent</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Optimism Bills 'Privacy Boost' as Turning Point for Enterprises on Ethereum]]></title>
+        <id>https://decrypt.co/?p=363495</id>
+        <link href="https://decrypt.co/363495/optimism-bills-privacy-boost-turning-point-enterprises-ethereum"/>
+        <updated>2026-04-21T14:01:03.000Z</updated>
+        <summary type="html"><![CDATA[The layer-2 Ethereum scaling network’s privacy offering is expected to expand to additional blockchains.]]></summary>
+        <author>
+            <name>André Beganski</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bank of Korea's New Governor Prioritizes CBDCs Over Stablecoins in First Policy Address]]></title>
+        <id>https://decrypt.co/?p=365016</id>
+        <link href="https://decrypt.co/365016/bank-of-koreas-new-governor-prioritizes-cbdcs-over-stablecoins-in-first-policy-address"/>
+        <updated>2026-04-21T13:02:10.000Z</updated>
+        <summary type="html"><![CDATA[The central bank chief outlined digital finance priorities while legislative debates continue over private stablecoin frameworks.]]></summary>
+        <author>
+            <name>Decrypt Agent</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Iran Scammers Demand Bitcoin, USDT for Transit Through Strait of Hormuz: Report]]></title>
+        <id>https://decrypt.co/?p=365010</id>
+        <link href="https://decrypt.co/365010/iran-scammers-demand-bitcoin-usdt-for-transit-through-strait-of-hormuz-report"/>
+        <updated>2026-04-21T12:37:42.000Z</updated>
+        <summary type="html"><![CDATA[Fake crypto clearance demands are targeting ships stranded at Hormuz as the Iran conflict enters its third month.]]></summary>
+        <author>
+            <name>Vince Dioquino</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Morning Minute: Saylor's $2.54B Buy Buoys Bitcoin]]></title>
+        <id>https://decrypt.co/?p=365006</id>
+        <link href="https://decrypt.co/365006/morning-minute-saylors-2-54b-buy-buoys-bitcoin"/>
+        <updated>2026-04-21T11:51:42.000Z</updated>
+        <summary type="html"><![CDATA[Michael Saylor and Tom Lee continued to buy BTC and ETH in big size, while Aave published its incident report from the KelpDAO exploit.]]></summary>
+        <author>
+            <name>Tyler Warner</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Grandson of Mob Boss John Gotti Sentenced for Funneling Stolen COVID Funds Into Crypto]]></title>
+        <id>https://decrypt.co/?p=365004</id>
+        <link href="https://decrypt.co/365004/grandson-of-mob-boss-john-gotti-sentenced-for-funneling-stolen-covid-funds-into-crypto"/>
+        <updated>2026-04-21T11:28:41.000Z</updated>
+        <summary type="html"><![CDATA[The grandson of Gambino crime boss John Gotti pleaded guilty to wire fraud after funneling $420K in stolen pandemic relief funds into crypto.]]></summary>
+        <author>
+            <name>Vismaya V</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Resistance at $78K and $83K Could Cap Rally: Schwab]]></title>
+        <id>https://decrypt.co/?p=365001</id>
+        <link href="https://decrypt.co/365001/bitcoin-resistance-at-78k-and-83k-could-cap-rally-schwab"/>
+        <updated>2026-04-21T11:00:29.000Z</updated>
+        <summary type="html"><![CDATA[The Schwab Center for Financial Research warned that Bitcoin faces key resistance between $78,000 and $83,000 investor cost basis levels.]]></summary>
         <author>
             <name>Akash Girimath</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DOJ Opens $40M Compensation Process for OneCoin Crypto Fraud Victims]]></title>
-        <id>https://decrypt.co/?p=364283</id>
-        <link href="https://decrypt.co/364283/doj-opens-40m-compensation-process-for-onecoin-crypto-fraud-victims"/>
-        <updated>2026-04-14T09:32:21.000Z</updated>
-        <summary type="html"><![CDATA[Victims of the $4 billion OneCoin scam can petition for the opportunity to recover funds from over $40 million in forfeited assets.]]></summary>
+        <title type="html"><![CDATA[Arbitrum Security Council Freezes $71.5M in Ethereum Linked to $292M KelpDAO Exploit]]></title>
+        <id>https://decrypt.co/?p=364981</id>
+        <link href="https://decrypt.co/364981/arbitrum-security-council-freezes-71-5m-in-ethereum-linked-to-292m-kelpdao-exploit"/>
+        <updated>2026-04-21T09:55:42.000Z</updated>
+        <summary type="html"><![CDATA[Arbitrum's emergency response to the KelpDAO exploit has sparked praise and criticism over the network's ability to freeze stolen assets.]]></summary>
         <author>
             <name>Decrypt Agent</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Crypto.com Reveals $1 Million in CRO Fighter Bonuses for White House UFC Fight]]></title>
-        <id>https://decrypt.co/?p=364214</id>
-        <link href="https://decrypt.co/364214/crypto-com-1-million-cro-fighter-bonuses-white-house-ufc-fight"/>
-        <updated>2026-04-13T21:31:02.000Z</updated>
-        <summary type="html"><![CDATA[The crypto exchange will distribute a record $1 million Cronos (CRO) fighter bonus pool at the upcoming UFC fight at the White House.]]></summary>
+        <title type="html"><![CDATA[Playdate Gaming Handheld Maker Bans Generative AI Tools for Development]]></title>
+        <id>https://decrypt.co/?p=364960</id>
+        <link href="https://decrypt.co/364960/playdate-gaming-handheld-maker-bans-generative-ai-tools"/>
+        <updated>2026-04-20T21:41:59.000Z</updated>
+        <summary type="html"><![CDATA[Panic, the firm behind the Playdate handheld, now prohibits creative AI applications while preserving developer productivity aids.]]></summary>
         <author>
             <name>Decrypt Agent</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Japan's Tech Titans Just Teamed Up to Build a Trillion-Parameter AI—And It's Not Here to Chat]]></title>
-        <id>https://decrypt.co/?p=364241</id>
-        <link href="https://decrypt.co/364241/japan-physical-ai-trillion-parameter-softbank-nec-honda-sony"/>
-        <updated>2026-04-13T21:01:03.000Z</updated>
-        <summary type="html"><![CDATA[SoftBank, Sony, Honda, and NEC have formed a new company to build physical AI for robots and machines, backed by $6.7 billion in government funding.]]></summary>
+        <title type="html"><![CDATA[Lose Your Job to AI? New York Lawmaker Proposes 'AI Dividend' Stimmy]]></title>
+        <id>https://decrypt.co/?p=364947</id>
+        <link href="https://decrypt.co/364947/lose-job-ai-new-york-lawmaker-proposes-ai-dividend-stimmy"/>
+        <updated>2026-04-20T21:30:31.000Z</updated>
+        <summary type="html"><![CDATA[Congressional candidate Alex Bores outlined a policy that would trigger payments to Americans if surging AI use reduces employment.]]></summary>
+        <author>
+            <name>Jason Nelson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alibaba Drops Qwen 3.6 Max Preview—Its Most Powerful Model Yet]]></title>
+        <id>https://decrypt.co/?p=364948</id>
+        <link href="https://decrypt.co/364948/alibaba-qwen-3-6-max-preview-most-powerful-model"/>
+        <updated>2026-04-20T21:24:53.000Z</updated>
+        <summary type="html"><![CDATA[Alibaba released Qwen3.6-Max-Preview, its most powerful AI model yet, topping six major coding benchmarks and posting gains in world knowledge and instruction following over its predecessor.]]></summary>
         <author>
             <name>Jose Antonio Lanz</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA['Dramatic Change': Starknet Creator Reveals Layoffs Amid Revenue-Focused Pivot]]></title>
-        <id>https://decrypt.co/?p=364219</id>
-        <link href="https://decrypt.co/364219/dramatic-change-starknet-creator-layoffs-revenue-focused-pivot"/>
-        <updated>2026-04-13T20:48:48.000Z</updated>
-        <summary type="html"><![CDATA[StarkWare co-founder and CEO Eli Ben-Sasson said the firm building on Ethereum slashed its headcount in a move to prioritize revenue.]]></summary>
-        <author>
-            <name>André Beganski</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MiniMax Drops State-of-the-Art AI Agent Model—Then Quietly Changes the License]]></title>
-        <id>https://decrypt.co/?p=364225</id>
-        <link href="https://decrypt.co/364225/minimax-m27-agent-model-license-change"/>
-        <updated>2026-04-13T20:24:48.000Z</updated>
-        <summary type="html"><![CDATA[MiniMax M2.7 rivals Claude Opus on key coding benchmarks, but the Chinese AI lab updated commercial terms shortly after releasing the weights on Hugging Face.]]></summary>
-        <author>
-            <name>Jose Antonio Lanz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Pro-DeFi Policies Show the SEC Isn't Waiting for Congress to Act on Crypto]]></title>
-        <id>https://decrypt.co/?p=364215</id>
-        <link href="https://decrypt.co/364215/new-pro-defi-policies-show-sec-isnt-waiting-congress-act-crypto"/>
-        <updated>2026-04-13T20:18:44.000Z</updated>
-        <summary type="html"><![CDATA[The SEC released a new, permissive policy on DeFi interfaces Monday that was immediately celebrated by crypto industry leaders.]]></summary>
-        <author>
-            <name>Sander Lutz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Polymarket Trader Turns $500 Into $252K After UFC Makes Yet Another Scoring Error]]></title>
-        <id>https://decrypt.co/?p=364143</id>
-        <link href="https://decrypt.co/364143/polymarket-trader-turns-500-250k-ufc-scoring-error"/>
-        <updated>2026-04-13T18:19:49.000Z</updated>
-        <summary type="html"><![CDATA[A Polymarket trader walked away with $252,000 in profits after taking advantage of the UFC’s latest “scoring error.”]]></summary>
-        <author>
-            <name>André Beganski</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['We Will Not Pay These Criminals': Crypto Exchange Kraken Is Being Extorted Over Stolen Data]]></title>
-        <id>https://decrypt.co/?p=364158</id>
-        <link href="https://decrypt.co/364158/will-not-pay-criminals-crypto-exchange-kraken-extorted"/>
-        <updated>2026-04-13T18:05:22.000Z</updated>
-        <summary type="html"><![CDATA[Crypto exchange Kraken says it's being extorted over stolen customer data, but won't yield to the criminals or negotiate.]]></summary>
+        <title type="html"><![CDATA[UK Gas Firm Faces Pushback Over Plans to Mine Bitcoin]]></title>
+        <id>https://decrypt.co/?p=364944</id>
+        <link href="https://decrypt.co/364944/uk-gas-firm-faces-pushback-plans-mine-bitcoin"/>
+        <updated>2026-04-20T20:16:57.000Z</updated>
+        <summary type="html"><![CDATA[Reabold Resources faced criticism for plans to use a gas field to mine Bitcoin, but said serving U.K. energy demand remains its main focus.]]></summary>
         <author>
             <name>Logan Hitchcock</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Anthropic Claude Mythos: Serious Threat or Overhyped? AI Security Institute Weighs In]]></title>
-        <id>https://decrypt.co/?p=364141</id>
-        <link href="https://decrypt.co/364141/anthropic-claude-mythos-serious-threat-overhyped-ai-security-institute"/>
-        <updated>2026-04-13T17:45:50.000Z</updated>
-        <summary type="html"><![CDATA[Claude Mythos could be a potentially massive cybersecurity threat, according to early testing from the UK’s AI Safety Institute.]]></summary>
+        <title type="html"><![CDATA[Palantir Faces Backlash Over AI-Driven Military Doctrine]]></title>
+        <id>https://decrypt.co/?p=364935</id>
+        <link href="https://decrypt.co/364935/palantir-backlash-ai-driven-military-doctrine"/>
+        <updated>2026-04-20T18:43:10.000Z</updated>
+        <summary type="html"><![CDATA[A weekend post summarizing ideas from CEO Alex Karp’s 2025 book reignites debate over Silicon Valley’s role in warfare and national defense.]]></summary>
+        <author>
+            <name>Jason Nelson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prediction Markets Expect Prolonged Strait of Hormuz Disruption—And Oil Traders Are Betting Big]]></title>
+        <id>https://decrypt.co/?p=364914</id>
+        <link href="https://decrypt.co/364914/prediction-markets-strait-of-hormuz-oil-traders"/>
+        <updated>2026-04-20T18:30:41.000Z</updated>
+        <summary type="html"><![CDATA[Prediction markets suggest Strait of Hormuz traffic will not return to normal any time soon, and oil traders expect higher prices.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nearly Half of New Streaming Music Is AI-Generated, Says Deezer—But Nobody’s Listening]]></title>
+        <id>https://decrypt.co/?p=364937</id>
+        <link href="https://decrypt.co/364937/nearly-half-streaming-music-ai-generated-deezer-nobodys-listening"/>
+        <updated>2026-04-20T18:23:33.000Z</updated>
+        <summary type="html"><![CDATA[French streaming service Deezer says AI-generated music now accounts for nearly half of new uploads—but actual listening remains minimal.]]></summary>
         <author>
             <name>Decrypt Agent</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Forget the Dead-Eyed Cartoon—Meta Is Building a Photorealistic AI Clone of Zuckerberg]]></title>
-        <id>https://decrypt.co/?p=364142</id>
-        <link href="https://decrypt.co/364142/meta-photorealistic-ai-clone-zuckerberg"/>
-        <updated>2026-04-13T17:41:24.000Z</updated>
-        <summary type="html"><![CDATA[Three years after his Horizon Worlds avatar became a global meme, Zuckerberg is back at the avatar game, this time with a realistic AI clone.]]></summary>
+        <title type="html"><![CDATA[RaveDAO Token Crashes, Sheds $6.6 Billion in Value as Exchanges Probe Alleged Manipulation]]></title>
+        <id>https://decrypt.co/?p=364911</id>
+        <link href="https://decrypt.co/364911/ravedao-token-crashes-sheds-6-6-billion-exchanges-probe-alleged-manipulation"/>
+        <updated>2026-04-20T18:01:03.000Z</updated>
+        <summary type="html"><![CDATA[RaveDAO's token cratered this weekend after blockchain sleuth ZachXBT called on exchanges to investigate trading tied to its surging token.]]></summary>
+        <author>
+            <name>André Beganski</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NSA Is Using Anthropic's Powerful Claude Mythos AI as CEO Meets With White House: Report]]></title>
+        <id>https://decrypt.co/?p=364894</id>
+        <link href="https://decrypt.co/364894/nsa-anthropic-mythos-ai-white-house-pentagon-supply-chain-risk"/>
+        <updated>2026-04-20T16:57:47.000Z</updated>
+        <summary type="html"><![CDATA[The NSA is reportedly running Anthropic's Claude Mythos Preview on classified networks, even as the Pentagon fights the AI giant in court.]]></summary>
         <author>
             <name>Jose Antonio Lanz</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Surging Bitcoin, Ethereum ETF Investments Drive Crypto Funds to Best Week Since January]]></title>
-        <id>https://decrypt.co/?p=364130</id>
-        <link href="https://decrypt.co/364130/surging-bitcoin-ethereum-etf-investments-crypto-funds-best-week-since-january"/>
-        <updated>2026-04-13T17:00:15.000Z</updated>
-        <summary type="html"><![CDATA[Institutional crypto investors posted their strongest weekly inflows since January, with Bitcoin and Ethereum demand rising as XRP investments cool.]]></summary>
+        <title type="html"><![CDATA[Crypto Funds Add $1.4B as Bitcoin Clears Two-Month Range]]></title>
+        <id>https://decrypt.co/?p=364907</id>
+        <link href="https://decrypt.co/364907/crypto-funds-add-1-4b-as-bitcoin-clears-two-month-range"/>
+        <updated>2026-04-20T16:41:30.000Z</updated>
+        <summary type="html"><![CDATA[Bitcoin investment products accounted for $1.12 billion in inflows last week, as BTC hit its highest level since early February.]]></summary>
+        <author>
+            <name>Akash Girimath</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Polymarket in Talks to Raise $400M at $15B Valuation: Report]]></title>
+        <id>https://decrypt.co/?p=364899</id>
+        <link href="https://decrypt.co/364899/polymarket-in-talks-to-raise-400m-at-15b-valuation-report"/>
+        <updated>2026-04-20T16:09:54.000Z</updated>
+        <summary type="html"><![CDATA[The round comes on the heels of NYSE parent company Intercontinental Exchange’s $2 billion investment in the prediction market firm.]]></summary>
         <author>
             <name>Decrypt Agent</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Justin Sun Bashes Trump Family's World Liberty, Claims Investors Used as 'Personal ATM']]></title>
-        <id>https://decrypt.co/?p=364137</id>
-        <link href="https://decrypt.co/364137/justin-sun-bashes-trump-world-liberty-financial-investors-personal-atm"/>
-        <updated>2026-04-13T16:51:10.000Z</updated>
-        <summary type="html"><![CDATA[Tron founder Justin Sun, a major investor in the Trump-backed World Liberty Financial, lashed out at the company over the weekend.]]></summary>
-        <author>
-            <name>Sander Lutz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Hacker Mints $1.1 Billion in Polkadot via Ethereum Bridge, But Can Only Cash Out $237K]]></title>
-        <id>https://decrypt.co/?p=364131</id>
-        <link href="https://decrypt.co/364131/crypto-hacker-mints-billion-polkadot-ethereum-bridge-cashes-out-237k"/>
-        <updated>2026-04-13T16:09:57.000Z</updated>
-        <summary type="html"><![CDATA[A hacker exploited a Polkadot bridge, minting $1.1 billion worth of DOT tokens before making a tiny fraction of that tally by selling it.]]></summary>
-        <author>
-            <name>Logan Hitchcock</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Foundry Launches Zcash Mining Pool Alongside Industry-Leading Bitcoin Pool]]></title>
-        <id>https://decrypt.co/?p=364124</id>
-        <link href="https://decrypt.co/364124/foundry-launches-zcash-mining-pool-bitcoin"/>
-        <updated>2026-04-13T15:21:38.000Z</updated>
-        <summary type="html"><![CDATA[The world's largest Bitcoin mining pool operator expands into the privacy-focused Zcash token with rapid network adoption.]]></summary>
+        <title type="html"><![CDATA[The Quantum Threat Is Coming for Bitcoin and Crypto—Here's How XRP Ledger Is Preparing]]></title>
+        <id>https://decrypt.co/?p=364897</id>
+        <link href="https://decrypt.co/364897/quantum-threat-bitcoin-crypto-how-xrp-ledger-preparing"/>
+        <updated>2026-04-20T16:06:48.000Z</updated>
+        <summary type="html"><![CDATA[Quantum computers could threaten Bitcoin, Ethereum, and other major networks. Here’s how Ripple plans to secure the XRP Ledger.]]></summary>
         <author>
             <name>Decrypt Agent</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tom Lee’s BitMine Makes Biggest Ethereum Buy Since December]]></title>
-        <id>https://decrypt.co/?p=364119</id>
-        <link href="https://decrypt.co/364119/tom-lees-bitmine-biggest-ethereum-buy-since-december"/>
-        <updated>2026-04-13T14:32:36.000Z</updated>
-        <summary type="html"><![CDATA[BitMine Immersion Technologies' Ethereum treasury gained another $157 million of ETH last week, its biggest acquisition since December.]]></summary>
+        <title type="html"><![CDATA[Ocean Network Builds ‘Airbnb for Compute’ Network Using Idle GPUs]]></title>
+        <id>https://decrypt.co/?p=364596</id>
+        <link href="https://decrypt.co/364596/ocean-network-builds-airbnb-for-compute-network-using-idle-gpus"/>
+        <updated>2026-04-20T16:01:04.000Z</updated>
+        <summary type="html"><![CDATA[Amid the ongoing GPU shortage, Ocean Network is looking to connect the world’s massive amounts of idle computing power with those who need it.]]></summary>
         <author>
-            <name>Logan Hitchcock</name>
+            <name>Decrypt Staff</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Morning Minute: Relentless Sellers, War Volatility Keep Bitcoin Down]]></title>
-        <id>https://decrypt.co/?p=364107</id>
-        <link href="https://decrypt.co/364107/morning-minute-relentless-sellers-war-volatility-keep-bitcoin-down"/>
-        <updated>2026-04-13T14:05:31.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin fell over the weekend as Iran negotiations failed and sell pressure persists, while Morgan Stanley signaled growing crypto ambitions.]]></summary>
-        <author>
-            <name>Tyler Warner</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Strategy's Bitcoin Stockpile Nears BlackRock's ETF Holdings After $1 Billion BTC Buy]]></title>
-        <id>https://decrypt.co/?p=364114</id>
-        <link href="https://decrypt.co/364114/strategy-bitcoin-stockpile-nears-blackrocks-etf-holdings-1-billion-buy"/>
-        <updated>2026-04-13T13:42:41.000Z</updated>
-        <summary type="html"><![CDATA[Following its latest Bitcoin purchase, Strategy only needs 9,000 BTC at present to surpass BlackRock’s industry-leading investment vehicle.]]></summary>
-        <author>
-            <name>André Beganski</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Want Claude Opus AI on Your Potato PC? This Is Your Next-Best Bet]]></title>
-        <id>https://decrypt.co/?p=364047</id>
-        <link href="https://decrypt.co/364047/want-claude-opus-ai-potato-pc-next-best-bet"/>
-        <updated>2026-04-12T17:13:01.000Z</updated>
-        <summary type="html"><![CDATA[A developer distilled Claude Opus 4.6's reasoning into a local Qwen model anyone can run. The result is Qwopus—and it's surprisingly close to the real thing.]]></summary>
-        <author>
-            <name>Jose Antonio Lanz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[There’s a Way to Make Bitcoin Safe From Quantum Without a Fork, Researchers Say]]></title>
-        <id>https://decrypt.co/?p=364092</id>
-        <link href="https://decrypt.co/364092/quantum-safe-bitcoin-transactions-without-fork"/>
-        <updated>2026-04-12T13:01:03.000Z</updated>
-        <summary type="html"><![CDATA[A new proposal suggests Bitcoin users could defend against future quantum attacks using a transaction design that works within the network’s existing rules.]]></summary>
-        <author>
-            <name>Jason Nelson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['Not Going to Stop at Bitcoin': Morgan Stanley Weighs Tokenization, Tax Solutions in Crypto Push]]></title>
-        <id>https://decrypt.co/?p=364030</id>
-        <link href="https://decrypt.co/364030/not-going-stop-bitcoin-morgan-stanley-weighs-tokenization-tax-solutions"/>
-        <updated>2026-04-11T16:33:12.000Z</updated>
-        <summary type="html"><![CDATA[Morgan Stanley’s Amy Oldenburg signaled that the Wall Street giant’s crypto journey has a long way to go.]]></summary>
-        <author>
-            <name>André Beganski</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Tools Aim to Make AI 'Vibe Coding' Safer for Crypto]]></title>
-        <id>https://decrypt.co/?p=364080</id>
-        <link href="https://decrypt.co/364080/asi-alliance-matterhorn-ai-tools-vibe-coding-crypto"/>
-        <updated>2026-04-11T15:01:02.000Z</updated>
-        <summary type="html"><![CDATA[A new initiative by Matterhorn and the ASI Alliance adds auditing tools and safety checks for AI-generated smart contracts.]]></summary>
-        <author>
-            <name>Jason Nelson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Economists Said AI Wouldn’t Take Jobs—Some Now Admit They Got It Wrong]]></title>
-        <id>https://decrypt.co/?p=364008</id>
-        <link href="https://decrypt.co/364008/economists-ai-wouldnt-take-jobs-admit-wrong"/>
-        <updated>2026-04-11T13:01:03.000Z</updated>
-        <summary type="html"><![CDATA[A new multi-university study surveyed 69 economists, 52 AI experts, and 38 superforecasters. All three groups agree: faster AI means fewer jobs.]]></summary>
-        <author>
-            <name>Jose Antonio Lanz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This 'Space Invaders' Clone Game Pays Real Bitcoin—If You're Skilled, Lucky or Rich]]></title>
-        <id>https://decrypt.co/?p=364036</id>
-        <link href="https://decrypt.co/364036/space-invaders-clone-game-pays-real-bitcoin-skilled-lucky-rich"/>
-        <updated>2026-04-10T20:52:57.000Z</updated>
-        <summary type="html"><![CDATA[A new free-to-play web game based on an arcade classic will give you the chance to earn real Bitcoin—but it won't be easy.]]></summary>
-        <author>
-            <name>Logan Hitchcock</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Suspect Arrested After Molotov Cocktail Thrown at Sam Altman’s San Francisco Home]]></title>
-        <id>https://decrypt.co/?p=364007</id>
-        <link href="https://decrypt.co/364007/suspect-arrested-molotov-cocktail-sam-altman-san-francisco"/>
-        <updated>2026-04-10T18:44:54.000Z</updated>
-        <summary type="html"><![CDATA[Police say a 20-year-old man also threatened to burn down OpenAI’s headquarters shortly after the incident.]]></summary>
-        <author>
-            <name>Jason Nelson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gen Z Thinks AI Is Rotting Their Brains, But Can't Stop Using It: Survey]]></title>
-        <id>https://decrypt.co/?p=363976</id>
-        <link href="https://decrypt.co/363976/gen-z-ai-rotting-brains-survey"/>
-        <updated>2026-04-10T17:57:21.000Z</updated>
-        <summary type="html"><![CDATA[AI usage among Gen Z is up, but excitement over the technology is way down—so are feelings of “hopefulness.”]]></summary>
-        <author>
-            <name>Jose Antonio Lanz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Elon Musk's SpaceX Is Nearing Its $1.75 Trillion IPO—Bitget Is Offering Pre-IPO Exposure]]></title>
-        <id>https://decrypt.co/?p=363950</id>
-        <link href="https://decrypt.co/363950/elon-musk-spacex-nearing-1-75-trillion-ipo-bitget-pre-ipo-exposure"/>
-        <updated>2026-04-10T17:36:35.000Z</updated>
-        <summary type="html"><![CDATA[Bitget's new IPO Prime platform debuts with a Republic-issued token offering exposure to SpaceX's eventual public market performance.]]></summary>
+        <title type="html"><![CDATA[Coinbase Now Lets UK Users Borrow Against Their Bitcoin and Ethereum]]></title>
+        <id>https://decrypt.co/?p=364890</id>
+        <link href="https://decrypt.co/364890/coinbase-now-lets-uk-users-borrow-against-their-bitcoin-and-ethereum"/>
+        <updated>2026-04-20T15:29:41.000Z</updated>
+        <summary type="html"><![CDATA[After launching crypto-backed loans in the U.S. last year, Coinbase has expanded the Bitcoin, Ethereum offering to U.K. users.]]></summary>
         <author>
             <name>Decrypt Agent</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The CIA Let AI Write Its First Intelligence Report—And AI 'Coworkers' Are Up Next]]></title>
-        <id>https://decrypt.co/?p=363940</id>
-        <link href="https://decrypt.co/363940/cia-autonomous-ai-intelligence-report-coworkers"/>
-        <updated>2026-04-10T17:14:19.000Z</updated>
-        <summary type="html"><![CDATA[CIA leadership confirmed the agency used AI to generate its first-ever autonomous intelligence report—and expect to use full AI agent teams.]]></summary>
-        <author>
-            <name>Jose Antonio Lanz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Elon Musk’s xAI Sues Colorado Over AI Law as Fight Over State Regulation Intensifies]]></title>
-        <id>https://decrypt.co/?p=363951</id>
-        <link href="https://decrypt.co/363951/elon-musk-xai-colorado-ai-law"/>
-        <updated>2026-04-10T16:57:23.000Z</updated>
-        <summary type="html"><![CDATA[Elon Musk’s AI company xAI is challenging Colorado’s new high-risk AI law, adding to mounting legal scrutiny around its Grok chatbot.]]></summary>
-        <author>
-            <name>Jason Nelson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zcash Could Rise to $420 After 62% Weekly Price Spike, Traders Predict]]></title>
-        <id>https://decrypt.co/?p=363946</id>
-        <link href="https://decrypt.co/363946/zcash-could-rise-420-after-62-weekly-price-spike-traders-predict"/>
-        <updated>2026-04-10T16:34:49.000Z</updated>
-        <summary type="html"><![CDATA[Privacy-focused coin Zcash is soaring higher than Bitcoin. Myriad predictors think ZEC is likely to keep rising after a massive gain.]]></summary>
+        <title type="html"><![CDATA[Tom Lee's BitMine Nears Major Milestone With Largest Ethereum Buy This Year]]></title>
+        <id>https://decrypt.co/?p=364887</id>
+        <link href="https://decrypt.co/364887/tom-lee-bitmine-nears-milestone-largest-ethereum-buy-this-year"/>
+        <updated>2026-04-20T14:45:33.000Z</updated>
+        <summary type="html"><![CDATA[BitMine Immersion Technologies bought $235 million worth of Ethereum last week, bring its total holdings to nearly 5 million ETH.]]></summary>
         <author>
             <name>Logan Hitchcock</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Exodus Rolls Out 'Exodus Pay' to Turn Bitcoin Wallet Into Spending App]]></title>
-        <id>https://decrypt.co/?p=363947</id>
-        <link href="https://decrypt.co/363947/exodus-pay-bitcoin-wallet-spending-app"/>
-        <updated>2026-04-10T16:33:33.000Z</updated>
-        <summary type="html"><![CDATA[The feature lets users spend crypto directly from a self-custodial wallet.]]></summary>
-        <author>
-            <name>Jason Nelson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Powell, Bessent Warn Banks About Security Risks From Anthropic's Mythos AI: Bloomberg]]></title>
-        <id>https://decrypt.co/?p=363927</id>
-        <link href="https://decrypt.co/363927/powell-bessent-warn-banks-security-anthropic-mythos-ai"/>
-        <updated>2026-04-10T15:45:18.000Z</updated>
-        <summary type="html"><![CDATA[Treasury and Federal Reserve officials reportedly alerted banks to cybersecurity risks tied to Anthropic’s advanced new Mythos AI model.]]></summary>
-        <author>
-            <name>Jason Nelson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trump-Linked WLFI Erases $427 Million From Market Cap on DeFi Loan, Token Unlock Proposal]]></title>
-        <id>https://decrypt.co/?p=363928</id>
-        <link href="https://decrypt.co/363928/trump-linked-wlfi-erases-427-million-token-unlock-proposal-defi-loan"/>
-        <updated>2026-04-10T15:39:07.000Z</updated>
-        <summary type="html"><![CDATA[Onlookers expressed concerns that Dolomite’s protocol could be stuck with bad debt if World Liberty’s loans were unwound.]]></summary>
-        <author>
-            <name>André Beganski</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BitTensor AI Token Plunges as Top Builder Departs Over Decentralization Doubts]]></title>
-        <id>https://decrypt.co/?p=363926</id>
-        <link href="https://decrypt.co/363926/bittensor-token-plunges-builder-departs-decentralization-doubts"/>
-        <updated>2026-04-10T15:30:44.000Z</updated>
-        <summary type="html"><![CDATA[BitTensor's native token, TAO, has fallen more than 18% amid public fallout between a leading subnet operator and the AI network's founder.]]></summary>
-        <author>
-            <name>Logan Hitchcock</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Minute: Bitcoin Breaks $73K as Strategy's STRC Bid Grows]]></title>
-        <id>https://decrypt.co/?p=363923</id>
-        <link href="https://decrypt.co/363923/morning-minute-bitcoin-breaks-73k-strategy-strc-bid-grows"/>
-        <updated>2026-04-10T14:04:43.000Z</updated>
-        <summary type="html"><![CDATA[Strategy's STRC is buoying the Bitcoin bid, Galaxy stock is ripping, and Scott Bessent told the Senate to pass the Clarity Act—with Brian Armstrong chiming in.]]></summary>
-        <author>
-            <name>Tyler Warner</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['Operation Atlantic': US and UK Team With Firms to Trace, Freeze Millions in Stolen Crypto]]></title>
-        <id>https://decrypt.co/?p=363878</id>
-        <link href="https://decrypt.co/363878/operation-atlantic-us-uk-agencies-trace-freeze-millions-stolen-crypto"/>
-        <updated>2026-04-10T00:01:18.000Z</updated>
-        <summary type="html"><![CDATA[Crypto firms like Coinbase and Kraken teamed up with government agencies to trace and freeze millions in funds tied to crypto scams and fraud.]]></summary>
-        <author>
-            <name>Logan Hitchcock</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TD Cuts Bitcoin Giant Strategy's Price Target, Calls Ethereum Treasury Sharplink a ‘Buy’]]></title>
-        <id>https://decrypt.co/?p=363902</id>
-        <link href="https://decrypt.co/363902/td-cuts-bitcoin-giant-strategy-price-target-ethereum-treasury-sharplink-buy"/>
-        <updated>2026-04-09T22:09:21.000Z</updated>
-        <summary type="html"><![CDATA[TD Cowen remains positive on $55 billion Bitcoin treasury pioneer Strategy, despite trimming its price target yet again.]]></summary>
-        <author>
-            <name>André Beganski</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['AI Should Advance Mankind, Not Destroy It': Why Florida Is Taking Aim at OpenAI]]></title>
-        <id>https://decrypt.co/?p=363880</id>
-        <link href="https://decrypt.co/363880/ai-advance-mankind-not-destroy-why-florida-investigating-openai"/>
-        <updated>2026-04-09T21:57:09.000Z</updated>
-        <summary type="html"><![CDATA[The Florida attorney general's probe into AI giant OpenAI cites national security and child safety risks tied to ChatGPT.]]></summary>
-        <author>
-            <name>Jason Nelson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pepe May Follow Dogecoin to Wall Street—But ETF Investors Aren't Buying Meme Hype]]></title>
-        <id>https://decrypt.co/?p=363869</id>
-        <link href="https://decrypt.co/363869/pepe-follow-dogecoin-wall-street-etf-investors-arent-buying-meme-hype"/>
-        <updated>2026-04-09T21:19:39.000Z</updated>
-        <summary type="html"><![CDATA[There's now an application for a Pepe ETF, but Dogecoin funds have generated tepid inflows, according to CoinShares' James Butterfill]]></summary>
+        <title type="html"><![CDATA[Strategy Adds $2.5 Billion in Bitcoin as STRC Dividend Traders Drive Largest Buy Since 2024]]></title>
+        <id>https://decrypt.co/?p=364883</id>
+        <link href="https://decrypt.co/364883/strategy-2-5-billion-bitcoin-strc-dividend-traders-drive-largest-buy-2024"/>
+        <updated>2026-04-20T13:28:38.000Z</updated>
+        <summary type="html"><![CDATA[Strategy reported its largest purchase in over 16 months, scooping up $2.54 billion in Bitcoin last week alongside STRC’s ex-dividend date.]]></summary>
         <author>
             <name>André Beganski</name>
         </author>

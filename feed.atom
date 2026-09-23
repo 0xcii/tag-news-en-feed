@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-09-22T21:51:11.922Z</id>
+    <id>urn:2026-09-23T00:06:21.090Z</id>
     <title>web3::cave</title>
-    <updated>2026-09-22T21:51:11.922Z</updated>
+    <updated>2026-09-23T00:06:21.090Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[UN Security Council Will Get Advice on AI Risks From Tech Giants Building It]]></title>
+        <id>https://decrypt.co/?p=379008</id>
+        <link href="https://decrypt.co/379008/un-security-council-ai-risks-anthropic-openai-deepseek"/>
+        <updated>2026-09-22T22:16:03.000Z</updated>
+        <summary type="html"><![CDATA[DeepSeek will address the UN Security Council on AI risks this week, sharing a stage with Dario Amodei—who has spent a year calling China's government the industry's biggest threat.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[$161 Million in Decade-Old Bitcoin Has Moved in Just Two Weeks]]></title>
         <id>https://decrypt.co/?p=379006</id>
@@ -373,16 +383,6 @@
         <summary type="html"><![CDATA[The filing seeks CFTC approval for contracts giving US traders 24/5 leveraged exposure to individual stocks without ownership.]]></summary>
         <author>
             <name>Decrypt Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zcash Is Running—Devs Want to Make It Faster]]></title>
-        <id>https://decrypt.co/?p=378667</id>
-        <link href="https://decrypt.co/378667/zcash-upgrade-make-private-payments-3x-faster"/>
-        <updated>2026-09-18T19:16:03.000Z</updated>
-        <summary type="html"><![CDATA[A new upgrade would cut Zcash block time from 75 seconds to 25, while quietly rewriting how the network pays for its own security after 2031.]]></summary>
-        <author>
-            <name>Jose Antonio Lanz</name>
         </author>
     </entry>
 </feed>

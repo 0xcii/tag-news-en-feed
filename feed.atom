@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-14T19:13:00.567Z</id>
+    <id>urn:2026-10-14T23:01:24.068Z</id>
     <title>web3::cave</title>
-    <updated>2026-10-14T19:13:00.567Z</updated>
+    <updated>2026-10-14T23:01:24.068Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Godfather of AI and 400 Scientists Want AI Models Cut Off From the Internet]]></title>
+        <id>https://decrypt.co/?p=380998</id>
+        <link href="https://decrypt.co/380998/scientists-want-ai-cut-off-from-internet"/>
+        <updated>2026-10-14T21:46:04.000Z</updated>
+        <summary type="html"><![CDATA[After a summer of AI models escaping test environments and hacking real companies, hundreds of researchers say the internet itself should be treated as a security boundary.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Developer Who Cloned Photoshop With AI Just Did the Same to Microsoft Office]]></title>
+        <id>https://decrypt.co/?p=380991</id>
+        <link href="https://decrypt.co/380991/developer-cloned-photoshop-ai-just-did-same-microsoft-office"/>
+        <updated>2026-10-14T21:16:03.000Z</updated>
+        <summary type="html"><![CDATA[Developer Brandon Thomas used Anthropic's Claude to build free, open-source replicas of Word, Excel and PowerPoint. They're rough, but they show how cheap cloning software has become.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Agents Made 138 Million Crypto Payments in a Year. Most Were Tiny]]></title>
+        <id>https://decrypt.co/?p=380989</id>
+        <link href="https://decrypt.co/380989/ai-agents-138-million-crypto-payments-one-year"/>
+        <updated>2026-10-14T20:16:05.000Z</updated>
+        <summary type="html"><![CDATA[A new Chainalysis report found payments through Coinbase’s x402 protocol surged from about 1,500 in mid-2025 to more than 138 million by Q3 2026, with U.S. wallets dominating spending on AI models.]]></summary>
+        <author>
+            <name>Decrypt Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Russia's Biggest Bank Sberbank Wins Approval to Trade Bitcoin]]></title>
+        <id>https://decrypt.co/?p=380981</id>
+        <link href="https://decrypt.co/380981/sberbank-russia-bank-trade-crypto-bitcoin"/>
+        <updated>2026-10-14T19:46:03.000Z</updated>
+        <summary type="html"><![CDATA[Sberbank now holds both custody and exchange status under Russia's new crypto law, and plans to bring Bitcoin, Ethereum and USDT to apps used by 110 million retail clients.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solana Sets a Date for Its Next Major Upgrade]]></title>
+        <id>https://decrypt.co/?p=380974</id>
+        <link href="https://decrypt.co/380974/solana-alpenglow-upgrade-date"/>
+        <updated>2026-10-14T19:16:04.000Z</updated>
+        <summary type="html"><![CDATA[Solana's Alpenglow upgrade replaces the TowerBFT voting system on October 21, cutting finality from 12.8 seconds to a target of 150ms and pulling vote transactions out of blocks entirely.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Standard Chartered Opens Bitcoin and Ethereum Trading to Wealthy UAE Clients]]></title>
         <id>https://decrypt.co/?p=380967</id>
@@ -303,46 +353,6 @@
         <summary type="html"><![CDATA[The Crypto Fear and Greed Index has dropped to 56 from an August peak of 82, as oil, bond yields, and ETF outflows hit Bitcoin in October.]]></summary>
         <author>
             <name>Jose Antonio Lanz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ledger Says All Confirmed Cases in Suspected $87M Drain Tied to Reseller CryptoBilis]]></title>
-        <id>https://decrypt.co/?p=380706</id>
-        <link href="https://decrypt.co/380706/ledger-says-all-confirmed-cases-in-suspected-87m-drain-tied-to-reseller-cryptobilis"/>
-        <updated>2026-10-12T16:32:17.000Z</updated>
-        <summary type="html"><![CDATA[The wallet manufacturer said its own systems and direct sales are unaffected, and that the reseller has stopped selling hardware wallets.]]></summary>
-        <author>
-            <name>Decrypt Agent</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NEXTPredict Paid $12,000 to Hedge Its Conference on a Prediction Market]]></title>
-        <id>https://decrypt.co/?p=380484</id>
-        <link href="https://decrypt.co/380484/nextpredict-paid-12000-to-hedge-its-conference-on-a-prediction-market"/>
-        <updated>2026-10-12T16:01:04.000Z</updated>
-        <summary type="html"><![CDATA[Where event insurance deals with scrapped shows and what happens inside the venue, NEXTPredict is focusing on flight cancellations.]]></summary>
-        <author>
-            <name>Decrypt Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[XRP Ledger’s Payment Engine Had a Counterfeiting Bug Hiding Since 2015]]></title>
-        <id>https://decrypt.co/?p=380693</id>
-        <link href="https://decrypt.co/380693/xrp-ledger-payment-engine-counterfeiting-bug-hiding"/>
-        <updated>2026-10-12T15:56:35.000Z</updated>
-        <summary type="html"><![CDATA[An integer overflow in the payment engine, dormant since 2015, could have let an attacker mint spendable XRP beyond the token’s total supply.]]></summary>
-        <author>
-            <name>Decrypt Agent</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitmine Adds $32M in Ethereum as Tom Lee Says Firm Is Nearly 'Done Stacking']]></title>
-        <id>https://decrypt.co/?p=380685</id>
-        <link href="https://decrypt.co/380685/bitmine-adds-32m-in-ethereum-as-tom-lee-says-firm-is-nearly-done-stacking"/>
-        <updated>2026-10-12T13:33:28.000Z</updated>
-        <summary type="html"><![CDATA[The Ethereum treasury firm now holds 6.03 million ETH, 4.9% of supply, as Lee predicts the biggest crypto bull market yet.]]></summary>
-        <author>
-            <name>Decrypt Agent</name>
         </author>
     </entry>
 </feed>

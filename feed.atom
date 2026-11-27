@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-11-27T04:50:25.816Z</id>
+    <id>urn:2026-11-27T14:46:15.552Z</id>
     <title>web3::cave</title>
-    <updated>2026-11-27T04:50:25.816Z</updated>
+    <updated>2026-11-27T14:46:15.552Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What's on the Ethereum Roadmap: Glamsterdam, Hegotá and Beyond]]></title>
+        <id>https://decrypt.co/?p=362597</id>
+        <link href="https://decrypt.co/resources/whats-on-ethereum-roadmap-glamsterdam-hegota-beyond"/>
+        <updated>2026-11-27T13:50:04.000Z</updated>
+        <summary type="html"><![CDATA[Ethereum has rolled out a steady stream of upgrades since 2022. Here’s how those changes fit together—and what’s still ahead.]]></summary>
+        <author>
+            <name>Jason Nelson,Decrypt Agent</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Binance Fully Lifts Withdrawal Suspension Four Weeks After $6.4B Hack]]></title>
+        <id>https://decrypt.co/?p=384121</id>
+        <link href="https://decrypt.co/384121/binance-fully-lifts-withdrawal-suspension-four-weeks-after-6-4b-hack"/>
+        <updated>2026-11-27T13:24:17.000Z</updated>
+        <summary type="html"><![CDATA[Binance has restored all withdrawals after October's hack, as the U.S. says it has helped freeze, seize or return $2.9 billion of the funds.]]></summary>
+        <author>
+            <name>Decrypt Agent</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kalshi Courts Small Businesses With 'Microinsurance' as State Crackdowns Bite]]></title>
+        <id>https://decrypt.co/?p=384118</id>
+        <link href="https://decrypt.co/384118/kalshi-courts-small-businesses-with-microinsurance-as-state-crackdowns-bite"/>
+        <updated>2026-11-27T11:19:47.000Z</updated>
+        <summary type="html"><![CDATA[Kalshi says about 500 businesses have used it to hedge risks such as tariffs and bad weather, as legal fights weigh on its sports markets.]]></summary>
+        <author>
+            <name>Decrypt Agent</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ethereum Sets December 15 Date for Delayed Glamsterdam Testnet Upgrade]]></title>
+        <id>https://decrypt.co/?p=384104</id>
+        <link href="https://decrypt.co/384104/ethereum-sets-december-15-date-for-delayed-glamsterdam-testnet-upgrade"/>
+        <updated>2026-11-27T10:15:51.000Z</updated>
+        <summary type="html"><![CDATA[Core developers will ship Glamsterdam's contested gas changes unaltered, after security concerns halted the Hoodi fork in October.]]></summary>
+        <author>
+            <name>Decrypt Agent</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vibecoded GTA 6 PC Ports Are Now Rendering In-Game Graphics Despite Take-Two Crackdown]]></title>
         <id>https://decrypt.co/?p=384061</id>
@@ -303,56 +343,6 @@
         <summary type="html"><![CDATA[Anthropic’s new coding tools can review and repair software changes before approving them for release, leaving development teams to decide when a human still needs to check the AI’s work.]]></summary>
         <author>
             <name>Jose Antonio Lanz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coldcard Bitcoin Exploit, Revisited: How a Hidden Flaw Survived Years of Audits]]></title>
-        <id>https://decrypt.co/?p=383930</id>
-        <link href="https://decrypt.co/383930/coldcard-bitcoin-exploit-how-hidden-flaw-survived-years-audits"/>
-        <updated>2026-11-24T21:16:02.000Z</updated>
-        <summary type="html"><![CDATA[Coinkite’s postmortem reveals a software random-number generator shipped in place of the hardware one for over five years, slipping past at least 15 reviews.]]></summary>
-        <author>
-            <name>Decrypt Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ethereum Foundation Says AI Is a More Urgent Threat Than Quantum Computing]]></title>
-        <id>https://decrypt.co/?p=383927</id>
-        <link href="https://decrypt.co/383927/ethereum-foundation-ai-more-urgent-threat-quantum-computing"/>
-        <updated>2026-11-24T20:36:02.000Z</updated>
-        <summary type="html"><![CDATA[The Ethereum Foundation has doubled its protocol security team and is prioritizing a cryptographic overhaul as advances in AI threaten the mathematical assumptions that keep billions in crypto safe.]]></summary>
-        <author>
-            <name>Jose Antonio Lanz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Losses Are the Worst Since FTX. Is the Bottom Near?]]></title>
-        <id>https://decrypt.co/?p=383909</id>
-        <link href="https://decrypt.co/383909/bitcoin-losses-worst-since-ftx-is-bottom-near"/>
-        <updated>2026-11-24T19:35:32.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin slipped below $60,000 as realized losses nearly doubled in a week. Glassnode says the sell-off resembles past market bottoms, but another drop to $53,200 could be in the cards.]]></summary>
-        <author>
-            <name>Jose Antonio Lanz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What the CFTC’s New Crypto Reserves Guidance Actually Allows—And What It Doesn’t]]></title>
-        <id>https://decrypt.co/?p=383906</id>
-        <link href="https://decrypt.co/383906/cftc-new-crypto-reserves-guidance-actually-allows-what-it-doesnt"/>
-        <updated>2026-11-24T18:55:27.000Z</updated>
-        <summary type="html"><![CDATA[Staff guidance lets swap venues and clearinghouses count Bitcoin, Ethereum, and stablecoins toward their 12-month operating-cost buffer. Here's the catch.]]></summary>
-        <author>
-            <name>Decrypt Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[South Korea Moves to Lift Its ICO Ban After Nearly a Decade]]></title>
-        <id>https://decrypt.co/?p=383905</id>
-        <link href="https://decrypt.co/383905/south-korea-moves-lift-ico-ban-after-nearly-decade"/>
-        <updated>2026-11-24T18:36:03.000Z</updated>
-        <summary type="html"><![CDATA[The Financial Services Commission’s draft Digital Asset Act would let domestic projects sell tokens again under IPO-style disclosure rules, reversing a 2017 ban that mostly pushed Korean issuers offshore.]]></summary>
-        <author>
-            <name>Decrypt Staff</name>
         </author>
     </entry>
 </feed>
